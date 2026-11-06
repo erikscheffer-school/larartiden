@@ -329,13 +329,6 @@
   "luckor": "Hittade inte budget 2027, KF-beslutsdatum, BUN:s budgetunderlag eller remissvar. Sökkvoten (3 sökningar) är förbrukad. Kommunens mötesportal är inte granskad."
  },
  {
-  "kommun": "Piteå",
-  "id": "pitea",
-  "lan": "Norrbottens län",
-  "kf": null,
-  "luckor": "KF-protokollet 2026-06-18 (https://www.pitea.se/Bokhyllan/Protokoll - nämnder/Kommunfullmäktige/Protokoll/2025/Kommunfullmäktiges sammanträde 2026-06-18.pdf) gav ett klientfel vid hämtning, så det är okänt om budget 2027 beslutades där. Hittade inte strategisk plan/budget 2027 eller BUN:s underlag. Sökkvoten är förbrukad."
- },
- {
   "kommun": "Överkalix",
   "id": "overkalix",
   "lan": "Norrbottens län",
@@ -382,7 +375,7 @@
   "id": "kristianstad",
   "lan": "Skåne län",
   "kf": null,
-  "luckor": "Budget 2027 (troligen beslutad juni 2026 enligt kommunens normala tidplan, men ej bekräftat) hittades inte. Artikel på nkp.se om majoritetens förslag blockerad (robots). KF-protokoll juni 2026 och BUN-underlag ej hittade. Sökbudget slut."
+  "luckor": "Budget 2027 hittades inte. KF-protokollet 2026-06-09 (https://www.kristianstad.se/download/18.65d49cd319ed42bb2c41ae4/1781695104931/Kommunfullm%C3%A4ktiges%20protokoll%202026-06-09%20med%20normal%20justering.pdf) innehåller inget ärende om budget 2027, så beslutet ligger troligen hösten 2026 (KF sammanträder 2026-11-10). Kommunens KF-sida listar bara budget 2025 och 2026. BUN-underlag och styre efter valet har inte hittats."
  },
  {
   "kommun": "Kävlinge",
@@ -936,13 +929,6 @@
   "lan": "Västra Götalands län",
   "kf": null,
   "luckor": "Vårbudget 2027 (KF juni 2026) och budget 2027–2029 (KF november 2026) hittades inte i sökningarna. Kommunens budgetsida och protokollsida från 2026 nåddes inte. Tre sökningar är gjorda."
- },
- {
-  "kommun": "Härryda",
-  "id": "harryda",
-  "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Inga handlingar för budget 2027 hittades, varken förslag från rödgröna eller Alliansen, KF-beslut eller underlag från UKF-nämnden. Härryda brukar besluta budgeten i juni, så budget 2027 är troligen beslutad i juni 2026, men det är inte verifierat. Tre sökningar är gjorda."
  },
  {
   "kommun": "Karlsborg",

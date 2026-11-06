@@ -85,7 +85,7 @@
  },
  "vetlanda": {
   "s": 4,
-  "sum": "KS föreslog 2026-06-03 (§ 114) att KF antar Mål och budget 2027–2029 enligt majoritetsförslaget (M, VF, SD m.fl.). Protokollet nämner inte undervisningstid, lärares arbetstid eller statsbidrag för skolan. Efter valet har S, M och C majoritet i KF, och nämndernas detaljbudget 2027 ska redovisas för KF i december 2026.",
+  "sum": "KS föreslog 2026-06-03 (§ 114) att KF antar Mål och budget 2027–2029 enligt majoritetsförslaget, som M, VF och SD stod bakom. Protokollet nämner inte undervisningstid, lärares arbetstid eller statsbidrag för skolan. Efter valet har S, M och C majoritet i KF, och nämndernas detaljbudget 2027 ska redovisas för KF i december 2026.",
   "m": null,
   "mk": null,
   "sb": null,
@@ -197,6 +197,81 @@
     "nr": false,
     "c": null,
     "u": "https://www.markaryd.se/download/18.662e217d19ea57e366c52c91/1781519407559/Protokoll%20UKN%202026-06-10.pdf"
+   }
+  ]
+ },
+ "pitea": {
+  "s": 4,
+  "sum": "KF antog 2026-04-27 (§ 76) Riktlinjer för budget 2027 och strategisk plan 2027–2029. Riktlinjerna nämner inte lärares undervisningstid, lärarreformen eller statsbidraget. Enligt tidplanen i riktlinjerna beslutar KF om strategisk plan 2027–2029 och budget 2027 den 2026-11-23, alltså inte i juni.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "2026-11-23 (planerat enligt tidplanen i riktlinjerna)",
+  "kfu": "https://www.pitea.se/BOKHYLLAN/Styrande%20dokument/2.%20Strategisk%20plan%20och%20Budget/Riktlinjer%20Budget%202027%20och%20Strategisk%20plan%202027-2029.pdf",
+  "lu": "Strategisk plan 2027–2029 och budget 2027 (KF 2026-11-23) är ännu inte granskade. Barn- och utbildningsnämndens budgetförslag är inte granskat. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Riktlinjer Budget 2027 och Strategisk plan 2027–2029 (KF 2026-04-27 § 76)",
+    "d": "2026-04-27",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Kommunfullmäktige - beslut strategisk plan 2027-2029 och budget 2027 inkl skattesats mån 2026-11-23\" (s. 8)",
+    "u": "https://www.pitea.se/BOKHYLLAN/Styrande%20dokument/2.%20Strategisk%20plan%20och%20Budget/Riktlinjer%20Budget%202027%20och%20Strategisk%20plan%202027-2029.pdf"
+   }
+  ]
+ },
+ "kristianstad": {
+  "s": 5,
+  "sum": "Budget 2027 har inte hittats. Kommunens budgetsida listar som senast Budget 2026 (KF 2025-06-17). KF:s junisammanträde 2026-06-09 innehöll inget ärende om budget 2027, så beslutet väntas under hösten 2026.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "Budget 2027 hittades inte. KF-protokollet 2026-06-09 (https://www.kristianstad.se/download/18.65d49cd319ed42bb2c41ae4/1781695104931/Kommunfullm%C3%A4ktiges%20protokoll%202026-06-09%20med%20normal%20justering.pdf) innehåller inget ärende om budget 2027, så beslutet ligger troligen hösten 2026 (KF sammanträder 2026-11-10). Kommunens KF-sida listar bara budget 2025 och 2026. BUN-underlag och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Ekonomi och budget (kommunens budgetsida)",
+    "d": null,
+    "sk": "beslut",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": null,
+    "u": "https://www.kristianstad.se/kommunochpolitik/kommunfakta/ekonomiochbudget.3095.html"
+   },
+   {
+    "t": "Kommunrevisionens protokoll 2026-02-18",
+    "d": "2026-02-18",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Revisorerna beslutar att översända budgetäskandet för år 2027 till kommunfullmäktiges presidium för vidare behandling.\" (KKR § 19)",
+    "u": "https://www.kristianstad.se/download/18.565e71e119c47ce10b55e0ab/1771838315456/Kommunrevisionens%20protokoll%202026-02-18.pdf"
+   }
+  ]
+ },
+ "harryda": {
+  "s": 4,
+  "sum": "Budget 2027 beslutades inte i juni. KS föreslog 2026-10-22 att KF antar Alliansens budget 2027 med plan 2028–2029 (S och MP hade egna förslag); KF behandlar ärendet 2026-11-12. Handlingarna (Alliansens förslag, två oppositionsförslag och förvaltningens budgetunderlag, totalt cirka 200 sidor) nämner inte lärares undervisningstid, lärarreformen eller statsbidraget. Alliansens förslag ger nämnden för utbildning, kultur och fritid 8 mnkr för mindre barngrupper i förskolan.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "2026-11-12 (planerat; KS-förslag 2026-10-22)",
+  "kfu": "https://www.harryda.se/kommunochpolitik/politikochdemokrati/motenhandlingarochprotokoll/kf/kommunfullmaktige12november2026.4.69c60334199373fa6cc15f1c.html",
+  "lu": "KF:s beslut 2026-11-12 är ännu inte fattat. Vilket parti som står bakom oppositionsförslaget med 25 mnkr till höjd elevpeng har inte kontrollerats, och Alliansens skolpeng 2027 framgår inte. Styre efter valet har inte bekräftats; KS-majoriteten röstade för Alliansens (M, KD, C, L) förslag.",
+  "docs": [
+   {
+    "t": "KF-handlingar 2026-11-12, ärende 46: Budget 2027 med plan 2028–2029 (Alliansens förslag, oppositionsförslag, förvaltningens underlag, KS-protokoll 2026-10-22)",
+    "d": "2026-10-23",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "Alliansens förslag: \"ramförstärkning till minskade barngrupper inom förskolan på 8 miljoner\" (PDF-sida 24)",
+    "u": "https://www.harryda.se/download/18.3b53af611a1a183c2e11be1/1793884008554/46.%20Budget%202027%20med%20plan%20f%C3%B6r%20perioden%202028-2029%20investeringsbudget%20plan%202027-2031%20samt%20m%C3%A5l%20och%20inriktningar%20f%C3%B6r%20H%C3%A4rryda%20kommun.pdf"
    }
   ]
  }
