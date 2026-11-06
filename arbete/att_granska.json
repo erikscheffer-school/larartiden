@@ -329,13 +329,6 @@
   "luckor": "Webbdiariet (diariet.bastad.se) gick inte att hämta (inte tillåten URL). KS:s budgetförslag och Utbildningsnämndens underlag för 2027 har inte granskats."
  },
  {
-  "kommun": "Helsingborg",
-  "id": "helsingborg",
-  "lan": "Skåne län",
-  "kf": null,
-  "luckor": "Plan för mål och ekonomi 2027, KF-protokollet från juni 2026 och BUN:s budgetunderlag har inte hittats. Sidan styrning.helsingborg.se/stadens-mal och diariet gick inte att hämta. KF:s beslut om budget 2027 togs troligen i juni 2026, men datumet är inte verifierat."
- },
- {
   "kommun": "Höganäs",
   "id": "hoganas",
   "lan": "Skåne län",

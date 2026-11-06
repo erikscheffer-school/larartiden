@@ -859,5 +859,46 @@
     "u": "https://sundsvall.liberalerna.se/wp-content/uploads/sites/405/2025/04/motion-reglera-undervisningstiden.pdf"
    }
   ]
+ },
+ "helsingborg": {
+  "s": 3,
+  "sum": "Budget 2027 beslutades inte i juni. KS ordförande föreslog 2026-11-04 att KF antar Samverkanspartiernas (M, KD, L, SD) förslag till Mål och ekonomi 2027. Förslaget nämner reglering av lärares undervisningstid som en reform som väntas ge generellt statsbidrag 2027, men avsätter inget särskilt belopp. Barn- och utbildningsnämnden bedömer att lärarnas arbetstid får störst ekonomisk påverkan av skolreformerna och att kostnaderna kan bli betydande och inte täckas av statsbidragen.",
+  "m": null,
+  "mk": null,
+  "sb": "Samverkanspartiernas förslag räknar med att reformen ger ett tillskott i form av generellt statsbidrag 2027 (s. 18). Nämnden konstaterar att staten avsatt 1,3 mdkr 2027 och 2,5 mdkr 2028 nationellt.",
+  "pl": null,
+  "kf": "november 2026 (planerat; KS behandlade ärendet 2026-11-04)",
+  "kfu": "https://diariet.helsingborg.se/download/document?filename=T0YgTeVsIG9jaCBla29ub21pIDIwMjcgQnVkZ2V0LnB1Yi5wZGY=&id=725297",
+  "lu": "KF:s beslut om Mål och ekonomi 2027 är inte fattat eller granskat. Oppositionens förslag (S, MP, C respektive V) är endast ensidiga dokument och nämner inte reformen. Barn- och utbildningsnämndens slutliga ekonomiska tilldelning och elevpeng 2027 är inte granskade.",
+  "styre": "M, KD, L och SD bildade ett gemensamt styre efter valet 2026 enligt KS ordförandes förslag till Mål och ekonomi 2027 (Dnr 00377/2026).",
+  "docs": [
+   {
+    "t": "Samverkanspartiernas förslag till mål och ekonomi 2027",
+    "d": "2026-11-04",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "Reformer som väntas ge generellt statsbidrag 2027, bl.a. \"reglering av lärares undervisningstid\" (s. 18)",
+    "u": "https://diariet.helsingborg.se/download/document?filename=U2FtdmVya2Fuc3BhcnRpZXJuYXMgZvZyc2xhZyB0aWxsIG3lbCBvY2ggZWtvbm9taSAyMDI3LnB1Yi5wZGY=&id=724932"
+   },
+   {
+    "t": "Bilaga 1. Nämnders förslag till inriktning, mål och ekonomi 2027 (barn- och utbildningsnämnden)",
+    "d": "2026-11-04",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"Störst ekonomisk påverkan har förslaget om lärarnas arbetstid\" (s. 7)",
+    "u": "https://diariet.helsingborg.se/download/document?filename=QmlsYWdhIDEuIE7kbW5kZXJzIGb2cnNsYWcgdGlsbCBpbnJpa3RuaW5nLCBt5Wwgb2NoIGVrb25vbWkgMjAyNy5wZGY=&id=724940"
+   },
+   {
+    "t": "Ordförandeförslag – Mål och ekonomi 2027 (budget), KS 2026-11-04",
+    "d": "2026-11-04",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://diariet.helsingborg.se/download/document?filename=T0YgTeVsIG9jaCBla29ub21pIDIwMjcgQnVkZ2V0LnB1Yi5wZGY=&id=725297"
+   }
+  ]
  }
 }
