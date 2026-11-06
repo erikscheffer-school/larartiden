@@ -797,5 +797,67 @@
     "u": "https://diariet.ostersund.se/download/document?filename=UHJvdG9rb2xsc3V0ZHJhZyBLb21tdW5mdWxsbeRrdGlnZSAyMDI2LTA2LTE1IKcgMTE4LnB1Yi5wZGY=&id=323918"
    }
   ]
+ },
+ "kramfors": {
+  "s": 5,
+  "sum": "Mål- och resursplan 2027 har ännu inte beslutats. KF fastställde 2026-06-22 (§ 46) planeringsförutsättningar inför arbetet med MRP 2027 med planår 2028–2029; protokollet nämner inte lärares undervisningstid eller statsbidraget. KF-protokollen 2026-09-28 och 2026-10-26 innehåller inget beslut om MRP 2027.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "MRP 2027 väntas hösten 2026 (kommunen beslutar normalt i oktober, men valåret har förskjutit det); datum okänt. Själva planeringsförutsättningarna och bildningsnämndens underlag är inte granskade. Pressreleasen \"17 miljoner stärker Kramfors\" (2026-06-26) är inte granskad. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Mål- och resursplan 2026 med planår 2027 och 2028",
+    "d": "2025-10-27",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Under 2026 kommer arbetet att fortsätta för att anpassa kommunens budget för 2027 till SKRs resursfördelningsmodell.\" (s. 15)",
+    "u": "https://www.kramfors.se/download/18.28b5251019bd17977243bd2e/1769437436648/M%C3%A5l-%20och%20resursplan%202026%20med%20plan%C3%A5r%202027%20och%202028.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-22, § 46 Planeringsförutsättningar inför mål- och resursplan 2027",
+    "d": "2026-06-22",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Fastställa planeringsförutsättningar inför arbetet med mål- och resursplan 2027 med planår 2028 och 2029.\" (s. 26)",
+    "u": "https://www.kramfors.se/download/18.2951901919ed4539bf258bc7/1782913346422/Protokoll%20Kommunfullm%C3%A4ktige%2022%20juni.pdf"
+   }
+  ]
+ },
+ "sundsvall": {
+  "s": 5,
+  "sum": "Budget 2027 (Mål och resursplan 2027) är inte beslutad. KF-protokollen från 2026-06-22 (alla paragrafer) och 2026-10-26 innehåller inget ärende om budget eller MRP 2027 och nämner inte lärares undervisningstid. Budgeten presenterades enligt tidigare uppgifter i juni 2026 men beslutades alltså inte då.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "Budgetbeslutet väntas troligen i november eller december 2026; datum okänt. KF-protokollen 2026-08-17 och 2026-09-28 är inte genomsökta. Budgetdokumenten, styrets och oppositionens förslag samt barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats. Protokoll: https://sundsvall.se/kommun/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kommunfullmaktige-kf",
+  "docs": [
+   {
+    "t": "SVT: Partierna presenterar budgetförslag på bergen i Sundsvall (nyhetsartikel)",
+    "d": "2026-06-08",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Vi prioriterar både äldreomsorgen och skola väldigt högt\" (S, Niklas Säwén)",
+    "u": "https://www.svt.se/nyheter/lokalt/vasternorrland/partierna-presenterar-budgetforslag-pa-bergen-i-sundsvall"
+   },
+   {
+    "t": "Liberalerna Sundsvall: Motion – reglera undervisningstiden",
+    "d": "2025-04",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": null,
+    "u": "https://sundsvall.liberalerna.se/wp-content/uploads/sites/405/2025/04/motion-reglera-undervisningstiden.pdf"
+   }
+  ]
  }
 }

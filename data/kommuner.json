@@ -6229,14 +6229,14 @@
   "id": "kramfors",
   "l": "Västernorrlands län",
   "s": 5,
-  "sum": "Inget dokument för Mål- och resursplan 2027 hittades. Mål- och resursplan 2026 med planår 2027–2028 (KF 2025-10-27) nämner inte reformen. En pressrelease från juni 2026 om 17 mnkr till nämnder och resultatsäkring kunde inte öppnas.",
+  "sum": "Mål- och resursplan 2027 har ännu inte beslutats. KF fastställde 2026-06-22 (§ 46) planeringsförutsättningar inför arbetet med MRP 2027 med planår 2028–2029; protokollet nämner inte lärares undervisningstid eller statsbidraget. KF-protokollen 2026-09-28 och 2026-10-26 innehåller inget beslut om MRP 2027.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Mål- och resursplan 2027 (förslag eller beslut) hittades inte. Kramfors beslutade budget 2026 i KF i oktober 2025, så beslut om 2027 kan ligga hösten 2026, men det är inte verifierat. Pressreleasen \"17 miljoner stärker Kramfors...\" (mynewsdesk, 2026-06-26) blockerades av allowlist. Bildningsnämndens budgetunderlag 2027 har inte granskats.",
+  "lu": "MRP 2027 väntas hösten 2026 (kommunen beslutar normalt i oktober, men valåret har förskjutit det); datum okänt. Själva planeringsförutsättningarna och bildningsnämndens underlag är inte granskade. Pressreleasen \"17 miljoner stärker Kramfors\" (2026-06-26) är inte granskad. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
     "t": "Mål- och resursplan 2026 med planår 2027 och 2028",
@@ -6246,6 +6246,15 @@
     "nr": false,
     "c": "\"Under 2026 kommer arbetet att fortsätta för att anpassa kommunens budget för 2027 till SKRs resursfördelningsmodell.\" (s. 15)",
     "u": "https://www.kramfors.se/download/18.28b5251019bd17977243bd2e/1769437436648/M%C3%A5l-%20och%20resursplan%202026%20med%20plan%C3%A5r%202027%20och%202028.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-22, § 46 Planeringsförutsättningar inför mål- och resursplan 2027",
+    "d": "2026-06-22",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Fastställa planeringsförutsättningar inför arbetet med mål- och resursplan 2027 med planår 2028 och 2029.\" (s. 26)",
+    "u": "https://www.kramfors.se/download/18.2951901919ed4539bf258bc7/1782913346422/Protokoll%20Kommunfullm%C3%A4ktige%2022%20juni.pdf"
    }
   ]
  },
@@ -6279,14 +6288,14 @@
   "id": "sundsvall",
   "l": "Västernorrlands län",
   "s": 5,
-  "sum": "Inga budgetdokument för 2027 från Sundsvall hittades. Enligt SVT presenterade styret (S, C, V) och oppositionen (M, L, KD, SD) sina budgetförslag den 8 juni 2026, med skola som prioritet men utan att nämna lärare eller undervisningstid. Liberalerna i Sundsvall lämnade 2025 en motion om att reglera undervisningstiden.",
+  "sum": "Budget 2027 (Mål och resursplan 2027) är inte beslutad. KF-protokollen från 2026-06-22 (alla paragrafer) och 2026-10-26 innehåller inget ärende om budget eller MRP 2027 och nämner inte lärares undervisningstid. Budgeten presenterades enligt tidigare uppgifter i juni 2026 men beslutades alltså inte då.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Själva budgetdokumenten (Mål och budget 2027, styrets och oppositionens förslag) och KF-datum hittades inte. Budgeten presenterades i juni 2026, så ett KF-beslut i juni 2026 är troligt men inte verifierat. Motionen öppnades inte, och datum och innehåll är bara härledda ur URL:en. Barn- och utbildningsnämndens underlag 2027 har inte granskats.",
+  "lu": "Budgetbeslutet väntas troligen i november eller december 2026; datum okänt. KF-protokollen 2026-08-17 och 2026-09-28 är inte genomsökta. Budgetdokumenten, styrets och oppositionens förslag samt barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats. Protokoll: https://sundsvall.se/kommun/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kommunfullmaktige-kf",
   "docs": [
    {
     "t": "SVT: Partierna presenterar budgetförslag på bergen i Sundsvall (nyhetsartikel)",
