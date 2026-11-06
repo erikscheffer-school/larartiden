@@ -252,20 +252,6 @@
   "luckor": "Inga handlingar för budget 2027 hittades, och beslutsdatum är okänt. Mötesportalen och bildningsnämndens underlag granskades inte. Torsås var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut."
  },
  {
-  "kommun": "Vimmerby",
-  "id": "vimmerby",
-  "lan": "Kalmar län",
-  "kf": "ca 2026-06-15 (beslutat, enligt lokaltidning; exakt datum ej verifierat)",
-  "luckor": "Bara nyhetsartiklar granskade. Det antagna budgetdokumentet 2027, KF-protokollet och BUN:s budgetunderlag hittades inte på kommunens webb. Det är okänt om budgeten revideras efter valet."
- },
- {
-  "kommun": "Västervik",
-  "id": "vastervik",
-  "lan": "Kalmar län",
-  "kf": null,
-  "luckor": "Hittade inte budget 2027 (troligen KF juni 2026) eller tilläggsbudget 2027 (troligen KF nov 2026). Barn- och utbildningsnämndens underlag granskades inte. Västervik var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut."
- },
- {
   "kommun": "Ljungby",
   "id": "ljungby",
   "lan": "Kronobergs län",
@@ -578,7 +564,7 @@
   "id": "flen",
   "lan": "Södermanlands län",
   "kf": null,
-  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes utan budgetdokument 2027 och utan KF-datum. Flen beslutade tidigare budget i juni (KF-kallelse 2024-06-17 finns), men juni 2026 är inte verifierat. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte."
+  "luckor": "Budget 2027 och KF-datum har inte hittats. Kommunens sida Kommunens mål & ekonomi visar bara Strategisk plan 2024–2027 med budget för 2026. KF sammanträdde 2026-06-15, men länken till kallelsen (https://flen.se/download/18.7448a5c119e6366d9766d26b/1780915951148/Kallelse%202026-06-15.pdf) ger 404, så det är okänt om budget 2027 behandlades. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte."
  },
  {
   "kommun": "Gnesta",

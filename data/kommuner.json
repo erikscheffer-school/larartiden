@@ -2265,42 +2265,24 @@
   "k": "Vimmerby",
   "id": "vimmerby",
   "l": "Kalmar län",
-  "s": 5,
-  "sum": "Enligt Dagens Vimmerby antog KF rambudget 2027 omkring 2026-06-15. Barn- och utbildningsnämnden fick 20 mnkr i prioriteringar efter att ha begärt cirka 39 mnkr. BUN:s önskemål, som Dagens Vimmerby återger 2026-03, nämner inte undervisningstidsreformen. Inga kommunala budgetdokument hittades.",
-  "m": "BUN fick 20 mnkr i prioriteringar 2027 (enligt Dagens Vimmerby), utan koppling till reformen",
+  "s": 4,
+  "sum": "Dokumentet Budget 2027 med plan 2028–2030 ligger på kommunens budgetsida men är ännu inte antaget (\"2026-xx-xx\" på försättsbladet). Enligt dokumentet tas budgetbeslutet för 2027 av det nyvalda fullmäktige i november, eftersom det är valår. Dokumentet nämner inte lärares undervisningstid, lärarreformen eller statsbidraget.",
+  "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": "ca 2026-06-15 (beslutat, enligt lokaltidning; exakt datum ej verifierat)",
-  "kfu": "https://www.dagensvimmerby.se/nyheter/politik/e/320774/vimmerby-har-en-ny-budget-mesta-handlade-om-itsam/",
-  "lu": "Bara nyhetsartiklar granskade. Det antagna budgetdokumentet 2027, KF-protokollet och BUN:s budgetunderlag hittades inte på kommunens webb. Det är okänt om budgeten revideras efter valet.",
+  "kf": "november 2026 (planerat enligt budgetdokumentet; exakt datum okänt)",
+  "kfu": "https://www.vimmerby.se/download/18.571e1c6a19ed441d76b2e50b/1783949380879/Budget%202027%20med%20plan%202028-2030.pdf",
+  "lu": "Juni-beslutet om ramar (enligt lokaltidning ca 2026-06-15) är inte kontrollerat i protokoll. Budgetdokumentet saknar nämndavsnitt, så barn- och utbildningsnämndens ram 2027 framgår inte. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
-    "t": "Dagens Vimmerby: Vimmerby har en ny budget (nyhetsartikel om KF:s beslut om rambudget 2027)",
-    "d": "2026-06-15",
-    "sk": "beslut",
-    "pr": "politiskt producerat",
-    "nr": false,
-    "c": "\"rambudget för Vimmerby kommun för 2027\"",
-    "u": "https://www.dagensvimmerby.se/nyheter/politik/e/320774/vimmerby-har-en-ny-budget-mesta-handlade-om-itsam/"
-   },
-   {
-    "t": "Dagens Vimmerby: Vill ha ännu mer pengar inför 2027 (BUN:s prioriteringar)",
+    "t": "Budget 2027 med plan 2028–2030 (ej antagen version)",
     "d": null,
     "sk": "underlag/förslag",
-    "pr": "tjänstemannaproducerat",
+    "pr": "politiskt producerat",
     "nr": false,
-    "c": "\"Totalt önskar barn- och utbildningsnämnden att få 39 150 000 kronor.\"",
-    "u": "https://www.dagensvimmerby.se/nyheter/politik/e/316757/vill-ha-annu-mer-pengar-infor-2027-flera-satsningar-bland-prioriteringarna/"
-   },
-   {
-    "t": "Remissvar Förbättrat stöd i skolan (SOU 2025:44), skolchef Vimmerby kommun (ej undervisningstidsreformen)",
-    "d": "2025-05-30",
-    "sk": "underlag/förslag",
-    "pr": "tjänstemannaproducerat",
-    "nr": false,
-    "c": "\"förskjuter kostnader till kommunerna, som inte täcks av det ökade statsbidraget\" (avser SOU 2025:44)",
-    "u": "https://regeringen.se/contentassets/1cd1f5b869914d788d7c4c8a0b9d8874/vimmerby-kommun.pdf"
+    "c": "\"Beslut kring budget 2027 sker i av nyvald kommunfullmäktige i november.\" (s. 13)",
+    "u": "https://www.vimmerby.se/download/18.571e1c6a19ed441d76b2e50b/1783949380879/Budget%202027%20med%20plan%202028-2030.pdf"
    }
   ]
  },
@@ -2308,33 +2290,51 @@
   "k": "Västervik",
   "id": "vastervik",
   "l": "Kalmar län",
-  "s": 5,
-  "sum": "Senast funna budgethandling är tilläggsbudget 2026 med ekonomisk planering 2027–2028 (KF 2025-11-03 § 140), som inte nämner reformen. Budget 2027 hittades inte. Kommunen beslutar huvudbudgeten i juni (budget 2024: KF 2023-06-19; budget 2025: KF 2024-06-17), så budget 2027 togs troligen i juni 2026, men det är inte bekräftat.",
-  "m": null,
+  "s": 1,
+  "sum": "KF behandlade budget 2027 den 2026-11-02. Både KS-majoritetens förslag (som KS föreslog 2026-10-19) och de rödgrönas gemensamma förslag tillför barn- och utbildningsnämnden 5,629 mnkr 2027 och 12,465 mnkr 2028 som \"växling statsbidrag grundskola\". Enligt nämndens remissyttrande avser växlingen framför allt ersättning för reglering av lärares undervisningstid. Samtidigt minskar nämndens ram med cirka 40 mnkr genom volymjustering och borttagna tillskott, och nämnden räknar med 60–70 färre tjänster.",
+  "m": "5,629 mnkr 2027 och 12,465 mnkr 2028 till barn- och utbildningsnämnden som växling av statsbidrag, enligt nämnden framför allt för reglering av lärares undervisningstid (finns i både majoritetens och oppositionens förslag)",
   "mk": null,
-  "sb": null,
+  "sb": "Budgeten beskriver att tidigare riktade statsbidrag växlas till generella för grundskolan och förs till nämndens ram.",
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Hittade inte budget 2027 (troligen KF juni 2026) eller tilläggsbudget 2027 (troligen KF nov 2026). Barn- och utbildningsnämndens underlag granskades inte. Västervik var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut.",
+  "kf": "2026-11-02 (budgetärende på KF; protokollet ännu inte publicerat/granskat)",
+  "kfu": "https://www.netpublicator.com/reader/r44431617",
+  "lu": "Vilket förslag KF antog 2026-11-02 är inte kontrollerat i protokoll. Barn- och elevpengen för 2027 var i maj preliminärt mellan -3,9 % och +0,7 %, men slutliga nivåer har inte hittats. Sveriges Lärare yrkade på ytterligare 8 mnkr. Styre efter valet har inte bekräftats; KF valde S-ordförande 2026-11-02. Handlingarna ligger i Netpublicator (Kommunfullmäktige → 2026-11-02 → ärende 23).",
   "docs": [
    {
-    "t": "Tilläggsbudget 2026, ekonomisk planering 2027–2028",
-    "d": "2025-11-03",
-    "sk": "beslut",
+    "t": "KF 2026-11-02 ärende 23.8: Förslag till budget 2027 från kommunstyrelsens nuvarande majoritet",
+    "d": "2026-10-19",
+    "sk": "underlag/förslag",
     "pr": "politiskt producerat",
     "nr": false,
-    "c": "\"Beslutad av KF 2025-11-03 §140\" (s. 1); \"Flytt av bibliotek i Gamleby inarbetas i budget 2027.\" (s. 3)",
-    "u": "https://www.vastervik.se/contentassets/903beabf25a749fd9fdda76c9c4273b1/tillaggsbudget-2026-ekonomisk-planering-2027-2028.pdf"
+    "c": "\"Växling statsbidrag grundskola 5,629 12,465 12,465\" (mnkr 2027–2029, PDF-sida 14)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
    },
    {
-    "t": "Delårsrapport 2026-04-30 Västerviks kommun",
-    "d": null,
+    "t": "KF 2026-11-02 ärende 23.16: Protokoll BUN 2026-05-12 § 53, remissyttrande budget 2027",
+    "d": "2026-05-12",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Denna växling gäller framför allt ersättning för reglering av lärares undervisningstid.\" (s. 5)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   },
+   {
+    "t": "KF 2026-11-02 ärende 23.6: Sveriges Lärares yrkande över förslag till budget 2027",
+    "d": "2026-05-11",
     "sk": "underlag/förslag",
-    "pr": "tjänstemannaproducerat",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "Yrkar att nämndens ram \"förstärks med 8 miljoner kronor utöver statliga tillskott\" (s. 1)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   },
+   {
+    "t": "KF 2026-11-02 ärende 23.7: KS 2026-10-19 § 253, förslag till beslut",
+    "d": "2026-10-19",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
     "nr": false,
-    "c": "\"inför budget 2027 för att komma ner i kostnadsmassa\" (s. 10)",
-    "u": "https://www.vastervik.se/contentassets/fc76a1f839c64cb9ba1ce554a9427eb3/delarsrapport-2026-04-30-vasterviks-kommun.pdf"
+    "c": null,
+    "u": "https://www.netpublicator.com/reader/r44431617"
    }
   ]
  },
@@ -4830,7 +4830,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "OMKÖRNING R02: 3 webbsökningar gjordes utan budgetdokument 2027 och utan KF-datum. Flen beslutade tidigare budget i juni (KF-kallelse 2024-06-17 finns), men juni 2026 är inte verifierat. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte.",
+  "lu": "Budget 2027 och KF-datum har inte hittats. Kommunens sida Kommunens mål & ekonomi visar bara Strategisk plan 2024–2027 med budget för 2026. KF sammanträdde 2026-06-15, men länken till kallelsen (https://flen.se/download/18.7448a5c119e6366d9766d26b/1780915951148/Kallelse%202026-06-15.pdf) ger 404, så det är okänt om budget 2027 behandlades. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte.",
   "docs": [
    {
     "t": "Flens kommun – remissvar på SOU 2025:96 Fler möjligheter till ökat välstånd",

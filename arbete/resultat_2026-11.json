@@ -624,5 +624,107 @@
     "u": "https://vingaker.se/download/18.39155d0219e634874bf14604/1780670271468/Kommunfullm%C3%A4ktige%202026-06-15%20Kallelse%20med%20handlingar.pdf"
    }
   ]
+ },
+ "flen": {
+  "s": 5,
+  "sum": "Inga budgethandlingar för 2027 hittades. KF-kallelsen 2026-03-16 tar bara upp en tilläggsbudget för 2026 (BUK-nämnden). Remissvaret på SOU 2025:96 (2025-12-10) kräver generellt att finansieringsprincipen följs.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "Budget 2027 och KF-datum har inte hittats. Kommunens sida Kommunens mål & ekonomi visar bara Strategisk plan 2024–2027 med budget för 2026. KF sammanträdde 2026-06-15, men länken till kallelsen (https://flen.se/download/18.7448a5c119e6366d9766d26b/1780915951148/Kallelse%202026-06-15.pdf) ger 404, så det är okänt om budget 2027 behandlades. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte.",
+  "docs": [
+   {
+    "t": "Flens kommun – remissvar på SOU 2025:96 Fler möjligheter till ökat välstånd",
+    "d": "2025-12-10",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Om staten ålägger kommunerna nya uppgifter måste finansieringsprincipen följas strikt.\"",
+    "u": "https://www.regeringen.se/contentassets/46e4bf53ac1a4f1ba3c0aee1584abab2/flen-kommun.pdf"
+   },
+   {
+    "t": "Kallelse kommunfullmäktige 2026-03-16",
+    "d": "2026-03-09",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": "Enda budgetärendet: \"Begäran om tilläggsbudget för 2026 från barn-, utbildnings- och kulturnämnden\" (s. 2, ärende 9)",
+    "u": "https://flen.se/download/18.4db9323419c98915e0873a11/1773050379070/Kallelse%202026-03-16.pdf"
+   }
+  ]
+ },
+ "vimmerby": {
+  "s": 4,
+  "sum": "Dokumentet Budget 2027 med plan 2028–2030 ligger på kommunens budgetsida men är ännu inte antaget (\"2026-xx-xx\" på försättsbladet). Enligt dokumentet tas budgetbeslutet för 2027 av det nyvalda fullmäktige i november, eftersom det är valår. Dokumentet nämner inte lärares undervisningstid, lärarreformen eller statsbidraget.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "november 2026 (planerat enligt budgetdokumentet; exakt datum okänt)",
+  "kfu": "https://www.vimmerby.se/download/18.571e1c6a19ed441d76b2e50b/1783949380879/Budget%202027%20med%20plan%202028-2030.pdf",
+  "lu": "Juni-beslutet om ramar (enligt lokaltidning ca 2026-06-15) är inte kontrollerat i protokoll. Budgetdokumentet saknar nämndavsnitt, så barn- och utbildningsnämndens ram 2027 framgår inte. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Budget 2027 med plan 2028–2030 (ej antagen version)",
+    "d": null,
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Beslut kring budget 2027 sker i av nyvald kommunfullmäktige i november.\" (s. 13)",
+    "u": "https://www.vimmerby.se/download/18.571e1c6a19ed441d76b2e50b/1783949380879/Budget%202027%20med%20plan%202028-2030.pdf"
+   }
+  ]
+ },
+ "vastervik": {
+  "s": 1,
+  "sum": "KF behandlade budget 2027 den 2026-11-02. Både KS-majoritetens förslag (som KS föreslog 2026-10-19) och de rödgrönas gemensamma förslag tillför barn- och utbildningsnämnden 5,629 mnkr 2027 och 12,465 mnkr 2028 som \"växling statsbidrag grundskola\". Enligt nämndens remissyttrande avser växlingen framför allt ersättning för reglering av lärares undervisningstid. Samtidigt minskar nämndens ram med cirka 40 mnkr genom volymjustering och borttagna tillskott, och nämnden räknar med 60–70 färre tjänster.",
+  "m": "5,629 mnkr 2027 och 12,465 mnkr 2028 till barn- och utbildningsnämnden som växling av statsbidrag, enligt nämnden framför allt för reglering av lärares undervisningstid (finns i både majoritetens och oppositionens förslag)",
+  "mk": null,
+  "sb": "Budgeten beskriver att tidigare riktade statsbidrag växlas till generella för grundskolan och förs till nämndens ram.",
+  "pl": null,
+  "kf": "2026-11-02 (budgetärende på KF; protokollet ännu inte publicerat/granskat)",
+  "kfu": "https://www.netpublicator.com/reader/r44431617",
+  "lu": "Vilket förslag KF antog 2026-11-02 är inte kontrollerat i protokoll. Barn- och elevpengen för 2027 var i maj preliminärt mellan -3,9 % och +0,7 %, men slutliga nivåer har inte hittats. Sveriges Lärare yrkade på ytterligare 8 mnkr. Styre efter valet har inte bekräftats; KF valde S-ordförande 2026-11-02. Handlingarna ligger i Netpublicator (Kommunfullmäktige → 2026-11-02 → ärende 23).",
+  "docs": [
+   {
+    "t": "KF 2026-11-02 ärende 23.8: Förslag till budget 2027 från kommunstyrelsens nuvarande majoritet",
+    "d": "2026-10-19",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Växling statsbidrag grundskola 5,629 12,465 12,465\" (mnkr 2027–2029, PDF-sida 14)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   },
+   {
+    "t": "KF 2026-11-02 ärende 23.16: Protokoll BUN 2026-05-12 § 53, remissyttrande budget 2027",
+    "d": "2026-05-12",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Denna växling gäller framför allt ersättning för reglering av lärares undervisningstid.\" (s. 5)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   },
+   {
+    "t": "KF 2026-11-02 ärende 23.6: Sveriges Lärares yrkande över förslag till budget 2027",
+    "d": "2026-05-11",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "Yrkar att nämndens ram \"förstärks med 8 miljoner kronor utöver statliga tillskott\" (s. 1)",
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   },
+   {
+    "t": "KF 2026-11-02 ärende 23.7: KS 2026-10-19 § 253, förslag till beslut",
+    "d": "2026-10-19",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://www.netpublicator.com/reader/r44431617"
+   }
+  ]
  }
 }
