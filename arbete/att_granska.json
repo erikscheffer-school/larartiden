@@ -18,7 +18,7 @@
   "id": "leksand",
   "lan": "Dalarnas län",
   "kf": null,
-  "luckor": "Kommunplan 2027–2029 och beslutsdatumet i KF hittades inte. Kommunens nyhet om KF 29 juni 2026 och Netpublicator ligger utanför allowlist. Enligt sammanfattningen på nyhetslistan handlade KF 29 juni om vägfrågor och motioner, inte om kommunplanen. Bildningsnämndens underlag är inte granskat."
+  "luckor": "Kommunplan 2027–2029 väntas troligen i december 2026; datum är okänt. Bildningsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats. Handlingar: https://www.netpublicator.com/reader/r67748107 (Kommunfullmäktige)."
  },
  {
   "kommun": "Orsa",
@@ -152,13 +152,6 @@
   "lan": "Jämtlands län",
   "kf": null,
   "luckor": "Utvecklingsplan 2027–2030 och KF-datum 2026 hittades inte. PDF:en för Utvecklingsplan 2026–2029 kunde inte hämtas (URL ej tillåten). Det maximala antalet sökningar (3) är använt."
- },
- {
-  "kommun": "Östersund",
-  "id": "ostersund",
-  "lan": "Jämtlands län",
-  "kf": "november 2026 (planerat enligt ordinarie process: rambudget i juni, slutlig mål och budget i november; exakt datum okänt)",
-  "luckor": "Rambudget 2027 (juni 2026), förslag till mål och budget 2027 och BUN-underlag hittades inte. PDF:en Mål och budget 2026 med flerårsplan 2027–2028 kunde inte hämtas (URL ej tillåten). Det maximala antalet sökningar (3) är använt."
  },
  {
   "kommun": "Gislaved",

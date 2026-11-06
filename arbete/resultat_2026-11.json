@@ -726,5 +726,76 @@
     "u": "https://www.netpublicator.com/reader/r44431617"
    }
   ]
+ },
+ "leksand": {
+  "s": 5,
+  "sum": "Kommunplan 2027–2029 har inte behandlats av KF under 2026 fram till och med 2026-11-09. Dagordningarna för KF 2026-05-25, 2026-06-29, 2026-10-20 och 2026-11-09 i kommunens Netpublicator innehåller inget ärende om kommunplan eller budget 2027; den 9 november behandlas bara skattesatsen för 2027.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "Kommunplan 2027–2029 väntas troligen i december 2026; datum är okänt. Bildningsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats. Handlingar: https://www.netpublicator.com/reader/r67748107 (Kommunfullmäktige).",
+  "docs": [
+   {
+    "t": "Protokoll kommunstyrelsen 2026-03-02 (publicerat av V Leksand)",
+    "d": "2026-03-02",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Resultat- och planeringskonferens genomfördes i februari och det är starten på arbetet med kommunplan 2027-2029.\" (§ 18, s. 4)",
+    "u": "https://leksand.vansterpartiet.se/files/2026/03/Protokoll-kommunstyrelsen-2026-03-02.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-02-09 (publicerat av V Leksand)",
+    "d": "2026-02-09",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://leksand.vansterpartiet.se/files/2026/02/Protokoll-kommunfullmaktige-2026-02-09.pdf"
+   },
+   {
+    "t": "Protokoll kommunstyrelsen 2025-11-24 (publicerat av V Leksand)",
+    "d": "2025-11-24",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Kommunfullmäktige beslutade den 16 juni 2025 att anta kommunplan för 2026 med inriktning för 2027–2028.\" (§ 160)",
+    "u": "https://leksand.vansterpartiet.se/wp/files/2025/12/Protokoll-kommunstyrelsen-2025-11-24.pdf"
+   }
+  ]
+ },
+ "ostersund": {
+  "s": 4,
+  "sum": "KF beslutade 2026-06-15 (§ 118) om Mål och budget 2027 och flerårsplan 2028–2029 enligt Mittstyrets förslag, tillika KS förslag; övriga partier hade egna budgetar. Rambudgeten nämner inte lärares undervisningstid eller lärarreformen, men konstaterar allmänt att reformer som inte fullt ut finansieras försvårar planeringen. Barn- och utbildningsnämnden får bland annat nya politiska prioriteringar för ledningsresurs i förskolan (1 mnkr), utökad anpassad grundskola (3 mnkr) och skolnärvaro (2 mnkr).",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "2026-06-15 § 118 (beslutat)",
+  "kfu": "https://diariet.ostersund.se/download/document?filename=UHJvdG9rb2xsc3V0ZHJhZyBLb21tdW5mdWxsbeRrdGlnZSAyMDI2LTA2LTE1IKcgMTE4LnB1Yi5wZGY=&id=323918",
+  "lu": "Barn- och utbildningsnämndens verksamhetsplan och eventuell revidering efter valet (slutlig mål och budget planerades till november) är inte granskade. Skolpeng och styre efter valet har inte hittats. Handlingarna ligger i kommunens diarium (diariet.ostersund.se, KF 2026-06-15, ärende 27).",
+  "docs": [
+   {
+    "t": "Rambudget 2027 med flerårsplan 2028–2029 – Bilaga 1",
+    "d": "2026-06-15",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Ny politisk prioritering Utökning av anpassad grundskola BUN 3 000\" (tkr, s. 26)",
+    "u": "https://diariet.ostersund.se/download/document?filename=UmFtYnVkZ2V0IDIwMjcgbWVkIGZsZXLlcnNwbGFuIDIwMjgtMjAyOSAtIEJpbGFnYSAxLnB1Yi5wZGY=&id=323888"
+   },
+   {
+    "t": "Protokollsutdrag KF 2026-06-15 § 118 Mål och budget 2027 och flerårsplan 2028–2029",
+    "d": "2026-06-15",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"finner att Kommunfullmäktige bifaller Mittstyrets budget\" (s. 21)",
+    "u": "https://diariet.ostersund.se/download/document?filename=UHJvdG9rb2xsc3V0ZHJhZyBLb21tdW5mdWxsbeRrdGlnZSAyMDI2LTA2LTE1IKcgMTE4LnB1Yi5wZGY=&id=323918"
+   }
+  ]
  }
 }

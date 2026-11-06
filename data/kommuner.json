@@ -326,14 +326,14 @@
   "id": "leksand",
   "l": "Dalarnas län",
   "s": 5,
-  "sum": "Kommunplan 2027–2029 hittades inte. Enligt KS-protokollet 2026-03-02 startade arbetet med kommunplanen vid resultat- och planeringskonferensen i februari 2026. KF antog kommunplan 2026 den 16 juni 2025, vilket tyder på ett junibeslut även 2026, men det är inte verifierat. Reformen nämns inte i de granskade protokollen.",
+  "sum": "Kommunplan 2027–2029 har inte behandlats av KF under 2026 fram till och med 2026-11-09. Dagordningarna för KF 2026-05-25, 2026-06-29, 2026-10-20 och 2026-11-09 i kommunens Netpublicator innehåller inget ärende om kommunplan eller budget 2027; den 9 november behandlas bara skattesatsen för 2027.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Kommunplan 2027–2029 och beslutsdatumet i KF hittades inte. Kommunens nyhet om KF 29 juni 2026 och Netpublicator ligger utanför allowlist. Enligt sammanfattningen på nyhetslistan handlade KF 29 juni om vägfrågor och motioner, inte om kommunplanen. Bildningsnämndens underlag är inte granskat.",
+  "lu": "Kommunplan 2027–2029 väntas troligen i december 2026; datum är okänt. Bildningsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats. Handlingar: https://www.netpublicator.com/reader/r67748107 (Kommunfullmäktige).",
   "docs": [
    {
     "t": "Protokoll kommunstyrelsen 2026-03-02 (publicerat av V Leksand)",
@@ -1515,33 +1515,33 @@
   "k": "Östersund",
   "id": "ostersund",
   "l": "Jämtlands län",
-  "s": 5,
-  "sum": "Östersunds budgetsidor har bara Mål och budget 2026 med flerårsplan 2027–2028. Den PDF:en kunde inte hämtas. Enligt kommunens processbeskrivning beslutar KF rambudget i juni och slutlig mål och budget i november.",
+  "s": 4,
+  "sum": "KF beslutade 2026-06-15 (§ 118) om Mål och budget 2027 och flerårsplan 2028–2029 enligt Mittstyrets förslag, tillika KS förslag; övriga partier hade egna budgetar. Rambudgeten nämner inte lärares undervisningstid eller lärarreformen, men konstaterar allmänt att reformer som inte fullt ut finansieras försvårar planeringen. Barn- och utbildningsnämnden får bland annat nya politiska prioriteringar för ledningsresurs i förskolan (1 mnkr), utökad anpassad grundskola (3 mnkr) och skolnärvaro (2 mnkr).",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": "november 2026 (planerat enligt ordinarie process: rambudget i juni, slutlig mål och budget i november; exakt datum okänt)",
-  "kfu": "https://www.ostersund.se/kommun-och-politik/sa-styrs-kommunen/b.-sa-tar-kommunen-fram-mal-och-budget.html",
-  "lu": "Rambudget 2027 (juni 2026), förslag till mål och budget 2027 och BUN-underlag hittades inte. PDF:en Mål och budget 2026 med flerårsplan 2027–2028 kunde inte hämtas (URL ej tillåten). Det maximala antalet sökningar (3) är använt.",
+  "kf": "2026-06-15 § 118 (beslutat)",
+  "kfu": "https://diariet.ostersund.se/download/document?filename=UHJvdG9rb2xsc3V0ZHJhZyBLb21tdW5mdWxsbeRrdGlnZSAyMDI2LTA2LTE1IKcgMTE4LnB1Yi5wZGY=&id=323918",
+  "lu": "Barn- och utbildningsnämndens verksamhetsplan och eventuell revidering efter valet (slutlig mål och budget planerades till november) är inte granskade. Skolpeng och styre efter valet har inte hittats. Handlingarna ligger i kommunens diarium (diariet.ostersund.se, KF 2026-06-15, ärende 27).",
   "docs": [
    {
-    "t": "Budget och ekonomi – Östersund.se",
-    "d": null,
+    "t": "Rambudget 2027 med flerårsplan 2028–2029 – Bilaga 1",
+    "d": "2026-06-15",
     "sk": "beslut",
-    "pr": "tjänstemannaproducerat",
+    "pr": "politiskt producerat",
     "nr": false,
-    "c": null,
-    "u": "https://www.ostersund.se/kommun-och-politik/kommunens-mal-och-budget/budget-och-ekonomi.html"
+    "c": "\"Ny politisk prioritering Utökning av anpassad grundskola BUN 3 000\" (tkr, s. 26)",
+    "u": "https://diariet.ostersund.se/download/document?filename=UmFtYnVkZ2V0IDIwMjcgbWVkIGZsZXLlcnNwbGFuIDIwMjgtMjAyOSAtIEJpbGFnYSAxLnB1Yi5wZGY=&id=323888"
    },
    {
-    "t": "B. Så tar kommunen fram mål och budget – Östersund.se",
-    "d": null,
-    "sk": "underlag/förslag",
-    "pr": "tjänstemannaproducerat",
+    "t": "Protokollsutdrag KF 2026-06-15 § 118 Mål och budget 2027 och flerårsplan 2028–2029",
+    "d": "2026-06-15",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
     "nr": false,
-    "c": "\"I november beslutar kommunfullmäktige nämndernas verksamhetsplaner för kommande år samt slutgiltig mål och budget.\"",
-    "u": "https://www.ostersund.se/kommun-och-politik/sa-styrs-kommunen/b.-sa-tar-kommunen-fram-mal-och-budget.html"
+    "c": "\"finner att Kommunfullmäktige bifaller Mittstyrets budget\" (s. 21)",
+    "u": "https://diariet.ostersund.se/download/document?filename=UHJvdG9rb2xsc3V0ZHJhZyBLb21tdW5mdWxsbeRrdGlnZSAyMDI2LTA2LTE1IKcgMTE4LnB1Yi5wZGY=&id=323918"
    }
   ]
  },
