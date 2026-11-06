@@ -1,0 +1,1220 @@
+[
+ {
+  "kommun": "Olofström",
+  "id": "olofstrom",
+  "lan": "Blekinge län",
+  "kf": null,
+  "luckor": "KS-protokollet från 2026-05-26, ramarna per nämnd och BUN:s underlag har inte hittats. Datum för KF:s budgetbeslut är okänt. Budget 2026 publicerades i december 2025, så KF beslutar troligen i nov/dec 2026, men det är inte verifierat. Kallelser och protokoll (olofstrom.se/.../kallelser-och-protokoll) har inte genomsökts."
+ },
+ {
+  "kommun": "Sölvesborg",
+  "id": "solvesborg",
+  "lan": "Blekinge län",
+  "kf": null,
+  "luckor": "Sidan Ärenden och handlingar gick inte att hämta (inte tillåten URL). KF-protokoll från juni och hösten 2026 har inte granskats, och beslutsdatum för budget 2027 är okänt. BUN:s underlag har inte hittats."
+ },
+ {
+  "kommun": "Leksand",
+  "id": "leksand",
+  "lan": "Dalarnas län",
+  "kf": null,
+  "luckor": "Kommunplan 2027–2029 och beslutsdatumet i KF hittades inte. Kommunens nyhet om KF 29 juni 2026 och Netpublicator ligger utanför allowlist. Enligt sammanfattningen på nyhetslistan handlade KF 29 juni om vägfrågor och motioner, inte om kommunplanen. Bildningsnämndens underlag är inte granskat."
+ },
+ {
+  "kommun": "Orsa",
+  "id": "orsa",
+  "lan": "Dalarnas län",
+  "kf": null,
+  "luckor": "Kommunplan 2027, KS- och KF-handlingar från hösten 2026 och BUN-underlag hittades inte i sökningarna. KF-datumen 2026 är tolkade, inte bekräftade. Enligt SVT (2026-04-11) ställdes årets första KF in och nästa KF var planerat till 20 april."
+ },
+ {
+  "kommun": "Rättvik",
+  "id": "rattvik",
+  "lan": "Dalarnas län",
+  "kf": "november 2026 (planerat enligt kommunens generella beskrivning av budgetprocessen; exakt datum okänt)",
+  "luckor": "Undersidan /ekonomi-och-budget/budget.html ligger utanför allowlist och kunde inte hämtas. Budgetförslag 2027, KF-handlingar och BUN-underlag hittades inte i sökningarna."
+ },
+ {
+  "kommun": "Vansbro",
+  "id": "vansbro",
+  "lan": "Dalarnas län",
+  "kf": null,
+  "luckor": "Kommunens budget- och mötessidor syntes inte i sökresultaten. Kommunens protokoll ligger troligen på Netpublicator och indexeras dåligt. Budget 2027, KF-datum och BUN-underlag är inte granskade."
+ },
+ {
+  "kommun": "Älvdalen",
+  "id": "alvdalen",
+  "lan": "Dalarnas län",
+  "kf": null,
+  "luckor": "Kallelsen till KF 2026-10-26 (23 MB) är listad på kommunens KF-sida men ligger utanför allowlist och kunde inte öppnas. Kommunplan 2027–2029, KF-datum i november 2026 och underlag från BUN/sektor utbildning är inte granskade. Kommunplan 2025–2027 är inte genomläst."
+ },
+ {
+  "kommun": "Bollnäs",
+  "id": "bollnas",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Omkörningen gjorde 3 WebSearch (budget 2027/KF, protokollportalen, BUN/undervisningstid) utan Bollnäs-träffar. Majoritetens budget och KF-beslut för 2027 hittades inte, och det är oklart om ramarna för 2027 beslutades 2025 (tvåårig driftbudget) eller i juni 2026. Protokollportalen protokoll.bollnas.se kunde inte navigeras utan konstruerade URL:er. BUN:s underlag och ev. remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Hofors",
+  "id": "hofors",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Kallelsesidan (hofors.se/.../kallelser.html) vägrades (URL_NOT_ON_ALLOWLIST), så KS-handlingarna från hösten (2026-09-29, 2026-10-21, 2026-12-01) och KF-handlingarna (2026-11-10, 2026-12-15) kunde inte granskas. KF-datumen kommer från https://www.hofors.se/kommun--politik/politik/sammantradesdatum.html. Det är troligt men inte verifierat att budget 2027 beslutas hösten 2026. BUN:s underlag 2027 och ev. remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Hudiksvall",
+  "id": "hudiksvall",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Budgetsidan (https://hudiksvall.se/Sidor/Kommun-och-politik/Budget-resultat-och-kvalitet/Budget.html) har fortfarande bara budget 2026 och inget dokument för budget 2027 (plan 2028-2030). Det är osäkert om budgetdokumentet från 2026 är KF:s beslut eller KS förslag. KF-beslutet i juni 2026 är inte verifierat. Varken 3 WebSearch (budget 2027/KF, KF juni 2026/Lärandenämnden, undervisningstid) eller de hämtade sidorna gav några Hudiksvall-träffar för 2027. Lärandenämndens underlag och ev. remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Ljusdal",
+  "id": "ljusdal",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "EVP 2027 Del 1 (Sammanfattning) och Del 3 (Ledningsgruppens underlag: fördjupningar och planeringsförutsättningar) vägrades (URL_NOT_ON_ALLOWLIST) och kan nämna reformen: https://www.ljusdal.se/download/18.6c474fc619ed469a19a336eb/1782465260534/Del1_Sammanfattning_EVP2027_v5.pdf och https://www.ljusdal.se/download/18.6c474fc619ed469a19a33be9/1782467491464/Ledningsgruppens%20underlag%20till%20EVP%202027_v6.pdf. Budgetsidan säger att KF normalt beslutar i juni året före, men 2027 publicerades underlaget först i augusti 2026, så beslutet ligger troligen hösten 2026. KF-datum för budget 2027 är inte verifierat. Utbildningsnämndens underlag och ev. remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Nordanstig",
+  "id": "nordanstig",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Omkörningen gjorde 3 WebSearch (budget 2027/KF, KS-protokoll 2026, utbildningsutskottet/undervisningstid) men fann inga budgethandlingar för 2027, inget KF-datum och ingen budgetsida eller mötesportal för Nordanstig. Ev. remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Sandviken",
+  "id": "sandviken",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Omkörningen gjorde 2 WebSearch ('kommunplan 2027', planeringsstrategi 2027). Bara kommunplan 2026 och äldre dokument hittades. Planeringsstrategi 2024 gäller översiktsplanen enligt PBL och är irrelevant. Revideringen 2025-11-20 tyder på att KF beslutar i november, så kommunplan 2027 beslutas troligen i nov 2026 (ej verifierat, inget datum hittat). Kunskapsnämndens underlag 2027 hittades inte. Remissvaret på regeringen.se gäller SOU 2021:75 och är irrelevant; inget remissvar på SOU 2025:26 hittades."
+ },
+ {
+  "kommun": "Söderhamn",
+  "id": "soderhamn",
+  "lan": "Gävleborgs län",
+  "kf": null,
+  "luckor": "Omkörningen gjorde 3 WebSearch (budget 2027/KF, budget 2027/plan 2028-2030 på soderhamn.se, KF nov 2026/barn- och lärandenämnden), men ingen gav någon Söderhamn-handling för 2027. Budget 2027 beslutas sannolikt i KF nov–dec 2026 (ej verifierat). Majoritetens förslag och barn- och lärandenämndens underlag hittades inte. Remissvaret på regeringen.se gäller SOU 2019:18 och är irrelevant; inget remissvar på SOU 2025:26 hittades."
+ },
+ {
+  "kommun": "Halmstad",
+  "id": "halmstad",
+  "lan": "Hallands län",
+  "kf": null,
+  "luckor": "Mål och budget 2027–2031, partiernas förslag, barn- och ungdomsnämndens underlag och KF-datum hittades inte, trots två sökningar i denna omkörning. Halmstad har beslutat i maj/juni under icke-valår och i december under valåret 2022. Remissvar ej granskat."
+ },
+ {
+  "kommun": "Hylte",
+  "id": "hylte",
+  "lan": "Hallands län",
+  "kf": null,
+  "luckor": "REP 2027, BUN-underlag, KF-datum 2026 och remissvar hittades inte. hylte.se:s budgetsida gick inte att nå via sökningen."
+ },
+ {
+  "kommun": "Varberg",
+  "id": "varberg",
+  "lan": "Hallands län",
+  "kf": "2026-11-17 (planerat)",
+  "luckor": "Majoritetens budgetförslag 2027, oppositionens förslag och BUN/UAN-underlag hittades inte. KF-datumet kommer från en sekundärkälla. Remissvar ej granskat."
+ },
+ {
+  "kommun": "Berg",
+  "id": "berg",
+  "lan": "Jämtlands län",
+  "kf": null,
+  "luckor": "Hittade inga budgethandlingar 2027, inget budgetunderlag från bildningsnämnden och inget KF-datum för budget 2027. Det maximala antalet sökningar (3) är använt. Inget remissvar på SOU 2025:26 hittades."
+ },
+ {
+  "kommun": "Bräcke",
+  "id": "bracke",
+  "lan": "Jämtlands län",
+  "kf": "december 2026 (planerat enligt ordinarie process, exakt datum okänt)",
+  "luckor": "Kommunplan 2027–2029 och budgetunderlag från skol- och barnomsorg för 2027 hittades inte. Det maximala antalet sökningar (3) är använt. Datum för KF § 229/2025 framgår inte."
+ },
+ {
+  "kommun": "Härjedalen",
+  "id": "harjedalen",
+  "lan": "Jämtlands län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida och mötesportal hittades inte via sökningarna, så budgethandlingar 2027 och KF-datum saknas. Det maximala antalet sökningar (3) är använt."
+ },
+ {
+  "kommun": "Ragunda",
+  "id": "ragunda",
+  "lan": "Jämtlands län",
+  "kf": null,
+  "luckor": "Budget 2027, budgetsida och KF-protokoll 2026 hittades inte. Det maximala antalet sökningar (3) är använt."
+ },
+ {
+  "kommun": "Åre",
+  "id": "are",
+  "lan": "Jämtlands län",
+  "kf": null,
+  "luckor": "Utvecklingsplan 2027–2030 och KF-datum 2026 hittades inte. PDF:en för Utvecklingsplan 2026–2029 kunde inte hämtas (URL ej tillåten). Det maximala antalet sökningar (3) är använt."
+ },
+ {
+  "kommun": "Östersund",
+  "id": "ostersund",
+  "lan": "Jämtlands län",
+  "kf": "november 2026 (planerat enligt ordinarie process: rambudget i juni, slutlig mål och budget i november; exakt datum okänt)",
+  "luckor": "Rambudget 2027 (juni 2026), förslag till mål och budget 2027 och BUN-underlag hittades inte. PDF:en Mål och budget 2026 med flerårsplan 2027–2028 kunde inte hämtas (URL ej tillåten). Det maximala antalet sökningar (3) är använt."
+ },
+ {
+  "kommun": "Gislaved",
+  "id": "gislaved",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "Budget 2027 (förslag eller beslut) och utbildningsnämndens underlag hittades inte. Budgetsidan anger bara att KF beslutar i \"oktober/november\". 2026 års datum är inte verifierat."
+ },
+ {
+  "kommun": "Gnosjö",
+  "id": "gnosjo",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "KF-protokollen och föredragningslistorna 2026 (06-25, 08-27, 09-24, 10-29) är länkade på mötessidan, men hämtningen vägrades (inte tillåten URL). Därför är det okänt om och när budget 2027 beslutades. Inget KF-sammanträde i november–december 2026 är listat. Kultur- och utbildningsnämndens underlag har inte granskats."
+ },
+ {
+  "kommun": "Jönköping",
+  "id": "jonkoping",
+  "lan": "Jönköpings län",
+  "kf": "november 2026 (planerat; KF sammanträder 2026-11-17 och 2026-11-26, exakt datum ej bekräftat)",
+  "luckor": "VIP 2026–2028 hittades på budgetsidan, men PDF:en gick inte att hämta (inte tillåten URL). Det är därför okänt om planåret 2027 nämner reformen. Förslaget till VIP 2027–2029, utbildningsnämndens underlag och KF-handlingarna för november 2026 hittades inte. Resurstilldelningssidan säger att bidragsbelopp per elev för nästa år beslutas i december."
+ },
+ {
+  "kommun": "Mullsjö",
+  "id": "mullsjo",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "Strategisk plan 2027–2030, KF:s beslutsdatum för budget 2027 och BUN:s underlag hittades inte på tre sökningar. Kommunens budgetsida och mötesportal dök inte upp i sökresultaten, så de är inte granskade. Strategisk plan 2026–2029 anger inget beslutsdatum."
+ },
+ {
+  "kommun": "Nässjö",
+  "id": "nassjo",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "Hittade varken kommunens budgetförslag eller beslut för 2027, nämndernas budgetunderlag eller KF:s beslutsdatum. Delar av artikeln i Nässjönytt är låsta. Den gemensamma sökbudgeten tog slut innan diariet.nassjo.se kunde genomsökas mer."
+ },
+ {
+  "kommun": "Sävsjö",
+  "id": "savsjo",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "Hittade inget förslag till VP/budget 2027 (KS okt/nov 2026) och inget datum för KF:s beslut. Budgetsidan: https://savsjo.se/kommun-och-politik/ekonomi-och-upphandling/budget-och-verksamhetsplan.html. BUN:s budgetunderlag är inte granskat."
+ },
+ {
+  "kommun": "Tranås",
+  "id": "tranas",
+  "lan": "Jönköpings län",
+  "kf": "2026-06-15 eller 2026-05-11 (beslutat; exakt datum ej verifierat. KF 2026-05-11 startade tidigare 'på grund av budgetbeslut', och 'beslut i korthet' om budget 2027 publicerades 2026-06-16)",
+  "luckor": "Notisen och sammanträdesportalen (tranaskommun.ondemand.formpipe.com) gick inte att hämta (URL inte på allowlist). Budgetdokumentet för 2027 är inte granskat, så 'nämner_reformen' är okänt och inte verifierat negativt. Den gemensamma sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Vaggeryd",
+  "id": "vaggeryd",
+  "lan": "Jönköpings län",
+  "kf": null,
+  "luckor": "Ingen budget 2027, inget KF-datum och inget nämndunderlag granskat. KF-sidan (https://www.vaggeryd.se/kommun-och-politik/moten-kallelser-och-protokoll/kommunfullmaktige.html) renderar inte innehållet, troligen pga JavaScript."
+ },
+ {
+  "kommun": "Vetlanda",
+  "id": "vetlanda",
+  "lan": "Jönköpings län",
+  "kf": "2026-06-17 (beslutat); under valår fastställs budgeten på nytt i november, ev. KF 2026-11-18 (planerat, ej bekräftat)",
+  "luckor": "KF-protokollet 2026-06-17 (vetlanda.se/download/...Kommunfullmäktige, protokoll, 2026-06-17..pdf) gick inte att hämta (inte på allowlist). Dokumentet Mål och budget 2027 finns inte på budgetsidan, som senast uppdaterades maj 2025. Artikeln i Vetlandaposten blockerades (robots). Om reformen nämns är inte granskat."
+ },
+ {
+  "kommun": "Emmaboda",
+  "id": "emmaboda",
+  "lan": "Kalmar län",
+  "kf": "november 2026 (planerat, exakt datum ej angivet)",
+  "luckor": "Ej hittat: budgetförslag 2027, bildningsnämndens budgetunderlag 2027 och KF-protokoll för hösten 2026. Sökningar hittade bara äldre protokoll. Ramtabellerna i Budget 2026/plan 2027 gick inte att läsa ut."
+ },
+ {
+  "kommun": "Hultsfred",
+  "id": "hultsfred",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga 2027-handlingar från hultsfred.se. Sökbudgeten (delad) tog slut innan budgetsida/mötesportal kunde letas upp."
+ },
+ {
+  "kommun": "Högsby",
+  "id": "hogsby",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Sökningar gav inga träffar på hogsby.se för budget 2027. Sökbudgeten (delad) tog slut innan fler försök kunde göras."
+ },
+ {
+  "kommun": "Mörbylånga",
+  "id": "morbylanga",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Hittade inga handlingar för budget 2027 (planeringsförutsättningar, KS-förslag, KF-beslut) eller beslutsdatum. Budget 2026 beslutades i november 2025, så budget 2027 tas troligen i KF nov 2026, men det är inte bekräftat. Om remissvaret fattats av nämnd eller tjänsteperson framgår inte. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Nybro",
+  "id": "nybro",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Sökningar gav bara äldre dokument, t.ex. SD:s budget 2025–2028 och delårsrapport 2024. Nybros budget- och mötesportal granskades inte, och beslutsdatum för budget 2027 är okänt. Sökbudgeten tog slut innan riktade sökningar hann göras."
+ },
+ {
+  "kommun": "Torsås",
+  "id": "torsas",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Inga handlingar för budget 2027 hittades, och beslutsdatum är okänt. Mötesportalen och bildningsnämndens underlag granskades inte. Torsås var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Vimmerby",
+  "id": "vimmerby",
+  "lan": "Kalmar län",
+  "kf": "ca 2026-06-15 (beslutat, enligt lokaltidning; exakt datum ej verifierat)",
+  "luckor": "Bara nyhetsartiklar granskade. Det antagna budgetdokumentet 2027, KF-protokollet och BUN:s budgetunderlag hittades inte på kommunens webb. Det är okänt om budgeten revideras efter valet."
+ },
+ {
+  "kommun": "Västervik",
+  "id": "vastervik",
+  "lan": "Kalmar län",
+  "kf": null,
+  "luckor": "Hittade inte budget 2027 (troligen KF juni 2026) eller tilläggsbudget 2027 (troligen KF nov 2026). Barn- och utbildningsnämndens underlag granskades inte. Västervik var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Ljungby",
+  "id": "ljungby",
+  "lan": "Kronobergs län",
+  "kf": null,
+  "luckor": "Planeringsdirektivet för 2027 (troligen KF 2026-06-15) hittades inte. Sidan för dagordningar och protokoll blockerades (allowlist). KF-datum 2026 enligt kommunens sida: 15 juni, 23 nov, 14 dec. BUN:s underlag är inte granskat."
+ },
+ {
+  "kommun": "Markaryd",
+  "id": "markaryd",
+  "lan": "Kronobergs län",
+  "kf": null,
+  "luckor": "KF-protokollet 2026-06-22 (troligen med driftsramar 2027) gick inte att öppna (allowlist). Det gäller även KF 2026-09-28 och KS 2026-06-09: https://www.markaryd.se/download/18.662e217d19ea57e366c51ab0/1781511242556/2026-06-09%20Kommunstyrelsen%20KS%20protokoll.pdf. Budgetdokument 2027 och UKN:s underlag är inte granskade."
+ },
+ {
+  "kommun": "Uppvidinge",
+  "id": "uppvidinge",
+  "lan": "Kronobergs län",
+  "kf": null,
+  "luckor": "Inga handlingar för budget 2027 finns på budgetsidan (https://www.uppvidinge.se/kommun-och-politik/kommunfakta/ekonomi/ekonomi-och-budget.html). Budget 2026/VP 2027–2028 kunde inte hämtas: den ena URL:en gav klientfel, den andra stod inte på allowlist. KS-, KF- och BUN-protokoll för 2026 ej granskade. Beslutsdatum för budget 2027 är okänt."
+ },
+ {
+  "kommun": "Växjö",
+  "id": "vaxjo",
+  "lan": "Kronobergs län",
+  "kf": null,
+  "luckor": "Nyheten https://vaxjo.se/sidor/politik-och-demokrati/nyheter---politik-och-demokrati/arkiv/2026-11-03-budget-2027---forslag-fran-partierna.html (länkad från vaxjo.se) blockerades av allowlist. Följande ej granskat: partiernas budgetförslag 2027, KF-datum (troligen november 2026), utbildningsnämndens underlag och ev. remissvar SOU 2025:26. Sökkvoten per kommun (3) är förbrukad."
+ },
+ {
+  "kommun": "Arvidsjaur",
+  "id": "arvidsjaur",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Mål- och resursplan 2027, KS/KF-protokoll från 2026 och datum för KF:s budgetbeslut 2027 hittades inte. (MRP 2026 antogs i oktober 2025, så beslutet 2027 kan ligga på hösten 2026, men det är inte verifierat.) Inget remissvar på SOU 2025:26 hittades. Sökkvoten (3 sökningar) är förbrukad."
+ },
+ {
+  "kommun": "Boden",
+  "id": "boden",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Strategisk plan/budget 2027, utbildningsnämndens budgetunderlag och KF-beslutsdatum hittades inte. Ingen boden.se-URL dök upp i sökresultaten, så kommunens budgetsida kunde inte hämtas. Sökkvoten (3 sökningar) är förbrukad."
+ },
+ {
+  "kommun": "Gällivare",
+  "id": "gallivare",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Kommunplan/budget 2027, KS/KF-protokoll från hösten 2026 och barn- och utbildningsnämndens underlag hittades inte. Datum för KF:s budgetbeslut 2027 är okänt. Sökkvoten (3 sökningar) är förbrukad."
+ },
+ {
+  "kommun": "Haparanda",
+  "id": "haparanda",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Budget 2027, nämndunderlag och KF-beslutsdatum hittades inte. Sökresultaten innehöll bara en gammal årsredovisning (2023) från haparanda.se. Sökkvoten (3 sökningar) är förbrukad."
+ },
+ {
+  "kommun": "Jokkmokk",
+  "id": "jokkmokk",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Budget och strategisk plan 2027–2029 och KF-protokollet 2026 hittades inte. Enligt årshjulet antas ramarna i juni, men budget 2026 är daterad oktober 2025, så datumet för budget 2027 är okänt. Skede (förslag/beslut) för 2026–2028-dokumentet är inte verifierat. Sökkvoten (3 sökningar) är förbrukad."
+ },
+ {
+  "kommun": "Kiruna",
+  "id": "kiruna",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Hittade inte budget 2027, KF-beslutsdatum, BUN:s budgetunderlag eller remissvar. Sökkvoten (3 sökningar) är förbrukad. Kommunens mötesportal är inte granskad."
+ },
+ {
+  "kommun": "Piteå",
+  "id": "pitea",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "KF-protokollet 2026-06-18 (https://www.pitea.se/Bokhyllan/Protokoll - nämnder/Kommunfullmäktige/Protokoll/2025/Kommunfullmäktiges sammanträde 2026-06-18.pdf) gav ett klientfel vid hämtning, så det är okänt om budget 2027 beslutades där. Hittade inte strategisk plan/budget 2027 eller BUN:s underlag. Sökkvoten är förbrukad."
+ },
+ {
+  "kommun": "Överkalix",
+  "id": "overkalix",
+  "lan": "Norrbottens län",
+  "kf": null,
+  "luckor": "Hittade inte budget 2027 eller KF-beslutsdatum. Budget 2026 verkar ha behandlats i KF 2025-12-01 (kf-2025-12-01-bilaga-1.pdf, ej granskad), vilket tyder på ett beslut i december 2026, men det är inte verifierat. BUN:s underlag är inte granskat."
+ },
+ {
+  "kommun": "Bjuv",
+  "id": "bjuv",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Hittade inget KF-protokoll från juni 2026 och inga nämndhandlingar för budget 2027. Sökbudgeten (WebSearch) tog slut under arbetet. ”Budget 2026 och ekonomisk plan 2027-2028” (https://www.bjuv.se/download/18.118f46b419a76858e77a27ac/1764589793668/Budget%202026%20och%20ekonomisk%20plan%202027-2028%2020251105.pdf) har inte granskats."
+ },
+ {
+  "kommun": "Båstad",
+  "id": "bastad",
+  "lan": "Skåne län",
+  "kf": "hösten 2026, troligen 2026-11-26 eller 2026-12-16 (planerat, exakt datum ej bekräftat)",
+  "luckor": "Webbdiariet (diariet.bastad.se) gick inte att hämta (inte tillåten URL). KS:s budgetförslag och Utbildningsnämndens underlag för 2027 har inte granskats."
+ },
+ {
+  "kommun": "Helsingborg",
+  "id": "helsingborg",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Plan för mål och ekonomi 2027, KF-protokollet från juni 2026 och BUN:s budgetunderlag har inte hittats. Sidan styrning.helsingborg.se/stadens-mal och diariet gick inte att hämta. KF:s beslut om budget 2027 togs troligen i juni 2026, men datumet är inte verifierat."
+ },
+ {
+  "kommun": "Höganäs",
+  "id": "hoganas",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027 hittades varken som förslag eller beslut. Höganäs beslutar normalt budget i KF i september (2024-09-26 och 2025-09-25), så budget 2027 kan redan vara beslutad, men det kunde inte bekräftas. Sidan för budget 2026 gick inte att hämta (allowlist). Utbildningsnämndens underlag är ogranskat."
+ },
+ {
+  "kommun": "Klippan",
+  "id": "klippan",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Ingen budget 2027 hittad. Beslutsdatum okänt (budget 2026 togs i augusti 2025, så budget 2027 kan vara beslutad i aug 2026 eller planerad till hösten). Kommunens budgetsida och documentweb ej genomsökta. Sökbudget slut."
+ },
+ {
+  "kommun": "Kristianstad",
+  "id": "kristianstad",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027 (troligen beslutad juni 2026 enligt kommunens normala tidplan, men ej bekräftat) hittades inte. Artikel på nkp.se om majoritetens förslag blockerad (robots). KF-protokoll juni 2026 och BUN-underlag ej hittade. Sökbudget slut."
+ },
+ {
+  "kommun": "Kävlinge",
+  "id": "kavlinge",
+  "lan": "Skåne län",
+  "kf": "november 2026 (planerat enligt kommunens generella beskrivning av ekonomiprocessen; exakt datum ej hittat)",
+  "luckor": "KS budgetförslag 2027 (våren 2026) hittades inte. Mötesportalen laddas via iframe och kunde inte läsas, och sammanträdesplanen för 2026 gick inte att hämta (allowlist). På anslagstavlan finns protokoll från KF 2026-10-19, KS 2026-10-14 och 2026-11-04 samt UN 2026-10-13, men innehållet är ogranskat. Exakt KF-datum i november är okänt."
+ },
+ {
+  "kommun": "Landskrona",
+  "id": "landskrona",
+  "lan": "Skåne län",
+  "kf": "2026-11-23 (planerat)",
+  "luckor": "Artikeln bakom betalvägg; endast ingressen läst, så om reformen nämns är okänt. Fullmäktigeplan 2027-2029 (förslag) ej hittad på kommunens budgetsida (som visar fullmäktigeplan 2026-2028). KF-sidan listar möten 23 nov och 14 dec 2026 utan handlingar. Sökbudget slut."
+ },
+ {
+  "kommun": "Lomma",
+  "id": "lomma",
+  "lan": "Skåne län",
+  "kf": "2026-11-05 eller 2026-12-03 (planerat, osäkert; Lomma har tidigare beslutat budget i november, t.ex. 2023-11-21)",
+  "luckor": "Budget 2026 och plan 2027–2029 gick inte att hämta (allowlist). Styrets budgetförslag 2027 och BUN-underlaget hittades inte. Pressen.se har artikeln 'Klubbat: Styrets budget sätter ramarna för 2027' (2026-11-05, Johan Bolinder, M), men den anger inte kommun och kan därför inte knytas till Lomma: https://www.pressen.se/1371654183.html"
+ },
+ {
+  "kommun": "Lund",
+  "id": "lund",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Mötesportalen moten.lund.se blockerad (robots) så utbildningsnämndens budgetunderlag och KF-handlingar kunde inte granskas. Planeringsdirektiv EVP 2027-2029 ej hittat. KF-datum för EVP 2027-2029 okänt (tidigare år i november, t.ex. 22-23 nov 2023). Sökbudget slut."
+ },
+ {
+  "kommun": "Osby",
+  "id": "osby",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Inga budget 2027-handlingar (ramar/förslag) hittades i 3 sökningar. Osby beslutade budgetramar för 2026 i KF i september (2025-09-08) och budgetdokumentet i december, så budget 2027 kan vara planerat till hösten 2026, men datum är inte verifierat. Remissvar på SOU 2025:26 inte hittat."
+ },
+ {
+  "kommun": "Perstorp",
+  "id": "perstorp",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027-dokument och KF-beslutsdatum hittades inte (tidigare budgetar verkar ha beslutats i juni, t.ex. KF 2025-06-25, men det är inte verifierat för 2027). Budgetberedningens förslag och BUN:s budgetunderlag i övrigt är inte granskade."
+ },
+ {
+  "kommun": "Simrishamn",
+  "id": "simrishamn",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Själva budgetdokumentet 'Budget 2026-2030' och underlaget till BUN:s ärende 'Budget 2027 - Resultatbudget' hittades inte. Det är oklart om KF ska fatta ett separat beslut om budget 2027 hösten 2026."
+ },
+ {
+  "kommun": "Sjöbo",
+  "id": "sjobo",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Inga budget 2027-handlingar, KF-datum eller BUN-underlag hittades. Sjöbos mötesportal och budgetsida dök inte upp i sökträffarna. Behöver granskas på nytt via kommunens webbplats."
+ },
+ {
+  "kommun": "Skurup",
+  "id": "skurup",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027-handlingar från 2026 hittades inte. KF-kallelsen från juni 2025 gick inte att öppna (client_error). Datum för KF:s beslut om budget 2027 är inte verifierat (troligen juni 2026)."
+ },
+ {
+  "kommun": "Staffanstorp",
+  "id": "staffanstorp",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027-handlingar hittades inte. Budget 2026 beslutades under hösten (förord 2025-11-10), så budget 2027 är troligen planerad till KF i nov–dec 2026, men det är inte verifierat. Utbildningsnämndens budgetunderlag är inte granskat."
+ },
+ {
+  "kommun": "Svalöv",
+  "id": "svalov",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budgetförslaget och budgetbeslutet för 2027, KF-datum och nämndernas underlag hittades inte, varken i sökresultaten eller via sökmotorn. Svalövs mötesportal kunde inte nås, eftersom bara URL:er som syns i sökresultaten får hämtas."
+ },
+ {
+  "kommun": "Tomelilla",
+  "id": "tomelilla",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027 hittades inte. KS behandlade Budget 2026 redan i maj 2025, så Tomelilla beslutar troligen budget före sommaren. Budget 2027 kan alltså ha beslutats i juni 2026, men det är inte verifierat. Sidorna för kommunfullmäktige och kommunstyrelsen kunde inte hämtas (URL:erna fanns inte i sökresultaten)."
+ },
+ {
+  "kommun": "Trelleborg",
+  "id": "trelleborg",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Dokumentet Budget 2026–2028 (plan för 2027) kunde inte hämtas, eftersom URL:en inte fanns i sökresultaten. Inte heller mötesportalen moten.trelleborg.se gick att nå. Förslaget till budget 2027, KF-datum hösten 2026 och bildningsnämndens underlag är inte granskade. Ett PDF-dokument från Trelleborg på regeringen.se gällde nationell transportplan och är inte relevant."
+ },
+ {
+  "kommun": "Vellinge",
+  "id": "vellinge",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Förslaget till budget 2027 och KF-datum (troligen november/december 2026) hittades inte. Sidan Styrning och uppföljning ger inga datum. Moderaternas nyhetssida (augusti 2026) tar upp skola men inte budget 2027 eller undervisningstid. Sidan \"Ekonomi, budget och kommunal skattesats\" kunde inte hämtas (URL:en fanns inte i sökresultaten)."
+ },
+ {
+  "kommun": "Ystad",
+  "id": "ystad",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Granskade ystad.se-dokument: KF-protokoll 2023-04-20 och 2023-06-15 samt KS-protokoll 2023-03-29. Inget av dem är relevant för budget 2027. Budget 2027, KF-datum och underlag från barn- och utbildningsnämnden/gymnasienämnden hittades inte via sökmotorn."
+ },
+ {
+  "kommun": "Åstorp",
+  "id": "astorp",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Budget 2027 och KF-datum (troligen november 2026) hittades inte. Dokumentet för budget 2026 anger inget KF-datum eller paragraf. Bildningsnämndens underlag för 2027 är inte granskat."
+ },
+ {
+  "kommun": "Östra Göinge",
+  "id": "ostra-goinge",
+  "lan": "Skåne län",
+  "kf": null,
+  "luckor": "Den reviderade mål- och resultatplanen med budget 2027 (sannolikt KF juni 2026, ej verifierat), KF-kallelse/protokoll för 2026 och nämndunderlag hittades inte. ostragoinge.se:s startsida gick inte att öppna. Remissvar på SOU 2025:26 ej granskat. Äldre länk som kan ge mönstret, ej öppnad: https://www.ostragoinge.se/wp-content/uploads/2024/09/mal-och-resultatplan-2024-2027-reviderad-och-antagen-juni-2025.pdf"
+ },
+ {
+  "kommun": "Botkyrka",
+  "id": "botkyrka",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Utbildningsnämndens protokoll 2026-08-25 ej åtkomligt."
+ },
+ {
+  "kommun": "Ekerö",
+  "id": "ekero",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Budget 2027 beslutas nov 2026, ej hittad."
+ },
+ {
+  "kommun": "Järfälla",
+  "id": "jarfalla",
+  "lan": "Stockholms län",
+  "kf": "2026-12-07 (planerat)",
+  "luckor": "Förslag 2027 ej publicerat."
+ },
+ {
+  "kommun": "Lidingö",
+  "id": "lidingo",
+  "lan": "Stockholms län",
+  "kf": "2026-11-23 (planerat)",
+  "luckor": "Mötesportal ej hittad."
+ },
+ {
+  "kommun": "Norrtälje",
+  "id": "norrtalje",
+  "lan": "Stockholms län",
+  "kf": "2026-12-14 (planerat)",
+  "luckor": "forum.norrtalje.se ej åtkomlig."
+ },
+ {
+  "kommun": "Nynäshamn",
+  "id": "nynashamn",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Sammanträdessidor laddas med JavaScript."
+ },
+ {
+  "kommun": "Sollentuna",
+  "id": "sollentuna",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Mötessidor ej listbara."
+ },
+ {
+  "kommun": "Sundbyberg",
+  "id": "sundbyberg",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "opengov-portalen ej åtkomlig."
+ },
+ {
+  "kommun": "Upplands Väsby",
+  "id": "upplands-vasby",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Flerårsplan 2027–2029 ej hittad."
+ },
+ {
+  "kommun": "Upplands-Bro",
+  "id": "upplands-bro",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Kommunplan 2027 ej hittad."
+ },
+ {
+  "kommun": "Värmdö",
+  "id": "varmdo",
+  "lan": "Stockholms län",
+  "kf": null,
+  "luckor": "Budgetdokument gav serverfel; opengov ej åtkomligt."
+ },
+ {
+  "kommun": "Flen",
+  "id": "flen",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes utan budgetdokument 2027 och utan KF-datum. Flen beslutade tidigare budget i juni (KF-kallelse 2024-06-17 finns), men juni 2026 är inte verifierat. Barn-, utbildnings- och kulturnämndens budgetunderlag 2027 hittades inte."
+ },
+ {
+  "kommun": "Gnesta",
+  "id": "gnesta",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026."
+ },
+ {
+  "kommun": "Katrineholm",
+  "id": "katrineholm",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Varken Övergripande plan med budget 2027–2029, planeringsdirektiv 2027 eller bildningsnämndens underlag hittades. Katrineholm beslutar normalt i november (plan 2026–2028: KF 2025-11-17), men datumet 2026 är inte verifierat. Remissvaren på regeringen.se gäller andra utredningar än SOU 2025:26."
+ },
+ {
+  "kommun": "Nyköping",
+  "id": "nykoping",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Budget 2027 hittades inte. Nyköping beslutar normalt i oktober (2025-10-14, 2024-10-08), men datumet 2026 är inte verifierat. BUN:s underlag för 2027 hittades inte."
+ },
+ {
+  "kommun": "Strängnäs",
+  "id": "strangnas",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Flerårsplan 2027–2029 och KF-kallelse/protokoll från juni 2026 hittades inte. Strängnäs beslutar normalt i juni (2025-06-23, 2024-06-17, 2023-06-19), så budget 2027 är sannolikt beslutad i juni 2026, men det är inte verifierat. BUN:s verksamhetsplan 2027 hittades inte."
+ },
+ {
+  "kommun": "Trosa",
+  "id": "trosa",
+  "lan": "Södermanlands län",
+  "kf": null,
+  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Varken vår- eller höstbudget 2027 hittades. Trosa beslutar budget i två steg: vårbudget i juni (KF 2025-06-18) och höstbudget i nov–dec. Datumen 2026 är inte verifierade. Beslutsdatum för budget 2026 (vår) framgår inte av dokumentet."
+ },
+ {
+  "kommun": "Vingåker",
+  "id": "vingaker",
+  "lan": "Södermanlands län",
+  "kf": "november 2026 (planerat enligt ordinarie process; exakt datum okänt)",
+  "luckor": "KF:s rambeslut för 2027 (juni 2026), BUN:s budgetunderlag 2027 och förslaget till kommunplan 2027 (nov 2026) hittades inte. Nyheter om ett sparkrav på 7 mnkr i skolan (SVT, Katrineholms-Kuriren) syntes i sökresultaten men öppnades inte, och vilket år de gäller är okänt."
+ },
+ {
+  "kommun": "Enköping",
+  "id": "enkoping",
+  "lan": "Uppsala län",
+  "kf": null,
+  "luckor": "Sökningarna gav inga handlingar för budget 2027: varken KS-förslag, utbildningsnämndens underlag eller kallelse till KF i november 2026. Startsidan enkoping.se gick inte att hämta (inte på listan över tillåtna URL:er). Det exakta KF-datumet i november 2026 är okänt."
+ },
+ {
+  "kommun": "Heby",
+  "id": "heby",
+  "lan": "Uppsala län",
+  "kf": "2026-06-16 (sannolikt beslutat; ej verifierat – samlingshandlingen kunde inte öppnas)",
+  "luckor": "Samlingshandlingen till KF 2026-06-16 gick inte att hämta (fel på webbplatsen, två försök), så själva dokumentet Mål och budget 2027 och KF-beslutet är inte granskade. Utbildningsnämndens budgetunderlag för 2027 hittades inte."
+ },
+ {
+  "kommun": "Håbo",
+  "id": "habo",
+  "lan": "Uppsala län",
+  "kf": "november 2026 (planerat enligt ordinarie process; exakt datum ej verifierat)",
+  "luckor": "Inget KS-förslag, ingen nämndbudget och ingen KF-kallelse för budget 2027 (hösten 2026) hittades. OBS: sökträffar på habokommun.se och regeringen.se/.../habo-kommun.pdf gäller Habo kommun i Jönköpings län, inte Håbo, och har inte tagits med."
+ },
+ {
+  "kommun": "Tierp",
+  "id": "tierp",
+  "lan": "Uppsala län",
+  "kf": "november 2026 (troligt enligt tidigare praxis; ej verifierat)",
+  "luckor": "Tre sökningar gav inga handlingar för budget 2027 eller planen för 2027–2029: varken KS-förslag, nämndunderlag eller KF-kallelse för hösten 2026. Datumet är inte verifierat."
+ },
+ {
+  "kommun": "Älvkarleby",
+  "id": "alvkarleby",
+  "lan": "Uppsala län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida och mötesportal syntes inte i sökresultaten. Inga budgetdokument, nämndunderlag eller KF-datum kunde granskas."
+ },
+ {
+  "kommun": "Arvika",
+  "id": "arvika",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken strategisk plan/budget 2027, KF-beslutsdatum eller nämndunderlag 2027 (3 sökningar gjorda). Remissvaret https://www.regeringskansliet.se/contentassets/36497cfb01ac41fb8e35c3837ca80552/arvika-kommun.pdf omdirigerades till regeringen.se:s startsida, så det är okänt vilken remiss det gäller."
+ },
+ {
+  "kommun": "Filipstad",
+  "id": "filipstad",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). filipstad.se:s budget- och protokollsidor kom inte fram i sökresultaten."
+ },
+ {
+  "kommun": "Forshaga",
+  "id": "forshaga",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken budget 2027, KF-datum eller nämndunderlag (3 sökningar gjorda)."
+ },
+ {
+  "kommun": "Grums",
+  "id": "grums",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). grums.se:s dokument indexerades inte i sökresultaten."
+ },
+ {
+  "kommun": "Hammarö",
+  "id": "hammaro",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken budget 2027 eller KF-datum för den. Budget 2026 beslutades i december 2025, så budget 2027 beslutas troligen i nov–dec 2026 (inte verifierat). Underlag från BUN hittades inte (3 sökningar gjorda)."
+ },
+ {
+  "kommun": "Karlstad",
+  "id": "karlstad",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Hittade varken strategisk plan 2027–2029, KF-datum, underlag från BUN/gymnasienämnden eller remissvar på SOU 2025:26 (3 sökningar gjorda). Pressmeddelandena i kommunens nyhetsrum (\"Kommunstyrelsen i korthet\") som kom upp i sökningen gällde äldre år."
+ },
+ {
+  "kommun": "Kristinehamn",
+  "id": "kristinehamn",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Budget 2027 och KF-protokollet från juni 2026 hittades inte. Kommunens budgetsida (https://www.kristinehamn.se/kommun-och-politik/ekonomi-och-budget/budget/) gav vid hämtning bara navigeringsmenyer. Skolnämndens budgetunderlag 2027 är inte granskat. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Storfors",
+  "id": "storfors",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Datum för KF-beslutet om budget 2027 har inte hittats och beslutet tas troligen nov–dec 2026. Kallelsen till KF 2026-09-17 gick inte att öppna (tidigare körning). Inga budgetförslag eller förvaltningsunderlag 2027 har hittats. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Säffle",
+  "id": "saffle",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Budgetdokument 2027, KF-datum och BUN-underlag har inte hittats. Kommunens webbplats saffle.se dök inte upp i några sökresultat. Artikeln https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten kunde inte hämtas (robots). Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Torsby",
+  "id": "torsby",
+  "lan": "Värmlands län",
+  "kf": null,
+  "luckor": "Protokollen ligger i Netpublicator (https://www.netpublicator.com/reader/r32137321), som inte är granskad eftersom den troligen kräver JavaScript. Budgetdokument 2027, KF-beslut och BUN-underlag har inte hittats, och artikeln låg delvis bakom betalvägg."
+ },
+ {
+  "kommun": "Årjäng",
+  "id": "arjang",
+  "lan": "Värmlands län",
+  "kf": "2026-11-23 (planerat)",
+  "luckor": "Budgetförslaget 2027 inför KF 2026-11-23 har inte hittats, och inte heller BUN-underlag eller nämndernas ramar från våren 2026. På budgetsidan (https://www.arjang.se/kommunalservice/startsida/kommunochpolitik/budgetochekonomi.1098.html) syntes inga dokumentlänkar."
+ },
+ {
+  "kommun": "Bjurholm",
+  "id": "bjurholm",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Hittade inget KF-protokoll från 2026 om budget 2027 och inget underlag från utbildningsnämnden. Beslutsdatumet för budget 2027 är okänt; budget 2026 beslutades i juni, så juni 2026 är troligt men inte verifierat."
+ },
+ {
+  "kommun": "Dorotea",
+  "id": "dorotea",
+  "lan": "Västerbottens län",
+  "kf": "2026-06-15 (planerat enligt kungörelse; beslutsprotokoll ej granskat)",
+  "luckor": "Hittade varken själva budgetdokumentet för 2027, KF-protokollet från 2026-06-15 eller underlag från skolan. Det gick inte att avgöra om budgeten ska tas upp igen efter valet."
+ },
+ {
+  "kommun": "Lycksele",
+  "id": "lycksele",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga budgethandlingar för 2027 och ingen sida för KF:s protokoll 2026. Remissvar från Lycksele på SOU 2025:26 har inte granskats. Under regeringen.se finns ett dokument kallat 'lycksele-kommun.pdf' (https://regeringen.se/contentassets/035b16e9ec9f473b9c1fb302332ac227/lycksele-kommun.pdf), men vilken remiss det gäller är inte verifierat."
+ },
+ {
+  "kommun": "Nordmaling",
+  "id": "nordmaling",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Tre sökningar gav varken kommunens budgetsida, mötesportal eller KF-protokoll för 2026. Inget i Nordmaling har granskats."
+ },
+ {
+  "kommun": "Robertsfors",
+  "id": "robertsfors",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga KF-protokoll eller budgethandlingar för 2027. Inget relevant har granskats."
+ },
+ {
+  "kommun": "Skellefteå",
+  "id": "skelleftea",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inget budgetförslag för 2027 och inget KF-datum. Budgeten presenteras sannolikt i oktober med beslut i november, men det är inte verifierat. Skellefteå har två utbildningsnämnder, vars underlag inte har granskats."
+ },
+ {
+  "kommun": "Storuman",
+  "id": "storuman",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Budget 2027-förslag och KF-datum för hösten 2026 hittades inte (troligen nov 2026, ej verifierat). Gymnasiet sköts via Södra Lapplands gymnasieförbund (med Vilhelmina). Remissvar SOU 2025:26 ej sökt."
+ },
+ {
+  "kommun": "Vindeln",
+  "id": "vindeln",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Budget 2027-handlingar och KF-datum ej funna (budget 2025 beslutades i juni, så juni 2026 är troligt men ej verifierat). Remissvar SOU 2025:26 ej sökt."
+ },
+ {
+  "kommun": "Vännäs",
+  "id": "vannas",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida/mötesportal ej hittad via sök; budget 2027, KF-datum och nämndunderlag ej granskade. Remissvar SOU 2025:26 ej sökt."
+ },
+ {
+  "kommun": "Åsele",
+  "id": "asele",
+  "lan": "Västerbottens län",
+  "kf": null,
+  "luckor": "Budget 2027 (ramar) och KF-datum ej funna; budgetdokument 2025 samt plan 2026–2027 ej granskat. Remissvar SOU 2025:26 ej sökt."
+ },
+ {
+  "kommun": "Kramfors",
+  "id": "kramfors",
+  "lan": "Västernorrlands län",
+  "kf": null,
+  "luckor": "Mål- och resursplan 2027 (förslag eller beslut) hittades inte. Kramfors beslutade budget 2026 i KF i oktober 2025, så beslut om 2027 kan ligga hösten 2026, men det är inte verifierat. Pressreleasen \"17 miljoner stärker Kramfors...\" (mynewsdesk, 2026-06-26) blockerades av allowlist. Bildningsnämndens budgetunderlag 2027 har inte granskats."
+ },
+ {
+  "kommun": "Sollefteå",
+  "id": "solleftea",
+  "lan": "Västernorrlands län",
+  "kf": null,
+  "luckor": "Övergripande verksamhetsplan 2027–2029 och KF-datum hittades inte. Övergripande verksamhetsplan 2025–2027 öppnades inte. Utbildningsnämndens underlag har inte granskats. Producent och skede för remissvaret är antagna (kommunens yttrande, beslutande organ anges inte)."
+ },
+ {
+  "kommun": "Sundsvall",
+  "id": "sundsvall",
+  "lan": "Västernorrlands län",
+  "kf": null,
+  "luckor": "Själva budgetdokumenten (Mål och budget 2027, styrets och oppositionens förslag) och KF-datum hittades inte. Budgeten presenterades i juni 2026, så ett KF-beslut i juni 2026 är troligt men inte verifierat. Motionen öppnades inte, och datum och innehåll är bara härledda ur URL:en. Barn- och utbildningsnämndens underlag 2027 har inte granskats."
+ },
+ {
+  "kommun": "Ånge",
+  "id": "ange",
+  "lan": "Västernorrlands län",
+  "kf": null,
+  "luckor": "Budget 2027 (beslut i juni och/eller november 2026) hittades inte. Ånge beslutade 2026 års budget i två steg (KF juni och november 2025), och samma upplägg för 2027 är troligt men inte verifierat. Barn och ungas underlag har inte granskats."
+ },
+ {
+  "kommun": "Örnsköldsvik",
+  "id": "ornskoldsvik",
+  "lan": "Västernorrlands län",
+  "kf": null,
+  "luckor": "KS-förslaget till Budget 2027 (KS 2026-11-03) och KF-datum hittades inte. Pressmeddelandet från KS 3 november hittades inte via sökning. Sveriges Radio-artikeln om satsningar på skola och omsorg kunde inte öppnas (robots). Bildningsnämndens underlag har inte granskats."
+ },
+ {
+  "kommun": "Arboga",
+  "id": "arboga",
+  "lan": "Västmanlands län",
+  "kf": null,
+  "luckor": "SEP 2025–2027 öppnades inte (ett äldre dokument). Ej granskat: SEP/budget 2027, KF-datum, BUN-underlag 2027 och eventuellt remissvar. KS-sidan gav en omdirigeringsloop och KSAU-sidan saknade dokumentlänkar. En insändare i Bärgslagsbladet om Arbogas budget (bblat.se) var blockerad av robots. Tidigare år antogs SEP i KF i november (2024-11-21). Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Fagersta",
+  "id": "fagersta",
+  "lan": "Västmanlands län",
+  "kf": null,
+  "luckor": "Budgetsidans huvudinnehåll kom inte med vid hämtningen, så inga dokumentlänkar kunde följas. Ej granskat: budget 2027, KF-datum, BUN-underlag 2027, remissvar på SOU 2025:26. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Norberg",
+  "id": "norberg",
+  "lan": "Västmanlands län",
+  "kf": null,
+  "luckor": "PDF:en 'Budget 2026 med plan 2027-2028' och mötesportalen OpenGov (KF, BUN) gick inte att öppna (URL_NOT_ON_ALLOWLIST). Budgetförslag 2027 och BUN:s underlag är ej hittade. Datum för KF-beslutet om budget 2027 är okänt: möten finns 2026-11-09 och 2026-12-14, men ärendet är ej verifierat."
+ },
+ {
+  "kommun": "Sala",
+  "id": "sala",
+  "lan": "Västmanlands län",
+  "kf": null,
+  "luckor": "Budget 2027 (plan 2028–2030) ej hittad med 3 sökningar, och KF-protokoll från juni 2026 ej hittat. Datumet för KF-beslutet om budget 2027 är okänt. Underlag från Utbildnings- och arbetsmarknadsnämnden ej granskat."
+ },
+ {
+  "kommun": "Surahammar",
+  "id": "surahammar",
+  "lan": "Västmanlands län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida och mötesportal syntes inte i sökträffarna och kunde därför inte följas. Budget 2027, BUN:s underlag och datum för KF-beslutet är okända."
+ },
+ {
+  "kommun": "Bengtsfors",
+  "id": "bengtsfors",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inga budgetdokument, KF-protokoll eller nämndhandlingar 2026 hittades i sökningarna. bengtsfors.se/ovrigt/webbkarta och startsidan låg inte på listan över tillåtna URL:er. Allt återstår: budget 2027, beslutsdatum och nämndunderlag."
+ },
+ {
+  "kommun": "Bollebygd",
+  "id": "bollebygd",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Dokumentet 2025-2027 lästes inte i detalj, eftersom det föregår propositionen och nämner_reformen=false är antaget. Budget 2026-2028 och budget 2027-2029 hittades inte, inte heller mötesportal eller KF-protokoll 2026. Planerat KF-datum för budget 2027 är okänt (troligen november)."
+ },
+ {
+  "kommun": "Borås",
+  "id": "boras",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Budgetdokumenten för 2025 och 2026 lästes inte i detalj. nämner_reformen=false är antaget, eftersom dokumenten föregår eller ligger nära propositionen. Inga handlingar för budget 2027 hittades (KS-version oktober 2026, nämndernas budgetförslag), inte heller planerat KF-datum. Artikeln på bt.se gick inte att hämta (robots). boras.se startsida låg inte på listan över tillåtna URL:er. Remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Falköping",
+  "id": "falkoping",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Dokumenten lästes inte i detalj. De föregår propositionen och nämner_reformen=false är antaget. Inga handlingar för flerårsplan 2027-2029 hittades (KS-förslag, BUN-underlag 2026), inte heller KF-datum hösten 2026. falkoping.se startsida låg inte på listan över tillåtna URL:er."
+ },
+ {
+  "kommun": "Färgelanda",
+  "id": "fargelanda",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade ingen MRP 2027–2030, inget budgetförslag 2027 och inget KF-protokoll 2026 om budget 2027. Färgelanda beslutade MRP i juni 2025, så budget 2027 kan ha beslutats i juni 2026, men det är inte verifierat. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Grästorp",
+  "id": "grastorp",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inget budgetdokument 2027 och inget beslutsdatum. Budget 2026 beslutades i november 2025, så budget 2027 beslutas troligen i november 2026, men det är inte verifierat. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Gullspång",
+  "id": "gullspang",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inget budgetdokument 2027. Enligt årshjulet bör budget 2027 ha beslutats i juni 2026, men inget protokoll hittades. Verksamhetsplanen 2026 för Barn-, utbildnings- och kulturnämnden granskades inte. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Herrljunga",
+  "id": "herrljunga",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inga handlingar för budget 2027 (KS-kallelser hösten 2026, bildningsnämndens underlag) syntes i sökträffarna. Budgeten beslutas troligen i KF i november, som tidigare år (2025-11-27), men inget datum för 2026 är verifierat. Tre sökningar är gjorda."
+ },
+ {
+  "kommun": "Hjo",
+  "id": "hjo",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Vårbudget 2027 (KF juni 2026) och budget 2027–2029 (KF november 2026) hittades inte i sökningarna. Kommunens budgetsida och protokollsida från 2026 nåddes inte. Tre sökningar är gjorda."
+ },
+ {
+  "kommun": "Härryda",
+  "id": "harryda",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inga handlingar för budget 2027 hittades, varken förslag från rödgröna eller Alliansen, KF-beslut eller underlag från UKF-nämnden. Härryda brukar besluta budgeten i juni, så budget 2027 är troligen beslutad i juni 2026, men det är inte verifierat. Tre sökningar är gjorda."
+ },
+ {
+  "kommun": "Karlsborg",
+  "id": "karlsborg",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inget budgetdokument för 2027, inga nämndunderlag och inget KF-datum hittades. Enligt förra körningen visar karlsborg.se:s sidor för protokoll och ekonomi bara menyer, eftersom innehållet laddas med JavaScript. Budget och verksamhetsplan 2025–2027 granskades inte. Tre sökningar är gjorda."
+ },
+ {
+  "kommun": "Lerum",
+  "id": "lerum",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida och mötesportal på lerum.se syntes inte i sökträffarna. Inga dokument för budget 2027 och inget KF-datum hittades. Tre sökningar är gjorda."
+ },
+ {
+  "kommun": "Lilla Edet",
+  "id": "lilla-edet",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade ingen MRP 2027 (varken förslag eller beslut), inget KF-datum och inget budgetunderlag från bildningsnämnden för 2027. Sidan med mötesprotokoll och kommunens startsida gick inte att hämta (inte på tillåtelselistan). Kallelser tyder på att KF tidigare beslutat MRP i juni eller december, men det är inte verifierat för 2027. Lilla Edet deltar i GR:s skolekonomnätverk. Nätverkets anteckningar från 2026-02-26 säger att reformen \"kommer bli väldigt dyrt\" och att SKR:s mall är \"krånglig\", men de nämner inte Lilla Edet specifikt: https://goteborgsregionen.se/download/18.5e2fcdef19d24d2898c5294/1774871144619/2026-02-26%20Anteckningar%20Skolekonomna%CC%88tverket.pdf"
+ },
+ {
+  "kommun": "Lysekil",
+  "id": "lysekil",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inget förslag till budget 2027, ingen tidplan och inget KF-datum för 2027 hittades. Förra året beslutade KF i december (2025-12-10), så december 2026 är troligt men inte verifierat. Utbildningsnämndens budgetunderlag är inte granskat. Startsidan gick inte att hämta."
+ },
+ {
+  "kommun": "Mariestad",
+  "id": "mariestad",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Kommunens budgetsida (https://mariestad.se/kommun-och-politik/kommunfakta/ekonomi/budget) listar inga dokument. Sidorna med KF:s sammanträdesdagar, kallelser och protokoll gick inte att hämta (inte på tillåtelselistan). Artiklarna i Mariestads-Tidningen (\"Så vill majoriteten satsa i Mariestad nästa år\", \"Skolan kommer först för S\") blockeras av robots. Enligt en artikel från 2025-10-27 togs budgetbeslutet för 2026 i oktober, så KF har troligen beslutat om budget 2027 i oktober 2026 eller gör det snart. Inget av detta är verifierat."
+ },
+ {
+  "kommun": "Mark",
+  "id": "mark",
+  "lan": "Västra Götalands län",
+  "kf": "juni 2026 (beslutat enligt kommunens budgetsida; exakt datum inte verifierat)",
+  "luckor": "PDF:en med Budget 2027–2030 gick inte att hämta (inte på tillåtelselistan), så punkterna (a)–(e) är ogranskade. Skedet \"beslut\" bygger på att KF enligt budgetsidan beslutar i juni och att föregående år beslutades 2024-06-18 och 2025-06-18. Barn- och utbildningsnämndens underlag för 2027 är inte granskat. Sökkvoten (3 sök) är förbrukad."
+ },
+ {
+  "kommun": "Mellerud",
+  "id": "mellerud",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inga budget 2027-handlingar, inget KF-beslutsdatum och inget underlag från utbildningsnämnden hittades. Enligt styrmodellen i budget 2026 (s. 35) beslutas budgeten i juni, alltså troligen juni 2026, men inget datum är verifierat. Den delade sökbudgeten tog slut, så ingen vidare sökning gjordes."
+ },
+ {
+  "kommun": "Munkedal",
+  "id": "munkedal",
+  "lan": "Västra Götalands län",
+  "kf": "mitten av juni 2026 (beslutat; exakt datum ej angivet i källan)",
+  "luckor": "Kommunens sida \"Budget 2027\" (https://www.munkedal.se/kommun-och-politik/kommunfakta/ekonomi/budget/budget-2027) gick inte att hämta (inte på tillåtelselistan), så MRP budget 2027 och KF-protokollet är ogranskade. Kultur- och utbildningsnämndens underlag för 2027 är inte granskat. Tidningsartikeln är delvis låst. Den senast tillgängliga MRP:n är budget 2026, plan 2027–2029: https://www.munkedal.se/download/18.faeb7ea19760dd85bcb4d5e/1750936537232/M%C3%A5l%20och%20Resursplan%20%28MRP%29%20budget%202026%20plan%202027-2029%202025-14%20%C2%A7102.pdf"
+ },
+ {
+  "kommun": "Stenungsund",
+  "id": "stenungsund",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga handlingar för budget 2027 (strategisk plan 2027–2029, KF-protokoll juni 2026, BUN-underlag). KF-datumet för budget 2027 är overifierat. Remissvar på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Strömstad",
+  "id": "stromstad",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "KF:s protokollsida listar inga protokoll för 2026, och ärendelistesidan kunde inte hämtas (inte på allowlist). Inget förslag till budget 2027, inget BUN-underlag och inget KF-datum hittades. KF-protokollet 2026-04-23 hittades men granskades inte: https://www.stromstad.se/download/18.6f08658a19dd796e69a2e3e/1777474133812/Protokoll%20KF%202026-04-23.pdf"
+ },
+ {
+  "kommun": "Svenljunga",
+  "id": "svenljunga",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Verksamhetsplan 2027–2029 och KS-/KF-handlingar från hösten 2026 hittades inte. Sökbudgeten tog slut. BUN:s budgetunderlag 2027 granskades inte."
+ },
+ {
+  "kommun": "Tanum",
+  "id": "tanum",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Inget förslag till budget 2027 och inget BUN-underlag 2027 hittades. KF-datumet för budget 2027 är okänt; november 2026 är bara en slutsats från förra årets mönster. Nyhetssidan om budget 2026 gick inte att hämta (klientfel)."
+ },
+ {
+  "kommun": "Tjörn",
+  "id": "tjorn",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga handlingar för budget 2027 (majoritetens förslag, KF-protokoll juni 2026). KF-datum och BUN-underlag saknas. Plan för mål och ekonomi 2026 granskades inte i detalj."
+ },
+ {
+  "kommun": "Trollhättan",
+  "id": "trollhattan",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade varken MRP/budget 2027 (förslag eller beslut) eller utbildningsnämndens budgetunderlag 2027. Datum för KF-beslutet är okänt: budget 2026 togs i november 2025, så november 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde SOU 2019:18)."
+ },
+ {
+  "kommun": "Töreboda",
+  "id": "toreboda",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inga budgetdokument, inget datum för KF-beslutet och inga nämndunderlag. Sökmotorn indexerar toreboda.se dåligt, och jag hade ingen budgetsida att följa länkar från."
+ },
+ {
+  "kommun": "Ulricehamn",
+  "id": "ulricehamn",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inga budgetförslag 2027 och inget datum för KF-beslutet. Partiernas budgetförslag har tidigare år publicerats i november, så beslut i nov–dec 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde promemorian Bättre anpassad undervisningstid, 2023)."
+ },
+ {
+  "kommun": "Vara",
+  "id": "vara",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inte plan och budget 2027. Budgeten beslutas i juni enligt processen, så troligen juni 2026, men datumet är inte verifierat. Sveriges Lärares budgetyrkande i Vara (docx, sverigeslarare.se) gick inte att läsa (binärfil)."
+ },
+ {
+  "kommun": "Vårgårda",
+  "id": "vargarda",
+  "lan": "Västra Götalands län",
+  "kf": "2026-11-04 (på KF:s dagordning; beslutet ej verifierat)",
+  "luckor": "Hittade inte själva dokumentet Budget och verksamhetsplan 2027–2029, KF-protokollet eller nämndernas underlag. Det går därför inte att avgöra om reformen nämns. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde transportplan 2017)."
+ },
+ {
+  "kommun": "Åmål",
+  "id": "amal",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inga budgetdokument 2027, inget datum för KF-beslutet och inga underlag från barn- och utbildningsnämnden. Sökmotorn indexerar amal.se dåligt."
+ },
+ {
+  "kommun": "Öckerö",
+  "id": "ockero",
+  "lan": "Västra Götalands län",
+  "kf": null,
+  "luckor": "Hittade inga budgetdokument 2027, inget datum för KF-beslutet och inga nämndunderlag. Jag hade ingen budgetsida eller mötesportal att följa länkar från."
+ },
+ {
+  "kommun": "Askersund",
+  "id": "askersund",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Budget 2027 (förslag och beslut), nämndernas budgetunderlag och KF-datum hittades inte. Startsidan askersund.se kunde inte hämtas (tidigare körning). Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Degerfors",
+  "id": "degerfors",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Inga budgetdokument för 2027, inget KF-datum och inget nämndunderlag hittades. Degerfors protokoll och kallelser från 2026 dök inte upp i några sökresultat. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Hallsberg",
+  "id": "hallsberg",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Hittade inte Mål och budget 2027, generella planeringsförutsättningar 2027 eller bildningsnämndens budgetunderlag 2027. KF-datum för budget 2027 är okänt (tidigare år beslut i november, t.ex. 2024-11-18). Kommunens webbsidor gick inte att öppna utan sökträff. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Hällefors",
+  "id": "hallefors",
+  "lan": "Örebro län",
+  "kf": "2026-06-02 (planerat enligt tidplan; beslutet inte verifierat)",
+  "luckor": "Hittade inte budgetdokumentet 2027 (Strategisk planering 2027–2031), KF-protokollet från 2026-06-02 eller KS verksamhetsplan 2027 (KF 2026-10-20 enligt tidplanen). Kommunens startsida gick inte att hämta. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Karlskoga",
+  "id": "karlskoga",
+  "lan": "Örebro län",
+  "kf": "2026-11-24 (planerat)",
+  "luckor": "Budgetdokumentet Mål och budget 2027–2029 (KS-förslag, Alliansens och oppositionens förslag) hittades inte. KF-handlingarna läggs ut en vecka före mötet, och diariesidan gick inte att hämta. Barn- och utbildningsnämndens underlag granskades inte. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Kumla",
+  "id": "kumla",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Hittade inte budget 2027 (förslag eller beslut) och inte KF-datum. Tre sökningar (även en utökad) gav inga kumla.se-dokument för 2027. Det är inte bekräftat att remissvaret gäller SOU 2025:26. Sökkvoten (3) är förbrukad."
+ },
+ {
+  "kommun": "Laxå",
+  "id": "laxa",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga handlingar för budget 2027 (förslag, beslut eller BUN-underlag). Kommunens webbplats (laxa.se) kunde inte hämtas direkt (står inte på tillåtelselistan). Datum för KF-beslutet om budget 2027 är okänt. Skedet för budget 2025-dokumentet är antaget (sannolikt beslutad version); beslutsdatum framgår inte."
+ },
+ {
+  "kommun": "Lekeberg",
+  "id": "lekeberg",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Tre sökningar (budget 2027, MER-plan 2027, undervisningstid) gav inga handlingar för 2027. lekeberg.se kunde inte hämtas direkt. Datum för KF-beslutet om budget 2027 är okänt; tidigare MER-planer publicerades i november/december, vilket tyder på ett beslut i KF under hösten."
+ },
+ {
+  "kommun": "Lindesberg",
+  "id": "lindesberg",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Tre sökningar gav ingen budget 2027. Praxis: KF beslutade 'Mål och budget 2025 Verksamhetsplan 2026–2027' den 2024-06-17 (§74/24, https://lindesberg.se/download/18.6ae8f81900c622ff91ef8b/1718878618186/KF%202024-06-17.pdf). Budget 2027 kan därför ha beslutats i juni 2026, men det är inte verifierat. lindesberg.se kunde inte hämtas direkt."
+ },
+ {
+  "kommun": "Ljusnarsberg",
+  "id": "ljusnarsberg",
+  "lan": "Örebro län",
+  "kf": null,
+  "luckor": "Tre sökningar gav inga budgethandlingar för 2027. ljusnarsberg.se kunde inte hämtas direkt. Datum för KF-beslutet om budget 2027 är okänt; tidigare budgetar verkar ha behandlats i KF i december (t.ex. KF-protokoll 2023-12-07), men det är inte verifierat."
+ },
+ {
+  "kommun": "Finspång",
+  "id": "finspang",
+  "lan": "Östergötlands län",
+  "kf": "november 2026 (planerat enligt ordinarie process; exakt datum okänt)",
+  "luckor": "Budgetsidan (ekonomi-budget-och-resultat) gick inte att hämta, eftersom URL:en inte fanns på allowlist. Majoritetens och oppositionens förslag 2027, nämndunderlag och KF-datum i nov 2026 är inte granskade."
+ },
+ {
+  "kommun": "Kinda",
+  "id": "kinda",
+  "lan": "Östergötlands län",
+  "kf": null,
+  "luckor": "Kinda.se:s budgetsida visade inga dokumentlänkar. Sidorna Styrdokument och Kommunfullmäktige blockerades (allowlist). Budget 2027, KF-datum, BUN-underlag och remissvar är inte granskade."
+ },
+ {
+  "kommun": "Linköping",
+  "id": "linkoping",
+  "lan": "Östergötlands län",
+  "kf": null,
+  "luckor": "Budget 2027 hittades inte. Budgetsidan på linkoping.se listade inga dokumentlänkar. Linköping beslutar normalt i juni, men i valåret 2022 beslutades budget 2023 först i KF 2022-12-06, så budget 2027 kan beslutas i nov/dec 2026. Sammanträdesportalen (sammantraden.linkoping.se) och kommunmannen.se (BIN 2026-05-20 om budgetunderlag) kunde inte hämtas. Remissvaret på SOU 2025:26 hittades inte."
+ },
+ {
+  "kommun": "Ydre",
+  "id": "ydre",
+  "lan": "Östergötlands län",
+  "kf": null,
+  "luckor": "Budget 2027–2030 (förslag eller beslut) och KF-datum hittades inte. Tidigare budgetar beslutades i KF i december. Sökbudgeten tog slut."
+ },
+ {
+  "kommun": "Åtvidaberg",
+  "id": "atvidaberg",
+  "lan": "Östergötlands län",
+  "kf": null,
+  "luckor": "Dokumentarkivet evo-internet.atvidaberg.se blockeras (robots_disallowed). Inga dokument för budget 2026 eller 2027 hittades, och beslutsdatumet för budget 2027 är okänt. Sökbudgeten tog slut."
+ }
+]
