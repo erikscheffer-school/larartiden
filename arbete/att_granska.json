@@ -900,7 +900,7 @@
   "id": "fargelanda",
   "lan": "Västra Götalands län",
   "kf": null,
-  "luckor": "Hittade ingen MRP 2027–2030, inget budgetförslag 2027 och inget KF-protokoll 2026 om budget 2027. Färgelanda beslutade MRP i juni 2025, så budget 2027 kan ha beslutats i juni 2026, men det är inte verifierat. Sökbudgeten tog slut."
+  "luckor": "MRP 2027 hittades inte; beslutet ligger troligen hösten 2026 men datum är okänt. KF-handlingar från hösten 2026 och barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats."
  },
  {
   "kommun": "Grästorp",
@@ -920,8 +920,8 @@
   "kommun": "Hjo",
   "id": "hjo",
   "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Vårbudget 2027 (KF juni 2026) och budget 2027–2029 (KF november 2026) hittades inte i sökningarna. Kommunens budgetsida och protokollsida från 2026 nåddes inte. Tre sökningar är gjorda."
+  "kf": "2026-11-12 (planerat; KS-förslag 2026-10-28)",
+  "luckor": "Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats."
  },
  {
   "kommun": "Karlsborg",
@@ -959,13 +959,6 @@
   "luckor": "Kommunens budgetsida (https://mariestad.se/kommun-och-politik/kommunfakta/ekonomi/budget) listar inga dokument. Sidorna med KF:s sammanträdesdagar, kallelser och protokoll gick inte att hämta (inte på tillåtelselistan). Artiklarna i Mariestads-Tidningen (\"Så vill majoriteten satsa i Mariestad nästa år\", \"Skolan kommer först för S\") blockeras av robots. Enligt en artikel från 2025-10-27 togs budgetbeslutet för 2026 i oktober, så KF har troligen beslutat om budget 2027 i oktober 2026 eller gör det snart. Inget av detta är verifierat."
  },
  {
-  "kommun": "Stenungsund",
-  "id": "stenungsund",
-  "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Tre sökningar gav inga handlingar för budget 2027 (strategisk plan 2027–2029, KF-protokoll juni 2026, BUN-underlag). KF-datumet för budget 2027 är overifierat. Remissvar på SOU 2025:26 hittades inte."
- },
- {
   "kommun": "Strömstad",
   "id": "stromstad",
   "lan": "Västra Götalands län",
@@ -991,7 +984,7 @@
   "id": "tjorn",
   "lan": "Västra Götalands län",
   "kf": null,
-  "luckor": "Tre sökningar gav inga handlingar för budget 2027 (majoritetens förslag, KF-protokoll juni 2026). KF-datum och BUN-underlag saknas. Plan för mål och ekonomi 2026 granskades inte i detalj."
+  "luckor": "Budgetbeslutet för 2027 väntas hösten 2026; datum är okänt. KF-handlingar från hösten 2026 är inte granskade. Kommunens budgetsida visar budget 2026 som senaste. Skolpeng och styre efter valet har inte hittats. Kallelser och protokoll: https://www.tjorn.se/kommun-och-politik/motestider-protokoll-och-anslagstavla/kallelser-och-protokoll"
  },
  {
   "kommun": "Trollhättan",

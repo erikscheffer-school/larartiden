@@ -7034,14 +7034,14 @@
   "id": "fargelanda",
   "l": "Västra Götalands län",
   "s": 5,
-  "sum": "Ingen MRP/budget 2027 hittades, bara MRP 2026–2029 (KF 2025-06-18), där plan 2027 för utbildningsnämnden finns. Reformen nämns inte där.",
+  "sum": "Ingen mål- och resursplan (MRP) för 2027 har hittats. KF:s junisammanträde 2026-06-17 hade inget budgetärende för 2027. Kommunens årsredovisning 2025, som fanns bland handlingarna, nämner att reglerad undervisnings- och planeringstid kan medföra ökade resursbehov, men anger inget belopp.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade ingen MRP 2027–2030, inget budgetförslag 2027 och inget KF-protokoll 2026 om budget 2027. Färgelanda beslutade MRP i juni 2025, så budget 2027 kan ha beslutats i juni 2026, men det är inte verifierat. Sökbudgeten tog slut.",
+  "lu": "MRP 2027 hittades inte; beslutet ligger troligen hösten 2026 men datum är okänt. KF-handlingar från hösten 2026 och barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
     "t": "Mål- och resursplan 2026–2029 (scenario 2 SD, KD, C), KF 18 juni 2025 § 52",
@@ -7051,6 +7051,15 @@
     "nr": false,
     "c": "Utbildningsnämnden Plan 2027: 206 698 tkr (s. 22); undervisningstid nämns inte",
     "u": "https://fargelanda.se/media/z3np2540/mrp-2026-2030-scenario-2-sd-kd-c-18-juni-kf-1.pdf"
+   },
+   {
+    "t": "Kallelse KF 2026-06-17 med handlingar (bl.a. årsredovisning 2025)",
+    "d": "2026-06-17",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"reglerad undervisnings- och planeringstid, kan medföra ökade resursbehov\" (PDF-sida 123, årsredovisning 2025)",
+    "u": "https://fargelanda.se/media/uqmjnx53/kallelse-kommunfullmaktige-2026-06-17.pdf"
    }
   ]
  },
@@ -7283,14 +7292,14 @@
   "id": "hjo",
   "l": "Västra Götalands län",
   "s": 5,
-  "sum": "Ingen vårbudget 2027 och ingen budget 2027–2029 hittades. Hjo budgeterar i två steg: vårbudgeten fastställs i KF i juni och den slutliga budgeten i KF i november. Vårbudget 2026 och budget 2026–2028 nämner inte reformen.",
+  "sum": "KF beslutar om Budget- och verksamhetsplan 2027–2029 den 2026-11-12; KS föreslog 2026-10-28 att KF antar Alliansens budgetförslag. Kommunens sammanfattning av förslaget (2026-11-04) nämner bland annat ökade kostnader för gymnasieplatser och lagkrav kring skolbibliotek, men inte lärares undervisningstid eller lärarreformen. Själva budgetdokumentet är inte publicerat.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Vårbudget 2027 (KF juni 2026) och budget 2027–2029 (KF november 2026) hittades inte i sökningarna. Kommunens budgetsida och protokollsida från 2026 nåddes inte. Tre sökningar är gjorda.",
+  "kf": "2026-11-12 (planerat; KS-förslag 2026-10-28)",
+  "kfu": "https://hjo.se/nyheter/20262/november/kommunfullmaktige-beslutar-om-nasta-ars-budget-den-12-november/",
+  "lu": "Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
     "t": "Vårbudget Hjo kommun 2026 (KS-förslag 2025-06-04)",
@@ -7309,6 +7318,15 @@
     "nr": false,
     "c": null,
     "u": "https://hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2026-2028.pdf"
+   },
+   {
+    "t": "Kommunfullmäktige beslutar om nästa års budget den 12 november (kommunens nyhet om Alliansens budgetförslag)",
+    "d": "2026-11-04",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": null,
+    "u": "https://hjo.se/nyheter/20262/november/kommunfullmaktige-beslutar-om-nasta-ars-budget-den-12-november/"
    }
   ]
  },
@@ -7774,33 +7792,33 @@
   "k": "Stenungsund",
   "id": "stenungsund",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Inga handlingar för budget 2027 hittades. Enligt Strategisk plan 2025–2027 fastställer KF budgeten i juni året före budgetåret, så budget 2027 beslutades sannolikt i juni 2026, men det har inte kunnat verifieras. Den äldre planen har en egen satsning på att \"renodla lärarrollen\" (0,9 mnkr) som inte har med reformen att göra.",
-  "m": null,
+  "s": 0,
+  "sum": "KF fastställde 2026-06-11 (§ 90) Strategisk plan 2027–2029, Budget 2027 enligt S och M:s förslag; övriga partier reserverade sig. Budgeten ger grundskolan en utökad ram på 3,388 mnkr för att reglera lärares arbetstid. Eftersom det är valår ska budgeten fastställas på nytt av det nyvalda fullmäktige före november månads utgång.",
+  "m": "3,388 mnkr i utökad ram till grundskolan 2027 för att reglera lärares arbetstid",
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Tre sökningar gav inga handlingar för budget 2027 (strategisk plan 2027–2029, KF-protokoll juni 2026, BUN-underlag). KF-datumet för budget 2027 är overifierat. Remissvar på SOU 2025:26 hittades inte.",
+  "kf": "2026-06-11 § 90 (beslutat); ska fastställas på nytt av nyvalt KF senast november 2026",
+  "kfu": "https://www.stenungsund.se/download/18.5994ff3919ec5bb95e3a0816/1781616625771/Kommunfullm%C3%A4ktige%202026-06-11.pdf",
+  "lu": "Det nyvalda fullmäktiges förnyade budgetbeslut (senast november 2026) är inte granskat. KF-protokollet är inskannat utan textlager; beslutet är läst från bild. Sveriges Lärares yrkande till budget 2027 ingår i KF-handlingarna men har inte sammanfattats. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
-    "t": "Strategisk plan 2025–2027, Budget 2025",
-    "d": null,
+    "t": "Strategisk plan 2027–2029, Budget 2027 (S och M), i KF-kallelse 2026-06-11",
+    "d": "2026-06-11",
     "sk": "beslut",
     "pr": "politiskt producerat",
-    "nr": false,
-    "c": "\"Kommunfullmäktige i juni fastställer budgeten för nästkommande år\" (s. 3); \"Budgetramen utökas med 900 tkr för att möjliggöra att lärarrollen renodlas.\" (s. 30)",
-    "u": "https://www.stenungsund.se/download/18.1ba6a58519047c931db9ef90/1781187513826/Strategisk%20plan%202025-2027,%20Budget%202025.pdf"
+    "nr": true,
+    "c": "\"Utökad ram till grundskolan för att reglera lärares arbetstid, 3,388 mnkr\" (PDF-sida 40)",
+    "u": "https://www.stenungsund.se/download/18.18604d4d19e853b1f7ec5e3c/1780575552659/Kommunfullm%C3%A4ktige%202026-06-11.pdf"
    },
    {
-    "t": "Stenungsunds kommun – remissvar SOU 2021:75 En god kommunal hushållning (KS 2021/1199)",
-    "d": "2021-12-30",
+    "t": "Protokoll kommunfullmäktige 2026-06-11, § 90 Strategisk plan 2027–2029, Budget 2027",
+    "d": "2026-06-11",
     "sk": "beslut",
     "pr": "politiskt producerat",
     "nr": false,
-    "c": null,
-    "u": "https://www.regeringen.se/contentassets/dfa67e35a44f4be4a15e6b243b65673e/stenungsunds-kommun.pdf"
+    "c": "\"Fastställa dokumentet ”Strategisk plan 2027-2029, Budget 2027”\" (s. 12)",
+    "u": "https://www.stenungsund.se/download/18.5994ff3919ec5bb95e3a0816/1781616625771/Kommunfullm%C3%A4ktige%202026-06-11.pdf"
    }
   ]
  },
@@ -7961,14 +7979,14 @@
   "id": "tjorn",
   "l": "Västra Götalands län",
   "s": 5,
-  "sum": "Bara handlingar för budget 2026 (Plan för mål och ekonomi 2026 med preliminära ramar 2027–2028, KF juni 2025) hittades, och reformen nämns inte där. Budget 2027 bör enligt mönstret ha beslutats i KF i juni 2026, men inga handlingar hittades. KF-protokollet 2026-04-23 innehåller inget om budget 2027.",
+  "sum": "Budget 2027 (Plan för mål och ekonomi 2027) har inte hittats. KF:s junisammanträde 2026-06-17 behandlade inte budgeten för 2027, till skillnad från tidigare år då majoritetens budgetförslag lades fram i juni. Barn- och utbildningsnämndens protokoll 2026-06-23 nämner inte lärares undervisningstid.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Tre sökningar gav inga handlingar för budget 2027 (majoritetens förslag, KF-protokoll juni 2026). KF-datum och BUN-underlag saknas. Plan för mål och ekonomi 2026 granskades inte i detalj.",
+  "lu": "Budgetbeslutet för 2027 väntas hösten 2026; datum är okänt. KF-handlingar från hösten 2026 är inte granskade. Kommunens budgetsida visar budget 2026 som senaste. Skolpeng och styre efter valet har inte hittats. Kallelser och protokoll: https://www.tjorn.se/kommun-och-politik/motestider-protokoll-och-anslagstavla/kallelser-och-protokoll",
   "docs": [
    {
     "t": "Handlingar KF 2025-06-18 (Budget 2026, preliminära ramar 2027–2028)",
@@ -7996,6 +8014,15 @@
     "nr": false,
     "c": null,
     "u": "https://www.tjorn.se/download/18.70ad469d19dd7a3dd199b3f/1777563499036/Protokoll%20KF%202026-04-23.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-17 (inget budgetärende för 2027)",
+    "d": "2026-06-17",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://www.tjorn.se/download/18.35ed676319ef367b1a2eca43/1782371294933/Protokoll%20KF%202026-06-17.pdf"
    }
   ]
  },
