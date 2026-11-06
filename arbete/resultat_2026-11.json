@@ -540,5 +540,89 @@
     "u": "https://www.tjorn.se/download/18.35ed676319ef367b1a2eca43/1782371294933/Protokoll%20KF%202026-06-17.pdf"
    }
   ]
+ },
+ "strangnas": {
+  "s": 4,
+  "sum": "KS föreslog 2026-06-10 (§ 134) att KF antar en preliminär flerårsplan 2027–2030; ärendet stod på KF:s dagordning 2026-06-22. Barn- och utbildningsnämnden får 1 264 mnkr 2027 (budget 2026: 1 252 mnkr, prognos 2026: 1 279 mnkr). Flerårsplanen nämner inte lärares undervisningstid, lärarreformen eller statsbidraget. SD, C, KD och LOK hade egna förslag.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "2026-06-22 (preliminär flerårsplan på KF:s dagordning; protokollet är inskannat och beslutet inte kontrollerat)",
+  "kfu": "https://www.strangnas.se/download/18.6ee72f2f19ed467782499c13/1782912562862/Protokoll%20kommunfullm%C3%A4ktige%202026-06-22,%20undertecknat.pdf",
+  "lu": "KF-protokollet 2026-06-22 saknar textlager, så beslutet och eventuella ändringar är inte kontrollerade. Den slutliga flerårsplanen (troligen hösten 2026) är inte granskad. Ett av partiförslagen i handlingarna vill höja elevpengen; vilket parti det gäller har inte kontrollerats. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Preliminär flerårsplan för Strängnäs kommunkoncern 2027–2030 (KS § 134 och förslag daterat 2026-05-22)",
+    "d": "2026-06-10",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "Driftbudget: \"Barn- och utbildningsnämnden -1 212 -1 252 -1 279 -1 264\" (mkr, utfall 2025–budget 2027, PDF-sida 21)",
+    "u": "https://www.strangnas.se/download/18.3007b60a19ea59bf520538c2/1781780482895/32.%20Prelimin%C3%A4r%20fler%C3%A5rsplan%20f%C3%B6r%20Str%C3%A4ngn%C3%A4s%20kommunkoncern%202027-2030.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-22",
+    "d": "2026-06-22",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://www.strangnas.se/download/18.6ee72f2f19ed467782499c13/1782912562862/Protokoll%20kommunfullm%C3%A4ktige%202026-06-22,%20undertecknat.pdf"
+   }
+  ]
+ },
+ "sala": {
+  "s": 5,
+  "sum": "Budget 2027 beslutades inte i juni 2026, till skillnad från tidigare år. Under valåret har Sala en särskild budgetprocess: KS tog 2026-06-03 (§ 113) ett budgetdirektiv för 2027–2030 som underlag för fortsatt arbete. Direktivet nämner inte lärares undervisningstid eller statsbidraget.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": null,
+  "kfu": null,
+  "lu": "Budget 2027 och KF-datum för beslutet (hösten 2026) har inte hittats. Utbildnings- och arbetsmarknadsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Budget 2026 Plan 2027-2029 - rev",
+    "d": "2025-12-15",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"regleringar på nya områden som lärares arbetstid\" (s. 40)",
+    "u": "https://www.sala.se/resources//files/_Nystruktur/Ekonomi/Budget - strategisk plan/Budget 2026 Plan 2027-2029 - rev.pdf"
+   },
+   {
+    "t": "Protokoll kommunstyrelsen 2026-06-03, § 113 Budgetdirektiv 2027–2030",
+    "d": "2026-06-03",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": "\"Som en del i den särskilda budgetprocessen under valåret 2026 sammanställer ekonomienheten ett budgetdirektiv för budgetperioden 2027–2030.\" (s. 34)",
+    "u": "https://sala.se/resources/files/_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunstyrelsen/2026/2026-06-03/Protokoll%20KS%202026-06-03.pdf"
+   }
+  ]
+ },
+ "vingaker": {
+  "s": 4,
+  "sum": "KS föreslog 2026-06-01 att KF 2026-06-15 fastställer de ekonomiska ramarna i Kommunplan med budget 2027 och flerårsplan 2028–2029; det slutliga budgetbeslutet tas i november. Förslaget sänker barn- och utbildningsnämndens ram med 5,0 mkr från 2027 som demografisk anpassning. Handlingarna nämner inte lärares undervisningstid, lärarreformen eller statsbidraget.",
+  "m": null,
+  "mk": null,
+  "sb": null,
+  "pl": null,
+  "kf": "2026-06-15 (ekonomiska ramar på KF:s dagordning; protokollet ej granskat); slutligt beslut om kommunplan med budget planerat till november 2026",
+  "kfu": "https://vingaker.se/download/18.39155d0219e634874bf14604/1780670271468/Kommunfullm%C3%A4ktige%202026-06-15%20Kallelse%20med%20handlingar.pdf",
+  "lu": "KF-protokollet 2026-06-15 och den slutliga kommunplanen (november 2026) är inte granskade. Barn- och utbildningsnämndens budgetunderlag är inte granskat. Vilket år nyheterna om sparkrav på 7 mnkr i skolan gäller är fortfarande okänt. Skolpeng och styre efter valet har inte hittats.",
+  "docs": [
+   {
+    "t": "Kallelse med handlingar KF 2026-06-15, ärende 20: Kommunplan med budget 2027 och flerårsplan 2028–2029 – Ekonomiska ramar",
+    "d": "2026-06-15",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": "\"Förslaget innebär att en sänkning av budgetramen med -2,0 mkr föreslås för samhällsbyggnads-nämnden och med -5,0 mkr för barn- och utbildningsnämnden från och med år 2027.\" (s. 26)",
+    "u": "https://vingaker.se/download/18.39155d0219e634874bf14604/1780670271468/Kommunfullm%C3%A4ktige%202026-06-15%20Kallelse%20med%20handlingar.pdf"
+   }
+  ]
  }
 }

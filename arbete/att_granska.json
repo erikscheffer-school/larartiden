@@ -602,25 +602,11 @@
   "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Budget 2027 hittades inte. Nyköping beslutar normalt i oktober (2025-10-14, 2024-10-08), men datumet 2026 är inte verifierat. BUN:s underlag för 2027 hittades inte."
  },
  {
-  "kommun": "Strängnäs",
-  "id": "strangnas",
-  "lan": "Södermanlands län",
-  "kf": null,
-  "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Flerårsplan 2027–2029 och KF-kallelse/protokoll från juni 2026 hittades inte. Strängnäs beslutar normalt i juni (2025-06-23, 2024-06-17, 2023-06-19), så budget 2027 är sannolikt beslutad i juni 2026, men det är inte verifierat. BUN:s verksamhetsplan 2027 hittades inte."
- },
- {
   "kommun": "Trosa",
   "id": "trosa",
   "lan": "Södermanlands län",
   "kf": null,
   "luckor": "OMKÖRNING R02: 3 webbsökningar gjordes. Varken vår- eller höstbudget 2027 hittades. Trosa beslutar budget i två steg: vårbudget i juni (KF 2025-06-18) och höstbudget i nov–dec. Datumen 2026 är inte verifierade. Beslutsdatum för budget 2026 (vår) framgår inte av dokumentet."
- },
- {
-  "kommun": "Vingåker",
-  "id": "vingaker",
-  "lan": "Södermanlands län",
-  "kf": "november 2026 (planerat enligt ordinarie process; exakt datum okänt)",
-  "luckor": "KF:s rambeslut för 2027 (juni 2026), BUN:s budgetunderlag 2027 och förslaget till kommunplan 2027 (nov 2026) hittades inte. Nyheter om ett sparkrav på 7 mnkr i skolan (SVT, Katrineholms-Kuriren) syntes i sökresultaten men öppnades inte, och vilket år de gäller är okänt."
  },
  {
   "kommun": "Enköping",
@@ -858,7 +844,7 @@
   "id": "sala",
   "lan": "Västmanlands län",
   "kf": null,
-  "luckor": "Budget 2027 (plan 2028–2030) ej hittad med 3 sökningar, och KF-protokoll från juni 2026 ej hittat. Datumet för KF-beslutet om budget 2027 är okänt. Underlag från Utbildnings- och arbetsmarknadsnämnden ej granskat."
+  "luckor": "Budget 2027 och KF-datum för beslutet (hösten 2026) har inte hittats. Utbildnings- och arbetsmarknadsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats."
  },
  {
   "kommun": "Surahammar",
