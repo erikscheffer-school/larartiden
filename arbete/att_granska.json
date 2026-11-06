@@ -270,7 +270,7 @@
   "id": "ljungby",
   "lan": "Kronobergs län",
   "kf": null,
-  "luckor": "Planeringsdirektivet för 2027 (troligen KF 2026-06-15) hittades inte. Sidan för dagordningar och protokoll blockerades (allowlist). KF-datum 2026 enligt kommunens sida: 15 juni, 23 nov, 14 dec. BUN:s underlag är inte granskat."
+  "luckor": "Budgetbeslutet för 2027 väntas vid något av de återstående KF-mötena 2026 (23 november eller 14 december enligt kommunens webbplats); handlingarna är inte publicerade/granskade. KS-protokollen och barn- och utbildningsnämndens underlag är inte granskade. Sammanträdesportal: https://diariet.ljungby.se/"
  },
  {
   "kommun": "Uppvidinge",
@@ -910,13 +910,6 @@
   "luckor": "Hittade inget budgetdokument 2027 och inget beslutsdatum. Budget 2026 beslutades i november 2025, så budget 2027 beslutas troligen i november 2026, men det är inte verifierat. Sökbudgeten tog slut."
  },
  {
-  "kommun": "Gullspång",
-  "id": "gullspang",
-  "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Hittade inget budgetdokument 2027. Enligt årshjulet bör budget 2027 ha beslutats i juni 2026, men inget protokoll hittades. Verksamhetsplanen 2026 för Barn-, utbildnings- och kulturnämnden granskades inte. Sökbudgeten tog slut."
- },
- {
   "kommun": "Herrljunga",
   "id": "herrljunga",
   "lan": "Västra Götalands län",
@@ -964,13 +957,6 @@
   "lan": "Västra Götalands län",
   "kf": null,
   "luckor": "Kommunens budgetsida (https://mariestad.se/kommun-och-politik/kommunfakta/ekonomi/budget) listar inga dokument. Sidorna med KF:s sammanträdesdagar, kallelser och protokoll gick inte att hämta (inte på tillåtelselistan). Artiklarna i Mariestads-Tidningen (\"Så vill majoriteten satsa i Mariestad nästa år\", \"Skolan kommer först för S\") blockeras av robots. Enligt en artikel från 2025-10-27 togs budgetbeslutet för 2026 i oktober, så KF har troligen beslutat om budget 2027 i oktober 2026 eller gör det snart. Inget av detta är verifierat."
- },
- {
-  "kommun": "Mellerud",
-  "id": "mellerud",
-  "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Inga budget 2027-handlingar, inget KF-beslutsdatum och inget underlag från utbildningsnämnden hittades. Enligt styrmodellen i budget 2026 (s. 35) beslutas budgeten i juni, alltså troligen juni 2026, men inget datum är verifierat. Den delade sökbudgeten tog slut, så ingen vidare sökning gjordes."
  },
  {
   "kommun": "Stenungsund",
@@ -1027,13 +1013,6 @@
   "lan": "Västra Götalands län",
   "kf": null,
   "luckor": "Hittade inga budgetförslag 2027 och inget datum för KF-beslutet. Partiernas budgetförslag har tidigare år publicerats i november, så beslut i nov–dec 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde promemorian Bättre anpassad undervisningstid, 2023)."
- },
- {
-  "kommun": "Vara",
-  "id": "vara",
-  "lan": "Västra Götalands län",
-  "kf": null,
-  "luckor": "Hittade inte plan och budget 2027. Budgeten beslutas i juni enligt processen, så troligen juni 2026, men datumet är inte verifierat. Sveriges Lärares budgetyrkande i Vara (docx, sverigeslarare.se) gick inte att läsa (binärfil)."
  },
  {
   "kommun": "Vårgårda",

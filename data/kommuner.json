@@ -2402,14 +2402,14 @@
   "id": "ljungby",
   "l": "Kronobergs län",
   "s": 5,
-  "sum": "Ekonomisidan har ännu inget planeringsdirektiv för 2027. Planeringsdirektivet för 2026 med plan 2027–2030 (KF 2025-06-16) nämner inte reformen och anger BUN:s ram 2027 till 777 150 tkr. Budgeten beslutas normalt i juni, och KF sammanträdde 2026-06-15, men något beslut om budget 2027 har inte bekräftats.",
+  "sum": "Budget 2027 har inte behandlats av KF under 2026 fram till 2026-10-26. Dagordningarna för KF 2026-05-25, 2026-06-15, 2026-08-24, 2026-09-21 och 2026-10-26 i sammanträdesportalen innehåller inget ärende om budget eller planeringsdirektiv för 2027.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Planeringsdirektivet för 2027 (troligen KF 2026-06-15) hittades inte. Sidan för dagordningar och protokoll blockerades (allowlist). KF-datum 2026 enligt kommunens sida: 15 juni, 23 nov, 14 dec. BUN:s underlag är inte granskat.",
+  "lu": "Budgetbeslutet för 2027 väntas vid något av de återstående KF-mötena 2026 (23 november eller 14 december enligt kommunens webbplats); handlingarna är inte publicerade/granskade. KS-protokollen och barn- och utbildningsnämndens underlag är inte granskade. Sammanträdesportal: https://diariet.ljungby.se/",
   "docs": [
    {
     "t": "Planeringsdirektiv för 2026 med plan 2027–2030 (KF)",
@@ -7083,24 +7083,42 @@
   "k": "Gullspång",
   "id": "gullspang",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Bara budget 2026 med plan 2027–2030 hittades. Reformen nämns inte. Enligt årshjulet fastställer KF budgeten i juni.",
+  "s": 4,
+  "sum": "KF antog 2026-06-17 (§ 68) budget 2027 med plan 2028–2031 efter votering (16 ja, 10 nej, 3 avstod); S yrkade på oppositionens förslag. Varken budgeten, oppositionens förslag eller protokollet nämner lärares undervisningstid, lärarreformen eller statsbidraget. Barn-, utbildnings- och kulturnämndens ram minskar från 120,1 till 118,9 mnkr, bland annat genom demografiska anpassningar på 5 mnkr i förskola och grundskola.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Hittade inget budgetdokument 2027. Enligt årshjulet bör budget 2027 ha beslutats i juni 2026, men inget protokoll hittades. Verksamhetsplanen 2026 för Barn-, utbildnings- och kulturnämnden granskades inte. Sökbudgeten tog slut.",
+  "kf": "2026-06-17 § 68 (beslutat)",
+  "kfu": "https://diariet.gullspang.se/download/document?filename=UHJvdG9rb2xsIGtvbW11bmZ1bGxt5Gt0aWdlIDIwMjYtMDYtMTcucHViLnBkZg==&id=21140",
+  "lu": "Barn-, utbildnings- och kulturnämndens eget budgetunderlag är inte granskat. Det är okänt om budgeten revideras efter valet. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
-    "t": "Budget 2026 plan 2027–2030",
-    "d": null,
+    "t": "Budget 2027, plan 2028–2031 (KS förslag, antaget av KF)",
+    "d": "2026-06-17",
     "sk": "beslut",
     "pr": "politiskt producerat",
     "nr": false,
-    "c": "Årshjul juni: \"Budgeten fastställs av KF\" (s. 25)",
-    "u": "https://gullspang.se/download/18.635ac64419b2bf3844828b50/1769600567884/Budget%202026%20plan%202027-2030.pdf"
+    "c": "\"Demografiska anpassningar grundskolan -2 000\" (tkr, s. 13)",
+    "u": "https://diariet.gullspang.se/download/document?filename=QnVkZ2V0IDIwMjcgcGxhbiAyMDI4LTIwMzEucHViLnBkZg==&id=20840"
+   },
+   {
+    "t": "Oppositionens förslag, Budget 2027 plan 2028–2031",
+    "d": null,
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": null,
+    "u": "https://diariet.gullspang.se/download/document?filename=T3Bwb3NpdGlvbmVucyBm9nJzbGFnLCBCdWRnZXQgMjAyNyBwbGFuIDIwMjgtMjAzMS5wdWIucGRm&id=20971"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-17, § 68",
+    "d": "2026-06-17",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Kommunfullmäktige antar budget för år 2027 samt flerårsplan för åren 2028 – 2031.\" (s. 5)",
+    "u": "https://diariet.gullspang.se/download/document?filename=UHJvdG9rb2xsIGtvbW11bmZ1bGxt5Gt0aWdlIDIwMjYtMDYtMTcucHViLnBkZg==&id=21140"
    }
   ]
  },
@@ -7502,24 +7520,33 @@
   "k": "Mellerud",
   "id": "mellerud",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Endast budget 2026 med flerårsplan 2027–2028 granskad; reformen nämns inte. Inga budgethandlingar för budget 2027 hittades innan sökbudgeten tog slut.",
-  "m": null,
+  "s": 0,
+  "sum": "KF fastställde budget 2027 och plan 2028–2029 den 2026-06-24 (§ 58) enligt M, KD, KiM och SD:s förslag. Budgeten ger kultur- och utbildningsnämnden 1 089 tkr 2027 och 2 178 tkr 2028 för \"Reglering av lärarnas undervisningstid\", som anslag enligt finansieringsprincipen. Budgeten bedömer samtidigt att reformen kring lärarnas planeringstid kan bli en stor ekonomisk utmaning, sannolikt flera miljoner kronor.",
+  "m": "1 089 tkr 2027 och 2 178 tkr 2028 till kultur- och utbildningsnämnden för reglering av lärarnas undervisningstid (anslag enligt finansieringsprincipen)",
   "mk": null,
-  "sb": null,
+  "sb": "Beloppet redovisas som anslag enligt finansieringsprincipen, alltså medel som kommunen tillför nämnden för en statligt beslutad reform.",
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Inga budget 2027-handlingar, inget KF-beslutsdatum och inget underlag från utbildningsnämnden hittades. Enligt styrmodellen i budget 2026 (s. 35) beslutas budgeten i juni, alltså troligen juni 2026, men inget datum är verifierat. Den delade sökbudgeten tog slut, så ingen vidare sökning gjordes.",
+  "kf": "2026-06-24 § 58 (beslutat)",
+  "kfu": "https://mellerud.se/media/p1vnlu0y/2026-06-24.pdf",
+  "lu": "Kultur- och utbildningsnämndens eget budgetunderlag och detaljbudget är inte granskade. Det är okänt om budgeten revideras efter valet. Skolpeng och styre efter valet har inte hittats.",
   "docs": [
    {
-    "t": "Budget 2026, flerårsplan 2027–2028",
-    "d": null,
-    "sk": "underlag/förslag",
+    "t": "Budget 2027 och plan 2028–2029 (till KF)",
+    "d": "2026-06-24",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Reglering av lärarnas undervisningstid 0 1 089 2 178\" (tkr 2026–2028, s. 44); \"reformen kring lärarnas planeringstid kan medföra stora ekonomiska utmaningar\" (s. 45)",
+    "u": "https://mellerud.se/media/tvvds1qs/budget-2027-flerarsplan-2028-2029-till-kf.pdf"
+   },
+   {
+    "t": "Protokoll kommunfullmäktige 2026-06-24, § 58 Budget 2027",
+    "d": "2026-06-24",
+    "sk": "beslut",
     "pr": "politiskt producerat",
     "nr": false,
-    "c": null,
-    "u": "https://mellerud.se/media/gnjgon0q/budget-2026-flerarsplan-2027-2028.pdf"
+    "c": "\"Fastställa budgethandlingen för budget 2027 samt plan 2028 – 2029 enligt föreliggande förslag\" (s. 22)",
+    "u": "https://mellerud.se/media/p1vnlu0y/2026-06-24.pdf"
    }
   ]
  },
@@ -8127,24 +8154,24 @@
   "k": "Vara",
   "id": "vara",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Strategisk plan och budget 2027–2030 hittades inte. Den senaste planen (2026–2029) nämner inte reformen, och enligt den beslutar KF om budget i juni.",
+  "s": 4,
+  "sum": "KF fastställde 2026-06-15 (§ 46) driftsramarna för Strategisk plan och budget 2027–2030 enligt KS förslag, efter votering (23 ja, 20 nej, 2 avstod) mot S och C:s förslag. Bildningsnämnden får 560,8 mnkr 2027 (557,1 mnkr 2026) och slipper den generella effektiviseringen, men ramen minskas med 5,1 mnkr via resursfördelningsmodellen och 2,5 mnkr för moduler. Protokollet nämner inte lärares undervisningstid, lärarreformen eller statsbidraget.",
   "m": null,
   "mk": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Hittade inte plan och budget 2027. Budgeten beslutas i juni enligt processen, så troligen juni 2026, men datumet är inte verifierat. Sveriges Lärares budgetyrkande i Vara (docx, sverigeslarare.se) gick inte att läsa (binärfil).",
+  "kf": "2026-06-15 § 46 (beslutat, driftsramar och investeringsbudget)",
+  "kfu": "https://www.netpublicator.com/reader/r83715965",
+  "lu": "Själva dokumentet Strategisk plan och budget 2027–2030 (med verksamhetsplan) är ännu inte publicerat och har inte granskats; kommunens budgetsida visar budget 2026–2029. Bildningsnämndens underlag är inte granskat. Skolpeng och styre efter valet har inte hittats. Protokollet ligger i kommunens Netpublicator-arkiv (Protokollarkiv → Fullmäktige, nämnder och utskott → Kommunfullmäktige (KF) → 2026).",
   "docs": [
    {
-    "t": "Strategisk plan och budget 2026–2029",
-    "d": null,
+    "t": "Protokoll kommunfullmäktige 2026-06-15, § 46 Strategisk plan och budget 2027–2030 – driftsramar och investeringsbudget",
+    "d": "2026-06-15",
     "sk": "beslut",
     "pr": "politiskt producerat",
     "nr": false,
-    "c": "\"fastställs årligen i samband med kommunfullmäktiges budgetbeslut i juni\" (s. 8)",
-    "u": "https://vara.se/download/18.7553d7a319b226e2e892dca/1766146004756/Strategisk%20plan%20och%20budget%202026-2029.pdf"
+    "c": "\"bildningsnämndens driftbudget har minskats med 5,1 mnkr\" (s. 11)",
+    "u": "https://www.netpublicator.com/reader/r83715965"
    }
   ]
  },
