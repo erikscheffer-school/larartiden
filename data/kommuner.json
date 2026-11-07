@@ -6367,7 +6367,7 @@
   "id": "bjurholm",
   "l": "Västerbottens län",
   "s": 5,
-  "sum": "Hittade bara Budget 2026 (KF 2025-06-09 § 29) med plansiffror för 2027. Reformen nämns inte där. Inga budgethandlingar för 2027 från 2026 hittades.",
+  "sum": "Kommunstyrelsen beslutade 2026-02-03 om utgångspunkter för budget 2027 (invånarantal, skattesats, PO, internränta, PKV och resultatmål), utan ramar eller belopp per nämnd. Budget 2026 (KF 2025-06-09) har plansiffror för 2027 och nämner inte reformen.",
   "m": null,
   "mk": null,
   "kort": null,
@@ -6375,8 +6375,18 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade inget KF-protokoll från 2026 om budget 2027 och inget underlag från utbildningsnämnden. Beslutsdatumet för budget 2027 är okänt; budget 2026 beslutades i juni, så juni 2026 är troligt men inte verifierat.",
+  "lu": "Budget 2027 (förslag och KF-beslut) och utbildningsnämndens underlag har inte hittats. KF-protokollet 2026-04-20 innehåller inget budgetärende för 2027. Beslutsdatum för budget 2027 är okänt; budget 2026 beslutades i juni 2025.",
   "docs": [
+   {
+    "t": "Budget 2027 – utgångspunkter (KS 2026-02-03 § 1)",
+    "d": "2026-02-03",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": false,
+    "c": "\"Kommunstyrelsen beslutar om utgångspunkter i budget 2027 enligt följande\" (s. 3)",
+    "ko": "Utgångspunkterna är antaganden om invånare, PO, skatt, internränta, PKV och resultat. Inga ramar per nämnd.",
+    "u": "https://www.bjurholm.se/download/18.6ec5c3f319b2c01e8777c02a/1770196824094/KS%20Protokoll%20260203.pdf"
+   },
    {
     "t": "Budget 2026 (med plan 2027–2028)",
     "d": "2025-06-09",
@@ -7507,8 +7517,8 @@
   "k": "Ale",
   "id": "ale",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Ingen Mål och budget 2027(-2030) hittades. Ekonomisidan listar bara 2025-2028 och 2026-2029. Utbildningsnämndens nämndplan 2026 nämner SOU 2025:26 och att den statliga regleringen minskar tiden i klassrummet, men anger inga belopp för 2027.",
+  "s": 3,
+  "sum": "Utbildningsnämndens nulägesanalys 2026, som enligt Ales styrmodell är underlag för fullmäktiges budgetbeslut för kommande år, räknar Tid för undervisningsuppdraget till de reformer som påverkar nämnden mest och säger att finansieringen av flera reformer inte räcker. Statsbidraget väntas komma via de generella statsbidragen. Inget belopp är kopplat till reformen.",
   "m": null,
   "mk": null,
   "kort": null,
@@ -7516,8 +7526,18 @@
   "pl": "\"Inför 2026 indexeras prislistan från Göteborgsregionen (GR) med i genomsnitt 3,25 procent.\" (s. 25, nämndplan 2026; utan koppling till reformen)",
   "kf": null,
   "kfu": null,
-  "lu": "Inga handlingar för budget 2027 hittades (KF-beslut, KS-förslag, UBN-underlag), och ekonomisidan (hämtad nu) har ingen 2027-budget. Nämndplanens beslutsdatum framgår inte. Tidigare budgetfiler laddades upp i juni–augusti, vilket tyder på KF-beslut i juni, men beslutsdatum för 2027 är inte verifierat. Mötesportal/KF-protokoll har inte hittats. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats.",
+  "lu": "Mål och budget 2027 (KS-förslag och KF-beslut) har inte hittats, och datum för KF:s budgetbeslut är okänt. KF behandlade inte budgeten för 2027 i juni 2026. Statusen är en tolkning: nulägesanalysen är underlag inför budgeten, inte ett budgetförslag. Statusen ändrades 2026-11-07 först från Nämnt utan belopp till Ej bedömbart än, och efter granskning av nulägesanalysen tillbaka till Nämnt utan belopp.",
   "docs": [
+   {
+    "t": "Nulägesanalys 2026, utbildningsnämnden – underlag för fullmäktiges budgetbeslut för 2027 (KF:s handlingar 2026-06-17, ärende 13)",
+    "d": "2026-06-17",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"De utredningar och lagförslag som kommer ha störst påverkan på utbildningsnämndens verksamheter är Tid för undervisningsuppdraget\" (s. 201); \"Statsbidraget för undervisningsuppdraget kommer vara en del av de generella statsbidragen och beräknas att komma hösten 2027.\" (s. 212)",
+    "ko": "Sidnumren avser PDF:en med KF:s kallelse och handlingar 2026-06-17. Att nulägesanalyserna är underlag för budgetbeslutet för 2027 står i servicenämndens ärende i samma handlingar (s. 198); utbildningsnämndens ärende säger kommande år (s. 201). Nulägesanalysen säger också att reformen påverkar kompetensbehovet i grundskolan (s. 213).",
+    "u": "https://ale.se/download/18.62e13f4c19e641f27bc63971/1780984194561/2026-06-17%20Kallelse%20och%20handlingar.pdf"
+   },
    {
     "t": "Utbildningsnämndens nämndplan 2026 (Ale kommun)",
     "d": null,
@@ -7679,15 +7699,15 @@
   "id": "boras",
   "l": "Västra Götalands län",
   "s": 5,
-  "sum": "Tre sökningar hittade bara Borås Stads budgetar för 2022–2026. Budgetversioner för KS läggs i oktober och KF beslutar i november–december, men inget dokument för budget 2027 hittades. Remissvaret på regeringen.se gäller lärarutbildningen (2021), inte SOU 2025:26.",
+  "sum": "Borås Stads budget 2027 har inte hittats. Kommunstyrelsen föreslog i september att fullmäktige håller budgetsammanträde 14–15 december 2026. Enligt Borås Tidning har det nya styret bjudit in oppositionen att lämna förslag till budget 2027.",
   "m": null,
   "mk": null,
   "kort": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Budgetdokumenten för 2025 och 2026 lästes inte i detalj. nämner_reformen=false är antaget, eftersom dokumenten föregår eller ligger nära propositionen. Inga handlingar för budget 2027 hittades (KS-version oktober 2026, nämndernas budgetförslag), inte heller planerat KF-datum. Artikeln på bt.se gick inte att hämta (robots). boras.se startsida låg inte på listan över tillåtna URL:er. Remissvar på SOU 2025:26 hittades inte.",
+  "kf": "2026-12-14 och 2026-12-15 (budgetsammanträde enligt KS förslag till KF 2026-09-21; KF:s beslut om datumen ej verifierat)",
+  "kfu": "https://www.boras.se/download/18.3921d5331a08643d2b4b263/1789556440093/Kommunstyrelsen%202026-09-21%20Handlingar.pdf",
+  "lu": "Inga handlingar för budget 2027 har hittats (KS-version, nämndernas budgetförslag). Kommunstyrelsens handlingar 2026-09-21 och gymnasie- och vuxenutbildningsnämndens handlingar 2026-01-27 innehåller inget budgetunderlag för 2027 som nämner reformen. Borås Tidnings artikel om budgeten ligger bakom betalvägg. Remissvar på SOU 2025:26 hittades inte.",
   "docs": [
    {
     "t": "Borås Stads budget 2025",
@@ -7821,7 +7841,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Dokumenten lästes inte i detalj. De föregår propositionen och nämner_reformen=false är antaget. Inga handlingar för flerårsplan 2027-2029 hittades (KS-förslag, BUN-underlag 2026), inte heller KF-datum hösten 2026. falkoping.se startsida låg inte på listan över tillåtna URL:er.",
+  "lu": "Ingen flerårsplan 2027–2029 och inga budgetunderlag för 2027 har hittats, inte heller datum för KF:s budgetbeslut hösten 2026. KS-protokollet 2026-05-11 och KF-protokollet 2026-05-25 innehåller inget budgetärende för 2027. Barn- och utbildningsnämndens handlingar 2026-09-22 nämner Tid för undervisningsuppdraget bara i ett remissärende om samverkan i Skaraborg (s. 33), inte i budgetsammanhang. De äldre flerårsplanerna lästes inte i detalj.",
   "docs": [
    {
     "t": "Kommunstyrelsens förslag till Flerårsplan för år 2025-2027",
@@ -7850,8 +7870,8 @@
   "k": "Färgelanda",
   "id": "fargelanda",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Ingen mål- och resursplan (MRP) för 2027 har hittats. KF:s junisammanträde 2026-06-17 hade inget budgetärende för 2027. Kommunens årsredovisning 2025, som fanns bland handlingarna, nämner att reglerad undervisnings- och planeringstid kan medföra ökade resursbehov, men anger inget belopp.",
+  "s": 4,
+  "sum": "Utbildningsnämndens underlag till budgetberedningen inför Mål- och resursplan 2027–2030 (tjänsteskrivelse 2026-03-25) utgår från att nämndens ram ligger fast och nämner inte reformen. Årsredovisningen 2025 nämner att reglerad undervisnings- och planeringstid kan medföra ökade resursbehov, men den är ingen budgethandling för 2027 och anger inget belopp.",
   "m": null,
   "mk": null,
   "kort": null,
@@ -7859,8 +7879,18 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "MRP 2027 hittades inte; beslutet ligger troligen hösten 2026 men datum är okänt. KF-handlingar från hösten 2026 och barn- och utbildningsnämndens underlag är inte granskade.",
+  "lu": "Mål- och resursplan 2027–2030 (KS-förslag och KF-beslut) har inte hittats, och datum för KF:s budgetbeslut är okänt. Statusen bygger på utbildningsnämndens underlag till budgetberedningen, inte på ett budgetförslag. Kommunstyrelsens kallelse 2026-04-08 (31 MB) kunde inte hämtas. Statusen ändrades 2026-11-07 från Ej bedömbart än till Ej nämnt efter granskning av nämndens underlag.",
   "docs": [
+   {
+    "t": "Utbildningsnämndens återkoppling till budgetberedningen inför Mål och resursplan 2027–2030 (tjänsteskrivelse 2026-03-25, utbildningsnämnden 2026-03-31)",
+    "d": "2026-03-25",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": false,
+    "c": "\"Budgetramen föreslås ligga fast de närmsta åren men minska ytterligare 2031 och 2032.\" (s. 59)",
+    "ko": "Sidnumret avser PDF:en med kallelse och handlingar till utbildningsnämnden 2026-03-31. Reformen nämns inte i handlingarna.",
+    "u": "https://fargelanda.se/media/1a4hntww/kallelse-utbildningsnamnden-2026-03-31.pdf"
+   },
    {
     "t": "Mål- och resursplan 2026–2029 (scenario 2 SD, KD, C), KF 18 juni 2025 § 52",
     "d": "2025-06-18",

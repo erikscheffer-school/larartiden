@@ -104,6 +104,14 @@ I koden lades Markdown-biblioteket och DOMPurify in i repot i stället för att 
 
 Claude skrev tre skript i `verktyg/hamta/`. Det första söker med Brave Search API efter budgethandlingar för 2027 på varje kommuns webbplats, och för kommuner med status 3–5 även efter reformorden på hela webben. Det andra hämtar dokumenten, gör om PDF:erna till text och sparar korta utdrag med sidnummer runt varje träff på reformorden. Det tredje ger varje kommun poäng efter vad som hittats och väljer ut 3–10 kommuner att granska. Skripten körs varje måndag i GitHub Actions och listan sparas i `arbete/veckolista/`. Skripten sätter aldrig status. Den första körningen gjordes med fem kommuner.
 
+### 7 november 2026, kl. 14.31
+
+> Ja
+
+Svar på Claudes fråga om de fem kommunerna på första veckolistan skulle granskas. Claude lät GitHub Actions hämta handlingarna och skriva ut de relevanta sidorna som text (`verktyg/hamta/utdrag.py`), läste dem och kontrollerade citaten ordagrant. Den första listan innehöll för många falska träffar, så reglerna för vad som räknas som reformträff skärptes och bara kommunernas egna handlingar ger nu poäng.
+
+Ale fick status Nämnt utan belopp: utbildningsnämndens nulägesanalys 2026, underlag för budgetbeslutet för 2027, nämner reformen. Färgelanda fick status Ej nämnt: utbildningsnämndens underlag inför mål- och resursplanen 2027–2030 nämner inte reformen. Falköping, Bjurholm och Borås förblir Ej bedömbart än, eftersom inga budgethandlingar för 2027 med innehåll hittades. För Borås lades datumen för budgetsammanträdet till, och luckorna uppdaterades för alla fem.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.

@@ -38,6 +38,7 @@ UNDANTAG = {
     "Mjölby": "Kommunens nyhet om KF:s beslut om driftramar 2027.",
     "Vadstena": "KS preliminära budgetramar 2027–2029.",
     "Ödeshög": "KS planeringsdirektiv för 2027.",
+    "Bjurholm": "KS utgångspunkter för budget 2027 är bara antaganden (invånare, skatt, PO), inga ramar.",
 }
 STATUS = ["Pengar beslutade", "Pengar föreslagna", "Kostnad beräknad", "Nämnt utan belopp", "Ej nämnt", "Ej bedömbart än"]
 
