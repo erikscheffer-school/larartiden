@@ -1,0 +1,85 @@
+[
+ {
+  "url": "https://www.na.se/lindesberg/oppositionens-budget-gick-igenom-efter-omrostning",
+  "titel": "Oppositionens budget gick igenom - efter omröstning – Nerikes Allehanda",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "63c6529017cf413d54dde597f81e2a89db0f2133281ecc5ebdda3ef743b07686",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.na.se/lindesberg/oppositionen-fick-igenom-sin-budget-igen",
+  "titel": "Oppositionen fick igenom sin budget - igen – Nerikes Allehanda",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "5f220400f1ca793d021b746470ce90b54de00e14be3937d28a4438a689c4b165",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.7871ff3019d9a5b28acc11f/1777031930681/Kallelse%20kommunstyrelsen%202026-04-28.pdf",
+  "titel": "Kallelse/Föredragningslista Sida 1(2) Kallelse till Kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cf771034f1096cb52978f849f496d9081221d10dba11548c832b7d1f53b431c7",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 214,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 108,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t beviljade eller fatt utbetalt ett fatal olika statsbidrag som ar budgeterade. Kostnader for yttre skotsel vantas nu vara laga anda fram till vintern 2026 och statsbidragen vantas bli beviljade och utbetalda innan sommaren, sa dessa budgetavvikelser bedoms minska framover. Grundskola, förskoleklass och fritidshem: Den forsta sam",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.2e5ea8419eafd5e09e9a24/1781619931526/Protokoll%20samh%C3%A4llsutvecklingsutskottet%202026-06-16.pdf",
+  "titel": "Sida 1 (13) Justerandes signatur identitet Justerandes signatur identitet",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "78e72de3a39e4dc44190e54391767bcc8a8f9afffad2e58327f2f91ad5d81528",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lindenytt.com/nyheter/va-satsning-pa-400-miljoner-paverkar-taxan-i-lindesberg/",
+  "titel": "VA-satsning på 400 miljoner påverkar taxan i Lindesberg | LindeNytt.com",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "c69981d100f26f832feaec0dc84a1003dfcb00bb359c9e26fbf849dc1ea6af90",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

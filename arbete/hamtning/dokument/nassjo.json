@@ -1,0 +1,85 @@
+[
+ {
+  "url": "https://nassjo.se/download/18.52acbdac19e1f12d1ec28fab/1781701765107/Protokoll%20kommunfullm%C3%A4ktige%20den%2011%20juni%202026.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Kommunfullmäktige Sammanträdesdatum 2026-06-11 Justering",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dccc92807f4ef44b78b56b5ca3c59ff77c0c1a1bc0585d888a9c02ef340ed0cd",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nassjo.se/download/18.19a56c5d1a03bce937a360c7/1790782239524/%C3%85rsredovisning%202025%20N%C3%A4ssj%C3%B6%20kommun.pdf",
+  "titel": "ÅRSREDOVISNING 2025 Med förvaltningsberättelse NÄSSJÖ KOMMUN",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "85c47ac61f6a0ce2ee68f6352e98f18af1b242e5e18f9bed7760338d859d0ebc",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 79,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 69,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ch förskolan är det positiva avvikelser på 5,2 miljoner kronor respektive 3,9 miljoner kro nor. Avvikelsen inom grundskolan beror bland annat på sent beslutade statsbidrag medan förskolans avvikelse är en mix av minskat barnantal och förskjutna utbildningar. Inom anpassad grundskola har elevantalet fortsatt att öka vilket för 202",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.smalandsdagblad.se/nassjo/klart-sa-paverkas-du-av-nassjos-budget-2027",
+  "titel": "KLART: Så påverkas du av Nässjös budget 2027 – Smålands Dagblad",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "6f473834172db1603773577ab26a1bda523a837db7042cf5344604cb78832fbc",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.smalandsdagblad.se/nassjo/sofias-kanga-till-kd-kanns-valdigt-valdigt-markligt",
+  "titel": "Sofias känga till KD: ”Känns väldigt, väldigt märkligt” – Smålands Dagblad",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "01815890e8b59d5a9ac9daac9a0f432ee0bfb791c008c1d8ca1b8af3fa085f6d",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nassjo.se/download/18.1c7bdf2d199e59b572e7c778/1770106811277/Planbesked%20Filen%203%20med%20flera.pdf",
+  "titel": "2026-01-28 Diarienummer: SPK 2025–1675 1 Postadress Besöksadress Telefon (v)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "244d507a27ed51c962b26895f362163e7b92905ec58ace6d07f16f2f82c95f90",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

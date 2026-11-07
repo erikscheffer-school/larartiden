@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.ragunda.se/download/18.1d2806cb1877920d953c755/1773311530900/Bygg-%20och%20milj%C3%B6n%C3%A4mndens%20delegationsordning.pdf",
+  "titel": "Bygg- och miljönämndens delegationsordning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "11b14e9bcf44a26f1ffc4e19d5d78297b50adf6e57dd7a7d5951fe5ce7d1abde",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 63,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommunkartan.se/karta/ragunda-kommun/370270/",
+  "titel": "Biblioteksplan 2027–2030 | Ragunda 2026 | Stuguns bibliotek",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "cfd5ad79ab5a5d8fb43ff022f9fd94d3bf12217efe645f2c42774f0500512133",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

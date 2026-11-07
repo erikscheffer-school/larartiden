@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://sundsvall.se/download/18.6d777ac619c9860f84e8ca97/1772440889217/Protokoll%20kultur-%20och%20fritidsn%C3%A4mnden%202026-02-25.pdf",
+  "titel": "Sammanträdesprotokoll Sammanträdesdatum Sida Kultur- och fritidsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b575102059a782806432f17ef3220955a71bb5ff490fc398d7e14080a912e4bd",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.st.nu/asikter/budgetdebatten-behover-nyanseras",
+  "titel": "Budgetdebatten behöver nyanseras – Sundsvalls Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ba8a012ada428b88b25c70210b503c5841d670beb3ce6b6fc46dd4a768f47147",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.282b2cf919c987aa26fd2bac/1772634196709/Protokoll%20fr%C3%A5n%20barn-%20och%20utbildningsn%C3%A4mndens%20sammantr%C3%A4de%202026-02-25.PDF",
+  "titel": "Sammanträdesprotokoll Sammanträdesdatum Sida Barn- och utbildningsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "52205a7a66ee9fa2a342ee390ea819015f1839c7f24a02b3c43379c2b8069a1c",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.4c6d0cbf19ce544c80b9f17a/1773852682854/Protokoll%20milj%C3%B6n%C3%A4mnden%202026-03-11.pdf",
+  "titel": "Sammanträdesprotokoll Sammanträdesdatum Sida Miljönämnden 2026-03-11 1",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1a9e835612934ede3681891f6f702b7886226a9c255cf93b700e5ace0d7a222e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

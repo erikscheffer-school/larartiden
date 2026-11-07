@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.barometern.se/kalmar/fri-parkering-egen-lakare-och-slopat-klimatmal-i-sd-s-budget",
+  "titel": "Fri parkering, egen läkare och slopat klimatmål i SD:s budget – Barometern-OT",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "9a081767f194fa80d5f7936b41c3d3382e34048e4e511ab02e7302eaaa8f6264",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vt.se/nyheter/vastervik/artikel/ny-rodgron-budget-i-region-kalmar-lan-utan-offensiv/j823m9yj",
+  "titel": "Ny rödgrön budget i Region Kalmar län utan offensiv",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "8433cedb7718232caaaab4d9523c89ec26eed9ef543c86e302047eaf543fd94c",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://fardbevis.se/kalmar/biljetter-och-priser/skolbiljetter-i-kalmar-foreslas-hojas-upp-686-kr-for-lanet/",
+  "titel": "Skolbiljetter i Kalmar föreslås höjas – upp 686 kr för länet — Färdbevis.se",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e90f6f08cebe76ddc0e26664c4efd7c2ef649c574903abcf9338f3f92e5ae839",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

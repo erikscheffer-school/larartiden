@@ -43,5 +43,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.779ed0b819c47b777a249a55/1771262956282/Kallelse%20kommunstyrelsen%202026-02-23.pdf",
+  "titel": "Kommunstyrelsen Kallelse - Kungörelse",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dfa6628aa1cb182a546130f96a5c046c08351296c0e7416132500babcbb65f38",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 84,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

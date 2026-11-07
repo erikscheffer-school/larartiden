@@ -1,48 +1,23 @@
 [
  {
-  "id": "falkoping",
-  "kommun": "Falköping",
-  "lan": "Västra Götalands län",
+  "id": "vaxholm",
+  "kommun": "Vaxholm",
+  "lan": "Stockholms län",
   "status": 5,
-  "poang": 11,
+  "poang": 7,
   "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "1 nytt/nya dokument nämner reformen",
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
-   "https://www.falkoping.se/download/18.4933f3551a04786e3042f79a/1789548127841/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-09-22.pdf",
-   "https://www.falkoping.se/download/18.4933f3551a04786e3042fa27/1789558786579/Handlingar%20kompetens-%20och%20arbetslivsn%C3%A4mnden%202026-09-23.pdf",
-   "https://www.falkoping.se/download/18.538abe0919e0227e509580/1778661443007/Protokoll%20-%20Kommunstyrelse%202026-05-11,%20med%20signaturer.pdf",
-   "https://www.falkoping.se/download/18.420f2d5419bd9f90ceefe1/1769511121302/Verksamhetsplan%20f%C3%B6r%20%C3%A5r%20%202026-2028%20-%20Kommunstyrelsen.pdf",
-   "https://www.falkoping.se/download/18.582b050219c0f3580a6ccce/1771944301984/Handlingar%20kultur-%20och%20fritidsn%C3%A4mnden%202026-03-03.pdf",
-   "https://www.falkoping.se/download/18.1eb706c819e6eadae8a776/1780385809118/Protokoll%20-%20Kommunfullm%C3%A4ktige%202026-05-25,%20med%20signaturer.pdf",
-   "https://www.falkoping.se/download/18.538abe0919e0227e509ef3/1779695411574/Kallelse%20kommunstyrelsens%20utskott%20f%C3%B6r%20st%C3%B6d%20och%20service%202026-05-28.pdf",
-   "https://www.falkopingstidning.se/falkoping/har-ska-styret-lagga-pengarna-kommande-ar",
-   "https://www.falkoping.se/download/18.7bdef21a19ac5f61f0178ca/1768568200583/Verksamhetsplan%20f%C3%B6r%20%C3%A5r%202026-2028%20-%20Kompetens-%20och%20arbetslivsn%C3%A4mnden.pdf",
-   "https://www.falkoping.se/download/18.61769da719d2ad523dac8b/1775712185658/Protokoll%20-%20Kommunfullm%C3%A4ktige%202026-03-30,%20med%20signaturer.pdf",
-   "https://www.falkoping.se/download/18.582b050219c0f3580a6cccc/1771944288748/Handlingar%20kultur-%20och%20fritidsn%C3%A4mnden%202026-01-27.pdf"
+   "https://www.vaxholm.se/download/18.62f6135c19bca00c9e05a99e/1769694514571/Kallelse%20KS%202026-02-05.pdf",
+   "https://vaxholm.se/download/18.173e502419dcdb131e316e4c/1777545587053/Kallelse%20KS%202026-05-07.pdf"
   ]
  },
  {
-  "id": "fargelanda",
-  "kommun": "Färgelanda",
-  "lan": "Västra Götalands län",
-  "status": 5,
-  "poang": 11,
-  "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://fargelanda.se/media/u53hzeed/kallelse-kommunfullmaktige-2026-04-22.pdf",
-   "https://fargelanda.se/media/1a4hntww/kallelse-utbildningsnamnden-2026-03-31.pdf",
-   "https://www.dagenssamhalle.se/offentlig-ekonomi/kommunal-ekonomi/fargelanda-ska-spara-10-miljoner/"
-  ]
- },
- {
-  "id": "ale",
-  "kommun": "Ale",
-  "lan": "Västra Götalands län",
+  "id": "are",
+  "kommun": "Åre",
+  "lan": "Jämtlands län",
   "status": 5,
   "poang": 7,
   "skal": [
@@ -50,59 +25,145 @@
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
-   "https://ale.se/download/18.62e13f4c19e641f27bc63971/1780984194561/2026-06-17%20Kallelse%20och%20handlingar.pdf",
-   "https://ale.se/download/18.79ab0b3519ddc9816b566778/1778677147459/2026-05-20%20Kallelse%20med%20handlingar%20.pdf",
-   "https://ale.se/download/18.78063ecd19d9a4917075ffd7/1777488123390/2026-05-05%20Kallelse%20med%20handlingar.pdf",
-   "https://ale.se/download/18.132f5f1d19d9a5177d733b88/1777035628017/2026-04-30%20Kallelse%20och%20handlingar.pdf",
-   "https://ale.se/download/18.55d873b519c9887c909e0ee1/1773762035590/2026-03-23%20Kallelse%20och%20handlingar.pdf",
-   "https://ale.se/download/18.11bd94e219c2c372caad2b1/1770396528267/2026-02-09%20Kallelse%20och%20handlingar.pdf",
-   "https://ale.se/download/18.7c03f7f319f4fd26dce26c12/1784012939113/2026-07-23%20Kallelse%20och%20handlingar.pdf"
+   "https://www.sverigeslarare.se/om-oss/nyheter/reglerad-tid-for-larares-karnuppdrag--har-ar-forordningen/",
+   "https://www.vilarare.se/nyheter/arbetstid/lag-om-undervisningstid--redan-nasta-sommar/",
+   "https://are.se/download/18.4c73110e19d8af8a2d173b/1776178087141/2026-04-14.pdf",
+   "https://are.se/download/18.5e484f4b19ed4844be316cf3/1782718717258/F%C3%B6reskrift%20om%20avfallshantering%202026-06-25.pdf"
   ]
  },
  {
-  "id": "bjurholm",
-  "kommun": "Bjurholm",
-  "lan": "Västerbottens län",
+  "id": "katrineholm",
+  "kommun": "Katrineholm",
+  "lan": "Södermanlands län",
+  "status": 5,
+  "poang": 6,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.katrineholm.se/download/18.4831ba6819eafd5fb108e1a/1781175402612/STN_2026-06-18%20-%20Service-%20och%20teknikn%C3%A4mndens%20kallelse%20inkl%20handlingar%202026-06-18%20-%20F%C3%96R%20PUBLICERING.pdf",
+   "https://www.katrineholm.se/download/18.4fb5ba4519c47a3cbb2a0123/1771255604061/Kulturn%C3%A4mndens%20kallelse%20inkl%20handl%202026-02-24.pdf",
+   "https://www.katrineholm.se/download/18.58bc16519e63557f16950dc/1780642963480/V%C3%A5rd-%20och%20omsorgsn%C3%A4mndens%20kallelse%202026-06-09.pdf",
+   "https://www.katrineholm.se/download/18.575f780b19d9a4b2cd041b8a/1776758141195/KULN_2026-04-28%20-%20Samlingshandling%20f%C3%B6r%20KULN_2026-04-28.pdf",
+   "https://www.katrineholm.se/download/18.6b6d7bf19ed44ea63d6e100/1782396540649/Uppf%C3%B6ljning%20av%20kommunplan%202023-2026%20KS%202026-06-16,%20%C2%A7%20128.pdf",
+   "https://www.sverigeslarare.se/contentassets/334fb29b3bde4a8f8f2f74308858b937/verksamhetsplan-sveriges-larare-katrineholm-2026.pdf"
+  ]
+ },
+ {
+  "id": "saffle",
+  "kommun": "Säffle",
+  "lan": "Värmlands län",
+  "status": 5,
+  "poang": 5,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://saffle.se/download/18.3fabe2db19ed44c26fd78d23/1782992498435/KS_2026-06-01%20-%20Protokoll%20Kommunstyrelsen%202026-06-01.pdf",
+   "https://saffle.se/download/18.6e531cf419dd3d0e6d8143e/1777379716244/Protokoll%20Teknik-%20och%20fritidsn%C3%A4mnd%20S%C3%A4ffle-%C3%85m%C3%A5l%202026-04-22.pdf",
+   "https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten",
+   "https://www.saffletidningen.se/saffle/debatt-om-skatten-nar-kommunens-budget-klubbades/",
+   "https://www.mp.se/saffle/just-nu/vart-forslag-rostades-ner/"
+  ]
+ },
+ {
+  "id": "varberg",
+  "kommun": "Varberg",
+  "lan": "Hallands län",
+  "status": 5,
+  "poang": 5,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://varberg.se/kommun-och-politik/kommunfakta/ekonomi-och-budget/budget",
+   "https://www.hn.se/asikt-och-debatt/asikter/ordet-ar-fritt/valfarden-prioriteras-i-varsams-budget-med-ansvar-for-ekonomi-och-framtid.136c32c0-09bd-55f4-ad1a-987ada6fab70",
+   "https://socialdemokraternavarberg.se/2026/08/23/beslut-om-skolan-i-dag-avgor-varbergs-framtid/",
+   "https://varberg.se/download/18.5f6c899519ee53e98ddc6d93/1782195685477/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%202026-06-18.pdf",
+   "https://varberg.se/download/18.1aab221319c8bc874d13a9d1/1771939118356/Hamn-%20och%20gatun%C3%A4mnden%20protokoll%202026-02-23,%20%C2%A7%C2%A7%203-16.pdf"
+  ]
+ },
+ {
+  "id": "botkyrka",
+  "kommun": "Botkyrka",
+  "lan": "Stockholms län",
   "status": 5,
   "poang": 4,
   "skal": [
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
-   "https://www.bjurholm.se/download/18.6ec5c3f319b2c01e8777c02a/1770196824094/KS%20Protokoll%20260203.pdf",
-   "https://www.bjurholm.se/download/18.6f80686519e48d47eaf7d7d/1779693259031/%C3%84rende%2015%20%C3%96P%20Bjurholm%20-%20planhandling%20samr%C3%A5d.pdf",
-   "https://www.bjurholm.se/download/18.6004138119d9a6b31d07d21/1776849072687/KF%20Protokoll%20260420.pdf",
-   "https://www.bjurholm.se/om-webbplatsen/nyheter/nyhetsarkiv/2026-03-10-vart-framtida-bjurholm"
+   "https://kommunkartan.se/karta/botkyrka-kommun/414162/",
+   "https://www.botkyrka.se/nyhetsarkiv/nyhetsarkiv/2026-01-30-driften-av-fritidsklubbar-och-fritidsgardar-i-botkyrka-ska-upphandlas",
+   "https://www.botkyrka.se/download/18.2d75104a19a0a3a26b328971/1779965408018/Tillval%20Botvidsg%C3%A5rden.pdf",
+   "https://www.botkyrka.se/download/18.4b1c5af31817fd030534550/1782896397357/Uppdragsbeskrivning%20Grupp-%20och%20servicebostad.pdf",
+   "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/vill-du-byta-skola"
   ]
  },
  {
-  "id": "boras",
-  "kommun": "Borås",
+  "id": "gnesta",
+  "kommun": "Gnesta",
+  "lan": "Södermanlands län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.gnesta.se/download/18.779ed0b819c47b777a249a55/1771262956282/Kallelse%20kommunstyrelsen%202026-02-23.pdf",
+   "https://www.gnesta.se/download/18.6c24f75c19c890b00de400a5/1772454581980/Protokoll%20kommunfullm%C3%A4ktige%202026-02-23.pdf",
+   "https://www.gnesta.se/download/18.2ae41c3019dcdb0d5bb12097/1777460547554/Kallelse%20samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-05-06.pdf",
+   "https://www.gnesta.se/download/18.feb27ae19dcda0de3372d0a/1778143005790/Protokoll%20samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-05-06.pdf"
+  ]
+ },
+ {
+  "id": "goteborg",
+  "kommun": "Göteborg",
   "lan": "Västra Götalands län",
   "status": 5,
   "poang": 4,
   "skal": [
+   "1 nytt/nya dokument nämner reformen"
+  ],
+  "dokument": [
+   "https://www.dagenssamhalle.se/samhalle-och-valfard/skola/nya-lararkraven-sinkar-budgetarbetet-oerhort-stressade/",
+   "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/c8e8927dc6f42ae8c1258d8c00571db2/$FILE/8.12%20Bilaga%20Grundskoleforvaltningens%20verksamhetsplan%202026%20.pdf",
+   "https://www.dn.se/direkt/2026-11-03/goteborg-sanker-politikernas-loner-med-fem-procent/",
+   "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/f3e04daf6309085fc1258dc300430edf/$FILE/7_20260401.pdf",
+   "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/a30d617cf53808a4c1258ddc00284d21/$FILE/8.8%20bilaga%208%20Ikrafttradande%20lagar.pdf",
+   "https://www.gp.se/politik/flera-anstallda-i-goteborgs-stad-far-sex-timmars-arbetsdag.f083efdb-28a5-5968-b7a7-e625da375979"
+  ]
+ },
+ {
+  "id": "hallsberg",
+  "kommun": "Hallsberg",
+  "lan": "Örebro län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "2 nytt/nya dokument nämner reformen"
+  ],
+  "dokument": [
+   "https://www.hallsberg.se/download/18.2eb33fa919b2c04ecba8b97/1770124099638/2026-02-10%20-%20Kallelse%20BIN.pdf",
+   "https://www.hallsberg.se/download/18.43c572ab19e4ad77f9b10/1779700179354/2026-05-26%20-%20Kallelse%20KS.pdf",
+   "https://www.hallsberg.se/download/18.39166a4a18d548f83741592b/1771838633858/R%C3%A4kna%20ut%20l%C3%B6nen%20till%20feriearbetande%20ungdom.pdf",
+   "https://www.hallsberg.se/download/18.4c2a6f5b19c47c510ba17d3/1771250367237/2026-02-11%20-%20Protokoll%20DOS.pdf"
+  ]
+ },
+ {
+  "id": "hammaro",
+  "kommun": "Hammarö",
+  "lan": "Värmlands län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
-   "https://www.bt.se/insandare/ge-oss-arbetsro-i-boras-skolor",
-   "https://www.boras.se/download/18.6b1e2caf19b7cc0b908c06f4/1768487788003/Gymnasie-%20och%20vuxenutbildningsn%C3%A4mnden%20260127%20Handlingar.pdf",
-   "https://www.skolverket.se/download/18.3e7a86df19e631b9adac6/1779781165744/Bidragsramar%20f%C3%B6r%20statsbidraget%20f%C3%B6r%20st%C3%A4rkt%20kunskapsutveckling%202027.pdf",
-   "https://www.bt.se/boras/styret-bjuder-in-oppositionspartierna-i-budgeten",
-   "https://www.boras.se/download/18.37014ff19dd248e44a579f8/1777882400252/Redovisning%20av%20anm%C3%A4lnings%C3%A4renden%202026-05-11.pdf",
-   "https://www.boras.se/download/18.5d453dda19bd471859d6cb51/1769423134206/Samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-01-21%20protokoll.pdf",
-   "https://www.boras.se/download/18.1bde164619d24dbd7711da3e/1774615883010/Protokoll%20digital%20signatur%202026-03-25.pdf",
-   "https://www.boras.se/download/18.17eac3cd19dd2802e4390736/1778229437831/Plankarta.pdf",
-   "https://www.boras.se/download/18.7cdf5ab19c8e3cd34d96544/1772802550726/Handlingar%20f%C3%B6r%20m%C3%B6te%20Grundskolen%C3%A4mnden%20den%202026-03-17.pdf",
-   "https://www.boras.se/download/18.4a016e7a19c47b642ba8cc48/1771589810797/Fritids-%20och%20folkh%C3%A4lson%C3%A4mnden%202026-02-17%20protokoll.pdf",
-   "https://www.boras.se/download/18.63fd2cca19d6b4c67e0254e/1775635280007/Missiv%20-%20Granskning%20av%20Bor%C3%A5s%20Stads%20strategiska%20arbete%20med%20milj%C3%B6-%20och%20klimatfr%C3%A5gor.pdf",
-   "https://www.boras.se/download/18.4c5a9f0119ed43061f7181/1781694003389/Alternativt%20f%C3%B6rslag%20M%20KD%20HVB%208-13%20%C3%A5r.pdf",
-   "https://www.boras.se/download/18.1bde164619d24dbd7711da41/1774615943657/Alternativt%20f%C3%B6rslag%20fr%C3%A5n%20Sverigedemokraterna%20&%20Moderterna%20%C2%A7%2036.pdf",
-   "https://www.boras.se/download/18.48f99c9119e631e67431743e/1780478046930/Propagandaregler%20vid%20r%C3%B6stningslokaler.pdf",
-   "https://www.boras.se/download/18.3921d5331a08643d2b4b263/1789556440093/Kommunstyrelsen%202026-09-21%20Handlingar.pdf",
-   "https://www.bt.se/svenljunga/extra-miljoner-till-skolan-och-socialnamnden",
-   "https://underaret.se/skola/lasarstider/",
-   "https://www.bt.se/debatt/mittsamverkan-for-borasarna-bakom-ljuset-om-satsningar-i-skolan"
+   "https://hammaro.se/arkiv/nyheter/2026/2026-05-27-majoritetens-forslag-till-budget-2027---satsningar-pa-valfard-trygghet-och-framtidsberedskap",
+   "https://www.vf.se/ingen-skattesankning-har-ar-satsningarna-i-hammaros-budget/",
+   "https://www.hammaronytt.se/majoritetens-budgetforslag-lagt/",
+   "https://varmlandsbygden.se/hammaro/hammaro-satsar-miljoner-pa-lillangshamnen/"
   ]
  }
 ]

@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://sandviken.se/download/18.382b0c8f19cff5da58dc7/1773827981264/Slutrapport%20Liv%20till%20%C3%A5ren.pdf",
+  "titel": "Liv till åren SLUTRAPPORT Datum 2026-01-07 Version 1 Sida 1(12) Projektnr",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e7a4190844377707fe6ed1002a889426dbd0905cd938730c7121e3f2bce60dc3",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.edu.se/kommuner/sandviken/lasarstider",
+  "titel": "Läsårstider Sandviken 2026/2027 – lov och prov – EDU.se",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "069000d277bf9505c10b9bac5c3cd4a911724fd5e8771b763652a574bec164c4",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

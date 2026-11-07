@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.ronneby.se/download/18.618ae11919d24f88f8bf3d5/1774617077906/Protokoll%20NAV%202026-03-25%20%C2%A7%C2%A7%2041-52.pdf",
+  "titel": "Protokoll NAV 2026-03-25 §§ 41-52.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0f89e5179212cca8bebba0fa8b309deeb721d2b4d8777f94273ef875461c2390",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.2b1bff1d19ed453c4055efad/1782806491941/Protokoll%20v%C3%A5rd-och%20omsorgsn%C3%A4mnden%202026-06-15%20%C2%A7%C2%A7%2083-97.pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande Vård-och omsorgsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1bceda0313594d709f81deb5fee49f6b342678693d8ee7037b9607b817f4e811",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.783f196919bdbfdf6bf418ca/1769585015204/Kommunala%20f%C3%B6reskrifter%20om%20anv%C3%A4ndningen%20av%20den%20allm%C3%A4nna%20VA-anl%C3%A4ggningen%20i%20Ronneby%20kommun%20(KFVA).pdf",
+  "titel": "Kommunala föreskrifter om användningen av den allmänna VA-anläggningen i",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0280495c8ee43e7666ce558d28dced9176bfd2a210f9fd8b56ffecfe99a04440",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

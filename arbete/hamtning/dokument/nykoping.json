@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/styrande-dokument/aktiverande/tillsynsplan-enligt-miljobalken-2026.pdf",
+  "titel": "Antagen 2026-01-27av Miljö- och samhällsbyggnadsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2432d1bdc8b0c7d3d63c66a908566a2350726e51bd82b7f7bbc807dcc4e90e0b",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/contentassets/5f5becb520f848d2a6aa356a35f7231f/befolkningsprognos-2026.pdf",
+  "titel": "Befolkningsprognos 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ba69d6ec486fa9fea2c4d15a42540dfd8c89f3bc75181ea46026c52c8d1abf28",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

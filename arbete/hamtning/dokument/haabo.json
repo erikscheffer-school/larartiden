@@ -1,0 +1,88 @@
+[
+ {
+  "url": "https://www.habo.se/download/18.4afc698219d2168c2415199/1774424294353/Uppf%C3%B6ljning%20avfallsplan%202025%20(3)%20(1).pdf",
+  "titel": "1 Uppföljning avfallsplanen 2025 2026-02-04",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3ed2a5c5600385a038c1f540a22bf027eeec9607105f0fd9ebd9155f823a250a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.habo.se/download/18.48f99c9119e631e6743171cd/1780409455154/Protokoll%20KS%202026-05-26%20signerat.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL - Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1a17ba46869507f36b38ac39b9048c83b6375594b258d23932a792b4f2fda54a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.habo.se/download/18.4a016e7a19c47b642babbef8/1771870608131/Kallelse%20KF%202%20mars%202026.pdf",
+  "titel": "KALLELSE Datum 2026-02-23 Kommunfullmäktige Kommunfullmäktige Datum och tid:",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ea6117d8fae63ac3e13a00fa2f43e5871a9b08400eee85c521d10abf68c1aafc",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.habo.se/download/18.48f99c9119e631e674351cfd/1780934360948/23-45.%20Anm%C3%A4lan%20av%20motioner.pdf",
+  "titel": "TJÄNSTESKRIVELSE Sida 1(1) Datum 2026-05-18 Vår beteckning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b13a22d9e98d07e2d5a6623dc1bf84dc1884f679076ed7c91bdb91c8090aa8f2",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "å att de kan utföra uppdraget, • att uppföljning av förändringen sker efter ett år med rapport till Barn och utbildningsnämnden om effekt på lärares arbetstid och elevers trygghet. Somir Sinharay, Gruppledare Liberalerna Håbo",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://skollov-se.se/habo-uppsala",
+  "titel": "Skollov Håbo | Skollov SE",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "cb14c3c7e026382e7d98fbdd8cf5609f5d93155d0233ab7eb0fc3e176496793d",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

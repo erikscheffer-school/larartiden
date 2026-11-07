@@ -1,0 +1,40 @@
+[
+ {
+  "url": "https://gallivare.se/download/18.ee5ff0719e8bd7f51948ac5/1780656480106/Protokoll%20kommunstyrelsen%202026-05-25.pdf",
+  "titel": "Kommunstyrelsen SAMMANTRÄDESPROTOKOLL Sida 1(74) 2026-05-25 Plats och tid",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fb97d0d0435ff2ccd6451f0ddb9347675fbb5edc852054d11dc0bc7f48f28fbf",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 77,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://gallivare.se/download/18.4fb2f95719c098b4c8cebbb0/1770213016944/Protokoll%20barn-%20och%20utbildningsn%C3%A4mnden%202026-02-03.pdf",
+  "titel": "Barn- och utbildningsnämnden SAMMANTRÄDESPROTOKOLL Sida 1(36) 2026-02-03",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8adad234afc0dc7ad2fd721563b6122fad801f5c577fede87970daf5f43d2c6a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "att informationen delges kommunfullmäktige. Ärendebeskrivning I underlaget presenteras en redovisning av beviljade statsbidrag från Skolverket, 2025. Samtliga bidrag som barn- och utbildningsförvaltningen har ansökt om har blivit beviljade, vid",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

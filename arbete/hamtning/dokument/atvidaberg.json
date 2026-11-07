@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.atvidaberg.se/download/18.211196c116b8a790f98af95d/1782720418545/tillsynsplan-for-alkoholtillsyn-enligt-alkohollagen.pdf",
+  "titel": "Tillsynsplan för alkoholtillsyn enligt alkohollagen (2010:1622)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ecf1c4f65dc321462c8c06e20b4b0c9238d4acb17ad394a2bd5aa698d083f056",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://foreningsguiden.se/kommun/atvidaberg/ovrig/",
+  "titel": "Övrigt i Åtvidaberg — föreningsbidrag",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "40c41738ba7d31305658645da0d6aec1e01d2accbb225d1c3613e241a099e724",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

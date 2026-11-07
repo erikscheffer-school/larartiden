@@ -1,0 +1,87 @@
+[
+ {
+  "url": "https://are.se/download/18.4c73110e19d8af8a2d173b/1776178087141/2026-04-14.pdf",
+  "titel": "ÅRE KOMMUN SAMMANTRÄDESPROTOKOLL Barn- och utbildningsnämnden Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ac251dd0f82a64f9724deb8a6ed1a0e6493cb03d039a2c6eff84c75e6ae34a03",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sverigeslarare.se/om-oss/nyheter/reglerad-tid-for-larares-karnuppdrag--har-ar-forordningen/",
+  "titel": "Reglerad tid för lärares kärnuppdrag – regeringen har beslutat om förordningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7ba9fbcc1eed80b76b8c7a6ee1b1c544840fd37660e4209c1cad6dae0a0aba8d",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "planeringstid",
+   "undervisningstid",
+   "undervisningstimmar",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "en innehåller regleringar Förordningen anger ett tak för mängden undervisningstid och en minsta tid för planering och uppföljning. Den innebär även att lärares undervisningsuppdrag ska anpassas efter verksamhetens faktiska förutsättningar. Bedömningen ska bland annat ta hänsyn till elevgruppernas storlek, hur många elever läraren undervis",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 20
+ },
+ {
+  "url": "https://www.vilarare.se/nyheter/arbetstid/lag-om-undervisningstid--redan-nasta-sommar/",
+  "titel": "Lag om undervisningstid – redan nästa sommar | Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "1e74fd43c095f1424ece62021e56dea4dd7b03c5d8be0eeadb52396e5be2260b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "l reglering som styr hur mycket tid som ska läggas på planering och uppföljning av undervisningen. Vid torsdagens sammanträde antog regeringen lagrådsremissen ”Tid för undervisningsuppdraget” som bygger på före detta ordföranden i Lärarnas Riksförbund, Bo Janssons, utredning med samma namn. Enligt remissen, och med största sannolikhet den kommande",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://are.se/download/18.5e484f4b19ed4844be316cf3/1782718717258/F%C3%B6reskrift%20om%20avfallshantering%202026-06-25.pdf",
+  "titel": "”Tillsammans skapar vi en hållbar framtid för alla i storslagen fjällmiljö”",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "62d6a2758b7ef321919972ee484b77ee639d0d8bb7af0bf836f9583e2e5242ba",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

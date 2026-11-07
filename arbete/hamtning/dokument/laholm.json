@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://laholm.se/download/18.2df650a819bb67f970f4fbd6/1769065482497/Protokoll%20UBN%202026-01-21.pdf",
+  "titel": "Utbildningsnämnden Sammanträdesdatum 2026-01-21 § Ärendelista § 1",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3465ced5154e1faf61109ac192471d619820f649ab7be7aad789fd1afd6bd9ec",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "nom att kombinera idrott och gymnasial utbildning vill NIU ge eleverna verktyg och kunskaper för att hantera framtida utmaningar i både karriären och i livet. Undervisningstid och antagning till NIU Den totala undervisningstiden vid nationellt godkänd idrottsutbild- ning är den samma som för övriga nationella gymnasieprogram med skil",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://storymaps.arcgis.com/collections/e61227bf2ff04c68a172c0718def7f91",
+  "titel": "Laholms kommuns Planeringsförutsättningar 2027",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b826ec676e909dd77729636d77b385352bdea0399991b07bfa933dfecf72df4b",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://laholm.se/download/18.372fd09d19c98b67b0cd2021/1773838418830/Dpl%20Skummesl%C3%B6v%205_13_planbeskrivning_antagande.pdf",
+  "titel": "PLANBESKRIVNING",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd115ace3d80f50a6d8514ecd4ca74e107880379341bbe54099c89ed77833885",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://laholm.se/forskola-skola-och-utbildning/lasarstider-lov-och-ledighet/lasarstider-forskola",
+  "titel": "Läsårstider förskola - Laholms kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "647048c2e71942f93a3987d9dcef1f6a55249f01043406dfece1f88f19caf90c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

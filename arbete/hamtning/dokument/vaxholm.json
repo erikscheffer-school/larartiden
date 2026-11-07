@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.vaxholm.se/download/18.62f6135c19bca00c9e05a99e/1769694514571/Kallelse%20KS%202026-02-05.pdf",
+  "titel": "Kallelse/föredragningslista 2026-02-05 1 av 3",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0b00725b9d971d42113f0afd1ed631ee5020d8af5f60d5e0523d54c54b1f730f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 528,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 82,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "atsningar avseende psykisk hälsa och minskade barngrupper i förskolan. Det framkommer även att det planeras en satsning inför år 2026 med koppling till lärares undervisningsuppdrag. Vidare beskrivs att den nya internhyresmodellen som börjar gälla från 1 januari 2026 kommer att ge en mer jämn hyresfördelning för förskolor och grundskolor.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://vaxholm.se/download/18.173e502419dcdb131e316e4c/1777545587053/Kallelse%20KS%202026-05-07.pdf",
+  "titel": "Vaxholm",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b1d5243e3e13b9a15bd7541c0ec77a165e6e7ce5f6bec79bd5afe8ef1c38f627",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 424,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

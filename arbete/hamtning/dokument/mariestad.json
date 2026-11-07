@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://www.mariestadstidningen.se/mariestad/sa-vill-majoriteten-satsa-i-mariestad-nasta-ar",
+  "titel": "Så vill majoriteten satsa i Mariestad nästa år – Mariestads-Tidningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0e9b39072ae1cc2cdb3ed01369975448bb3425f0f8683b7a833747ac79287f96",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mariestadstidningen.se/mariestad/skolan-kommer-forst-for-s-barn-och-unga-ar-framtiden/",
+  "titel": "Skolan kommer först för S: ”Barn och unga är framtiden” – Mariestads-Tidningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7ea6d1311c5b7be9652d1cf76cac9167a5b9c147665924cb7bd75fd23ecb4f35",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mariestadstidningen.se/larares-arbetstid-regleras/",
+  "titel": "Lärares arbetstid regleras – Mariestads-Tidningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ddff5f47a3c1a6940874cd4d8903ecaae1143c8610add1ed057eb03b587b180c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "Lärares arbetstid regleras – Mariestads-Tidningen Hej, Vi har en ny app! För att din app ska fortsätta fungera som det är tänkt behöver du uppdatera till nyaste versionen. Klick",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://kommunkartan.se/karta/mariestads-kommun/359888/",
+  "titel": "Tillfälligt undantag för öppettider i Högelidsskolans skolmatsalar 2026/2027 | Mariestad 2026",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "678cd99198f3ccbf61453b4372630572c9140a33a8c9013ee267c9d0c6177f4b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

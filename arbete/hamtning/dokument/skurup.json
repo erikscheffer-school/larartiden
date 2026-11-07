@@ -1,0 +1,77 @@
+[
+ {
+  "url": "https://www.skurup.se/download/18.453f13b41a01f8183521d3db/1787663058188/Digitalt%20justerat%20protokoll%20kommunstyrelsen%202026-08-18,%20%C2%A7%C2%A7%20110-142%20-%20kvitto%20wfnq8.pdf",
+  "titel": "Digitalt justerat protokoll kommunstyrelsen 2026-08-18, §§ ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "275739c25efd582bdd5967e7ae6e84706e05979ce2ba5599d0b474b7b1c12555",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 61,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ystadsallehanda.se/skurup/kottbullar-i-skolan-och-utredning-om-stadsbuss-har-ar-styrets-budgetforslag",
+  "titel": "Köttbullar i skolan och utredning om stadsbuss – här är styrets budgetförslag – Ystads Allehanda",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "71964105f78165686b93549f1c1d9c62e74c130d61c88c574344f4602360b01b",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ystadsallehanda.se/skurup/klubbat-styrets-budget-satter-ramarna-for-2027/",
+  "titel": "Klubbat: Styrets budget sätter ramarna för 2027 – Ystads Allehanda",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7258cac44ac402a62a40983b3dbc2d134573b8ad34bc904073f1f8f0e43fdfb4",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skurup.se/download/18.4c0af3ad19e024365c676416/1779283143273/KS%202026.5_Kallelse%20Kommunstyrelsen%202026-05-26%20(2).pdf",
+  "titel": "Skurups kommun - platsen för det goda livet",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4d98e5be9607ea7ff3f1989a52fd6e666cd2d7496a8fc76f7686ba1a9d63be09",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 568,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 442,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ar för år 2025 ett överskott på 8,4 miljoner kronor. Resultatet beror främst på lägre verksamhetsvolymer inom förskola och fritidshem samt högre statsbidrag än beräknat. Grundskolan redovisar ett överskott och vuxenutbildningen visar ett positivt resultat genom ökad samverkan och fler elever. Nils Holgers",
+    "belopp_nara": true
+   },
+   {
+    "sida": 22,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "e Att införa teater som ett permanent ämne inom Kulturskolans ordinarie kursutbud kräver anställning av teaterpedagog, materialkostnader, verksamhetskostnader, planeringstid och samverkan med befintliga lärare. Skol- och utbildningsförvaltningens tidigare beräkningar visar att ett införande av teater som ett permanent ämne motsvar",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ }
+]

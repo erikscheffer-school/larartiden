@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.torsas.se/utbildning-och-forskola/lasarstider-2026-2027/",
+  "titel": "Läsårstider 2026/2027 - Torsås kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "5f054dd8ee106fbbe49fc551472ce28f74adc363e812a8382bf99bdf85ff5ba4",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.torsas.se/utbildning-och-forskola/avgifter-for-forskola-och-fritidshem/",
+  "titel": "Avgifter för förskola och fritidshem - Torsås kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "8e68ffd508dae98a1ca0fd157e62cbcd233e4f5fc7660fdb27304cf9b9f9f496",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.torsas.se/nyheter/kulturskolan/",
+  "titel": "Torsås kommun säkrar kulturskolan för ytterligare fyra år - Torsås kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "bc1b263736dfd0aa6b846344d37dae6326e9b7457edf793f3c2720593bc4a26a",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.torsas.se/nyheter/anmal-ditt-barn-till-idrott-och-kulturskolan-2026-2027/",
+  "titel": "Anmäl ditt barn till Idrott- och kulturskolan 2026/2027 - Torsås kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "1359c0840bf3a604863aa28cb5c4c1e0771876a2ae38f7c4b7503069ddfa3519",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

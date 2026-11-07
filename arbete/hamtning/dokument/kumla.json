@@ -1,0 +1,70 @@
+[
+ {
+  "url": "https://www.orebronyheter.com/verksamhetsplan-med-budget-for-2027-antagen/",
+  "titel": "Verksamhetsplan med budget för 2027 antagen – Örebronyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b2da42488cfd622f35d043b59240934d31ce430f3885c32b72ce58c994ce66bb",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vilarare.se/nyheter/nedskarningar/32-miljarder-vinst--sparar-anda-pa-skolan-ett-han/",
+  "titel": "32 miljarder i vinst – sparar ändå på skolan: ”Ett hån” | Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e835da4ecca3a4edad068a38bbd773f1bc13f69f8db8dc64b6a1621aa184d898",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "a yrken Sjuka förskolan: ”Lärare betalar med sin egen hälsa” Facket: Tänk på det här om du blir sjuk av jobbet Här är kommunen med störst barngrupper och lägst lärartäthet Läraren i fritidshem: ”Jobbar deltid för att orka” Därför drabbas syv av stress och fler sjukfall Efter valet: ”Mindre barngrupper är ingen lyx” Debatt De vill",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://kommunmannen.se/kumla/mote/kommunstyrelsen/2026-01-24/",
+  "titel": "Kommunstyrelsen 24 januari 2026, Kumla kommun | Kommunmannen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "c2a84690fb32f2bd44d61bc7c5c782afe192256ecb770f377478c92b0997b4f7",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mynewsdesk.com/se/kumla_kommun/news/kumlaby-skola-faar-stoed-foer-tre-internationella-samarbetsprojekt-512330",
+  "titel": "Kumlaby skola får stöd för tre internationella samarbetsprojekt | Kumla kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "4bac31bec15d511e528d725ffbaf8f0916ec14f2fd828e0d5c3f5b45772beaf9",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://www.kristianstad.se/download/18.3042002819b3559bdee4d9b7/1767968310332/Kommunfullm%C3%A4ktiges%20kallelse%202026-01-13.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-01-13.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e3a974ed5669ed5adb638d82073b58244e1e0693a7500cfe24f54010ec6936dd",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 277,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.55d873b519c9887c90974cf4/1773065908195/Kommunfullm%C3%A4ktiges%20kallelse%202026-03-10%20kompletterad.pdf",
+  "titel": "Kristianstad",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fff6e467e0b6c9ba71ad649e53b7882bac97beab54649402de1685d0fd26472a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 261,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstadsbladet.se/kristianstad/ekonomichefen-infor-skolbeslutet-maste-se-till-helheten/",
+  "titel": "Ekonomichefen inför skolbeslutet: ”Måste se till helheten” – Kristianstadsbladet",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "f101cb02047c74efa2116094b2331f523d477c036316880e637f56f07481662f",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skaneplus.se/kristianstad-avvecklar-skolor-och-forskolor-nar-barnkullarna-minskar/",
+  "titel": "Kristianstad avvecklar skolor och förskolor när barnkullarna minskar - Skåne Plus",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "761d9df68d5ba16832970257b9cc441b3109c09114cdd5028383508335041939",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.a7eaa7519c47bd6567f85f/1770916726330/Omsorgsn%C3%A4mndens%20kallelse%202026-02-04.pdf",
+  "titel": "Kristianstads kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "06199dd834ba37d4dc8ad031309d4977b896f6b4f1e3c5910a756cb571031180",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 506,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 258,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Rektor 5 kap. 11 §§ Ja modersmålsundervisning SkolF 3.2.2 Undervisningstid Besluta om ytterligare a-b) Rektor anpassad a) 9 kap. 3 § Ja undervisningstid utöver den grundskola",
+    "belopp_nara": false
+   },
+   {
+    "sida": 268,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "Rektor 4 kap. 13 § GyF Ja modersmålsundervisning Besluta om antalet Rektor 4 kap. 13 § GyF Ja undervisningstimmar för varje kurs samt fördelning av undervisningstiden över läsåren 3.14.4 Introduktionsprogram Besluta om urval till platser på Antagningsansv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 269,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ekonomiska svårigheter för kommunen c) är nödvändigt med hänsyn till övriga elevers trygghet och studiero 3.15.5 Utbildningens längd och undervisningstid Fördela utbildningen på längre tid Rektor anpassad skola 19 kap. 17 § Ja än fyra år skolområde Gy/Vux",
+    "belopp_nara": false
+   },
+   {
+    "sida": 270,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Ärende Delegat Lagrum Anmälan och ämnesområde samt fördelning av undervisningstiden över läsåren 3.15.6 Kurser Besluta om vilka kurser som ska Rektor anpassad skola 4 kap. 7a § GyF Ja erbjudas som individuellt",
+    "belopp_nara": false
+   },
+   {
+    "sida": 380,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Rektor 5 kap. 11 §§ Ja modersmålsundervisning SkolF 3.2.2 Undervisningstid 190 I delegationen ingår att besluta om skriftlig varning, avstängning, uppsägning eller avsked. 191 Lönesättning för arbetsmarknadsanställning görs av enhet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 381,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Delegat Lagrum Anmälan till nämnd Besluta om ytterligare a-b) Rektor anpassad a) 9 kap. 3 § Ja undervisningstid utöver den grundskola SkolF garanterade undervisningstiden Norretullskolan b) 10 kap. 2 § a) grundskolan",
+    "belopp_nara": false
+   },
+   {
+    "sida": 392,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "Rektor 4 kap. 13 § GyF Ja modersmålsundervisning Besluta om antalet Rektor 4 kap. 13 § GyF Ja undervisningstimmar för varje kurs samt fördelning av undervisningstiden över läsåren 3.14.4 Introduktionsprogram Besluta om urval till platser på Antagningsansvari",
+    "belopp_nara": false
+   },
+   {
+    "sida": 394,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ekonomiska svårigheter för kommunen c) är nödvändigt med hänsyn till övriga elevers trygghet och studiero 3.15.5 Utbildningens längd och undervisningstid Fördela utbildningen på längre tid än Rektor anpassad skola 19 kap. 17 § Ja fyra år skolområde Gy/Vux",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 18
+ }
+]

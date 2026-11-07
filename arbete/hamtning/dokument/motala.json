@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.corren.se/nyheter/motala/artikel/styrets-budgetforslag-i-motala-infor-2027/rex0zq5l",
+  "titel": "Styrets budgetförslag i Motala inför 2027",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "929ccce5337d6f0e470801edb31d29466ca5e59092f5efd5f97ad819ca46ba00",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.corren.se/nyheter/motala/artikel/oppositionens-budgetforslag-i-motala-infor-2027/r498008j",
+  "titel": "Oppositionens budgetförslag i Motala inför 2027",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e72c69a4264a8937e59269f729f47d235a2a7ad65de1d8ac96720495ba8d09ec",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Motala-kommuns-organisation.pdf",
+  "titel": "Motala kommuns organisation",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cf3bd1abab0fb8a3e8351bc1d45d310736efe8487740bada697b3b53b9a93a37",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://innovitaskolan.se/motala/om/lasarstider/",
+  "titel": "Innovitaskolan Motala | Läsårstider",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "959869ffced67ea23fcc589ec86079a82d893b377b91d57b007a93d9b0709159",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

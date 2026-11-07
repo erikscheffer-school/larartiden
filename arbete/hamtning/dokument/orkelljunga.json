@@ -1,0 +1,55 @@
+[
+ {
+  "url": "https://www.orkelljunga.se/download/18.51fc507619c98a21b9c7489/1772456866024/Socialn%C3%A4mnden%202026-03-03.pdf",
+  "titel": "Kallelse Socialnämnden Tid: 2026-03-03, klockan 13.30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "84ce93187657c62a8568cfd4132970f92daea603f229de92adabf46e3fa0bad9",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 204,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.69755fc319b2be124e46d8fa/1769760541231/Kommunfullm%C3%A4ktige%202026-01-26.pdf",
+  "titel": "Sammanträdesprotokoll 2026-01-26 Kommunfullmäktige Tid och plats",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7bc37ab1f68fea62c1495e979a3c00c7c9007279b8df7cceee07ee2bcb61949a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.2203b39e19b2bd100a668237/1769520167565/Kultur-%20och%20samh%C3%A4llsutvecklingsn%C3%A4mnden%202026-02-02.pdf",
+  "titel": "Orkelljunga",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dccdcebc9b9c87ff39ef6303850d931ded7bb837d657b6f3df814b3218376779",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 252,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m städ och kök på förskolor kommer nu helt budgeteras på UN och motsvarande belopp har då minskats på KSUN. 4.2 Övriga förändringar Årligen finns omkring 200 statsbidrag tillgängliga för kommuner som administreras av olika myndigheter. Vid sidan om statens bidrag finns också andra bidrag att söka, främst från svenska myndighete",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

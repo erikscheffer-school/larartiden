@@ -1,0 +1,70 @@
+[
+ {
+  "url": "https://www.sollentuna.se/nyheter--press/nyhet-kommun--politik/okad-budget-starker-skola-vard-och-socialt-stod/",
+  "titel": "Ökad budget stärker skola, vård och socialt stöd",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "87f891c92d9b1d70119adfa70d9cf6931703121094ac10c7365ceaca19996d5d",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sakerhetsvarlden.se/sollentuna-satsar-pa-trygghet-skola-och-valfard/",
+  "titel": "Sollentuna satsar på trygghet, skola och välfärd - Säkerhetsvärlden",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "17ee31d7b664ac0a8f35a3d3a6defb0adb77fa5cdbf80618426fbe6face2c631",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mitti.se/nyheter/kommunskatten-sanks--for-forsta-gangen-pa-14-ar-6.3.393247.d026289fe8",
+  "titel": "Kommunskatten sänks – för första gången på 14 år | Mitt i",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0372e5ebbee0ec7c4d60c1faeb3415509fe106dc71c6c7962703583be0c88b3a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "å språkförskola och på tvålärarsystem i skolan. – Lärarnas administrativa börda ska minska för att i stället ägnas åt undervisning. Ambitionen är också att öka lärartätheten. Vi kommer jobba för att i större utsträckning införa tvålärarsystem i basämnena, inledningsvis i matematik, säger Jonas Riedel (C), vice ordförande i kommun",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://vittra.se/sollentuna/om/lasarstider/",
+  "titel": "Läsårstider – Sollentuna - Vittra",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "8238ffe4d2044c68238e2bbcad899b9adc3c38d6aabc68b819960062dc9f948a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

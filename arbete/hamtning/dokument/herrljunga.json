@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.herrljunga.se/download/18.62da25ed19be615bd5a73f/1770038289295/Handlingsplan_for_bostadsforsorjning_iHerrljunga_samrad.pdf",
+  "titel": "1(17) Handlingsplan för bostadsförsörjning 2026-2030 SAMRÅDSHANDLING",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4734eefbc9808a1e003507481ed3d36e295fb8d2a02bf17c16c9324da6393df4",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommunkartan.se/karta/herrljunga-kommun/352219/",
+  "titel": "Förvaltningen informerar | Herrljunga 2026 | Nossan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "d55ef538e3e638ee5cdbe7a5821a1c4283f6c992b0e66e5d0119d0bbe404dd81",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

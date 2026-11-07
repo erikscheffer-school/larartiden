@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2026/01/taxa-for-allmanna-vattentjanster-antagen-av-kommunfullmaktige-251117-153pub.pdf",
+  "titel": "Reglerande styrdokument Avgift och taxa Regel och föreskrift",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ce82a429fc1a60b3392889879b66a7d8135bf1836e9fe0499ccf59dd4cb41fbf",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/",
+  "titel": "Startsida - Mörbylånga kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "359184d8d0a6a77238ff7f777bd7c463fac32927875905a9d9133d5d746f18f2",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/framtiden/initiativ/forandringsledning/",
+  "titel": "Förändringsledning - Mörbylånga kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "688e4ebe535a248db81aae572ab3fa473e9bf5f34e80f6aedb83efae630893c3",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

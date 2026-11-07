@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.halmstad.se/download/18.290420b319d055a2a9a1028/1773916149507/Planbeskrivning.pdf",
+  "titel": "PLANBESKRIVNING Detaljplan för Halmstad 2:16 m.fl., resecentrum,",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b1860e31436a1ea33badc37984a78e1fc4b3cbae1eba4257ce1ca6340204e3aa",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 94,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skollov-se.se/halmstad",
+  "titel": "Skollov Halmstad | Skollov SE",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "d1e1bc97d64588a0e060d577af48e9d078359fb8bedcfb8fe901edfc4ef2b00c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "url": "https://surahammar.se/download/18.2d42f23319b3549eecc25e74/1770133665316/Delegationsordning%20Kommunstyrelsen%20vidaredelegering%20rev%202026-02-03.pdf",
+  "titel": "DELEGATIONSORDNING - VIDAREDELGERING KOMMUNSTYRELSEN",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "732b94e35de3c51234b09e0f4771e124f2d84cc310bf87a862dd26be9557ac04",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.53bf245a19db49e0f605f24/1777455776287/18.%20%C3%85R%202025%20KPF.pdf",
+  "titel": "Årsredovisning 2025 Kolbäcksådalens Pensionsförbund",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9d7ceafa52d7f4d96b9a089672f579fe549548984c12177667ed65addb2259b3",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.6fe475b619b3567817326372/1769766754039/Protokoll%20Valn%C3%A4mnd%202026-01-28.pdf",
+  "titel": "Sammanträdesprotokoll - Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2b229a4bb7bc142ce68e2c1a19f345e735208bf8c01d527a8e25ca5b49788d95",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ }
+]

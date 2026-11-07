@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.hallandsposten.se/asikter/ledare/nar-ekonomin-vander-upp-kan-de-morka-molnen-over-hylte-skingras.e582e3bd-cac1-570b-b0df-869f640beb23",
+  "titel": "När ekonomin vänder upp kan de mörka molnen över Hylte skingras | Hallandsposten",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e46aa439562795bff9edba57add998aca51771739e38025151fff3d7ca8fcd3f",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hylte.se/download/18.4385c1e19c47c86a8f99af/1771252394765/Protokoll%20FTR%202026-02-05.pdf",
+  "titel": "MÖTESPROTOKOLL Mötesdatum 2026-02-03 Folkhälso- och trygghetsrådet Sekreterare",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6b19c5a2fe10e56338b48dd4a50007e0630dba2813da39e8f8f0fd144dd177eb",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallandsposten.se/asikter/ledare/for-hyltes-basta-behovs-ett-stabilt-styre.a2fa72f9-520b-5e82-9d18-f77f4661fc76",
+  "titel": "För Hyltes bästa behövs ett stabilt styre | Hallandsposten",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "30e606a03614e4ca3860460e88f71be43c746002291da8e81642823b8985e07c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

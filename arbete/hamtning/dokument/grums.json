@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.grums.se/download/18.2535bfc719b353d604d601e9/1768285540925/Budget%202026%20plan%202027-2029.pdf",
+  "titel": "Budget 2026 plan 2027–2029 Beslutad av kommunfullmäktige juni 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c36c2701322a177a8328d3f92457ecd26827a9d2d30249a8a9698a882ae169df",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 78,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vf.se/nyheter/nollbudget-vantar-under-det-tuffaste-aret-pa-lange",
+  "titel": "Nollbudget väntar under det tuffaste året på länge – Värmlands Folkblad",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "96bc8c1f5f31233da951d4ae245051962c04c6a7027c042168617217dd719dfb",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommunmannen.se/grums/mote/kommunstyrelsen/2026-03-24/",
+  "titel": "Ks 24 mars 2026, Grums kommun | Kommunmannen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "54023c1700dd36e8efa34143f9d21a0271af469605ddaaf2b4edaf0a8a75223f",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nwt.se/grums/har-kan-tva-forskoleavdelningar-stangas",
+  "titel": "Här kan två förskoleavdelningar stängas – Nya Wermlands-Tidningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ce24df4b5bee858971ba224263028d8f871cbe77116b294b7fe56138a5a206ec",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

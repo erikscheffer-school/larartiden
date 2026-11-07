@@ -1,0 +1,25 @@
+[
+ {
+  "url": "https://handlingarprotokoll.lycksele.se/download/document?filename=S3MyNjA1MjYucHViLnBkZg%3D%3D&id=94117",
+  "titel": "Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 1(97) Sammanträdesdatum 2026-05-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d9ec441f8b06933d57295520b9fe672dca46ccd555bc8f0dffdf6e825ead3722",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 98,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 87,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mäktiges sammanträde 2025-12-16 (§98, dnr 2025-000297). 2026-01-20 beslutade regeringen om ändringen i förordningen (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet. Ändringen träder i kraft 1 juli 2026. Skolverket, som har ansvar för",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

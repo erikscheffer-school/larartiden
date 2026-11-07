@@ -1,0 +1,40 @@
+[
+ {
+  "url": "https://www.stromstad.se/download/18.3dff4319c935838d8f731/1772204994512/Tn%202026-02-24.pdf",
+  "titel": "Sida: 1 (21) Tekniska nämndens sammanträdesprotokoll Tid och plats",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1ee216f2876924f2da7ca60b3fd0b037d7af0311ce823c7b80a64224de8f0a6d",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromstad.se/barnochutbildning/lasarstiderledigheterlovschema.4.fc6ae6c153c5fdf8ad12a8f.html",
+  "titel": "Läsårstider, ledigheter, lov, schema - Strömstad",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0051d43567b5813e7943ce043cea05656f81aaf483060369033bc19e58510d95",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "det gäller ledighet för enskilda angelägenheter är det viktigt att den planeras in under lovdagar så långt det är möjligt. Detta för att inte förkorta elevens undervisningstid i onödan. Läs hela policyn om ledighet för elev Ansökan om ledighet för elev Ansökan görs i Vklass. Grundskolan och gymnasiet - Lärplattform och närvarohanteri",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "url": "https://www.katrineholm.se/download/18.4831ba6819eafd5fb108e1a/1781175402612/STN_2026-06-18%20-%20Service-%20och%20teknikn%C3%A4mndens%20kallelse%20inkl%20handlingar%202026-06-18%20-%20F%C3%96R%20PUBLICERING.pdf",
+  "titel": "Kallelse Service- och kulturförvaltningen 2026-06-09 Sammanträdande organ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6dae512d1ea6a7a5e28f2aae6994388cfb1d703be69a52b2adf52ade0bee9195",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 177,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.4fb5ba4519c47a3cbb2a0123/1771255604061/Kulturn%C3%A4mndens%20kallelse%20inkl%20handl%202026-02-24.pdf",
+  "titel": "Kallelse Service- och kulturförvaltningen 2026-02-11 Sammanträdande organ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "44e740b2acd08d3beceb4d439ca5c31a4e7461d2bcc5a5a11d0aa89fbc9ee693",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 118,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.58bc16519e63557f16950dc/1780642963480/V%C3%A5rd-%20och%20omsorgsn%C3%A4mndens%20kallelse%202026-06-09.pdf",
+  "titel": "Kallelse Kommunledningsförvaltningen 2026-05-22 Sammanträdande organ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0cb7e8485d21a181f035cdb7d9829ad6d898c89f756e60bdb9eafd27ce54aa1b",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 65,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.575f780b19d9a4b2cd041b8a/1776758141195/KULN_2026-04-28%20-%20Samlingshandling%20f%C3%B6r%20KULN_2026-04-28.pdf",
+  "titel": "Kallelse Service- och kulturförvaltningen 2026-04-17 Sammanträdande organ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2c327760633d69e20c52c857918f2f35da0c500a4cfa60ee9ca543af32546329",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 67,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.6b6d7bf19ed44ea63d6e100/1782396540649/Uppf%C3%B6ljning%20av%20kommunplan%202023-2026%20KS%202026-06-16,%20%C2%A7%20128.pdf",
+  "titel": "Uppföljning av kommunplan 2023-2026 Kommunstyrelsen 2026-06-16, § 128",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0e6f34317ea13530916c99f3a0f8f7f6f6b09880a56afbf78c151e7f43dbed7f",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 48,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "höjande insats för pedagoger. resultat för eleverna, exempelvis • Inspirationsbank med inspirationsmaterial och lektionsplaneringar för olika utökad undervisningstid, ämnesområden och åldrar. flerlärarsystem och nya sätt att • Nätverk olika former, exempelvi",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.sverigeslarare.se/contentassets/334fb29b3bde4a8f8f2f74308858b937/verksamhetsplan-sveriges-larare-katrineholm-2026.pdf",
+  "titel": "5 februari 2026 Verksamhetsplan 2026 Sveriges Lärare",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "00fd4e66e306bf3a1548c8fbd52afb46c87841168cb7fc3e4f9d0f5b07adf132",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

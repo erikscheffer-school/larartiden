@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.mitti.se/nyheter/nya-styret-i-jarfalla-klubbat-nu-borjar-arbetet-6.3.395478.3f4ceb9aea",
+  "titel": "Nya styret i Järfälla klubbat: \"Nu börjar arbetet\" | Mitt i",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "6e1d3452fc731d24e730363855f3739105f42e560a819f9f2d64881af11dd352",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jarfalla.se/download/18.12f6d81e19c2219efc65857d/1770633995373/Granskning%20av%20ink%C3%B6p,%20upphandlingar%20och%20avtalshantering.pdf",
+  "titel": "Granskning avseende arbetet med att förebygga, upptäcka och",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1602dc0552e0b38e53aa7df1778c3da7cb4203d59bd4eaea5468e1397d812701",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jarfalla.se/download/18.3badc24a19d24dbc6ee61791/1775030391314/03_andring_detaljplan_barkarbystaden_iv-planbeskrivning_granskning.pdf",
+  "titel": "Förslag till ändring av detaljplan för BARKARBYSTADEN IV Planbeskrivning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a9b0bd9fd653d3a2979db2e0c0552fdf7a37843862386194f9f84c761cfe6623",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jarfalla.se/download/18.3e56c76d19c479445cf47a33/1771161608733/OP-antagen-av-kommunfullmaktige-2026-01-12.pdf",
+  "titel": "Översiktsplan Järfälla 2050",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "515cab226699fc8a4753959cbc5cb60b08db6860046ffe6d090d3562dfc9cac5",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 139,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

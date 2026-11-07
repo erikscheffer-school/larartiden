@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.karlsborg.se/globalassets/documents/politiskt-beslutade-styrdokument/ekonomi-och-budget/arsredovisningar/arsredovisning-2025---med-bilagor---webb.pdf",
+  "titel": "Årsredovisning 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "48ad48c707fad69ab2e707498e4910be93ad3ed01c183d499b305e318ffae558",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 140,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 119,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "grundskola och gymnasieskola blev lägre då elever skrevs ut, valde att avsluta och aldrig påbörjade sin skolgång. Inom anpassad grundskola påverkade även högre statsbidrag resultatet positivt (+909 tkr). Årets verksamhet Boende/besökare Förskole-, skol- och utbildningsverksamheterna uppvisar sammantaget god kvalitet, hög trivsel",
+    "belopp_nara": true
+   },
+   {
+    "sida": 121,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "i 2% av skatter och ekon och generella skolo omis statsbidrag under r har k perioden 2025- en balan 2027. budg",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.sla.se/karlsborg/budget-och-tartkalas-stod-pa-agendan",
+  "titel": "Budget och tårtkalas stod på agendan – Skaraborgs Allehanda",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "8f2edc623ee809d177120af6ae74bc1d7a3eba087bcf03777f9a5c88b0e841d3",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.karlsborg.se/",
+  "titel": "Karlsborgs kommun - Guldplatsen vid Vättern - Karlsborg kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "55f0c8f6b8d679bd010f69d0102d59bc211baa7396d606a1f8f0da0a835d8a1c",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "url": "https://www.centerpartiet.se/download/18.47b6ca419ed45b92c895ddd/1785229435162/C_20valprogram_202026.pdf",
+  "titel": "Valprogram 2026-2030 FRAMTIDSTRO I HELA SOLLEFTEÅ KOMMUN",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "06e2d6d6780896741daaa32951fc14c3222c273e8afdef2816c16c0cc054a19d",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tidningenangermanland.se/solleftea/sollefteas-skolor-ska-behandlas-lika-dags-att-sluta-sarbehandla",
+  "titel": "Sollefteås skolor ska behandlas lika – dags att sluta särbehandla – Tidningen Ångermanland",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "dcfea09319395886f17b8bec4f206a138187310caab57f5787668dbf3fdbb6ff",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "tveckling påverkar hela skolorganisationen, även i de högre årskurserna. Samtidigt så påverkar statliga krav skolverksamheten i Sollefteå. 2027 kommer lärarnas planeringstid att öka, vilket är positivt, men kostnadsdrivande. 2028 kommer barnens rätt till elevhälsoinsatser att stärkas, vilket är bra, men vi kompenseras inte för dett",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

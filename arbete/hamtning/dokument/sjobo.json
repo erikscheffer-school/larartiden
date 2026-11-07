@@ -1,0 +1,25 @@
+[
+ {
+  "url": "https://www.sjobo.se/download/18.3fac3dbb19c98610dd959bc0/1773839833284/KF%20version%20%C3%A5rsredovisning%202025.pdf",
+  "titel": "2025 Årsredovisning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "88ccf29fa55a4f45473558ec51113d864cfeb0ad7b499eb3def06e90db0a5b33",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "t. Inom socialpsykiatrin har digitala samtal blivit e ny sä a möta individens behov, vilket har minskat avbokningar och ökat llgängligheten. I våra skolor har lärartätheten ökat och Sjöbo kommun ligger idag klart bä re än rikssni et. I skolan har även e mer systema skt och samordnat närvaroarbete utvecklats, där elevhälsa, lärar",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.vannas.se/download/18.34f52e8b19c6c937e8f166/1771505664736/Kallelse%20med%20%C3%A4rendetexter%20KF%2024%20feb%202026.pdf",
+  "titel": "Vännäs kommun Postadress SE-911 81 Vännäs",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bb5f8520620eaed78cf297d1feb2cca3947476302cb895c685e41454b7424498",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://vannas.se/download/18.7b0b1b7219cfccb61f560/1773997643352/Protokoll%20KS%202026-03-17,%20%C2%A7%2016-31%20Justerat.pdf",
+  "titel": "Kommunstyrelsen SAMMANTRÄDESPROTOKOLL Sida 1(21) 2026-03-17 Plats och tid",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ac750749ae338037105be53a79bbc2b1471575234b0300a4fd914338ca925fcc",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://vannas.se/download/18.7b0b1b7219cfccb61f56cd/1776775138214/Kallelse%20med%20%C3%A4rendettexter%20KS%2028%20april.pdf",
+  "titel": "Vännäs kommun Postadress SE-911 81 Vännäs",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3a6f4388b7cb2434ae366e5b8f9da98df39943e65b2f3358d3f8d3242fc059ea",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

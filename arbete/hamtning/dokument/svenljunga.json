@@ -1,0 +1,70 @@
+[
+ {
+  "url": "https://www.svenljunga.se/download/18.4371a3de19cf9e0080e63f/1773923459646/Kommunfullm%C3%A4ktiges%20protokoll%202026-03-16,%20%C2%A7%2023-46.pdf",
+  "titel": "Kommunfullmäktiges protokoll 2026-03-16, § 23-46.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8f4c19c2c2ee7806b5501afb5322bbe932f785b5b64fea74459637f7899b7f34",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.35f819219eed1a8ccf40f/1782378528771/Protokoll%20socialn%C3%A4mnden%202026-06-24%20%C2%A7%2072-81.pdf",
+  "titel": "Protokoll 2026-06-24 Socialnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3cc24c24b40f00e4f6bd9213f416df8e6a11c003a3230ef99ffd0e6e96bf2537",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.2f6b985b19bd97f4582d72/1769777216231/Informationshanteringsplan%20f%C3%B6r%20interna%20myndighetsn%C3%A4mndens%20processer.pdf",
+  "titel": "plan Informationshanteringsplan för interna myndighetsnämndens processer",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "570685641a6e431ba2b9680ce0320ff71b3c47448e036c444eb3e674ee12742f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 48,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Anmärkning 3.5.2.1 Hantera barn, elever och studerande med skyddade perso 3.5.2.2 Hantera måltider i förskola och skola 3.5.2.3 Hantera statsbidrag förskola/grundskola/Gy/VUX 3.5.2.4 Handlägga tilläggsbelopp 3.5.2.5 Handlägga grundbelopp för gymnasieelev vid förlängd utb 3.5.2.6 Han",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://skolkoll.se/kommun/svenljunga/lasarstider/",
+  "titel": "Läsårstider Svenljunga Läsåret 2026/2027 | Skolkoll",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e85eed7cb2131dd9b10665c70f5df4f3db5c68302a7abe293cb2fb9da798b36c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

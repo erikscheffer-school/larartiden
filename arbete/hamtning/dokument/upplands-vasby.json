@@ -1,0 +1,77 @@
+[
+ {
+  "url": "https://www.upplandsvasby.se/download/18.52f7529019cfe7f2e39cc6/1776166797503/%C3%85rsredovisning%202025.pdf",
+  "titel": "Upplands Väsby kommun, Årsredovisning 2025 1(85) Årsredovisning 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c2c334686c499283e9db221d4efde03eb694eb174f177cba15b372888808b97e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 86,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 54,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ffekt om 9 miljoner kronor • Intäkter från avgifter för fritids högre än budgeterat för året motsvarande 4,2 miljoner kronor • Intäkter till följd av statsbidrag för kontoret ger en effekt om 2,1 miljoner kronor • Personalkostnader till följd av centrala vakanser lägre än budgeterat 2,5 miljoner kronor • Lägre",
+    "belopp_nara": true
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "s dock bestå, bland annat på grund av demografiska förändringar med fler äldre och barn i skolålder, samt fortsatt höga behov inom vård, omsorg och utbildning. Statsbidrag och statliga reformer blir avgörande för hur stort handlingsutrymme kommunerna får. Lång sikt På längre sikt är kommunsektorns ekonomi beroende av strukturella",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.upplandsvasby.se/download/18.12fc87b719cc4427313522/1773646140482/Planbeskrivning,%20Vilunda%2028_12,%202026-01-26.pdf",
+  "titel": "KS 2021:268 GRANSKNINGSHANDLING 2026-01-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f0f5e7e25ba232e02a245cefa16f8a121eedfb2dd86970d6118d6227d02c193b",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 92,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://via.tt.se/pressmeddelande/4252463/ny-buss-kommer-lastad-med-bocker?publisherId=3045332&lang=sv",
+  "titel": "Ny buss kommer lastad med böcker | Upplands Väsby kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "bcb8311fcbd5f16273b19582c482e34e5de716209f2c06e7a3cfc2f1443cc586",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://via.tt.se/pressmeddelande/4278609/socialtjansten-battre-med-fast-personal-och-nya-arbetssatt?publisherId=3045332&lang=sv",
+  "titel": "Socialtjänsten bättre med fast personal och nya arbetssätt | Upplands Väsby kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "a3820ad1b26f0e788a78682c1a6bbf8c6a056bff9e3800a684af41138ab4d14a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

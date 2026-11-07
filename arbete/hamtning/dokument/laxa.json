@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.sydnarkenytt.se/laxa/artikel/foerslag-om-nedlaeggningar-skoets-pa-framtiden",
+  "titel": "Förslag om skolnedläggningar ska tas upp efter valet - Sydnärkenytt",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b180557b3508620c6c82bbd7392472e5307bdcfd4bfa51d37023c04e1c11008a",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.laxa.se/download/18.4e9b541219d9a6c19f9342c2/1777019137638/%C3%85rsredovisning%202025.pdf",
+  "titel": "Årsredovisning 2025 Kommunfullmäktige 1 Årsredovisning 2025 Laxå kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5e61bdd9d43872be33535d409fac4d959997f6bd23a113dd4c9c6a99bc923c9f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 95,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 44,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "6 266 6 912 6 266 6 912 Hyresintäkter 0 0 46 372 46 201 Statsbidrag Skolverket 13 165 12 153 13 165 12 153 Statsbidrag migrationsverket 8 079 10 512",
+    "belopp_nara": false
+   },
+   {
+    "sida": 86,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ga kostnader finansieras främst via försäljning av skolplatser, därav vikten att locka fler elever till skolan. Verksamheten finansieras även till viss del via statsbidrag. Kommunpolitiker står inför tuffa beslut kring framtidens skollokaler. Minskande elevunderlag, tomma skollokaler och ekonomiska utmaningar kräver strategiska b",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.laxa.se/download/18.183bde2919c934a2b2236ac/1772034835492/Protokoll%20KS%202026-02-24.pdf",
+  "titel": "Protokoll kommunstyrelsen 2026-02-24",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fdd262b254df6367870f8f9920fefcd1b4723f67a90301e68b857270f4c30621",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.hofors.se/",
+  "titel": "Hofors kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "5d5f0e08d9e42f5c7fbdf1b1e1d2ca29ae65722e3a948fbc0ec1607170bfdebc",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.arbetarbladet.se/insandare/hur-tanker-hofors-kommun/",
+  "titel": "Hur tänker Hofors kommun? – Arbetarbladet",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "5023178c01b5cef1657190cf4b934437a508793dcff016fc2f799fcb7d449174",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hofors.se/nyheter/2026-03-26-omorganisation-i-skolor-i-hofors---elever-flyttas-infor-hosten-2026.html",
+  "titel": "Omorganisation i skolor i Hofors – elever flyttas inför hösten 2026 - Hofors kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "803a64b5b488b5b17c92664c97013576e844487647d6dee71be09c7e84ebafcc",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

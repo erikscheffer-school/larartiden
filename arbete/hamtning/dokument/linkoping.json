@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.linkoping.se/",
+  "titel": "Linköpings kommun - Linköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7540af2be1fa611558e0595c292326c2209205e4b04d6e1d1affc508f5b36c7a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skolkoll.se/kommun/linkoping/lasarstider/",
+  "titel": "Höstlov v. 44, sportlov v. 8 — Linköping 2026/2027",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "1c340f93e4104959e39f8993b966c8ab713c959524597323d39aaf7c5d8eba34",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.linkoping.se/forskola-och-utbildning/gymnasieskola/alla-gymnasieskolor-i-linkoping/linnegymnasiet/for-dig-som-elev-eller-vardnadshavare/lov-och-lasarstider",
+  "titel": "Lov och läsårstider - Linköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "274299e499daddbe164c42b85452a49f7fcc2a6a624fc49c376750fbe73a97e4",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

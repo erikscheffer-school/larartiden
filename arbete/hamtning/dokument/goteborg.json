@@ -1,0 +1,120 @@
+[
+ {
+  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/f3e04daf6309085fc1258dc300430edf/$FILE/7_20260401.pdf",
+  "titel": "Göteborgs Stad Stadsledningskontoret, tjänsteutlåtande 1 (2)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "77d113e37f69a45e7c9b99d0d6796906926d0604124954dea32ac753169f1ce4",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 170,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "drag att undersöka nämnden stöd och läxhjälp har förvaltningen möjligheterna till extra stöd ansökt om Skolverkets statsbidrag för och läxhjälp i anslutning till läxhjälp. Förvaltningen har sökt för skoldagen. läxh",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/a30d617cf53808a4c1258ddc00284d21/$FILE/8.8%20bilaga%208%20Ikrafttradande%20lagar.pdf",
+  "titel": "Hållbar stad – öppen för världen IKRAFTTRÄDANDE LAGAR 2026 –",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0b7f2b8eb61f3cf1fc0baefc2b64efcaaa83bbd2f073b20b92a677b6985474d9",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/c8e8927dc6f42ae8c1258d8c00571db2/$FILE/8.12%20Bilaga%20Grundskoleforvaltningens%20verksamhetsplan%202026%20.pdf",
+  "titel": "Verksamhetsplan 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bbb3be73ef1d8130013dfdc25076b2256842751a6a562f6c123f6822edc982eb",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "reda och lämna förslag på förändringar i skolstrukturen för att skapa förutsättningar för en hållbar skolorganisation. Syftet är att stärka undervisningsuppdraget och bygga en mer flexibel organisation som kan hantera både upp- och nedgångar i elevantal. En hållbar skolstruktur kan bidra till att me",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.dagenssamhalle.se/samhalle-och-valfard/skola/nya-lararkraven-sinkar-budgetarbetet-oerhort-stressade/",
+  "titel": "Reformer av lärartid påverkar kommunernas budgetar - Dagens Samhälle",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "4ac59f038a553c90326e631e6ef192d131f2825b7470abc7207188f6d204dce1",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "skoleförvaltningen i Göteborg. Foto : Viktoria Bank (TT) / Pressbilder (Montage) Stora förändringar väntar kommunerna när staten i en historisk reform reglerar lärares arbetstid. Men när tydliga besked saknas kring detaljerna försvåras budgetarbetet inför 2027. – Det är en riktigt tajt tidsplan, säger Annika Hellström, avdelningschef G",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.gp.se/politik/flera-anstallda-i-goteborgs-stad-far-sex-timmars-arbetsdag.f083efdb-28a5-5968-b7a7-e625da375979",
+  "titel": "Flera anställda i Göteborg får sex timmars arbetsdag | Göteborgs-Posten",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "58272cd99a333b4482a701db37615ab22877fce1bad7e4d0268625d1df851f59",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.dn.se/direkt/2026-11-03/goteborg-sanker-politikernas-loner-med-fem-procent/",
+  "titel": "DN Direkt – Göteborg sänker politikernas löner med fem procent",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "932b20d07eaec9524fd6024dd4bc9c0e267ecfed66baa7b51c01b5927856b21e",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

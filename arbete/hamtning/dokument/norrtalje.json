@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.sverigeslarare.se/contentassets/01e9389bc26d4cecbaad724d19c21032/sveriges-larare-norrtalje-verksamhetsberattelse-2025-.pdf",
+  "titel": "Verksamhetsberättelse 2025 för förening Norrtälje",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1a89c815bd45fb82e5b1ce65a7ca6882b08390ec5b6a6120d8b7f3e94a45cce8",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "vi följt och deltagit i och vårt fokus har varit att förskollärare ska ha kvar sina tjänster. Vi har arbetat för att arbetsgivaren ska ta möjligheten att öka lärartätheten i Norrtälje förskolor. I november genomfördes SKUA-dagarna för förskolan och vi hade möjlighet att möta ca 700 personal från förskolan under två dagar på J",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://norrtalje.liberalerna.se/mycket-gjort-mer-att-gora-liberalernas-handlingsprogram-for-norrtalje-kommun-2027-2030/",
+  "titel": "Mycket gjort! Mer att göra. Liberalernas handlingsprogram för Norrtälje kommun 2027–2030 - Norrtälje",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "c23816bc45ead19a163f7459daa52cf67ee3ede80b20f0bedb468080c0660f1c",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "reglera undervisningstid",
+   "undervisningstimmar"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "reglera undervisningstid",
+    "reform": true,
+    "utdrag": "torer . Vi vill erbjuda konkurrenskraftiga löner för att både locka hit och behålla de bästa lärarna – från förskolan till gymnasiet. Det gäller även rektorer. Reglera undervisningstiden . Lärare och förskollärare har ett kärnuppdrag: att undervisa. Det uppdraget måste vi värna. Men många lärare har så många undervisningstimmar att de inte ha",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-organisation-och-styrning/dokument-forfattningssamling/dokument-regler/bestammelser-och-anvisningar-om-ersattningar-till-norrtalje-kommuns-fortroendevalda.pdf",
+  "titel": "2026-02-23 POSTADRESS Box 800, 761 28 Norrtälje Kommunstyrelsekontoret",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d4ef5bfa00d51c7d48d8ac9c7cd21ce9ae61dfc76b76fc4d37ed620b71fea310",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

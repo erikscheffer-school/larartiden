@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://www.vaxjo.se/download/18.430a450d19b353b7e5bc9b4b/1768225502478/Internbudget%202026%20_arbete%20och%20v%C3%A4lf%C3%A4rd.pdf",
+  "titel": "www.vaxjo.se Informationsklassning: Öppen Internbudget 2026,",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "17517868a50d409bd8f6b0eec94e3c3e2ae131540a56e9ec974e1b8734fa69a3",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.7430308919c890aa30721e1b/1772175094951/%C3%85rsrapport%20f%C3%B6r%20utbildningsn%C3%A4mnden%202025.pdf",
+  "titel": "www.vaxjo.se Årsrapport 2025 Växjö kommuns nämnder, Utbildningsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "609ecfe43a1cd4cc1e69f15638f45f5268874d2b419d0e318a3f1eae7e31387d",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Information från Växjö kommun 2. Bortskriven fordran avseende statsbidrag för karriärtjänster (cirka 7 mnkr) Kommunen var berättigad statsbidrag för karriärtjänster läsåret 2025/2026 och intäkten bokför- des därför på skolenheterna",
+    "belopp_nara": true
+   },
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "åbörjats. Neddragningar har främst gjorts genom att inte förlänga vikariat och sär- skilda visstidsanställningar. Under 2025 tilldelades förskolan 28,3 mnkr i statsbidrag för kvalitetshöjande åtgärder, vilket är 1,6 mnkr mer än föregående år. Dessa medel har möjliggjort att personal kunnat bibehållas trots minskade barnvolymer.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rnas resultat varierar. Förskolan påverkas tydligt av minskat barnantal, men har lyckats hålla budget genom en tydlig ekonomistyrning, strategiskt nyttjande av statsbidrag och anpassningar av organisation och bemanning. Anpassad grundskola har fortsatt strukturellt höga kostnader och går med underskott. Gymnasieskolan når balans",
+    "belopp_nara": false
+   },
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "älsan samt språk- och kompetenscentrum (SKC). Kulturskolan visar ett mindre överskott. Centrala barn- och elevhälsan Underskottet beror främst på ett minskat statsbidrag, då en uppdaterad beräkningsmodell visade att faktiskt arbetad tid varit lägre än vad som rapporterats i ansökan. Det har resulterat i ett för- väntat återbeta",
+    "belopp_nara": false
+   },
+   {
+    "sida": 12,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ationen inte hann an- passas till den nya budgetramen under våren. Under hösten har verksamheten gått mot en mer balanserad nivå. En omställning pågår mot ökad lärartäthet, finansierad av tilldelade medel, men förändringen genomförs successivt och får fullt genomslag först kommande år. Grundskola, anpassad grundskola, fritidshem",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "adsökningen beror främst på: • Hög inflation och stigande lönekostnader (bl.a. höjt PO-pålägg till 47,18 %) • Stora satsningar 2023–2024 (t.ex. ökad lärartäthet, elevhälsa, språkstöd, socioekonomi) • Omfattande lokalprojekt (Lammhult, Hagavik m.fl.) • Minskande elevantal vilket förstärker kostnad per elev U",
+    "belopp_nara": false
+   },
+   {
+    "sida": 25,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "töd som Växjö kommun använder. Majoriteten av anmälningarna indikerar situationer med hot och våld eller skada av person och situationerna uppstår främst under undervisningstid eller under aktiviteter på rast. Pilotprojekt för att främja friska arbetsplatser och ökad kunskap om klimakteriet Under 2025 har ett pilotprojekt genomförts",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "r förstärkts både för de anpassade skolformerna och för undervisningsdelen i grundskolan. Inom anpassad grundskola har den höjda resursnivån bidragit till ökad lärartäthet från höstterminen, med ytterligare rekryteringar planerade. I grundskolan har styrningen inriktats mot tidiga stödinsatser, gemensamma kartläggningsverktyg och",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.756f365219d9a687b0017dca/1776690975073/Revisionsrapport%20-%20Grundl%C3%A4ggande%20granskning%202025%20-%20Veab-koncernen.pdf",
+  "titel": "Move forward with confidence > Azets > Move forward with confidence 1",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0a2094a6a1f9b1bad3bd38cce0cf06d63d397df085fa3977409ea8fc44ce54d0",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://omsorgenshandbocker.vaxjo.se/download/18.1789884519ed453809b54c10/1782298817924/V%C3%A5rd-%20och%20omsorgspersonalen%20dokumentation.pdf",
+  "titel": "Informationsklassning: Intern Dokumenttyp: Dokumentation inom hälso-",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "eaf8c6f3b6dd8ba3aa606e06bd8479fed64c0d93c234185fde72a0f1a41d8185",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.28f2020119b3545d11a82691/1767541079787/Granskningsutl%C3%A5tande.pdf",
+  "titel": "Granskningsutlåtande Ärendenummer PLAN.2019.989 Datum 2025-11-10",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ab6db015c5be8afb67ad89a37b9f0cc052c5e03e90d5e9c47aa7c59e920ecd11",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

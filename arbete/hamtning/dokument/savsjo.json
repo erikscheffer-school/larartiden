@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://savsjo.se/download/18.7ca9d08b19a3311685e9dca0/1774007764647/Protokoll%20kommunstyrelsen%202026-03-17.pdf",
+  "titel": "Sammanträdesprotokoll Kommunstyrelsen beredande 2026-03-17 Justering",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5c0e6f7789a74e45009601b5ac1435a953a499984bfb0b09384a7f15edd0e42d",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.smalandsdagblad.se/savsjo/tuffa-besparingar-vantar-tvingas-spara-41-miljoner/",
+  "titel": "Besparingschock i Sävsjö – tvingas spara 41 miljoner: ”Jättemycket” – Smålands Dagblad",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "6851ba7fa4638303322f6fcd8d23a4caed42f4f5a703f4d13c8f26389b5df1b3",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://savsjo.se/download/18.5254861d19c458071e21979/1770820344656/Socialn%C3%A4mndens%20protokoll%20%202026-02-04%20.pdf",
+  "titel": "Sammanträdesprotokoll Socialnämnden 2026-02-04 Justering Utdragsbestyrkande",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "310fa2940067a43d2c19850c05df0782a190a3c4f327ac9e62d3b12f54d8be24",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svt.se/nyheter/lokalt/jonkoping/savsjo-kommun-tvingas-spara-16-tjanster-forsvinner",
+  "titel": "Sävsjö kommun tvingas spara – 16 tjänster försvinner | SVT Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e2892c6c3c564ec506cb7b8ae19d20d96ab1d9f17fd4c7ca2b19937c9f847f16",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

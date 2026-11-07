@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.lysekilsposten.se/artikel/ny-politisk-konstellation-formas-infor-valet-i-sotenas/",
+  "titel": "Tre partier lade fram gemensam budget i Sotenäs - Lysekilsposten",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b758161e5b07debb08711e0c3b2b9925e93dab6064529b900d4636e97adb9280",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bohuslaningen.se/asikt/ledare/nya-majoriteten-i-sotenas-stalls-infor-tunga-beslut.3ed417e3-1e34-5563-a999-9d6d902eb503",
+  "titel": "Moderaterna leder nytt politiskt styre i Sotenäs | Bohusläningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "71392ba50567e598f228077e6d1a4263c0242d6956e8e7f6c8dad81c10aeefb6",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bohuslaningen.se/asikt/insandare/stoppa-riskprojektet-med-en-ny-storskola-i-sotenas.df056cc2-4c17-4ef7-93bd-c178305482da",
+  "titel": "Stoppa riskprojektet med en ny storskola i Sotenäs | Bohusläningen",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "635bb5fa699427a44d8679c233d6b511a6f72d7704a8c05d82c4c8ce9febbb5c",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

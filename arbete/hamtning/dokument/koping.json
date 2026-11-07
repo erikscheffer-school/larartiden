@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://norrkoping.se/kommun-och-politik/om-norrkoping/ekonomi-fakturor-och-budget/budget",
+  "titel": "Kommunens budget - Norrköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "8230ff74bb3b50fe2566b036dd77413e31a7fad651edae87bd19559e37c8a7ef",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kbab.koping.se/download/18.3c688b2117d46eaaad51da15/1782823278082/Handbok%20God%20man%20och%20f%C3%B6rvaltare.pdf",
+  "titel": "Handbok God man och förvaltare.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8930768eaff41fb1280623240bd5cdee3b82012c33138e499de4e7ed144eecde",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://koping.se/download/18.2ada6d8119cbf5a1afe81df8/1773137720317/Detaljplan%20f%C3%B6r%20Sorby%202.88%20m.fl.%20Planbeskrivning%20SAMR%C3%85DSHANDLING.pdf",
+  "titel": "Samrådshandling DNR: 2025/46 2026-03-06 Detaljplan för fastighet Sorby 2:88",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "837a99e72a5a6c6736686e0773641b96ef88e27ae708d4ea03d6f5f1c8b3a609",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://koping.se/barn--utbildning/fordjupad-information-om-utbildning/lasarstider-lov-och-ledighet.html",
+  "titel": "Läsårstider, lov och ledighet - Köpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "49456d48c9c7a441b3f4f433a1601fa36ece9cdc63a1516781c21a0244ab6cce",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

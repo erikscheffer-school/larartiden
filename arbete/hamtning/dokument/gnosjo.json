@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://skillingaryd.nu/gnosjo/nyheter/valdebatt-i-gnosjo-kommunfullmaktige-del-tva/",
+  "titel": "Valdebatt i Gnosjö kommunfullmäktige - del två - Skillingaryd",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "3b183d0720aa9f43a21f90c00abc3741393d3f1f67faa64169ff6dcad0d971b0",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "pedagoger – eller kan det också vara en möjlighet att skapa mindre barngrupper och bättre personaltäthet? Gnosjö kommun beviljades dessutom 2 271 520 kronor i statsbidrag för personalförstärkning 2025. Statsbidrag för kvalitetshöjande åtgärder i förskolan kan bland annat användas för att arbeta mot Skolverkets riktmärken för bar",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.54c2a1a619d2a1f796914e4/1774947845706/Protokoll%20allm%C3%A4nna%20utskottet%202026-03-24.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Sida 1(28) Datum 2026-03-24 Allmänna utskottet",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c85603da7f1cbd3c257d6c21ddfbdaf42c9141fa62ae399d2c193606dd29407e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.323ece9319ff0a6f17134e6/1787574407122/Protokoll%20kultur-%20och%20utbildningsutskottet%202026-08-19.pdf",
+  "titel": "Kommunhuset, konferensrum Kulltorp, 2026-08-19, ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "284eaa8ce58dae97d0d7874f9c4e4da35a7f52b62a1f574a7595577524404d58",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "de negativ avvikelse. Lagändringar medför ökade krav, vilket kräver resurser som enheten saknar finansiering för då dessa statsbidrag stannar i kommunens finansenhet. Senast publicerad nationell statistik (Kolada, 2024) visar att grundskolan drivs extremt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://skillingaryd.nu/gnosjo/nyheter/debatt-om-delarsbokslutet-kraftfull-kritik-och-manga-tuffa-beslut-att-vanta/",
+  "titel": "Debatt om delårsbokslutet i Gnosjö kommun - Gnosjö",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0bd0d34b026f69d6fcdb7f5940b5f3ae1c185ba11bfae3c90e38ed55a5dd287a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skillingaryd.nu/gnosjo/nyheter/ingen-hojning-av-habiliteringsersattningen/",
+  "titel": "Ingen höjning av habiliteringsersättningen Gnosjö - Gnosjö",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "5c40207a6ad003e2721ecbd5f66b63d830ee59090a29cd701668dacec666dbf9",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

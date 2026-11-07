@@ -1,0 +1,85 @@
+[
+ {
+  "url": "https://varberg.se/download/18.5f6c899519ee53e98ddc6d93/1782195685477/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%202026-06-18.pdf",
+  "titel": "Varbergs kommun Sammanträdesprotokoll Utbildnings- och arbetsmarknadsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6394e0733ad1e6c0a22473476dad3304b3bf1e2a6b9e18121efc1a9a9e2e8d5e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kronor från nämndens ofördelade medel till den kommunala gymnasieskolan, Peder Skrivares skola för att täcka uteblivet statsbidrag för skolsociala team. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Förslag till beslut på sammanträdet Filip Zackriss",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://varberg.se/download/18.1aab221319c8bc874d13a9d1/1771939118356/Hamn-%20och%20gatun%C3%A4mnden%20protokoll%202026-02-23,%20%C2%A7%C2%A7%203-16.pdf",
+  "titel": "Varbergs kommun Sammanträdesprotokoll Hamn- och gatunämnden 2026-02-23 1-36",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ff7c579c04ae6bdaaddc98c010c1174e35486644884934d0a015786c29ab724e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://varberg.se/kommun-och-politik/kommunfakta/ekonomi-och-budget/budget",
+  "titel": "Budget | Varbergs kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7ed838da9be74700635365d426412b02ae80ff0353b2fbe1c78996284968001f",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hn.se/asikt-och-debatt/asikter/ordet-ar-fritt/valfarden-prioriteras-i-varsams-budget-med-ansvar-for-ekonomi-och-framtid.136c32c0-09bd-55f4-ad1a-987ada6fab70",
+  "titel": "Välfärden prioriteras i Varsams budget med ansvar för ekonomi och framtid | Hallands Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "f7653b5e1df112c7fd244d4e839062146331070654c5532641a704d0e9253a4f",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://socialdemokraternavarberg.se/2026/08/23/beslut-om-skolan-i-dag-avgor-varbergs-framtid/",
+  "titel": "Beslut om skolan i dag avgör Varbergs framtid - Varbergs Socialdemokrater",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "e545a912e2567c56d2a1e5ba59135353793b649e04e32ff7e4625badafeb3948",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

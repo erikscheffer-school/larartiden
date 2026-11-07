@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.trosa.se/nyheter/mandatfordelning-i-trosa-kommunfullmaktige-efter-valet-2026",
+  "titel": "Mandatfördelning i Trosa kommunfullmäktige efter valet 2026 - Trosa kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "35815f85ebcdb7395ad53722d1f10a235eb9e4b61fbb6eba260c5ccbfc07b5a1",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.trosa.se/notiser/ansokan-till-modersmalsundervisning-oppnar-16-april/",
+  "titel": "Ansökan till modersmålsundervisning öppnar 16 april - Trosa kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7ec660d16a689be2f0bb3eb0a0543003a09b23812a5280cd3e14ec160b44c52b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

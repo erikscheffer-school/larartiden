@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.svalov.se/download/18.426c554619dc4941af18f8d8/1777278141970/Befolkningsprognos%20Sval%C3%B6v%202026-2036.pdf",
+  "titel": "2026-04-24 Svalövs kommun Befolkningsprognos 2026–2036",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "638c615dea00fd256060ebcbfcd9a2b5738c4d326da1f90f536dba5d16934565",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.767becd219bdeffbae69e330/1769154843338/KSAU%20260120.signerad.pub.pdf",
+  "titel": "Justerare Utdragsbestyrkande Protokollet är justerat med digital signatur",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8a8db5ad55d7c4dcbdbec0b139984eb69aeaed18e6bd55ee057aa7f5d4153f1f",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

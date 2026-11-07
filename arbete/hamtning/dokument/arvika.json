@@ -103,5 +103,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.arvikapartiet.se/2026/06/18/arvikapartiets-budget-och-strategiska-plan-2027-2029-stod-sig-starkt-i-fullmaktige/",
+  "titel": "Arvikapartiets budget och strategiska plan 2027–2029 stod sig starkt i fullmäktige - Arvikapartiet",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "756413812bd5e517aae7ca905fe38da84e20ba8dee1190be3b0f6d165bfe6892",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

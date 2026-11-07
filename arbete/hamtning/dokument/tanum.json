@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.tanum.se/download/18.51ee1c7319c221a34391a2a/1770208409187/Kommunstyrelsen%202026-02-04,%20%C2%A7%201-27.pdf",
+  "titel": "Sida 1 (46) Kommunstyrelsens protokoll Plats och tid",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "548387795e80b2a111886ebacba13b5545b7b7b1a44f59ad69516baf480e67f6",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 47,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/download/18.7a73f0aa19cfa44565b5d50/1773988677605/Tekniska%20n%C3%A4mnden%202026-03-16%20%C2%A7%C2%A7%2016-35,%20web.pdf",
+  "titel": "Dokumenttyp Sida Protokoll 1 (33) Nämnd/styrelse Tekniska nämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4d2ec166096d6160f06558d493043d7ce1239e60b2d64fbd6b15ed6d281a4f7f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/utbildningbarnomsorg/vuxenutbildning/kursstartochlasarstider.4.20696be013f2e317ecfc72.html",
+  "titel": "Kursstart och läsårstider - Tanums kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b3cacda51b19c820513f54c872911510c3d9a647bcfad43de7fd8781d536705b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/kommunpolitik/nyhetsarkiv/informationombidragforgymnasieeleverlasaret20262027.5.1705870b18ec17b07ab365a5.html",
+  "titel": "Information om bidrag för gymnasieelever läsåret 2026/2027 - Tanums kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "2f296db9ff0cc6a48e16448a4247b06504be3d469b65296659e43909f546f330",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

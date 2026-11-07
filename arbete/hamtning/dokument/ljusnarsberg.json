@@ -1,0 +1,100 @@
+[
+ {
+  "url": "https://ljusnarsberg.se/download/18.2672c61f19ed455dddc9926/1782475266254/Protokoll%20Fullm%C3%A4ktige%20den%2011%20juni%202026.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL 1 (21) Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cddfb115a2b524aaa3dcfe6ee80a405590b77ec7c1ed13cdb4cb331e8a7c0571",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.7c52e27919c985ee72ff47a/1773310940914/Kommunstyrelsen%20sammantr%C3%A4deshandlingar%202026-03-18.pdf",
+  "titel": "DATUM KALLELSE Kommunstyrelsen kallas till sammanträde Plats:",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f4f501640177acb9adfc8a90168f08d61cbe82cc6fac62fd6be78ddb0408d0ee",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 182,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 178,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "/2026 Samhällsbyggnad Begäran om yttrande, TRA-2026-145 bergslagen KS 0191/2026 Skolverket Information om förändringar gällande statsbidrag för maxtaxa 2026",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.5ec3acfb19ddcd00e5e7404/1778075243349/Kommunfullm%C3%A4ktige%20sammantr%C3%A4deshandlingar%202026-05-13.pdf",
+  "titel": "2026-05-06 Kommunfullmäktige i Ljusnarsbergs kommun kallas till sammanträde",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a1fcea7912b103a21234960b48b86356e2dfe1ff2bae945c0cd256ff2da294c2",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 276,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.468af2819d24e0bb48902d/1775115188028/Kommunfullm%C3%A4ktige%20sammantr%C3%A4deshandlingar%202026-04-09.pdf",
+  "titel": "2026-04-02 Kommunfullmäktige i Ljusnarsbergs kommun kallas till sammanträde",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "12fd3ccadfd899424314dac9148b9f6452a64f4c8bf6b4bdd02c1bcc009064ef",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.12b9aa2a19d8c416e0cd27/1776325868378/Kommunstyrelsen%20sammantr%C3%A4deshandlingar%202026-04-22.pdf",
+  "titel": "15 april 2026 KALLELSE Kommunstyrelsen kallas till sammanträde Plats:",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ddcda2eec595d89c29559933ff1b9f5e36cbe836deac8032639ef53cc5e1b792",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 345,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.regeringen.se/contentassets/4c298bdb13634c3ab79e23fecdc304e5/ljusnarsbergs-kommun.pdf",
+  "titel": "Ljusnarsbergs kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a5526881c5b164518f74ca7f3fe95c6597d33fffaa313197b8542c563b914c0b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

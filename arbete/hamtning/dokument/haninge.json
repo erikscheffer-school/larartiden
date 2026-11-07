@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://www.haninge.se/499336/globalassets/dokument/styrdokument/politiska-styrdokument/mal-och-budget-arsredovisningar/arsredovisning-2025-haninge-kommun.pdf",
+  "titel": "Årsredovisning 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9cf621560e6bdec166a21eb4ca2c83c820086d83a10a6e676bdde7b2c0757d52",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 91,
+  "nämner_reformen": true,
+  "ord": [
+   "lärartäthet"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "lärartäthet",
+    "reform": true,
+    "utdrag": "er en kommunal skola som i slutet av förra mandatperioden hade fått utmärkelsen Sveriges sämsta skolkommun. Haninge låg i botten nationellt när det gällde lärartäthet, andel behöriga lärare och resurser till skolan. Genom att minska lokalöverskottet, minska den centrala byråkratin och samtidigt öka resurstilldelningen h",
+    "belopp_nara": false
+   },
+   {
+    "sida": 41,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "enämnden minskade nettokostnaderna motsvarande än budgeterat. 34,4 mnkr (3,7 %) mellan åren, de främsta bidragande faktorerna var ökade statsbidrag samt, lägre Prognosavvikelsen för kommunen som helhet, det vill personalkostnader. Grundskolenämnden samt gymnasie- säga åre",
+    "belopp_nara": true
+   },
+   {
+    "sida": 83,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Noter Riktade statsbidrag intäktsredovisas i takt med att villkoren för bidraget uppfylls. Erhållna ej intäktsredovisade statsbidrag uppgår totalt till 60,7 mnkr, varav de största posterna är Kvalitetshöjande åtgärder i förskolan (9,7 mnkr), Äldreomsorgslyftet (4,3 mnkr) och",
+    "belopp_nara": true
+   },
+   {
+    "sida": 31,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ch trygghetspunkter inom kommunens geografiska område. skolval har omorganiserats och effektiviserats. En Haninge kommun har även tilldelats statsbidrag från effektivisering och omorganisation har också genomförts Livsmedelsverket för att förstärka måltidsberedskapen. av centrala förvaltning fö",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.haninge.se/siteassets/bygga-bo-och-miljo/kartor-lantmateri-och-matning/dokument/taxa-2026-for-haninge-kommuns-verksamhet-inom-plan--och-bygglagens-omrade-samt-kart--och-mattjanster.pdf",
+  "titel": "Taxa för Haninge kommuns verksamhet inom plan- och bygglagens område samt",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "46c4074abad86e9f4649d9e3825914628a6147cf29c095a7242384766d8758ac",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/4941cc/siteassets/bygga-bo-och-miljo/oversiktsplanering-och-detaljplaner/detaljplaner/tungelsta/alsta-271-och-272/antagande-alsta-271-och-272/protokollsutdrag-kommunstyrelsen-2026-03-09--37.pdf",
+  "titel": "Dokumenttyp Sida Protokoll 1 (2) Beslutande organ Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "77945b8317d6bce5cbb35684a87360f177c757d20476ae7ed321818f22dad8e2",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hagalyckebyskolan.haninge.se/var-skola/terminstider-och-skollov/",
+  "titel": "Terminstider och skollov - HagaLyckebyskolan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "a08b9ed00a72a2530681ee35b931b38e191ca1714fa28e57047e83af9730ee2e",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]
