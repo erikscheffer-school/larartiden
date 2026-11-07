@@ -20,6 +20,12 @@ Statusen sätts efter fasta regler, beskrivna i `metod/metod.md` och `metod/prom
 
 Budgethandling för 2027 är inte remissvar, årsredovisningar, budget 2026 med plan 2027, kallelser utan underlag, tidplaner eller nyhetsartiklar. Skilj på tillskott och total nivå, förslag och beslut.
 
+## Veckolistan
+
+Varje måndag söker GitHub Actions efter nya budgethandlingar och skriver en lista med 3–10 kommuner i `arbete/veckolista/<datum>.md` (samt ett ärende under Issues). Börja med kommunerna på listan. Dokumenten och utdragen med sidnummer finns i `arbete/hamtning/dokument/<id>.json`. Skriptet sätter aldrig status och utdragen är inte citat: öppna dokumentet, läs träffarna i sitt sammanhang och citera ordagrant från dokumentet.
+
+Starta en körning direkt: Actions → "Hämta budgethandlingar" → Run workflow, eller ändra `arbete/hamtning/kor.json` och committa.
+
 ## Efteråt
 Kör `python3 verktyg/kontrollera.py` och rätta alla fel. Testa sidan lokalt (python3 -m http.server), committa och pusha till main. GitHub Pages publicerar automatiskt.
 

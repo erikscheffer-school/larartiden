@@ -92,6 +92,18 @@ Claude skrev ner fasta regler för när en kommun får respektive status och til
 
 I koden lades Markdown-biblioteket och DOMPurify in i repot i stället för att hämtas från en CDN, och all Markdown saneras. Bakåtknappen, sorteringen av å, ä och ö, tangentbordsnavigeringen i tabellen och några fel där bedömningar kunde försvinna eller fel text visas rättades. Tabellen visar nu hur många dokument som granskats. Snitten för bedömningarna visas med en varning om att de inte är tillförlitliga. Ett kontrollskript, `verktyg/kontrollera.py`, prövar statusreglerna. Metodtexten, prompten och förslagen under Utveckla prompten uppdaterades med reglerna och med granskningens förslag om en billigare insamlingsmetod.
 
+### 7 november 2026, kl. 13.39
+
+> Fortsätt med Lärartiden i budgeten: bygg skripten för att hämta budgetdokument enligt Utveckla prompten.
+>
+> Ska köra med GitHub Actions veckovis.
+>
+> Brave Search API: [nyckeln borttagen ur loggen] (skriv inte ut detta i loggen som publiceras). Ligger som en repo secret i GitHub också.
+>
+> Ge mig för varje veckovisa sökning en lista på 3-10 kommuner som behöver granskas. Ge mig till att börja med 5 kommuner som behöver granskas. När körningen är klar.
+
+Claude skrev tre skript i `verktyg/hamta/`. Det första söker med Brave Search API efter budgethandlingar för 2027 på varje kommuns webbplats, och för kommuner med status 3–5 även efter reformorden på hela webben. Det andra hämtar dokumenten, gör om PDF:erna till text och sparar korta utdrag med sidnummer runt varje träff på reformorden. Det tredje ger varje kommun poäng efter vad som hittats och väljer ut 3–10 kommuner att granska. Skripten körs varje måndag i GitHub Actions och listan sparas i `arbete/veckolista/`. Skripten sätter aldrig status. Den första körningen gjordes med fem kommuner.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.

@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+"""Steg 2: hämta de dokument som sökningen hittade och leta efter reformorden.
+
+Kör från repots rot:  python3 verktyg/hamta/hamta_dokument.py [--max-dokument 150]
+
+För varje ny träff hämtas dokumentet (PDF eller webbsida), görs om till text sida
+för sida med pdftotext och genomsöks efter orden i metod/metod.md. Dokument som
+redan finns i data/kommuner.json eller hämtats en tidigare vecka hämtas inte igen.
+
+Per kommun sparas en fil i arbete/hamtning/dokument/<id>.json med titel, länk,
+kontrollsumma, om dokumentet ser ut att vara en budgethandling för 2027 och korta
+utdrag runt varje träff med sidnummer. Själva PDF:erna sparas i .cache/pdf.
+"""
+import argparse
+import hashlib
+import html
+import os
+import re
+import subprocess
+import sys
+import tempfile
+import time
+
+sys.path.insert(0, os.path.dirname(__file__))
+from gemensamt import (BELOPP, CACHE, DOKUMENT, REFORMORD, SOKRESULTAT,  # noqa: E402
+                       STATSBIDRAG, STATSBIDRAG_KONTEXT, TILLSTAND, Hamtare, idag,
+                       kanda_urler, kommuner, las_json, normalisera_url, skriv_json)
+
+BUDGET27 = re.compile(
+    r"(budget\w*|ramar|ram|direktiv|kommunplan|strategisk plan|verksamhetsplan|flerårsplan|"
+    r"mål och budget|mrp|evp|planeringsunderlag|förutsättningar)\W+(\w+\W+){0,3}(för\W+|inför\W+)?(år\W+)?2027"
+    r"|inför 2027|2027\s*[–-]\s*20(29|30)", re.I)
+INTE_BUDGET27 = re.compile(r"årsredovisning|delårsrapport|remissvar|yttrande över|budget\s*(för\s*)?(år\s*)?2026\b", re.I)
+REFORM = re.compile("|".join(re.escape(o) for o in REFORMORD), re.I)
+UTDRAG = 160  # tecken före och efter träffen
+
+
+def pdf_till_sidor(data):
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
+        f.write(data)
+        f.flush()
+        try:
+            ut = subprocess.run(["pdftotext", "-layout", "-enc", "UTF-8", f.name, "-"],
+                                capture_output=True, timeout=180)
+        except subprocess.TimeoutExpired:
+            return []
+    text = ut.stdout.decode("utf-8", "replace")
+    return text.split("\f")
+
+
+def html_till_sidor(data):
+    t = data.decode("utf-8", "replace")
+    t = re.sub(r"(?is)<(script|style|nav|header|footer)\b.*?</\1>", " ", t)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", t))
+    return [re.sub(r"\s+", " ", t)]
+
+
+def kort(s):
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def analysera(sidor, titel):
+    """Returnerar träffar med sidnummer och en bedömning av om det är en budgethandling för 2027."""
+    borjan = titel + " " + " ".join(sidor[:3])[:20_000]
+    budget27 = bool(BUDGET27.search(borjan)) and not INTE_BUDGET27.search(titel or "")
+    traff, ord_ = [], set()
+    for nr, sida in enumerate(sidor, 1):
+        for m in list(REFORM.finditer(sida)) + [
+                m for m in STATSBIDRAG.finditer(sida)
+                if STATSBIDRAG_KONTEXT.search(sida[max(0, m.start() - 200):m.end() + 200])]:
+            ord_.add(m.group(0).lower())
+            fonster = sida[max(0, m.start() - UTDRAG):m.end() + UTDRAG]
+            traff.append({"sida": nr, "ord": m.group(0).lower(), "utdrag": kort(fonster),
+                          "belopp_nara": bool(BELOPP.search(fonster))})
+    # Spara högst åtta utdrag per dokument, reformorden före statsbidrag.
+    traff.sort(key=lambda t: (t["ord"].startswith("statsbidrag"), not t["belopp_nara"], t["sida"]))
+    unika, sidor_med = [], set()
+    for t in traff:  # ett utdrag per sida räcker
+        if t["sida"] not in sidor_med:
+            unika.append(t)
+            sidor_med.add(t["sida"])
+    antal = len(traff)
+    traff = unika
+    return {
+        "budget2027": budget27,
+        "sidor": len(sidor),
+        "nämner_reformen": any(not o.startswith("statsbidrag") for o in ord_),
+        "ord": sorted(ord_),
+        "belopp_nära_träff": any(t["belopp_nara"] for t in traff if not t["ord"].startswith("statsbidrag")),
+        "träffar": traff[:8],
+        "antal_träffar": antal,
+    }
+
+
+def ska_hamtas(t):
+    u = t["url"].lower()
+    text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
+    return u.split("?")[0].endswith(".pdf") or "2027" in text
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--max-dokument", type=int, default=int(os.environ.get("MAX_DOKUMENT") or 150))
+    ap.add_argument("--max-minuter", type=float, default=35)
+    a = ap.parse_args()
+
+    sok = las_json(SOKRESULTAT, {"kommuner": {}})
+    tillst = las_json(TILLSTAND, {"kommuner": {}, "dokument": {}})
+    sedda = tillst.setdefault("dokument", {})
+    kanda = kanda_urler(kommuner())
+    CACHE.mkdir(parents=True, exist_ok=True)
+    h = Hamtare()
+    start, antal, nya_totalt = time.time(), 0, 0
+
+    for kid, post in sok["kommuner"].items():
+        fil = DOKUMENT / f"{kid}.json"
+        poster = {p["url"]: p for p in las_json(fil, [])}
+        andrad = False
+        for t in post["traffar"]:
+            nu = normalisera_url(t["url"])
+            if nu in kanda.get(kid, set()) or nu in sedda or not ska_hamtas(t):
+                continue
+            if antal >= a.max_dokument or (time.time() - start) / 60 > a.max_minuter:
+                break
+            if not h.tillats(t["url"]):
+                sedda[nu] = {"kommun": kid, "datum": idag(), "fel": "robots.txt tillåter inte"}
+                continue
+            antal += 1
+            try:
+                data, typ, slut = h.hamta(t["url"])
+            except Exception as e:
+                sedda[nu] = {"kommun": kid, "datum": idag(), "fel": f"{type(e).__name__}: {str(e)[:80]}"}
+                print(f"  {post['kommun']}: kunde inte hämta ({type(e).__name__})", flush=True)
+                continue
+            sha = hashlib.sha256(data).hexdigest()
+            ar_pdf = data[:5] == b"%PDF-"
+            if ar_pdf:
+                (CACHE / f"{sha}.pdf").write_bytes(data)
+                sidor = pdf_till_sidor(data)
+            elif "html" in typ:
+                sidor = html_till_sidor(data)
+            else:
+                sedda[nu] = {"kommun": kid, "datum": idag(), "fel": f"okänd typ {typ[:40]}"}
+                continue
+            res = analysera(sidor, t.get("titel") or "")
+            if ar_pdf and not "".join(sidor).strip():
+                res["anmärkning"] = "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+            poster[t["url"]] = {
+                "url": t["url"], "titel": t.get("titel"), "typ": "pdf" if ar_pdf else "html",
+                "hämtad": idag(), "sha256": sha, "sökning": t.get("sokning"), **res,
+            }
+            sedda[nu] = {"kommun": kid, "datum": idag(), "sha256": sha}
+            andrad, nya_totalt = True, nya_totalt + 1
+            print(f"  {post['kommun']}: {'PDF' if ar_pdf else 'webbsida'}, "
+                  f"budget 2027: {'ja' if res['budget2027'] else 'nej'}, "
+                  f"reformord: {', '.join(res['ord']) or 'inga'}", flush=True)
+        if andrad:
+            skriv_json(fil, sorted(poster.values(), key=lambda p: p["hämtad"], reverse=True))
+
+    skriv_json(TILLSTAND, tillst)
+    print(f"Klart: {antal} hämtningar, {nya_totalt} nya dokument analyserade.")
+
+
+if __name__ == "__main__":
+    main()

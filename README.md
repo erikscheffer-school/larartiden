@@ -21,6 +21,10 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `metod/utveckla.md` | Förslag på hur prompten kan utvecklas |
 | `supabase/schema.sql` | Databasskript för bedömningar |
 | `verktyg/kontrollera.py` | Kontrollerar datan mot statusreglerna. Kör `python3 verktyg/kontrollera.py` före varje publicering |
+| `verktyg/hamta/` | Skript som varje vecka söker budgethandlingar (Brave Search API), hämtar dem, letar efter reformorden och väljer ut 3–10 kommuner att granska |
+| `.github/workflows/hamta.yml` | Kör skripten i GitHub Actions på måndagar. Kräver en repo secret `BRAVE_API_KEY` |
+| `arbete/veckolista/` | Veckans lista över kommuner att granska, med länkar och utdrag. Läggs också upp som ett ärende under Issues |
+| `arbete/hamtning/` | Sökresultat, hämtade dokument per kommun (titel, länk, kontrollsumma, träffar med sidnummer) och vad som redan hämtats. `kor.json` startar en körning när den ändras |
 | `assets/vendor/` | Markdown-biblioteket marked och DOMPurify, med licenser. Ligger i repot så att sidan inte är beroende av en CDN |
 
 ## Fält i `data/kommuner.json`
