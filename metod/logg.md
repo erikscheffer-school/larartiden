@@ -76,6 +76,12 @@ Claude gav rubrikerna ett serift typsnitt, gjorde flikarna tydligare och putsade
 
 Claude bytte ut inledningen på startsidan mot den nya texten.
 
+### 7 november 2026, kl. 08.50
+
+> Byt
+
+Svar på Claudes förslag att skriva "dokument för ett begränsat antal kommuner" i stället för "dokument till ett begränsat antal kommuner". Claude bytte ordet i inledningen.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
