@@ -24,6 +24,8 @@ Budgethandling för 2027 är inte remissvar, årsredovisningar, budget 2026 med 
 
 Varje måndag söker GitHub Actions efter nya budgethandlingar och skriver en lista med 3–10 kommuner i `arbete/veckolista/<datum>.md` (samt ett ärende under Issues). Börja med kommunerna på listan. Dokumenten och utdragen med sidnummer finns i `arbete/hamtning/dokument/<id>.json`. Skriptet sätter aldrig status och utdragen är inte citat: öppna dokumentet, läs träffarna i sitt sammanhang och citera ordagrant från dokumentet.
 
+Utöver sökningen med Brave går körningen igenom kommunernas mötesportaler med en webbläsare (`verktyg/hamta/portaler.py`), med egna hämtare för Netpublicator och MeetingsPlus. För att se hur en ny portal är uppbyggd: lägg in kommun och startadress i `arbete/granskning/portalprov.json` och committa, så sparar workflowen "Undersök mötesportaler" länkar och dataanrop i `arbete/granskning/portaler/`.
+
 Starta en körning direkt: Actions → "Hämta budgethandlingar" → Run workflow, eller ändra `arbete/hamtning/kor.json` och committa.
 
 ## Efteråt

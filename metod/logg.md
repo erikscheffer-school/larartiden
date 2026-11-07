@@ -112,6 +112,18 @@ Svar på Claudes fråga om de fem kommunerna på första veckolistan skulle gran
 
 Ale fick status Nämnt utan belopp: utbildningsnämndens nulägesanalys 2026, underlag för budgetbeslutet för 2027, nämner reformen. Färgelanda fick status Ej nämnt: utbildningsnämndens underlag inför mål- och resursplanen 2027–2030 nämner inte reformen. Falköping, Bjurholm och Borås förblir Ej bedömbart än, eftersom inga budgethandlingar för 2027 med innehåll hittades. För Borås lades datumen för budgetsammanträdet till, och luckorna uppdaterades för alla fem.
 
+### 7 november 2026, kl. 14.49
+
+> Har du sökt så att du hittat för fler kommuner? Saknas fortfarande helt för 176
+
+Claude svarade att den första körningen bara hade sökt 125 kommuner och hämtat dokument för 29, eftersom taket på antal hämtningar gick åt på de första kommunerna. Hämtningen ändrades till högst sex dokument per kommun i turordning, och de 53 kommuner som inte sökts söktes. Därefter fanns dokument för 151 kommuner.
+
+### 7 november 2026, kl. 15.26
+
+> Skript för mötesportalerna
+
+Claude skrev en genomsökare som med en riktig webbläsare (Playwright) går från kommunens webbplats in i mötesportalerna och samlar länkar till handlingar (`verktyg/hamta/portaler.py`), egna hämtare för Netpublicator och MeetingsPlus (`verktyg/hamta/portalskript.py`) och ett verktyg som visar hur en okänd portal är uppbyggd (`verktyg/hamta/undersok_portal.py`). Hämtningen klarar nu sajter som kräver cookies. Sökresultat och PDF:er sparas i GitHub Actions cache i stället för i repot. Efter körningarna nämns reformen i handlingar från 32 av de 176 kommunerna med status Ej bedömbart än, 69 har en möjlig budgethandling för 2027 och 72 saknar ännu användbara handlingar. Inga statusar ändrades: fynden ska granskas innan de används.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
