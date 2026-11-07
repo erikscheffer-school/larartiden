@@ -62,6 +62,20 @@ Claude tog bort skolpeng och styre ur data och sida, gjorde luckorna till en mar
 
 Claude gav rubrikerna ett serift typsnitt, gjorde flikarna tydligare och putsade avstånd, tabellen och kommunsidan. Den smala stapeln på startsidan ersattes med en ruta per kommun som går att klicka på. Listan över kommuner med pengar eller beräknad kostnad grupperades per status och visar nu bara en kort beloppsrad (nytt fält `kort` i data). Hela underlaget finns kvar under Kommuner. Länkarna till dokumenten visas som "Öppna dokumentet" i stället för hela adressen. Under Metod och källor skrevs en ny, fristående prompt som visas i sin helhet, och en ny del, Utveckla prompten, med förslag på förbättringar.
 
+### 7 november 2026, kl. 08.49
+
+> Jag vill ändra denna texten på hemsidan:
+>
+> Följer pengarna med till skolan?
+> Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Här följer jag om kommunerna i sina budgetar för pengarna vidare till skolan.
+>
+> Till:
+>
+> Följer pengarna med till skolan?
+> Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Denna sida har hittat ett antal dokument till ett begränsat antal kommuner och undersökt om reformen samt tillhörande statsbidrag nämns, samt om kommunen hanterat det genom ett de facto tillskott till skolornas budget eller inte.
+
+Claude bytte ut inledningen på startsidan mot den nya texten.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
