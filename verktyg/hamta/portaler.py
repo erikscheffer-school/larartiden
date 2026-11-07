@@ -31,6 +31,9 @@ sys.path.insert(0, os.path.dirname(__file__))
 from gemensamt import (HAMTNING, SOKRESULTAT, USER_AGENT, doman, idag,  # noqa: E402
                        kommuner, las_json, samma_doman, skriv_json)
 from hamta_dokument import rang  # noqa: E402
+from portalskript import Netpublicator, meetingsplus  # noqa: E402
+
+NP_LASARE = re.compile(r"netpublicator\.com/reader/(r\d+)", re.I)
 
 PORTALFIL = HAMTNING / "portaler.json"
 MAX_LANKAR = 60  # högst så många dokumentlänkar per kommun sparas
@@ -102,6 +105,7 @@ async def genomsok(context, kommun, robots, max_sidor, senast):
     tillatna = {dom}
     kö = [(0, 0, start)]
     besokta, dokument, portaler = set(), {}, set()
+    adresser = set()  # adresser till portaler som har egna hämtare
     raknare = 0
     page = await context.new_page()
     try:
@@ -135,6 +139,8 @@ async def genomsok(context, kommun, robots, max_sidor, senast):
                     continue
                 h = doman(href)
                 typ = portaltyp(href)
+                if NP_LASARE.search(href) or "meetingsplus" in h:
+                    adresser.add(href)
                 if typ:
                     portaler.add(typ)
                 if DOKUMENT.search(href):
@@ -158,7 +164,7 @@ async def genomsok(context, kommun, robots, max_sidor, senast):
                     heapq.heappush(kö, (-poang, raknare, href))
     finally:
         await page.close()
-    return list(dokument.values()), sorted(portaler), len(besokta)
+    return list(dokument.values()), sorted(portaler), len(besokta), adresser
 
 
 async def kor(valda, max_sidor, parallellt):
@@ -173,11 +179,28 @@ async def kor(valda, max_sidor, parallellt):
         async def en(k):
             async with sem:
                 try:
-                    dok, port, n = await asyncio.wait_for(genomsok(context, k, robots, max_sidor, senast), 300)
+                    dok, port, n, adr = await asyncio.wait_for(genomsok(context, k, robots, max_sidor, senast), 300)
                 except asyncio.TimeoutError:
-                    dok, port, n = [], [], max_sidor
+                    dok, port, n, adr = [], [], max_sidor, set()
                     print(f"  {k['k']}: avbruten efter fem minuter", flush=True)
-                resultat[k["id"]] = (dok, port, n)
+                # Kända läsare i kommunens befintliga data (till exempel länkar i luckorna).
+                adr |= set(re.findall(r"https?://www\.netpublicator\.com/reader/r\d+", json.dumps(k)))
+                lasare = sorted({m.group(1) for a in adr for m in [NP_LASARE.search(a)] if m})
+                for rid in lasare[:3]:
+                    try:
+                        np_dok = await asyncio.wait_for(Netpublicator(context.request).genomsok(context, rid), 600)
+                    except asyncio.TimeoutError:
+                        np_dok = []
+                    dok += [dict(d, kalla="netpublicator") for d in np_dok]
+                    port = sorted(set(port) | {"Netpublicator"})
+                mp = sorted({re.match(r"https?://[^/]+", a).group(0) for a in adr if "meetingsplus" in a.lower()})
+                for bas in mp[:1]:
+                    try:
+                        mp_dok = await asyncio.wait_for(meetingsplus(context, bas), 600)
+                    except asyncio.TimeoutError:
+                        mp_dok = []
+                    dok += [dict(d, kalla="meetingsplus") for d in mp_dok]
+                resultat[k["id"]] = (dok, port, n, adr)
                 bra = sum(1 for d in dok if BRA_DOK.search(f"{d['titel']} {d['beskrivning']} {d['url']}"))
                 print(f"  {k['k']}: {n} sidor, {len(dok)} dokumentlänkar ({bra} relevanta), "
                       f"portal: {', '.join(port) or 'ingen känd'}", flush=True)
@@ -212,14 +235,15 @@ def main():
     portaler = las_json(PORTALFIL, {})
     antal = 0
     for k in valda:
-        dok, port, n = res.get(k["id"], ([], [], 0))
+        dok, port, n = res.get(k["id"], ([], [], 0))[:3]
         portaler[k["id"]] = {"kommun": k["k"], "portaler": port, "sidor": n,
                              "dokumentlänkar": len(dok), "datum": idag()}
         post = sok["kommuner"].setdefault(k["id"], {"kommun": k["k"], "status": k["s"], "traffar": []})
         sedda = {t["url"] for t in post["traffar"]}
-        nya = [{**d, "beskrivning": d["beskrivning"][:200], "alder": None, "sokning": 3} for d in dok
-               if d["url"] not in sedda and BRA_DOK.search(f"{d['titel']} {d['beskrivning']} {d['url']}")]
-        nya = sorted(nya, key=rang)[:MAX_LANKAR]  # de troligaste budgethandlingarna först
+        nya = [{**d, "beskrivning": d["beskrivning"][:200], "alder": None, "sokning": 4 if d.get("kalla") else 3}
+               for d in dok if d["url"] not in sedda
+               and (d.get("kalla") or BRA_DOK.search(f"{d['titel']} {d['beskrivning']} {d['url']}"))]
+        nya = sorted(nya, key=lambda d: (d["sokning"] != 4, rang(d)))[:MAX_LANKAR]  # portalernas egna först
         post["traffar"] += nya
         antal += len(nya)
     skriv_json(SOKRESULTAT, sok)

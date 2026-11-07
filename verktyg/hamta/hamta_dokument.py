@@ -157,7 +157,7 @@ def ska_hamtas(t):
     u = t["url"].lower()
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
     # Dokumentlänkar från mötesportalerna (sökning 3) saknar ofta .pdf i adressen.
-    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") == 3
+    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") in (3, 4)
 
 
 def main():
