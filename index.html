@@ -55,7 +55,7 @@
       <table class="list">
         <thead><tr>
           <th data-sort="k" aria-sort="none">Kommun</th><th data-sort="l" aria-sort="none">Län</th><th data-sort="s" aria-sort="none">Status</th>
-          <th>Pengar kopplade till reformen</th><th data-sort="kf" aria-sort="none">Budgetbeslut 2027</th><th data-sort="r" aria-sort="none">Bedömningar</th>
+          <th>Pengar kopplade till reformen</th><th data-sort="kf" aria-sort="none">Budgetbeslut 2027</th><th data-sort="d" aria-sort="none" title="Antal granskade dokument och hur många av dem som är beslut">Granskat</th><th data-sort="r" aria-sort="none">Bedömningar</th>
         </tr></thead>
         <tbody id="rows"><tr><td colspan="6" class="muted">Laddar kommuner…</td></tr></tbody>
       </table>
@@ -89,7 +89,8 @@
 
 <footer><div class="wrap">Sammanställt av Erik Håkansson. Rådata finns i <a href="data/kommuner.json">data/kommuner.json</a> och koden på <a href="https://github.com/erikscheffer-school/larartiden">GitHub</a>.</div></footer>
 
-<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="assets/vendor/marked.umd.js"></script>
+<script src="assets/vendor/purify.min.js"></script>
 <script src="assets/config.js"></script>
 <script src="assets/app.js"></script>
 </body>

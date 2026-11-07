@@ -19,11 +19,14 @@ I dokumenten har vi sökt efter orden undervisningstid, undervisningsuppdrag, l�
 1. Den första versionen (5 november 2026) byggdes från sökningar på webben. Claude letade upp dokument och läste dem ofta via ett verktyg som sammanfattar webbsidor. Därför kan en del citat från den omgången vara återgivna i stället för exakta.
 2. Kommuner där inga budgethandlingar hittades samlades i en arbetslista (`arbete/att_granska.json`) tillsammans med anteckningar om vad som saknades.
 3. Den 6 november gick Claude igenom kommuner som enligt anteckningarna troligen beslutade budget i juni. Claude använde då en webbläsare för att öppna kommunernas mötesportaler, laddade ner PDF-filerna och sökte direkt i texten. Citat från den omgången är kopierade ur dokumenten med sidnummer.
-4. Efter varje omgång sparades ändringarna i `data/kommuner.json` och publicerades. Hela historiken går att följa i [GitHub-repot](https://github.com/erikscheffer-school/larartiden/commits/main).
+4. Den 7 november granskades sidan av två andra AI-tjänster, oberoende av varandra. De hittade bland annat att statusarna inte sattes efter samma regler för alla kommuner: att tillskott och total nivå blandades ihop, att förslag räknades som beslut och att remissvar räknades som budgethandlingar för 2027. Statusreglerna nedan skrevs då ner och tillämpades på alla 290 kommuner, vilket ändrade statusen för 32 kommuner. Varje ändring står under "Luckor i granskningen" för kommunen. Ett kontrollskript (`verktyg/kontrollera.py`) prövar nu reglerna innan varje publicering.
+5. Efter varje omgång sparades ändringarna i `data/kommuner.json` och publicerades. Hela historiken går att följa i [GitHub-repot](https://github.com/erikscheffer-school/larartiden/commits/main).
 
 ### Status
 
 Varje kommun har en av sex statusar. Bedömningen gäller bara de dokument som har granskats.
+
+Med budgethandling för 2027 menas planeringsförutsättningar, budgetdirektiv, budgetramar, nämndernas budgetunderlag och äskanden, budgetförslag från förvaltning, majoritet eller opposition samt beslut om budget 2027. Remissvar, årsredovisningar, budgetar för 2026 med plan för 2027, kallelser utan underlag, tidplaner och nyhetsartiklar räknas inte.
 
 <div id="statusdef"></div>
 
@@ -32,7 +35,9 @@ Varje kommun har en av sex statusar. Bedömningen gäller bara de dokument som h
 För varje granskat dokument anges skede och vem som har tagit fram det.
 
 - **Skede:** underlag/förslag (planeringsförutsättningar, nämndunderlag, budgetförslag) eller beslut (fullmäktige, kommunstyrelse eller nämnd).
-- **Producent:** tjänstemannaproducerat (förvaltning, tjänsteutlåtande) eller politiskt producerat (budgetförslag från partier, yrkanden, politiska beslut).
+- **Producent:** tjänstemannaproducerat (förvaltning, tjänsteutlåtande), politiskt producerat (budgetförslag från partier, yrkanden, politiska beslut) eller nyhetsartikel (tredje part).
+
+Under varje dokument står text inom citattecken ordagrant ur dokumentet. Övrig text är anteckningar från granskningen.
 
 ### Begränsningar
 
@@ -41,7 +46,9 @@ För varje granskat dokument anges skede och vem som har tagit fram det.
 - Många mötesportaler gick inte att öppna automatiskt. Därför är "Ej bedömbart än" vanligt.
 - Ett budgetdatum som är markerat som planerat är inte bekräftat i ett protokoll.
 - Det är valår. Flera kommuner fattade ett första beslut i juni och fattar ett nytt efter valet. Uppgifterna kan därför bli inaktuella.
-- Bara ett urval av citat har kontrollerats manuellt mot originaldokumenten.
+- Bara ett urval av citat har kontrollerats manuellt mot originaldokumenten. Rättelserna den 7 november bygger på det som redan fanns i underlaget och har inte kontrollerats mot originalen.
+- Beloppen är kommunernas egna. Ibland är det oklart om ett belopp för 2028 är ett tillskott eller den totala nivån. Det står i så fall vid beloppet.
+- Bedömningarna från besökare skyddas bara av webbläsarens minne mot upprepade inskick. Snitten är därför en fingervisning, inte en omröstning.
 
 ### Centrala källor
 

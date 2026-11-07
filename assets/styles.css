@@ -105,8 +105,9 @@ input[type=search]{min-width:240px}
 .count{font-size:14px;color:var(--muted);margin:14px 0 8px}
 .tablewrap{overflow-x:auto}
 table.list{border-collapse:collapse;width:100%;font-size:15px}
-table.list th{text-align:left;font-weight:650;font-size:14px;color:var(--muted);padding:10px 14px 10px 0;border-bottom:2px solid var(--ink);white-space:nowrap;cursor:pointer;user-select:none}
-table.list th:hover{color:var(--ink)}
+table.list th{text-align:left;font-weight:650;font-size:14px;color:var(--muted);padding:10px 14px 10px 0;border-bottom:2px solid var(--ink);white-space:nowrap}
+table.list th .sortbtn{font:inherit;font-weight:650;color:inherit;background:none;border:0;padding:0;cursor:pointer;text-align:left}
+table.list th .sortbtn:hover{color:var(--ink)}
 table.list th[aria-sort]::after{content:" ↕";opacity:.5;font-weight:400}
 table.list th[aria-sort="ascending"]::after{content:" ↑";opacity:1}
 table.list th[aria-sort="descending"]::after{content:" ↓";opacity:1}
@@ -117,6 +118,9 @@ table.list tr[aria-selected="true"] td{background:var(--soft2)}
 table.list td:first-child{padding-left:6px}
 table.list th:first-child{padding-left:6px}
 table.list td.k{font-weight:600;white-space:nowrap}
+.rowbtn{font:inherit;font-weight:600;color:var(--ink);background:none;border:0;padding:0;cursor:pointer;text-align:left}
+.rowbtn:hover{color:var(--link);text-decoration:underline;text-underline-offset:3px}
+.nowrap{white-space:nowrap}
 table.list td.num{text-align:right;white-space:nowrap}
 
 /* Kommunsida */
@@ -144,8 +148,15 @@ ul.docs li{padding:16px 0;border-bottom:1px solid var(--line)}
 ul.docs li:first-child{border-top:1px solid var(--line)}
 ul.docs b{font-weight:650}
 ul.docs .meta{font-size:14px;color:var(--muted);margin-top:3px}
-ul.docs blockquote{margin:10px 0;padding-left:14px;border-left:3px solid var(--line);font-family:var(--serif);font-size:16px}
+ul.docs blockquote{margin:10px 0;padding-left:14px;border-left:3px solid var(--line);font-size:16px;line-height:1.55}
 ul.docs .doclink{font-size:14.5px}
+blockquote.cite q{quotes:"”" "”";font-family:var(--serif);font-size:16px;color:var(--ink)}
+blockquote.cite .ann{font-family:var(--sans);font-size:14px;color:var(--muted)}
+.note-ko{font-size:14px;color:var(--muted);margin:8px 0 10px;max-width:80ch}
+.note-ko span{font-weight:600}
+.cite-key{margin:-2px 0 12px}
+.agg .agg-note{flex-basis:100%;font-size:13.5px}
+.loaderr{background:var(--mark);border-left:5px solid var(--markline);padding:12px 16px;max-width:68ch}
 .btn{font:inherit;font-size:15px;font-weight:600;color:#fff;background:var(--link);border:1px solid var(--link);border-radius:4px;padding:8px 16px;cursor:pointer}
 .btn:hover{background:var(--linkh);border-color:var(--linkh)}
 .btn:disabled{opacity:.5;cursor:default}

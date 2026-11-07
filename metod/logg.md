@@ -82,6 +82,16 @@ Claude bytte ut inledningen på startsidan mot den nya texten.
 
 Svar på Claudes förslag att skriva "dokument för ett begränsat antal kommuner" i stället för "dokument till ett begränsat antal kommuner". Claude bytte ordet i inledningen.
 
+### 7 november 2026, kl. 13.14
+
+> Två separata granskningar genomförda av andra AI-tjänster/agenter. Genomför samtliga åtgärder. Säg till när något är oklart, fråga om behörigheter och ge mig instruktioner när det finns saker som du inte kan göra.
+
+Med instruktionen följde två filer. Den ena, en PDF med en granskning av säkerhet, datakvalitet och metod gjord av Claude och GPT, låg till grund för ändringarna. Den andra, en Word-fil, innehöll samma text som delen Utveckla prompten på sidan och ledde inte till några ändringar.
+
+Claude skrev ner fasta regler för när en kommun får respektive status och tillämpade dem på alla 290 kommuner. Statusen ändrades för 32 kommuner, bland annat Vaxholm (pengarna gällde budget 2026), Aneby och Solna (inget belopp kopplat till reformen), Tibro (beslutet inte verifierat) och 24 kommuner där bara remissvar, budgetar för 2026 eller nyhetsartiklar hade granskats. Varje ändring står under kommunens luckor. Habo och Håbo fick olika adressnamn. Beloppsraderna för Nykvarn, Hagfors, Kil, Österåker och Kungsör skrevs om så att de inte säger mer än källan. Egna anteckningar flyttades ur citatfälten till ett nytt fält, och på sidan syns skillnaden mellan citat och anteckning. Sammanfattningarna för Gagnef, Täby, Leksand och Munkedal rättades.
+
+I koden lades Markdown-biblioteket och DOMPurify in i repot i stället för att hämtas från en CDN, och all Markdown saneras. Bakåtknappen, sorteringen av å, ä och ö, tangentbordsnavigeringen i tabellen och några fel där bedömningar kunde försvinna eller fel text visas rättades. Tabellen visar nu hur många dokument som granskats. Snitten för bedömningarna visas med en varning om att de inte är tillförlitliga. Ett kontrollskript, `verktyg/kontrollera.py`, prövar statusreglerna. Metodtexten, prompten och förslagen under Utveckla prompten uppdaterades med reglerna och med granskningens förslag om en billigare insamlingsmetod.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.

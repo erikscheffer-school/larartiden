@@ -20,12 +20,14 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `metod/prompt.md` | Prompten för att göra en egen kopia (inledning, raden `---PROMPT---`, sedan prompten) |
 | `metod/utveckla.md` | Förslag på hur prompten kan utvecklas |
 | `supabase/schema.sql` | Databasskript för bedömningar |
+| `verktyg/kontrollera.py` | Kontrollerar datan mot statusreglerna. Kör `python3 verktyg/kontrollera.py` före varje publicering |
+| `assets/vendor/` | Markdown-biblioteket marked och DOMPurify, med licenser. Ligger i repot så att sidan inte är beroende av en CDN |
 
 ## Fält i `data/kommuner.json`
 
 | Fält | Betydelse |
 |---|---|
-| `k`, `id`, `l` | Kommunnamn, adressnamn, län |
+| `k`, `id`, `l` | Kommunnamn, adressnamn (unikt, Håbo heter `haabo` för att inte krocka med Habo), län |
 | `s` | Status: 0 pengar beslutade, 1 pengar föreslagna, 2 kostnad beräknad, 3 nämnt utan belopp, 4 ej nämnt, 5 ej bedömbart än |
 | `sum` | Sammanfattning |
 | `m`, `mk` | Pengar kopplade till reformen, egen beräknad merkostnad |
@@ -34,7 +36,7 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `kf`, `kfu` | Fullmäktiges budgetbeslut och källa |
 | `w` | Kommunens webbplats |
 | `lu` | Luckor i granskningen, i hela meningar. Varje mening blir en punkt på sidan |
-| `docs` | Dokument: `t` titel, `d` datum, `sk` skede, `pr` producent, `nr` nämner reformen, `c` citat, `u` länk |
+| `docs` | Dokument: `t` titel, `d` datum, `sk` skede, `pr` producent, `nr` nämner reformen, `c` ordagrant citat inom citattecken, `ko` anteckningar som inte är citat, `u` länk |
 
 ## Uppdatera
 
@@ -54,3 +56,5 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 ## Bedömningar
 
 Kör `supabase/schema.sql` en gång i Supabase → SQL Editor. Besökare kan bara lägga till bedömningar. Kommentarerna läser du i Supabase → Table Editor → `bedomningar`.
+
+Snitten skyddas bara av webbläsarens minne mot upprepade inskick och visas därför som en fingervisning. Sidan använder inte inloggning, så stäng av registrering av nya användare i Supabase (Authentication → Sign In / Providers → "Allow new users to sign up").

@@ -2,12 +2,12 @@
 "use strict";
 const CFG = window.LT_CONFIG || {};
 const STATUS = [
-  {n:"Pengar avsatta/beslutade", short:"Pengar beslutade", d:"Budget- eller nämndbeslut avsätter pengar uttryckligen kopplade till reformen."},
-  {n:"Pengar föreslagna", short:"Pengar föreslagna", d:"Förslag från förvaltning, majoritet eller opposition om pengar kopplade till reformen. Inte bekräftat beslutat."},
-  {n:"Kostnad beräknad, inga pengar", short:"Kostnad beräknad", d:"Kommunen har räknat på merkostnad eller lärarbehov, men inga pengar avsatta i det som granskats."},
-  {n:"Nämnt utan belopp", short:"Nämnt utan belopp", d:"Reformen nämns i handlingarna, utan kostnad eller pengar."},
-  {n:"Ej nämnt i granskade dokument", short:"Ej nämnt", d:"Budgethandlingar för 2027 har granskats men reformen nämns inte."},
-  {n:"Inga budgethandlingar 2027 hittade", short:"Ej bedömbart än", d:"Inga budgethandlingar för 2027 kunde hittas eller öppnas. Säger inget om vad kommunen gjort."}
+  {n:"Pengar avsatta/beslutade", short:"Pengar beslutade", d:"Ett granskat beslut om budget 2027 innehåller ett belopp för 2027 som uttryckligen kopplas till reformen."},
+  {n:"Pengar föreslagna", short:"Pengar föreslagna", d:"Ett förslag från förvaltning, majoritet eller opposition innehåller ett belopp kopplat till reformen, men beslutet är inte granskat eller bekräftat."},
+  {n:"Kostnad beräknad, inga pengar", short:"Kostnad beräknad", d:"Kommunen har själv räknat på merkostnaden eller lärarbehovet, i budgetunderlag eller remissvar, men inga pengar är avsatta i det som granskats. Ett förväntat statsbidrag räknas inte som kostnad."},
+  {n:"Nämnt utan belopp", short:"Nämnt utan belopp", d:"Reformen nämns i en budgethandling för 2027, utan kostnad eller pengar. Remissvar, årsredovisningar och planer för 2026 räknas inte."},
+  {n:"Ej nämnt i granskade dokument", short:"Ej nämnt", d:"Minst en budgethandling för 2027 med ramar, belopp eller förslag har granskats, och reformen nämns inte."},
+  {n:"Inga budgethandlingar 2027 hittade", short:"Ej bedömbart än", d:"Ingen budgethandling för 2027 med innehåll har kunnat hittas eller öppnas. Kallelser, tidplaner och nyhetsartiklar räcker inte. Säger inget om vad kommunen gjort."}
 ];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -16,7 +16,17 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
-const md = text => window.marked ? window.marked.parse(text) : simpleMd(text);
+// Markdown-texterna saneras innan de sätts in, så att länkar som javascript: eller inbäddade skript aldrig körs.
+const sanitize = html => window.DOMPurify ? window.DOMPurify.sanitize(html, { FORBID_TAGS: ["style", "form", "input"], FORBID_ATTR: ["style"] }) : stripUnsafe(html);
+function stripUnsafe(html) {
+  const t = document.createElement("template"); t.innerHTML = html;
+  t.content.querySelectorAll("script,style,iframe,object,embed,form,input,link,meta").forEach(n => n.remove());
+  t.content.querySelectorAll("*").forEach(n => [...n.attributes].forEach(a => {
+    if (/^on/i.test(a.name) || a.name === "style" || (/^(href|src|xlink:href)$/i.test(a.name) && !/^(https?:|mailto:|#|[^:]*$)/i.test(a.value.trim()))) n.removeAttribute(a.name);
+  }));
+  return t.innerHTML;
+}
+const md = text => sanitize(window.marked ? window.marked.parse(text) : simpleMd(text));
 const extLinks = el => el.querySelectorAll("a[href^='http']").forEach(a => { a.target = "_blank"; a.rel = "noopener"; });
 
 let DATA = [], byId = {}, RATINGS = {}, currentId = null;
@@ -41,16 +51,21 @@ function show(v, push) {
   VIEWS.forEach(x => { $("#view-" + x).hidden = x !== v; $("#tab-" + x).setAttribute("aria-selected", x === v ? "true" : "false"); });
   if (push) setHash(v);
 }
-function setHash(h) { try { history.replaceState(null, "", "#" + h); } catch (e) { location.hash = h; } }
+function setHash(h) {
+  if (location.hash === "#" + h) return;
+  try { history.pushState(null, "", "#" + h); } catch (e) { location.hash = h; }
+}
 document.querySelectorAll("nav.tabs button").forEach(b => b.addEventListener("click", () => show(b.dataset.view, true)));
 function route() {
   const h = (location.hash || "").slice(1);
   if (h.startsWith("kommun-") && byId[h.slice(7)]) { show("kommuner"); openDetail(h.slice(7), false); return; }
+  if (h === "kommuner" && currentId) { currentId = null; $("#detail").innerHTML = ""; renderRows(); }
   if (h.startsWith("text-") && TEXTS.length) { show("analys"); openText(h.slice(5)); return; }
   if (h.startsWith("metod-")) { show("metod"); openMetod(h.slice(6)); return; }
   show(h || "oversikt");
 }
-window.addEventListener("hashchange", route);
+// popstate täcker både bakåtknappen och klick på interna länkar.
+window.addEventListener("popstate", route);
 
 /* ---------- Översikt ---------- */
 function renderOverview() {
@@ -83,7 +98,8 @@ function shortKf(s) {
 function sortVal(k, key) {
   if (key === "r") { const a = RATINGS[k.id]; return a ? -a.antal : 0; }
   if (key === "s") return k.s;
-  return String(k[key] || "zzz");
+  if (key === "d") return -(k.docs || []).length;
+  return String(k[key] || "");
 }
 function setupFilters() {
   const lans = [...new Set(DATA.map(k => k.l))].sort((a, b) => a.localeCompare(b, "sv"));
@@ -91,19 +107,28 @@ function setupFilters() {
   $("#chips").insertAdjacentHTML("beforeend", STATUS.map((s, i) => `<label><input type="checkbox" data-i="${i}" ${active[i] ? "checked" : ""}><span class="sq s${i}"></span>${esc(s.short)}</label>`).join(""));
   $("#chips").addEventListener("change", e => { const b = e.target.closest("input[data-i]"); if (!b) return; active[+b.dataset.i] = b.checked; store.set("lt_status", active); renderRows(); });
   ["q", "lan"].forEach(id => document.getElementById(id).addEventListener("input", renderRows));
-  document.querySelectorAll("th[data-sort]").forEach(th => th.addEventListener("click", () => { const k = th.dataset.sort; if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; } renderRows(); }));
+  document.querySelectorAll("th[data-sort]").forEach(th => {
+    th.innerHTML = `<button type="button" class="sortbtn">${th.innerHTML}</button>`;
+    th.querySelector("button").addEventListener("click", () => { const k = th.dataset.sort; if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; } renderRows(); });
+  });
   $("#rows").addEventListener("click", e => { const tr = e.target.closest("tr[data-id]"); if (tr) openDetail(tr.dataset.id, true); });
 }
 function renderRows() {
   const q = $("#q").value.trim().toLowerCase(), lan = $("#lan").value;
   const list = DATA.filter(k => active[k.s] && (!lan || k.l === lan) && (!q || k.k.toLowerCase().includes(q)))
-    .sort((a, b) => { const x = sortVal(a, sortKey), y = sortVal(b, sortKey); return (x < y ? -1 : x > y ? 1 : a.k.localeCompare(b.k, "sv")) * sortDir; });
+    .sort((a, b) => {
+      const x = sortVal(a, sortKey), y = sortVal(b, sortKey);
+      let c = typeof x === "string" ? (!x && y ? 1 : x && !y ? -1 : x.localeCompare(y, "sv")) : x - y;
+      return (c || a.k.localeCompare(b.k, "sv")) * sortDir;
+    });
   document.querySelectorAll("th[data-sort]").forEach(th => th.setAttribute("aria-sort", th.dataset.sort === sortKey ? (sortDir > 0 ? "ascending" : "descending") : "none"));
   $("#count").textContent = `${list.length} av ${DATA.length} kommuner visas. Klicka på en kommun för detaljer.`;
   $("#rows").innerHTML = list.map(k => {
     const a = RATINGS[k.id];
-    return `<tr data-id="${k.id}" aria-selected="${k.id === currentId}"><td class="k">${esc(k.k)}</td><td class="muted">${esc(k.l.replace(" län", ""))}</td><td style="white-space:nowrap"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].short)}</td><td class="small">${esc(k.m || "") || '<span class="muted">–</span>'}</td><td class="small">${k.kf ? esc(shortKf(k.kf)) : '<span class="muted">Okänt</span>'}</td><td class="num">${a ? `${a.antal} st` : '<span class="muted">–</span>'}</td></tr>`;
-  }).join("") || '<tr><td colspan="6" class="muted">Inga kommuner matchar filtret.</td></tr>';
+    const docs = k.docs || [], nBes = docs.filter(d => d.sk === "beslut").length;
+    const gr = docs.length ? `${docs.length} dok.${nBes ? `, ${nBes} beslut` : ", inget beslut"}` : '<span class="muted">Inga</span>';
+    return `<tr data-id="${k.id}" aria-selected="${k.id === currentId}"><td class="k"><button type="button" class="rowbtn" aria-label="Visa ${esc(k.k)}">${esc(k.k)}</button></td><td class="muted">${esc(k.l.replace(" län", ""))}</td><td style="white-space:nowrap"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].short)}</td><td class="small">${esc(k.m || "") || '<span class="muted">–</span>'}</td><td class="small">${k.kf ? esc(shortKf(k.kf)) : '<span class="muted">Okänt</span>'}</td><td class="small">${gr}</td><td class="num">${a ? `${a.antal} st` : '<span class="muted">–</span>'}</td></tr>`;
+  }).join("") || '<tr><td colspan="7" class="muted">Inga kommuner matchar filtret.</td></tr>';
 }
 
 /* ---------- Kommunsida ---------- */
@@ -111,6 +136,10 @@ const fact = (t, v, html) => v ? `<dt>${t}</dt><dd>${html ? v : esc(v)}</dd>` : 
 // Delar upp luckorna i punkter vid meningsslut, utan att bryta vid förkortningar som "s. 12" eller "t.ex.".
 function gapList(text) {
   return String(text || "").split(/(?<=[.!?])\s+(?=[A-ZÅÄÖ"(])/).map(s => s.trim()).filter(Boolean);
+}
+// Text inom citattecken visas som ordagrant citat, övrig text som anteckning.
+function quoteHtml(c) {
+  return String(c).split(/("[^"]+"|“[^”]+”|'[^']{12,}')/).map((part, i) => i % 2 ? `<q>${esc(part.replace(/^["“']|["”']$/g, ""))}</q>` : (part.trim() ? `<span class="ann">${esc(part)}</span>` : esc(part))).join("");
 }
 function host(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } }
 function linkify(s) { return esc(s).replace(/(https?:\/\/[^\s)]+[^\s).,;])/g, '<a href="$1" target="_blank" rel="noopener">länk</a>'); }
@@ -125,7 +154,7 @@ function renderDetail(id) {
   const gaps = gapList(k.lu);
   const site = k.w ? `<a href="${esc(k.w)}" target="_blank" rel="noopener">${esc(k.w.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a>` : "";
   const kfText = k.kf ? `${esc(k.kf)}${k.kfu ? ` (<a href="${esc(k.kfu)}" target="_blank" rel="noopener">källa</a>)` : ""}` : "Inte känt. Leta efter kommunfullmäktiges sammanträdesdagar för hösten 2026.";
-  const docs = (k.docs || []).map(d => `<li><b>${esc(d.t || "Dokument")}</b><div class="meta">${[d.d, d.sk, d.pr, d.nr === true ? "nämner reformen" : d.nr === false ? "nämner inte reformen" : ""].filter(Boolean).map(esc).join(", ")}</div>${d.c ? `<blockquote>${esc(d.c)}</blockquote>` : ""}${d.u ? `<a class="doclink" href="${esc(d.u)}" target="_blank" rel="noopener" title="${esc(d.u)}">Öppna dokumentet <span class="muted">(${esc(host(d.u))})</span></a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
+  const docs = (k.docs || []).map(d => `<li><b>${esc(d.t || "Dokument")}</b><div class="meta">${[d.d, d.sk, d.pr, d.nr === true ? "nämner reformen" : d.nr === false ? "nämner inte reformen" : ""].filter(Boolean).map(esc).join(", ")}</div>${d.c ? `<blockquote class="cite">${quoteHtml(d.c)}</blockquote>` : ""}${d.ko ? `<p class="note-ko"><span>Anteckning från granskningen:</span> ${esc(d.ko)}</p>` : ""}${d.u ? `<a class="doclink" href="${esc(d.u)}" target="_blank" rel="noopener" title="${esc(d.u)}">Öppna dokumentet <span class="muted">(${esc(host(d.u))})</span></a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
   const mailto = `mailto:${CFG.mail}?subject=${encodeURIComponent("Lärartiden i budgeten: " + k.k)}`;
   $("#detail").innerHTML = `<article class="detail" aria-labelledby="dh">
     <div class="head"><div><h2 id="dh">${esc(k.k)}</h2><p class="d-lan">${esc(k.l)}</p></div><button class="btn ghost" type="button" id="closeDetail">Stäng</button></div>
@@ -149,11 +178,11 @@ function renderDetail(id) {
         <li>Bra sökord i handlingarna: "budget 2027", "mål och budget", "flerårsplan", "ramar", "undervisningstid", "lärares arbetstid", "statsbidrag". Titta också i barn- och utbildningsnämndens (eller motsvarande nämnds) budgetunderlag.</li>
       </ul>
     </section>
-    <h3>Granskade dokument</h3><ul class="docs">${docs}</ul>
+    <h3>Granskade dokument</h3><p class="small muted cite-key">Text inom citattecken är ordagrann ur dokumentet. Övrig text i grått är anteckningar från granskningen.</p><ul class="docs">${docs}</ul>
     <form class="ratebox" id="ratebox" novalidate>
       <h3 style="margin:14px 0 0">Stämmer det här?</h3>
       <p class="small muted" style="margin:0">Känner du till kommunens budget? Bedöm uppgifterna från 1 (inte alls) till 5 (helt). Bedömningen är anonym.</p>
-      <div class="agg">${a ? `<span>Bedömningar: <b>${a.antal}</b></span><span>Citat och uppgifter: <b>${fmt1(a.snitt_data)}</b></span><span>Rimliga dokument: <b>${fmt1(a.snitt_dok)}</b></span><span>Rimlig slutsats: <b>${fmt1(a.snitt_tolk)}</b></span>` : '<span>Inga bedömningar ännu.</span>'}</div>
+      <div class="agg" id="agg">${aggHtml(id)}</div>
       ${[["data","Stämmer citaten och uppgifterna?"],["dok","Är dokumenten rimliga att granska?"],["tolk","Är slutsatsen (status) rimlig?"]].map(([f, t]) => `<div class="rating-row"><span id="lbl-${f}">${t}</span><div class="scale" role="group" aria-labelledby="lbl-${f}" data-f="${f}">${[1,2,3,4,5].map(n => `<button type="button" aria-pressed="false" data-n="${n}">${n}</button>`).join("")}</div></div>`).join("")}
       <label class="small muted" for="kommentar">Kommentar eller bättre dokument (frivilligt)</label>
       <textarea id="kommentar" rows="3" maxlength="2000" placeholder="Vad stämmer inte? Länka gärna till ett dokument."></textarea>
@@ -167,17 +196,27 @@ function renderDetail(id) {
 }
 
 /* ---------- Bedömningar (Supabase) ---------- */
+let RATINGS_STATE = "loading"; // loading, ok, error, off
+function aggHtml(id) {
+  if (RATINGS_STATE === "off") return "";
+  if (RATINGS_STATE === "loading") return "<span>Hämtar bedömningar…</span>";
+  if (RATINGS_STATE === "error") return "<span>Bedömningarna kunde inte hämtas just nu. Ladda om sidan senare.</span>";
+  const a = RATINGS[id];
+  if (!a) return "<span>Inga bedömningar ännu.</span>";
+  return `<span>Bedömningar: <b>${a.antal}</b></span><span>Citat och uppgifter: <b>${fmt1(a.snitt_data)}</b></span><span>Rimliga dokument: <b>${fmt1(a.snitt_dok)}</b></span><span>Rimlig slutsats: <b>${fmt1(a.snitt_tolk)}</b></span><span class="agg-note">Snitten är en fingervisning. Samma person kan bedöma flera gånger, så de är inte tillförlitliga som omröstning.</span>`;
+}
 const sbHeaders = () => ({ "apikey": CFG.supabaseKey, "Content-Type": "application/json" });
 const sbReady = () => !!(CFG.supabaseUrl && CFG.supabaseKey);
 async function loadRatings() {
-  if (!sbReady()) return;
+  if (!sbReady()) { RATINGS_STATE = "off"; return; }
   try {
     const r = await fetch(`${CFG.supabaseUrl}/rest/v1/bedomningar_snitt?select=kommun,antal,snitt_data,snitt_dok,snitt_tolk`, { headers: sbHeaders() });
-    if (!r.ok) return;
+    if (!r.ok) throw new Error(String(r.status));
     const rows = await r.json(); const m = {};
-    rows.forEach(x => m[x.kommun] = x); RATINGS = m;
-    renderRows(); if (currentId && !document.activeElement?.closest?.("#ratebox")) renderDetail(currentId);
-  } catch (e) { /* bedömningar visas inte om databasen inte svarar */ }
+    rows.forEach(x => m[x.kommun] = x); RATINGS = m; RATINGS_STATE = "ok";
+  } catch (e) { RATINGS_STATE = "error"; }
+  // Bara siffrorna uppdateras, så att ett påbörjat formulär inte töms.
+  renderRows(); const agg = $("#agg"); if (agg && currentId) agg.innerHTML = aggHtml(currentId);
 }
 function wireRating(id) {
   const form = $("#ratebox"); if (!form) return;
@@ -190,19 +229,24 @@ function wireRating(id) {
   if (!sbReady()) { btn.disabled = true; st.textContent = "Bedömningar är inte aktiverade. Mejla gärna i stället."; return; }
   form.addEventListener("submit", async e => {
     e.preventDefault();
-    if ($("#webbplats").value) return;
+    if (form.querySelector("#webbplats").value) return;
     if (!draft.data && !draft.dok && !draft.tolk) { st.textContent = "Välj minst ett betyg mellan 1 och 5."; return; }
     btn.disabled = true; st.textContent = "Skickar…";
-    const body = { kommun: id, data: draft.data || null, dok: draft.dok || null, tolk: draft.tolk || null, kommentar: $("#kommentar").value.trim().slice(0, 2000) || null };
+    const body = { kommun: id, data: draft.data || null, dok: draft.dok || null, tolk: draft.tolk || null, kommentar: form.querySelector("textarea").value.trim().slice(0, 2000) || null };
     try {
       const r = await fetch(`${CFG.supabaseUrl}/rest/v1/bedomningar`, { method: "POST", headers: Object.assign(sbHeaders(), { "Prefer": "return=minimal" }), body: JSON.stringify(body) });
       if (!r.ok) throw new Error(String(r.status));
       const rated = store.get("lt_rated", {}); rated[id] = new Date().toISOString(); store.set("lt_rated", rated);
-      st.textContent = "Tack! Bedömningen är skickad.";
-      form.querySelectorAll(".scale button").forEach(x => x.setAttribute("aria-pressed", "false")); $("#kommentar").value = "";
+      // Formuläret töms bara om det fortfarande är samma kommuns formulär som visas.
+      if (form.isConnected) {
+        st.textContent = "Tack! Bedömningen är skickad.";
+        form.querySelectorAll(".scale button").forEach(x => x.setAttribute("aria-pressed", "false"));
+        form.querySelector("textarea").value = ""; Object.keys(draft).forEach(k => delete draft[k]);
+      } else toast("Bedömningen är skickad.");
       setTimeout(loadRatings, 800);
     } catch (err) {
-      st.textContent = "Bedömningen kunde inte skickas. Försök igen om en stund eller mejla.";
+      if (form.isConnected) st.textContent = "Bedömningen kunde inte skickas. Försök igen om en stund eller mejla.";
+      else toast("Bedömningen kunde inte skickas.");
     }
     btn.disabled = false;
   });
@@ -212,7 +256,7 @@ function wireRating(id) {
 // Reserv om Markdown-biblioteket inte laddas: rubriker, stycken, listor, fet, kursiv, länkar.
 function simpleMd(text) {
   const inline = s => esc(s)
-    .replace(/\[([^\]]+)\]\(((?:https?:|#|[a-z])[^)\s"]*)\)/g, '<a href="$2">$1</a>')
+    .replace(/\[([^\]]+)\]\(((?:https?:\/\/|#|[a-z0-9_./-]+(?:[#?][^)\s"]*)?$)[^)\s"]*)\)/gi, '<a href="$2">$1</a>')
     .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
     .replace(/\*([^*]+)\*/g, "<i>$1</i>");
   return text.split(/\n{2,}/).map(b => {
@@ -225,18 +269,19 @@ function simpleMd(text) {
 }
 
 /* ---------- Analystexter (visas bara när texter/index.json innehåller texter) ---------- */
-let TEXTS = [];
+let TEXTS = [], textReq = 0;
 async function loadTexts() {
   try { const r = await fetch("texter/index.json", { cache: "no-cache" }); TEXTS = await r.json(); } catch (e) { TEXTS = []; }
   $("#tab-analys").hidden = !TEXTS.length;
 }
 async function openText(id) {
   if (!TEXTS.length) return;
-  const t = TEXTS.find(x => x.id === id) || TEXTS[0];
+  const t = TEXTS.find(x => x.id === id) || TEXTS[0], my = ++textReq;
   $("#toc").hidden = TEXTS.length < 2;
   $("#toc").innerHTML = TEXTS.map(x => `<button type="button" data-t="${esc(x.id)}" aria-current="${x.id === t.id}">${esc(x.titel)}</button>`).join("");
   let text = "";
   try { const r = await fetch("texter/" + t.fil, { cache: "no-cache" }); if (!r.ok) throw 0; text = await r.text(); } catch (e) { text = "Texten kunde inte laddas. Ladda om sidan."; }
+  if (my !== textReq) return;
   $("#article").innerHTML = (t.utkast ? '<p class="small muted">Utkast</p>' : "") + md(text);
   extLinks($("#article"));
 }
@@ -244,11 +289,14 @@ $("#toc").addEventListener("click", e => { const b = e.target.closest("button[da
 
 /* ---------- Metod, logg och prompt (filer i mappen metod/) ---------- */
 const METOD = { metod: "metod/metod.md", logg: "metod/logg.md", prompt: "metod/prompt.md", utveckla: "metod/utveckla.md" };
+let metodReq = 0;
 async function openMetod(id) {
   if (!METOD[id]) id = "metod";
+  const my = ++metodReq;
   document.querySelectorAll("#metodnav button").forEach(b => b.setAttribute("aria-current", b.dataset.m === id ? "true" : "false"));
   let text = "";
-  try { const r = await fetch(METOD[id], { cache: "no-cache" }); if (!r.ok) throw 0; text = await r.text(); } catch (e) { $("#metodbody").innerHTML = "<p>Texten kunde inte laddas. Ladda om sidan.</p>"; return; }
+  try { const r = await fetch(METOD[id], { cache: "no-cache" }); if (!r.ok) throw 0; text = await r.text(); } catch (e) { if (my === metodReq) $("#metodbody").innerHTML = "<p>Texten kunde inte laddas. Ladda om sidan.</p>"; return; }
+  if (my !== metodReq) return;
   if (id === "prompt") {
     // Filen består av en inledning, en rad med "---PROMPT---" och sedan själva prompten.
     const [intro, prompt = ""] = text.split(/^---PROMPT---\s*$/m);
@@ -270,9 +318,13 @@ $("#metodnav").addEventListener("click", e => { const b = e.target.closest("butt
 (async function start() {
   try {
     const r = await fetch("data/kommuner.json", { cache: "no-cache" });
+    if (!r.ok) throw new Error(String(r.status));
     DATA = await r.json();
   } catch (e) {
-    $("#rows").innerHTML = '<tr><td colspan="6">Kommundata kunde inte laddas. Ladda om sidan.</td></tr>'; return;
+    const msg = "Kommunuppgifterna kunde inte laddas. Ladda om sidan. Om felet kvarstår, mejla " + (CFG.mail || "ansvarig") + ".";
+    $("#kgrid").outerHTML = `<p class="loaderr" role="alert">${esc(msg)}</p>`;
+    $("#rows").innerHTML = `<tr><td colspan="7">${esc(msg)}</td></tr>`;
+    route(); return;
   }
   byId = Object.fromEntries(DATA.map(k => [k.id, k]));
   setupFilters(); renderOverview(); renderRows();

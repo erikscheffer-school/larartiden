@@ -38,8 +38,8 @@ Den som ansvarar för sidan heter [ditt namn] och nås på [din mejladress]. Skr
 
 - Statisk webbplats i GitHub-repot [ditt-konto/ditt-repo], publicerad med GitHub Pages från grenen main. Lägg en tom fil `.nojekyll` i roten.
 - Ingen byggprocess och inga ramverk. Ren HTML, CSS och JavaScript.
-- Markdown renderas i webbläsaren med `marked@12.0.2` från cdn.jsdelivr.net. Skriv en enkel reservfunktion (rubriker, stycken, listor, fet, kursiv, länkar) om biblioteket inte laddas.
-- Inga webbtypsnitt och inga andra externa anrop än Markdown-biblioteket och Supabase.
+- Markdown renderas i webbläsaren med biblioteket marked och saneras med DOMPurify innan det sätts in på sidan. Lägg båda filerna i repot under `assets/vendor/` med sina licensfiler, i stället för att hämta dem från en CDN. Skriv en enkel reservfunktion (rubriker, stycken, listor, fet, kursiv, länkar) om biblioteket inte laddas, och tillåt bara länkar som börjar med https://, http://, mailto: eller #.
+- Inga webbtypsnitt och inga andra externa anrop än Supabase.
 - Besökarnas bedömningar sparas i Supabase (se Databas nedan). Sidan ska fungera även om databasen inte svarar.
 
 Filer:
@@ -58,6 +58,7 @@ Filer:
 | `metod/prompt.md` | Den här prompten, med en kort inledning, sedan en rad med bara `---PROMPT---`, sedan prompten |
 | `metod/utveckla.md` | Förslag på hur prompten kan utvecklas |
 | `supabase/schema.sql` | Databasskriptet nedan |
+| `verktyg/kontrollera.py` | Skript som körs före varje publicering. Det ska kontrollera att alla 290 kommuner finns, att varje id är unikt, att `kort` bara finns för status 0–2, att citatfält innehåller citattecken, och varna när en status inte följer reglerna under Status |
 | `README.md` | Filförteckning, fältförklaring och hur man uppdaterar |
 | `arbete/INSTRUKTIONER.md` | Kort arbetsinstruktion för nästa granskningsomgång |
 | `arbete/att_granska.json` | Kommuner som behöver granskas igen, med anteckningar om vad som saknas |
@@ -66,18 +67,18 @@ Filer:
 
 `data/kommuner.json` är en lista med en post per kommun, alla 290. Fält:
 
-- `k` kommunnamn, `id` adressnamn (gemener, å och ä blir a, ö blir o, mellanslag blir bindestreck), `l` län
+- `k` kommunnamn, `id` adressnamn (gemener, å och ä blir a, ö blir o, mellanslag blir bindestreck), `l` län. Varje id måste vara unikt. Habo och Håbo blir annars samma, så Håbo får `haabo`
 - `s` status 0–5 (se Status)
 - `sum` sammanfattning i två till fyra meningar
 - `m` pengar uttryckligen kopplade till reformen: belopp, år, mottagande nämnd och om det är beslutat eller föreslaget
 - `mk` kommunens egen beräknade merkostnad, med källa
-- `kort` en mycket kort beloppsrad för startsidan, högst cirka 60 tecken, bara för status 0–2. Exempel: "2,1 mnkr 2027 och 4,2 mnkr per år från 2028." Om beloppet är oklart, säg det kort: "Beloppet för 2027 anges inte."
+- `kort` en mycket kort beloppsrad för startsidan, högst cirka 60 tecken, bara för status 0–2. Exempel: "2,1 mnkr 2027 och 4,2 mnkr per år från 2028." Säg aldrig mer än källan. Om det är oklart om ett senare belopp är ett tillskott eller den totala nivån, skriv "ytterligare" bara om källan säger det, annars "oklart om tillskott eller total nivå".
 - `sb` hur kommunen beskriver statsbidraget
 - `pl` om prislista eller samverkan, till exempel gymnasiets regionala prislistor
 - `kf` när fullmäktige beslutar eller beslutade budget 2027, med paragraf och om det är beslutat eller planerat. `kfu` länk till källan
 - `w` kommunens webbplats
 - `lu` luckor i granskningen, i hela meningar: vad som inte hittats, inte kunnat öppnas eller inte kunnat kontrolleras
-- `docs` lista över granskade dokument. Varje dokument: `t` titel, `d` datum (ÅÅÅÅ-MM-DD), `sk` skede ("underlag/förslag" eller "beslut"), `pr` producent ("tjänstemannaproducerat" eller "politiskt producerat"), `nr` om dokumentet nämner reformen (true eller false), `c` kort ordagrant citat med sidnummer, `u` länk
+- `docs` lista över granskade dokument. Varje dokument: `t` titel, `d` datum (ÅÅÅÅ-MM-DD), `sk` skede ("underlag/förslag" eller "beslut"), `pr` producent ("tjänstemannaproducerat" eller "politiskt producerat"), `nr` om dokumentet nämner reformen (true eller false), `c` kort ordagrant citat med sidnummer, alltid inom citattecken, `ko` egna anteckningar om dokumentet (det som inte är citat), `u` länk direkt till dokumentet, inte till en möteslista. Producent kan också vara "nyhetsartikel (tredje part)", och då räknas dokumentet aldrig som beslut
 
 Okända fält sätts till null. Validera alltid att filen är giltig JSON och innehåller 290 poster innan du publicerar.
 
@@ -92,7 +93,17 @@ Okända fält sätts till null. Validera alltid att filen är giltig JSON och in
 | 4 | Ej nämnt i granskade dokument | Ej nämnt | Budgethandlingar för 2027 har granskats men reformen nämns inte |
 | 5 | Inga budgethandlingar 2027 hittade | Ej bedömbart än | Inga budgethandlingar för 2027 kunde hittas eller öppnas. Säger inget om vad kommunen gjort |
 
-Se upp: pengar till "utökad undervisningstid" för elever är en annan sak än reglerad undervisningstid för lärare. Läs alltid sammanhanget. Om pengarna delas med andra satsningar, skriv det.
+Sätt statusen efter fasta regler, inte efter fri tolkning, så att samma underlag ger samma status i alla kommuner:
+
+- En **budgethandling för 2027** är planeringsförutsättningar, budgetdirektiv, budgetramar, nämndernas budgetunderlag och äskanden, budgetförslag från förvaltning, majoritet eller opposition och beslut om budget 2027. Remissvar, årsredovisningar, budgetar för 2026 med plan för 2027, kallelser utan underlag, tidplaner och nyhetsartiklar räknas inte.
+- **0** kräver ett granskat beslutsdokument, ett belopp för 2027 och att beloppet uttryckligen kopplas till reformen. Saknas något av det blir det 1 eller 3.
+- **1** kräver ett belopp kopplat till reformen i ett förslag, eller ett beslut som inte är granskat i protokoll.
+- **2** kräver kommunens egen beräkning av kostnad eller lärarbehov. Det förväntade statsbidraget är ingen kostnadsberäkning.
+- **3** kräver att reformen nämns i en budgethandling för 2027.
+- **4** kräver att minst en budgethandling för 2027 med ramar, belopp eller förslag har lästs.
+- Annars **5**.
+
+Vanliga misstag att undvika: att blanda ihop tillskott och total nivå, förslag och beslut, eller "nämnt någon gång" och "nämnt i budget 2027". Pengar till "utökad undervisningstid" för elever är en annan reform än reglerad undervisningstid för lärare. Läs alltid sammanhanget, och om det inte går att avgöra, skriv det under luckor. Om pengarna delas med andra satsningar, skriv det.
 
 # Granskning av en kommun
 
@@ -100,12 +111,12 @@ Se upp: pengar till "utökad undervisningstid" för elever är en annan sak än 
 2. Leta efter budgethandlingar för 2027: planeringsförutsättningar, budgetdirektiv, nämndernas budgetunderlag, budgetförslag från majoritet och opposition, kallelser och protokoll. Leta också efter kommunens remissvar på SOU 2025:26.
 3. Ta reda på när kommunstyrelsen och fullmäktige behandlar budget 2027.
 4. Ladda ner PDF-filerna och sök i texten efter: undervisningstid, undervisningsuppdrag, lärares arbetstid, reglerad undervisningstid, planeringstid, statsbidrag. Läs varje träff i sitt sammanhang. Är en PDF inskannad utan text, skriv det under luckor.
-5. Fyll i fälten och sätt status. Skriv luckorna ärligt. Lägg till kommunens webbplats.
+5. Fyll i fälten och sätt status enligt reglerna ovan. Skriv luckorna ärligt. Lägg till kommunens webbplats.
 6. Kommuner med status 5 läggs i `arbete/att_granska.json` med anteckningar om vad som saknas och när budgeten väntas beslutas.
 
 # Sidans delar
 
-Sidan har flikar högst upp. Varje flik och varje kommun ska gå att länka till med en adress efter #: `#oversikt`, `#kommuner`, `#kommun-<id>`, `#metod-metod`, `#metod-logg`, `#metod-prompt`, `#metod-utveckla`, `#kontakt`.
+Sidan har flikar högst upp. Använd `history.pushState` vid byte av flik och kommun, så att bakåtknappen fungerar, och se till att ett äldre svar inte skriver över ett nyare när någon klickar snabbt. Om datan inte laddar ska felet synas på startsidan. Varje flik och varje kommun ska gå att länka till med en adress efter #: `#oversikt`, `#kommuner`, `#kommun-<id>`, `#metod-metod`, `#metod-logg`, `#metod-prompt`, `#metod-utveckla`, `#kontakt`.
 
 **1. Översikt**
 - Rubriken "Följer pengarna med till skolan?" och en kort inledning om reformen och statsbidraget.
@@ -116,15 +127,15 @@ Sidan har flikar högst upp. Varje flik och varje kommun ska gå att länka till
 
 **2. Kommuner**
 - Sökfält, filter på län och kryssrutor för status.
-- Sorterbar tabell: kommun, län, status, pengar kopplade till reformen, budgetbeslut 2027, antal bedömningar.
+- Sorterbar tabell: kommun, län, status, pengar kopplade till reformen, budgetbeslut 2027, antal granskade dokument och hur många av dem som är beslut, antal bedömningar. Kommunnamnen och sorteringsrubrikerna ska vara knappar, så att tabellen går att använda med tangentbord. Sortera namn med svensk alfabetisk ordning (`localeCompare` med "sv").
 - Klick på en rad öppnar kommunens sida ovanför tabellen, med:
   - namn, län och status
   - sammanfattning
   - uppgifter: pengar kopplade till reformen, egen beräknad merkostnad, om statsbidraget, om prislista eller samverkan, fullmäktiges budgetbeslut med källa
   - rutan "Luckor i granskningen", markerad med gul bakgrund som en överstrykningspenna, med luckorna som punktlista (dela fältet `lu` vid meningsslut utan att bryta vid förkortningar som "s. 12" eller "t.ex.")
   - avsnittet "Var du kan fortsätta leta": länk till kommunens webbplats, att politiska handlingar oftast finns under rubriker som "Kommun och politik", "Politik och demokrati" eller "Möten, handlingar och protokoll", när budgeten beslutas om det är känt, att budgeten oftast först behandlas i kommunstyrelsen som föreslår beslut till fullmäktige, att det nyvalda fullmäktige under valår fastställer budgeten, ofta i november eller december, samt bra sökord
-  - granskade dokument med titel, datum, skede, producent, om reformen nämns, citat och en länk "Öppna dokumentet" följt av webbplatsens namn
-  - ett formulär "Stämmer det här?" där besökaren bedömer tre frågor från 1 (inte alls) till 5 (helt): Stämmer citaten och uppgifterna? Är dokumenten rimliga att granska? Är slutsatsen (status) rimlig? Plus en frivillig kommentar. Visa antal bedömningar och snitt om det finns. Lägg ett dolt honungsfält mot spam och kom ihåg i webbläsarens localStorage att besökaren redan bedömt kommunen.
+  - granskade dokument med titel, datum, skede, producent, om reformen nämns, citat, anteckningar och en länk "Öppna dokumentet" följt av webbplatsens namn. Visa ordagranna citat och anteckningar så att läsaren ser skillnad på dem
+  - ett formulär "Stämmer det här?" där besökaren bedömer tre frågor från 1 (inte alls) till 5 (helt): Stämmer citaten och uppgifterna? Är dokumenten rimliga att granska? Är slutsatsen (status) rimlig? Plus en frivillig kommentar. Visa antal bedömningar och snitt om det finns, med en mening om att snitten är en fingervisning eftersom samma person kan bedöma flera gånger. Visa ett eget meddelande om databasen inte svarar, skilt från "Inga bedömningar ännu". Lägg ett dolt honungsfält mot spam och kom ihåg i webbläsarens localStorage att besökaren redan bedömt kommunen. Töm aldrig ett formulär som besökaren håller på att fylla i när siffrorna uppdateras.
   - mejladress för synpunkter
 
 **3. Analys**
@@ -192,14 +203,16 @@ create or replace view public.bedomningar_snitt as
 grant select on public.bedomningar_snitt to anon, authenticated;
 ```
 
-Besökare får alltså bara lägga till bedömningar och läsa snitten, aldrig läsa enskilda rader eller kommentarer. Lägg den publika nyckeln (publishable key, börjar med `sb_publishable_`) i `assets/config.js`. Lägg aldrig den hemliga nyckeln i repot.
+Besökare får alltså bara lägga till bedömningar och läsa snitten, aldrig läsa enskilda rader eller kommentarer. Lägg den publika nyckeln (publishable key, börjar med `sb_publishable_`) i `assets/config.js`. Lägg aldrig den hemliga nyckeln i repot, inte ens tillfälligt, eftersom allt som en gång sparats finns kvar i historiken.
+
+Be ansvarig att i Supabase stänga av att nya användare kan registrera sig (Authentication, Sign In / Providers, "Allow new users to sign up"), eftersom sidan inte använder inloggning, och att slå på tvåfaktorsinloggning på GitHub och Supabase.
 
 Webbsidan skickar en bedömning med POST till `/rest/v1/bedomningar` och läser snitten med GET från `/rest/v1/bedomningar_snitt`, med nyckeln i rubriken `apikey`.
 
 # Arbetsgång
 
 1. Bygg sidan med alla 290 kommuner i status 5 och tomma fält. Testa lokalt med `python3 -m http.server`, både på datorbredd och mobilbredd och i mörkt läge. Publicera.
-2. Granska kommunerna i omgångar om cirka tio. Börja med de största kommunerna och kommuner som beslutade budget i juni. Validera JSON, publicera efter varje omgång och berätta kort vilka kommuner som ändrades och hur.
+2. Granska kommunerna i omgångar om cirka tio. Börja med de största kommunerna och kommuner som beslutade budget i juni. Kör `python3 verktyg/kontrollera.py` och rätta alla fel, publicera efter varje omgång och berätta kort vilka kommuner som ändrades och hur.
 3. Testa på den publicerade sidan att en bedömning går att skicka. Skicka bara en testbedömning och säg till så att den kan raderas.
 4. Uppdatera datumet i `assets/config.js` när du publicerar nya uppgifter.
 5. När en omgång är klar, uppdatera `arbete/att_granska.json` och `arbete/INSTRUKTIONER.md` så att nästa omgång kan börja där du slutade.
