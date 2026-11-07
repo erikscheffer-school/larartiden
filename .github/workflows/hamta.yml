@@ -65,7 +65,7 @@ jobs:
       - name: 1. Sök
         env:
           # Nyckeln läses bara som miljövariabel och skrivs aldrig ut.
-          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY || secrets.BRAVE_SEARCH_API_KEY || secrets.BRAVE_SEARCH_API || secrets.BRAVE_API || secrets.BRAVE_KEY || secrets.BRAVE_TOKEN || secrets.BRAVE_SEARCH_KEY || secrets.BRAVE_SEARCH_TOKEN || secrets.BRAVE_API_TOKEN || secrets.BRAVE || secrets.BRAVE_SEARCH || secrets.BRAVE_SUBSCRIPTION_TOKEN || secrets.BRAVE_SEARCH_API_TOKEN || secrets.SEARCH_API_KEY || secrets.BRAVE_APIKEY || secrets.BRAVESEARCH_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
           MAX_SOK: ${{ steps.inst.outputs.max_sok }}
         run: python3 verktyg/hamta/sok.py
 

@@ -87,7 +87,7 @@ def main():
 
     nyckel = os.environ.get("BRAVE_API_KEY", "").strip()
     if not nyckel:
-        raise SystemExit("BRAVE_API_KEY saknas. Lägg nyckeln som repo secret med det namnet.")
+        raise SystemExit("BRAVE_API_KEY saknas. Lägg nyckeln under Settings → Secrets and variables → Actions → Repository secrets med namnet BRAVE_API_KEY.")
 
     data = kommuner()
     tillst = las_json(TILLSTAND, {"kommuner": {}, "dokument": {}})
