@@ -134,6 +134,23 @@ def omanalysera():
     print(f"Klart: {n} PDF:er analyserade om.")
 
 
+def rang(t):
+    """Lägre är bättre: budget 2027 i titel eller beskrivning först, sedan PDF:er."""
+    text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {t['url']}".lower()
+    budget = bool(re.search(r"budget|ramar|mål och|resursplan|flerårsplan|verksamhetsplan|kommunplan|mrp|evp|direktiv", text))
+    return (not ("2027" in text and budget), not budget, not REFORM_I_TEXT.search(text),
+            not t["url"].lower().split("?")[0].endswith(".pdf"))
+
+
+REFORM_I_TEXT = re.compile(r"undervisningstid|undervisningsuppdrag|lärares arbetstid", re.I)
+PER_KOMMUN = 6
+
+
+def redan_klar(post):
+    """Hämtade dokument och sidor som robots.txt stänger hämtas inte igen. Tillfälliga fel försöks igen."""
+    return bool(post) and ("sha256" in post or "robots" in post.get("fel", ""))
+
+
 def ska_hamtas(t):
     u = t["url"].lower()
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
@@ -142,8 +159,8 @@ def ska_hamtas(t):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max-dokument", type=int, default=int(os.environ.get("MAX_DOKUMENT") or 150))
-    ap.add_argument("--max-minuter", type=float, default=35)
+    ap.add_argument("--max-dokument", type=int, default=int(os.environ.get("MAX_DOKUMENT") or 450))
+    ap.add_argument("--max-minuter", type=float, default=70)
     ap.add_argument("--omanalysera", action="store_true",
                     help="hämta inget nytt, analysera om de PDF:er som redan finns i .cache/pdf")
     a = ap.parse_args()
@@ -158,16 +175,28 @@ def main():
     h = Hamtare()
     start, antal, nya_totalt = time.time(), 0, 0
 
+    # Välj högst PER_KOMMUN nya träffar per kommun och hämta dem turvis, så att taket
+    # på antal dokument inte går åt på de första kommunerna.
+    koer = {}
     for kid, post in sok["kommuner"].items():
-        fil = DOKUMENT / f"{kid}.json"
-        poster = {p["url"]: p for p in las_json(fil, [])}
-        andrad = False
-        for t in post["traffar"]:
-            nu = normalisera_url(t["url"])
-            if nu in kanda.get(kid, set()) or nu in sedda or not ska_hamtas(t):
+        nya = [t for t in post["traffar"]
+               if normalisera_url(t["url"]) not in kanda.get(kid, set())
+               and not redan_klar(sedda.get(normalisera_url(t["url"]))) and ska_hamtas(t)]
+        koer[kid] = sorted(nya, key=rang)[:PER_KOMMUN]
+    poster = {kid: {p["url"]: p for p in las_json(DOKUMENT / f"{kid}.json", [])} for kid in koer}
+    andrade = set()
+    stopp = False
+    for omgang in range(PER_KOMMUN):
+        for kid, ko in koer.items():
+            if omgang >= len(ko):
                 continue
             if antal >= a.max_dokument or (time.time() - start) / 60 > a.max_minuter:
+                stopp = True
                 break
+            t, namn = ko[omgang], sok["kommuner"][kid]["kommun"]
+            nu = normalisera_url(t["url"])
+            if redan_klar(sedda.get(nu)):
+                continue
             if not h.tillats(t["url"]):
                 sedda[nu] = {"kommun": kid, "datum": idag(), "fel": "robots.txt tillåter inte"}
                 continue
@@ -176,7 +205,7 @@ def main():
                 data, typ, slut = h.hamta(t["url"])
             except Exception as e:
                 sedda[nu] = {"kommun": kid, "datum": idag(), "fel": f"{type(e).__name__}: {str(e)[:80]}"}
-                print(f"  {post['kommun']}: kunde inte hämta ({type(e).__name__})", flush=True)
+                print(f"  {namn}: kunde inte hämta ({type(e).__name__})", flush=True)
                 continue
             sha = hashlib.sha256(data).hexdigest()
             ar_pdf = data[:5] == b"%PDF-"
@@ -191,17 +220,21 @@ def main():
             res = analysera(sidor, t.get("titel") or "")
             if ar_pdf and not "".join(sidor).strip():
                 res["anmärkning"] = "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
-            poster[t["url"]] = {
+            poster[kid][t["url"]] = {
                 "url": t["url"], "titel": t.get("titel"), "typ": "pdf" if ar_pdf else "html",
                 "hämtad": idag(), "sha256": sha, "sökning": t.get("sokning"), **res,
             }
             sedda[nu] = {"kommun": kid, "datum": idag(), "sha256": sha}
-            andrad, nya_totalt = True, nya_totalt + 1
-            print(f"  {post['kommun']}: {'PDF' if ar_pdf else 'webbsida'}, "
+            andrade.add(kid)
+            nya_totalt += 1
+            print(f"  {namn}: {'PDF' if ar_pdf else 'webbsida'}, "
                   f"budget 2027: {'ja' if res['budget2027'] else 'nej'}, "
                   f"reformord: {', '.join(res['ord']) or 'inga'}", flush=True)
-        if andrad:
-            skriv_json(fil, sorted(poster.values(), key=lambda p: p["hämtad"], reverse=True))
+        if stopp:
+            break
+    for kid in andrade:
+        skriv_json(DOKUMENT / f"{kid}.json",
+                   sorted(poster[kid].values(), key=lambda p: p["hämtad"], reverse=True))
 
     skriv_json(TILLSTAND, tillst)
     print(f"Klart: {antal} hämtningar, {nya_totalt} nya dokument analyserade.")

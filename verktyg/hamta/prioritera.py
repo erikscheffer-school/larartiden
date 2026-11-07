@@ -26,8 +26,10 @@ import sys
 from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(__file__))
-from gemensamt import (DOKUMENT, SOKRESULTAT, VECKOLISTA, kommuner, kommunhandling,  # noqa: E402
-                       las_json, skriv_json)
+from gemensamt import (DOKUMENT, HAMTNING, SOKRESULTAT, VECKOLISTA, kanda_urler, kommuner,  # noqa: E402
+                       kommunhandling, las_json, normalisera_url, skriv_json)
+
+GRANSKADE = HAMTNING / "granskade.json"  # dokument som redan granskats för hand, per kommun
 
 STATUS = ["Pengar beslutade", "Pengar föreslagna", "Kostnad beräknad",
           "Nämnt utan belopp", "Ej nämnt", "Ej bedömbart än"]
@@ -88,10 +90,13 @@ def main():
     sok = las_json(SOKRESULTAT, {"kommuner": {}, "datum": date.today().isoformat()})
     korning = date.fromisoformat(sok["datum"])
     data = {k["id"]: k for k in kommuner()}
+    kanda = kanda_urler(list(data.values()))
+    granskade = {kid: {normalisera_url(u) for u in urler} for kid, urler in las_json(GRANSKADE, {}).items()}
     kandidater = []
     for kid, k in data.items():
         alla = las_json(DOKUMENT / f"{kid}.json", [])
-        nya = [d for d in alla if d["hämtad"] == sok["datum"]]
+        nya = [d for d in alla if d["hämtad"] == sok["datum"]
+               and normalisera_url(d["url"]) not in kanda.get(kid, set()) | granskade.get(kid, set())]
         poang, skal = bedom(k, nya, korning)
         if poang:
             kandidater.append({"id": kid, "kommun": k["k"], "lan": k["l"], "status": k["s"],

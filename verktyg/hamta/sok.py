@@ -96,7 +96,9 @@ def main():
                                           STATUSORDNING[k["s"]], k["k"]))
     freshness = f"{a.fran}to{idag()}"
     brave = Brave(nyckel)
-    resultat = {"datum": idag(), "kommuner": {}}
+    resultat = las_json(SOKRESULTAT, {})
+    if resultat.get("datum") != idag():  # en ny vecka börjar med tomt resultat
+        resultat = {"datum": idag(), "kommuner": {}}
 
     # Sökning 1: kommunens egen webbplats. Sökning 2 (status 3–5): reformorden på hela webben.
     for k in ordning:
@@ -122,7 +124,7 @@ def main():
 
     skriv_json(SOKRESULTAT, resultat)
     skriv_json(TILLSTAND, tillst)
-    print(f"Klart: {brave.antal} sökningar, {len(resultat['kommuner'])} kommuner.")
+    print(f"Klart: {brave.antal} sökningar. Resultat finns för {len(resultat['kommuner'])} kommuner i dag.")
 
 
 if __name__ == "__main__":
