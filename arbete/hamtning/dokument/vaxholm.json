@@ -144,5 +144,74 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.37100a8191e198cab636ff7/1726471060172/Budgetf%C3%B6rslag%20(MP)%20till%20KF%202024-09-16.pdf",
+  "titel": "Budgetförslag (MP) till KF 2024-09-16.pdf\nPdf, 321.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b1e6eb8ee534ba4cbe4f307a3b9893831e64906dae1d084a88e2861027041ddb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": " Ge BUN uppdrag att utreda vilket grundbelopp som behövs för att kunna bibehålla en skola med hög kvalitet, goda skolresultat och hög lärartäthet, efter att hänsyn tagits till lokalförsörjningsplanen  Ge BUN uppdrag att utreda hur Rindö skola kan få en ekonomi i balans  Satsa på per",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.37100a8191e198cab637b32/1726475526402/Uppdaterat%20budgetf%C3%B6rslag%20(C)%20till%20KF%202024-09-16.pdf",
+  "titel": "Uppdaterat budgetförslag (C) till KF 2024-09-16.pdf\nPdf, 390.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a7eee93c09e39650ff56e79f04f669e49d0e0ddf87010496ffd17fd566594bbc",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kolresultat och hur ett minskat barnantal i verksamheter ska mötas på ett kontrollerat politiskt genomtänkt sätt utan stora skolklasser och lägre lärartäthet. 2(7)",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.51a2292e1900c66f38537ba3/1718604986912/Budgetf%C3%B6rslag%20%20LVD%20%20till%20KF%202024-06-17.pdf",
+  "titel": "Budgetförslag LVD till KF 2024-06-17.pdf\nPdf, 298.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b558dc681801c6c9485eb6758a7b676341054952993479a0a909d82ceb7f7789",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kningen är enig: Både i skolan och äldreomsorgen är det relationerna mellan personal och elever respektive äldre som utgör kärnan i kvalitén på verksamheten. Lärartätheten kan vi alltså inte tulla på. Riktmärket bör följa vetenskap och beprövad erfarenhet. I förskolan innebär det barngrupper på max 12 per pedagog för barn u",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

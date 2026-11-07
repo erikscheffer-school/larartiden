@@ -164,5 +164,82 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/33edvfox/barn-och-utbildningsutskottets-protokoll-20260525-37-41-46-direktjusterat-protokollsigneradpub-1.pdf",
+  "titel": "BU 2026-05-25 Direktjusterat §§ 37, 41-46",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "13d4d55e33978bb3a7be1f5bcf5479ad1e8d95e98513eb9925b7a872a8b22ddd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/22ygtrr0/barn-och-utbildningsutskottets-protokoll-2026-03-09-14-27signeradpub-1.pdf",
+  "titel": "BU 2026-03-09 §§ 14-27 Skapad: 2026-03-16 Filtyp: pdf (1,21 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6bdcba4ffde5c7563d9ce82c5ed4190d1757cd1f94c940dfd88007de4bdd1922",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "förlagts till 1 040 minuter i enlighet med kommunens nuvarande riktmärke. Förändringen innebär en mer likvärdig fördelning av undervisningsuppdraget och har möjliggjort en ökad andel undervisning av behöriga lärare. I årskurs F–3 organiseras undervisningen så att klasslär",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Förslaget innebär en översyn av icke pedagogisk personal samt visstidsanställningar. Genom en personalöversyn har undervisningstiden för samtliga lärare justerats till 1 040 minuter, vilket är kommunens nuvarande riktmärke för undervisningstid. Detta har ö",
+    "belopp_nara": false
+   },
+   {
+    "sida": 22,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "lagstiftning. Skolledningen har upprättat förslag till läsårsplan som uppfyller skollagens krav på minsta antal skoldagar och undervisningstid. Beslut krävs för att möjliggöra långsiktig planering för elever, vårdnadshavare och personal. Förslag till",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.overkalix.se/media/vbijzjtg/barn-och-utbildningsutskottets-protokoll-20260121-1-13signeradpub-2.pdf",
+  "titel": "BU 2026-01-21 §§ 1-13 Skapad: 2026-01-26 Filtyp: pdf (1,12 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5ba32bddb8ae3c8dce28759b13e65b3c06e0408cfc0e6e8fa712c21e7463ccb5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "För att säkerställa att vi fokuserar på rätt saker utifrån våra styrdokument. Två av fritidshemmets personal har en gemensam planeringstid för att arbeta med att planera, genomföra och utvärdera ovanstående punkt och har bitr. rektor och Tf rektor som stöd i detta",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

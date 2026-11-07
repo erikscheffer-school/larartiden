@@ -458,5 +458,102 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.70d1f82819d70e1e38c1396/1776773538497/Omedelbart%20justerat%20protokoll%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-04-21%20-%20%C2%A7%C2%A7%2035-36.pdf",
+  "titel": "Omedelbart justerat protokoll - Barn- och utbildningsnämnden 2026-04-21 - §§ 35-36.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "994e9541d72c484c4eb4ca73c6b556047fcea6225947531e88f62768562e2c79",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.582b050219c0f3580a61aeb5/1773407535698/Protokoll%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-03-10.pdf",
+  "titel": "Protokoll - Barn- och utbildningsnämnden 2026-03-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9521ae95581ba6ee1ff3c83e766080e6d37bd3979dc51fd727ed1741e9fcfdb3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "E), som hade ett underskott på 9 miljoner kronor och återbetalning av statsbidraget för akutskolor på 3 miljoner kronor. Under personalredovisningen re",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.582b050219c0f3580a694e/1770295588897/Protokoll%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-01-27.pdf",
+  "titel": "Protokoll - Barn- och utbildningsnämnden 2026-01-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6a272ec21d078a8f478e19c43a4683fdc3d1caaaa504ccf816817e44768d7434",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa292ef/1792414734642/Kallelse%20och%20handlingar%20-%20Kommunfullm%C3%A4ktige%20%202026-10-26.pdf",
+  "titel": "Kallelse och handlingar - Kommunfullmäktige 2026-10-26.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3296f05c0836cbea57693d0657e8998b658c6e10a9d16fea364650cd9bc8f074",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 477,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 81,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ett överskott om cirka 3,6 miljoner kronor. budgetavvikelse om 1,8 miljoner kronor för helåret. Överskottet förklaras främst av statsbidrag för Den positiva avvikelsen förklaras främst av avsatta skolsociala team och personalförstärkningar som budgetmedel för anpass",
+    "belopp_nara": true
+   },
+   {
+    "sida": 43,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "er i fullt utbyggd verksamhet, som beräknas tidsbegränsad sfi och förändrade villkor för vara i drift från höstterminen 2029. Barn- och statsbidrag till yrkesutbildningar. utbildningsnämnden har lämnat ett remissvar där ansöka",
+    "belopp_nara": false
+   },
+   {
+    "sida": 47,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ostnader kopplade till förlikningsavtalet med Skanska efter avbeställningen av Platåskolan. Intäkterna har utvecklats positivt genom ökade statsbidrag och extern medfinansiering, medan kostnadsutvecklingen präglats av ökade personalkostnader och nämnda engångsposter, delvis motverkade av",
+    "belopp_nara": false
+   },
+   {
+    "sida": 68,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ende utrangering av Åsleskolan samt Samtidigt visar flera nämnder fortsatt god eventuell kommande avstättning i samband med budgetföljsamhet genom statsbidrag, medfinansieringsavtal med Trafikverket. anpassningar av verksamhet och ett aktivt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

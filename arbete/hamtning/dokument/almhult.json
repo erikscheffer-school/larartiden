@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.almhult.se/download/18.22f2d56719ed45276093a228/1782130135569/Utbildningsn%C3%A4mndens%20sammantr%C3%A4desprotokoll%202026-06-17.pdf",
+  "titel": "Sammanträdesprotokoll 2026-06-17 Utbildningsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e632b3acb222f9848b9b38a7a7d557daeffb83eabc561126af5ccd96659d1cc5",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.almhult.se/download/18.4e55f00c19afcd92d283a8fd/1765542387778/Budget%202026%20med%20plan%202027-2028.pdf",
+  "titel": "Budget 2026 med plan 2027-2028.pdf Pdf, 5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8557f6848dcb2faf1514d572d996ee15f1305a44aba9b1a6a3a1e7b149de729c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 166,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.almhult.se/download/18.2eac78ea193953fe280913dc/1734354819007/Budget%202025%20plan%202026-2027%20med%20bilagor.pdf",
+  "titel": "Budget 2025 plan 2026-2027 med bilagor.pdf Pdf, 5.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9a4a27fa74c76ead6ff09f2a6cf93ad6e4a20392e9e6864facdc9b5fef54be21",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 174,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

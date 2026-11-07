@@ -243,5 +243,73 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.13f9210c19c496a3e1b3f0/1770978122369/Kommunfullm%C3%A4ktiges%20protokoll%202026-02-09,%20%C2%A7%201-22.pdf",
+  "titel": "Kommunfullmäktiges protokoll 2026-02-09, § 1-22.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8145a3a4414d4309410b0d78345dec27447411dce4eece45b1650e09b8063722",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.4371a3de19cf9e0080e269c/1776352199562/Kommunfullm%C3%A4ktiges%20protokoll%202026-04-13,%20%C2%A7%2047-56.pdf",
+  "titel": "Kommunfullmäktiges protokoll 2026-04-13, § 47-56.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "da6f3a24dba7e2c5a2b29989222db2532c4d6754cc01ea6acbe90c9ad039e180",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.14f9db7f19e4c5a723a1b0c/1780042069561/Kommunfullm%C3%A4ktiges%20protokoll%202026-05-25,%20%C2%A7%2057-78.pdf",
+  "titel": "Kommunfullmäktiges protokoll 2026-05-25, § 57-78.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "98a287bd1cf525b3e7b268f35e5dcfaae71812ecf01a1150a432c396dd4a79e0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.14f9db7f19e4c5a723a4afe/1781689357220/Kommunfullm%C3%A4ktiges%20protokoll%202026-06-15,%20%C2%A7%2079-91.pdf",
+  "titel": "Kommunfullmäktiges protokoll 2026-06-15, § 79-91.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e6a1bd961562e570d6cccf5010872f096d16148a67ab1bbf0e79699c92192475",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Varje år beslutar kommunfullmäktige om barn- och utbildningsnämndens taxor. För att kommunen ska vara berättigad till statsbidrag enligt förordning (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet (m",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

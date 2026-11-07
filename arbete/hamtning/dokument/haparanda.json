@@ -119,5 +119,88 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf49/1734685194724/Protokoll%20BUN%202023-09-06.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-09-06\npdf, 397.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2f235fdd47a56fe5b86c1a86d806dca29392d5803bf573d5c2edec3569965c81",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "der perioden gör en tillfällig uppgång på grund av ferielöner • Det under perioden har tillkommit statsbidrag för akutskola • Kost- och lokalvård gör ett bättre resultat än förväntat på grund av låg närvaro",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "tagare, kvalitet i undervisning och kontakter med hemmet samt hur undervisning i kulturskolan påverkar garanterad undervisningstid i övriga ämnen. Mirja Tapio, rektor för Kulturskolan, informerar om de aktiviteter och den verksamhet som bedriv",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf4b/1734685206471/Protokoll%20BUN%202023-10-11.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-10-11\npdf, 498.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c8f8bf6eaa1edc74001e2ce708308c9988ba40ba085671e76ccbc94c0ccdee3b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ilt stöd kan organiseras genom skolans nuvarande resurser. Barn- och ungdomsförvaltning har ansökt och beviljats statsbidrag till akutskolor för särskilt stöd i två resursgrupper, så kallade studios, varav en studio är i gång och en är un",
+    "belopp_nara": false
+   },
+   {
+    "sida": 14,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "är lämpliga utifrån äldreboendens dagsrutiner, pedagogernas undervisningsfria tid, elevernas rätt till garanterad undervisningstid och logistik för elever från olika grupper och skolor. Flera aktiviteter har genomförts under första halvåret 2023",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf4d/1734685216953/Protokoll%20BUN%202023-11-08.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-11-08\npdf, 466.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "adf16fb14d38a0d882c73ad604171febcc3c8f5332526a3707bf450c10640ef5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ostnader. Inflationsdrivna kostnader har under året stigit och kommer att öka även under resterande månader. Nya statsbidrag har medfört möjlighet att omstrukturera resursbehoven. Förvaltningen har ett fortsatt fokus på att följa upp effekten av de gjorda",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

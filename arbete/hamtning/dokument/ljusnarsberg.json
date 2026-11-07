@@ -201,5 +201,94 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.c83f53a1a162f13b8f55a4/1793110386191/Protokoll%20Fullm%C3%A4ktige%20den%2022%20oktober%202026.pdf",
+  "titel": "Protokoll Fullmäktige den 22 oktober 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b8e38b537bd954cda17cb9c7425f6732217ff37542dac80e53eb6afd222a1791",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.635ac64419b2bf3844823372/1769168467229/Kommunstyrelsen%20sammantr%C3%A4deshandlingar%202026-01-28.pdf",
+  "titel": "Kommunstyrelsen sammanträdeshandlingar 2026-01-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a0a1a121642c1890c8c8c7d3a325644a837b55b041c327e69540a8a661c7d0a1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 207,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 62,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Kommunen ingår inte i lärare i socioekonomiskt utsatta områden urvalet 2025/26 Statsbidrag för försöksverksamhet med Litet Små Nej Ja 1 500 kr/elev Nej språkstärkande insatser under skollov",
+    "belopp_nara": true
+   },
+   {
+    "sida": 59,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "en bidragsdram. Andreas Lundholm Skolchef Beslutsunderlag 1. Riktade statsbidrag bildning våren 2026 daterad 17 december 2025 Beslutsunderlag skickas till Skolchef Akten ________________",
+    "belopp_nara": false
+   },
+   {
+    "sida": 60,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2025-12-17 Kommunstyrelsen Riktade statsbidrag bildning våren 2026 Inom bildningsverksamhet föreligger ett antal riktade statsbidrag som kan eftersökas av kommunala huvudmän. För Ljusnarsberg kan de sökas",
+    "belopp_nara": false
+   },
+   {
+    "sida": 61,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Ja, ersätter nu även 2026 lärarassistentbidrag. Statsbidrag för personalkostnader för Medel Små Ja/Nej Ja Del av tjänst Ja, utreda skolsociala team 2026",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.a20ff1019c47978adb9c6c/1771489848070/Kommunstyrelsen%20sammantr%C3%A4deshandlingar%202026-02-25.pdf",
+  "titel": "Kommunstyrelsen sammanträdeshandlingar 2026-02-25.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "73b02662a0ccc47261e5fa58e74177c8f1cca117baca4915f96c3b8f442ebe0a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.1bb8891319c98b63847d595/1773152771999/Kommunstyrelsen%20sammantr%C3%A4deshandlingar%202026-03-18.pdf",
+  "titel": "Kommunstyrelsen sammanträdeshandlingar 2026-03-18.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "954f8df455eaa01bb6c91d10b1624ad98edbd3c00fe37cb15200f1a30352ea68",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

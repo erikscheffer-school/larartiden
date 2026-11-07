@@ -1,5 +1,27 @@
 [
  {
+  "id": "bengtsfors",
+  "kommun": "Bengtsfors",
+  "lan": "Västra Götalands län",
+  "status": 5,
+  "poang": 15,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r26937924/document/8b9e35743add474b59b3-55be-4fcb-b882-b6ea8f5126a1?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374",
+   "https://docs.netpublicator.com/api/public/r26937924/document/4f1709c3e52d8e4c1da5-2415-4a32-acb8-39693f7ac6dd?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374",
+   "https://docs.netpublicator.com/api/public/r26937924/document/195f1843b169d15c84f2-b4f3-4109-b086-eac33708c43d?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-8033e9a78c7010200404",
+   "https://docs.netpublicator.com/api/public/r26937924/document/91d4c17f4ff6e0c5adbd-d0cd-413b-bc8e-3072fcd2b3f7?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-8033e9a78c7010200404",
+   "https://www.bengtsfors.se/arkiv/nyheter/nyheter/2026-04-17-medborgarenkaten-om-framtidens-bengtsfors-ar-avslutad",
+   "https://foreningsguiden.se/kommun/bengtsfors/",
+   "https://skollov-se.se/bengtsfors",
+   "https://www.bengtsfors.se/download/18.f14c6aa19ddcc3e5ed38c0c/1778504679726/Plan%20mot%20kra%CC%88nkande%20behandling%20vux%20Bengtsfors.pdf"
+  ]
+ },
+ {
   "id": "vaxjo",
   "kommun": "Växjö",
   "lan": "Kronobergs län",
@@ -21,7 +43,29 @@
    "https://omsorgenshandbocker.vaxjo.se/download/18.1789884519ed453809b54c10/1782298817924/V%C3%A5rd-%20och%20omsorgspersonalen%20dokumentation.pdf",
    "https://www.vaxjo.se/download/18.28f2020119b3545d11a82691/1767541079787/Granskningsutl%C3%A5tande.pdf",
    "https://www.vaxjo.se/download/18.7430308919c890aa30721e10/1772174927811/Internbudget%20f%C3%B6r%20utbildningsn%C3%A4mnden%202026.pdf",
-   "https://www.vaxjo.se/download/18.756f365219d9a687b0024b19/1776840815961/Kallelse_%C3%85rsst%C3%A4mma_VEAB_2026.pdf"
+   "https://www.vaxjo.se/download/18.756f365219d9a687b0024b19/1776840815961/Kallelse_%C3%85rsst%C3%A4mma_VEAB_2026.pdf",
+   "https://www.vaxjo.se/download/18.2b1bff1d19ed453c4059519d/1783422677395/Bilaga%201%202026-05-13%20-%20Samverkansprojekt%20med%20Region%20Kronoberg%20samt%20palliativ%20v%C3%A5rd.pdf",
+   "https://www.vaxjo.se/download/18.31347bda19dcdb11003489/1777276017766/Teknisk_beskrivning_2026-03-03%20extern.pdf",
+   "https://www.vaxjo.se/download/18.2cc974e719ea57df6989293/1781002899016/Utskick%20Inf%C3%B6r%20slutlig%20antagning%20till%20gymnasiet%202026%20elev%20fr%C3%A5n%20annan%20kommun.pdf"
+  ]
+ },
+ {
+  "id": "forshaga",
+  "kommun": "Forshaga",
+  "lan": "Värmlands län",
+  "status": 5,
+  "poang": 13,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/Budget%202027%20fler%C3%A5rsplan%202028-2029.pdf",
+   "https://www.forshaga.se/download/18.7aaec2b119c6d520236c6f95/1771917847723/Regler%20och%20avgifter%20f%C3%B6r%20f%C3%B6rskola%20(2026-02-23)_%20tillg%C3%A4nglig.pdf",
+   "https://www.svt.se/nyheter/lokalt/varmland/sa-planerar-din-kommun-infor-de-minskade-elevkullarna",
+   "https://regionvarmland.se/download/18.156698a319b5357bdb218eed/1768485134866/N%C3%A4mndens%20%C3%A5rsplan%20och%20budget%202026.pdf",
+   "https://www.forshaga.se/download/18.11afdadc19979e9d11178ea/1758705835066/Budget%202026%20fler%C3%A5rsplan%202027-2028.pdf"
   ]
  },
  {
@@ -43,7 +87,9 @@
    "https://www.tanum.se/kommunpolitik/nyhetsarkiv/informationombidragforgymnasieeleverlasaret20262027.5.1705870b18ec17b07ab365a5.html",
    "https://www.tanum.se/download/18.35629f641a12f54bd3d17e3/1792572888925/Kommunfullm%C3%A4ktige%2026%20oktober%202026,%20med%20handlingar.pdf",
    "https://www.tanum.se/download/18.ffd58281a12f68b7c35092/1792071819207/Barn-%20och%20utbildningsn%C3%A4mnden%2022%20oktober%202026,%20med%20handlingar.pdf",
-   "https://www.tanum.se/download/18.4bb3ddb9197a1b514ae63eb7/1793369310364/Gemensamma%20reglementsbest%C3%A4mmelser%20f%C3%B6r%20Tanums%20kommuns%20n%C3%A4mnder.pdf"
+   "https://www.tanum.se/download/18.4bb3ddb9197a1b514ae63eb7/1793369310364/Gemensamma%20reglementsbest%C3%A4mmelser%20f%C3%B6r%20Tanums%20kommuns%20n%C3%A4mnder.pdf",
+   "https://www.tanum.se/download/18.ffd58281a12f68b7c34909/1792045936410/Omsorgsn%C3%A4mnden%2020%20oktober%202026%20med%20handlingar.pdf",
+   "https://www.tanum.se/download/18.35629f641a12f54bd3d15b7/1791870856811/Tekniska%20n%C3%A4mnden%2019%20oktober%202026,%20med%20handlingar.pdf"
   ]
  },
  {
@@ -60,11 +106,68 @@
    "https://www.hallsberg.se/download/18.246489bf19eafcdf93434/1781079856473/2026-06-08%20-%20Protokoll%20KF.pdf",
    "https://www.hallsberg.se/download/18.2eb33fa919b2c04ecba8b97/1770124099638/2026-02-10%20-%20Kallelse%20BIN.pdf",
    "https://www.hallsberg.se/download/18.43c572ab19e4ad77f9b10/1779700179354/2026-05-26%20-%20Kallelse%20KS.pdf",
+   "https://www.hallsberg.se/download/18.6ebf618c19dd772ff9030/1777444496061/2026-04-20%20-%20Protokoll%20KF.pdf",
    "https://www.hallsberg.se/download/18.13588cf81a1631848a02ca/1792735178471/2026-10-19%20-%20Protokoll%20KF,%20%C2%A7%C2%A7%2084-95.pdf",
    "https://www.hallsberg.se/download/18.13588cf81a1631848a02bf/1792735098168/2026-10-19%20-%20Protokoll%20KF,%20%C2%A7%C2%A7%2079-83.pdf",
    "https://www.hallsberg.se/download/18.39166a4a18d548f83741592b/1771838633858/R%C3%A4kna%20ut%20l%C3%B6nen%20till%20feriearbetande%20ungdom.pdf",
    "https://www.hallsberg.se/download/18.4c2a6f5b19c47c510ba17d3/1771250367237/2026-02-11%20-%20Protokoll%20DOS.pdf",
-   "https://www.hallsberg.se/download/18.cc84b5f1a0adaf6813481c/1790678650231/2026-09-21%20-%20Protokoll%20KF.pdf"
+   "https://www.hallsberg.se/download/18.cc84b5f1a0adaf6813481c/1790678650231/2026-09-21%20-%20Protokoll%20KF.pdf",
+   "https://www.hallsberg.se/download/18.2c880b51a1a1b512dc9d8/1793893181890/2026-11-16%20-%20Kallelse%20KF.pdf",
+   "https://www.hallsberg.se/download/18.2c880b51a1a1b512dc744/1793873144583/2026-11-03%20-%20Protokoll%20KS.pdf",
+   "https://www.hallsberg.se/download/18.54f836cc19c935815581d70/1772806059472/2026-02-23%20-%20Protokoll%20KF.pdf"
+  ]
+ },
+ {
+  "id": "hammaro",
+  "kommun": "Hammarö",
+  "lan": "Värmlands län",
+  "status": 5,
+  "poang": 12,
+  "skal": [
+   "2 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf",
+   "https://docs.netpublicator.com/api/public/r00824043/document/24e657b8fdd4cfa4edb2-ead0-49a4-9dff-436d8d25e567?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+   "https://hammaro.se/arkiv/nyheter/2026/2026-05-27-majoritetens-forslag-till-budget-2027---satsningar-pa-valfard-trygghet-och-framtidsberedskap",
+   "https://www.vf.se/ingen-skattesankning-har-ar-satsningarna-i-hammaros-budget/",
+   "https://docs.netpublicator.com/api/public/r00824043/document/97599400fcf879df77c1-0e48-488d-8557-8ab1a0956e03?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+   "https://docs.netpublicator.com/api/public/r00824043/document/8e60359690c6df234043-2616-4a5f-90b4-e2371d71129d?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+   "https://docs.netpublicator.com/api/public/r00824043/document/69649dd838924c781270-d42f-4cdb-8d99-3daf7bdf1b85?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+   "https://www.hammaronytt.se/majoritetens-budgetforslag-lagt/",
+   "https://varmlandsbygden.se/hammaro/hammaro-satsar-miljoner-pa-lillangshamnen/"
+  ]
+ },
+ {
+  "id": "storuman",
+  "kommun": "Storuman",
+  "lan": "Västerbottens län",
+  "status": 5,
+  "poang": 12,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.storuman.se/globalassets/fkun/protokoll-fkun2026-09-21-signerat.pdf",
+   "https://www.storuman.se/contentassets/fcda21afe7bf4712b863d5c457f35bad/kf260421-for-webbpubl.pdf",
+   "https://www.storuman.se/contentassets/bfd48347e1e7458fb9ae9138cab5502a/kommunstyrelsens-arbetsutskotts-protokoll-2026-05-12-4.pdf",
+   "https://www.storuman.se/contentassets/fcda21afe7bf4712b863d5c457f35bad/2025/protokoll-kf-2025-11-18-gdpr-version-for-webbpubl.pdf",
+   "https://www.storuman.se/contentassets/9d46b5f7ee13423db9b54a672f3c75c6/ks-261103-justeringsversion-slutlig.pdf",
+   "https://www.storuman.se/contentassets/0f6e8cf14f1145a6beb7837dde27f3b8/protokoll-ofn-260121.pdf",
+   "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/msbn/2026/namndsprotokoll-250204_gdpr.pdf",
+   "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/on/protokoll-on-2026-03-04-signerat.pdf",
+   "https://www.kommunkartan.se/karta/storumans-kommun/340215/",
+   "https://www.storuman.se/contentassets/9d46b5f7ee13423db9b54a672f3c75c6/protokoll-ks-2026-10-13.pdf",
+   "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/ks/ks241105.pdf",
+   "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/kf/ofn200217.pdf",
+   "https://www.storuman.se/globalassets/fkun/fkun_2024_91-fkuns-taxor-och-avgifter-2025.pdf",
+   "https://www.storuman.se/globalassets/fkuns-taxor-och-avgifter-2026.pdf",
+   "https://www.storuman.se/globalassets/fkun/protokoll-2026-10-26-signerat.pdf",
+   "https://www.storuman.se/globalassets/fkun/protokoll-fkun_-2026-05-25-signerat.pdf",
+   "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2026-02-23-signerat.pdf",
+   "https://www.storuman.se/globalassets/protokoll-fkun_2025-12-15-signerat.pdf"
   ]
  },
  {
@@ -83,6 +186,7 @@
    "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b066f/1793617206162/7_2_Investeringsbudget%202027-2031%20f%C3%B6r%20Svenljunga%20kommun%20och%20Svenljunga%20Verksamhetslokaler%20AB%20(KSAU%2026_10).pdf",
    "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0670/1793617206222/7_3_Investeringsbudget%202027-2031%20f%C3%B6r%20Svenljunga%20kommun%20och%20Svenljunga%20Verksamhetslokaler%20AB%20%E2%80%93%20Bilaga%201%20beskrivningar.pdf",
    "https://www.svenljunga.se/download/18.3f4e20b1196d0a6eb0c4bb/1747921432114/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202025-2027.pdf",
+   "https://www.svenljunga.se/download/18.14f9db7f19e4c5a723a4afe/1781689357220/Kommunfullm%C3%A4ktiges%20protokoll%202026-06-15,%20%C2%A7%2079-91.pdf",
    "https://www.svenljunga.se/download/18.4371a3de19cf9e0080e63f/1773923459646/Kommunfullm%C3%A4ktiges%20protokoll%202026-03-16,%20%C2%A7%2023-46.pdf",
    "https://www.svenljunga.se/download/18.35f819219eed1a8ccf40f/1782378528771/Protokoll%20socialn%C3%A4mnden%202026-06-24%20%C2%A7%2072-81.pdf",
    "https://www.svenljunga.se/download/18.2f6b985b19bd97f4582d72/1769777216231/Informationshanteringsplan%20f%C3%B6r%20interna%20myndighetsn%C3%A4mndens%20processer.pdf",
@@ -90,7 +194,10 @@
    "https://www.svenljunga.se/download/18.6e9e0b3f18dd5dd7c33ec6/1709635605890/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202024-2026.pdf",
    "https://www.svenljunga.se/download/18.2e942b1f184c9fc534dc6c/1671198654835/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202023-2025.pdf",
    "https://www.svenljunga.se/download/18.f3679831809055e352a15/1653031269173/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202022-2024.pdf",
-   "https://www.svenljunga.se/download/18.f3679831809055e352a17/1653031269570/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202021-2023.pdf"
+   "https://www.svenljunga.se/download/18.f3679831809055e352a17/1653031269570/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202021-2023.pdf",
+   "https://www.svenljunga.se/download/18.13f9210c19c496a3e1b3f0/1770978122369/Kommunfullm%C3%A4ktiges%20protokoll%202026-02-09,%20%C2%A7%201-22.pdf",
+   "https://www.svenljunga.se/download/18.4371a3de19cf9e0080e269c/1776352199562/Kommunfullm%C3%A4ktiges%20protokoll%202026-04-13,%20%C2%A7%2047-56.pdf",
+   "https://www.svenljunga.se/download/18.14f9db7f19e4c5a723a1b0c/1780042069561/Kommunfullm%C3%A4ktiges%20protokoll%202026-05-25,%20%C2%A7%2057-78.pdf"
   ]
  },
  {
@@ -111,91 +218,11 @@
    "https://sater.se/wp-content/uploads/2026/10/protokoll-2026-10-21.pdf",
    "https://sater.se/wp-content/uploads/2026/09/protokoll-2026-09-09.pdf",
    "https://sater.se/wp-content/uploads/2026/05/protokoll-2026-05-12.pdf",
+   "https://sater.se/wp-content/uploads/2026/10/kf261015-nya.pdf",
    "https://sater.se/wp-content/uploads/2026/03/kallelse-bun-2026-03-18.pdf",
-   "https://sater.se/wp-content/uploads/2026/02/kallelse-2026-02-11-20.pdf"
-  ]
- },
- {
-  "id": "botkyrka",
-  "kommun": "Botkyrka",
-  "lan": "Stockholms län",
-  "status": 5,
-  "poang": 11,
-  "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.botkyrka.se/download/18.317809c518c3dd37c451f2ff/1702391923837/M%C3%A5l%20och%20budget%202024%20med%20fler%C3%A5rsplan%202025%20-%202027.pdf",
-   "https://kommunkartan.se/karta/botkyrka-kommun/414162/",
-   "https://www.botkyrka.se/nyhetsarkiv/nyhetsarkiv/2026-01-30-driften-av-fritidsklubbar-och-fritidsgardar-i-botkyrka-ska-upphandlas",
-   "https://www.botkyrka.se/download/18.2d75104a19a0a3a26b328971/1779965408018/Tillval%20Botvidsg%C3%A5rden.pdf",
-   "https://www.botkyrka.se/download/18.4b1c5af31817fd030534550/1782896397357/Uppdragsbeskrivning%20Grupp-%20och%20servicebostad.pdf",
-   "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/vill-du-byta-skola",
-   "https://www.botkyrka.se/download/18.1fbbaae6170bff9469dee9a/1584095744888/Handlingar%20KOFN%202019-09-03%20inklusive%20M%C3%A5l%20och%20Budget%202020.pdf",
-   "https://www.botkyrka.se/download/18.1fbbaae6170bff9469dee64/1584095656130/KFN%202018-04-24%2007%20Budgetprognos%20mars.pdf",
-   "https://www.botkyrka.se/download/18.2ec811d416f55cfff0441e1/1578469695292/M%C3%A5l%20och%20budget%202020%20med%20fler%C3%A5rsplan%202021-2023.pdf",
-   "https://www.botkyrka.se/download/18.7ddd8c91176843130eb955/1608564143810/M%C3%A5l%20och%20budget%202021%20med%20fler%C3%A5rsplan%202022-2024.pdf",
-   "https://www.botkyrka.se/download/18.7ddd8c91176843130eb956/1608564144019/M%C3%A5l%20och%20budget%202019%20med%20fler%C3%A5rsplan%202020%20-%202022.pdf"
-  ]
- },
- {
-  "id": "hammaro",
-  "kommun": "Hammarö",
-  "lan": "Värmlands län",
-  "status": 5,
-  "poang": 11,
-  "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf",
-   "https://hammaro.se/arkiv/nyheter/2026/2026-05-27-majoritetens-forslag-till-budget-2027---satsningar-pa-valfard-trygghet-och-framtidsberedskap",
-   "https://www.vf.se/ingen-skattesankning-har-ar-satsningarna-i-hammaros-budget/",
-   "https://www.hammaronytt.se/majoritetens-budgetforslag-lagt/",
-   "https://varmlandsbygden.se/hammaro/hammaro-satsar-miljoner-pa-lillangshamnen/"
-  ]
- },
- {
-  "id": "uppvidinge",
-  "kommun": "Uppvidinge",
-  "lan": "Kronobergs län",
-  "status": 5,
-  "poang": 11,
-  "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.uppvidinge.se/download/18.fd7ba851a157a87bca414/1792493911448/Protokoll%20BUN%202026-10-14.pdf",
-   "https://www.uppvidinge.se/download/18.48802db51a157ba49331b2b/1792578712265/Protokoll%20KF%202026-10-15%20(konstituerande%20fullm%C3%A4ktige).pdf",
-   "https://www.uppvidinge.se/download/18.67fd0b081a0420c907315c8d/1788867636577/Protokoll%20BUN%202026-09-02_Redacted.pdf",
-   "https://www.uppvidinge.se/download/18.27f6070c1a1a19eae0412a8/1793775891010/Protokoll%20KF%202026-10-29.pdf",
-   "https://www.uppvidinge.se/download/18.2d84c5c419c479487f25e89/1771031352210/Kallelse%20KFU%202026-01-15.pdf",
-   "https://www.uppvidinge.se/download/18.227e53d819dd24916a621c87/1778863374041/Kallelse%20KSTU%202026-05-15.pdf"
-  ]
- },
- {
-  "id": "orkelljunga",
-  "kommun": "Örkelljunga",
-  "lan": "Skåne län",
-  "status": 5,
-  "poang": 11,
-  "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.orkelljunga.se/download/18.82035bf1934c1405faa9/1732626146454/Budget%202025%20och%20ekonomisk%20fler%C3%A5rsplan%202026-2027%20beslutad%20i%20KF%202024-11-25.pdf",
-   "https://www.orkelljunga.se/download/18.3cf55a8e1a0420e74b7aefa/1788534161995/Kommunstyrelsen%202026-09-02.pdf",
-   "https://www.orkelljunga.se/download/18.51fc507619c98a21b9c7489/1772456866024/Socialn%C3%A4mnden%202026-03-03.pdf",
-   "https://www.orkelljunga.se/download/18.69755fc319b2be124e46d8fa/1769760541231/Kommunfullm%C3%A4ktige%202026-01-26.pdf",
-   "https://www.orkelljunga.se/download/18.2203b39e19b2bd100a668237/1769520167565/Kultur-%20och%20samh%C3%A4llsutvecklingsn%C3%A4mnden%202026-02-02.pdf",
-   "https://www.orkelljunga.se/download/18.1f34ec7719e639278e11393c/1780643762805/Budget%202026%20och%20ekonomisk%20fler%C3%A5rsplan%202027-2028%20beslutad%20i%20KF%202025-11-24.pdf",
-   "https://www.orkelljunga.se/download/18.180050e218c319d525caf299/1701804420838/Budget%202024%20och%20ekonomisk%20fler%C3%A5rsplan%202025-2026%20belutad%20i%20KF%202023-11-27.pdf",
-   "https://www.orkelljunga.se/download/18.1c19c97c17f3848377d6f80c/1680253036469/Budget%202023%20och%20ekonomisk%20fler%C3%A5rsplan%20(EPF)%202024-2025.pdf",
-   "https://www.orkelljunga.se/download/18.659742711a12f7115074c/1791798900779/Kommunstyrelsen%202026-10-07.pdf"
+   "https://sater.se/wp-content/uploads/2026/02/kallelse-2026-02-11-20.pdf",
+   "https://sater.se/wp-content/uploads/2026/03/protokoll-2026-03-18-1.pdf",
+   "https://sater.se/wp-content/uploads/2026/02/protokoll-2026-02-11.pdf"
   ]
  },
  {
@@ -203,20 +230,23 @@
   "kommun": "Ulricehamn",
   "lan": "Västra Götalands län",
   "status": 5,
-  "poang": 10,
+  "poang": 12,
   "skal": [
-   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "3 ny(a) budgethandling(ar) för 2027 nämner reformen",
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
    "https://www.ulricehamn.se/download/18.3ef958f71a12f5f33eb41339/1791978908532/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-21.pdf",
+   "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c196c/1787812194913/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-09-03.pdf",
+   "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c1e18/1787812985624/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-08-20.pdf",
    "https://www.ulricehamn.se/download/18.262f6d591a12f6f9bcb3c2f8/1791966875933/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-15.pdf",
    "https://www.ulricehamn.se/download/18.2c7e3f0319c6ccd4d2cb8044/1771831980863/Planbeskrivning%20samr%C3%A5d%20detaljplan%20f%C3%B6r%20Vegby%204.74%20m.fl.pdf",
    "https://www.ulricehamn.se/download/18.192b54f719b84979571e6719/1767800620622/Taxa%20Plan-%20och%20bygglagen%202026.pdf",
    "https://www.ulricehamn.se/download/18.5d1f31c21a163242f9682265/1793025259071/Protokoll%20kommunstyrelsen%202026-10-01.pdf",
    "https://www.ulricehamn.se/download/18.3ab15c21a0adc92ba2d32bf/1790241130723/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-01.pdf",
    "https://www.ulricehamn.se/download/18.53a3b8141a06c416a9e9238a/1788934193766/Protokoll%20kommunstyrelsen%202026-09-03.pdf",
-   "https://www.ulricehamn.se/download/18.51b98f641a042156370f15b2/1788501439718/Protokoll%20omedelbart%20justerat%20kommunstyrelsen%202026-09-03.pdf"
+   "https://www.ulricehamn.se/download/18.51b98f641a042156370f15b2/1788501439718/Protokoll%20omedelbart%20justerat%20kommunstyrelsen%202026-09-03.pdf",
+   "https://www.ulricehamn.se/download/18.5bdefa7e1a01f2ed6bf6bc14/1787551678642/Protokoll%20kommunstyrelsen%202026-08-20.pdf"
   ]
  }
 ]

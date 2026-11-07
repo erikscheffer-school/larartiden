@@ -118,5 +118,28 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hoganas.se/download/18.2df64b6319e6360a8ab111e7/1780743472991/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%202026-06-11.pdf",
+  "titel": "Kallelse för kommunfullmäktige 2026-06-11. ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "990f20f486f5bfda424cdb0b581706af61b1f31da22019f5d1b1e47df127fb51",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 352,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 73,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "nnan typ av särskiljning mellan yrkesprogram, avseende om det är ett lärlingsprogram eller inte. På ett lärlingsprogram är minst 50% av undervisningstiden arbetsplatsförlagd. Kopplat till programmen finns i regel även olika inriktningar och profiler, där en profil kan innebära att de s k valbara kur",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

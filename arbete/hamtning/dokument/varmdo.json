@@ -183,5 +183,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.6ef44e711864b8008dc43431/1677586341764/Instruktion%20f%C3%B6r%20kommunstyrelsens%20arbetsutskott.pdf",
+  "titel": "Instruktion för kommunstyrelsens arbetsutskott.pdf\nPdf, 191.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3703ce4224d7478fdce78fa62af5ae48f0b540db58d37bebaaef44ee8f14ddcc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.75ce225d1691e944b1623668/1684763288958/Instruktion%20f%C3%B6r%20kommunstyrelsens%20planutskott.pdf",
+  "titel": "Instruktion för kommunstyrelsens planutskott.pdf\nPdf, 190.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f86b0fa8ec6769830ab0db993c3b760211521ceddf50962c6dea25147d9e7edb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.22e4ee451639ed6e2d8bfbe8/1528180762730/Jaktr%C3%A4ttspolicy.pdf",
+  "titel": "Jakträttspolicy.pdfÖppnas i en ny flik",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ae41d0f9e5482d0182d734e4046431fe34a2146bde6d38ffde5d88fc802770a1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

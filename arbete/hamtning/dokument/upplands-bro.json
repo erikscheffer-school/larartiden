@@ -170,5 +170,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.fbe1d18c8ad0decde709/1704899271370/Kommunplan%202024%20-%202026.pdf",
+  "titel": "Antagen budget pdf, 1.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d2be3f6c014577f8a12e111f19ee366761280c999c7632519fbb7d3d2c381c4a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.518a2b9d184b916bc4e8162/1670946125309/Kallelse%20Kommunfullm%C3%A4ktige%202022-12-14%20.pdf",
+  "titel": "Tillkännagivande och kallelse pdf, 224 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b2ee74e97311061cb3b80743ce23d3386de9b1494aa7afc661c82b5d09e7a310",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

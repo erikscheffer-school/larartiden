@@ -156,5 +156,109 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.4bc117f71a0adb12db8258df/1790084037580/2026-09-29%20-%20Dagordning%20-%20Barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "2026-09-29 - Dagordning - Barn- och utbildningsnämnden.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "422831408fd8778fd21d9e8e66a71739d94e9be35d96cac2b8d51fc41823c88e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.249a210019e630615b314f6/1779796576907/2026-06-02%20Dagordning-Barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "2026-06-02 Dagordning-Barn- och utbildningsnämnden.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4ac0746bb4de8e7750e89c03a6a57619e63b289b6abf5dd8151bd27abda72f90",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "51/26 Fastställande av dagordning Beslutspunkter § 52/26 Revidering av barn- och utbildningsnämndens delegationsordning gällande statsbidrag och tillsyn § 53/26 Delårsrapport tertialuppföljning 1 (T1) för barn- och utbildningsnämnden § 54/26 Yttrande över remiss - Planeringsförutsättningar i",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://nynashamn.se/download/18.6cb66e8f19d9a73e17916b82/1776686347200/Dagordning%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-04-21.pdf",
+  "titel": "Dagordning Barn- och utbildningsnämnden 2026-04-21.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7fd4398f8c1cc26b9f52307aa7eb6560c5e0d8a742b3bad181719f9f57a74a06",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.e996b4519cf59de51e8487/1773745900900/2026-03-24%20-%20Dagordning%20-Barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "2026-03-24 - Dagordning -Barn- och utbildningsnämnden.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b42116ede5073bec299a7859f38702b92829a26f909aac54847c8a2ed3a45730",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "d undervisningskvalitet och fördjupad professionalitet. Inom förskolan har fokus varit att utveckla kvalitet med ökad personaltäthet och förskollärartäthet. Detta har möjliggjort att kommunen har kunnat behålla förskollärarkompetens trots minskade barngrupper. För att prioritera kärnverksamheten och öka re",
+    "belopp_nara": false
+   },
+   {
+    "sida": 3,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "undervisningskvalitet och fördjupad professionalitet. Inom förskolan har fokus varit att utveckla kvalitet med ökad personaltäthet och förskollärartäthet. Detta har möjliggjort att kommunen har kunnat behålla förskollärarkompetens trots minskade barngrupper. För att prioritera kärnverksamheten oc",
+    "belopp_nara": false
+   },
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r gjorts för att möta det förändrade barnantalet. Under omställningsarbetet har verksamheten, med stöd av både politiska satsningar och riktade statsbidrag, medvetet ökat personaltätheten och andelen utbildade förskolelärare. Ett av nämndens mål bedöms vara helt uppfyllt i år och fyra mål bedöms vara delv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 5,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "professionalitet. Inom förskolan har fokus varit att utveckla kvalitet med ökad personaltäthet och förskollärartäthet. Detta har möjliggjort att kommunen har kunnat behålla förskollärarkompetens trots minskade barngrupper. För att prior",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "omställningsarbetet har verksamheten, med stöd av både politiska satsningar och riktade statsbidrag, medvetet ökat personaltätheten och andelen utbildade förskolelärare. För att säkerställa en ekonomi i balans pausades",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
  }
 ]

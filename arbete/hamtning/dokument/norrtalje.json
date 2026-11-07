@@ -122,5 +122,79 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetsplan-utbildningsnamnden.pdf",
+  "titel": "Verksamhetsplan Utbildningsnämnden (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a8ef6e953785e85c23875146837a56b4719adb680c9dd7c5d5445cfff9c90349",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Lägre uppräkning av program inom gymnasieskolan och anpassad gymnasieskola som inte ingår i länsprislistan. Uppräkning görs med 2,1 procent (355 tkr) Statsbidrag Utbildningsnämnden söker årligen ett stort antal riktade statsbidrag både inom gymnasieskola och vuxenutbildning. Osäkerhet vad gäller de statliga bidragen ti",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetsplan-barn--och-skolnamnden.pdf",
+  "titel": "Verksamhetsplan Barn- och skolnämnden (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c081958b8c055e61f66902e65087683854032a892f3c6c7679d586623dd93e38",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 35,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Hårdvara förtroendevalda (85 tkr) Ny digital plattform för förtroendevalda införs för ökad IT-säkerhet. Statsbidrag 2026 Barn- och skolnämnden söker årligen en stor mängd statsbidrag. År 2025 beräknas nämndens samlade statsbidrag från Skolverket med flera myndigheter uppgå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 14,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "tidstjänster i 40,0% 41,0% 42,0% 40,0% 40,0% 40,0% 40,0% förskolan med förskollärarlegitimation, kommunala regi. Förskollärartäthet, 12,0 11,4 12,0 12,0 12,0 12,0 12,0 antal barn /lärare med förskollärarlegitimation, kommunal regi.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t. En ytterligare omständighet som försvårar planeringsförutsättningarna kommande år är osäkerhet vad avser de statliga bidragen till utbildningsverksamheten. Statsbidragen utgör en viktig del av finansieringen av förskola och skola. VERKSAM HETSPLAN 2026-20",
+    "belopp_nara": false
+   },
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "e uppföljning. Budgetramarna per verksamhet påverkas av pris- och löneuppräkning, volymförändring, riktade politiska satsningar samt förändringar i de riktade statsbidragen. Barn- och skolnämnd & politisk verksamhet Innefattar arvoden och kostnadsersättningar för förtroendevalda ledamöter och ersättare i barn- och skolnämnden,",
+    "belopp_nara": false
+   },
+   {
+    "sida": 38,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "n med Avdelningschef förskola förskollärarlegitimation, kommunala regi. Egen beskrivning: Kolada N11810. Publiceras årligen v 16. Förskollärartäthet, antal barn /lärare med Avdelningschef förskola förskollärarlegitimation, kommunal regi. Egen beskrivning: Kolada N11813. Årligen vecka 16 fö",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 11
  }
 ]

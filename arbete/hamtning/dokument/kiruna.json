@@ -103,5 +103,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://kiruna.se/download/18.3ba3298919a7ba15ae61af8b/1763971959257/Kommunfullm%C3%A4ktiges%20protokoll%202025-11-10%20signerat.pdf",
+  "titel": "Protokoll kommunfullmäktige 2025-11-10 pdf, 823.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ed5ffa6308e2959764f9f9578e18deb188b61a0e1bb01aaf58bbf16bb1917c00",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kiruna.se/download/18.1366b79c18d8738882f99/1707376528313/Protokoll%20kommunfullm%C3%A4ktige%202024-02-05,%20extra.pdf",
+  "titel": "Protokoll kommunfullmäktige 2024-02-05, extra.pdf Pdf, 311.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "92f1c0278d3f990980328c133987eb02687a41d6107b9b65c889da2062b34914",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -251,5 +251,94 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.233f59f7180028599746949c/1650981648876/Handlingar%20till%20%C3%A4rende%20Planeringsdirektiv%202023%20med%20plan%20f%C3%B6r%202024-2025.pdf",
+  "titel": "Tillkommande handlingar till ärende Planeringsdirektiv 2023 med plan för 2024-2025\npdf, 2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2635d885dd1ea628e7563281a24800ff489417f16458b7d2a9012ed822597175",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.11bce16716e44cbeee13f134/1574352149095/%C3%96vergripande%20plan%20med%20budget%202020-2022.pdf",
+  "titel": "Handlingar till Övergripande plan med budget 2020-2022\npdf, 16.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "25627ba702bb6758673dc514b9c8106b95f348b152971dda8946136cce8a6dda",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 350,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ngsutredningen konstaterar att dagens digitalisering och e-hälsa inom äldreomsorgen. kostnadsutjämning i huvudsak fyller sitt syfte men Statsbidrag avseende lärarassistenter kommer att att mer fokus behöver ges åt socioekonomi och fördubblas i jämförelse med 2019 och statens stöd g",
+    "belopp_nara": false
+   },
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lsunder- I övergripande plan med budget har generella visning. Gällande bidraget inom gymnasieskolan statsbidrag inräknats, inklusive effekter av de nya används ett viktat snittpris mellan kommunens välfärdsmiljar",
+    "belopp_nara": false
+   },
+   {
+    "sida": 53,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ar till följd av volymökningar och investeringar i bland annat nya förskolor, skolor och äldreboende • Osäkerhet när det gäller generella och riktade statsbidrag • Långsiktighet i planeringen är avgörande för att säkerställa en hållbar ekonomi över tid • Det är av stor vikt att hålla i ekonomin och effektivisera",
+    "belopp_nara": false
+   },
+   {
+    "sida": 282,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "Placement and Support (IPS) ● Kraftig satsning på vidareutbildning av personer med låg utbildning för att förbättra sin anställningsbarhet ● Undervisningstimmar för SFI utökas till 25 timmar per vecka ● Coach för stöd till nya entreprenörer. Det är en självklarhet att alla människor som lever i Sverige ska ha sa",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.594fcfdc17d336fd422360b/1637310854665/Tillkommande%20handlingar%20till%20%C3%A4rende%20%C3%96vergripande%20plan%20med%20budget%202022-2024.pdf",
+  "titel": "Tillkommande handlingar till ärende Övergripande plan med budget 2022-2024\npdf, 7.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "389af4b68dda561d83fb77a0eeae457bc1be7224a6105d25a1c7fef1305aca29",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.4eb6e3331a18c6e609c17d/1793360962745/Kommunstyrelsens%20protokoll%202026-10-28.pdf",
+  "titel": "Protokoll pdf, 4.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "61ef6b223fb8da55be633168854f373c4dde252ad1719d932bbdaa54853591c3",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 60,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

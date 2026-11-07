@@ -178,5 +178,65 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.5712aa4b1969f7c4c325a468/1748250484525/Kommunfullm%C3%A4ktiges%20kallelse%202025-05-26.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-05-26.pdf Pdf, 35.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "10b2caea298d6a82188073ea869b87bc18e9ab7935913c6ec458533719c30ce7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 684,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.156f56a0194ce0fc4f9a9ed5/1740384978014/Kommunfullm%C3%A4ktiges%20kallelse%202025-02-24.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-02-24.pdf Pdf, 8.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "53869480cee95b8634ed98351eee7f18601e78e6e0868bbfc2b1a1c2c0b44ca2",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 222,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.33c66ac91943c4972b069000/1737986829583/Kommunfullm%C3%A4ktiges%20kallelse%202025-01-27.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-01-27.pdf Pdf, 9.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a619cd4d08477f346485cf8a01b1835489ff58d04adadb7e9d0502956bb32e6f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 255,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.19542ccc19367f540c1151d7/1733760613576/Kommunfullm%C3%A4ktiges%20kallelse%202024-12-09.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2024-12-09.pdf Pdf, 37.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bb3551a5fb10de44815440cc78365e7067c7ade80d41ff8712b50872d5a898e6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 390,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

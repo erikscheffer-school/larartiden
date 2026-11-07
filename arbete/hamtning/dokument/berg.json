@@ -178,5 +178,80 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.6f4729a719d24cf41053f844/1775648837136/Kommunstyrelsens%20protokoll%20den%2026%20mars%202026%20normal%20justering%20-%20f%C3%B6r%20delning.pdf",
+  "titel": "2026-03-26, normal justering\npdf, 3.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6099443db6c4b6061b82df4611e7416d55a77ded4d242c27e0e6478d078a8646",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 45,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "utbildningsnämndens begäran om tilläggsanslag motsvarande det statsbidrag som tilldelats kommunen för att stärka Skolbibliotek enligt lagändring 2025-07-0",
+    "belopp_nara": false
+   },
+   {
+    "sida": 46,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "miljoner per år. Statsbidraget var dock ej riktat utan ingick i de generella statsbidragen och behöver således tilldelas ansvarig nämnd för skolbibliotek för att möjligg",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://berg.se/download/18.58584c519d048e13601e65/1773933692849/Kallelse%20f%C3%B6rstasida%20kommunstyrelsen%2026%20mars%202026.pdf",
+  "titel": "2026-03-26\npdf, 165.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "91b30367bfd335456c8b8259a7ddd2bf00cd6a1d071d4feaa6066c66c17dff28",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.6019c03219e13d5b4a6f56/1778492111065/Kommunstyrelsens%20protokoll%20den%205%20maj%202026%20f%C3%B6r%20delning.pdf",
+  "titel": "5 maj 2026-05-05 pdf, 2.8 MB. 2026-05-05 pdf, 168.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a9b1b0b882d917c9f0bba3bd1ad38ad27808cfa2d5177c7979057631b9e4ab97",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.29cb7d1319dba5e35fa157e1/1777463028980/Kallelse%20f%C3%B6rstasida%20kommunstyrelsen%205%20maj%202026%20-%20uppdaterad.pdf",
+  "titel": "2026-05-05\npdf, 168.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3e92065de846429701401037f3d2117f61fb8bc78eb2954bf4714863b675acf3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

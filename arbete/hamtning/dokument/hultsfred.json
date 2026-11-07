@@ -314,5 +314,111 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/01/Protokoll-fran-barn-och-utbildningsnamnden-2026-01-28.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a02a970772c2c659a15aa833c2683947893ad146beb69f1625583b58c7d0e7b2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "desdatum 2026-01-28 BUN § 6/2026 Meddelande 1. Skolverket Beslut om statsbidrag för skolhuvudmän som inrättar karriärsteg för lärare för 2025/2026. Skolverket beviljar Hultsfreds kommun 713 132 kronor för HT 2025.",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/10/Kallelse_BUN_2026-10-28.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d362a188998b15950218e739019d491a0682cf85dbb0ebe67df94438ea89268e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/09/Kallelse-BUN-2026-09-30.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f22b111766054d0931e465c85abeffcec6014fbbb5ef497b52ef26be25e4b967",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": true,
+  "ord": [
+   "planeringstid",
+   "reglerad undervisnings"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "reglerad undervisnings",
+    "reform": true,
+    "utdrag": "utbildningsnämnden 12 Grundplan för pedagogiska utemiljöer 2026/167 609 vid kommunens förskolor och skolor 13 Lagreglerad undervisnings- och 2026/178 609 planeringstid för lärare 14 Anmälan av delegationsbeslut 15 Meddelande Gruppmöte klockan 12.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/10/Protokoll_BUN_2026-09-30.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7806b714fd464dd7eee81912c7910a33ae129b02180197aabf32e859c525202e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "planeringstid",
+   "reglerad undervisnings",
+   "reglerad undervisnings- och planeringstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "reglerad undervisnings",
+    "reform": true,
+    "utdrag": "utbildningsnämnden § 84 Grundplan för pedagogiska utemiljöer vid 2026/167 609 kommunens förskolor och skolor § 85 Lagreglerad undervisnings- och 2026/178 609 planeringstid för lärare § 86 Anmälan av delegationsbeslut Justerandes signatur",
+    "belopp_nara": false
+   },
+   {
+    "sida": 22,
+    "ord": "reglerad undervisnings- och planeringstid",
+    "reform": true,
+    "utdrag": "atum 2026-09-30 BUN § 85/2026 Diarienummer 2026/178 609 Lagreglerad undervisnings- och planeringstid för lärare Beslut Barn- och utbildningsnämnden tar emot informationen. Sammanfattning Från den 1 juli 2027 införs en natio",
+    "belopp_nara": false
+   },
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Utredningar av kränkande behandling eller diskriminering 2026-06- 11—2026-08-13. Barn- och elevantal 2026 Ansökan om statsbidrag för fortbildning av lärare och förskollärare höstterminen 2026 Ansökan om statsbidrag för barn som vistas i landet utan tillstånd",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 10
  }
 ]

@@ -148,5 +148,50 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.7859404519e62f4e5b42e07f/1780322276804/Protokoll%20UN%202026-05-27%20signerat.pdf",
+  "titel": "2026-05-27\npdf, 794.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4e1217a107e23d076014b1d4a1b6fdf00265d855e03f54e8db6750f1fb96a477",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.76558f7619ed45387911eb99/1782232644109/Protokoll%20UN%202026-06-17%20signerat.pdf",
+  "titel": "2026-06-17\npdf, 740.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b90c18da333f9bf2a7af0d8dca9b2b8a1b805d6f827f9722781e2159279ce3b7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.14feb22f1a01f72f83a159c1/1787666661423/Protokoll%20UN%202026-08-19%20signerat.pdf",
+  "titel": "2026-08-19\npdf, 726.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2a106b8f2977ce81f737e8c028b1a02e5995fcfea29021132cf25b827361eff9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -160,5 +160,51 @@
   "träffar": [],
   "antal_träffar": 0,
   "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.are.se/download/18.1ae26d1d1a162f28978ee2f/1793287527086/2026-11-03%20Kallelse%20kommunstyrelsens%20arbetsutskott.pdf",
+  "titel": "2026-11-03 Kallelse kommunstyrelsens arbetsutskott.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a62db29be2b79b586a1cd38425fd563497df2b4ae8acd1820be04eec04e8c14a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 322,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.are.se/download/18.16479f591a18c46c4ea3d/1793356001377/2026-10-27%20Anslag%20kommunstyrelsens%20arbetsutskott.pdf",
+  "titel": "2026-10-27 Anslag kommunstyrelsens arbetsutskott.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "355708facd6474064154000c9302b8aecf6aca192b36ec262be02fd5683941b9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.are.se/download/18.54f5ca0e1a16333a3601d0f/1792755020488/2026-10-22%20Anslag%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "2026-10-22 Anslag kommunfullmäktige.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0db8499b9a2799c55f722adea1055f6e5bcde0fece6396dde72d1e5614cfd678",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

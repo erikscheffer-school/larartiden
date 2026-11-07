@@ -378,5 +378,50 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www4.goteborg.se/prod/Funktionsstod/LIS/Verksamhetshandbok/VerkGem.nsf/vyHandBok/27B088D9C5299F7DC1258DE90032C0BB/$File/C12585ED00444D11JREMDTMD7F.pdf?OpenElement=",
+  "titel": "Socialförvaltningarnas rutin för hantering av inkomna ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bf1c9b70d0fe0e6aa6e1a35272356d7bae6855fb86c9439153ed6a05a981b3e4",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/f45028210cd95dc8c1258ddb002abb55/$FILE/Bilaga%202_Samradsredogorelse.pdf",
+  "titel": "ÖVERSIKTSPLAN FÖR GÖTEBORG SAMRÅDS- REDOGÖRELSE GRANSKNINGSHANDLING MARS 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "12ef5e7d76412f3db4cdc982632403b14ade4853ec722eaff903534e580a4519",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 121,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://goteborg.se/wps/wcm/connect/c9deb164-a4a9-4cad-bdf0-75a06a3e9824/Rapport+2026_13+Luften+i+G%C3%B6teborg,+%C3%A5rsrapport+2025.pdf?MOD=AJPERES",
+  "titel": "Miljöförvaltningen goteborg.se Luften i Göteborg Årsrapport 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "41f3a6535c41be62fb372cf563361225c58e4a87bcc5f5a4652e7ea12547e14b",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 78,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

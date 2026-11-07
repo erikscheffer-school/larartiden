@@ -302,5 +302,127 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.774f4f5419c986b501412fde/1773733783691/Kallelse%20BIN%202026-03-24.pdf",
+  "titel": "Kallelse BIN 2026-03-24.pdf\nPdf, 5 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "26cd70065a56b56b3173ac744a06721f854f9dd59a9142c3ee2535b779dbdd63",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 170,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "planeringstid",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 138,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "vara utsättare och utsatta inom ett och samma ärende. En par statliga utredningar om minskad administrativ börda för förskollärare och lärare och reglering av lärares undervisningstid och planeringstid föreslår bland annat lättnader i regelverket som styr arbetet mot kränkande behandling. Förslaget innebär i korthet att förflytta fokus från",
+    "belopp_nara": false
+   },
+   {
+    "sida": 148,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "atser och anpassningar för elever som behöver det försämrats. Den utökade undervisningstiden ser nu ut att bli ett svårt utgångsläge vid en trolig reglering av lärares undervisningstid och planeringstid i skollagen. Det kommer att leda till att undervisningstiden hos våra lärare kommer att minskas betydligt och då blir tillgången till lärarti",
+    "belopp_nara": false
+   },
+   {
+    "sida": 153,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "betet med styrdokumenten. Metoder som EPA (EPA-samtal Enskilt, Par, Alla) och samtalskartor har använts för att bygga en gemensam förståelse för mål, metod och undervisningsuppdraget. Lekcertifiering är ett långsiktigt och återkommande utvecklingsområde på flera förskolor, där processledare har ansvarat för att driva arbetet framåt och s",
+    "belopp_nara": false
+   },
+   {
+    "sida": 33,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "am och beviljar enskild elev sådan utökning tar på sig samtliga kostnader för utökningen av programmet till exempel för utökad garanterad rätt till undervisningstid. 10.4 Reducerat program Hemkommunen ersätter Anordnarkommunen för det pris som gäller för det program där en elev antas, även om eleven följ",
+    "belopp_nara": false
+   },
+   {
+    "sida": 51,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "am och beviljar enskild elev sådan utökning tar på sig samtliga kostnader för utökningen av programmet till exempel för utökad garanterad rätt till undervisningstid. 10.4 Reducerat program Hemkommunen ersätter Anordnarkommunen för det pris som gäller för det program där en elev antas, även om eleven föl",
+    "belopp_nara": false
+   },
+   {
+    "sida": 66,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ära samarbete med samtliga kommuner. I samordningen ingår bland annat ansvar för: • Ansökan och redovisning till Skolverket av statsbidrag för avtalsutbildningarna och andra statsbidrag som parterna överenskommer att ansöka om gemensamt. • S",
+    "belopp_nara": false
+   },
+   {
+    "sida": 93,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Förvaltningsrätten. 7.23. Beslut om ytterligare Skolförordningen Sektorchef Rektor undervisningstid 9 kap. 3§, 10 kap. 2§",
+    "belopp_nara": false
+   },
+   {
+    "sida": 94,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "24. Fördelning mellan Skolförordningen Sektorchef Verksamhetschef årskurserna av 9 kap. 4§, 10 kap. undervisningstiden 3§ 7.25. Beslut om ämnen som Skolförordningen Sektorchef Rektor elevens val 9 kap. 8§, 10 ka",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 23
+ },
+ {
+  "url": "https://lillaedet.se/download/18.700fcb0619d24e1445a499c/1774850256221/Protokoll%20BIN%202026-03-24.pdf",
+  "titel": "Protokoll BIN 2026-03-24.pdf\nPdf, 2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9a6b9582edd7d095253b84d2cefda00a956472336f81eeb58babceb679e0ecd1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.39016c2919d8be93a895d/1776169518724/Kallelse%20BIN%202026-04-21.pdf",
+  "titel": "Kallelse BIN 2026-04-21.pdf\nPdf, 3.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1eba97e070d6513a531986db1d8784e79c6e2db64563751b3dd1ec73d34cb66a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 96,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.1da24d9c19d9a5b4dca8f99/1777297503902/Protokoll%20BIN%202026-04-21.pdf",
+  "titel": "Protokoll BIN 2026-04-21.pdf\nPdf, 1.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "909aa2b17e5aa400d99b330b96d68bf97592b08de2cb9646c7a96aaf6a1f8af0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

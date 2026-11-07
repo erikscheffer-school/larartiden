@@ -126,5 +126,75 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nordanstig.se/download/18.c9ab8701686e14dc6fa36a5/1548686468743/Mal-och-budget-2019--2022.pdf",
+  "titel": "Mål och budget 2019–2022\npdf, 871.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cb0bde3c13c604b974e23174f539a68660794dbb6b2c5204a201e0cc30477b15",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nordanstig.se/download/18.c9ab8701686e14dc6fa36a8/1548686486498/Budget-2018--2021.pdf",
+  "titel": "Budget 2018–2021\npdf, 1.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "277346828414cc3851f44b958cec3b37157a88893280fa48d90282c1502de3a2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 63,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nordanstig.se/download/18.c9ab8701686e14dc6fa36a7/1548686486440/Budget-2017--2020.pdf",
+  "titel": "Budget 2017–2020\npdf, 831 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "30a9dcb35d2b6dafee3dec636b280f5718ab219fef0ce5fa94a389352dc6dd20",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 71,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "ekten uppstår då försäljning av hus och gårdar ger flyttkedjor, där barnfamiljer och andra ges möjlighet att köpa hus i kommunen. Staten har beslutat att utöka undervisningstiden med 105 timmar i matematik från och med 1 juli 2016. Ökningen av timmar har tillkommit för att studieresultaten i matematik för svenska elever i den internat",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://nordanstig.se/download/18.c9ab8701686e14dc6fa36a6/1548686485629/Budget-2016--2019-Kf-151109-Kf-%C2%A7-123.pdf",
+  "titel": "Mål och budget 2016, flerårsplan 2017–2019\npdf, 14.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3c22ad030b1301959f6365976733e8512d3519e00112a44a9c4526d76fb2864a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 87,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

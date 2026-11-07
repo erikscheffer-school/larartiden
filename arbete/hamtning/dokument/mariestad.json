@@ -113,5 +113,87 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.173b184319d9a6cf1f23ceb/1776696324631/Handlingar%20Kommunfullm%C3%A4ktige%202026-04-27.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2026-04-27.pdf\nPdf, 63.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d9a2afe751a0bd99a4c2b167764f7552f61ce1076e50740a6851668361027c05",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 819,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 61,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "idigt har satsningar fortsatt på utemiljöer och nybyggnationen av Kvarnstenens förskola, som beräknas stå inflyttningsklar sommaren 2026. Nämnden har erhållit statsbidraget ”Stärkt kunskapsuppföljning”, vars ram för Mariestads kommun 2025 uppgick till ca 18 mnkr. Gymnasieskolan har från juli 2025 påverkats av reformen GY25, som",
+    "belopp_nara": true
+   },
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "evantal anpassad grundskola samt ökade kostnader för -3,7 extraordinärt stöd Statsbidrag 5,0 Färre elever som studerar i andra kommuner eller friskolor 1,7 S",
+    "belopp_nara": false
+   },
+   {
+    "sida": 60,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "om 1 % som placerades centralt. Resultatet för 2025 kan sammanfattas som ett år med stora strukturella anpassningar – där minskade volymer i förskolan, ökade statsbidrag och vakanta tjänster förbättrade resultatet, samtidigt som ökande behov inom anpassad grundskola, eftersatta investeringar i gymnasiet och skolskjutsens kostna",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://mariestad.se/download/18.65001d3f19e0220f714b1b9/1779196747662/Handlingar%20Kommunfullm%C3%A4ktige%202026-05-25.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2026-05-25.pdf\nPdf, 48.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7a84d30e731bd8d87acd195ef63cb51913d72c0857d95b4e063197e4c3fb048f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 483,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.3e0f360a19e6365fc4fdc0f/1780932587786/Handlingar%20Kommunfullm%C3%A4ktige%202026-06-15.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2026-06-15.pdf\nPdf, 38 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f8e84af4d502956e4c73339a06401100f34341e4cc075b4cd74422d000614a51",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 548,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 52,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Familjestöd och Öppen förskola Prognostiserat överskott om 0,6 Mkr på grund av lägre personalkostnader och högre statsbidrag än beräknat vilka delvis finansierar familjebehandlartjänster. Familjerätt Prognostiserat överskott om 0,2 Mkr på grund av lägre personalkostnader. Integra",
+    "belopp_nara": true
+   },
+   {
+    "sida": 86,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "terna. En förskollärarlön kostar ca 135 tkr mer per år än en barnskötartjänst. Den 1 juli 2026 sänks maxtaxan i förskolan, kommunerna ska kompenseras i form av statsbidrag, om det kompenserar fullt utifrån avdragen på avgifterna är en osäkerhetsfaktor. Grundskola har ett underskott på 3,5 mkr i tertial 1 där i stort sett samtliga",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

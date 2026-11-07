@@ -202,5 +202,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.77fc78891a01862683b2d087/1787149744899/Kallelse260819.pdf",
+  "titel": "Utbildningsnämnden 2026-08-26 pdf, 27 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ca465738617aee8e93f9c33e506b5839ba0f8064c6bc1b9070d1d1d59b312c1e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.9f46eb31a0cd88f5831346f/1790173228610/Kallelse%20UN260930.pdf",
+  "titel": "Utbildningsnämnden 2026-09-30 pdf, 24.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0b778b80d50a190c65e3f186855b16418ec92b99aac172699071eb12f8f49130",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.13abd70b1a15ca87dc48260/1792582898497/Kallelse%20UN%20261028.pdf",
+  "titel": "Utbildningsnämnden 2026-10-28 pdf, 87.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dde3b7ae6a52a5272bbf9035e344db9f814b03409beca8625e9b868f3e870bc0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.69ac471819bbeca05c67f62e/1769692325202/Protokoll%20UN%20260128%20(1).pdf",
+  "titel": "Utbildningsnämnden 2026-01-28 pdf, 221.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "038ddbd9d88638a2386dcc699161182b42111601ca3a74af9359f21fc39104f9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m till viss del påverkar möjligheterna att planera och göra tillförlitliga prognoser. En återkommande osäkerhetsfaktor är att statsbidragens omfattning och villkor fastställs sent, vilket gör det svårt att bedöma vilka resurser som kommer att vara tillgängliga. E",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

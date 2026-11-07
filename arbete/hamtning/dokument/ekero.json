@@ -164,5 +164,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ekero.se/download/18.134d4a3e1a162ee4b562e588/1793284436630/Anslag%20SBF%202026-10-23.pdf",
+  "titel": "Sammanträdesdag: 2026-10-23 Protokollet omfattar: §§ 45-46, 48-57 Datum för tillkännagivandet: 2026-10-28 Överklagas senast: 2026-11-19 Anslag pdf, 55",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6e0927f7e68fd4ff44089f1a02ba3f80d4671bb02cfce5a74bf2b61f43e2cc1c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

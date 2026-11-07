@@ -160,5 +160,77 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.tierp.se/download/18.4f617d3619d24d1a6a56b59/1776086090235/Handlingar%20KF%202026-04-07.pdf",
+  "titel": "Handlingar KF 2026-04-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "04cb14f587cf0be5a608514b77cf25da18330ebd019ec55546c0d34d069c21f4",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 983,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 60,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kolor mot brott. 2024 avser 1,5 mnkr Utökning ssk på särskilda boenden, 1,0 mnkr Extra resurser till skolan för att mildra effekten av inflationen och 0,7 mnkr Statsbidrag för kommunernas medverkan i EU-val. Not 8 Finansiella intäkter Kommunkoncern",
+    "belopp_nara": true
+   },
+   {
+    "sida": 73,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "beror i huvudsak på lägre IKE-kostnader, lägre lokalkostnader, lägre personalkostnader samt ökade intäkter för barnomsorgsavgifter (avgiftskontroll) samt högre statsbidrag. Grundskola Redovisar en positiv budgetavvikelse med 2,2 mnkr. Avvikelsen beror i huvudsak på högre statsbidrag, bidrag och avgifter, vakanshållning av tjänste",
+    "belopp_nara": true
+   },
+   {
+    "sida": 148,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "et beror i huvudsak på: ökade intäkter för barnomsorgsavgifter med 1 091 tkr; avgiftskontrollen för Barnomsorg ökade förskolans intäkter med 805 tkr samt ökade statsbidrag med ca 200 tkr. Kostnaderna är 2 925 tkr lägre än budget. Överskottet beror i huvudsak på: lägre IKE- kostnader på ca 1 000 tkr, lägre lokalkostnader ca 1 000",
+    "belopp_nara": true
+   },
+   {
+    "sida": 150,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mber 2025 Grundskolan redovisar ett överskott på 2 172 tkr för 2025. Intäkterna är 5 046 tkr bättre än budget framför allt till följd av: utfall avseende flera statsbidrag och övriga bidrag blev totalt ca 1 700 tkr bättre än budgeterat. Barnomsorgs- avgifter och avgiftskontroll blev ca 600 tkr bättre än förväntat. Kostnaderna är",
+    "belopp_nara": true
+   },
+   {
+    "sida": 152,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "l januari-december 2025 Gymnasieskolan och vuxenutbildningen redovisar ett underskott på 6 701 tkr tkr för 2025. Den negativa avvikelsen beror på flera poster. Statsbidrag för yrkes-vux blev i utfallet ca 3 000 tkr lägre än budget. Interkommunala kostnader i förhållande till budget ökat med 5 091 tkr och interkommunala intäkter h",
+    "belopp_nara": true
+   },
+   {
+    "sida": 182,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola +5,5 Summa nämnder -1 597,7 -1 592,5 5,2 0,3 % Grundskola +2,2 Statsbidrag -0,3 Gottgörelse/lönesk +4,3 Gymnasieskola -6,7 Perso",
+    "belopp_nara": false
+   },
+   {
+    "sida": 446,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t utöka bemanning med utbildad skolbibliotekarie på de mindre grundskolorna medför ökade kostnader. Medel för detta finns tilldelat inom ramen för de generella statsbidragen och det är önskvärt att dessa kommer rätt verksamhet till del för att undvika underskott.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 451,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t utöka bemanning med utbildad skolbibliotekarie på de mindre grundskolorna medför ökade kostnader. Medel för detta finns tilldelat inom ramen för de generella statsbidragen och det är önskvärt att dessa kommer rätt verksamhet till del för att undvika underskott. Beslutsunderlag  Handläggarens tjänsteutlåtande  Bib",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 10
  }
 ]

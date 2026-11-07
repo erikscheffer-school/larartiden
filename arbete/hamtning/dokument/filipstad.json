@@ -171,5 +171,65 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.3a25d6681a0e05f9095a7ed2/1790663686583/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-09-30.pdf",
+  "titel": "Handlingar för möte Kommunstyrelsen den 2026-09-30.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "23a44fb1066a959d0213909148792897385ca5c0c2488927158b1dfe3284fb02",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 73,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.27ebb9751a012f9676a6ea3e/1787639046547/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-08-26.pdf",
+  "titel": "Handlingar för möte Kommunstyrelsen den 2026-08-26.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b14140dcd453b216420f752dc118e243accaeed91fe3699086f49923bec909f6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 168,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.64b03d19e85a7f5d3c4d40/1780585505484/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-06-10.pdf",
+  "titel": "Handlingar för möte Kommunstyrelsen den 2026-06-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cb731a1e95cb5e1633416f05e96d3aa38290e6837810f00f5e9c5e5336a221fb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 228,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.d2968b719e4ad36e644ac77/1779461550288/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-05-28.pdf",
+  "titel": "Handlingar för möte Kommunstyrelsen den 2026-05-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e984546eedbef1fbdb67af7380397b5916d472b33edae2c27fe0a72a408c6f5d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 188,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

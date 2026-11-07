@@ -181,5 +181,95 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://saffle.se/download/18.c6a65bc1791ca813b27a3af/1620372887443/Budgetboken%202021-2023.pdf",
+  "titel": "Budget 2021\npdf, 1.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7cb394a5c61a703fdef4ff7272a4c0033dfd49536373b3c90044efc288005283",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 95,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 30,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ag om 423 422 tkr för år 2021, om 427 502 tkr för år 2022 och om 427 973 för år 2023. Statsbidragen till kommunerna för obligatorisk lovskola åk 6-9 och utökad undervisningstid inom lågstadiet har tagits bort. Totalt minskar det kommunbidraget med 872 tkr år 2021. Kommunen sluter avtal med Region Värmland om en familjecentral med star",
+    "belopp_nara": true
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rter finns och Barnkonventionen lag rekryteringsstrategi och andra åtgärder Statsbidrag - Kostnadsvillkoret för Likvärdig diskuteras för att fortsatt vara en god skola tas bort. Dock får inga arbetsgivare.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 45,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "budget som förvaltningen har för pedagoger. Pedagogerna i Kulturskolan arrangemang minskar vilket medför både kommer att behöva flytta sin undervisningstid färre och mindre kostsamma arrangemang. till eftermiddagar och kvällar. Det finns en oro för att Säffle kan få svårare att behålla och Även om kommunen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://saffle.se/download/18.5204f0c618002b866bf48cb0/1651568221318/%C3%85rsredovisning%202021.pdf",
+  "titel": "Årsredovisning 2021\npdf, 53.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "daf90db51464d70d341aa06eb16cbf4d2814e3b16c3941487eb6da2b0aad9861",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 64,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "laddstolpar på Mnkr till 1 471 Mnkr. fastigheten. Ett flertal renoveringar har genomförts Skatteintäkter, utjämnings- och statsbidrag ökade med under året, både av skolor och av äldreboende, samt 4,4 procent. För att kommunen ska ha en långsiktig energieffektivisering av ar",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://saffle.se/download/18.4e1a93b016d8b57a91320c5b/1570687600965/Budget%202020.pdf",
+  "titel": "Budget 2020\npdf, 1.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fe6419196e5a4938bd71145f08c5c793d46c9b875b6f71c9a363bee0f2b1a28b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 78,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "utakad undervisningstid inom lågstadiet ökar cent medfinansiering från kommunen för- statsbidraget och därmed kommunbidraget svårar arbetet. Arbete pågår för att utöka med 343 tkr år 2020",
+    "belopp_nara": true
+   },
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "resultat som motsvarar 2 procent som andel av från demografin har varit uppenbart och känt skatter och statsbidrag. Även kommunerna har under ett antal år. Hittills har utmaningarna i stora investeringsbehov. Skolor, för",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
  }
 ]

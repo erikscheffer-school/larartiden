@@ -262,5 +262,73 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2016-2018.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "42ee1f6a084a8c2e256f55ee9f9b2dcad622e15ea846c51086be4039f1448e7f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2015-2017.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e89bc20bdaac821ed1a83a8257d3ff00fa1289602a3c2c89b38a8976a5af4012",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gligt prioriteras. Medel avsätts också för ytterligare löneökningar för förstelärare.  Fritidspengen avskaffas och riksnormen höjs.  Riktade statsbidrag på 2 mdkr för stärkt bemanning i äldreomsorgen införs samtidigt som tidigare statsbidrag avskaffas, nettoeffekten blir 0,7 mnkr.  Takbeloppet höjs",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2024/08/Avstamning-Kommunplan-2020-2024.pdf",
+  "titel": "Avstämning Kommunplan 2020-2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "35ee324eb5d64940aaa9be55497b8636ea68d4c08d5379d2729b1a67bbebe850",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Avstamning-Kommunplan-2018-2020.pdf",
+  "titel": "Avstämning Kommunplan 2018-2020",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "735388059e50a649d5fe1b9cdd51eedeaac48006456aa25612c8f5e6758cce50",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

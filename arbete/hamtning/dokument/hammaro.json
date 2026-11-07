@@ -97,5 +97,97 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r00824043/document/97599400fcf879df77c1-0e48-488d-8557-8ab1a0956e03?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+  "titel": "Kommunfullmäktige 2026-06-22 – 14. Beslut om budget Hammarö kommun 2027 – 14.1 Beslut KS 2026-06-01Beslut om budget Hammarö kommun 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "73d725ccf194f15f5216b9c89b5dd2cebee995b71880e786e1a48011e0fcd713",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r00824043/document/8e60359690c6df234043-2616-4a5f-90b4-e2371d71129d?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+  "titel": "Kommunfullmäktige 2026-06-22 – 14. Beslut om budget Hammarö kommun 2027 – 14.2 Beslut BUBER 2026-05-25Budget Hammarö kommun 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4c23a3b4f0ac72c61874060850c19a275bafe3c333c6ae99634cbf2f2e9a7433",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r00824043/document/24e657b8fdd4cfa4edb2-ead0-49a4-9dff-436d8d25e567?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+  "titel": "Kommunfullmäktige 2026-06-22 – 14. Beslut om budget Hammarö kommun 2027 – 14.3 Budgetförslag majoriteten Hammarö kommun 2027 med plan för 2028 och 2029",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fda31292c54d98e839916ac0dfa45f8e8e1d70fd240298002e7e726ef4471ae4",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 37,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rksamheter och resurser. Över tid beslutar regeringar om olika reformer som berör och påverkar välfärden. Under våren har det beslutats om två större reformer, undervisningstid för lärare och aktivitetskrav för att få försörjningsstöd. SKR gör bedömningen att dessa är kraftigt underfinansierade, vilket är en utmaning för hela kommunsv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "-2 280 -2 280 -2 280 Kommunstyrelsen (besparing) 800 800 800 Reform undervisningstid/aktivitetskrav -8 500 -16 000 -16 000 Service prisökningar -2 000 -2 000",
+    "belopp_nara": false
+   },
+   {
+    "sida": 33,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "-8 347 -8 695 Generella statsbidrag 189 248 185 108 183 596 Generella statsbidr. undervisningstid, 5 696 7 745 7 745 aktivitetskrav Statsbidrag LSS 16 078 15",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r00824043/document/69649dd838924c781270-d42f-4cdb-8d99-3daf7bdf1b85?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
+  "titel": "Kommunfullmäktige 2026-06-22 – 14. Beslut om budget Hammarö kommun 2027 – 14.4 Budget från Hammarö Borgerliga Allians 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c78317f0a395388618a421fab41e7e64c1ff7436d18c2f43d07931d0dbb14ec4",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "0 öre = 5100 år 2027) -7 650 -12 750 -12 750 Generella statsbidrag 189 248 185 108 183 596 Statsbidrag undervisningstid, aktivitetskrav 5 696 7 745 7 745 Statsbidrag LSS 16 078 15 982 15 982 Maxtaxa",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
  }
 ]

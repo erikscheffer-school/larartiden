@@ -28,5 +28,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r32137321/document/aa072e9109b2a7536514-b0fa-430f-bb36-7ddc02e35fb6?hash=51473ecee04e89-9d8159e9ba74171068-c5c2b1b24cba9056996-91177703c5c39057059-828af16862f710139258",
+  "titel": "Barn- och utbildningsnämnden Sammanträden 2026 2026-10-29 – 04. Detaljbudget 2027 – 04. Barn- och utbildningsnämndens arbetsutskott (2026-10-15 Bunau §27)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "705b1d05d84b9b0d1206dca970716a625ea7c0e1f97fd9629ff1885c05708e0d",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r32137321/document/8efce101c24c02355fce-0846-4f79-8951-7d05e7987861?hash=51473ecee04e89-9d8159e9ba74171068-c5c2b1b24cba9056996-91177703c5c39057059-828af16862f710139258",
+  "titel": "Barn- och utbildningsnämnden Sammanträden 2026 2026-10-29 – 04. Detaljbudget 2027 – 04. Detaljbudget 2027, Presentation",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0dcc13e655cca591935168231e15c25cacf4f095c714fda7651d53320d62cd64",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

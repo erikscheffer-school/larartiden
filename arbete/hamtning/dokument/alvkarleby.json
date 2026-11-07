@@ -97,5 +97,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.7ecc6c21a12fa29ef310dbe/1792575185703/KS%20protokoll%202026-10-14.pdf",
+  "titel": "14 oktober pdf, 905.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "03e5d62a0b2c6fa1c0052aba809fc4e4e4570cbef465fab5c125829cfbcb0a82",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.66a5b1a319d9a5b092c69ff/1776839190860/KS_2026-04-15-Protokoll%20kommunstyrelsen%202026-04-15.pdf",
+  "titel": "15 april pdf, 1022.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "76b00aaeee46186c377d34ce9aec8427f6bfb8d066e6e50c5a7c20d0950b3bb6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.51fc507619c98a21b9c21e8f/1773828999156/KS_2026-03-12-Protokoll%20kommunstyrelsen%202026-03-12.pdf",
+  "titel": "12 mars pdf, 232.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6aeeb952128763440840e798834b1cb3580ad2d13c6ab0ab098b344623ef6696",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

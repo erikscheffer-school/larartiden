@@ -196,5 +196,81 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.7ddd8c91176843130eb957/1608564144212/M%C3%A5l%20och%20budget%202018%20med%20plan%202019-2021.pdf",
+  "titel": "Mål och budget 2018 med plan 2019-2021.pdf Pdf, 3.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fc7f817eacf8b28fbb1277fbb0a6408a08a98f57d4861c9d0baec4595ed68d56",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 118,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 77,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "torer. Botkyrka kommun har fått preliminära uppgifter om att det handlar om cirka 22 miljoner kronor. Stödet kommer kommunen använda till mindre klasser, högre lärartäthet, högre löner, utöka tid för lärarnas kompetensutveckling, ökad personaltäthet och kompetensutveckling inom elevhälsan. Statligt stöd för stärkt likvär-",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.7ddd8c91176843130eb958/1608564144403/Budget%202017%20med%20plan%202018-2020.pdf",
+  "titel": "Budget 2017 med plan 2018-2020.pdf Pdf, 2.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "87f37327de2b8c5c07d9707ff9bcebb5bda3ec93915f7c47e42f2939ba439ef0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 107,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "joner, vilket förskolor och 945,2 miljoner avser bygginve- motsvarar den sänkning som regeringen har steringar i skolor. gjort av det generella statsbidraget. Regeringen gör bedömning att det finns möjliga effektivi- Investeringar i förskolor och skolor redovisas seringar när en mer rättvis och likvärdig be-",
+    "belopp_nara": true
+   },
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "i säkerställa att ingen skattekrona går till Välfärdssatsningarna finansieras genom att de spillo, att vi fortsatt har möjlighet att utveckla generella statsbidragen har höjts med de så välfärden och att Botkyrka kan fortsätta vara kallade Välfärdsmiljarderna. Utöver skolan en framtidsinriktad kommun",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.21f1442d17ce4b6f17d17dcd/1638811958130/M%C3%A5l%20och%20budget%202022%20med%20fler%C3%A5rsplan%202023%20-%202025.pdf",
+  "titel": "Mål och budget 2022 med flerårsplan 2023 - 2025.pdf Pdf, 2.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f795683fd775b5d31e0e25330916ba5eb5fb3b4d98e5f458d4c2981d519e2f7c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 133,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 98,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ngen att 59 miljoner kronor ska tillföras timmars extra studietid per vecka utanför kommunerna med början 2024 för att därefter ordinarie undervisningstid för att få hjälp med stegvis öka. läxor eller annat skolarbete. Den obligatoriska",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

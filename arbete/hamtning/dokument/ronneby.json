@@ -141,5 +141,65 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.293f210a19e39693a0d10a1/1779091976447/Kommunstyrelsen%202026-05-05%20%C2%A7%C2%A7%20130-155.pdf",
+  "titel": "Kommunstyrelsen 2026-05-05 §§ 130-155.pdf\nPdf, 650.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6b5c1287761f4f0b11ab4f9ecfed58f9f60f6c49e4075b4c0ac3d19b18ab48f6",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 79,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.152380bc19ea58c8b8be3ee/1781077623330/Kommunstyrelsen%202026-06-09%20%C2%A7%C2%A7%20156-186.pdf",
+  "titel": "Kommunstyrelsen 2026-06-09 §§ 156-186.pdf\nPdf, 613.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "99a42d4b1b2538e9b078d381d7d1b3296c05c2320c9ff90a16cfcd23d1b14117",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 72,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.1003f451a00e5619a8761b/1787033623368/Kommunstyrelsen%202026-08-17%20%C2%A7%C2%A7%20187-190%20omedelbart%20justerat.pdf",
+  "titel": "Kommunstyrelsen 2026-08-17 §§ 187-190 omedelbart justerat.pdf\nPdf, 249.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6c73ca8732e9406257c3ec3000202e0eeb7aa0043fa6d55328aae643cc58812c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.4c1c2a561a0422229e727d2d/1788264568032/Kommunstyrelsen%202026-09-01%20%C2%A7%20239%20omedelbart%20justerad.pdf",
+  "titel": "Kommunstyrelsen 2026-09-01 § 239 omedelbart justerad.pdf\nPdf, 263.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e529c6ec8b500cb6b1e466d22876c21d6ecae754efc3813f76c87fd59dad6040",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

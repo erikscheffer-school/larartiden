@@ -13,5 +13,43 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kavlinge.se/download/18.74fa189c1900fdd81e5b431/1720092776960/Budget%202025%20plan%202026-2027%20Tillg%C3%A4nglighetsanpassad.pdf",
+  "titel": "Kävlinge kommuns budget 2025 pdf, 3.5 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "24b5f68d83972fe6efd7b761d0991e2ea7f1eb1343b53b6a6a82453120528774",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kavlinge.se/download/18.2c73834a188c4d44a4d9f3/1687158726368/Budget%202024%20plan%202025-2026%20KF.pdf",
+  "titel": "Kävlinge kommuns budget 2024 pdf, 3.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1520b2685bc6c7fc6455e94a4110a209ca956f410b0f91d7409e8360d97ab740",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 22,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "3,0% 95% *) man Medborgarundersökningen - Förskolan fungerar bra i 96,1% 97,6% 94% *) kommunen, andel (%) Förskollärartäthet, antal barn/lärare med förskollärarle- 11,6 12,5 10,9 10,5 ***) gitimation, kommunal regi Gymnasieelever med examen inom 4 år, hemkommun,",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

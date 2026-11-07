@@ -99,5 +99,51 @@
   "träffar": [],
   "antal_träffar": 0,
   "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.soderhamn.se/download/18.39516aab19e884aef8516e07/1781083389612/Protokoll%20%C3%96FN%202026-04-21%20%C2%A7%C2%A7%2026-34.pdf",
+  "titel": "Protokoll ÖFN 2026-04-21 §§ 26-34.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94b8b73fa2f5a66d720d68caebbceda775c45b63ea70935acac848d6aabe1fc2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.soderhamn.se/download/18.7b705b8b1a162f2f38894ff/1793093975439/Protokoll%20%C3%96FN%202026-06-16%20%C2%A7%C2%A7%2035-43.pdf",
+  "titel": "Protokoll ÖFN 2026-06-16 §§ 35-43.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "83c864e04efbd90170e438da661113af13a38bfcb63e021530f4d8d383989fcc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderhamn.se/download/18.7b705b8b1a162f2f388950b/1793094014396/Protokoll%20%C3%96FN%202026-08-18%20%C2%A7%C2%A7%2044-50.pdf",
+  "titel": "Protokoll ÖFN 2026-08-18 §§ 44-50.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0e02c8e3c32a834dab553eae4dcf74759ec923f858c7f9744f089ed0976867b0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

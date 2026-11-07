@@ -118,5 +118,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.5cdabe8a1a01d949c1c7a25/1787226973414/Protokoll%20kommunfullm%C3%A4ktige%202026-08-17.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-08-17.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e033355d418d6a6b262b09d82989224b15c212feb26c426e83c37a609de01dca",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.1d7d30f119efe220e451d4c7/1782458124419/Protokoll%20kommunfullm%C3%A4ktige%202026-06-22%20%C2%A7%C2%A7%20123-140%20och%20143-151.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-06-22 §§ 123-140 och 143-151.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dfaf8f3e463e1e69633bca81bd90ff708359f77d16c0800bcdac3f45d4ae6593",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.333f6e7819ed45b84f09a5d7/1782147630914/Protokoll%20kommunfullm%C3%A4ktige%202026-06-22%20%C2%A7%C2%A7141%20och%20142.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-06-22 §§141 och 142.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9bea53066a3a075b2606016392b72e077e5bab046f5d76909e6341cc042c721f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

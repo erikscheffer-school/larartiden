@@ -103,5 +103,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.5e72de61a1a18a32fb28169/1793806798250/261103-ks-protokoll-gdpr.pdf",
+  "titel": "Protokoll KS 2026-11-03 Pdf, 363.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6ffbf640f8a30ba50874e5afc2afac5e8ff69bc9eb002c27baededd216f8cab3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.232629221a148ff333ebcf1e/1792559858813/261020-ks-protokoll-gdpr.pdf",
+  "titel": "Protokoll KS 2026-10-20 Pdf, 224.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8b08149af56e90fe53e28d925f04798c678d9b487f22d1c7c5e6a99c83eb673b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

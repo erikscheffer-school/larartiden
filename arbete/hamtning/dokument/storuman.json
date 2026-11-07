@@ -216,5 +216,111 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun2026-09-21-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0ba80e8fbb6296bde3ae4328a70fbed8a8adc8bf5106e816bdc3f75433df0b35",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 32,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 16,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "FKUN/2026:45 Redovisning av garanterad undervisningstid Varje elev ska ha garanterats 6890 h undervisningstid innan de lämnar åk 9. Tiden fördelas mellan olika ämnen och stadier i den nationellt beslutade timplane",
+    "belopp_nara": false
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "grundskolan till styrgrupp. FKUN/2026:33 Kulturrådet, beslut om fördelning statsbidrag till kulturell verksamhet i skolan, Skapande skola 2026/2027. Beviljat 188 100 kr _______________________________________________",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "e 4, Förskolan, Skolan & Omvärlden (FKUN/2026:11) 15 § 51 - Redovisning av garanterad undervisningstid (FKUN/2026:45) 16 § 52 - Uppföljning av skolpliktsbevakning Q2-26 (FKUN/2026:14)",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_-2026-05-25-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b256db0927da13bbc19ae5ba081a353bc720ffe7d0bcee0dc2a114a6d13ffae6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2026-02-23-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "03e35f89eeea786a74ef72baa9b7fdaf407a7bc2161aa9cfa2a5d17efb0e7bfe",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/protokoll-fkun_2025-12-15-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a83c2b44fd280596228512f8db63fdf7ec7333d300ddae87d41bece9fb9916e1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Nya avgiftsnivåer för förskola, fritidshem och pedagogisk omsorg 2026 Skolverket fastställer slutligt statsbidrag för kommande bidragsår under januari månad varje år. Statsbidraget betalas ut under förutsättning att k",
+    "belopp_nara": false
+   },
+   {
+    "sida": 25,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "rutiner för säkerhet, samverkan med vårdnadshavare och övergångar. Arbetsmiljön bedöms som god, även om planeringstidens organisering lyfts som ett utvecklingsområde. Beslutsunderlag Tillsynsr",
+    "belopp_nara": false
+   },
+   {
+    "sida": 26,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "sitt uppdrag väl och elevernas resultat är goda, vilket till stor del beror på små elevgrupper och hög lärartäthet. Hybridorganisationen möjliggör flexibel undervisning av hög kvalitet, men ställer samtidigt höga krav på elevernas studiesituat-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
  }
 ]

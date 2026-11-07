@@ -141,5 +141,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.1e594eea181871db88612d/1656427698342/Beslutad%20Budget%20%202021-%202022%20plan%202023.pdf",
+  "titel": "Budget 2021-2022, verksamhetsplan 2023\npdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "414da5c31c4f0f63e6aac0977e421d6265743b1fecc8f97b7eb7f12c9d524bb8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "os personer med covid- 19 på landets äldreboenden. Staten hade för avsikt att hålla kommunerna skadeslösa varpå de ökade de generella statsbidragen med 13,5 miljarder kronor, samt lovade att ersätta alla merkostnader inom funktionshinder- och äldreomsorg, vilket i kommunerna beräknas till 5",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vannas.se/download/18.1e594eea181871db88612c/1656427674834/Budget%20%202020-2021%20plan%202022%20beslutad%20KF%202019-06-10.pdf",
+  "titel": "Budget 2020, verksamhetsplan 2021-2022\npdf, 896.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "82df49103d962bf4ba06482fa6901c4ade5fada0bc34904b1d7ec55bff630efd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.1e594eea181871db88612b/1656427649855/Budget%202019-2020,%20plan%202021.pdf",
+  "titel": "Budget 2019, verksamhetsplan 2020-2021\npdf, 417.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "88a60916078693194039fbbaa34f3722d23430e933821c287134810699ba7aa2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

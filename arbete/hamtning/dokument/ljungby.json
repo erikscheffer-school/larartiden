@@ -103,5 +103,85 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.almhult.se/download/18.4cb91c4619c47ae40a136db8/1770886757223/Utbildningsn%C3%A4mnden%20kallelse%20med%20handlingar%202026-02-18.pdf",
+  "titel": "Kallelse/Underrättelse 1(2) Utbildningsnämnden 2026-02-18 Plats och tid",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "535274791caeeb2063dd44a07433622a009b1022de5a4a44361cb50fa76b05fb",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 126,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "6 745 464 6 455 188 6 667 112 6 667 112 Ram för 2026 är 7 162 073 kr. Förskola/ Statsbidrag maxtaxa Fritidshem 4 031 848 4 047 299 3 004 817 3 004 817 Ram för 2026 är 4 847 781 kr. Stat",
+    "belopp_nara": true
+   },
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "90 440 16 190 440 091 515 kr. Bidraget ändrades till statsbidrag för att Förskola utveckla språk- och Statsbidrag läslyft/",
+    "belopp_nara": true
+   },
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "förskolan, förskolelass, Nytt bidrag fr o m 2024. Ramen för Statsbidrag för inköp av litteratur lågstadiet 299 069 745 012 745 012 2026 är 778 522 kr Statsbidrag gymnasial",
+    "belopp_nara": true
+   },
+   {
+    "sida": 97,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "verksamhet, framför allt elevplatser på anpassat gymnasium. Även föräldraavgifter från förskola och fritidshem visar ett överskott på 0,9 mkr. Trots att vissa statsbidrag var okända vid årets början och att nämnden dessutom fått mer bidrag än planerat för några bidrag, blev bidragen 0,5 mkr lägre än budgeterat. Personalkostnader",
+    "belopp_nara": true
+   },
+   {
+    "sida": 100,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ar klarat sina budgetar och lämnar ett överskott på 2,3 mkr. Personalkostnaderna har överstigit budgeten med 1 mkr medan intäkterna - framför allt avgifter och statsbidrag - gått med ett överskott på 1,8 mkr. Internationell förskola, fritidshem och grundskola Totalt visar internationella skolan och förskolan ett underskott på 1,8",
+    "belopp_nara": true
+   },
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026/13 vuxenutbildningen 4 Strategisk information 3-6 5 Redovisning av statsbidrag från Skolverket 2025 2026/57 7 - 19 6 Kartläggning förskoleklass 2025",
+    "belopp_nara": false
+   },
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "för vuxenutbildningen 5 Strategisk information Jenni Karlsson, verksamhetschef förskola 20 08:55–09:15 6 Redovisning av statsbidrag Camilla Åström, verksamhetscontroller 10 09:",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 37
+ },
+ {
+  "url": "https://www.ljungby.se/download/18.145b4da519c988ccc0815908/1772548809212/Ans%C3%B6kningsblankett%20Komvux%20som%20anpassad%20utbildning%202026.pdf",
+  "titel": "Ansök till Komvux som anpassad utbildning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aad775fc3d3f9bd2725b95090881ca1c1bc0234d3311dce1390774816fa8f655",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -73,5 +73,28 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sotenas.se/download/18.7432d7d11a1a188b0c06b6/1793803970206/Kallelse%20KF%202026-11-11%20inkl%20handlingar.pdf",
+  "titel": "Länk till kallelse\npdf, 45.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "63c39fef487d8ac63b2900cbaf4f4f791c10f5b6c4331c68c00173ae8cbe13fb",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 366,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 209,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ndringar: 1. Resultatnivån för 2027 sänks med 3,8 mnkr, från 21,5 mnkr till 17,7 mnkr. Årets resultat i förhållande till skatteintäkter och generella statsbidrag minskar därmed från 3,0 procent till 2,5 procent. 2. Investeringsanslaget om 4,0 mnkr år 2027 för ”Förskola 2 avdelningar vid Solhagen” utgår. 3.",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

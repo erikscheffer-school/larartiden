@@ -13,5 +13,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.52c5d3ca19c193ca13439bfa/1770130775079/Kallelse%20KF%202026-02-10.pdf",
+  "titel": "Kallelse KF 2026-02-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6da9666b3ddf1a1ce7600cd7847edebb17547f03d3be2a126b48f8f5f206a56e",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 299,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.27064a5c19d24e49c0081f6f/1775133649279/Kallelse%20KF%202026-04-09.pdf",
+  "titel": "Kallelse KF 2026-04-09.pdf\nPdf, 73.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f108a891b29a432a00682a0c85fa643659415ef320d4cfe91690e11155861e06",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 515,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 46,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "altjänsten har också fått ett utökat ansvar för brottsförebyggande arbete. Diskussioner har under året förts gällande regeringens ambition att reglera lärarnas undervisningstid, vilket kan komma att få ekonomiska konsekvenser. I övrigt finns inga lagstiftningsförändringar, förändringar i huvudmannaskap eller liknande som i hög grad på",
+    "belopp_nara": false
+   },
+   {
+    "sida": 35,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "nader för externa placeringar och vikarier. • Ny socialtjänstlag från 1 juli 2025 kräver resurser för förebyggande arbete. • Skolverksamheten har hög lärartäthet och legitimerade lärare, men utmaningar kvarstår kring skolfrånvaro och måluppfyllelse. Extern genomlysning pekar på behov av stärkt styrning. K",
+    "belopp_nara": false
+   },
+   {
+    "sida": 53,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "rbetet gällande skolfrånvaron, som ökat de senaste åren, är ett fokusområde. Utredningen visar också att Storfors har goda strukturella förutsättningar som hög lärartäthet, många legitimerade lärare och små undervisningsgrupper. Dessutom pekar utredarna på gott kollegialt klimat och en stor vilja och stort engagemang bland person",
+    "belopp_nara": false
+   },
+   {
+    "sida": 105,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "nader för externa placeringar och vikarier. • Ny socialtjänstlag från 1 juli 2025 kräver resurser för förebyggande arbete. • Skolverksamheten har hög lärartäthet och legitimerade lärare, men utmaningar kvarstår kring skolfrånvaro och måluppfyllelse. Extern genomlysning pekar på behov av stärkt styrning. K",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

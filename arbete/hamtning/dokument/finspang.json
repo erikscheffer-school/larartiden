@@ -200,5 +200,95 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.5b737ed31a08637eab54350e/1789389507845/2026-09-23%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 23 september 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a28d4434cd182293be77a45415991ed42b96c2ddd70d98f9219c3456fd01f393",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 546,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.206ab72d19e0253e0403df4f/1778504046261/2026-05-20%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 20 maj 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "846e7497c5c4caf0f87c856b278b5eba70a66a7246d553b160a4532333cb7c76",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "på faktabaserad kunskap om klimat och miljö, med tonvikt på naturvetenskapliga och lokala perspektiv och avlägsnar undervisningstid kopplad till Agenda 2030. Som motiv anges att man vill öka den ekonomiska effektivit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ngsmaterial i skolorna för att fokusera på faktabaserad kunskap om klimat och miljö, med tonvikt på naturvetenskapliga och lokala perspektiv, och avlägsnar undervisningstid kopplad till Agenda 2030 Torgny Maurer Arne Gunnarsson Pia Bågenholm Kent Sepic Kai Hallgren Lars Svensson Nathalie Pettersson Irina Sedova",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "2026-04-29 naturvetenskapliga och lokala perspektiv och avlägsnar undervisningstid kopplad till Agenda 2030. Som motiv anges att",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://finspang.se/download/18.58bc16519e63557f163234/1779805095785/2026-05-20%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 20 maj (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2c94c7db3880945ab606f12942731720ea7a426b730a3a388c328e071fe2e3da",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "i skolorna för att fokusera på faktabaserad kunskap om klimat och miljö, med tonvikt på naturvetenskapliga och lokala perspektiv och avlägsnar undervisningstid kopplad till Agenda 2030. Som motiv anges att man vill öka den ekonomiska effektiviteten och fokusera på lokala prioriteringar. Bakgrund till kommunen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://finspang.se/download/18.52c5d3ca19c193ca1341e323/1770044807954/2026-02-11%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 11 februari 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "14e343eb1d28a8e71d1d0b518a4f3fdba00ef9ef336c6aa3b53fbd972438c03b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 176,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

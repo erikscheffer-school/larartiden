@@ -88,5 +88,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.habo.se/download/18.75292ed61a0422215d439faf/1788191674373/Kallelse%20KF%207%20september%202026%20med%20beslutsunderlag,%20exkl.sekretess.pdf",
+  "titel": "Kommunfullmäktige",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "14d13f18b7a9ea8f3107f29a273be0c72c7faba05abf18159db395d6fc93176a",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 524,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.habo.se/download/18.37014ff19dd248e44a5bc20/1777906715388/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%20den%202026-05-11.pdf",
+  "titel": "Kallelse för kommunfullmäktige den 2026-05-11.pdf\nPdf, 342 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1f877f870226a345a697b5e73759e03c74ac6e20f90375970afd6de91155f16c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

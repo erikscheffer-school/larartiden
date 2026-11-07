@@ -188,5 +188,172 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c196c/1787812194913/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-09-03.pdf",
+  "titel": "Ärendelista och handlingar 3 september 2026 (pdf) pdf, 38.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ed283ae49ac6c89b3910ab10c616c7ae89cb417f113b436152101dd81978c423",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 607,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "tid för undervisningsuppdraget",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 203,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "•Tioårig grundskola •Lärares undervisningstid •Bättre förutsättningar för",
+    "belopp_nara": false
+   },
+   {
+    "sida": 204,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "de ekonomiska kostnader. Även om statsbidrag skjuts till kan man anta att kommunen själv kommer att få stå för en del av kostnaderna. En tioårig grundskola och Tid för undervisningsuppdraget kan förväntas innebära kostnader genom ökad undervisningstid och höjda löner. Det kan också tillkomma kostnader för ombyggnationer till exempel i samband med a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 208,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "•Bättre förutsättningar för trygghet och studiero i skolan •Tid för undervisningsuppdraget •Ett likvärdigt betygsystem •En förbättrad elevhä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 209,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "ur lagar, styrdokument och mål hänger samman på nationell och lokal nivå. Av de nationella skolutredningar som nu pågår kommer några av dem att ha påverkan på undervisningsuppdraget. Utredningar och beslut som Tioårig grundskola, vilken tillsammans med Kunskap för alla och Ett likvärdigt betygssystem, kommer att innebära förändrade villk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 214,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "o Bättre förutsättningar för trygghet och studiero i skolan o Kunskap för alla – nya läroplaner med fokus på undervisning och lärande o Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet o En tioårig grundskola  Kvalitetsrapporter med strategier för kommand",
+    "belopp_nara": false
+   },
+   {
+    "sida": 190,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a särskilda undervisningsgrupper, KSU (7,4 mnkr) – placerade på Timmele skola, Gällstad skola och Stenbocksskolan.  Akutskola (1,8 mnkr), delvis statsbidragsfinansierad.  Dubbelbemanning i matematik (9,2 mnkr), fördelas per elev.  Diabetes (0,3 mnkr), per diabeteselev upp till årskurs 4.  Nyanl",
+    "belopp_nara": true
+   },
+   {
+    "sida": 188,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "resursfördelningsmodell består av tre delar. Resursfördelningsmodellerna innehåller också riktade medel som fördelas utifrån behovsanpassade tilldelningar och statsbidrag. Elevhälsan ingår inte i grundskolans resursfördelningsmodell utan ligger centralt inom sektorsstab lärande och fördelas till både grundskola och gymnasium. U",
+    "belopp_nara": false
+   },
+   {
+    "sida": 196,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kolornas verksamhet är indelad i läsår. Dessa två hjul balanseras mot varandra. Sju till nio procent av kostnaderna för personal i grundskolan utgörs i dag av statsbidrag, beroende på om man enbart räknar pedagogisk personal eller även räknar med skolledning, administration, vaktmästare, fritidsledare och skolbibliotekarier. Sek",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 21
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5bdefa7e1a01f2ed6bf6bc14/1787551678642/Protokoll%20kommunstyrelsen%202026-08-20.pdf",
+  "titel": "Protokoll 20 augusti 2026 (pdf) pdf, 197.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fd6d9547d1f0477fa6e9c37c40c97d13f9a3c5544e7a6bb1e91596509a3a8806",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c1e18/1787812985624/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-08-20.pdf",
+  "titel": "Ärendelista och handlingar 20 augusti 2026 (pdf) pdf, 50.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3a5e33768bb8ce53878ec9ba8866e41dbbf17f0cace49d307d2897f8b33734f2",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 602,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "tid för undervisningsuppdraget",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 203,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "•Tioårig grundskola •Lärares undervisningstid •Bättre förutsättningar för",
+    "belopp_nara": false
+   },
+   {
+    "sida": 204,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "de ekonomiska kostnader. Även om statsbidrag skjuts till kan man anta att kommunen själv kommer att få stå för en del av kostnaderna. En tioårig grundskola och Tid för undervisningsuppdraget kan förväntas innebära kostnader genom ökad undervisningstid och höjda löner. Det kan också tillkomma kostnader för ombyggnationer till exempel i samband med a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 208,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "•Bättre förutsättningar för trygghet och studiero i skolan •Tid för undervisningsuppdraget •Ett likvärdigt betygsystem •En förbättrad elevhä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 209,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "ur lagar, styrdokument och mål hänger samman på nationell och lokal nivå. Av de nationella skolutredningar som nu pågår kommer några av dem att ha påverkan på undervisningsuppdraget. Utredningar och beslut som Tioårig grundskola, vilken tillsammans med Kunskap för alla och Ett likvärdigt betygssystem, kommer att innebära förändrade villk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 214,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "o Bättre förutsättningar för trygghet och studiero i skolan o Kunskap för alla – nya läroplaner med fokus på undervisning och lärande o Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet o En tioårig grundskola  Kvalitetsrapporter med strategier för kommand",
+    "belopp_nara": false
+   },
+   {
+    "sida": 190,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a särskilda undervisningsgrupper, KSU (7,4 mnkr) – placerade på Timmele skola, Gällstad skola och Stenbocksskolan.  Akutskola (1,8 mnkr), delvis statsbidragsfinansierad.  Dubbelbemanning i matematik (9,2 mnkr), fördelas per elev.  Diabetes (0,3 mnkr), per diabeteselev upp till årskurs 4.  Nyanl",
+    "belopp_nara": true
+   },
+   {
+    "sida": 188,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "resursfördelningsmodell består av tre delar. Resursfördelningsmodellerna innehåller också riktade medel som fördelas utifrån behovsanpassade tilldelningar och statsbidrag. Elevhälsan ingår inte i grundskolans resursfördelningsmodell utan ligger centralt inom sektorsstab lärande och fördelas till både grundskola och gymnasium. U",
+    "belopp_nara": false
+   },
+   {
+    "sida": 196,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kolornas verksamhet är indelad i läsår. Dessa två hjul balanseras mot varandra. Sju till nio procent av kostnaderna för personal i grundskolan utgörs i dag av statsbidrag, beroende på om man enbart räknar pedagogisk personal eller även räknar med skolledning, administration, vaktmästare, fritidsledare och skolbibliotekarier. Sek",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 21
  }
 ]

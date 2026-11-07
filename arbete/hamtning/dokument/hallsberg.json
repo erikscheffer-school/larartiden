@@ -303,5 +303,82 @@
    }
   ],
   "antal_träffar": 14
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.2c880b51a1a1b512dc9d8/1793893181890/2026-11-16%20-%20Kallelse%20KF.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-11-16\npdf, 43 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d01ed82f43199e71c5728525f21e531778486b37c3f4e851730c70ee84980f6b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 647,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.2c880b51a1a1b512dc744/1793873144583/2026-11-03%20-%20Protokoll%20KS.pdf",
+  "titel": "2026-11-03 - Protokoll KS.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "134424efadecafacd729e9eb5ac2063638a06e64dac6e363f7a2faa5b809b7a2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1103,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.6ebf618c19dd772ff9030/1777444496061/2026-04-20%20-%20Protokoll%20KF.pdf",
+  "titel": "2026-04-20 - Protokoll KF.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8b843157c8a07162bf16ede2c35d583233f3ad23a139001c18fbd80bea489881",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 208,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 73,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "kvalitetsarbetet. Arbetet med att förbereda för en tioårig grundskola med start hösten 2028 kommer att påbörjas. Regeringens förslag gällande en reglering av lärares undervisningstid från höstterminen 2027 kommer, om det beslutas, att påverka förvaltningens organisation och framtida budget.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 107,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "å ökade statsbidrag. Elevhälsan redovisar en positiv budgetavvikelse, vilket främst förklaras av lägre personalkostnader till följd av sjukfrånvaro samt ökade statsbidrag. Kommunens grundskolor redovisar sammantaget en negativ budgetavvikelse om cirka 5 200 tkr. Avvikelsen beror på förstärkningar av personal i verksamheten till",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.54f836cc19c935815581d70/1772806059472/2026-02-23%20-%20Protokoll%20KF.pdf",
+  "titel": "2026-02-23 - Protokoll KF.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8139607ea25b25d909fedf15e1fc612d523aaf0db6b286abe4b1bdc96e067dae",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 170,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

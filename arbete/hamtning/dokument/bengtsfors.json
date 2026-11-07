@@ -58,5 +58,83 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r26937924/document/4f1709c3e52d8e4c1da5-2415-4a32-acb8-39693f7ac6dd?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374",
+  "titel": "Kommunstyrelsen 2026-11-11 – 5. Budget 2027, plan 2028-2030 Bengtsfors kommun – 5.1 Tjänsteskrivelse - Budget 2027, plan 2028-2030 Bengtsfors kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd78a967dd2318f4ca0f27365d0d9e3464410042d4dc547bcc1bc9478f905969",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r26937924/document/8b9e35743add474b59b3-55be-4fcb-b882-b6ea8f5126a1?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374",
+  "titel": "Kommunstyrelsen 2026-11-11 – 5. Budget 2027, plan 2028-2030 Bengtsfors kommun – 5.2 Budget 2027, Plan 2028-2030 Förslag",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0843d875fdc93cda55b20c3a40b17b5b35addf70a97afb8adcfff4aa3001d904",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 41,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 35,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "finansieringsprincipen hanteras som prioriteringar 2027, beskrivning av denna typ av statsbidrag återfinns under rubrik Politiska prioriteringar. Reglering av lärares arbetstid kompenseras med 1,1 mnkr och avser halvårseffekt, det råder stor osäkerhet kring om detta är en ersättning som motsvarar de ökade kostnaderna och uppdraget är",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "1 086 Barn, utbildning, kultur och fritid 35 100 2 500 1 400 300 Finansieringsprincipen Reglering av lärares undervisningstid 1 100 2 200 1 100 Finansieringsprincipen Stärkta skolbibliotek 400 Långevialliansen anläggningsbidrag och driftkostnader",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r26937924/document/195f1843b169d15c84f2-b4f3-4109-b086-eac33708c43d?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-8033e9a78c7010200404",
+  "titel": "Kommunstyrelsen 2026-11-11 – 15. Budget för miljöverksamheten 2027 – 15.1 Beslut KSAU 2026-11-03Budget för miljöverksamheten 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b1f37bd0b2d49bd86cf8dd033e8d19f0243c3e2e57639df362b2196a5c4fd768",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r26937924/document/91d4c17f4ff6e0c5adbd-d0cd-413b-bc8e-3072fcd2b3f7?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-8033e9a78c7010200404",
+  "titel": "Kommunstyrelsen 2026-11-11 – 15. Budget för miljöverksamheten 2027 – 15.2 Tjänsteskrivelse - Budget för miljöverksamheten 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c63460440aa97c0f8efcfe82e671fb87b1d10fde52ec2ee1309703d41b30bbdd",
+  "sökning": 4,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

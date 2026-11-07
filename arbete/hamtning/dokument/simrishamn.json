@@ -28,5 +28,36 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.simrishamn.se/download/18.55d873b519c9887c909ec651/1773835433666/KS-protokoll%20260311.pdf",
+  "titel": "Protokoll 2026-03-11\npdf, 17 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "768f6d3415c686cdc63d1fe7a051ba8bd0b33e4a436f004dd1aa5a7aa1c7765c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 45,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.simrishamn.se/download/18.62e13f4c19e641f27bc488c0/1780660165491/Anslag%20KS%20260603.pdf",
+  "titel": "Kommunstyrelsen 2026-06-03, §§ 88-119\npdf, 43.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d23111fed4f9d83bc85736446f8a9cf07dde8ac88c163f83ee38a03d7fc0841b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
  }
 ]

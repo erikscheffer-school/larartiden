@@ -163,5 +163,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.44f364f21a12f66c2301840/1791818964883/Kommunstyrelsen%202026-10-07.pdf",
+  "titel": "Kommunstyrelsen 2026-10-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "835defdcd77fcb3a11b8f46a017becd3ebffa84219dfd72903114f3967152d03",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 66,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Styrelseprotokoll Samordningsförbundet Skåne Nordost 2026-09-07 Protokoll styrelsemöte 2026-09-09 Beslut Statsbidrag för inköp av litteratur för 2026 Barn- och utbildning Uppföljningsbeslut - oanmäld tillsyn Örkenedskolan 2025:7737 ärendet",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.osby.se/download/18.a378cbf1a0fb93f1f121ef0/1791275734348/Kommunstyrelsens%20individutskott%202026-10-06.pdf",
+  "titel": "Kommunstyrelsens individutskott 2026-10-06.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ae14a32b05d95d8cc8b473ab4ea7248d0f3ab2505f07dbccef1b8a5bee49ffd8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.1fbe9bba1a0e73007aba47/1790597703826/Kommunstyrelsens%20individutskott%202026-09-28.pdf",
+  "titel": "Kommunstyrelsens individutskott 2026-09-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4aa719461ff032cc6bdb116bad2eafe1a0944172b8d5c55741190e7a8e5decec",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.323cf7981a0adb1190d3ae8a/1790068322843/Kommunfullm%C3%A4ktige%202026-09-14.pdf",
+  "titel": "Kommunfullmäktige 2026-09-14.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1fea76fc8bafdb519e679cf90baee5c986446ddd6967a5580cc36089d0bb68bf",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 23,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gälla i Osby kommun från och med 1 juli 2026. Sammanfattning av ärendet Förordningen (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskola, fritidshem och pedagogisk omsorg har ändrats enligt Förordning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "5 § 97 Tjänsteskrivelse BUF Maxtaxa, daterad 2026-07-08 SFS 2026:3 Förordning om ändring i förordning 2001:160 om statsbidrag till kommuner som tillämpar maxtaxa inom förskola och fritidshemmet, publicerad 2026-01-20",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

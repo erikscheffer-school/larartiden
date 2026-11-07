@@ -178,5 +178,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hudiksvall.se/rest-api/graph-service/preview?documentId=01BIVRHKDPOWMPT5DPYVB3UPUBLJILQD6A&currentPageId=4.1fc96f7a15aa40b071a5e94&name=KS%202026-11-10%20Kallelse.pdf&fileType=pdf",
+  "titel": "KS 2026-11-10 Kallelse.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "26d07d6551c44287979aacaea06640b6d9b50ab368daafd777c1d123b0afd62d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

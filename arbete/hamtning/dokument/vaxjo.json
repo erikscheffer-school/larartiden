@@ -364,5 +364,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.2b1bff1d19ed453c4059519d/1783422677395/Bilaga%201%202026-05-13%20-%20Samverkansprojekt%20med%20Region%20Kronoberg%20samt%20palliativ%20v%C3%A5rd.pdf",
+  "titel": "Informationsklassning: Intern Samverkansprojekt med Region Kronoberg",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8fcbb9167ee50869b3a1536d8e6ef3ca44413377f1e854216f0f0569acca6cba",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.31347bda19dcdb11003489/1777276017766/Teknisk_beskrivning_2026-03-03%20extern.pdf",
+  "titel": "Teknisk beskrivning Version 2026-03-03 VA-avdelningen, ledningsnätsenheten",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7e0d872163200b3741510a9493775e6eccf2df220dc8f01d45b16c6744e93fd8",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.2cc974e719ea57df6989293/1781002899016/Utskick%20Inf%C3%B6r%20slutlig%20antagning%20till%20gymnasiet%202026%20elev%20fr%C3%A5n%20annan%20kommun.pdf",
+  "titel": "vaxjo.se Inför slutlig antagning till gymnasiet Antagningsbesked för sökta program i vårt antagningsområde kan du se i Proc",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "21ca406be71f6f442fad5ca0e21724bf66160179c0bf0362d37a4c34def28953",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

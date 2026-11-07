@@ -134,5 +134,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.3a808b301975d2f24082a64e/1750061920979/Milj%C3%B6partiets%20Budgetf%C3%B6rslag%202026.pdf",
+  "titel": "Miljöpartiets Budgetförslag 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "18ad998b109bd722a6c6a2ebfc9296b4dcf3168635b04ee5d5f5752280969afc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 41,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "20 Verksamhetens nettostnad -1212,0 -1270,9 -1343,1 miljoner 2026, och 150 miljoner för 2027, 2028 och 2029. Skatteintäkter, statsbidrag o utjämning • Vi har infört en skattehöjning på 25 öre 2028. (+25 öre 2028 och framåt) 1270 1322,",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.273015e218fe7d3833510d7/1718348244727/Majoritetens%20budgetf%C3%B6rslag%202025.pdf",
+  "titel": "Plan för mål och ekonomi 2025 - Tjörns kommuns budget pdf, 1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "200e95feb45d44903bf3c828331c2048a540e7bb59f7ba2bad55c777c8418d75",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.273015e218fe7d3833510d9/1717593290455/Socialdemokraternas%20och%20kristdemokraternas%20budgetf%C3%B6rslag%202025.pdf",
+  "titel": "Socialdemokraternas och kristdemokraternas budgetförslag 2025.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7efadd2bf0112e55798fced920c881619bebfe19420f7c50c8292da33655f4c7",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

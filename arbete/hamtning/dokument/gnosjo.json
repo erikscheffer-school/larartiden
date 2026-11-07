@@ -232,5 +232,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.28e51b1b19e1bf19396357e/1779703514614/F%C3%B6redragningslista%20kommunstyrelsen%202026-06-01.pdf",
+  "titel": "Föredragningslista kommunstyrelsen 2026-06-01 pdf, 19.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bbc4068c9e5621b26747701a7fbb9bfc2b36b3d224792a13d87778180ac3da7a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.377cf95819e808f998b60b/1780396839046/Protokoll%20kommunstyrelsen%202026-06-01.pdf",
+  "titel": "Protokoll kommunstyrelsen 2026-06-01 pdf, 441.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "252cffb3049de1c5639f609ba3d4137594e91844c50787b6160f67030a1560d8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.10eaae4c19df063697e59e/1777973926117/F%C3%B6redragningslista%20kommunstyrelsen%202026-05-12.pdf",
+  "titel": "Föredragningslista kommunstyrelsen 2026-05-12 pdf, 74.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "33df81d053b22e0041a84d35c93da7baf26adcd232b45418ab79101f606db367",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

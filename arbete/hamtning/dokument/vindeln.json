@@ -205,5 +205,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.2189039319cdecc79b42c9/1774966742688/Protokoll%20kommunstyrelsen%20den%2031%20mars%202026%20Direktjusterad.pdf",
+  "titel": "Protokoll kommunstyrelsen den 31 mars 2026 Direktjusterad.pdf Pdf, 639.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e8b8cb0c068a199d07e8a363620ec7c03f228c3e176a01f616d2e55daf73fabc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.2189039319cdecc79b4352/1775137917086/Protokoll%20kommunstyrelsen%20den%2031%20mars%202026.pdf",
+  "titel": "Protokoll kommunstyrelsen den 31 mars 2026.pdf Pdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "38c0d55230766747d169d12f217a485e8f198ae58666070bfe0dbe915e3a4105",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.11ff4e2719e2a9c6ecf411/1780668162076/Protokoll%20kommunstyrelsen%20den%202%20juni%202026.pdf",
+  "titel": "Protokoll kommunstyrelsen den 2 juni 2026.pdf Pdf, 1.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6fa6cb7c4998c30d55db69bc049a69c55ec91028e537b746abf77f39d3279e9f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 88,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

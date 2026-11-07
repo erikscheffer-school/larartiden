@@ -42,7 +42,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 0,
+  "dokumentlänkar": 49,
   "datum": "2026-11-07"
  },
  "orsa": {
@@ -52,7 +52,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 1071,
+  "dokumentlänkar": 1239,
   "datum": "2026-11-07"
  },
  "rattvik": {
@@ -77,7 +77,7 @@
    "Politikerportal"
   ],
   "sidor": 20,
-  "dokumentlänkar": 161,
+  "dokumentlänkar": 329,
   "datum": "2026-11-07"
  },
  "alvdalen": {
@@ -86,7 +86,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 64,
+  "dokumentlänkar": 232,
   "datum": "2026-11-07"
  },
  "gavle": {
@@ -130,7 +130,7 @@
   "kommun": "Sandviken",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 81,
+  "dokumentlänkar": 127,
   "datum": "2026-11-07"
  },
  "soderhamn": {
@@ -146,7 +146,7 @@
   "kommun": "Halmstad",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 17,
+  "dokumentlänkar": 19,
   "datum": "2026-11-07"
  },
  "hylte": {
@@ -211,7 +211,7 @@
   "kommun": "Gislaved",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 6,
+  "dokumentlänkar": 7,
   "datum": "2026-11-07"
  },
  "gnosjo": {
@@ -234,7 +234,7 @@
   "kommun": "Jönköping",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 1,
+  "dokumentlänkar": 7,
   "datum": "2026-11-07"
  },
  "mullsjo": {
@@ -318,7 +318,7 @@
   "kommun": "Ljungby",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 1,
   "datum": "2026-11-07"
  },
  "uppvidinge": {
@@ -341,7 +341,7 @@
   "kommun": "Älmhult",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 718,
+  "dokumentlänkar": 716,
   "datum": "2026-11-07"
  },
  "arvidsjaur": {
@@ -360,7 +360,7 @@
    "Politikerportal"
   ],
   "sidor": 20,
-  "dokumentlänkar": 16,
+  "dokumentlänkar": 2,
   "datum": "2026-11-07"
  },
  "gallivare": {
@@ -431,7 +431,7 @@
   "kommun": "Hässleholm",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 776,
   "datum": "2026-11-07"
  },
  "hoganas": {
@@ -462,7 +462,7 @@
   "kommun": "Kävlinge",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 12,
+  "dokumentlänkar": 21,
   "datum": "2026-11-07"
  },
  "landskrona": {
@@ -471,14 +471,14 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 38,
   "datum": "2026-11-07"
  },
  "lomma": {
   "kommun": "Lomma",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 1,
   "datum": "2026-11-07"
  },
  "lund": {
@@ -526,7 +526,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 0,
+  "dokumentlänkar": 136,
   "datum": "2026-11-07"
  },
  "svalov": {
@@ -579,7 +579,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 5,
+  "dokumentlänkar": 4,
   "datum": "2026-11-07"
  },
  "orkelljunga": {
@@ -624,7 +624,7 @@
   "kommun": "Järfälla",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 1,
+  "dokumentlänkar": 2,
   "datum": "2026-11-07"
  },
  "lidingo": {
@@ -802,7 +802,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 87,
   "datum": "2026-11-07"
  },
  "karlstad": {
@@ -851,7 +851,7 @@
    "Politikerportal"
   ],
   "sidor": 20,
-  "dokumentlänkar": 5,
+  "dokumentlänkar": 224,
   "datum": "2026-11-07"
  },
  "arjang": {
@@ -1019,7 +1019,7 @@
    "Netpublicator"
   ],
   "sidor": 20,
-  "dokumentlänkar": 3,
+  "dokumentlänkar": 302,
   "datum": "2026-11-07"
  },
  "bollebygd": {
@@ -1049,14 +1049,16 @@
   "kommun": "Falköping",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 193,
+  "dokumentlänkar": 201,
   "datum": "2026-11-07"
  },
  "grastorp": {
   "kommun": "Grästorp",
-  "portaler": [],
+  "portaler": [
+   "Netpublicator"
+  ],
   "sidor": 20,
-  "dokumentlänkar": 6,
+  "dokumentlänkar": 614,
   "datum": "2026-11-07"
  },
  "goteborg": {
@@ -1070,7 +1072,7 @@
   "kommun": "Herrljunga",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 22,
+  "dokumentlänkar": 1,
   "datum": "2026-11-07"
  },
  "hjo": {
@@ -1180,7 +1182,7 @@
   "kommun": "Trollhättan",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 467,
+  "dokumentlänkar": 466,
   "datum": "2026-11-07"
  },
  "toreboda": {
@@ -1203,7 +1205,7 @@
   "kommun": "Vårgårda",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
+  "dokumentlänkar": 4,
   "datum": "2026-11-07"
  },
  "amal": {
@@ -1282,7 +1284,7 @@
   "kommun": "Ljusnarsberg",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 250,
+  "dokumentlänkar": 256,
   "datum": "2026-11-07"
  },
  "finspang": {
@@ -1315,14 +1317,14 @@
    "Ciceron"
   ],
   "sidor": 20,
-  "dokumentlänkar": 7,
+  "dokumentlänkar": 8,
   "datum": "2026-11-07"
  },
  "soderkoping": {
   "kommun": "Söderköping",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 9,
+  "dokumentlänkar": 10,
   "datum": "2026-11-07"
  },
  "ydre": {

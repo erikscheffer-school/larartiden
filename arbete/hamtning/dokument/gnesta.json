@@ -239,5 +239,104 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.73f070eb19c479432b456333/1771340877437/Kallelse%20kommunfullm%C3%A4ktige%202026-02-23%20ny%20version.pdf",
+  "titel": "Kommunfullmäktige Kallelse - Kungörelse",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e6d29be8bd533705f75214fb5aa23c40ec0c09fd3467ff1bc10d177e84172f66",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 298,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.4c9c1fff1a01f730ced302a0/1788269769972/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-09-03.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-09-03.pdf\nPdf, 1.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9357810f71c1f1ceab45b34473439d23a0d968815e4076e2f5eb29d18bac691c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": true,
+  "ord": [
+   "lärartäthet"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 16,
+    "ord": "lärartäthet",
+    "reform": true,
+    "utdrag": "ngen bedömer att den nuvarande beräkningsmodellen inte fullt ut fångar dessa förändringar. Förslag på förändringar i beräkningsmodellen:  Omräkning av lärartäthet enligt Gnestas statistik  Ta med Skolverkets timplan i beräkningsmodellen  Ersätta klasstorlek med aktuella budgeterade elevantal Förvaltning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 7,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "rksamheten har ett utförande med personaltäthet om 5,4. Inom grundskolan har det vid framtagning av elevpeng 2026 använts ett genomsnittligt nyckeltal på 1,5 i lärartäthet medan verksamheten i snitt har en lärartäthet på 1,9. Utifrån dessa nyckeltal samt verksamhetens behov genomförs det en översyn kring bemanningen på skolorna.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.323cf7981a0adb1190d559d3/1790257468714/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-10-01.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-10-01.pdf\nPdf, 4.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7668a913489cfdde5aa8df3d11ef0dd7d16150396b8920ac072a3af763978494",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 121,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 62,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "inkl centrala elevhälsan Verksamhetsområdet redovisar totalt per sista augusti en negativ avvikelse om -2 617,2 tkr mot budget. Störst avvikelse ses inom lägre statsbidrag för perioden och personalkostnader samt högre kostnad för köpta platser. Övergripande verksamhet som innehåller köpta platser redovisar ett underskott -4 711,4",
+    "belopp_nara": true
+   },
+   {
+    "sida": 66,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "-1 449,4 165,3 Kulturskola Verksamheten redovisar per sista augusti ett överskott om +200,9 tkr och kan härledas till högre intäkter i form av statsbidrag. Personalkostnader har en negativ avvikelse för perioden om -86,1 tkr. Detta bedöms dock inte ha en större påverkan på personalkostnaderna på årsbasis då verks",
+    "belopp_nara": true
+   },
+   {
+    "sida": 22,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "nd annat i samarbete mellan kulturskolans elever och Gnesta Musiksällskap. Elever har också medverkat vid spelningar på Träffpunkten och fritidsklubb. Gemensam planeringstid för musiklärarna har bidragit till fler initiativ kring uppspel och aktiviteter. Arbetet med att göra kulturskolan tillgänglig för fler har också fortsatt geno",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.4d29998c1a0e7539ef981a3/1790684866530/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-10-01%20komplettering.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-10-01 komplettering.pdf\nPdf, 4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e81574589b4d39dd4ec4e218a4bf0934c61c1a62223eae8d1a455fbbb5c93c83",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

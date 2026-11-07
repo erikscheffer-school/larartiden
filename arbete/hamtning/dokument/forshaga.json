@@ -43,5 +43,45 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/Budget%202027%20fler%C3%A5rsplan%202028-2029.pdf",
+  "titel": "Budget 2027 pdf, 1.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "71df95c9b696741ab9dad966ef88040706400b08023da5fad92bc8fffa1360d6",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 47,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 41,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "med -3,6 miljoner kronor för en god ekonomisk hushållning. I ramen ingår även 0,5 miljoner kronor för skolbibliotek samt 1,4 miljoner kronor för reformen kring lärares arbetstid. Vård- och omsorgsnämndens budgetram uppgår till 288,8 miljoner kronor år 2027. Budgetramen utgår från budgetmodellens principer och förstärkt med 7,4 miljoner",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.forshaga.se/download/18.11afdadc19979e9d11178ea/1758705835066/Budget%202026%20fler%C3%A5rsplan%202027-2028.pdf",
+  "titel": "Budget 2026 pdf, 1.8 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a4a72876dba44c9bdf06dcc07d94e2f4c109752e728b7cd82c7a519594856bc9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

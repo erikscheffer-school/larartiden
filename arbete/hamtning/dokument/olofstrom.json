@@ -158,5 +158,58 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://olofstrom.se/download/18.102d8a2f1702c37a2a231084/1581503409186/budget-2019.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b688e78390a12343cd2573af9c2ce81a3431480557379e8277376c3abe1df2e4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "PO-pålägg är beräknade enligt följande: Invånarantalet 1/11 styr de generella Förtroendevalda och uppdragstagare statsbidragen för kommande år vilka skulle 31,42 % gå ner med 0,5 mkr jämfört med budget Kommunala avtal inkl lärare 40,13 % medan kostnadsutjämni",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gymnasiesärskola, Som stöd i utvecklingen av skolans arbete uppföljningsansvar, vuxenutbildning, finns det många riktade statsbidrag att högskoleutbildning och musikskola. ansöka om och använda. Verksamhetsmål Årets verksamhet Nämnden ha",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://olofstrom.se/download/18.102d8a2f1702c37a2a231085/1581503409342/budget-2018.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c464f2105bf5bd532fd66d794a10256100d8a57efe0d9b0eab4da6da8ccb6f62",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ven inom infrastruktur och bostäder samtidigt som vi skola och förskola. När de generella och fortsätter leverera välfärd av hög kvalitet. riktade statsbidragen successivt minskar, krävs anpassningar i kommunens Under kommande treårsperiod finns verk",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

@@ -141,5 +141,83 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.47dbb16319e49fa73032981/1779462877140/Kallelse%20kommunstyrelsen%202026-05-26.pdf",
+  "titel": "Kallelse kommunstyrelsen 2026-05-26. ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "495034c12d4da81c0b49d8d3ae7794542ad8f4ce6907d4605f86fcb1e99af4b3",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 852,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.58e091e51a18c51096969bf/1793630761535/Kallelse%20Kommunfullm%C3%A4ktige%202026-11-09.pdf",
+  "titel": "Kallelse Kommunfullmäktige 2026-11-09.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3e648f88d249fd7d2280c11316f4fe47b7f0cc2d764b895b44b7f807c3a7423f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 616,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 42,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rundskoleålder påverkås också på sikt åv kommånde reglering åv låråres bårnåfodåndet och flyttmonster, men beror undervisningstid och tid for plånering och på långre sikt på utvecklingen for åntålet uppfoljning foråndråde forutsåttningår for",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.13ff553519e63386cd712800/1780669021343/Kallelse%20kommunfullm%C3%A4ktige%202026-06-15.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-06-15.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "21799bbdfda5f21c3bdb81da22ddde895fed4069369daca3c7b7dca2e54890fe",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 687,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.3f5bc47319e0253c8d21f9e/1778252317477/Kallelse%20kommunfullm%C3%A4ktige%202026-05-18.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-05-18.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "92158aabf3cd171b8781cd2aefaa1b3091be32f3993c590fa5605f1496a6fb87",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 151,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 148,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "en på ett år. Kommunen har två heltidsanställda på varje högstadium. År 2024 angavs personalkostnaden till 4 359 378 kr. År 2025 uppgick den till 4 524 018 kr. Statsbidraget täckte halva kostnaden, medan den andra hälften bekostades av barn- och utbildningsnämnden, sålunda närmare 4,5 miljoner på två år. Under 2024 placerades nio",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 4
  }
 ]

@@ -258,5 +258,65 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.51952112192bd5686ff7ef/1734504483667/Verksamhetsplan%20tekniska%20f%C3%B6rvaltningen.pdf",
+  "titel": "Verksamhetsplan tekniska förvaltningen.pdf Pdf, 5.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "304b81a93b4abe851d0f763776a203c0df41e42787df5586d14309b38c4b3417",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.7424f84f19e6418eba97adbc/1780924705439/Kommunfullm%C3%A4ktiges%20kallelse%202026-06-09%20kompletterad.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-06-09 kompletterad.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "de95801a6f7a36072c273959a88f5337b4f48ccb71c6e99bf8820a7a5989f0c3",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 564,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.7cf84a311a08626de0d25898/1789391909220/Kommunfullm%C3%A4ktiges%20kallelse%202026-09-15%20%20kompletterad.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-09-15 kompletterad.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cc98d6d595053b94a76fd8e25612cd9a74de72de913a91ff0c16a277635f0c4f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 632,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.355451a71a163267086489fc/1793344703473/Kommunfullm%C3%A4ktiges%20kallelse%202026-11-10.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-11-10.pdf Pdf, 10.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7a457fdefc822e31438750282e5d4e04175f54fba2ad55a54114af869b7eac2c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 168,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

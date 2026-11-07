@@ -194,5 +194,52 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.649c78c3198c139573fe68/1756792050395/FUN%202025-08-28%20Protokoll.pdf",
+  "titel": "FUN protokoll 2025-08-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cc2504b94a67f22f9422cd1a73a0e231bd2535853ecb8afcde00ecac9b4cc4ee",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.3e32fc1f1995d13626fd8/1758300996310/Protokoll%20FUN%202025-09-18.pdf",
+  "titel": "FUN protokoll 2025-09-18",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d1ef4a3eb9c52932431b46984d3ed9bc3647ec5b031e11e69193758b1be163bf",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.3e32fc1f1995d13626f227b/1761314306313/Protokoll%20FUN%202025-10-23.pdf",
+  "titel": "FUN protokoll 2025-10-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bcf0064ce96b1b0b7670a5ac41388732a9439a81e82eeb3cb0c10421d2ca5fd2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
  }
 ]

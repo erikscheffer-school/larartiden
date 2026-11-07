@@ -43,5 +43,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.c0a4fce181800179103c9d/1656431995874/Kallelse%20Kommunfullm%C3%A4ktige%202022-06-13.pdf",
+  "titel": "Kallelse Kommunfullmäktige 2022-06-13",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8f3d4838c932be3f055d89cdba54a73b96772155c14a60eba129a242f490a0af",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.493bb5721841889c3d76583/1668003738124/kallelse%202022-02-28.pdf",
+  "titel": "kallelse 2022-02-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "70602f30eb0ca04a1e486d8567a16ed35e144d9c3214c655f53004bab83b0183",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.53a0669f180dc549367452/1668003769580/Kallelse%20Kf%202022-05-02.pdf",
+  "titel": "Kallelse Kf 2022-05-02",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3883e7932ec48f82889d63a9ab4ed8030471efc39cb296ee78e71dfb97797b17",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

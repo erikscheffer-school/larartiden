@@ -135,5 +135,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.518886b71917870bcefc70/1724314286289/Budgetdokument%202025-2028%20(Amals%20kommun).pdf",
+  "titel": "budgetdokument pdf, 763.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b579c49d29c19c1f8fe1e68aa4bb810716daafc1c9525a2620f512798e9145e4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.78174f7c190a248d33681824/1722952805640/Beslut%20-%20202400214%20-%20KS%20-%20%C2%A7%20115.pub.pdf",
+  "titel": "Budgettabell för driftbudget pdf, 63 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a4a276acf9cf3a9b1d3eee8b6882558c2a413af3253bd583fe525c1210b6ff9b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.78174f7c190a248d3368182a/1722952828856/Beslut%20-%20202400215%20-%20KS%20-%20%C2%A7%20116.pub.pdf",
+  "titel": "Budgettabell för investeringsbudget pdf, 37 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "92e499565307152ff993bff1350600f0689cd749a1c24f308a69a66756ea1836",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

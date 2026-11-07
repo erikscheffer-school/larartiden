@@ -186,5 +186,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/download/18.ffd58281a12f68b7c34909/1792045936410/Omsorgsn%C3%A4mnden%2020%20oktober%202026%20med%20handlingar.pdf",
+  "titel": "Omsorgsnämnden 20 oktober 2026 med handlingar.pdf\nPdf, 2.7 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "688c14ffb56174ce433a669c8ae0013632a2e8edd86fe2bbb75975ba216615f5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 66,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/download/18.35629f641a12f54bd3d15b7/1791870856811/Tekniska%20n%C3%A4mnden%2019%20oktober%202026,%20med%20handlingar.pdf",
+  "titel": "Tekniska nämnden 19 oktober 2026, med handlingar.pdf\nPdf, 1.5 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8cb500595a2c61ce54f96d2f092aa0ec9f41e4c18a0f9eabb283bf24fd25fb2a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

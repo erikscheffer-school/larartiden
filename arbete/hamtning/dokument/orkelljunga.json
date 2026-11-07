@@ -151,5 +151,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.5e484f4b19ed4844be3b2d1/1782200081618/Kommunstyrelsen%202026-06-17.pdf",
+  "titel": "Kommunstyrelsen 2026-06-17.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d2faff52e1744bb9de35b4f2363e824bc57232ab9ac051f2f6b60eb442b11dc1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.39155d0219e634874bf199fd/1780902854515/Kommunstyrelsen%202026-06-03.pdf",
+  "titel": "Kommunstyrelsen 2026-06-03.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "89f9c7336f82af4114a50d0b502c77cfeea8b475fbfec56383adbc0747edd769",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.87470fc19ddcaf3a207b29/1778148080429/Kommunstyrelsen%202026-05-06.pdf",
+  "titel": "Kommunstyrelsen 2026-05-06.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aff0176eb1706d3bccf6fa978eb79d6abc86ec5b6f2e28984c9f16f606a3ed68",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]
