@@ -629,8 +629,8 @@
   "k": "Säter",
   "id": "sater",
   "l": "Dalarnas län",
-  "s": 5,
-  "sum": "Två KS-protokoll från budgetprocessen 2027 granskades: AU 2026-02-17 med sektorberedning den 9 mars, och KS 2026-03-31 med budgetsamtal den 23 mars. Ingen av dem nämner reformen om undervisningstid. Lärarfrågorna i protokollen gäller bara Lärarlönelyftet.",
+  "s": 3,
+  "sum": "Barn- och utbildningsnämnden gick 2026-04-15 igenom tekniska ramar och utgångsläge för budget 2027. Nämnden behöver äska 12,6 mkr för att klara nuvarande verksamhet, och beräkningen tar ännu ingen hänsyn till regleringen av lärares undervisningstid.",
   "m": null,
   "mk": null,
   "kort": null,
@@ -638,8 +638,18 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Själva budgetdokumentet för 2027, KF-beslutsdatumet och sektorernas budgetunderlag hittades inte. Sökkvoten är förbrukad. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.",
+  "lu": "Själva budgeten för 2027, KF-beslutsdatum och sektorns slutliga budgetunderlag har inte hittats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Nämnt utan belopp efter granskning av nämndens protokoll.",
   "docs": [
+   {
+    "t": "Budget 2027 – tekniska ramar och utgångsläge (barn- och utbildningsnämnden 2026-04-15 § 37)",
+    "d": "2026-04-15",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"Just nu finns ingen hänsyn taget till den reglering av lärares maximala undervisningstid, som beräknas träda i kraft HT 2027.\" (s. 8)",
+    "ko": "Nämnden tog del av informationen. Äskandet 12,6 mkr gäller nuvarande verksamhet.",
+    "u": "https://sater.se/wp-content/uploads/2026/04/protokoll-2026-04-15.pdf"
+   },
    {
     "t": "Protokoll KS arbetsutskott 2026-02-17 (Säter)",
     "d": "2026-02-17",
@@ -693,7 +703,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Kallelsen till KF 2026-10-26 (23 MB) är listad på kommunens KF-sida men ligger utanför allowlist och kunde inte öppnas. Kommunplan 2027–2029, KF-datum i november 2026 och underlag från BUN/sektor utbildning är inte granskade. Kommunplan 2025–2027 är inte genomläst.",
+  "lu": "Kallelsen till KF 2026-10-26 (23 MB) är listad på kommunens KF-sida men ligger utanför allowlist och kunde inte öppnas. Kommunplan 2027–2029, KF-datum i november 2026 och underlag från BUN/sektor utbildning är inte granskade. Kommunplan 2025–2027 är inte genomläst. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsutskottets protokoll 2026-03-05, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Kommunstyrelsen i korthet 28 oktober (nyhet, 2025-10-29)",
@@ -1019,7 +1029,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Omkörningen gjorde 3 WebSearch (budget 2027/KF, KS-protokoll 2026, utbildningsutskottet/undervisningstid) men fann inga budgethandlingar för 2027, inget KF-datum och ingen budgetsida eller mötesportal för Nordanstig. Ev. remissvar på SOU 2025:26 hittades inte.",
+  "lu": "Omkörningen gjorde 3 WebSearch (budget 2027/KF, KS-protokoll 2026, utbildningsutskottet/undervisningstid) men fann inga budgethandlingar för 2027, inget KF-datum och ingen budgetsida eller mötesportal för Nordanstig. Ev. remissvar på SOU 2025:26 hittades inte. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2017–2020, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Protokoll utbildningsutskottet (UU) 2025-09-16 §§ 54-65",
@@ -1381,7 +1391,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Budget 2027, UBN:s nämndsplan 2027 (troligen aug–sep 2026) och KF-datum hittades inte. UBN-protokoll från juni–oktober 2026 och remissvar på SOU 2025:26 ej granskade (möjligen i UBN 2025-09-24 eller 2025-11-19: https://www.laholm.se/download/18.fa4343b1993729461865159/1758714208600/Protokoll%20UBN%202025-09-24.pdf). Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.",
+  "lu": "Budget 2027, UBN:s nämndsplan 2027 (troligen aug–sep 2026) och KF-datum hittades inte. UBN-protokoll från juni–oktober 2026 och remissvar på SOU 2025:26 ej granskade (möjligen i UBN 2025-09-24 eller 2025-11-19: https://www.laholm.se/download/18.fa4343b1993729461865159/1758714208600/Protokoll%20UBN%202025-09-24.pdf). Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i utbildningsnämndens handlingar 2026-01-21 (idrottsutbildning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Protokoll UBN 2026-04-22",
@@ -1930,7 +1940,7 @@
   "pl": null,
   "kf": "november 2026 (planerat; KF sammanträder 2026-11-17 och 2026-11-26, exakt datum ej bekräftat)",
   "kfu": "https://www.jonkoping.se/kommun--politik/sa-styrs-var-kommun/ekonomi-och-budget/kommunens-budget-och-arsredovisning",
-  "lu": "VIP 2026–2028 hittades på budgetsidan, men PDF:en gick inte att hämta (inte tillåten URL). Det är därför okänt om planåret 2027 nämner reformen. Förslaget till VIP 2027–2029, utbildningsnämndens underlag och KF-handlingarna för november 2026 hittades inte. Resurstilldelningssidan säger att bidragsbelopp per elev för nästa år beslutas i december.",
+  "lu": "VIP 2026–2028 hittades på budgetsidan, men PDF:en gick inte att hämta (inte tillåten URL). Det är därför okänt om planåret 2027 nämner reformen. Förslaget till VIP 2027–2029, utbildningsnämndens underlag och KF-handlingarna för november 2026 hittades inte. Resurstilldelningssidan säger att bidragsbelopp per elev för nästa år beslutas i december. Den automatiska hämtningen 2026-11-07 hittade reformorden i nämndprotokoll från oktober 2026 (information om reformarbetet), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Verksamhets- och investeringsplan (VIP) 2026-2028",
@@ -2309,7 +2319,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Tre sökningar gav inga 2027-handlingar från hultsfred.se. Sökbudgeten (delad) tog slut innan budgetsida/mötesportal kunde letas upp.",
+  "lu": "Tre sökningar gav inga 2027-handlingar från hultsfred.se. Sökbudgeten (delad) tog slut innan budgetsida/mötesportal kunde letas upp. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens protokoll 2026-09-30 (information om reformen, § 85), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [],
   "w": "https://www.hultsfred.se/"
  },
@@ -2796,7 +2806,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Inga handlingar för budget 2027 finns på budgetsidan (https://www.uppvidinge.se/kommun-och-politik/kommunfakta/ekonomi/ekonomi-och-budget.html). Budget 2026/VP 2027–2028 kunde inte hämtas: den ena URL:en gav klientfel, den andra stod inte på allowlist. KS-, KF- och BUN-protokoll för 2026 ej granskade. Beslutsdatum för budget 2027 är okänt.",
+  "lu": "Inga handlingar för budget 2027 finns på budgetsidan (https://www.uppvidinge.se/kommun-och-politik/kommunfakta/ekonomi/ekonomi-och-budget.html). Budget 2026/VP 2027–2028 kunde inte hämtas: den ena URL:en gav klientfel, den andra stod inte på allowlist. KS-, KF- och BUN-protokoll för 2026 ej granskade. Beslutsdatum för budget 2027 är okänt. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens protokoll 2026-10-14, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [],
   "w": "https://www.uppvidinge.se/"
  },
@@ -2804,17 +2814,28 @@
   "k": "Växjö",
   "id": "vaxjo",
   "l": "Kronobergs län",
-  "s": 5,
-  "sum": "På vaxjo.se finns en nyhet daterad 2026-11-03, 'Budget 2027 – förslag från partierna'. Partierna har alltså lagt fram förslag och KF-beslut väntas i november 2026, men sidan kunde inte öppnas (ej på allowlist). Inga budgetdokument för 2027 har granskats.",
-  "m": null,
+  "s": 1,
+  "sum": "Moderaternas, Kristdemokraternas, Centerpartiets och Liberalernas förslag till budget 2027 ger utbildningsnämnden 10 mnkr i resursförstärkning för genomförandet av reformen om lärares undervisningstid och för stärkta tidiga insatser. Beloppet är gemensamt för de två ändamålen.",
+  "m": "10 mnkr till utbildningsnämnden för reformen och stärkta tidiga insatser tillsammans (förslag från M, KD, C och L)",
   "mk": null,
-  "kort": null,
+  "kort": "10 mnkr föreslaget, delat med tidiga insatser",
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Nyheten https://vaxjo.se/sidor/politik-och-demokrati/nyheter---politik-och-demokrati/arkiv/2026-11-03-budget-2027---forslag-fran-partierna.html (länkad från vaxjo.se) blockerades av allowlist. Följande ej granskat: partiernas budgetförslag 2027, KF-datum (troligen november 2026), utbildningsnämndens underlag och ev. remissvar SOU 2025:26. Sökkvoten per kommun (3) är förbrukad.",
-  "docs": [],
+  "lu": "Statusen är en tolkning: beloppet gäller både reformen och stärkta tidiga insatser. Övriga partiers förslag, KF:s beslut och datum har inte granskats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Pengar föreslagna.",
+  "docs": [
+   {
+    "t": "Förslag till budget 2027 med plan för 2028 och 2029 (Moderaterna, Kristdemokraterna, Centerpartiet och Liberalerna)",
+    "d": "2026-11",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Därför stärker vi arbetet med tidiga insatser samtidigt som vi tar ansvar för reformen om lärares undervisningstid.\" (s. 26); \"Resursförstärkning för genomförande av reformen om lärares undervisningstid och för stärkta tidiga insatser\" (s. 29)",
+    "ko": "I tabellen på s. 29 anges utbildningsnämnden som ansvarig och 10 mnkr som finansiering.",
+    "u": "https://www.vaxjo.se/download/18.19762da1a18c6b231719bba/1793695253252/F%C3%B6rslag%20till%20budget%202027%20med%20plan%20f%C3%B6r%202028%20och%202029_M-L-KD-C.pdf"
+   }
+  ],
   "w": "https://www.vaxjo.se/"
  },
  {
@@ -3242,7 +3263,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade inte budget 2027 eller KF-beslutsdatum. Budget 2026 verkar ha behandlats i KF 2025-12-01 (kf-2025-12-01-bilaga-1.pdf, ej granskad), vilket tyder på ett beslut i december 2026, men det är inte verifierat. BUN:s underlag är inte granskat.",
+  "lu": "Hittade inte budget 2027 eller KF-beslutsdatum. Budget 2026 verkar ha behandlats i KF 2025-12-01 (kf-2025-12-01-bilaga-1.pdf, ej granskad), vilket tyder på ett beslut i december 2026, men det är inte verifierat. BUN:s underlag är inte granskat. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsutskottets protokoll 2026-03-09 (lokal fördelning av undervisningstid), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Budget 2026, flerårsplan 2027-2029 (version 1.1)",
@@ -3440,7 +3461,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Kallelsen och protokollet från BoF 2026-09-16 (ärendet om budget 2027) gick inte att hämta, eftersom URL:erna inte var tillåtna. Därför vet vi inte om nämndens underlag innehåller merkostnad eller äskande för undervisningstiden. KS:s och majoritetens förslag till budget 2027 och datum för KF:s beslut har inte hittats. Gymnasie- och vuxenutbildningsnämndens underlag har inte granskats. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats.",
+  "lu": "Kallelsen och protokollet från BoF 2026-09-16 (ärendet om budget 2027) gick inte att hämta, eftersom URL:erna inte var tillåtna. Därför vet vi inte om nämndens underlag innehåller merkostnad eller äskande för undervisningstiden. KS:s och majoritetens förslag till budget 2027 och datum för KF:s beslut har inte hittats. Gymnasie- och vuxenutbildningsnämndens underlag har inte granskats. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i kommunstyrelsens handlingar 2026-05-26 (budgetuppföljning och omvärldsbeskrivning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Kallelse och handlingar till kommunstyrelsen 2026-05-26 (bl.a. Vårprognos 2026, KS 2026/235)",
@@ -4126,17 +4147,27 @@
   "k": "Skurup",
   "id": "skurup",
   "l": "Skåne län",
-  "s": 5,
-  "sum": "Inget budgetdokument för 2027 hittades. Budget 2026 med plan 2027–2028 behandlades i KS 2025-05-26 (§ 78), så Skurup beslutar troligen budget i juni. Reformen nämns inte i det granskade protokollet.",
+  "s": 3,
+  "sum": "Majoritetsstyrets förslag till Budget 2027 med plan för 2028 och 2029 (KS § 168, till fullmäktige 2026-11-02) ger skol- och utbildningsförvaltningen full kompensation för finansieringen av Tid för undervisningsuppdraget inom grundskolan. Något belopp anges inte. Förvaltningens text bedömer att statsbidraget delvis täcker kostnaderna, som främst gäller högstadiet och gymnasiet.",
   "m": null,
   "mk": null,
   "kort": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Budget 2027-handlingar från 2026 hittades inte. KF-kallelsen från juni 2025 gick inte att öppna (client_error). Datum för KF:s beslut om budget 2027 är inte verifierat (troligen juni 2026).",
+  "kf": "2026-11-02 (enligt kallelsen; beslutet ej verifierat)",
+  "kfu": "https://www.skurup.se/download/18.1d2ae3441a162f26a4c1d6ca/1793028329247/KS%202026.16%20Kallelse%20kommunfullm%C3%A4ktige%202026-11-02.pdf",
+  "lu": "Statusen är en tolkning: pengar utlovas för reformen men utan belopp, därför Nämnt utan belopp. KF-protokollet 2026-11-02 och förvaltningens detaljbudget har inte granskats. Statusen ändrades 2026-11-07 från Ej bedömbart än.",
   "docs": [
+   {
+    "t": "Budget 2027 med plan för 2028 och 2029, majoritetsstyrets förslag (KS § 168, kallelse till KF 2026-11-02)",
+    "d": "2026-10-26",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Förvaltningen ges full kompensation för finansiering av ”tid för undervisningsuppdraget” inom grundskolan\" (s. 334)",
+    "ko": "Sidnumret avser PDF:en med hela kallelsen. Förvaltningens avsnitt (s. 384) säger att ett generellt statsbidrag delvis kan täcka de ökade kostnaderna.",
+    "u": "https://www.skurup.se/download/18.1d2ae3441a162f26a4c1d6ca/1793028329247/KS%202026.16%20Kallelse%20kommunfullm%C3%A4ktige%202026-11-02.pdf"
+   },
    {
     "t": "Protokoll kommunstyrelsen 2025-05-26 (§ 78 Budget 2026, plan 2027-2028)",
     "d": "2025-05-26",
@@ -4434,7 +4465,7 @@
   "pl": null,
   "kf": "november 2026 (planerat enligt mönster, datum ej verifierat; budget 2026 beslutades 2025-11-24)",
   "kfu": "https://www.orkelljunga.se/download/18.69755fc319b2be124e451ac6/1768814033755/Budget%202026%20och%20ekonomisk%20fler%C3%A5rsplan%202027-2028%20beslutad%20i%20KF%202025-11-24.pdf",
-  "lu": "Förslaget till budget 2027 (hösten 2026), utbildningsnämndens budgetunderlag 2027 och KF-datum i november 2026 hittades inte. Remissvar på SOU 2025:26 ej granskat. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.",
+  "lu": "Förslaget till budget 2027 (hösten 2026), utbildningsnämndens budgetunderlag 2027 och KF-datum i november 2026 hittades inte. Remissvar på SOU 2025:26 ej granskat. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2025 med ekonomisk flerårsplan 2026–2027, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Budget 2026 och ekonomisk flerårsplan 2027–2028, beslutad i KF 2025-11-24",
@@ -4500,7 +4531,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Utbildningsnämndens protokoll 2026-08-25 ej åtkomligt.",
+  "lu": "Utbildningsnämndens protokoll 2026-08-25 ej åtkomligt. Den automatiska hämtningen 2026-11-07 hittade reformorden i Mål och budget 2024 med flerårsplan 2025–2027, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Mål och budget 2026 med flerårsplan 2027–2029",
@@ -4604,7 +4635,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Diariet ej åtkomligt. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats.",
+  "lu": "Diariet ej åtkomligt. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i årsredovisning 2025, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Årsredovisning 2025, grundskolenämnden",
@@ -5223,7 +5254,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Mål och budget 2027–2029 ej hittad. Avser 2026, inte 2027. Statusen ändrades 2026-11-07 från Pengar beslutade till Ej bedömbart än, eftersom pengarna gäller budget 2026 och ingen budgethandling för 2027 har hittats.",
+  "lu": "Mål och budget 2027–2029 ej hittad. Avser 2026, inte 2027. Statusen ändrades 2026-11-07 från Pengar beslutade till Ej bedömbart än, eftersom pengarna gäller budget 2026 och ingen budgethandling för 2027 har hittats. Den automatiska hämtningen 2026-11-07 hittade reformorden i kommunstyrelsens kallelse 2026-02-05 (revisionsrapport som nämner en satsning 2026 kopplad till lärares undervisningsuppdrag), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "BUN kallelse 2025-05-19, förslag till mål och budget 2026–2028",
@@ -5403,7 +5434,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026.",
+  "lu": "OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens kallelser 2026-02-13 och 2026-09-03 (information om reformen och resursfördelningsmodellen), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Kallelse kommunstyrelsen 2026-06-09 – kompletterat ärende (Näringslivsprogram 2026–2030)",
@@ -5695,7 +5726,7 @@
   "pl": null,
   "kf": "november 2026 (planerat enligt ordinarie process; exakt datum ej verifierat)",
   "kfu": "https://www.habo.se/download/18.1783696c19ac8c4b1bf40ba/1764331681519/Budget%202026,%20plan%202027-2028.pdf",
-  "lu": "Inget KS-förslag, ingen nämndbudget och ingen KF-kallelse för budget 2027 (hösten 2026) hittades. OBS: sökträffar på habokommun.se och regeringen.se/.../habo-kommun.pdf gäller Habo kommun i Jönköpings län, inte Håbo, och har inte tagits med.",
+  "lu": "Inget KS-förslag, ingen nämndbudget och ingen KF-kallelse för budget 2027 (hösten 2026) hittades. OBS: sökträffar på habokommun.se och regeringen.se/.../habo-kommun.pdf gäller Habo kommun i Jönköpings län, inte Håbo, och har inte tagits med. Den automatiska hämtningen 2026-11-07 hittade reformorden i en motion om kränkningsutredningar (2026-05-18), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Budget 2026, plan 2027–2028",
@@ -5925,17 +5956,28 @@
   "k": "Forshaga",
   "id": "forshaga",
   "l": "Värmlands län",
-  "s": 5,
-  "sum": "Inga budgethandlingar för 2027 hittades. Sökträffarna gällde kallelser och protokoll från 2024.",
-  "m": null,
+  "s": 1,
+  "sum": "Budget 2027 med plan 2028–2029 anger att barn- och utbildningsnämndens ram för 2027 (386,0 mnkr) innehåller 1,4 mnkr för reformen kring lärares arbetstid.",
+  "m": "1,4 mnkr i barn- och utbildningsnämndens ram 2027",
   "mk": null,
-  "kort": null,
+  "kort": "1,4 mnkr i nämndens ram 2027",
   "sb": null,
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade varken budget 2027, KF-datum eller nämndunderlag (3 sökningar gjorda).",
-  "docs": [],
+  "lu": "Det framgår inte av dokumentet när eller om fullmäktige har antagit budgeten, och inget KF-protokoll har granskats. Därför Pengar föreslagna. Det framgår inte om beloppet motsvarar kommunens andel av statsbidraget. Statusen ändrades 2026-11-07 från Ej bedömbart än.",
+  "docs": [
+   {
+    "t": "Budget 2027, plan 2028–2029 (Forshaga kommun)",
+    "d": "2026-06",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"I ramen ingår även 0,5 miljoner kronor för skolbibliotek samt 1,4 miljoner kronor för reformen kring lärares arbetstid.\" (s. 41)",
+    "ko": "Dokumentet publicerades i juni 2026 och saknar uppgift om beslut.",
+    "u": "https://www.forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/Budget%202027%20fler%C3%A5rsplan%202028-2029.pdf"
+   }
+  ],
   "w": "https://www.forshaga.se/"
  },
  {
@@ -5987,17 +6029,27 @@
   "k": "Hammarö",
   "id": "hammaro",
   "l": "Värmlands län",
-  "s": 5,
-  "sum": "Budget 2026 (KF 2025-12-16 § 188) innehåller plan för 2027 men nämner inte reformen. Inga budgethandlingar för 2027 hittades.",
-  "m": null,
+  "s": 0,
+  "sum": "Budget 2027, antagen av kommunfullmäktige 2026-06-22 § 80, har ett tillägg på 8,5 mnkr 2027 och 16 mnkr per år 2028–2029 på raden Reform undervisningstid/aktivitetskrav. Enligt förordet har majoriteten avsatt medel utöver statens bidrag för att klara de två reformerna. Beloppet är gemensamt för reformen och aktivitetskravet för försörjningsstöd.",
+  "m": "8,5 mnkr 2027 och 16 mnkr per år 2028–2029 (raden Reform undervisningstid/aktivitetskrav, gemensamt för två reformer)",
   "mk": null,
-  "kort": null,
-  "sb": null,
+  "kort": "8,5 mnkr 2027, delat med aktivitetskravet",
+  "sb": "Förordet säger att medlen avsätts utöver statens bidrag.",
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Hittade varken budget 2027 eller KF-datum för den. Budget 2026 beslutades i december 2025, så budget 2027 beslutas troligen i nov–dec 2026 (inte verifierat). Underlag från BUN hittades inte (3 sökningar gjorda).",
+  "kf": "2026-06-22 § 80 (enligt den antagna budgeten; protokollet ej granskat)",
+  "kfu": "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf",
+  "lu": "Statusen är en tolkning: beloppet gäller både reformen om undervisningstid och aktivitetskravet för försörjningsstöd, och hur det fördelas mellan dem framgår inte. Beslutet bygger på uppgiften i den antagna budgeten; KF-protokollet har inte granskats. Bildningsnämndens detaljbudget för 2027 har inte granskats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Pengar beslutade.",
   "docs": [
+   {
+    "t": "Budget 2027 samt plan för 2028–2029 (antagen av kommunfullmäktige 2026-06-22 § 80)",
+    "d": "2026-06-22",
+    "sk": "beslut",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"I vårt förslag till budget och ekonomisk plan har vi utöver statens bidrag avsatt ytterligare medel för att klara dessa reformer.\" (s. 4); \"Reform undervisningstid/aktivitetskrav -8 500\" (s. 34, tabellen Tillägg budget 2027, tkr)",
+    "ko": "Reformerna i förordet är undervisningstid för lärare och aktivitetskrav för försörjningsstöd.",
+    "u": "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf"
+   },
    {
     "t": "Budget 2026 (ombudgetering) samt plan för 2027–2029, antagen av KF 2025-12-16 § 188",
     "d": "2025-12-16",
@@ -6186,7 +6238,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Datum för KF-beslutet om budget 2027 har inte hittats och beslutet tas troligen nov–dec 2026. Kallelsen till KF 2026-09-17 gick inte att öppna (tidigare körning). Inga budgetförslag eller förvaltningsunderlag 2027 har hittats. Sökkvoten (3) är förbrukad.",
+  "lu": "Datum för KF-beslutet om budget 2027 har inte hittats och beslutet tas troligen nov–dec 2026. Kallelsen till KF 2026-09-17 gick inte att öppna (tidigare körning). Inga budgetförslag eller förvaltningsunderlag 2027 har hittats. Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i fullmäktiges kallelse 2026-04-09 (årsredovisning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Protokoll KF 2026-06-09",
@@ -6292,7 +6344,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Budgetdokument 2027, KF-datum och BUN-underlag har inte hittats. Kommunens webbplats saffle.se dök inte upp i några sökresultat. Artikeln https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten kunde inte hämtas (robots). Sökkvoten (3) är förbrukad.",
+  "lu": "Budgetdokument 2027, KF-datum och BUN-underlag har inte hittats. Kommunens webbplats saffle.se dök inte upp i några sökresultat. Artikeln https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten kunde inte hämtas (robots). Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2023, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [],
   "w": "https://www.saffle.se/"
  },
@@ -6674,7 +6726,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Budget 2027-förslag och KF-datum för hösten 2026 hittades inte (troligen nov 2026, ej verifierat). Gymnasiet sköts via Södra Lapplands gymnasieförbund (med Vilhelmina). Remissvar SOU 2025:26 ej sökt.",
+  "lu": "Budget 2027-förslag och KF-datum för hösten 2026 hittades inte (troligen nov 2026, ej verifierat). Gymnasiet sköts via Södra Lapplands gymnasieförbund (med Vilhelmina). Remissvar SOU 2025:26 ej sökt. Den automatiska hämtningen 2026-11-07 hittade reformorden i nämndprotokoll 2026-09-21 (garanterad undervisningstid), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Kallelse/dagordning kommunfullmäktige 2025-11-18 (ärende 15: Budget 2026 samt plan 2027, 2028 och 2029)",
@@ -7653,17 +7705,28 @@
   "k": "Bengtsfors",
   "id": "bengtsfors",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Tre sökningar gav inga budgethandlingar för 2027 från Bengtsfors kommun. Webbkartan och startsidan låg inte på listan över tillåtna URL:er och kunde inte hämtas.",
-  "m": null,
+  "s": 1,
+  "sum": "Förslaget till Budget 2027, plan 2028–2030, som kommunstyrelsen behandlar 2026-11-11, prioriterar 1,1 mnkr 2027 för reglering av lärares undervisningstid enligt finansieringsprincipen (halvårseffekt). Förslaget noterar stor osäkerhet om ersättningen motsvarar kostnaderna.",
+  "m": "1,1 mnkr 2027 (halvårseffekt), prioritering enligt finansieringsprincipen",
   "mk": null,
-  "kort": null,
-  "sb": null,
+  "kort": "1,1 mnkr 2027, förslag",
+  "sb": "Prioriteringen följer finansieringsprincipen, alltså den kompensation staten ger via statsbidraget.",
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Inga budgetdokument, KF-protokoll eller nämndhandlingar 2026 hittades i sökningarna. bengtsfors.se/ovrigt/webbkarta och startsidan låg inte på listan över tillåtna URL:er. Allt återstår: budget 2027, beslutsdatum och nämndunderlag.",
-  "docs": [],
+  "lu": "KF-beslutet om budget 2027 och dess datum har inte granskats. Beloppen för planåren i prioriteringstabellen (s. 27) går inte att knyta säkert till respektive år och har utelämnats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Pengar föreslagna.",
+  "docs": [
+   {
+    "t": "Budget 2027, plan 2028–2030, förslag (kommunstyrelsen 2026-11-11, ärende 5)",
+    "d": "2026-11-11",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Reglering av lärares arbetstid kompenseras med 1,1 mnkr och avser halvårseffekt\" (s. 35)",
+    "ko": "Hämtad från kommunens mötesportal (Netpublicator).",
+    "u": "https://docs.netpublicator.com/api/public/r26937924/document/8b9e35743add474b59b3-55be-4fcb-b882-b6ea8f5126a1?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374"
+   }
+  ],
   "w": "https://www.bengtsfors.se/"
  },
  {
@@ -8003,7 +8066,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade inte budgetförutsättningar 2027–2029, partiernas budgetförslag 2027, grundskolenämndens budgetunderlag eller KF-datum för budget 2027. Budget 2025 och 2026 beslutades i början av november, så budget 2027 beslutas troligen i november 2026, men datumet är inte verifierat. Sökbudgeten tog slut. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.",
+  "lu": "Hittade inte budgetförutsättningar 2027–2029, partiernas budgetförslag 2027, grundskolenämndens budgetunderlag eller KF-datum för budget 2027. Budget 2025 och 2026 beslutades i början av november, så budget 2027 beslutas troligen i november 2026, men datumet är inte verifierat. Sökbudgeten tog slut. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i utbildningsförvaltningens rutin för garanterad undervisningstid och grundskoleförvaltningens verksamhetsplan 2026, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Göteborgs Stad – remissyttrande SOU 2025:26 Tid för undervisningsuppdraget (U2025/00740)",
@@ -8353,7 +8416,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade ingen MRP 2027 (varken förslag eller beslut), inget KF-datum och inget budgetunderlag från bildningsnämnden för 2027. Sidan med mötesprotokoll och kommunens startsida gick inte att hämta (inte på tillåtelselistan). Kallelser tyder på att KF tidigare beslutat MRP i juni eller december, men det är inte verifierat för 2027. Lilla Edet deltar i GR:s skolekonomnätverk. Nätverkets anteckningar från 2026-02-26 säger att reformen \"kommer bli väldigt dyrt\" och att SKR:s mall är \"krånglig\", men de nämner inte Lilla Edet specifikt: https://goteborgsregionen.se/download/18.5e2fcdef19d24d2898c5294/1774871144619/2026-02-26%20Anteckningar%20Skolekonomna%CC%88tverket.pdf",
+  "lu": "Hittade ingen MRP 2027 (varken förslag eller beslut), inget KF-datum och inget budgetunderlag från bildningsnämnden för 2027. Sidan med mötesprotokoll och kommunens startsida gick inte att hämta (inte på tillåtelselistan). Kallelser tyder på att KF tidigare beslutat MRP i juni eller december, men det är inte verifierat för 2027. Lilla Edet deltar i GR:s skolekonomnätverk. Nätverkets anteckningar från 2026-02-26 säger att reformen \"kommer bli väldigt dyrt\" och att SKR:s mall är \"krånglig\", men de nämner inte Lilla Edet specifikt: https://goteborgsregionen.se/download/18.5e2fcdef19d24d2898c5294/1774871144619/2026-02-26%20Anteckningar%20Skolekonomna%CC%88tverket.pdf Den automatiska hämtningen 2026-11-07 hittade reformorden i bildningsnämndens kallelse 2026-03-24 (kvalitetsrapporter), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Mål- och Resursplan 2026 med plan 2027-2028",
@@ -8520,7 +8583,7 @@
   "pl": null,
   "kf": "november 2026 (planerat; exakt datum ej angivet)",
   "kfu": "https://www.molndal.se/kommun-och-politik/ekonomi-och-budget/budget.html",
-  "lu": "Hittade inget förslag till budget 2027 från budgetberedningen, KS eller partierna, och inget exakt KF-datum. Budgetsidan listar inga dokument. Mölndal deltar i GR:s skolekonomnätverk. Nätverkets anteckningar från 2026-02-26 säger att reformen \"kommer bli väldigt dyrt\", men Mölndal nämns där bara i ett annat ärende (Riksrevisionens granskning): https://goteborgsregionen.se/download/18.5e2fcdef19d24d2898c5294/1774871144619/2026-02-26%20Anteckningar%20Skolekonomna%CC%88tverket.pdf. Mölndals-Posten är en tidningsartikel, men producentfältet tillåter bara två värden, så den står som \"tjänstemannaproducerat\". Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.",
+  "lu": "Hittade inget förslag till budget 2027 från budgetberedningen, KS eller partierna, och inget exakt KF-datum. Budgetsidan listar inga dokument. Mölndal deltar i GR:s skolekonomnätverk. Nätverkets anteckningar från 2026-02-26 säger att reformen \"kommer bli väldigt dyrt\", men Mölndal nämns där bara i ett annat ärende (Riksrevisionens granskning): https://goteborgsregionen.se/download/18.5e2fcdef19d24d2898c5294/1774871144619/2026-02-26%20Anteckningar%20Skolekonomna%CC%88tverket.pdf. Mölndals-Posten är en tidningsartikel, men producentfältet tillåter bara två värden, så den står som \"tjänstemannaproducerat\". Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget och plan 2022–2024, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Nämndens verksamhetsplan 2026-2028 Skolförvaltningen (skolnämnden)",
@@ -8776,7 +8839,7 @@
   "pl": null,
   "kf": null,
   "kfu": "https://www.stromstad.se/kommunochpolitik/ekonomi/budget.4.b5400fe1453b28b6b71e8f9.html",
-  "lu": "KF:s protokollsida listar inga protokoll för 2026, och ärendelistesidan kunde inte hämtas (inte på allowlist). Inget förslag till budget 2027, inget BUN-underlag och inget KF-datum hittades. KF-protokollet 2026-04-23 hittades men granskades inte: https://www.stromstad.se/download/18.6f08658a19dd796e69a2e3e/1777474133812/Protokoll%20KF%202026-04-23.pdf",
+  "lu": "KF:s protokollsida listar inga protokoll för 2026, och ärendelistesidan kunde inte hämtas (inte på allowlist). Inget förslag till budget 2027, inget BUN-underlag och inget KF-datum hittades. KF-protokollet 2026-04-23 hittades men granskades inte: https://www.stromstad.se/download/18.6f08658a19dd796e69a2e3e/1777474133812/Protokoll%20KF%202026-04-23.pdf Den automatiska hämtningen 2026-11-07 hittade reformorden i en kallelse med kvalitetsredovisning för förskolan, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Budget – Strömstad (kommunens budgetsida)",
@@ -8795,17 +8858,27 @@
   "k": "Svenljunga",
   "id": "svenljunga",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Ingen Verksamhetsplan 2027–2029 hittades. Gällande Verksamhetsplan 2026–2028 antogs i KF 2025-11-24 (§113–114) och nämner inte reformen. Enligt den antas planen normalt i slutet av november, så budget 2027 beslutas troligen i KF i november 2026 (inte verifierat).",
+  "s": 3,
+  "sum": "Förslaget till Verksamhetsplan 2027–2029, som ska beslutas av fullmäktige 2026-11-23, ger barn- och utbildningsnämnden tillskott för reformen Reglering av lärares undervisningstid redan för 2028, så att helårseffekt nås. Beloppet framgår inte i den text som kunnat läsas.",
   "m": null,
   "mk": null,
   "kort": null,
   "sb": null,
   "pl": null,
-  "kf": null,
-  "kfu": null,
-  "lu": "Verksamhetsplan 2027–2029 och KS-/KF-handlingar från hösten 2026 hittades inte. Sökbudgeten tog slut. BUN:s budgetunderlag 2027 granskades inte.",
+  "kf": "2026-11-23 (planerat enligt förslaget)",
+  "kfu": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_Verksamhetsplan%202027-2029%20f%C3%B6r%20Svenljunga%20kommun%20och%20koncernbolagen%20(KSAU%2026_10).pdf",
+  "lu": "Driftbudgetens tabeller (s. 24–29) gick inte att läsa ut som text, så tillskottets storlek är okänd. Med beloppet kan statusen bli Pengar föreslagna. KF:s beslut har inte granskats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Nämnt utan belopp.",
   "docs": [
+   {
+    "t": "Verksamhetsplan 2027–2029 för Svenljunga kommun och koncernbolagen, förslag (KSAU 2026-10-26)",
+    "d": "2026-10-26",
+    "sk": "underlag/förslag",
+    "pr": "politiskt producerat",
+    "nr": true,
+    "c": "\"Tillskott sker redan nu även för 2028 för barn- och utbildningsnämnden för reformen \"Reglering av lärares undervisningstid\". Helårseffekt är därmed uppnådd från 2028.\" (s. 33)",
+    "ko": "Bilaga 1 (s. 43) redovisar regeringens 1,3 mdkr 2027 och 2,6 mdkr från 2028.",
+    "u": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_Verksamhetsplan%202027-2029%20f%C3%B6r%20Svenljunga%20kommun%20och%20koncernbolagen%20(KSAU%2026_10).pdf"
+   },
    {
     "t": "Verksamhetsplan 2026–2028 (antagen KF 2025-11-24 §113–114)",
     "d": "2025-11-24",
@@ -8823,17 +8896,27 @@
   "k": "Tanum",
   "id": "tanum",
   "l": "Västra Götalands län",
-  "s": 5,
-  "sum": "Budget 2026 fastställdes i KF 2025-11-24 (§ 129), så budget 2027 beslutas troligen i KF i november 2026. KS-protokollet 2026-05-06 innehåller inget om budget 2027 eller reformen. Inga handlingar för budget 2027 hittades.",
+  "s": 3,
+  "sum": "Förslaget till Budget 2027 i kommunstyrelsens handlingar 2026-11-04 nämner regleringen av lärares undervisningstid och aktivitetskravet som de två större reformerna och säger att nämnderna kompenseras utifrån kommunens tilldelning i de generella statsbidragen. Något belopp anges inte i texten.",
   "m": null,
   "mk": null,
   "kort": null,
-  "sb": null,
+  "sb": "Nämnderna kompenseras utifrån kommunens tilldelning i de generella statsbidragen.",
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Inget förslag till budget 2027 och inget BUN-underlag 2027 hittades. KF-datumet för budget 2027 är okänt; november 2026 är bara en slutsats från förra årets mönster. Nyhetssidan om budget 2026 gick inte att hämta (klientfel).",
+  "lu": "Beloppen i driftbudgeten har inte granskats; med dem kan statusen bli Pengar föreslagna. KF:s beslut och datum har inte granskats. Statusen ändrades 2026-11-07 från Ej bedömbart än till Nämnt utan belopp.",
   "docs": [
+   {
+    "t": "Budget 2027, förslag (kommunstyrelsens handlingar 2026-11-04, ärende 16)",
+    "d": "2026-11-04",
+    "sk": "underlag/förslag",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"Kompensation utgår till nämnderna utifrån kommunens tilldelning i de generella statsbidragen.\" (s. 104)",
+    "ko": "Sidnumret avser PDF:en med alla KS-handlingar. Texten står i tvåspaltig layout.",
+    "u": "https://www.tanum.se/download/18.77ecb0ce1a18c435c471ad/1793362118313/Kommunstyrelsen%204%20november%202026,%20med%20handlingar.pdf"
+   },
    {
     "t": "Kommunfullmäktiges protokoll 2025-11-24 §§ 112–136 (budget 2026, investeringsplan 2027–2028)",
     "d": "2025-11-24",
@@ -9135,7 +9218,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Hittade inga budgetförslag 2027 och inget datum för KF-beslutet. Partiernas budgetförslag har tidigare år publicerats i november, så beslut i nov–dec 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde promemorian Bättre anpassad undervisningstid, 2023).",
+  "lu": "Hittade inga budgetförslag 2027 och inget datum för KF-beslutet. Partiernas budgetförslag har tidigare år publicerats i november, så beslut i nov–dec 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde promemorian Bättre anpassad undervisningstid, 2023). Den automatiska hämtningen 2026-11-07 hittade reformorden i kommunstyrelsens handlingar augusti–oktober 2026 (sektorns resursfördelningsmodeller och skolinformation), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Budget 2026 och ekonomisk plan 2027–2028",
@@ -9379,17 +9462,27 @@
   "k": "Hallsberg",
   "id": "hallsberg",
   "l": "Örebro län",
-  "s": 5,
-  "sum": "Mål och budget 2027 och planeringsförutsättningar 2027 hittades inte vid omkörningen heller; senaste budgetdokument är Mål och budget 2025 med flerårsplan 2026–2027 (KF 2024-11-18), som inte nämner reformen. Bildningsnämndens remissvar på regeringen.se gäller andra frågor (bl.a. SOU 2026:37 om förskolan), inget svar på SOU 2025:26 hittades.",
+  "s": 3,
+  "sum": "Fullmäktige godkände 2026-06-08 § 44 gemensamma planeringsförutsättningar 2027–2029, grunden för höstens mål och budget. De beskriver regleringen av lärares undervisningstid, bedömer att den sannolikt ökar kostnaderna och anger att statsbidraget för Hallsberg blir 1,9 mnkr 2027 och 3,9 mnkr 2028. Inget belopp avsätts till skolan i underlaget.",
   "m": null,
   "mk": null,
   "kort": null,
-  "sb": null,
+  "sb": "Kommunen räknar med 1,9 mnkr 2027 och 3,9 mnkr 2028 i generella statsbidrag för reformen.",
   "pl": null,
-  "kf": null,
+  "kf": "Mål och budget beslutas hösten 2026 (datum okänt); planeringsförutsättningarna godkändes 2026-06-08 § 44",
   "kfu": null,
-  "lu": "Hittade inte Mål och budget 2027, generella planeringsförutsättningar 2027 eller bildningsnämndens budgetunderlag 2027. KF-datum för budget 2027 är okänt (tidigare år beslut i november, t.ex. 2024-11-18). Kommunens webbsidor gick inte att öppna utan sökträff. Sökkvoten (3) är förbrukad.",
+  "lu": "Mål och budget 2027 med flerårsplan har inte hittats. Statsbidraget räknas inte som ett belopp avsatt till skolan. Statusen ändrades 2026-11-07 från Ej bedömbart än till Nämnt utan belopp.",
   "docs": [
+   {
+    "t": "Gemensamma planeringsförutsättningar 2027–2029 (KF 2026-06-08 § 44)",
+    "d": "2026-06-08",
+    "sk": "beslut",
+    "pr": "tjänstemannaproducerat",
+    "nr": true,
+    "c": "\"För kommunen och skolhuvudmännen innebär förändringen sannolikt ökade kostnader, eftersom fler lärare kommer att behöva anställas för att täcka undervisningen inom de nya tidsramarna.\" (s. 141)",
+    "ko": "Sidnumret avser PDF:en med KF-protokollet och bilagor.",
+    "u": "https://www.hallsberg.se/download/18.246489bf19eafcdf93434/1781079856473/2026-06-08%20-%20Protokoll%20KF.pdf"
+   },
    {
     "t": "Mål och budget 2025, flerårsplan 2026–2027",
     "d": "2024-11-18",
@@ -9585,7 +9678,7 @@
   "pl": null,
   "kf": null,
   "kfu": null,
-  "lu": "Tre sökningar gav ingen budget 2027. Praxis: KF beslutade 'Mål och budget 2025 Verksamhetsplan 2026–2027' den 2024-06-17 (§74/24, https://lindesberg.se/download/18.6ae8f81900c622ff91ef8b/1718878618186/KF%202024-06-17.pdf). Budget 2027 kan därför ha beslutats i juni 2026, men det är inte verifierat. lindesberg.se kunde inte hämtas direkt.",
+  "lu": "Tre sökningar gav ingen budget 2027. Praxis: KF beslutade 'Mål och budget 2025 Verksamhetsplan 2026–2027' den 2024-06-17 (§74/24, https://lindesberg.se/download/18.6ae8f81900c622ff91ef8b/1718878618186/KF%202024-06-17.pdf). Budget 2027 kan därför ha beslutats i juni 2026, men det är inte verifierat. lindesberg.se kunde inte hämtas direkt. Den automatiska hämtningen 2026-11-07 hittade reformorden i fullmäktiges kallelse 2026-11-09 (måluppföljning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.",
   "docs": [
    {
     "t": "Protokoll BUN 2025-12-15 §§ 140-141 (Mål och budget 2026 Verksamhetsplan 2027-2028)",

@@ -124,6 +124,12 @@ Claude svarade att den första körningen bara hade sökt 125 kommuner och hämt
 
 Claude skrev en genomsökare som med en riktig webbläsare (Playwright) går från kommunens webbplats in i mötesportalerna och samlar länkar till handlingar (`verktyg/hamta/portaler.py`), egna hämtare för Netpublicator och MeetingsPlus (`verktyg/hamta/portalskript.py`) och ett verktyg som visar hur en okänd portal är uppbyggd (`verktyg/hamta/undersok_portal.py`). Hämtningen klarar nu sajter som kräver cookies. Sökresultat och PDF:er sparas i GitHub Actions cache i stället för i repot. Efter körningarna nämns reformen i handlingar från 32 av de 176 kommunerna med status Ej bedömbart än, 69 har en möjlig budgethandling för 2027 och 72 saknar ännu användbara handlingar. Inga statusar ändrades: fynden ska granskas innan de används.
 
+### 7 november 2026, kl. 19.11
+
+> Ja
+
+Svar på Claudes fråga om de 32 kommuner där den automatiska hämtningen hittat reformorden skulle granskas. Claude lät GitHub Actions skriva ut de aktuella sidorna, läste dem och kontrollerade citaten ordagrant. Nio kommuner fick ny status: Hammarö Pengar beslutade (beloppet delas med aktivitetskravet), Forshaga, Bengtsfors och Växjö Pengar föreslagna (Växjös belopp delas med tidiga insatser), samt Säter, Svenljunga, Skurup, Tanum och Hallsberg Nämnt utan belopp. För 23 kommuner var träffarna inte budgethandlingar för 2027, till exempel gamla budgetar, årsredovisningar eller garanterad undervisningstid. Det står nu i deras luckor, och de förblir Ej bedömbart än.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
