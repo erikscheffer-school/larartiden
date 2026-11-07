@@ -1,159 +1,25 @@
 [
  {
-  "kommun": "sater",
-  "url": "https://sater.se/wp-content/uploads/2026/04/protokoll-2026-04-15.pdf",
+  "kommun": "svenljunga",
+  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_Verksamhetsplan%202027-2029%20f%C3%B6r%20Svenljunga%20kommun%20och%20koncernbolagen%20(KSAU%2026_10).pdf",
   "sidor": [
-   1,
-   2,
-   8
-  ],
-  "endast": true,
-  "titel": "Barn- och utbildningsnämnden 2026-04-15"
- },
- {
-  "kommun": "alvdalen",
-  "url": "https://www.alvdalen.se/download/18.318a3bf819c93370b5ee5e8e/1772782222932/Protokoll%20Barn-%20och%20utbildningsutskottet%202026-03-05%20signerat.pdf",
-  "sidor": [
-   1,
-   2,
-   12
-  ],
-  "endast": true,
-  "titel": "Protokoll Barn- och utbildningsutskottet 2026-03-05 signerat.pdf\nPdf, 1.9 MB."
- },
- {
-  "kommun": "nordanstig",
-  "url": "https://nordanstig.se/download/18.c9ab8701686e14dc6fa36a7/1548686486440/Budget-2017--2020.pdf",
-  "sidor": [
-   1,
-   2,
-   7
-  ],
-  "endast": true,
-  "titel": "Budget 2017–2020\npdf, 831 kB, öppnas i nytt fönster."
- },
- {
-  "kommun": "laholm",
-  "url": "https://laholm.se/download/18.2df650a819bb67f970f4fbd6/1769065482497/Protokoll%20UBN%202026-01-21.pdf",
-  "sidor": [
-   1,
-   2,
-   25
-  ],
-  "endast": true,
-  "titel": "Utbildningsnämnden Sammanträdesdatum 2026-01-21 § Ärendelista § 1"
- },
- {
-  "kommun": "jonkoping",
-  "url": "https://www.jonkoping.se/download/18.5bf52f9d1a157840cc0a0af/1792566306229/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-10-13.pdf",
-  "sidor": [
-   1,
-   2,
-   7
-  ],
-  "endast": true,
-  "titel": "Barn- och utbildningsnämndens protokoll 2026-10-13\npdf, 1.2 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "jonkoping",
-  "url": "https://www.jonkoping.se/download/18.44e6b59c1a157950e22a405/1792565708214/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mnden%20protokoll%202026-10-12.pdf.pdf",
-  "sidor": [
-   1,
-   2,
-   13
-  ],
-  "endast": true,
-  "titel": "Utbildnings- och arbetsmarknadsnämnden, protokoll 2026-10-12\npdf, 834.4 kB, öppnas i nytt fönster."
- },
- {
-  "kommun": "hultsfred",
-  "url": "https://www.hultsfred.se/files/2026/10/Protokoll_BUN_2026-09-30.pdf",
-  "sidor": [
-   1,
-   2,
    3,
-   22
-  ],
-  "endast": true,
-  "titel": ""
- },
- {
-  "kommun": "hultsfred",
-  "url": "https://www.hultsfred.se/files/2026/09/Kallelse-BUN-2026-09-30.pdf",
-  "sidor": [
-   1,
-   2
-  ],
-  "endast": true,
-  "titel": ""
- },
- {
-  "kommun": "uppvidinge",
-  "url": "https://www.uppvidinge.se/download/18.fd7ba851a157a87bca414/1792493911448/Protokoll%20BUN%202026-10-14.pdf",
-  "sidor": [
-   1,
-   2,
-   10
-  ],
-  "endast": true,
-  "titel": "Barn- och utbildningsnämnden protokoll 2026-10-14\nPdf, 497.6 kB."
- },
- {
-  "kommun": "vaxjo",
-  "url": "https://www.vaxjo.se/download/18.19762da1a18c6b231719bba/1793695253252/F%C3%B6rslag%20till%20budget%202027%20med%20plan%20f%C3%B6r%202028%20och%202029_M-L-KD-C.pdf",
-  "sidor": [
-   1,
-   2,
+   4,
+   5,
+   6,
+   24,
+   25,
    26,
-   29
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
   ],
-  "endast": true,
-  "titel": "Moderaternas, Kristdemokraternas, Centerpartiets och Liberalernas förslag till budget för 2027\npdf, 1 MB."
- },
- {
-  "kommun": "vaxjo",
-  "url": "https://www.vaxjo.se/download/18.63bb4d55193df1e62452eb29/1734702808284/Internbudget%202025%20klar%20med%20till%C3%A4gg.pdf",
-  "sidor": [
-   1,
-   2,
-   38,
-   52
-  ],
-  "endast": true,
-  "titel": "Internbudget för utbildningsnämnden 2025\npdf, 880 kB, öppnas i nytt fönster."
- },
- {
-  "kommun": "vaxjo",
-  "url": "https://www.vaxjo.se/download/18.535b309a18d788017c6c5e3a/1707732307002/Internbudget%20utbildningsn%C3%A4mdnen%202024.pdf",
-  "sidor": [
-   1,
-   2,
-   7
-  ],
-  "endast": true,
-  "titel": "Internbudget för utbildningsnämnden 2024\npdf, 437 kB, öppnas i nytt fönster."
- },
- {
-  "kommun": "overkalix",
-  "url": "https://www.overkalix.se/media/22ygtrr0/barn-och-utbildningsutskottets-protokoll-2026-03-09-14-27signeradpub-1.pdf",
-  "sidor": [
-   1,
-   2,
-   19
-  ],
-  "endast": true,
-  "titel": "BU 2026-03-09 §§ 14-27 Skapad: 2026-03-16 Filtyp: pdf (1,21 Mb)"
- },
- {
-  "kommun": "eslov",
-  "url": "https://eslov.se/app/uploads/kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf",
-  "sidor": [
-   1,
-   2,
-   33
-  ],
-  "endast": true,
-  "titel": "kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf"
+  "endast": true
  },
  {
   "kommun": "skurup",
@@ -161,246 +27,33 @@
   "sidor": [
    1,
    2,
-   276,
+   3,
+   4,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323,
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331,
+   332,
+   333,
    334,
-   343,
-   384,
-   385
+   335,
+   336,
+   337,
+   338,
+   339,
+   340
   ],
-  "endast": true,
-  "titel": "2026-11-02 pdf, 57.8 MB. (pdf, 57.8 MB)2026-10-19 pdf, 327.4 kB. (pdf, 327.4 kB)KF 5 oktober inställt2026-09-07 pdf, 12.2 MB, öppnas i nytt fönster. ("
- },
- {
-  "kommun": "orkelljunga",
-  "url": "https://www.orkelljunga.se/download/18.82035bf1934c1405faa9/1732626146454/Budget%202025%20och%20ekonomisk%20fler%C3%A5rsplan%202026-2027%20beslutad%20i%20KF%202024-11-25.pdf",
-  "sidor": [
-   1,
-   2,
-   39
-  ],
-  "endast": true,
-  "titel": "Budget 2025 och ekonomisk flerårsplan (EFP) 2026-2027\npdf, 3.9 MB."
- },
- {
-  "kommun": "botkyrka",
-  "url": "https://www.botkyrka.se/download/18.317809c518c3dd37c451f2ff/1702391923837/M%C3%A5l%20och%20budget%202024%20med%20fler%C3%A5rsplan%202025%20-%202027.pdf",
-  "sidor": [
-   1,
-   2,
-   99,
-   100
-  ],
-  "endast": true,
-  "titel": "Mål och budget 2024 med flerårsplan 2025 - 2027.pdf Pdf, 2.6 MB."
- },
- {
-  "kommun": "haninge",
-  "url": "https://www.haninge.se/499336/globalassets/dokument/styrdokument/politiska-styrdokument/mal-och-budget-arsredovisningar/arsredovisning-2025-haninge-kommun.pdf",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "endast": true,
-  "titel": "Årsredovisning 2025"
- },
- {
-  "kommun": "vaxholm",
-  "url": "https://www.vaxholm.se/download/18.62f6135c19bca00c9e05a99e/1769694514571/Kallelse%20KS%202026-02-05.pdf",
-  "sidor": [
-   1,
-   2,
-   82
-  ],
-  "endast": true,
-  "titel": "Kallelse/föredragningslista 2026-02-05 1 av 3"
- },
- {
-  "kommun": "gnesta",
-  "url": "https://www.gnesta.se/download/18.54581b0a19c1e3e17f33bca7/1770631683476/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-02-13.pdf",
-  "sidor": [
-   1,
-   2,
-   12
-  ],
-  "endast": true,
-  "titel": "Kallelse barn- och utbildningsnämnden 2026-02-13.pdf\nPdf, 862.7 kB."
- },
- {
-  "kommun": "gnesta",
-  "url": "https://www.gnesta.se/download/18.4c9c1fff1a01f730ced302a0/1788269769972/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-09-03.pdf",
-  "sidor": [
-   1,
-   2,
-   16
-  ],
-  "endast": true,
-  "titel": "Kallelse barn- och utbildningsnämnden 2026-09-03.pdf\nPdf, 1.4 MB."
- },
- {
-  "kommun": "haabo",
-  "url": "https://www.habo.se/download/18.48f99c9119e631e674351cfd/1780934360948/23-45.%20Anm%C3%A4lan%20av%20motioner.pdf",
-  "sidor": [
-   1,
-   2,
-   4
-  ],
-  "endast": true,
-  "titel": "TJÄNSTESKRIVELSE Sida 1(1) Datum 2026-05-18 Vår beteckning"
- },
- {
-  "kommun": "forshaga",
-  "url": "https://www.forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/Budget%202027%20fler%C3%A5rsplan%202028-2029.pdf",
-  "sidor": [
-   1,
-   2,
-   41
-  ],
-  "endast": true,
-  "titel": "Budget 2027 pdf, 1.6 MB."
- },
- {
-  "kommun": "hammaro",
-  "url": "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf",
-  "sidor": [
-   1,
-   2,
-   4,
-   34
-  ],
-  "endast": true,
-  "titel": "Budget 2027\n(pdf, öppnas i nytt fönster)"
- },
- {
-  "kommun": "hammaro",
-  "url": "https://docs.netpublicator.com/api/public/r00824043/document/24e657b8fdd4cfa4edb2-ead0-49a4-9dff-436d8d25e567?hash=abcba91e58b741-41ae18354ed721746-657cac6938af9807905-61a3b51f17019807947",
-  "sidor": [
-   1,
-   2,
-   4,
-   34
-  ],
-  "endast": true,
-  "titel": "Kommunfullmäktige 2026-06-22 – 14. Beslut om budget Hammarö kommun 2027 – 14.3 Budgetförslag majoriteten Hammarö kommun 2027 med plan för 2028 och 2029"
- },
- {
-  "kommun": "storfors",
-  "url": "https://www.storfors.se/download/18.27064a5c19d24e49c0081f6f/1775133649279/Kallelse%20KF%202026-04-09.pdf",
-  "sidor": [
-   1,
-   2,
-   46
-  ],
-  "endast": true,
-  "titel": "Kallelse KF 2026-04-09.pdf\nPdf, 73.2 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "saffle",
-  "url": "https://saffle.se/download/18.2f1cc1c9181a976d4ff35c9/1656587487296/KS_2022_33-Fullm%C3%A4ktigem%C3%A5l%20och%20budget%202023-2025,%20budgetbok.pdf",
-  "sidor": [
-   1,
-   2,
-   21
-  ],
-  "endast": true,
-  "titel": "Budget 2023 pdf, 1.1 MB. Årsredovisning 2023 pdf, 23.5 MB. Delårsrapport 2023 pdf, 4.8 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "storuman",
-  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun2026-09-21-signerat.pdf",
-  "sidor": [
-   1,
-   2,
-   16
-  ],
-  "endast": true,
-  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20"
- },
- {
-  "kommun": "bengtsfors",
-  "url": "https://docs.netpublicator.com/api/public/r26937924/document/8b9e35743add474b59b3-55be-4fcb-b882-b6ea8f5126a1?hash=93e97f0261d2378-33e9dc6fabfb5810957-9d027ae2a96210200359-0c9bd020245e10200374",
-  "sidor": [
-   1,
-   2,
-   27,
-   35
-  ],
-  "endast": true,
-  "titel": "Kommunstyrelsen 2026-11-11 – 5. Budget 2027, plan 2028-2030 Bengtsfors kommun – 5.2 Budget 2027, Plan 2028-2030 Förslag"
- },
- {
-  "kommun": "goteborg",
-  "url": "https://www4.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/AF5CFBE75B3D5C19C1258E73004A7DE8/$File/12_bilagor_2_5.002.pdf?OpenElement=",
-  "sidor": [
-   1,
-   2,
-   6,
-   10,
-   11,
-   14,
-   25,
-   37
-  ],
-  "endast": true,
-  "titel": "Bilaga 2. Redovisning av vidtagna ..."
- },
- {
-  "kommun": "goteborg",
-  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/c8e8927dc6f42ae8c1258d8c00571db2/$FILE/8.12%20Bilaga%20Grundskoleforvaltningens%20verksamhetsplan%202026%20.pdf",
-  "sidor": [
-   1,
-   2,
-   8
-  ],
-  "endast": true,
-  "titel": "Verksamhetsplan 2026"
- },
- {
-  "kommun": "lilla-edet",
-  "url": "https://lillaedet.se/download/18.774f4f5419c986b501412fde/1773733783691/Kallelse%20BIN%202026-03-24.pdf",
-  "sidor": [
-   1,
-   2,
-   138,
-   148,
-   153
-  ],
-  "endast": true,
-  "titel": "Kallelse BIN 2026-03-24.pdf\nPdf, 5 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "molndal",
-  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce8e/1763657724589/Budget%20plan%202022-2024.pdf",
-  "sidor": [
-   1,
-   2,
-   35
-  ],
-  "endast": true,
-  "titel": "Budget plan 2022-2024.pdf"
- },
- {
-  "kommun": "stromstad",
-  "url": "https://www.stromstad.se/download/18.750f70e0184b91d58dc502/1669650549850/Kallelse%20BUN%202022-09-20.pdf",
-  "sidor": [
-   1,
-   2,
-   75
-  ],
-  "endast": true,
-  "titel": "Länk till kallelse\npdf, 8.4 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "svenljunga",
-  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_Verksamhetsplan%202027-2029%20f%C3%B6r%20Svenljunga%20kommun%20och%20koncernbolagen%20(KSAU%2026_10).pdf",
-  "sidor": [
-   1,
-   2,
-   33,
-   43
-  ],
-  "endast": true,
-  "titel": "6_2_Verksamhetsplan 2027-2029 för Svenljunga kommun och koncernbolagen (KSAU 26_10).pdf"
+  "endast": true
  },
  {
   "kommun": "tanum",
@@ -408,52 +61,30 @@
   "sidor": [
    1,
    2,
-   81,
-   104
+   3,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112
   ],
-  "endast": true,
-  "titel": "Kommunstyrelsen 4 november 2026, med handlingar.pdf\nPdf, 9.3 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "ulricehamn",
-  "url": "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c196c/1787812194913/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-09-03.pdf",
-  "sidor": [
-   1,
-   2,
-   203,
-   204,
-   208,
-   209,
-   214
-  ],
-  "endast": true,
-  "titel": "Ärendelista och handlingar 3 september 2026 (pdf) pdf, 38.2 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "ulricehamn",
-  "url": "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c1e18/1787812985624/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-08-20.pdf",
-  "sidor": [
-   1,
-   2,
-   203,
-   204,
-   208,
-   209,
-   214
-  ],
-  "endast": true,
-  "titel": "Ärendelista och handlingar 20 augusti 2026 (pdf) pdf, 50.4 MB, öppnas i nytt fönster."
- },
- {
-  "kommun": "ulricehamn",
-  "url": "https://www.ulricehamn.se/download/18.3ef958f71a12f5f33eb41339/1791978908532/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-21.pdf",
-  "sidor": [
-   1,
-   2,
-   59
-  ],
-  "endast": true,
-  "titel": "Ärendelista och handlingar 21 oktober 2026 (pdf) pdf, 9.9 MB, öppnas i nytt fönster."
+  "endast": true
  },
  {
   "kommun": "hallsberg",
@@ -461,38 +92,25 @@
   "sidor": [
    1,
    2,
-   141,
-   142,
-   291
+   3,
+   4,
+   5,
+   6,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140
   ],
-  "endast": true,
-  "titel": "2026-06-08 - Protokoll KF.pdf Öppnas i nytt fönster."
- },
- {
-  "kommun": "hallsberg",
-  "url": "https://www.hallsberg.se/download/18.2eb33fa919b2c04ecba8b97/1770124099638/2026-02-10%20-%20Kallelse%20BIN.pdf",
-  "sidor": [
-   1,
-   2,
-   59,
-   158,
-   159
-  ],
-  "endast": true,
-  "titel": "KALLELSE Sammanträdesdatum 2026-02-10 Bildningsnämnden Tid Plats 13:00"
- },
- {
-  "kommun": "hallsberg",
-  "url": "https://www.hallsberg.se/download/18.43c572ab19e4ad77f9b10/1779700179354/2026-05-26%20-%20Kallelse%20KS.pdf",
-  "sidor": [
-   1,
-   2,
-   79,
-   80,
-   228
-  ],
-  "endast": true,
-  "titel": "Kallelse skapad KS 2026-05-26"
+  "endast": true
  },
  {
   "kommun": "lindesberg",
@@ -500,9 +118,91 @@
   "sidor": [
    1,
    2,
-   42
+   3,
+   4,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48
   ],
-  "endast": true,
-  "titel": "Kallelse Kommunfullmäktige 2026-11-09.pdf"
+  "endast": true
+ },
+ {
+  "kommun": "eslov",
+  "url": "https://eslov.se/app/uploads/kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf",
+  "sidor": [
+   1,
+   2,
+   3,
+   4,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ulricehamn",
+  "url": "https://www.ulricehamn.se/download/18.566ae8061a01f6a9cf1c196c/1787812194913/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-09-03.pdf",
+  "sidor": [
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "forshaga",
+  "url": "https://www.forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/Budget%202027%20fler%C3%A5rsplan%202028-2029.pdf",
+  "sidor": [
+   3,
+   4,
+   5,
+   18,
+   19,
+   20
+  ],
+  "endast": true
  }
 ]
