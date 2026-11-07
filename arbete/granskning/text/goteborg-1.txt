@@ -1,0 +1,345 @@
+URL: https://www4.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/AF5CFBE75B3D5C19C1258E73004A7DE8/$File/12_bilagor_2_5.002.pdf?OpenElement=
+Titel: Bilaga 2. Redovisning av vidtagna ...
+Sidor: 40
+
+== INNEHÅLL (första raden per sida) ==
+1: Bilaga 2. Redovisning av vidtagna åtgärder avseende föreläggande gällande Burgårdens
+2: den nya rutinen för avsteg från heltidsstudier. Syftet har varit att stärka personalens förståelse
+3: Utbildningsförvaltningens rutin
+4: Göteborgs Stads styrsystem                                Om Göteborgs Stads styrande
+5: Dokumentnamn: Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid
+6: Inledning
+7: För varje elev på introduktionsprogram beslutar rektor om hur undervisningstiden
+8: Rutin
+9: Lägg in schemabrytande aktiviteter i ett kalendarium för kommande läsår i god
+10: Kompensation kan behöva ges till elever som riskerar att inte nå den garanterade
+11: I tillägg gör utbildningsförvaltningen följande bedömningar:
+12: Huvudmannens rekommendation om vad som
+13: Hög kvitteringsgrad främjar flera processer
+14: 2. Uppföljning om förra läsårets studenter nått upp till minsta
+15: För- och nackdelar med att analysera enskilda elever i ett stickprov
+16: Bilaga 1: Anvisning för kontroll av planerad och
+17: 1) Genomförd undervisningstid
+18: b) Begränsa antal elever genom att ange aktuell skolenhet och Aktuell
+19: f) Filtrera på kurskoder, så bara räknar med undervisningstid, punkt 1-2 i
+20: Bilaga 2: Anvisning för uppföljning av planerad
+21: Vad innebär %kvitterat?
+22: 2. Om du vet namn på den elev du vill ta fram siffror på kan du gå
+23: Beroende på hur många skolor i Göteborgs stad som har utbildningen kan det
+24: Ta fram namn igen, under Person, se punkt 1 i bilden nedan. Ta fram Schemalagd
+25: Nu ska vi ta fram genomförd tid i timmar. I IST Analys används begreppet
+26: När du vill få tabellen till Excel följer du punkt 1-3 i bilden nedan. Högerklicka i
+27: Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid   25 (34)
+28: Bilaga 3: Anvisning för uppföljning av planerad
+29: Läsåret 23/24 XX programmet,                   År1-       År2-       År3-
+30: 3. Välj en elev som läser de ämnen som är ordinarie i timplanen. Genom att ta fram
+31: På skolan i exemplet används en aktivitet från IST Administration som heter
+32: Bilaga 4: Anvisning för kontroll av planerad tid
+33: Bilaga 5: Anvisning för schemaläggning
+34: Bilaga 6: Utdrag ur Garanterad undervisningstid
+35: ser huvudmannen till att yrkeseleverna får sina 15 veckor APL genom att i
+36: 5. I skolor med fungerande arbetssätt följs också den genomförda
+37: Bilaga 4.
+38: Om stöd inom heltid inte är tillräckligt utreds de särskilda skälen (t.ex. via
+39: Bilaga 5.
+40: 
+
+===== SIDA 1 =====
+Bilaga 2. Redovisning av vidtagna åtgärder avseende föreläggande gällande Burgårdens
+gymnasium 2 (Dnr SI 2026:2211)
+
+Göteborgs kommun redovisar vidtagna åtgärder med anledning av Skolinspektionens beslut
+den 21 april 2026 om föreläggande avseende garanterad undervisningstid på
+introduktionsprogrammet vid Burgårdens gymnasium 2. Burgården 2 är dock inte längre den
+enhet som programmet drivs på, då verksamheten har flyttat över till Bernadottegymnasiet 3.
+Verksamheten innehåller inte heller längre Yrkesintroduktion, och svaret fokuserar därmed
+enbart på Individuellt alternativ.
+
+1. Säkerställande av garanterad undervisningstid på heltid
+
+Inför läsåret 2026/2027 har samtliga individuella studieplaner (ISP) och scheman för elever
+på Individuellt alternativ vid Bernadotte 3 omarbetats. Utgångspunkten för elevernas schema
+är från och med läsårsstarten ett schemalagt undervisningsutbud som uppgår till i genomsnitt
+minst 23 timmar per vecka (17 kap. 6 § skollagen). Undervisningstiden omfattar
+ämnesundervisning, studieteknik, strukturerad studiehandledning, motiverande insatser och
+social träning.
+
+2. Reviderad besluts- och handläggningsrutin för minskad undervisningstid
+
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid
+har varit vägledande i förändringsarbetet. Den har sedan kompletterats med skolans lokala
+rutin som är mer detaljerad och ger en tydlig vägledning för hur enheten ska säkerställa varje
+elevs undervisningstid. Skolans lokala rutin är den som varit utgångspunkten i
+kommunikationen med medarbetare. Rutinen tydliggör att följande ska ske före ett eventuellt
+beslut om minskad undervisningstid:
+
+    Krav på elevens begäran: Minskning får endast aktualiseras efter skriftlig begäran från
+    eleven (eller vårdnadshavare om elev är omyndig).
+
+    Prövning av särskilda skäl: Särskilda skäl (exempelvis medicinska skäl eller
+    dokumenterad funktionsnedsättning) ska utredas och framgå av beslutsunderlaget.
+
+    Prövning av stödåtgärder: Innan beslut fattas ska undervisande lärare, elevhälsan och
+    rektor pröva om elevens behov kan tillgodoses genom extra anpassningar eller särskilt
+    stöd (3 kap. skollagen) med bibehållen heltid.
+
+    Formellt rektorsbeslut: Beslut om minskning fattas exklusivt av rektor på avsedd
+    beslutsblankett och arkiveras i elevens akt i PMO samt antecknas i ISP. Mentorer eller
+    enskilda lärare har inte behörighet att ändra undervisningens omfattning.
+
+    Beslutet följs upp av elevhälsoteamet och mentor tillsammans med rektor för att återigen
+    pröva om det är möjligt att återgå till 23 timmar.
+
+3. Kompetensinsatser och information
+
+Rektor vid Bernadotte 3 har under maj/juni/augusti 2026 genomfört riktade informations- och
+utbildningsinsatser för samtliga lärare, mentorer och elevhälsopersonal och har gått igenom
+
+===== SIDA 2 =====
+den nya rutinen för avsteg från heltidsstudier. Syftet har varit att stärka personalens förståelse
+och sätta den nya rutinen.
+
+4. Ämnen som erbjuds
+
+Enheten har ökat paletten av ämnen som eleven erbjuds genom att till exempel erbjuda
+hemkunskap m.m. Enheten har också stärkt möjligheten för elever att pröva på gymnasiala
+ämnen.
+
+Med vidtagna åtgärder anser Utbildningsförvaltningen att bristerna är avhjälpta och att
+verksamheten uppfyller skolförfattningarnas krav.
+
+===== SIDA 6 =====
+Inledning
+Syftet med denna rutin
+I skollagen regleras den garanterade undervisningstiden för elever i
+gymnasieskola och anpassad gymnasieskola. Undervisningstiden är en av skolans
+viktigaste resurser och en viss mängd undervisningstid är nödvändig för att ge
+goda och likvärdiga förutsättningar för lärande. Hur skolan arbetar med planering
+och uppföljning av undervisningstiden påverkar elevernas möjligheter att få sin
+rätt till undervisningstid tillgodosedd. Detta är utbildningsförvaltningens rutin för
+att säkerställa att den undervisning som genomförs når upp till minst den
+garanterade undervisningstiden.
+Skolinspektionen beskriver hur ett systematiskt arbete med garanterad
+undervisningstid kan ske med hjälp av följande bild. 1 Ett utdrag ur
+Skolinspektionens rapport där de fem stegen beskrivs mer utförligt finns i bilaga
+6.
+
+
+
+
+För nationella program i gymnasieskolan och för nationella och individuella
+program i anpassade gymnasieskolan beslutar huvudmannen om antalet
+undervisningstimmar för varje ämne, varje ämnesområde och gymnasiearbetet
+samt om hur undervisningstiden ska fördelas över läsåren. 2 Detta är delegerat av
+utbildningsnämnden till förvaltningens rektorer.
+
+
+1
+    Garanterad undervisningstid i gymnasieskolan, Skolinspektionen 2018
+2
+    4 kap. 22§ Gymnasieförordningen
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid   4 (34)
+
+===== SIDA 10 =====
+      Kompensation kan behöva ges till elever som riskerar att inte nå den garanterade
+      undervisningstiden vid inställda lektioner.
+    • Måluppfyllelse kopplad till garanterad undervisningstid. Elever som inte fått
+      minsta garanterade undervisningstid, eller som av andra anledningar behöver mer
+      tid för att klara målen, kan behöva erbjudas mer undervisningstid.
+    • Hög registreringsgrad. Att läraren kvitterar lektionen (registrerar närvaro) är en
+      förutsättning för att kunna ta ut rapporter på de undervisningstimmar eleverna
+      verkligen har fått. Följ upp hur stor andel av lektionerna som har
+      registrerats/kvitterats i Vklass.
+
+
+Vad räknas som undervisningstid?
+Undervisning är enligt skollagen en målstyrd process under ledning av lärare som syftar
+till utveckling och lärande genom inhämtande och utvecklande av kunskaper och
+värden. 8 Kunskaper och värden beskrivs i läroplan, examensmål samt ämnesplaner med
+syfte och centralt innehåll. 9
+Styrdokumenten talar både om undervisningstid och utbildningstid. I utbildningstiden
+innefattas det som berör elevens utbildning, men som inte nödvändigtvis räknas som
+undervisning. Exempel på detta kan vara introduktionsdagar, friluftsverksamhet,
+läxhjälp, mentorstid, studie- och yrkesvägledning, lärarlösa lektioner och självstudier. 10
+Även om det inte finns några bestämmelser i lagar och förordningar om vad som inte
+ska räknas in i den garanterade undervisningstiden går det att få en del vägledning av
+förarbeten och utredningar;
+    • Läsårets aktuella nationella prov, på bestämda provdatum, ska genomföras utöver
+      elevernas garanterade undervisningstid. 11
+    • Huvudsakligen är mentorstid inte undervisning. Mentorstid räknas bara som
+      undervisningstid om det finns tydliga inslag av undervisning (se definition i första
+      stycket). 12
+    • Läxhjälp i form av öppna läxhjälpstillfällen räknas inte som undervisning. 13
+
+
+
+
+8
+  ”Undervisning: processer som på lektioner eller vid andra lärtillfällen leds av lärare eller förskollärare mot mål
+som anges i förordningar och andra författningar som ansluter till denna lag och som syftar till utveckling och
+lärande genom att barn eller elever inhämtar och utvecklar kunskaper och värden” (1 kap. 3 § Skollagen)
+9
+  Ämnesplanerna är tillsammans med läroplanens del 1 och 2 samt examensmålen lärares viktigaste verktyg för
+att planera och genomföra en undervisning av god kvalitet. Ämnesplanen består dels av en beskrivning av ämnet
+som helhet (syfte), dels av beskrivningar av varje kurs som ingår i ämnet (centralt innehåll och betygskriterier).
+10
+   ”Utbildning: verksamhet som bedrivs av en huvudman enligt denna lag inom vilken barn eller elever deltar i
+undervisning och andra aktiviteter” (1 kap. 3 § skollagen). Se även Garanterad undervisningstid i
+gymnasieskolan, Skolinspektionen 2018, sid 14.
+11
+   Prop. 1990/91:85 Växa med kunskaper s. 94-95
+12
+   Se t.ex Skolinspektionens rapport Garanterad undervisningstid i gymnasieskolan, 2018. I huvudmannens
+uppföljning räknas inte mentorstid som undervisningstid.
+13
+   SOU 2016:77 En gymnasieutbildning för alla
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid                      8 (34)
+
+===== SIDA 11 =====
+I tillägg gör utbildningsförvaltningen följande bedömningar:
+     •   En lektion kan räknas som undervisningstid även om den är delvis lärarlös, om
+         läraren gett uppgifter och är tillgänglig för eleverna. 14
+     •   Studiebesök kan räknas som undervisningstid om det finns tydliga inslag av
+         undervisning (se definition i första stycket).
+     •   Friluftsdagar kan räknas som undervisningstid om det finns tydliga inslag av
+         undervisning (se definition i första stycket).
+     •   Huvudsakligen är restid på studieresor och friluftsdagar inte undervisning. Restid
+         räknas bara som undervisningstid om det finns tydliga inslag av undervisning.
+     •   Prov och andra examinationsformer (inkl gamla nationella prov) räknas vanligen
+         som undervisningstid då det är en del av planeringen i ett ämne.
+     •   Lärarledda lektioner för omläsning av ett ämne, enligt definitionen av
+         undervisning, räknas som undervisningstid.
+     •   Särskilt stöd och handledning som ligger utöver ordinarie undervisningstid kan
+         räknas som undervisningstid.
+     •   Mentorstid kan räknas som undervisningstid om det finns tydliga inslag av
+         undervisning (se definition i första stycket) - det schemaläggs då som
+         “mentorslektion”.
+
+Ytterst bedömer rektor från fall till fall, i samråd med lärare, om en aktivitet räknas som
+undervisning enligt skollagens definitioner.
+
+
+
+
+14
+  ”För att en aktivitet ska kunna definieras som undervisning måste en lärare ha det övergripande ansvaret för
+lektionens innehåll. Det innebär dock inte nödvändigtvis att en lärare måste vara närvarande i
+undervisningslokalen under precis hela lektionen." Garanterad undervisningstid i
+gymnasieskolan, Skolinspektionen 2018, sid 22.
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid                     9 (34)
+
+===== SIDA 14 =====
+             2. Uppföljning om förra läsårets studenter nått upp till minsta
+                garanterade undervisningstid under sina tre år. Uppföljningen jämför
+                planerad tid i timplanen med genomförd tid från IST Analys per ämne.
+                Den ger en bra helhetsbild över elevernas tre år. (Bilaga 2, fungerar för
+                nationella program på AG och GY)
+             3. Uppföljning av genomförd undervisningstid för föregående läsår för
+                elever ur varje årskurs och inriktning. Jämför med garanterad
+                undervisningstid. När man har genomfört beräkningar enligt metoden
+                kommer man fram till total tid under läsåret, inte uppdelat på ämne.
+                Metoden visar år 1 och år 2-elever, vilket gör det möjligt att justera
+                timmar innan eleverna tagit studenten. (Bilaga 3, fungerar för nationella
+                program på AG och GY)
+             4. Kontroll av planerad tid under innevarande skolår. Kontrollera om
+                planerade timmar från timplanen lagts ut i schemat i Skola24, helst med
+                marginal. Kan redovisas per ämne. Metoden genomförs med fördel under
+                hösten och ger en analys av skolans process av nytt skolår. (Bilaga 4,
+                fungerar för nationella program på AG och GY)
+
+
+Beskrivning av planerad och genomförd tid
+Uppföljning av garanterad undervisningstid förutsätter jämförelse mellan data från flera
+system; IST Administration, Skola24 och IST Analys.
+I timplanen finns den planerade tiden. Där har den garanterade undervisningstiden
+fördelats mellan ämnen, och i förekommande fall APL.
+I schemaprogrammet Skola24 tas rapporter fram som summerar alla lektioner i ett
+ämne, för en elev eller klass. Beroende på när dessa rapporter tas ut under läsåret visar
+de planerad tid (vid skolstart) eller summan av genomförd tid och kvarstående planerad
+tid (exempelvis efter höstterminen). Hur väl dessa rapporter stämmer med de verkligt
+genomförda lektionerna beror på i hur stor utsträckning som schemaläggare har ändrat
+schemat under läsåret, därför behövs även rapporten från IST Analys.
+När lektioner har närvaroregistrerats i Vklass förs de vidare till IST Analys. Man kan
+även ställa in lektioner i Vklass utan att de ställts in i Skola24. Begreppet Schemalagd
+tid i IST Analys innefattar kvitterad tid som närvaroförts och okvitterade lektioner.
+Schemalagd tid i IST Analys är det närmaste vi kommer genomförd tid.
+Okvitterade lektioner kan både vara genomförda lektioner som inte närvaroförts och
+lektioner som inte genomförts men inte heller ställts in. I tabellen finns ”% kvitterad
+tid” för att ge en uppfattning om hur tillförlitlig summan Schemalagd tid är. (Om eleven
+har anmäld frånvaro räknas det som en kvitterad lektion även om läraren inte har
+kvitterat.)
+IST Analys visar bara historiska data, summan fram till nu, till skillnad från Skola24
+som även visar planerad tid.
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid   12 (34)
+
+===== SIDA 25 =====
+Nu ska vi ta fram genomförd tid i timmar. I IST Analys används begreppet
+”Schemalagd tid”. Under Mått finns både Schemalagd tid och %Kvitterat.
+Knappen vid punkt 3 växlar till vanlig tabell när systemet går över till Pivottabell
+(se beskrivning under rubrik Byte mellan Pivottabell och vanlig tabell i bilaga 1).
+
+Ta fram kurskod lektion under Dimension/Lektion (punkt4 i bilden nedan).
+Filtrera bort de kurskoder som inte räknas som undervisning t.ex. Mentorstid och
+Nationella prov. (Läs rubriken Vad räknas som undervisningstid? och i bilaga 5
+Anvisningar till schemaläggare)
+
+Det kan också vara till hjälp att ta fram undervisningsgrupp för att avgöra om
+timmar har varit stöd eller omläsning. För en exempelelev borde det inte räknas
+med, då det blir extra tid. Tas fram under Dimension/Lektion/Und.gr. lektion.
+
+Titta på svarta listen för att kontrollera vilka filter som valts.
+
+
+
+
+Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid   23 (34)
+
+===== SIDA 37 =====
+Bilaga 4.
+
+Rutin för minskning av undervisningstid
+
+Utbildningen på introduktionsprogram Bernadotte 3 Individuellt alternativ,
+Programinriktat val ska motsvara heltidsstudier, vilket avser i genomsnitt minst 23
+timmars undervisning per vecka
+
+Undantag från 23-timmarsregeln är endast tillåtet om följande två kumulativa villkor
+är uppfyllda:
+
+   1. Elevens begäran: Eleven (eller vårdnadshavare om eleven är under 18 år)
+      måste explicit begära att få undervisningstiden minskad. Skolan får inte på
+      eget initiativ tvinga fram en minskning eller korta schemat på grund av hög
+      frånvaro.
+   2. Särskilda skäl: Rektor måste bedöma och dokumentera att det finns särskilda
+      skäl. Enligt förarbetena (prop. 2017/18:183 s. 94) avses t.ex. pågående
+      medicinsk behandling, omfattande neuropsykiatrisk problematik eller
+      funktionsnedsättning som gör att eleven inte har förutsättningar att vistas i
+      skolmiljön på heltid.
+
+Viktiga gränsdragningar:
+
+   •   Inget utrymme för informella beslut: Mentorer, studievägledare eller
+       ämneslärare har ingen behörighet att plocka bort ämnen eller lektioner från
+       en elevs schema. Alla förändringar som understiger 23 timmar kräver ett
+       skriftligt rektorsbeslut.
+   •   Stödåtgärder går först: Att minska undervisningstiden får inte vara
+       förstahandsvalet vid svårigheter. Skolan har en skyldighet att först pröva extra
+       anpassningar och särskilt stöd inom ramen för heltidsstudier.
+   •   Reducerad ISP 17 kap. 6 §: På introduktionsprogram tillämpas den specifika
+       undantagsregeln i 17 kap. 6 § skollagen.
+
+Arbetsgång:
+
+   1. Skriftlig begäran av reducerad ISP
+
+       Elev (eller vårdnadshavare om omyndig) lämnar in en skriftlig begäran om
+       minskad undervisningstid.
+
+   2. Prövning av stödåtgärder (EHT-avstämning):
+
+       Rektor och elevhälsoteamet (EHT) prövar om elevens behov kan tillgodoses
+       genom anpassningar eller särskilt stöd med bibehållen heltid (23
+       timmar/vecka). Om stödåtgärder inom heltid bedöms tillräckliga avslås
+       begäran om minskning och stöd sätts in.
+
+   3. Prövning och dokumentation av särskilda skäl:
