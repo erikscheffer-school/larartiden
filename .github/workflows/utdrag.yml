@@ -1,0 +1,31 @@
+# Hämtar dokumenten i arbete/granskning/begaran.json och skriver ut relevanta sidor
+# som text, för manuell granskning och kontroll av citat.
+name: Hämta utdrag för granskning
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["arbete/granskning/begaran.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  utdrag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Hämta och skriv ut sidor
+        run: python3 verktyg/hamta/utdrag.py
+      - name: Spara texten i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arbete/granskning/text
+          git commit -q -m "Utdrag för granskning $(date +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
