@@ -20,6 +20,10 @@ on:
         description: "Högsta antal sökningar mot Brave"
         required: false
         default: "250"
+      portaler:
+        description: "Sök också igenom mötesportalerna med webbläsare (tar längre tid)"
+        type: boolean
+        default: true
       omanalysera:
         description: "Sök och hämta inget nytt, analysera om redan hämtade PDF:er"
         type: boolean
@@ -39,7 +43,7 @@ concurrency:
 jobs:
   hamta:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
@@ -59,23 +63,35 @@ jobs:
           antal="${{ github.event.inputs.antal }}"
           max_sok="${{ github.event.inputs.max_sok }}"
           omanalysera="${{ github.event.inputs.omanalysera }}"
+          portaler="${{ github.event.inputs.portaler }}"
+          if [ "${{ github.event_name }}" = "schedule" ]; then portaler=true; fi
           if [ "${{ github.event_name }}" = "push" ] && [ -f arbete/hamtning/kor.json ]; then
             antal=$(jq -r '.antal // empty' arbete/hamtning/kor.json)
             max_sok=$(jq -r '.max_sok // empty' arbete/hamtning/kor.json)
             omanalysera=$(jq -r '.omanalysera // false' arbete/hamtning/kor.json)
+            portaler=$(jq -r '.portaler // false' arbete/hamtning/kor.json)
           fi
           echo "antal=${antal}" >> "$GITHUB_OUTPUT"
           echo "max_sok=${max_sok:-250}" >> "$GITHUB_OUTPUT"
           echo "omanalysera=${omanalysera:-false}" >> "$GITHUB_OUTPUT"
+          echo "portaler=${portaler:-false}" >> "$GITHUB_OUTPUT"
           echo "Antal: ${antal:-3–10}, högst ${max_sok:-250} sökningar"
 
       - name: 1. Sök
-        if: steps.inst.outputs.omanalysera != 'true'
+        if: steps.inst.outputs.omanalysera != 'true' && steps.inst.outputs.max_sok != '0'
         env:
           # Nyckeln läses bara som miljövariabel och skrivs aldrig ut.
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
           MAX_SOK: ${{ steps.inst.outputs.max_sok }}
         run: python3 verktyg/hamta/sok.py
+
+      - name: Installera webbläsaren
+        if: steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true'
+        run: pip install -q playwright && python -m playwright install --with-deps chromium
+
+      - name: 1b. Sök i mötesportalerna
+        if: steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true'
+        run: python3 verktyg/hamta/portaler.py
 
       - name: 2. Hämta dokument
         if: steps.inst.outputs.omanalysera != 'true'

@@ -138,7 +138,9 @@ def rang(t):
     """Lägre är bättre: budget 2027 i titel eller beskrivning först, sedan PDF:er."""
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {t['url']}".lower()
     budget = bool(re.search(r"budget|ramar|mål och|resursplan|flerårsplan|verksamhetsplan|kommunplan|mrp|evp|direktiv", text))
-    return (not ("2027" in text and budget), not budget, not REFORM_I_TEXT.search(text),
+    mote = bool(re.search(r"fullmäktige|kommunstyrelse|\bkf\b|\bks\b|utbildning|bildning|barn- och|skolnämnd", text)) \
+        and bool(re.search(r"2026-(0[4-9]|1[0-2])|2026", text))
+    return (not ("2027" in text and budget), not budget, not mote, not REFORM_I_TEXT.search(text),
             not t["url"].lower().split("?")[0].endswith(".pdf"))
 
 
@@ -154,7 +156,8 @@ def redan_klar(post):
 def ska_hamtas(t):
     u = t["url"].lower()
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
-    return u.split("?")[0].endswith(".pdf") or "2027" in text
+    # Dokumentlänkar från mötesportalerna (sökning 3) saknar ofta .pdf i adressen.
+    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") == 3
 
 
 def main():
