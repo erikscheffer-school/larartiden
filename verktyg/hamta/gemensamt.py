@@ -3,6 +3,7 @@
 Skripten körs varje vecka i GitHub Actions (.github/workflows/hamta.yml).
 API-nyckeln läses ur miljövariabeln BRAVE_API_KEY och skrivs aldrig ut.
 """
+import http.cookiejar
 import json
 import re
 import time
@@ -118,6 +119,8 @@ class Hamtare:
     def __init__(self):
         self.senast = {}
         self.robots = {}
+        # Cookies behövs: Sitevision-sajter omdirigerar till samma adress tills en cookie är satt.
+        self.oppnare = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
 
     def tillats(self, url):
         p = urllib.parse.urlparse(url)
@@ -141,7 +144,7 @@ class Hamtare:
             time.sleep(vanta)
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"})
         try:
-            with urllib.request.urlopen(req, timeout=timeout) as r:
+            with self.oppnare.open(req, timeout=timeout) as r:
                 typ = r.headers.get("Content-Type", "")
                 langd = int(r.headers.get("Content-Length") or 0)
                 if langd > maxbytes:

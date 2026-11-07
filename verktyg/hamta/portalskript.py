@@ -41,14 +41,21 @@ class Netpublicator:
         self.max_anrop = max_anrop
         self.anrop = 0
 
-    async def las(self, rid, sokvag):
+    async def las(self, rid, sokvag, rot=False):
         if self.anrop >= self.max_anrop:
             return []
         self.anrop += 1
         await asyncio.sleep(PAUS)
         try:
-            r = await self.request.get(f"{self.API}/{rid}/read?hash={sokvag}&isr=false", timeout=30_000)
+            # Rotnivån läses med isr=true, precis som läsaren själv gör.
+            isr = "true" if rot else "false"
+            r = await self.request.get(f"{self.API}/{rid}/read?hash={sokvag}&isr={isr}", timeout=30_000,
+                                       headers={"Referer": f"https://www.netpublicator.com/reader/{rid}",
+                                                "Origin": "https://www.netpublicator.com",
+                                                "Accept": "application/json"})
             if not r.ok:
+                if rot:
+                    self.logg(f"    Netpublicator {rid}: rotnivån svarade {r.status}")
                 return []
             return (await r.json()).get("items") or []
         except Exception:
@@ -107,7 +114,10 @@ class Netpublicator:
                         if d.get("type") == "document":
                             ut.append(self.dok(rid, s, d, f"{namn} – {t} – {text(d.get('text'))}"))
 
-        for it in await self.las(rid, rot):
+        rotniva = await self.las(rid, rot, rot=True)
+        self.logg(f"    Netpublicator {rid}: rotnivån har {len(rotniva)} mappar: "
+                  + "; ".join(text(i.get("text")) for i in rotniva[:8]))
+        for it in rotniva:
             t = text(it.get("text"))
             if it.get("type") == "channel" and ORGAN.search(t) and not GAMMAL.search(t):
                 await kanal(f"{rot}-{it['id']}", t, 0)
