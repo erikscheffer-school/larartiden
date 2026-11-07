@@ -8,13 +8,16 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 
 | Fil | Innehåll |
 |---|---|
-| `index.html` | Sidans struktur och fasta texter (metod, kontakt) |
-| `assets/config.js` | Inställningar: datum, mejladress, skolpengsgräns, Supabase |
+| `index.html` | Sidans struktur och fasta texter (översikt, kontakt) |
+| `assets/config.js` | Inställningar: datum, mejladress, Supabase |
 | `assets/app.js` | Sidans logik |
 | `assets/styles.css` | Utseende |
 | `data/kommuner.json` | En post per kommun: status, belopp, dokument, citat, länkar |
-| `texter/*.md` | Analystexterna, en fil per flik |
-| `texter/index.json` | Vilka texter som visas och i vilken ordning |
+| `texter/*.md` | Analystexterna, en fil per text |
+| `texter/index.json` | Vilka texter som visas och i vilken ordning. Är listan tom (`[]`) syns inte fliken Analys |
+| `metod/metod.md` | Texten under Metod och källor |
+| `metod/logg.md` | Loggen över alla instruktioner till AI:n |
+| `metod/prompt.md` | Prompten för att göra en egen kopia (inledning, raden `---PROMPT---`, sedan prompten) |
 | `supabase/schema.sql` | Databasskript för bedömningar |
 
 ## Fält i `data/kommuner.json`
@@ -27,16 +30,24 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `m`, `mk` | Pengar kopplade till reformen, egen beräknad merkostnad |
 | `sb`, `pl` | Kommentar om statsbidraget, om prislista/samverkan |
 | `kf`, `kfu` | Fullmäktiges budgetbeslut och källa |
-| `sp` | Skolpeng: `p` (procent), `not`, `u` (källa), `typ` (förslag/beslut) |
-| `styre` | Styre efter valet 2026 (fritext) |
-| `lu` | Luckor i granskningen |
+| `w` | Kommunens webbplats |
+| `lu` | Luckor i granskningen, i hela meningar. Varje mening blir en punkt på sidan |
 | `docs` | Dokument: `t` titel, `d` datum, `sk` skede, `pr` producent, `nr` nämner reformen, `c` citat, `u` länk |
 
 ## Uppdatera
 
 - **Med Claude:** be Claude uppdatera en kommun, lägga till ett dokument eller göra en ny genomgång. Claude ändrar filerna i repot och publicerar.
 - **Själv:** redigera filerna direkt på github.com (pennan uppe till höger på en fil) och spara med "Commit changes". Sidan uppdateras inom någon minut.
-- **Analystexter:** redigera `texter/*.md`. En ny text läggs till som en ny fil plus en rad i `texter/index.json`.
+- **Analystexter:** skapa en fil i `texter/`, till exempel `texter/min-text.md`, och lägg till en rad i `texter/index.json`:
+
+  ```json
+  [
+    {"id": "min-text", "titel": "Min rubrik", "fil": "min-text.md", "utkast": false}
+  ]
+  ```
+
+  Fliken Analys visas så fort listan innehåller minst en text.
+- **Logg:** lägg till varje ny instruktion till AI:n i `metod/logg.md`.
 
 ## Bedömningar
 

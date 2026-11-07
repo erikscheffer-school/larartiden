@@ -11,12 +11,13 @@ const STATUS = [
 ];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmtPct = p => (p > 0 ? "+" : "") + String(p).replace(".", ",") + " %";
 const fmt1 = x => x == null ? "–" : Number(x).toFixed(1).replace(".", ",");
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
 };
+const md = text => window.marked ? window.marked.parse(text) : simpleMd(text);
+const extLinks = el => el.querySelectorAll("a[href^='http']").forEach(a => { a.target = "_blank"; a.rel = "noopener"; });
 
 let DATA = [], byId = {}, RATINGS = {}, currentId = null;
 let active = store.get("lt_status", [true, true, true, true, true, true]);
@@ -26,17 +27,17 @@ document.querySelectorAll(".asof").forEach(el => el.textContent = CFG.asof || ""
 const mailLink = $("#mailLink");
 if (mailLink) { mailLink.textContent = CFG.mail; mailLink.href = "mailto:" + CFG.mail; }
 
-function toast(t) { const el = document.createElement("div"); el.className = "toast"; el.textContent = t; document.body.appendChild(el); setTimeout(() => el.remove(), 2600); }
-document.addEventListener("click", e => {
-  const b = e.target.closest("[data-copy-mail]"); if (!b) return;
-  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(CFG.mail).then(() => toast("Adressen är kopierad"), () => toast(CFG.mail));
-  else toast(CFG.mail);
-});
+function toast(t) { const el = document.createElement("div"); el.className = "toast"; el.setAttribute("role", "status"); el.textContent = t; document.body.appendChild(el); setTimeout(() => el.remove(), 2600); }
+function copy(text, ok) {
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(() => toast(ok), () => toast("Kopieringen misslyckades. Markera texten och kopiera själv."));
+  else toast("Kopieringen misslyckades. Markera texten och kopiera själv.");
+}
+document.addEventListener("click", e => { if (e.target.closest("[data-copy-mail]")) copy(CFG.mail, "Adressen är kopierad"); });
 
 /* ---------- Flikar och adresser ---------- */
 const VIEWS = ["oversikt", "kommuner", "analys", "metod", "kontakt"];
 function show(v, push) {
-  if (!VIEWS.includes(v)) v = "oversikt";
+  if (!VIEWS.includes(v) || $("#tab-" + v).hidden) v = "oversikt";
   VIEWS.forEach(x => { $("#view-" + x).hidden = x !== v; $("#tab-" + x).setAttribute("aria-selected", x === v ? "true" : "false"); });
   if (push) setHash(v);
 }
@@ -45,40 +46,30 @@ document.querySelectorAll("nav.tabs button").forEach(b => b.addEventListener("cl
 function route() {
   const h = (location.hash || "").slice(1);
   if (h.startsWith("kommun-") && byId[h.slice(7)]) { show("kommuner"); openDetail(h.slice(7), false); return; }
-  if (h.startsWith("text-")) { show("analys"); openText(h.slice(5)); return; }
+  if (h.startsWith("text-") && TEXTS.length) { show("analys"); openText(h.slice(5)); return; }
+  if (h.startsWith("metod-")) { show("metod"); openMetod(h.slice(6)); return; }
   show(h || "oversikt");
 }
 window.addEventListener("hashchange", route);
 
-/* ---------- Skolpengsflagga ---------- */
-function flagged(k) { return !!(k.sp && typeof k.sp.p === "number" && k.sp.p >= (CFG.skolpengRef + CFG.skolpengMarginal)); }
-const flagTitle = () => `Skolpengen höjs med minst ${String(CFG.skolpengRef + CFG.skolpengMarginal).replace(".", ",")} % (normal uppräkning ${String(CFG.skolpengRef).replace(".", ",")} % plus ${String(CFG.skolpengMarginal).replace(".", ",")} procentenheter)`;
-
 /* ---------- Översikt ---------- */
 function renderOverview() {
   const c = [0,0,0,0,0,0]; DATA.forEach(k => c[k.s]++);
-  $("#stats").innerHTML = [
-    [DATA.length, "kommuner i sammanställningen"],
-    [DATA.length - c[5], "där underlag har gått att granska"],
-    [c[0] + c[1], "har avsatt eller föreslagit pengar kopplade till reformen"],
-    [c[2], "har räknat på kostnaden utan att avsätta pengar"]
-  ].map(([n, t]) => `<div class="stat"><div class="n">${n}</div><div class="t">${t}</div></div>`).join("");
-  const cols = ["--s0","--s1","--s2","--s3","--s4","--s5bg"];
-  $("#bar").innerHTML = c.map((v, i) => v ? `<span title="${esc(STATUS[i].short)}: ${v}" style="width:${v / DATA.length * 100}%;background:var(${cols[i]})${i === 5 ? ";background-image:repeating-linear-gradient(45deg,var(--line) 0 2px,transparent 2px 7px)" : ""}"></span>` : "").join("");
-  $("#legend").innerHTML = c.map((v, i) => `<span><i style="background:var(${cols[i]})"></i>${esc(STATUS[i].short)} <b style="font-family:var(--f-mono)">${v}</b></span>`).join("");
+  $("#bar").innerHTML = c.map((v, i) => v ? `<span title="${esc(STATUS[i].short)}: ${v}" style="width:${v / DATA.length * 100}%;background:var(--s${i})"></span>` : "").join("");
+  $("#counts").innerHTML = c.map((v, i) => `<tr><td><span class="sq s${i}"></span>${esc(STATUS[i].n)}</td><td class="n">${v}</td></tr>`).join("") +
+    `<tr><td>Totalt</td><td class="n">${DATA.length}</td></tr>`;
   const cases = DATA.filter(k => k.s <= 2).sort((a, b) => a.s - b.s || a.k.localeCompare(b.k, "sv"));
-  $("#cases").innerHTML = cases.map(k => `<li><div class="top"><button class="linklike" data-open="${k.id}"><b>${esc(k.k)}</b></button><span class="pill s${k.s}">${esc(STATUS[k.s].short)}</span></div><div class="small">${esc(k.m || k.mk || "")}</div><div class="small muted">${esc(k.l)}</div></li>`).join("");
+  $("#cases").innerHTML = cases.map(k => `<li><button class="linklike" data-open="${k.id}"><b>${esc(k.k)}</b></button> <span class="small muted">${esc(k.l)}</span><div class="small"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].short)}. ${esc(k.m || k.mk || "")}</div></li>`).join("");
 }
 document.addEventListener("click", e => { const b = e.target.closest("[data-open]"); if (!b) return; show("kommuner"); openDetail(b.dataset.open, true); });
 
-/* ---------- Kommuntabell ---------- */
+/* ---------- Kommunlistan ---------- */
 function shortKf(s) {
   const d = s.match(/\d{4}-\d{2}-\d{2}/), m = s.match(/(januari|februari|mars|april|maj|juni|juli|augusti|september|oktober|november|december)\s+\d{4}/i);
-  const what = /beslutat/i.test(s) && !/ej verifierat|inte verifierat|ej bekräftat|inte bekräftat/i.test(s) ? "beslutat" : "planerat/osäkert";
+  const what = /beslutat/i.test(s) && !/ej verifierat|inte verifierat|ej bekräftat|inte bekräftat/i.test(s) ? "beslutat" : "planerat eller osäkert";
   return d ? `${d[0]} (${what})` : m ? `${m[0]} (${what})` : (s.length > 40 ? s.slice(0, 40) + "…" : s);
 }
 function sortVal(k, key) {
-  if (key === "sp") return k.sp ? -k.sp.p : 999;
   if (key === "r") { const a = RATINGS[k.id]; return a ? -a.antal : 0; }
   if (key === "s") return k.s;
   return String(k[key] || "zzz");
@@ -86,8 +77,8 @@ function sortVal(k, key) {
 function setupFilters() {
   const lans = [...new Set(DATA.map(k => k.l))].sort((a, b) => a.localeCompare(b, "sv"));
   $("#lan").innerHTML += lans.map(l => `<option>${esc(l)}</option>`).join("");
-  $("#chips").innerHTML = STATUS.map((s, i) => `<button type="button" class="pill s${i}" data-i="${i}" aria-pressed="${active[i]}">${esc(s.short)}</button>`).join("");
-  $("#chips").addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return; const i = +b.dataset.i; active[i] = !active[i]; b.setAttribute("aria-pressed", active[i]); store.set("lt_status", active); renderRows(); });
+  $("#chips").insertAdjacentHTML("beforeend", STATUS.map((s, i) => `<label><input type="checkbox" data-i="${i}" ${active[i] ? "checked" : ""}><span class="sq s${i}"></span>${esc(s.short)}</label>`).join(""));
+  $("#chips").addEventListener("change", e => { const b = e.target.closest("input[data-i]"); if (!b) return; active[+b.dataset.i] = b.checked; store.set("lt_status", active); renderRows(); });
   ["q", "lan"].forEach(id => document.getElementById(id).addEventListener("input", renderRows));
   document.querySelectorAll("th[data-sort]").forEach(th => th.addEventListener("click", () => { const k = th.dataset.sort; if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; } renderRows(); }));
   $("#rows").addEventListener("click", e => { const tr = e.target.closest("tr[data-id]"); if (tr) openDetail(tr.dataset.id, true); });
@@ -96,16 +87,21 @@ function renderRows() {
   const q = $("#q").value.trim().toLowerCase(), lan = $("#lan").value;
   const list = DATA.filter(k => active[k.s] && (!lan || k.l === lan) && (!q || k.k.toLowerCase().includes(q)))
     .sort((a, b) => { const x = sortVal(a, sortKey), y = sortVal(b, sortKey); return (x < y ? -1 : x > y ? 1 : a.k.localeCompare(b.k, "sv")) * sortDir; });
-  $("#count").textContent = `${list.length} av ${DATA.length} kommuner visas`;
+  document.querySelectorAll("th[data-sort]").forEach(th => th.setAttribute("aria-sort", th.dataset.sort === sortKey ? (sortDir > 0 ? "ascending" : "descending") : "none"));
+  $("#count").textContent = `${list.length} av ${DATA.length} kommuner visas. Klicka på en kommun för detaljer.`;
   $("#rows").innerHTML = list.map(k => {
     const a = RATINGS[k.id];
-    const sp = k.sp ? `${fmtPct(k.sp.p)}${flagged(k) ? ` <span class="pill flag" title="${esc(flagTitle())}">Kan ha hanterat</span>` : ""}` : '<span class="muted">–</span>';
-    return `<tr data-id="${k.id}" aria-selected="${k.id === currentId}"><td class="k">${esc(k.k)}</td><td class="muted">${esc(k.l.replace(" län", ""))}</td><td><span class="pill s${k.s}">${esc(STATUS[k.s].short)}</span></td><td class="small">${esc(k.m || "") || '<span class="muted">–</span>'}</td><td class="num">${sp}</td><td class="small">${k.kf ? esc(shortKf(k.kf)) : '<span class="muted">–</span>'}</td><td class="num">${a ? `${a.antal} st` : '<span class="muted">–</span>'}</td></tr>`;
-  }).join("");
+    return `<tr data-id="${k.id}" aria-selected="${k.id === currentId}"><td class="k">${esc(k.k)}</td><td class="muted">${esc(k.l.replace(" län", ""))}</td><td style="white-space:nowrap"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].short)}</td><td class="small">${esc(k.m || "") || '<span class="muted">–</span>'}</td><td class="small">${k.kf ? esc(shortKf(k.kf)) : '<span class="muted">Okänt</span>'}</td><td class="num">${a ? `${a.antal} st` : '<span class="muted">–</span>'}</td></tr>`;
+  }).join("") || '<tr><td colspan="6" class="muted">Inga kommuner matchar filtret.</td></tr>';
 }
 
-/* ---------- Kommundetalj ---------- */
-const fact = (t, v, html) => v ? `<div class="fact"><dt>${t}</dt><dd>${html ? v : esc(v)}</dd></div>` : "";
+/* ---------- Kommunsida ---------- */
+const fact = (t, v, html) => v ? `<dt>${t}</dt><dd>${html ? v : esc(v)}</dd>` : "";
+// Delar upp luckorna i punkter vid meningsslut, utan att bryta vid förkortningar som "s. 12" eller "t.ex.".
+function gapList(text) {
+  return String(text || "").split(/(?<=[.!?])\s+(?=[A-ZÅÄÖ"(])/).map(s => s.trim()).filter(Boolean);
+}
+function linkify(s) { return esc(s).replace(/(https?:\/\/[^\s)]+[^\s).,;])/g, '<a href="$1" target="_blank" rel="noopener">länk</a>'); }
 function openDetail(id, push) {
   currentId = id; renderDetail(id); renderRows();
   if (push) setHash("kommun-" + id);
@@ -114,31 +110,43 @@ function openDetail(id, push) {
 function renderDetail(id) {
   const k = byId[id]; if (!k) { $("#detail").innerHTML = ""; return; }
   const a = RATINGS[id], done = store.get("lt_rated", {})[id];
-  const spHtml = k.sp ? `${fmtPct(k.sp.p)} (${esc(k.sp.typ)}) ${flagged(k) ? '<span class="pill flag">Kan ha hanterat reformen</span>' : ""}<br><span class="small muted">${esc(k.sp.not)}</span> ${k.sp.u ? `<a class="small" href="${esc(k.sp.u)}" target="_blank" rel="noopener">Källa</a>` : ""}` : '<span class="muted">Ej insamlat ännu</span>';
-  const styre = k.styre ? esc(k.styre) : '<span class="muted">Ej insamlat ännu</span>';
-  const docs = (k.docs || []).map(d => `<li><div class="meta"><b>${esc(d.t || "Dokument")}</b>${d.d ? `<span class="tag">${esc(d.d)}</span>` : ""}${d.sk ? `<span class="tag">${esc(d.sk)}</span>` : ""}${d.pr ? `<span class="tag">${esc(d.pr)}</span>` : ""}${d.nr === true ? '<span class="pill s3">Nämner reformen</span>' : d.nr === false ? '<span class="tag">Nämner inte reformen</span>' : ""}</div>${d.c ? `<blockquote>${esc(d.c)}</blockquote>` : ""}${d.u ? `<a href="${esc(d.u)}" target="_blank" rel="noopener">${esc(d.u)}</a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
+  const gaps = gapList(k.lu);
+  const site = k.w ? `<a href="${esc(k.w)}" target="_blank" rel="noopener">${esc(k.w.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a>` : "";
+  const kfText = k.kf ? `${esc(k.kf)}${k.kfu ? ` (<a href="${esc(k.kfu)}" target="_blank" rel="noopener">källa</a>)` : ""}` : "Inte känt. Leta efter kommunfullmäktiges sammanträdesdagar för hösten 2026.";
+  const docs = (k.docs || []).map(d => `<li><b>${esc(d.t || "Dokument")}</b><div class="meta">${[d.d, d.sk, d.pr, d.nr === true ? "nämner reformen" : d.nr === false ? "nämner inte reformen" : ""].filter(Boolean).map(esc).join(", ")}</div>${d.c ? `<blockquote>${esc(d.c)}</blockquote>` : ""}${d.u ? `<a href="${esc(d.u)}" target="_blank" rel="noopener">${esc(d.u)}</a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
   const mailto = `mailto:${CFG.mail}?subject=${encodeURIComponent("Lärartiden i budgeten: " + k.k)}`;
-  $("#detail").innerHTML = `<article class="detail">
-    <header><div><div class="eyebrow">${esc(k.l)}</div><h2>${esc(k.k)}</h2></div><div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap"><span class="pill s${k.s}">${esc(STATUS[k.s].n)}</span><button class="btn ghost" type="button" id="closeDetail">Stäng</button></div></header>
-    <p style="margin:0;max-width:80ch">${esc(k.sum || "")}</p>
-    <dl class="facts" style="margin:0">
+  $("#detail").innerHTML = `<article class="detail" aria-labelledby="dh">
+    <div class="head"><h2 id="dh">${esc(k.k)} <span class="small muted" style="font-weight:400">${esc(k.l)}</span></h2><button class="btn ghost" type="button" id="closeDetail">Stäng</button></div>
+    <p class="status"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].n)}</p>
+    <p style="max-width:80ch">${esc(k.sum || "")}</p>
+    <dl class="facts">
       ${fact("Pengar kopplade till reformen", k.m)}${fact("Egen beräknad merkostnad", k.mk)}
-      ${fact("Om statsbidraget", k.sb)}${fact("Om prislista/samverkan", k.pl)}
-      ${fact("Fullmäktiges budgetbeslut 2027", k.kf ? esc(k.kf) + (k.kfu ? ` · <a href="${esc(k.kfu)}" target="_blank" rel="noopener">källa</a>` : "") : '<span class="muted">Okänt</span>', true)}
-      ${fact("Skolpeng 2027", spHtml, true)}
-      ${fact("Styre efter valet 2026", styre, true)}
-      ${fact("Luckor i granskningen", k.lu)}
+      ${fact("Om statsbidraget", k.sb)}${fact("Om prislista eller samverkan", k.pl)}
+      ${fact("Fullmäktiges budgetbeslut 2027", kfText, true)}
     </dl>
-    <div><h3>Granskade dokument</h3><ul class="docs">${docs}</ul></div>
-    <form class="box" id="ratebox" novalidate>
-      <h3 style="margin:0">Stämmer det här?</h3>
-      <p class="small muted" style="margin:0">Känner du till kommunens budget? Bedöm uppgifterna på en skala från 1 (inte alls) till 5 (helt). Bedömningen är anonym.</p>
-      <div class="agg">${a ? `<span>Bedömningar: <b>${a.antal}</b></span><span>Citat och data: <b>${fmt1(a.snitt_data)}</b></span><span>Rimliga dokument: <b>${fmt1(a.snitt_dok)}</b></span><span>Tolkning: <b>${fmt1(a.snitt_tolk)}</b></span>` : '<span class="muted">Inga bedömningar ännu.</span>'}</div>
+    <section class="gaps" aria-labelledby="gh-${k.id}">
+      <h3 id="gh-${k.id}">Luckor i granskningen</h3>
+      ${gaps.length ? `<p class="small" style="margin-bottom:8px">Det här har jag inte hittat eller inte kunnat kontrollera. Bilden av ${esc(k.k)} kan alltså ändras.</p><ul>${gaps.map(g => `<li>${linkify(g)}</li>`).join("")}</ul>` : '<p>Inga kända luckor antecknade.</p>'}
+    </section>
+    <section class="where" aria-labelledby="wh-${k.id}">
+      <h3 id="wh-${k.id}">Var du kan fortsätta leta</h3>
+      <ul>
+        ${site ? `<li>Kommunens webbplats: ${site}. Politiska handlingar ligger oftast under rubriker som "Kommun och politik", "Politik och demokrati" eller "Möten, handlingar och protokoll". Många kommuner har en separat mötesportal dit sidan länkar.</li>` : ""}
+        <li>När budgeten beslutas: ${kfText}</li>
+        <li>Budgeten går oftast först till kommunstyrelsen, som lämnar ett förslag till beslut. Sedan beslutar kommunfullmäktige. Titta därför både i kommunstyrelsens och fullmäktiges kallelser och protokoll. Under ett valår ska det nyvalda fullmäktige fastställa budgeten, och det sker ofta i november eller december.</li>
+        <li>Bra sökord i handlingarna: "budget 2027", "mål och budget", "flerårsplan", "ramar", "undervisningstid", "lärares arbetstid", "statsbidrag". Titta också i barn- och utbildningsnämndens (eller motsvarande nämnds) budgetunderlag.</li>
+      </ul>
+    </section>
+    <h3>Granskade dokument</h3><ul class="docs">${docs}</ul>
+    <form class="ratebox" id="ratebox" novalidate>
+      <h3 style="margin:14px 0 0">Stämmer det här?</h3>
+      <p class="small muted" style="margin:0">Känner du till kommunens budget? Bedöm uppgifterna från 1 (inte alls) till 5 (helt). Bedömningen är anonym.</p>
+      <div class="agg">${a ? `<span>Bedömningar: <b>${a.antal}</b></span><span>Citat och uppgifter: <b>${fmt1(a.snitt_data)}</b></span><span>Rimliga dokument: <b>${fmt1(a.snitt_dok)}</b></span><span>Rimlig slutsats: <b>${fmt1(a.snitt_tolk)}</b></span>` : '<span>Inga bedömningar ännu.</span>'}</div>
       ${[["data","Stämmer citaten och uppgifterna?"],["dok","Är dokumenten rimliga att granska?"],["tolk","Är slutsatsen (status) rimlig?"]].map(([f, t]) => `<div class="rating-row"><span id="lbl-${f}">${t}</span><div class="scale" role="group" aria-labelledby="lbl-${f}" data-f="${f}">${[1,2,3,4,5].map(n => `<button type="button" aria-pressed="false" data-n="${n}">${n}</button>`).join("")}</div></div>`).join("")}
-      <label class="small muted" for="kommentar" style="font-weight:600">Kommentar eller bättre dokument (frivilligt)</label>
+      <label class="small muted" for="kommentar">Kommentar eller bättre dokument (frivilligt)</label>
       <textarea id="kommentar" rows="3" maxlength="2000" placeholder="Vad stämmer inte? Länka gärna till ett dokument."></textarea>
       <input type="text" id="webbplats" name="webbplats" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
-      <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center"><button class="btn" type="submit" id="saveRating">Skicka bedömning</button><span class="small muted" id="rateStatus">${done ? "Du har redan bedömt den här kommunen från den här webbläsaren." : ""}</span></div>
+      <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center"><button class="btn" type="submit" id="saveRating">Skicka bedömning</button><span class="small muted" id="rateStatus" role="status">${done ? "Du har redan bedömt den här kommunen från den här webbläsaren." : ""}</span></div>
     </form>
     <div class="mailrow small"><span>Synpunkter eller ett bättre dokument?</span><a class="mail" href="${esc(mailto)}">${esc(CFG.mail)}</a><button class="btn ghost" type="button" data-copy-mail>Kopiera</button></div>
   </article>`;
@@ -167,7 +175,7 @@ function wireRating(id) {
     draft[sc.dataset.f] = +b.dataset.n; sc.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
   }));
   const btn = $("#saveRating"), st = $("#rateStatus");
-  if (!sbReady()) { btn.disabled = true; st.textContent = "Bedömningar är inte aktiverade ännu. Mejla gärna i stället."; return; }
+  if (!sbReady()) { btn.disabled = true; st.textContent = "Bedömningar är inte aktiverade. Mejla gärna i stället."; return; }
   form.addEventListener("submit", async e => {
     e.preventDefault();
     if ($("#webbplats").value) return;
@@ -178,57 +186,85 @@ function wireRating(id) {
       const r = await fetch(`${CFG.supabaseUrl}/rest/v1/bedomningar`, { method: "POST", headers: Object.assign(sbHeaders(), { "Prefer": "return=minimal" }), body: JSON.stringify(body) });
       if (!r.ok) throw new Error(String(r.status));
       const rated = store.get("lt_rated", {}); rated[id] = new Date().toISOString(); store.set("lt_rated", rated);
-      st.textContent = "Tack! Din bedömning är skickad.";
+      st.textContent = "Tack! Bedömningen är skickad.";
       form.querySelectorAll(".scale button").forEach(x => x.setAttribute("aria-pressed", "false")); $("#kommentar").value = "";
       setTimeout(loadRatings, 800);
     } catch (err) {
-      st.textContent = "Det gick inte att skicka just nu. Försök igen om en stund, eller mejla.";
+      st.textContent = "Bedömningen kunde inte skickas. Försök igen om en stund eller mejla.";
     }
     btn.disabled = false;
   });
 }
 
-/* ---------- Analystexter ---------- */
-// Enkel reserv om Markdown-biblioteket inte laddas: rubriker, stycken, fet, kursiv, länkar.
-function simpleMd(md) {
+/* ---------- Markdown ---------- */
+// Reserv om Markdown-biblioteket inte laddas: rubriker, stycken, listor, fet, kursiv, länkar.
+function simpleMd(text) {
   const inline = s => esc(s)
-    .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/\[([^\]]+)\]\(((?:https?:|#|[a-z])[^)\s"]*)\)/g, '<a href="$2">$1</a>')
     .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
     .replace(/\*([^*]+)\*/g, "<i>$1</i>");
-  return md.split(/\n{2,}/).map(b => {
+  return text.split(/\n{2,}/).map(b => {
     const h = b.match(/^(#{1,4})\s+(.*)$/);
-    return h ? `<h${h[1].length}>${inline(h[2])}</h${h[1].length}>` : `<p>${inline(b.replace(/\n/g, " "))}</p>`;
+    if (h) return `<h${h[1].length}>${inline(h[2])}</h${h[1].length}>`;
+    if (/^[-*] /.test(b)) return "<ul>" + b.split(/\n(?=[-*] )/).map(li => `<li>${inline(li.replace(/^[-*] /, ""))}</li>`).join("") + "</ul>";
+    return `<p>${inline(b.replace(/\n/g, " "))}</p>`;
   }).join("");
 }
+
+/* ---------- Analystexter (visas bara när texter/index.json innehåller texter) ---------- */
 let TEXTS = [];
 async function loadTexts() {
   try { const r = await fetch("texter/index.json", { cache: "no-cache" }); TEXTS = await r.json(); } catch (e) { TEXTS = []; }
+  $("#tab-analys").hidden = !TEXTS.length;
 }
 async function openText(id) {
-  if (!TEXTS.length) { $("#article").innerHTML = '<p class="muted">Inga texter hittades.</p>'; return; }
+  if (!TEXTS.length) return;
   const t = TEXTS.find(x => x.id === id) || TEXTS[0];
+  $("#toc").hidden = TEXTS.length < 2;
   $("#toc").innerHTML = TEXTS.map(x => `<button type="button" data-t="${esc(x.id)}" aria-current="${x.id === t.id}">${esc(x.titel)}</button>`).join("");
-  let md = "";
-  try { const r = await fetch("texter/" + t.fil, { cache: "no-cache" }); md = await r.text(); } catch (e) { md = "Texten kunde inte laddas."; }
-  const html = window.marked ? window.marked.parse(md) : simpleMd(md);
-  $("#article").innerHTML = `<div class="eyebrow">Analys ${t.utkast ? '<span class="draft">Utkast</span>' : ""}</div>${html}`;
-  $("#article").querySelectorAll("a[href^='http']").forEach(a => { a.target = "_blank"; a.rel = "noopener"; });
+  let text = "";
+  try { const r = await fetch("texter/" + t.fil, { cache: "no-cache" }); if (!r.ok) throw 0; text = await r.text(); } catch (e) { text = "Texten kunde inte laddas. Ladda om sidan."; }
+  $("#article").innerHTML = (t.utkast ? '<p class="small muted">Utkast</p>' : "") + md(text);
+  extLinks($("#article"));
 }
 $("#toc").addEventListener("click", e => { const b = e.target.closest("button[data-t]"); if (!b) return; openText(b.dataset.t); setHash("text-" + b.dataset.t); });
 
+/* ---------- Metod, logg och prompt (filer i mappen metod/) ---------- */
+const METOD = { metod: "metod/metod.md", logg: "metod/logg.md", prompt: "metod/prompt.md" };
+async function openMetod(id) {
+  if (!METOD[id]) id = "metod";
+  document.querySelectorAll("#metodnav button").forEach(b => b.setAttribute("aria-current", b.dataset.m === id ? "true" : "false"));
+  let text = "";
+  try { const r = await fetch(METOD[id], { cache: "no-cache" }); if (!r.ok) throw 0; text = await r.text(); } catch (e) { $("#metodbody").innerHTML = "<p>Texten kunde inte laddas. Ladda om sidan.</p>"; return; }
+  if (id === "prompt") {
+    // Filen består av en inledning, en rad med "---PROMPT---" och sedan själva prompten.
+    const [intro, prompt = ""] = text.split(/^---PROMPT---\s*$/m);
+    $("#metodbody").innerHTML = md(intro) + `<p><button class="btn" type="button" id="copyPrompt">Kopiera prompten</button></p><pre class="prompt" id="promptText" tabindex="0">${esc(prompt.trim())}</pre>`;
+    $("#copyPrompt").addEventListener("click", () => copy(prompt.trim(), "Prompten är kopierad"));
+  } else {
+    $("#metodbody").innerHTML = md(text);
+    if (id === "metod") {
+      const slot = $("#metodbody").querySelector("#statusdef");
+      if (slot) slot.innerHTML = STATUS.map((s, i) => `<p><span class="sq s${i}"></span><b>${esc(s.n)}.</b> ${esc(s.d)}</p>`).join("");
+    }
+  }
+  extLinks($("#metodbody"));
+}
+$("#metodnav").addEventListener("click", e => { const b = e.target.closest("button[data-m]"); if (!b) return; openMetod(b.dataset.m); setHash("metod-" + b.dataset.m); });
+
 /* ---------- Start ---------- */
-$("#statusdef").innerHTML = STATUS.map((s, i) => `<p><span class="pill s${i}">${esc(s.short)}</span> ${esc(s.d)}</p>`).join("");
 (async function start() {
   try {
     const r = await fetch("data/kommuner.json", { cache: "no-cache" });
     DATA = await r.json();
   } catch (e) {
-    $("#rows").innerHTML = '<tr><td colspan="7">Kommundata kunde inte laddas. Ladda om sidan.</td></tr>'; return;
+    $("#rows").innerHTML = '<tr><td colspan="6">Kommundata kunde inte laddas. Ladda om sidan.</td></tr>'; return;
   }
   byId = Object.fromEntries(DATA.map(k => [k.id, k]));
   setupFilters(); renderOverview(); renderRows();
   await loadTexts();
-  if (!(location.hash || "").startsWith("#text-")) openText(TEXTS[0]?.id);
+  if (TEXTS.length && !(location.hash || "").startsWith("#text-")) openText(TEXTS[0].id);
+  if (!(location.hash || "").startsWith("#metod-")) openMetod("metod");
   route();
   loadRatings();
 })();

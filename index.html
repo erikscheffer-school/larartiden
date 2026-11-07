@@ -4,46 +4,38 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Lärartiden i budgeten</title>
-<meta name="description" content="Hur Sveriges 290 kommuner hanterar statsbidraget för reglerad undervisningstid i budget 2027. Med källor och möjlighet att granska uppgifterna.">
+<meta name="description" content="Hur Sveriges 290 kommuner hanterar regleringen av lärares undervisningstid i budget 2027. Med källor och möjlighet att granska uppgifterna.">
 <meta property="og:title" content="Lärartiden i budgeten">
-<meta property="og:description" content="Hur Sveriges 290 kommuner hanterar statsbidraget för reglerad undervisningstid i budget 2027.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,500;7..72,700&family=Public+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<meta property="og:description" content="Hur Sveriges 290 kommuner hanterar regleringen av lärares undervisningstid i budget 2027.">
 <link rel="stylesheet" href="assets/styles.css">
-<style>html,body{margin:0}</style>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
-    <div class="brand">
-      <h1>Lärartiden i budgeten</h1>
-      <span class="sub">Hur Sveriges 290 kommuner hanterar regleringen av lärares undervisningstid i budget 2027</span>
-    </div>
-    <nav class="tabs" role="tablist" aria-label="Sektioner">
-      <button role="tab" id="tab-oversikt" aria-selected="true" data-view="oversikt">Översikt</button>
-      <button role="tab" id="tab-kommuner" aria-selected="false" data-view="kommuner">Kommuner</button>
-      <button role="tab" id="tab-analys" aria-selected="false" data-view="analys">Analys</button>
-      <button role="tab" id="tab-metod" aria-selected="false" data-view="metod">Metod och källor</button>
-      <button role="tab" id="tab-kontakt" aria-selected="false" data-view="kontakt">Kontakt</button>
+    <h1>Lärartiden i budgeten</h1>
+    <p class="sub">Hur Sveriges 290 kommuner hanterar regleringen av lärares undervisningstid i budget 2027. Uppgifterna gäller publicerade handlingar fram till <span class="asof"></span>.</p>
+    <nav class="tabs" aria-label="Sidans delar">
+      <button id="tab-oversikt" aria-selected="true" data-view="oversikt">Översikt</button>
+      <button id="tab-kommuner" aria-selected="false" data-view="kommuner">Kommuner</button>
+      <button id="tab-analys" aria-selected="false" data-view="analys" hidden>Analys</button>
+      <button id="tab-metod" aria-selected="false" data-view="metod">Metod och källor</button>
+      <button id="tab-kontakt" aria-selected="false" data-view="kontakt">Kontakt</button>
     </nav>
   </div>
 </header>
 
 <main class="wrap">
   <section class="view" id="view-oversikt">
-    <div class="grid-2">
+    <div class="cols">
       <div>
-        <div class="eyebrow">Budget 2027 · läget den <span class="asof"></span></div>
-        <h2>Statsbidraget finns. Syns det i budgeten?</h2>
-        <p class="lede">Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Den här sidan följer om kommunerna synligt för pengarna vidare till skolan.</p>
-        <div class="stats" id="stats"></div>
+        <h2>Följer pengarna med till skolan?</h2>
+        <p class="lede">Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Här följer jag om kommunerna i sina budgetar för pengarna vidare till skolan.</p>
         <div class="bar" id="bar" role="img" aria-label="Fördelning av kommuner per status"></div>
-        <div class="legend" id="legend"></div>
-        <p class="notice small" style="margin-top:14px"><b>Läs så här:</b> "Ej bedömbart än" betyder att budgethandlingar för 2027 inte hittades eller inte gick att öppna. Det är valår och många kommuner beslutar budgeten i november–december. Uppgifterna uppdateras när budgetarna är beslutade.</p>
+        <table class="counts" id="counts"></table>
+        <p class="small muted">Många kommuner beslutar budgeten i november eller december eftersom det är valår. "Ej bedömbart än" betyder att jag inte hittat några budgethandlingar för 2027, inte att kommunen avstått.</p>
       </div>
       <div>
-        <div class="eyebrow">Kommuner med pengar eller kostnadsberäkning</div>
+        <h3 style="margin-top:4px">Kommuner som avsatt pengar eller räknat på kostnaden</h3>
         <ul class="case-list" id="cases"></ul>
       </div>
     </div>
@@ -51,70 +43,48 @@
 
   <section class="view" id="view-kommuner" hidden>
     <div class="filters">
-      <label>Sök kommun<input id="q" type="search" placeholder="t.ex. Danderyd" autocomplete="off"></label>
+      <label>Sök kommun<input id="q" type="search" placeholder="Till exempel Danderyd" autocomplete="off"></label>
       <label>Län<select id="lan"><option value="">Alla län</option></select></label>
-      <div style="display:flex;flex-direction:column;gap:4px;min-width:0">
-        <span class="small muted" style="font-weight:600">Status</span>
-        <div class="chips" id="chips"></div>
-      </div>
     </div>
+    <fieldset class="chips" id="chips" style="border:0;padding:0;margin:0 0 6px"><legend class="small muted" style="padding:0;margin-bottom:4px">Visa status</legend></fieldset>
     <div id="detail"></div>
     <div class="count" id="count"></div>
     <div class="tablewrap">
-      <table>
+      <table class="list">
         <thead><tr>
-          <th data-sort="k">Kommun</th><th data-sort="l">Län</th><th data-sort="s">Status</th>
-          <th>Pengar kopplade till reformen</th><th data-sort="sp">Skolpeng 2027</th><th data-sort="kf">KF-beslut budget 2027</th><th data-sort="r">Bedömningar</th>
+          <th data-sort="k" aria-sort="none">Kommun</th><th data-sort="l" aria-sort="none">Län</th><th data-sort="s" aria-sort="none">Status</th>
+          <th>Pengar kopplade till reformen</th><th data-sort="kf" aria-sort="none">Budgetbeslut 2027</th><th data-sort="r" aria-sort="none">Bedömningar</th>
         </tr></thead>
-        <tbody id="rows"><tr><td colspan="7" class="muted">Laddar kommuner…</td></tr></tbody>
+        <tbody id="rows"><tr><td colspan="6" class="muted">Laddar kommuner…</td></tr></tbody>
       </table>
     </div>
   </section>
 
   <section class="view" id="view-analys" hidden>
-    <div class="texts">
-      <nav class="toc" id="toc" aria-label="Texter"></nav>
-      <article class="prose" id="article"><p class="muted">Laddar…</p></article>
-    </div>
+    <nav class="subnav" id="toc" aria-label="Texter"></nav>
+    <article class="prose" id="article"></article>
   </section>
 
   <section class="view" id="view-metod" hidden>
-    <div class="prose">
-      <div class="eyebrow">Metod och källor</div>
-      <h2>Så har uppgifterna tagits fram</h2>
-      <p>Varje kommuns publicerade budgethandlingar för 2027 har sökts och lästs: planeringsförutsättningar, nämndernas budgetunderlag, budgetförslag från majoritet och opposition, protokoll från fullmäktige samt kommunernas remissvar på utredningen <i>Tid för undervisningsuppdraget</i> (SOU 2025:26). Genomgången gjordes med AI-stödd sökning och har stickprovskontrollerats mot originaldokumenten.</p>
-      <h3>Status</h3>
-      <div id="statusdef"></div>
-      <h3>Dokumenttyp</h3>
-      <p><b>Skede:</b> underlag/förslag (planeringsförutsättningar, nämndunderlag, budgetförslag) eller beslut (fullmäktige, kommunstyrelse eller nämnd).<br><b>Producent:</b> tjänstemannaproducerat (förvaltning, tjänsteutlåtande) eller politiskt producerat (budgetförslag från partier, yrkanden, politiska beslut).</p>
-      <h3>Skolpengsflaggan</h3>
-      <p>Eftersom statsbidraget är generellt kan en kommun hantera reformen genom att höja skolpengen mer än vanligt, utan att nämna reformen. Som normal uppräkning räknas 2,5 procent. Kommuner som höjer skolpengen med minst 2 procentenheter mer än så, alltså med 4,5 procent eller mer, markeras <span class="pill flag">Kan ha hanterat reformen</span>. Flaggan är en indikation, inte ett bevis: höjningen kan ha andra orsaker. Uppgift om skolpeng finns hittills bara för ett fåtal kommuner.</p>
-      <h3>Begränsningar</h3>
-      <p>Citat har återgetts via ett verktyg som sammanfattar dokument. Kontrollera mot originalet innan du citerar vidare. Datum för fullmäktigebeslut markerade "planerat" är inte bekräftade i protokoll. Många mötesportaler gick inte att öppna, vilket gör att "ej bedömbart än" är vanligt.</p>
-      <h3>Centrala källor</h3>
-      <ul class="small">
-        <li><a href="https://www.regeringen.se/pressmeddelanden/2026/06/nu-regleras-lararnas-undervisningsuppdrag/" target="_blank" rel="noopener">Regeringen: Nu regleras lärarnas undervisningsuppdrag (30 juni 2026)</a></li>
-        <li><a href="https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/tid-for-undervisningsuppdraget_hd03196/html/" target="_blank" rel="noopener">Prop. 2025/26:196 Tid för undervisningsuppdraget</a></li>
-        <li><a href="https://extra.skr.se/download/18.1aedb661199ffe20e6b15c9/1760952016028/Cirkul%C3%A4r%2025_42.pdf" target="_blank" rel="noopener">SKR cirkulär 25:42 om budgetpropositionen för 2026</a></li>
-        <li><a href="https://www.regeringen.se/contentassets/71983b04ad68455a913b800227c99598/sveriges-kommuner-och-regioner.pdf" target="_blank" rel="noopener">SKR:s remissvar på SOU 2025:26</a></li>
-        <li><a href="https://www.storsthlm.se/media/yc0gsxu1/bilaga-till-rekommendation-prislista-for-gymnasieskolan-i-stockholmsregionen-2027.pdf" target="_blank" rel="noopener">Storsthlm: prislista för gymnasieskolan 2027</a></li>
-      </ul>
-      <p class="small muted">Rådata finns öppet i <a href="data/kommuner.json">data/kommuner.json</a>.</p>
-    </div>
+    <nav class="subnav" id="metodnav" aria-label="Metod">
+      <button type="button" data-m="metod" aria-current="true">Så gjordes sidan</button>
+      <button type="button" data-m="logg" aria-current="false">Logg över instruktionerna</button>
+      <button type="button" data-m="prompt" aria-current="false">Gör en egen kopia</button>
+    </nav>
+    <div id="metodbody" class="prose"><p class="muted">Laddar…</p></div>
   </section>
 
   <section class="view" id="view-kontakt" hidden>
     <div class="prose">
-      <div class="eyebrow">Kontakt</div>
       <h2>Ser du något som inte stämmer?</h2>
-      <p>Uppgifterna blir bättre av att människor som känner sin kommun granskar dem. Det enklaste är att bedöma uppgifterna direkt på kommunens sida under fliken Kommuner. Har du ett bättre dokument, en rättelse eller synpunkter på sammanställningen kan du mejla.</p>
+      <p>Uppgifterna blir bättre av att den som känner sin kommun granskar dem. Du kan bedöma uppgifterna direkt på varje kommuns sida under Kommuner. Har du ett bättre dokument, en rättelse eller andra synpunkter går det bra att mejla mig.</p>
       <div class="mailrow"><a class="mail" id="mailLink" href="#"></a><button class="btn ghost" type="button" data-copy-mail>Kopiera adressen</button></div>
       <p class="small muted" style="margin-top:12px">Skriv gärna vilken kommun det gäller och länka till dokumentet.</p>
     </div>
   </section>
 </main>
 
-<footer><div class="wrap">Sammanställt av Erik Håkansson. Uppgifterna avser publicerade handlingar per <span class="asof"></span>.</div></footer>
+<footer><div class="wrap">Sammanställt av Erik Håkansson. Rådata finns i <a href="data/kommuner.json">data/kommuner.json</a> och koden på <a href="https://github.com/erikscheffer-school/larartiden">GitHub</a>.</div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="assets/config.js"></script>
