@@ -30,8 +30,10 @@ import urllib.robotparser
 sys.path.insert(0, os.path.dirname(__file__))
 from gemensamt import (HAMTNING, SOKRESULTAT, USER_AGENT, doman, idag,  # noqa: E402
                        kommuner, las_json, samma_doman, skriv_json)
+from hamta_dokument import rang  # noqa: E402
 
 PORTALFIL = HAMTNING / "portaler.json"
+MAX_LANKAR = 60  # högst så många dokumentlänkar per kommun sparas
 
 # Kända portaler: delsträng i adressen -> namn.
 PORTALTYPER = {
@@ -209,10 +211,11 @@ def main():
                              "dokumentlänkar": len(dok), "datum": idag()}
         post = sok["kommuner"].setdefault(k["id"], {"kommun": k["k"], "status": k["s"], "traffar": []})
         sedda = {t["url"] for t in post["traffar"]}
-        for d in dok:
-            if d["url"] not in sedda and BRA_DOK.search(f"{d['titel']} {d['beskrivning']} {d['url']}"):
-                post["traffar"].append({**d, "alder": None, "sokning": 3})
-                antal += 1
+        nya = [{**d, "beskrivning": d["beskrivning"][:200], "alder": None, "sokning": 3} for d in dok
+               if d["url"] not in sedda and BRA_DOK.search(f"{d['titel']} {d['beskrivning']} {d['url']}")]
+        nya = sorted(nya, key=rang)[:MAX_LANKAR]  # de troligaste budgethandlingarna först
+        post["traffar"] += nya
+        antal += len(nya)
     skriv_json(SOKRESULTAT, sok)
     skriv_json(PORTALFIL, portaler)
     fordelning = {}

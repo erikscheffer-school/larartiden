@@ -53,7 +53,9 @@ jobs:
       - name: Återställ hämtade PDF:er
         uses: actions/cache@v4
         with:
-          path: .cache/pdf
+          path: |
+            .cache/pdf
+            .cache/sokresultat.json
           key: pdf-${{ github.run_id }}
           restore-keys: pdf-
 
