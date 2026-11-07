@@ -171,5 +171,28 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Arsredovisning-2024.pdf",
+  "titel": "Årsredovisning 2024 (PDF, 30,4 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d4592895d669511023a0a99e27b41de011bd338c166a0d9cb3fa9d2b57170181",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "munens verksamheter, t.ex. orosanmälan, betallösning intensivt arbete med att ställa om och anpassa verksamheten återhållsamhet och utökade statsbidrag. Inom förskolan, och säkerhet. Dessutom stödjer verksamheten övriga förvalt- för digitala betalningar. uti",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

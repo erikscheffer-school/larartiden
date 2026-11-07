@@ -156,5 +156,43 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.regionvarmland.se/download/18.68c19bb317e46fc1ff76cb6/1683119267297/Reglemente%20kultur-%20och%20bildningsn%C3%A4mnden.pdf",
+  "titel": "Reglemente kultur- och bildningsnämnden (pdf)\nPdf, 135 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "486a647bb8bd35727e48895a61a40c8c5a66dab2ff95bcdf7936f9995d0c5fea",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "folkhögskoleverksamhet bedrivs i enlighet med förordningen om statsbidrag till folkbildningen, dels för skolornas kostnad som inte täcks av statsbidrag eller andra medel. • Följa utv",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.regionvarmland.se/download/18.4a7bed2818e0c8ed8ac1af8a/1711443552597/Kultur-%20och%20bildningsn%C3%A4mndens%20delegeringsf%C3%B6rteckning%202024.pdf",
+  "titel": "Delegeringsförteckning för kultur- och bildningsnämnden 2024 (pdf)\nPdf, 111 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fc8e06d46671b5cc7062535fdaceccf52584d4d08c87e5d334db39cac3587b64",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

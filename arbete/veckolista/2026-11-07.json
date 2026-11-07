@@ -87,7 +87,32 @@
    "https://www.svenljunga.se/download/18.35f819219eed1a8ccf40f/1782378528771/Protokoll%20socialn%C3%A4mnden%202026-06-24%20%C2%A7%2072-81.pdf",
    "https://www.svenljunga.se/download/18.2f6b985b19bd97f4582d72/1769777216231/Informationshanteringsplan%20f%C3%B6r%20interna%20myndighetsn%C3%A4mndens%20processer.pdf",
    "https://skolkoll.se/kommun/svenljunga/lasarstider/",
-   "https://www.svenljunga.se/download/18.6e9e0b3f18dd5dd7c33ec6/1709635605890/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202024-2026.pdf"
+   "https://www.svenljunga.se/download/18.6e9e0b3f18dd5dd7c33ec6/1709635605890/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202024-2026.pdf",
+   "https://www.svenljunga.se/download/18.2e942b1f184c9fc534dc6c/1671198654835/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202023-2025.pdf",
+   "https://www.svenljunga.se/download/18.f3679831809055e352a15/1653031269173/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202022-2024.pdf",
+   "https://www.svenljunga.se/download/18.f3679831809055e352a17/1653031269570/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202021-2023.pdf"
+  ]
+ },
+ {
+  "id": "sater",
+  "kommun": "Säter",
+  "lan": "Dalarnas län",
+  "status": 5,
+  "poang": 12,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://sater.se/wp-content/uploads/2026/04/protokoll-2026-04-15.pdf",
+   "https://sater.se/wp-content/uploads/2026/09/kallelse-2026-09-09-till-hemsidan.pdf",
+   "https://sater.se/wp-content/uploads/2026/05/kallelse-bun-2026-05-12.pdf",
+   "https://sater.se/wp-content/uploads/2026/04/kallelse-bun-2026-04-15.pdf",
+   "https://sater.se/wp-content/uploads/2026/10/protokoll-2026-10-21.pdf",
+   "https://sater.se/wp-content/uploads/2026/09/protokoll-2026-09-09.pdf",
+   "https://sater.se/wp-content/uploads/2026/05/protokoll-2026-05-12.pdf",
+   "https://sater.se/wp-content/uploads/2026/03/kallelse-bun-2026-03-18.pdf",
+   "https://sater.se/wp-content/uploads/2026/02/kallelse-2026-02-11-20.pdf"
   ]
  },
  {
@@ -192,27 +217,6 @@
    "https://www.ulricehamn.se/download/18.3ab15c21a0adc92ba2d32bf/1790241130723/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-01.pdf",
    "https://www.ulricehamn.se/download/18.53a3b8141a06c416a9e9238a/1788934193766/Protokoll%20kommunstyrelsen%202026-09-03.pdf",
    "https://www.ulricehamn.se/download/18.51b98f641a042156370f15b2/1788501439718/Protokoll%20omedelbart%20justerat%20kommunstyrelsen%202026-09-03.pdf"
-  ]
- },
- {
-  "id": "stromstad",
-  "kommun": "Strömstad",
-  "lan": "Västra Götalands län",
-  "status": 5,
-  "poang": 9,
-  "skal": [
-   "1 nytt/nya dokument nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.stromstad.se/download/18.750f70e0184b91d58dc502/1669650549850/Kallelse%20BUN%202022-09-20.pdf",
-   "https://www.stromstad.se/download/18.4df98bcb19bd13d969e216c4/1769095638949/Protokoll%20KS%202026-01-21.pdf",
-   "https://www.stromstad.se/download/18.3dff4319c935838d8f4ec/1772203066967/Protokoll%20KS%202026-02-25.pdf",
-   "https://www.stromstad.se/download/18.443e1d3919e49e0359580bd/1779467143637/Protokoll%20KS%202026-05-20.pdf",
-   "https://www.stromstad.se/download/18.3dff4319c935838d8f731/1772204994512/Tn%202026-02-24.pdf",
-   "https://www.stromstad.se/barnochutbildning/lasarstiderledigheterlovschema.4.fc6ae6c153c5fdf8ad12a8f.html",
-   "https://www.stromstad.se/download/18.63b7a5c19d24cada8b5600e/1775635393743/Protokoll%20KS%202026-04-01.pdf",
-   "https://www.stromstad.se/download/18.562173d119eafce1ce2961c/1781191692609/Protokoll%20KS%202026-06-10.pdf"
   ]
  }
 ]

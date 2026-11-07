@@ -43,5 +43,99 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://eslov.se/app/uploads/kallelse-ks-2026-04-07-del-2.pdf",
+  "titel": "kallelse-ks-2026-04-07-del-2.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2df053f78dd29aa0df171ea57dc78d9affd91084dcdaa5f3bebf314be836d1e2",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 303,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 91,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ämnden visar ett överskott på 4,9 mnkr för 2025. Både intäkter och kostnader blev högre än budgeterat. De högre intäkterna beror till största del både på högre statsbidrag, och på högre barnomsorgsavgifter. Kostnaderna blev högre till följd av bland annat insatser som genomfördes för de tilldelade statsbidrag, men även dyrare ext",
+    "belopp_nara": true
+   },
+   {
+    "sida": 28,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ed 43 000 sen från demografi, investeringar, högre räntor och urholkade och antalet grundskolebarn med 172 000, enligt Statistiska Cen- statsbidrag. tralbyrån, SCB:s, prognoser. Det innebär att vi över landet har",
+    "belopp_nara": false
+   },
+   {
+    "sida": 46,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "förskole­ålder stor utmaning. Även externa faktorer som statliga reformer, minskar och antalet äldre över 80 år kommer att öka. Det stäl- förändringar i statsbidrag och nationella riktlinjer påverkar ler krav på omställning av framför allt lokalbestånd men också kommunens handlingsutrymme. Kommunen arbetar aktivt en lå",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://eslov.se/app/uploads/kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf",
+  "titel": "kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7da52b1d6d085f9347f55f136018ad38f82a7c7543a89c4e177b0aa7c5c77a96",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 409,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid",
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "elförändringar Det pågår ett stort antal utredningar under 2026. Nedan presenteras några av dessa som kan komma att påverka kommunerna framöver. Reglering av lärares undervisningstid (SOU 2025:26) Utredningen Tid för undervisningsuppdraget är en av de mest genomgripande reformerna på skolområdet och syftar till att förändra hur lärares arbe",
+    "belopp_nara": false
+   },
+   {
+    "sida": 23,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "april en positiv budgetavvikelse på cirka 8 mnkr. Överskottet beror både på högre intäkter än budgeterat och lägre kostnader än budgeterat. På intäktssidan har statsbidrag inom förskola och grundskola blivit högre än beräknat. Även barnomsorgsavgifter och försäljning av skolplatser har blivit högre än budgeterat. Den enskilt stör",
+    "belopp_nara": true
+   },
+   {
+    "sida": 51,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "april en positiv budgetavvikelse på cirka 8 mnkr. Överskottet beror både på högre intäkter än budgeterat och lägre kostnader än budgeterat. På intäktssidan har statsbidrag inom förskola och grundskola blivit högre än beräknat. Även barnomsorgsavgifter och försäljning av skolplatser har blivit högre än budgeterat. Den enskilt stör",
+    "belopp_nara": true
+   },
+   {
+    "sida": 62,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lir högre. Övriga kostnader såsom köp av skolplatser hos annan huvudman beräknas bli lägre. OMFLYTTNING AV MEDEL – RAPPORT TILL KOMMUNSTYRELSEN Ett generellt statsbidrag om 108 kronor per invånare, finns för aktivitetskravet (som beskrevs under händelser av väsentlig betydelse). Att nämnden tilldelas det generella statsbidraget",
+    "belopp_nara": true
+   },
+   {
+    "sida": 56,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gre intäkter och lägre personalkostnader för perioden mot vad som planerats. Intäkterna har för perioden blivit högre, till största delen beror det på erhållna statsbidrag inom förskolan och grundskolan som blivit högre än vad som budgeterats. Men även intäkterna för barnomsorgsavgifter inom fritidshem, och försäljning av plats t",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 10
  }
 ]

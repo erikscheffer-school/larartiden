@@ -171,5 +171,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-allmanna-utskott/2026/au261015--39-43.pdf",
+  "titel": "Au261015 §§ 39-43.pdf1079 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "699d5ad0fe51d9b5f84c08bd382e18276e35a7b62f9e94d68b5d615cabdb56fa",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260204--1-18.pdf",
+  "titel": "Ks260204 §§ 1-18.pdf6972 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a505ebbd5ac4249df3c621b5e7e003b048056334ee02da3a256f3116fcc15696",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Kommunstyrelsen beslutar att införa kamerabevakning på Guldkroksskolan 7-9 i den omfattning som förvaltningen bedömer lämplig och som ryms inom ramen för statsbidraget för säkerhetshöjande åtgärder i skolan. Sammanfattning På Guldkroksskolan 7-9 har det skett återkommande skadegörelse, brand, utlösande av b",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260219--19-21.pdf",
+  "titel": "Ks260219 §§ 19-21.pdf968 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6fa8181ba512dd67d2a29226d6e3ec2f42bcd2e16df0b2ced9771bf2afb300e0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260401--22-41.pdf",
+  "titel": "Ks260401 §§ 22-41.pdf7706 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "24ca8ed90543db6bb310e41c402b30aec8446cb557f3ed30eca66e1710da2c50",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

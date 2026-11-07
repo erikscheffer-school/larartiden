@@ -150,5 +150,81 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/08/kallelse-bn-2026-08-31-extra-ny.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-08-31 extra",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7eaa7881fa7451020ddc53f39e44a975d14d11ac6b73b77282ab7abf49ae68a8",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/09/kallelse-bn-2026-09-28.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-09-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "737b729a73a944b06a43ed5b8f7b092d07d3344a162c18029762cc6fd8f5237b",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Återrapportering av åtgärdsplan med anledning av befarat underskott 6. Delårsrapport 7. Budget 2027 8. Redovisning av statsbidrag 9. Rapporter a) Resultatredovisning Vasaskolan kl. 13:00 rektor b) Resultat",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/10/kallelse-bn-2026-10-26.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-10-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fbcd8ae27b160bd0fd66650c74c951424c07ec3dfa435c4afd602134d32493fb",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "isation 9. Rapport gällande antal förskolebarn och elever i bildningsförvaltningens verksamheter 10. Redovisning av statsbidrag 11. Initiativärende 12. Bowlingen i Vasahallen 13. Anmälan av delegationsbeslut 14. Delgivningsärenden",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/01/protokoll-bildningsnamnden-2026-01-26-1-7-extra.pdf",
+  "titel": "Protokoll bildningsnämnden 2026-01-26 §§ 1-7 extra",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "10f9311a5dea59ebe1f5f5dcc171fce4574ae0e7a0edb08a3e44d9dda285ae8c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

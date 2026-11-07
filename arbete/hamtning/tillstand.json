@@ -604,7 +604,7 @@
   "arvidsjaur.se/download/18.b98800c19e6349fce747cf2/1781030621073/handlingar%20f%c3%b6r%20kommunfullm%c3%a4ktige%20den%202026-06-16.pdf": {
    "kommun": "arvidsjaur",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (37 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "arvidsjaur.se/download/18.555b315819d012ed80b500/1773848232549/dagordning%20kommunstyrelsen%202026-03-24.pdf": {
    "kommun": "arvidsjaur",
@@ -634,7 +634,7 @@
   "arvika.se/download/18.5fcd765319e6341e6c02037f/1780660639963/samlingshandling%20f%c3%b6r%20kf_2026-06-15.pdf": {
    "kommun": "arvika",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "arvikapartiet.se/2026/06/18/arvikapartiets-budget-och-strategiska-plan-2027-2029-stod-sig-starkt-i-fullmaktige": {
    "kommun": "arvika",
@@ -814,7 +814,7 @@
   "boras.se/download/18.426c4bf01a12f5493ab2ec1d/1792074293333/inkommen%20handling%20till%20kommunstyrelsen%202026-00011-bost%c3%a4der.pdf": {
    "kommun": "boras",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "boras.se/download/18.37014ff19dd248e44a579f8/1777882400252/redovisning%20av%20anm%c3%a4lnings%c3%a4renden%202026-05-11.pdf": {
    "kommun": "boras",
@@ -829,12 +829,12 @@
   "boras.se/download/18.229ad7a419c47c81f641b479/1770900759061/handlingar%20f%c3%b6r%20m%c3%b6te%20valn%c3%a4mnden%20den%202026-02-16.pdf": {
    "kommun": "boras",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (51 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "boras.se/download/18.c09408519e492c9a65e458/1779433611598/kommunstyrelsen%202026-06-01%20handlingar.pdf": {
    "kommun": "boras",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (33 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "boras.se/download/18.1bde164619d24dbd7711da3e/1774615883010/protokoll%20digital%20signatur%202026-03-25.pdf": {
    "kommun": "boras",
@@ -849,7 +849,7 @@
   "boras.se/download/18.6bddc7f219d9a74787b2a3/1776414373148/kommunfullm%c3%a4ktige%202026-04-23%20handlingar.pdf": {
    "kommun": "boras",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (35 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "boras.se/download/18.7cdf5ab19c8e3cd34d96544/1772802550726/handlingar%20f%c3%b6r%20m%c3%b6te%20grundskolen%c3%a4mnden%20den%202026-03-17.pdf": {
    "kommun": "boras",
@@ -1064,12 +1064,12 @@
   "eslov.se/app/uploads/kallelse-ks-2026-04-07-del-2.pdf": {
    "kommun": "eslov",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (55 MB)"
+   "sha256": "2df053f78dd29aa0df171ea57dc78d9affd91084dcdaa5f3bebf314be836d1e2"
   },
   "eslov.se/app/uploads/kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf": {
    "kommun": "eslov",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (30 MB)"
+   "sha256": "7da52b1d6d085f9347f55f136018ad38f82a7c7543a89c4e177b0aa7c5c77a96"
   },
   "eslov.se": {
    "kommun": "eslov",
@@ -1244,7 +1244,7 @@
   "fargelanda.se/media/uwxhtcgu/kallelse-kommunstyrelsen-2026-06-10.pdf": {
    "kommun": "fargelanda",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (48 MB)"
+   "sha256": "a059cf6f0f3a5e38c308968508fed56cb35d4ddba90d88223a9e7c4becb968e7"
   },
   "dagenssamhalle.se/offentlig-ekonomi/kommunal-ekonomi/fargelanda-ska-spara-10-miljoner": {
    "kommun": "fargelanda",
@@ -1329,7 +1329,7 @@
   "halmstad.se/download/18.5a97cd1819e63783be2e1161/1780413391998/granskningsutl%c3%a5tande%202%20dp%20fredsgatan%202026-06-02.pdf": {
    "kommun": "halmstad",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hammaro.se/arkiv/nyheter/2026/2026-05-27-majoritetens-forslag-till-budget-2027---satsningar-pa-valfard-trygghet-och-framtidsberedskap": {
    "kommun": "hammaro",
@@ -1699,7 +1699,7 @@
   "storfors.se/download/18.52c5d3ca19c193ca13439bfa/1770130775079/kallelse%20kf%202026-02-10.pdf": {
    "kommun": "storfors",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (30 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "storuman.se/contentassets/0f6e8cf14f1145a6beb7837dde27f3b8/protokoll-ofn-260121.pdf": {
    "kommun": "storuman",
@@ -1934,7 +1934,7 @@
   "gnesta.se/download/18.73f070eb19c479432b456333/1771340877437/kallelse%20kommunfullm%c3%a4ktige%202026-02-23%20ny%20version.pdf": {
    "kommun": "gnesta",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (52 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "gnosjo.se/download/18.54c2a1a619d2a1f796914e4/1774947845706/protokoll%20allm%c3%a4nna%20utskottet%202026-03-24.pdf": {
    "kommun": "gnosjo",
@@ -2164,7 +2164,7 @@
   "lysekil.se/download/18.56b6801719b0ef58883e60af/1768819304222/1484-p2024-1.pdf": {
    "kommun": "lysekil",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (35 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "mariestadstidningen.se/mariestad/skolan-kommer-forst-for-s-barn-och-unga-ar-framtiden": {
    "kommun": "mariestad",
@@ -2329,7 +2329,7 @@
   "tierp.se/download/18.45e4a35a19c987b18bffa40/1773306638111/styrelseprotokoll%20tierps%20kommunfastigheter%202026-02-12.pdf": {
    "kommun": "tierp",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "tjorn.se/download/18.9459b5e19ba2010fafe32a2/1769694180761/wsp_rapport_kommunernas_kamp_2025.pdf": {
    "kommun": "tjorn",
@@ -2394,7 +2394,7 @@
   "vindeln.se/download/18.2189039319cdecc79b43c8/1776176051541/kallelse%20kommunfullm%c3%a4ktige%2020%20april%202026.pdf": {
    "kommun": "vindeln",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (52 MB)"
+   "sha256": "285fb0edc0922c5224f37a9b5d8e15903797b8cb5d054bd2626e7045d814452b"
   },
   "vannas.se/download/18.7b0b1b7219cfccb61f560/1773997643352/protokoll%20ks%202026-03-17,%20%c2%a7%2016-31%20justerat.pdf": {
    "kommun": "vannas",
@@ -2444,7 +2444,7 @@
   "astorp.se/download/18.5db9e75119c47c581bd22a/1770732115200/delegationsordning%20bygg-%20och%20milj%c3%b6n%c3%a4mnden%202026-01-19.pdf": {
    "kommun": "astorp",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "foreningsguiden.se/kommun/atvidaberg/ovrig": {
    "kommun": "atvidaberg",
@@ -2494,7 +2494,7 @@
   "halmstad.se/download/18.16340fb419d24fa8edb38b7a/1774609020999/260423-kf-%c3%a5rsredovisningar%20inkl.%20lbva-gdpr.pdf": {
    "kommun": "halmstad",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hammaronytt.se/majoritetens-budgetforslag-lagt": {
    "kommun": "hammaro",
@@ -2539,7 +2539,7 @@
   "hoganas.se/download/18.2df64b6319e6360a8ab111e7/1780743472991/kallelse%20f%c3%b6r%20kommunfullm%c3%a4ktige%202026-06-11.pdf": {
    "kommun": "hoganas",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (34 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "jarfalla.se/download/18.3badc24a19d24dbc6ee61791/1775030391314/03_andring_detaljplan_barkarbystaden_iv-planbeskrivning_granskning.pdf": {
    "kommun": "jarfalla",
@@ -2784,7 +2784,7 @@
   "tanum.se/download/18.685ef6f219e631e92789203/1780291847292/kommunstyrelsen%203%20juni%202026,%20med%20handlingar.pdf": {
    "kommun": "tanum",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "tierp.se/download/18.452a0c1f18b8cf0db505a4f1/1772550553809/gatubelysningsplan%20f%c3%b6r%20tierps%20kommun.pdf": {
    "kommun": "tierp",
@@ -3004,7 +3004,7 @@
   "lindesberg.se/download/18.47dbb16319e49fa73032981/1779462877140/kallelse%20kommunstyrelsen%202026-05-26.pdf": {
    "kommun": "lindesberg",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (45 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "ljungby.se/download/18.717461b919d9a6b3e6522dd8/1777381274972/lokal%20rutin%20delegering.pdf": {
    "kommun": "ljungby",
@@ -3174,7 +3174,7 @@
   "hedemora.se/wp-content/uploads/2026/04/kf-kungorelse-2026-04-28.pdf": {
    "kommun": "hedemora",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (30 MB)"
+   "sha256": "704eb9a181e6fa730a510f329ebe50a7d4273865c1361d995441b9c7fee9a9aa"
   },
   "vimmerbytidning.se/nyheter/hultsfred/artikel/stora-besparingar-foreslas-i-hultsfreds-kommunstyrelse/lyx1qqvr": {
    "kommun": "hultsfred",
@@ -3189,7 +3189,7 @@
   "habo.se/download/18.75292ed61a0422215d439faf/1788191674373/kallelse%20kf%207%20september%202026%20med%20beslutsunderlag,%20exkl.sekretess.pdf": {
    "kommun": "haabo",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (57 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "alladatum.se/lov/hoganas": {
    "kommun": "hoganas",
@@ -3309,7 +3309,7 @@
   "sundsvall.se/download/18.6602eb3919e0e0aab3963b11/1778484775857/2026-05-11%20m%c3%b6teshandlingar%20kommunstyrelsen_2.pdf": {
    "kommun": "sundsvall",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "mp.se/saffle/just-nu/vart-forslag-rostades-ner": {
    "kommun": "saffle",
@@ -3569,7 +3569,7 @@
   "hallsberg.se/download/18.2c880b51a1a1b512dc9d8/1793893181890/2026-11-16%20-%20kallelse%20kf.pdf": {
    "kommun": "hallsberg",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (45 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/budget%202027.pdf": {
    "kommun": "hammaro",
@@ -3854,12 +3854,12 @@
   "skurup.se/download/18.1d2ae3441a162f26a4c1d6ca/1793028329247/ks%202026.16%20kallelse%20kommunfullm%c3%a4ktige%202026-11-02.pdf": {
    "kommun": "skurup",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (60 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "sotenas.se/download/18.7432d7d11a1a188b0c06b6/1793803970206/kallelse%20kf%202026-11-11%20inkl%20handlingar.pdf": {
    "kommun": "sotenas",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (47 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "storuman.se/contentassets/bfd48347e1e7458fb9ae9138cab5502a/kommunstyrelsens-arbetsutskotts-protokoll-2026-05-12-4.pdf": {
    "kommun": "storuman",
@@ -4069,7 +4069,7 @@
   "ockero.se/download/18.4a6cfe0c19bc9a16cee9c87a/1770034916102/budget-%20och%20uppdragshandling%20utbildnings-%20%20kultur-%20och%20fritidsn%c3%a4mnden%202026.pdf": {
    "kommun": "ockero",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "orkelljunga.se/download/18.1f34ec7719e639278e11393c/1780643762805/budget%202026%20och%20ekonomisk%20fler%c3%a5rsplan%202027-2028%20beslutad%20i%20kf%202025-11-24.pdf": {
    "kommun": "orkelljunga",
@@ -4214,7 +4214,7 @@
   "hallsberg.se/download/18.2c880b51a1a1b512dc744/1793873144583/2026-11-03%20-%20protokoll%20ks.pdf": {
    "kommun": "hallsberg",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (62 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2024-2026.pdf": {
    "kommun": "hjo",
@@ -4344,7 +4344,7 @@
   "lindesberg.se/download/18.58e091e51a18c51096969bf/1793630761535/kallelse%20kommunfullm%c3%a4ktige%202026-11-09.pdf": {
    "kommun": "lindesberg",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (31 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "ljungby.se/download/18.3ea48b7318e65ad1c7139e0c/1755250400769/ans%c3%b6kan%20till%20vuxenutbildningen.pdf": {
    "kommun": "ljungby",
@@ -4594,7 +4594,7 @@
   "toreboda.se/download/18.5816571119c47e69cd190cb/1771480492956/handlingar%20kommunfullm%c3%a4ktige%202026-02-23.pdf": {
    "kommun": "toreboda",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (31 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "ulricehamn.se/download/18.262f6d591a12f6f9bcb3c2f8/1791966875933/%c3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-15.pdf": {
    "kommun": "ulricehamn",
@@ -4624,7 +4624,7 @@
   "varberg.se/download/18.6e790f8a19e4ae5711232cb/1779377188348/kommunstyrelsen%20kallelse%20260526.pdf": {
    "kommun": "varberg",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "vaxholm.se/download/18.59e8a5b11992795b53082c7d/1758192151528/komplettering%20kf%202025-09-22-%20budget%20(c)%20vaxholms%20stad%202026-2028%20-%20uppdaterad.pdf": {
    "kommun": "vaxholm",
@@ -4699,7 +4699,7 @@
   "ockero.se/download/18.4a6cfe0c19bc9a16cee9c879/1770034916072/budget-%20och%20uppdragshandling%20milj%c3%b6-och%20samh%c3%a4llsbyggnadsn%c3%a4mnden%202026.pdf": {
    "kommun": "ockero",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "orkelljunga.se/download/18.82035bf1934c1405faa9/1732626146454/budget%202025%20och%20ekonomisk%20fler%c3%a5rsplan%202026-2027%20beslutad%20i%20kf%202024-11-25.pdf": {
    "kommun": "orkelljunga",
@@ -5134,7 +5134,7 @@
   "storfors.se/download/18.3b54a8541a08628092b53dd/1789050004842/kallelse%20kf%202026-09-17.pdf": {
    "kommun": "storfors",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (191 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "storuman.se/contentassets/9d46b5f7ee13423db9b54a672f3c75c6/ks-261103-justeringsversion-slutlig.pdf": {
    "kommun": "storuman",
@@ -5249,7 +5249,7 @@
   "upplands-bro.se/download/18.7b9ee94218851b709421097e/1686587303220/m%c3%b6tesbok%20kommunfullm%c3%a4ktige%202023-06-14%20webb_bortredigerad.pdf": {
    "kommun": "upplands-bro",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (144 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "uppvidinge.se/download/18.48802db51a157ba49331b2b/1792578712265/protokoll%20kf%202026-10-15%20(konstituerande%20fullm%c3%a4ktige).pdf": {
    "kommun": "uppvidinge",
@@ -5269,7 +5269,7 @@
   "varberg.se/download/18.7f6e3f5419daba3f057d6c83/1776950366965/kommunstyrelsen%20kallelse%20260428%20-%20del%201.pdf": {
    "kommun": "varberg",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "vaxholm.se/download/18.63a28de419927a4dc67b2d8e/1758527922099/komplettering%20kf%202025-09-22%20budgetf%c3%b6rslag%20mp%202026.pdf": {
    "kommun": "vaxholm",
@@ -5284,7 +5284,7 @@
   "vindeln.se/download/18.1f18b20919d92ce2cb264/1776450429333/ny%20omformaterad%20kallelse%20kommunfullm%c3%a4ktige%2020%20april%202026.pdf": {
    "kommun": "vindeln",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (51 MB)"
+   "sha256": "136fade84121440a385642266eed3645c41b40992354656bf65ed2f6f14441af"
   },
   "vannas.se/download/18.2bffacc81902c3883dcaa/1719314202789/budget%202025-2026,%20plan%202027%20kf%2020240618.pdf": {
    "kommun": "vannas",
@@ -5344,7 +5344,7 @@
   "ockero.se/download/18.4a6cfe0c19bc9a16cee9c877/1770034916007/budget-%20och%20uppdragshandling%20%20socialn%c3%a4mnden%202026.pdf": {
    "kommun": "ockero",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "orkelljunga.se/download/18.180050e218c319d525caf299/1701804420838/budget%202024%20och%20ekonomisk%20fler%c3%a5rsplan%202025-2026%20belutad%20i%20kf%202023-11-27.pdf": {
    "kommun": "orkelljunga",
@@ -5569,7 +5569,7 @@
   "finspang.se/download/18.5b737ed31a08637eab54350e/1789389507845/2026-09-23%20kallelse%20med%20handlingar%20kommunfullm%c3%a4ktige.pdf": {
    "kommun": "finspang",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (45 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "gislaved.se/download/18.70bca8731a17beda94635d8/1793354612453/socialn%c3%a4mdens%20protokoll%202026-10-27.pdf": {
    "kommun": "gislaved",
@@ -5714,12 +5714,12 @@
   "mariestad.se/download/18.173b184319d9a6cf1f23ceb/1776696324631/handlingar%20kommunfullm%c3%a4ktige%202026-04-27.pdf": {
    "kommun": "mariestad",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (66 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "motala.se/media/uploads/arsredovisning-2024.pdf": {
    "kommun": "motala",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (31 MB)"
+   "sha256": "d4592895d669511023a0a99e27b41de011bd338c166a0d9cb3fa9d2b57170181"
   },
   "munkfors.se/wp-content/uploads/2026/10/protokoll-ksau-2026-10-12.pdf": {
    "kommun": "munkfors",
@@ -6109,7 +6109,7 @@
   "hassleholm.se/download/18.5712aa4b1969f7c4c325a468/1748250484525/kommunfullm%c3%a4ktiges%20kallelse%202025-05-26.pdf": {
    "kommun": "hassleholm",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (37 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hoganas.se/download/18.28c622f019937115703139c5/1758723057468/utbildningsn%c3%a4mndens-m%c3%a5l-2026.pdf": {
    "kommun": "hoganas",
@@ -6209,7 +6209,7 @@
   "mariestad.se/download/18.65001d3f19e0220f714b1b9/1779196747662/handlingar%20kommunfullm%c3%a4ktige%202026-05-25.pdf": {
    "kommun": "mariestad",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (50 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "motala.se/media/uploads/mk-arsredovisning-2023-laguppl.pdf": {
    "kommun": "motala",
@@ -6399,7 +6399,7 @@
   "toreboda.se/download/18.92a496319d217b65e549b/1774414878133/handlingar%20kommunfullm%c3%a4ktige%202026-03-30.pdf": {
    "kommun": "toreboda",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (94 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "ulricehamn.se/download/18.53a3b8141a06c416a9e9238a/1788934193766/protokoll%20kommunstyrelsen%202026-09-03.pdf": {
    "kommun": "ulricehamn",
@@ -6469,7 +6469,7 @@
   "are.se/download/18.1ae26d1d1a162f28978ee2f/1793287527086/2026-11-03%20kallelse%20kommunstyrelsens%20arbetsutskott.pdf": {
    "kommun": "are",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (54 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "orkelljunga.se/download/18.659742711a12f7115074c/1791798900779/kommunstyrelsen%202026-10-07.pdf": {
    "kommun": "orkelljunga",
@@ -6759,7 +6759,7 @@
   "mariestad.se/download/18.3e0f360a19e6365fc4fdc0f/1780932587786/handlingar%20kommunfullm%c3%a4ktige%202026-06-15.pdf": {
    "kommun": "mariestad",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (39 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "motala.se/media/uploads/arsredovisning-2022.pdf": {
    "kommun": "motala",
@@ -6859,12 +6859,12 @@
   "skurup.se/download/18.7dbad10419d9a612d421c735/1776675908700/ks%202026.12_kallelse%20kommunfullm%c3%a4ktige%202026-04-27.pdf": {
    "kommun": "skurup",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (52 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "storfors.se/download/18.6b6d7bf19ed44ea63d78afa/1782456873011/kallelse%20kf%202026-06-09.pdf": {
    "kommun": "storfors",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (83 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/kf/ofn200217.pdf": {
    "kommun": "storuman",
@@ -6964,7 +6964,7 @@
   "toreboda.se/download/18.389b3d3819e02416b4ebcbe/1779175303670/handlingar%20kommunfullm%c3%a4ktige%202026-05-25.pdf": {
    "kommun": "toreboda",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (84 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "ulricehamn.se/download/18.51b98f641a042156370f15b2/1788501439718/protokoll%20omedelbart%20justerat%20kommunstyrelsen%202026-09-03.pdf": {
    "kommun": "ulricehamn",
@@ -6994,7 +6994,7 @@
   "varberg.se/download/18.33967bb819e1384eeda7f84f/1778593654025/kommunfullm%c3%a4ktige%20kallelse%20260519%20(uppdaterad%20260512).pdf": {
    "kommun": "varberg",
    "datum": "2026-11-07",
-   "fel": "HTTPError: HTTP Error 404: "
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "vaxholm.se/download/18.31c7bff8182e8f4dedddaee2/1663591442314/komplettering%20%c3%a4rende%207%20bun%202022-09-26-%20r%c3%a4ttad%20version-yttrande%20till%20m%c3%a5l%20och%20budget%20bun%202023%20.pdf": {
    "kommun": "vaxholm",
@@ -7174,7 +7174,7 @@
   "habo.se/download/18.37014ff19dd248e44a5bcd3/1777906972958/beslutsunderlag%20f%c3%b6r%20m%c3%b6te%20kommunfullm%c3%a4ktige%20den%2011%20maj%202026.pdf": {
    "kommun": "haabo",
    "datum": "2026-11-07",
-   "fel": "okänd typ application/pdf"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "hallsberg.se/download/18.246489bf19eafcdf93434/1781079856473/2026-06-08%20-%20protokoll%20kf.pdf": {
    "kommun": "hallsberg",
@@ -7324,7 +7324,7 @@
   "mariestad.se/download/18.42ce138c1a0ad9dcd6e41e9/1789973761009/kommunfullm%c3%a4ktiges%20handlingar%202026-09-28.pdf": {
    "kommun": "mariestad",
    "datum": "2026-11-07",
-   "fel": "ValueError: för stor (121 MB)"
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   },
   "motala.se/media/uploads/taxa-f%c3%b6r-kopior-av-allm%c3%a4nna-handlingar-m.m.pdf": {
    "kommun": "motala",
@@ -7400,6 +7400,1796 @@
    "kommun": "robertsfors",
    "datum": "2026-11-07",
    "sha256": "72c980cbd4397f36bca709612b5c2db319981c6124d91578a1690bf117c4186e"
+  },
+  "arboga.se/download/18.32b35a9019c699e89f1bd43/1771322284481/06.1%20tj%c3%a4nsteskrivelse_kompletteringsbudget%202026%20f%c3%b6r%20kommunstyrelsen.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "askersund.se/download/18.51dd562f19197416ebb7cc2/1725438690523/protokoll%20%20mob%202024-08-29.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "berg.se/download/18.6f4729a719d24cf41053f844/1775648837136/kommunstyrelsens%20protokoll%20den%2026%20mars%202026%20normal%20justering%20-%20f%c3%b6r%20delning.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjurholm.se/download/18.7d99aaa718ab7ea8b916437/1777442632284/kommunstyrelsens%20reglemente.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjuv.se/download/18.77fc78891a01862683b2d087/1787149744899/kallelse260819.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bollebygd.se/download/18.600f38101a1631831095189/1793006081010/bmn-2024-377-86-svea%20hovr%c3%84tt%20mark-%20och%20milj%c3%b6%c3%b6verdomstolen%20dom%202026-10-07%20stockholm%20m%c3%a5l%20nr%20p%2012137-25%20(1)_bortredigerad.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bastad.se/download/18.767116d318b37dcb7384dcb/1697547725463/tolkning-och-tillampning-av-arvodesreglemente-f%c3%b6r-bastads-kommun.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "degerfors.se/download/18.5aeb199c16914b889fa7051/1571648429317/arbetsordning%20f%c3%b6r%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "degerfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ekero.se/download/18.134d4a3e1a162ee4b562e588/1793284436630/anslag%20sbf%202026-10-23.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "emmaboda.se/download/18.5080449519bdc2ee84b654e/1771255529806/kommunfullm%c3%a4ktige%20kallelse%202026-02-23.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "191d771bc6d50fa1c3011f583cddd05f4370745a8f1f3f784b6e1ae2f02d530e"
+  },
+  "fagersta.se/download/18.60c0234119329b0691b52f4/1732263909763/nve%202024-11-19.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "falkoping.se/download/18.4933f3551a04786e3048d8/1787920305595/omedelbart%20justerat%20protokoll%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-08-27%20-%20%c2%a7%c2%a7%2078-79.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "20dadb97a0ce7d9e57b878f787250ee71bc5a42c06dfe83948b1ec73860df5cb"
+  },
+  "filipstad.se/download/18.3a25d6681a0e05f9095a7ed2/1790663686583/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunstyrelsen%20den%202026-09-30.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "forshaga.se/download/18.686f1f3419eafe4e8e928fdc/1781522482734/budget%202027%20fler%c3%a5rsplan%202028-2029.pdf": {
+   "kommun": "forshaga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "grums.se/download/18.67eb62ee16db20b5fc5436/1570782568224/28%20maj%20%c2%a7%c2%a7%2030-43.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "grastorp.se/download/18.401d361956515ff84d671/1742570163196/anvisningar%20och%20r%c3%a5d%20f%c3%b6r%20allm%c3%a4nna%20handlingar%20i%20gr%c3%a4storps%20kommun.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "7aa4c8305e4eb79c3873c0ef507eb929f13a34f91e6d5edddeaf11ef11727b9f"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a884c/1685089752471/yrkade%20partibudgetar%20i%20kf,%20budget%202022,%20plan%202023-2024.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-10-26/agenda/korrigering-av-skrivfel-under-gavlefastigheter-ab-beslutad-i-kf-investeringsbudget-i-detalj-2027-2030pdf-64198?downloadmode=open": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "sha256": "af409fe6f275c3b8dee8419b7f6b7e88807428273f74f82fd083b8a9e5da2f64"
+  },
+  "hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-allmanna-utskott/2026/au261015--39-43.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "699d5ad0fe51d9b5f84c08bd382e18276e35a7b62f9e94d68b5d615cabdb56fa"
+  },
+  "hofors.se/download/18.730e0eff1977c035dd4489b/1758542686956/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202025-09-29.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "516b1957d13852c0efb7c70a1301b39d76a57dd858b8897c3722735f6ba2ffc7"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkflc2rdrhi4kvdjpcntfgk26m3p&currentpageid=4.1fc96f7a15aa40b071a5e94&name=ks%202026-03-10%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "552b255cb3f246c3c3685e0601387783d80ce57d82a68e3eabbb94c64ac62960"
+  },
+  "hultsfred.se/files/2026/03/protokoll-fran-barn-och-utbildningsnamnden-2026-03-25.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "86718503524d64444d41bab5a3f59535ae46a63f66b173b04ab9bc744f3dd57d"
+  },
+  "herjedalen.se/download/18.249a210019e630615b32b964/1780319496956/protokoll%20kommunstyrelsen%2027%20maj%202026%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hogsby.se/wp-content/uploads/kf_2026_10_19.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "afd3931d6be7c5a138da4bf49edb6697a9ed0b76ac42a3bfd7154cec843ab837"
+  },
+  "jokkmokk.se/media/y0pj2qpr/protokoll-kf-20260427-signerat.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "8399c1046e8626be75c426563db28e6449957d3c39ca957542e135da1ba89fec"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/kommunstyrelsen/2020/2020-02-05/ks-2020-02-05-bilaga-7-budgetuppfoljning.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "adce0e65a5845114332bc2dff81e99871a76b87552f42cb41593a78b2a516098"
+  },
+  "karlskoga.se/download/18.1736b2101a19dadd57cdfd/1793699197841/%c3%84rende%2011.%20uppdrag%20fr%c3%a5n%20m%c3%a5l%20och%20budget%202026-2028%20-%20kommunal%20app%20f%c3%b6r%20effektivare%20service%20och%20dialog.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "614a67cbb14ec1b878f922f5226981a26eecb5492dfd995a61a543629a61136e"
+  },
+  "katrineholm.se/download/18.233f59f7180028599746949c/1650981648876/handlingar%20till%20%c3%a4rende%20planeringsdirektiv%202023%20med%20plan%20f%c3%b6r%202024-2025.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "docreader.readspeaker.com/docreader?cid=cpbtk&lang=sv_se&url=https%3a%2f%2fwww.kinda.se%2fdownload%2f18.3a1c4a01828c6490d0d5ec6%2f1669886252424%2fbudget%25202023.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "kramfors.se/download/18.61adb53419c934a3dcc1a0c/1772022914263/protokoll%20kommunfullm%c3%a4ktige%2023%20februari.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.51952112192bd5686ff7ef/1734504483667/verksamhetsplan%20tekniska%20f%c3%b6rvaltningen.pdf": {
+   "kommun": "sjobo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kavlinge.se/download/18.74fa189c1900fdd81e5b431/1720092776960/budget%202025%20plan%202026-2027%20tillg%c3%a4nglighetsanpassad.pdf": {
+   "kommun": "kavlinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "koping.se/download/18.2c20c8361a18c50c74ef1d/1793359349758/kommunfullm%c3%a4ktige%202026-10-26.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laholm.se/download/18.5896dcc21a042344fd0a5/1787818154231/protokoll%20ubn%202026-08-26.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laxa.se/download/18.4c80405018bab88cc972e791/1699686962723/budget%20och%20verksamhetsplan%202019-2022.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lillaedet.se/download/18.774f4f5419c986b501412fde/1773733783691/kallelse%20bin%202026-03-24.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusnarsberg.se/download/18.c83f53a1a162f13b8f55a4/1793110386191/protokoll%20fullm%c3%a4ktige%20den%2022%20oktober%202026.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "mullsjo.se/download/18.2ea53a53175efcd83377df6b/1762414859724/ans%c3%b6kan%20till%20vuxenutbildningen.pdf": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "regionvarmland.se/download/18.68c19bb317e46fc1ff76cb6/1683119267297/reglemente%20kultur-%20och%20bildningsn%c3%a4mnden.pdf": {
+   "kommun": "munkfors",
+   "datum": "2026-11-07",
+   "sha256": "486a647bb8bd35727e48895a61a40c8c5a66dab2ff95bcdf7936f9995d0c5fea"
+  },
+  "morbylanga.se/wp-content/uploads/2024/03/verksamhetsplan-med-budget-2020.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "58500162a36f1de61fd795c30062777d548fbd834f39ccb88c27fe417b1cee83"
+  },
+  "hedemora.se/wp-content/uploads/2026/08/kallelse-bn-2026-08-31-extra-ny.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "7eaa7881fa7451020ddc53f39e44a975d14d11ac6b73b77282ab7abf49ae68a8"
+  },
+  "nordanstig.se/download/18.c9ab8701686e14dc6fa36a5/1548686468743/mal-och-budget-2019--2022.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nordmaling.se/download/18.38b802619e1f0b517214a2c/1779722157633/kallelse%20kommunstyrelsen%20260601.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "aaf9dcf46d2d7d1511d9e636058d85a166298c40e0cfa5da47b7aca44bc8b321"
+  },
+  "nybro.se/wp-content/uploads/2020/12/kommunplan-2020-2022.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "6bbd06de92e6731a6b410a9f3bce362c9e60ae2e3eda7b98e44ce2f3cf789b6c"
+  },
+  "nykoping.se/globalassets/nykoping.se/dokument/styrande-dokument/organiserande/reglemente-fr-revisionen": {
+   "kommun": "nykoping",
+   "datum": "2026-11-07",
+   "sha256": "44a7af1cb0a1f9cf732d76f8fb1d49ac0520134914894a13ea1251c3d6faa1c5"
+  },
+  "nynashamn.se/download/18.4bc117f71a0adb12db8258df/1790084037580/2026-09-29%20-%20dagordning%20-%20barn-%20och%20utbildningsn%c3%a4mnden.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nassjo.se/download/18.1c7bdf2d199e59b572e4ad7e/1766068818110/protokoll%20kommunfullm%c3%a4ktige%20den%2011%20december%202025.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "d9ae7637d5df7aa691ef4c4a101dd0e654597f8871dc8ad6dd2128c00fae5633"
+  },
+  "olofstrom.se/download/18.102d8a2f1702c37a2a231084/1581503409186/budget-2019.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "orsa.se/download/18.1598661019e63286f972192/1779801056448/beslut%20-%20%c3%84skande%20om%20till%c3%a4ggsanslag%202026%20och%20budgetram%202027.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "osby.se/download/18.44f364f21a12f66c2301840/1791818964883/kommunstyrelsen%202026-10-07.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ragundakommun.ondemand.formpipe.com/api/v2.0/meetings/33363/download/items/33381": {
+   "kommun": "ragunda",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "robertsfors.se/download/18.4e5943e01927167b488460a7/1729662675002/protokoll%20bou%202022-05-09.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ronneby.se/download/18.293f210a19e39693a0d10a1/1779091976447/kommunstyrelsen%202026-05-05%20%c2%a7%c2%a7%20130-155.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sandviken.se/download/18.8eb6c1819d9a4a6125a3/1776430841506/2026-04-15%20on%20direktjusterat%20protokoll%20%20%c2%a7%205-6.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sigtuna.se/download/18.712304531737be9129fddb5/1595926322616/mal-och-budget-2020-2022-tillganglighetsanpassad.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "storuman.se/globalassets/fkun/fkun_2024_91-fkuns-taxor-och-avgifter-2025.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "18e0ba721207de654a819b504bd15e9f4b7170e9d8a875bd35a1fb25cc675ed9"
+  },
+  "stromstad.se/download/18.47b40c0b1a18c56a87557bb/1793637143602/protokoll%20ks%202026-10-28.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "opengov.360online.com/meetings/sundbyberg/file/details/1139485.pdf?filename=kallelse%20med%20f%c3%b6redragningslista%20f%c3%b6r%20kommunfullm%c3%a4ktiges%20sammantr%c3%a4de%20den%209%20november%202026&filesize=126691": {
+   "kommun": "sundbyberg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "surahammar.se/download/18.403466d319e6350ea30daee/1780652476623/kallelse%20kf%202026-06-05.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svalov.se/download/18.5f6bfd6b17dc23cbe8ba9ab/1640251497783/kf-20211129.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svenljunga.se/download/18.2e942b1f184c9fc534dc6c/1671198654835/barn-%20och%20utbildningsn%c3%a4mndens%20verksamhetsplan%202023-2025.pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "b60ed7f769a7ec9333e4991c4288baa6f88b9dd7a872d31288cdca7bc2c785ef"
+  },
+  "saffle.se/download/18.c6a65bc1791ca813b27a3af/1620372887443/budgetboken%202021-2023.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sater.se/wp-content/uploads/2026/09/protokoll-2026-09-09.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "30d308e4ac119a72c7eb92e07f9d528a6f14ad03c825c9ce13e76309ebf7232b"
+  },
+  "savsjo.se/download/18.47f0c2f219c1200b46b22fd/1770019533128/verksamhetsplan%202026.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "74bb8b2d1c6c0bc9da3a099363ad32bbc937e51720f9a0a70200a4527d7ce82c"
+  },
+  "soderhamn.se/download/18.39516aab19e884aef8516e07/1781083389612/protokoll%20%c3%96fn%202026-04-21%20%c2%a7%c2%a7%2026-34.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-08-31.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "945dadf9c3af939a2ebf4dea1a517de2df0c0efb1411b74565a7353b75b05775"
+  },
+  "tjorn.se/download/18.3a808b301975d2f24082a64e/1750061920979/milj%c3%b6partiets%20budgetf%c3%b6rslag%202026.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "torsas.se/wp-content/uploads/protokollbin170207.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "ffdea25db92ae0856eb7bfe81fd695385199bc7ae82e5bd2c6dfafb8dc066f31"
+  },
+  "trelleborg.se/app/uploads/2023/11/arbetsordning-for-demokratiberedningen-antagen-av-kf-2023-12-18-c2a7-244.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "ulricehamn.se/download/18.566ae8061a01f6a9cf1c196c/1787812194913/%c3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-09-03.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "uppvidinge.se/download/18.2ec4cb501a1631b488e157a/1792755041104/protokoll%20ks%202026-10-20.pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaggeryd.se/download/18.46d742f316cafe40b656d8a/1566366207304/kallelse%20barn-%20och%20utbildningsn%c3%a4mndens%20arbetsutskott%20%202019-06-11.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxholm.se/download/18.37100a8191e198cab636ff7/1726471060172/budgetf%c3%b6rslag%20(mp)%20till%20kf%202024-09-16.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vannas.se/download/18.1e594eea181871db88612d/1656427698342/beslutad%20budget%20%202021-%202022%20plan%202023.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "varmdo.se/download/18.6ef44e711864b8008dc43431/1677586341764/instruktion%20f%c3%b6r%20kommunstyrelsens%20arbetsutskott.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxjo.se/download/18.2b1bff1d19ed453c4059519d/1783422677395/bilaga%201%202026-05-13%20-%20samverkansprojekt%20med%20region%20kronoberg%20samt%20palliativ%20v%c3%a5rd.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vargarda.se/download/18.5bfd660b19ea2794f9d1ac5/1793292760215/protokoll%20261029.pdf": {
+   "kommun": "vargarda",
+   "datum": "2026-11-07",
+   "sha256": "e7b004f0b50439d2482320244341e29c029f1d698f58fe1ba48388117dd590a6"
+  },
+  "ydre.se/download/18.c0a4fce181800179103c9d/1656431995874/kallelse%20kommunfullm%c3%a4ktige%202022-06-13.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvdalen.se/download/18.1aacd45d19d24d7ca82c5c3c/1775559998597/protokoll%20barn-%20och%20utbildningsutskottet%202026-04-02%20signerat.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvkarleby.se/download/18.7ecc6c21a12fa29ef310dbe/1792575185703/ks%20protokoll%202026-10-14.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "engelholm.se/download/18.26a3fd58195b8a67f179d55/1752843912312/kallelse%20fun%202025-07-30.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "4603cc323eba3eca33a340b70897a9ba092a4933037cbc42dd6346238015ce24"
+  },
+  "amal.se/download/18.518886b71917870bcefc70/1724314286289/budgetdokument%202025-2028%20(amals%20kommun).pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "orkelljunga.se/download/18.5e484f4b19ed4844be3b2d1/1782200081618/kommunstyrelsen%202026-06-17.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ostragoinge.se/download/18.dee93a9193deb99a174071/1736339238001/kommunrevisionen-protokoll-2018-09-28.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "overkalix.se/media/0zfpazic/kommunfullmaktiges-protokoll-20260615-27-41.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "35e6c530404031bfaf89fdf8644b4c720774969d578f35d7a5fe2fbb7fcc22cf"
+  },
+  "arboga.se/download/18.12a183ce19d8af309c834ecc/1776328518527/14.3%20sn%202026-02-18%20%c2%a7%2026%20kompletteringsbudget%202026.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "arvidsjaur.se/download/18.52dff55c19d707416d0317/1775713360469/arbetsordning%20f%c3%b6r%20kommunfullm%c3%a4ktige%20och%20presidium.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "askersund.se/download/18.2fb0a5c2191e4fccc1e14b66/1727775811639/protokoll%20mob%202024-09-26.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "berg.se/download/18.58584c519d048e13601e65/1773933692849/kallelse%20f%c3%b6rstasida%20kommunstyrelsen%2026%20mars%202026.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjurholm.se/download/18.7d99aaa718ab7ea8b916438/1704268800656/kultur-%20och%20utbildningsn%c3%a4mndens%20reglemente.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjuv.se/download/18.9f46eb31a0cd88f5831346f/1790173228610/kallelse%20un260930.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bollebygd.se/download/18.600f38101a16318310950e9/1793003838455/bmn-2026-705-1-%20%c2%a7108%20ks2026%20186%20-%20kommunfullm%c3%a4ktige%20remitterar%20motionen%20till%20bygg-%20och%20milj%c3%b6n%c3%a4mnden%20f%c3%b6r%20handl%c3%a4ggning..pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "botkyrka.se/download/18.7ddd8c91176843130eb957/1608564144212/m%c3%a5l%20och%20budget%202018%20med%20plan%202019-2021.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bastad.se/download/18.767116d318b37dcb7384db3/1697547724909/attestreglemente-for-bastads-kommun.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "emmaboda.se/download/18.23e6f8471a18415ad35372/1793347513900/kommunfullm%c3%a4ktige%20protokoll%202026-10-26.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "6e5b3d3ed5ce24c94b13b1aedae2b1e7d95df97a4b48c974106a96aab501cd8f"
+  },
+  "fagersta.se/download/18.6ac077f2191e4eddbe329c4/1726469583592/2024-09-12.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "falkoping.se/download/18.1eb706c819e6eadae8a17cba/1781695520940/protokoll%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-06-16.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "ad8f11d29ec0ce87b3c7cfc3eeb966cac411699afffd5294643a7d2f4a2fb677"
+  },
+  "filipstad.se/download/18.27ebb9751a012f9676a6ea3e/1787639046547/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunstyrelsen%20den%202026-08-26.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "finspang.se/download/18.206ab72d19e0253e0403df4f/1778504046261/2026-05-20%20kallelse%20med%20handlingar%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "forshaga.se/download/18.11afdadc19979e9d11178ea/1758705835066/budget%202026%20fler%c3%a5rsplan%202027-2028.pdf": {
+   "kommun": "forshaga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnesta.se/download/18.4c9c1fff1a01f730ced302a0/1788269769972/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-09-03.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnosjo.se/download/18.323ece9319ff0a6f1711b17/1787041575954/protokoll%20kommunstyrelsen%202026-08-11.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "e1a3cc41b647e8e14d1b324af15842f7af3464093b42834d3603e5df1ffc057e"
+  },
+  "grums.se/download/18.67eb62ee16db20b5fc5eba/1571234505639/bilaga%20kf%2028%20maj%20-%20protokollsanteckning%20(c)%20(m)%20%c2%a7%2033.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "grastorp.se/download/18.719bdd9c18b655cc4ce11de1/1700147964088/antaget%20%20inriktningsdokument%202024-2027%20.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "b2804c2ba03e595f89da997b5789d2fe7e7923809e6437db48159c071adda983"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a884e/1685089783119/yrkad%20sammanst%c3%a4llning%20av%20partif%c3%b6rslag.%20budget%202023,%20plan%202024-2026.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-10-26/agenda/korrigering-av-skrivfel-under-gavlefastigheter-ab-beslutad-i-kf-investeringsbudget-i-detalj-2027-2030pdf-64198?downloadmode=download": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "sha256": "af409fe6f275c3b8dee8419b7f6b7e88807428273f74f82fd083b8a9e5da2f64"
+  },
+  "www5.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/93ec9160f537fa30c12572aa004b6c1a/5cd6bde9236c986ac1258dd900526446/$file/8.%20tu%20forandrad%20avgiftskonstruktion.002.pdf": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "f4630cd4b4b50ab4ea90fa5f51959b6aa689c0ad55b576c0a76e79e00edbad8c"
+  },
+  "halmstad.se/download/18.5e72de61a1a18a32fb28169/1793806798250/261103-ks-protokoll-gdpr.pdf": {
+   "kommun": "halmstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "haninge.se/492fa3/siteassets/dokument/blanketter/kommunstyrelseforvaltningen-ksf/blankett-ksf154-ersattning-for-forlorad-arbetsinkomst.pdf": {
+   "kommun": "haninge",
+   "datum": "2026-11-07",
+   "sha256": "5c81b6f0aa711879e56fa0255f5409270d7f10b615bda2ce6ad414e52143dd5d"
+  },
+  "haparanda.se/download/18.13c210f1193dec8a1fdf49/1734685194724/protokoll%20bun%202023-09-06.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260204--1-18.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "a505ebbd5ac4249df3c621b5e7e003b048056334ee02da3a256f3116fcc15696"
+  },
+  "hofors.se/download/18.730e0eff1977c035dd4514c/1760100006583/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202025-10-20.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "765288d56c751976be67f414fa14ee04c05ee3e808cf5c427a096b89baa6c76e"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkcftjxbc4bwybf3spww7czmdnwi&currentpageid=4.1fc96f7a15aa40b071a5e94&name=ks%202026-04-14%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "053dd6b6cc6f1307aebb353a2e97d7921611000c369ee80248a58dbb08c615f5"
+  },
+  "hultsfred.se/files/2026/02/kallelse-till-barn-och-utbildningsnamnden-2026-02-25.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "2c495a79d22ec138cbb47925aea6a7b1ca0ac1e23e59d1d2ea36295978497733"
+  },
+  "herjedalen.se/download/18.173e502419dcdb131e352674/1778227481665/protokoll%20kommunstyrelsen%205%20maj%202026%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hassleholm.se/download/18.156f56a0194ce0fc4f9a9ed5/1740384978014/kommunfullm%c3%a4ktiges%20kallelse%202025-02-24.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hogsby.se/wp-content/uploads/su_2026-10-13_kallelsesida.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "4f83b858dc023da0f778dba7571f5645e408d6e4fd9cb12d2046281b13e8a57f"
+  },
+  "jokkmokk.se/media/ae3bvxeo/protokoll-kf-20260223-signerat.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "4dd8dfc8e75dc8e69bc746eab05f7ba75797e0fc7a65995a43f2986cc0368861"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/kommunstyrelsen/2020/2020-12-16/ks-2020-12-16-bilaga-13-budget-och-verksamhetsplan-2021-2023.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "1efaf21e4588d345ff261018d7f74132c7c2fab0f535a80223f17a0ce7fad303"
+  },
+  "karlskoga.se/download/18.701fbcd21a170f26042a13/1793088899958/kf%202026-11-03%20kallelse.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "4981bbd7922be952c01e9676e916edec525f4cb224e7ffc44d540bdfeddbc9f7"
+  },
+  "katrineholm.se/download/18.11bce16716e44cbeee13f134/1574352149095/%c3%96vergripande%20plan%20med%20budget%202020-2022.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kinda.se/download/18.676e9edb18acbac7e9648a4a/1695823534214/utveckling%20kinda%202024-2027.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kramfors.se/download/18.139508b319afcdc47243ee81/1765893283736/protokoll%20kommunfullm%c3%a4ktige%208%20december.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.7424f84f19e6418eba97adbc/1780924705439/kommunfullm%c3%a4ktiges%20kallelse%202026-06-09%20kompletterad.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kavlinge.se/download/18.2c73834a188c4d44a4d9f3/1687158726368/budget%202024%20plan%202025-2026%20kf.pdf": {
+   "kommun": "kavlinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "koping.se/download/18.233e07af18383b5a32a1b1be/1665144653934/protokoll%20fr%c3%a5n%20kommunfullm%c3%a4ktiges%20sammantr%c3%a4de%2026%20september%202022.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laholm.se/download/18.228f5c761a0ad9d95ae3ab16/1790236336925/protokoll%20ubn%202026-09-23.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laxa.se/download/18.4a624412166dd3d2be42d4a3/1541407857734/budget%20och%20verksamhetsplan%202018-2020.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lillaedet.se/download/18.700fcb0619d24e1445a499c/1774850256221/protokoll%20bin%202026-03-24.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljungby.se/download/18.145b4da519c988ccc0815908/1772548809212/ans%c3%b6kningsblankett%20komvux%20som%20anpassad%20utbildning%202026.pdf": {
+   "kommun": "ljungby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusdal.se/download/18.7859404519e62f4e5b42e07f/1780322276804/protokoll%20un%202026-05-27%20signerat.pdf": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusnarsberg.se/download/18.635ac64419b2bf3844823372/1769168467229/kommunstyrelsen%20sammantr%c3%a4deshandlingar%202026-01-28.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lysekil.se/download/18.328c32691a163168f7f1d23/1793346155903/programblad%20vt27%20kock.pdf": {
+   "kommun": "lysekil",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "mullsjo.se/download/18.1df01d918ec639224d14073/1713256893096/pwc%20granskningsrapport%20%20granskning%20av%20ekonomistyrning%20inom%20tekniska%20n%c3%a4mnden%20samt%20barn-%20och%20utbildningsn%c3%a4mndens%20ansvarsomr%c3%a5d%20(003).pdf": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "regionvarmland.se/download/18.4a7bed2818e0c8ed8ac1af8a/1711443552597/kultur-%20och%20bildningsn%c3%a4mndens%20delegeringsf%c3%b6rteckning%202024.pdf": {
+   "kommun": "munkfors",
+   "datum": "2026-11-07",
+   "sha256": "fc8e06d46671b5cc7062535fdaceccf52584d4d08c87e5d334db39cac3587b64"
+  },
+  "morbylanga.se/wp-content/uploads/2026/09/kungorelse-007.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "66ecd26ebfee9318942d5635a49d388d1e76b389b69872040adc3d980cffb7de"
+  },
+  "hedemora.se/wp-content/uploads/2026/09/kallelse-bn-2026-09-28.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "737b729a73a944b06a43ed5b8f7b092d07d3344a162c18029762cc6fd8f5237b"
+  },
+  "nordanstig.se/download/18.c9ab8701686e14dc6fa36a8/1548686486498/budget-2018--2021.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nordmaling.se/download/18.349ee79d19dd54a1e785689/1777898174885/kallelse%20kommunstyrelsen%2011%20maj%202026.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "eb1008cecd2c5fc0edef000d4a7807afa9417731c2dba97954ea319e5e26ef96"
+  },
+  "nybro.se/wp-content/uploads/2020/12/kommunplan-2019-2021.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "b9c7113eefd6799e6720de9ca7f58f7d0ff00d8ca6a409e81694ef5dd7ab9745"
+  },
+  "nynashamn.se/download/18.249a210019e630615b314f6/1779796576907/2026-06-02%20dagordning-barn-%20och%20utbildningsn%c3%a4mnden.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nassjo.se/download/18.7ca9d08b19a3311685e2ec6a/1765295640531/protokoll%20kommunfullm%c3%a4ktige%20den%2027%20november%202025.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "e0311887088f903b5f50340dccad64b157fd53f5203f66f8c6e4919676660578"
+  },
+  "olofstrom.se/download/18.102d8a2f1702c37a2a231085/1581503409342/budget-2018.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "docreader.readspeaker.com/docreader?cid=ccpms&lang=sv_se&url=https%3a%2f%2fwww.orsa.se%2fdownload%2f18.1598661019e63286f972192%2f1779801056448%2fbeslut%2520-%2520%25c3%2584skande%2520om%2520till%25c3%25a4ggsanslag%25202026%2520och%2520budgetram%25202027.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "osby.se/download/18.a378cbf1a0fb93f1f121ef0/1791275734348/kommunstyrelsens%20individutskott%202026-10-06.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ragundakommun.ondemand.formpipe.com/api/v2.0/meetings/33363/download/items/33368": {
+   "kommun": "ragunda",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "robertsfors.se/download/18.4e5943e01927167b488460a9/1729662686087/protokoll%20bou%202022-09-19.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ronneby.se/download/18.152380bc19ea58c8b8be3ee/1781077623330/kommunstyrelsen%202026-06-09%20%c2%a7%c2%a7%20156-186.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sandviken.se/download/18.6e7ef58b19d8b8b088e373/1776260833936/protokoll%20%c3%96verf%c3%b6rmyndarn%c3%a4mndne%20i%20v%c3%a4sta%20g%c3%a4strikland%202026-04-14.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sigtuna.se/download/18.712304531737be9129fddb7/1595926323027/kompletterande-handling-till-mal-och-budget-tillganglighetsanpassad.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.67f217511a1303c06564ab7d/1792563501193/barn-%20och%20utbildningsn%c3%a4mndens%20kallelse%202026-10-27.pdf": {
+   "kommun": "sjobo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "storuman.se/globalassets/fkuns-taxor-och-avgifter-2026.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "90771694cf41f5c914ae7d6cd1c29753287986fbc9d0016cebdbc295a5222045"
+  },
+  "stromstad.se/download/18.39af3e619bd52a5f4f8f8e/1768917496522/kallese%20och%20%c3%a4rendelista%20barn-%20och%20utbildningsn%c3%a4mnden%202026-01-27.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sundsvall.se/download/18.5cdabe8a1a01d949c1c7a25/1787226973414/protokoll%20kommunfullm%c3%a4ktige%202026-08-17.pdf": {
+   "kommun": "sundsvall",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "surahammar.se/download/18.2b140851a0421fce23bd07/1788443559783/kallelse%20kf%202026-09-04.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svalov.se/download/18.20b8612a17ce9a91b7fd37a/1636718552824/kf-20211025.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svenljunga.se/download/18.f3679831809055e352a15/1653031269173/barn-%20och%20utbildningsn%c3%a4mndens%20verksamhetsplan%202022-2024.pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "076cc8e379cb53f43e3ef8125ba10674fa43b935179666d15d943a7e3f70a32f"
+  },
+  "saffle.se/download/18.5204f0c618002b866bf48cb0/1651568221318/%c3%85rsredovisning%202021.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sater.se/wp-content/uploads/2026/05/protokoll-2026-05-12.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "024e8c5508051127c9796ffb52dbf271ea43edac3276c62349f6c5e76a23dd7f"
+  },
+  "savsjo.se/download/18.47f0c2f219c1200b46b22f2/1770019462563/verksamhetsplan%20s%c3%a4vsj%c3%b6%20kommun%202025.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "af25094f2d6e82a15cd6d98d3bbdb063c8b5686ead8e20e67885adfe1de7b595"
+  },
+  "soderhamn.se/download/18.7b705b8b1a162f2f38894ff/1793093975439/protokoll%20%c3%96fn%202026-06-16%20%c2%a7%c2%a7%2035-43.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-11-16.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "0e60517b3d4463158c19590b748e69029773170928fbecc1783baa73a7d0c636"
+  },
+  "tanum.se/download/18.ffd58281a12f68b7c34909/1792045936410/omsorgsn%c3%a4mnden%2020%20oktober%202026%20med%20handlingar.pdf": {
+   "kommun": "tanum",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "tierp.se/download/18.1f2e4ac619e63785deb5ffb/1780301102770/handlingar%20kf%202026-06-08.pdf": {
+   "kommun": "tierp",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "tjorn.se/download/18.273015e218fe7d3833510d7/1718348244727/majoritetens%20budgetf%c3%b6rslag%202025.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "torsas.se/wp-content/uploads/protokollau171121.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "68326a1e322be126fb6008b566b5b6797f41e055ab2c57be9b5bf25ddecb2550"
+  },
+  "trelleborg.se/app/uploads/2020/05/reglemente-for-bildningsnamnden-bin-antaget-av-kf-2023-10-16-c2a7-197.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "trosa.se/app/uploads/2026/04/kallelse-till-med-handlingar-till-kommunfullmaktige-2026-04-29.pdf": {
+   "kommun": "trosa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "ulricehamn.se/download/18.5bdefa7e1a01f2ed6bf6bc14/1787551678642/protokoll%20kommunstyrelsen%202026-08-20.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "upplands-bro.se/download/18.fbe1d18c8ad0decde709/1704899271370/kommunplan%202024%20-%202026.pdf": {
+   "kommun": "upplands-bro",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "uppvidinge.se/download/18.2d84c5c419c479487f25e74/1771031092776/kallelse%20kstu%202026-02-14.pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaggeryd.se/download/18.2de4ca1f169fdf1827ee7a30/1556605845805/kallelse%20barn-%20och%20utbildningsn%c3%a4mndens%20arbetsutskott%20%202019-05-03.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vansbro.se/download/18.574281b719d9a68ccf28262b/1776966741255/l%c3%a4rcentrum%20-%20kurslitteratur_2026_niv%c3%a5er.pdf": {
+   "kommun": "vansbro",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxholm.se/download/18.37100a8191e198cab637b32/1726475526402/uppdaterat%20budgetf%c3%b6rslag%20(c)%20till%20kf%202024-09-16.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vannas.se/download/18.1e594eea181871db88612c/1656427674834/budget%20%202020-2021%20plan%202022%20beslutad%20kf%202019-06-10.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "varmdo.se/download/18.75ce225d1691e944b1623668/1684763288958/instruktion%20f%c3%b6r%20kommunstyrelsens%20planutskott.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxjo.se/download/18.31347bda19dcdb11003489/1777276017766/teknisk_beskrivning_2026-03-03%20extern.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ydre.se/download/18.493bb5721841889c3d76583/1668003738124/kallelse%202022-02-28.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "almhult.se/download/18.4e55f00c19afcd92d283a8fd/1765542387778/budget%202026%20med%20plan%202027-2028.pdf": {
+   "kommun": "almhult",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvdalen.se/download/18.6f1e98c919e024cd605a88/1778164022096/protokoll%20barn-%20och%20utbildningsutskottet%202026-05-07,%20signerat.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvkarleby.se/download/18.66a5b1a319d9a5b092c69ff/1776839190860/ks_2026-04-15-protokoll%20kommunstyrelsen%202026-04-15.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "engelholm.se/download/18.26a3fd58195b8a67f17a336/1753949437043/fun%202025-07-30%20protokoll.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "79e38eff90d6fb98912df71a3c9fa94f825f66dc378ca32a8dbbbb69af8f0f24"
+  },
+  "amal.se/download/18.78174f7c190a248d33681824/1722952805640/beslut%20-%20202400214%20-%20ks%20-%20%c2%a7%20115.pub.pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "are.se/download/18.16479f591a18c46c4ea3d/1793356001377/2026-10-27%20anslag%20kommunstyrelsens%20arbetsutskott.pdf": {
+   "kommun": "are",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "orkelljunga.se/download/18.39155d0219e634874bf199fd/1780902854515/kommunstyrelsen%202026-06-03.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ostragoinge.se/download/18.dee93a9193deb99a174075/1736339238002/kommunrevisionen-protokoll-2018-08-28.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "overkalix.se/media/mgqabr3w/kf-2027-04-27-11-26.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "b5e97fdb491dc556ad604b4a64c05500ec429740782df9c9ac5b1abe77e5ff1c"
+  },
+  "arboga.se/download/18.12a183ce19d8af309c834ed8/1776328530600/14.4%20fkn%202026-01-26%20%c2%a7%2010%20kompletteringsbudget.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "arvidsjaur.se/download/18.52dff55c19d707416d0319/1775713360636/arkivbeskrivning%20och%20dokumenthanteringsplan%20f%c3%b6r%20kommunstyrelsen.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "askersund.se/download/18.15d1be25192bd4847f45964/1730203779761/protokoll%20%20mob%202024-10-24.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2026/kommunstyrelsens-samhallsplaneringsutskott-2026-03-30.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "df8f6a2ad1bcd53b6245b592b807ca0150b0f2e35ddfd73fe2f87b5d90373857"
+  },
+  "berg.se/download/18.6019c03219e13d5b4a6f56/1778492111065/kommunstyrelsens%20protokoll%20den%205%20maj%202026%20f%c3%b6r%20delning.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjurholm.se/download/18.12b012b4183e1cbc75c40b2/1673434934455/ta-milj%c3%b6-%20och%20byggn%c3%a4mndens%20reglemente.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjuv.se/download/18.13abd70b1a15ca87dc48260/1792582898497/kallelse%20un%20261028.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bollebygd.se/download/18.600f38101a163183109510f/1793004342102/bmn-2026-530-1-riktlinje%20f%c3%b6r%20alkolservering%20i%20bollebygds%20kommun.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "botkyrka.se/download/18.7ddd8c91176843130eb958/1608564144403/budget%202017%20med%20plan%202018-2020.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bastad.se/download/18.767116d318b37dcb7384db4/1697547724935/attestreglemente-tillampningsanvisning.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "emmaboda.se/download/18.23e6f8471a18415ad35b0/1793268617690/kommunfullm%c3%a4ktige%20protokoll%202026-10-26%20konstituerande%20signerat.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "aaef59f4931039503d43f425545c08962eb805a826e3356bf607a6ae673aae07"
+  },
+  "fagersta.se/download/18.3845d47018fa409e19f395d/1716801740067/protokoll%202024-05-16.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "falkoping.se/download/18.1eb706c819e6eadae8a1f4/1780064845443/protokoll%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-05-19.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "e8dd213419492acf84fe9b838b0bdbdff8f3e5f309b784096381d9cafbfc086f"
+  },
+  "filipstad.se/download/18.64b03d19e85a7f5d3c4d40/1780585505484/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunstyrelsen%20den%202026-06-10.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "finspang.se/download/18.58bc16519e63557f163234/1779805095785/2026-05-20%20protokoll%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnesta.se/download/18.323cf7981a0adb1190d559d3/1790257468714/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-10-01.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnosjo.se/download/18.377cf95819e808f998b5d0/1780478023266/f%c3%b6redragningslista%20kommunstyrelsen%202026-06-09.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "30e983fb007b461b2f641e0955335fb4bda177cb767f7431920ee98a4ff400a5"
+  },
+  "grums.se/download/18.67eb62ee16db20b5fc5438/1570782700855/18%20juni%20%c2%a7%c2%a7%2044-53.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "grastorp.se/download/18.1e80338319abac4973211367/1765978060681/regler%20f%c3%b6r%20kommunalt%20partist%c3%b6d%20fr%c3%a5n%20och%20med%202027-01-01.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "50369bfc00cc4d396ff1d9f10dda230d0350a8107504046963e05b3512098036"
+  },
+  "gallivare.se/download/18.17d03d1819c98916cf1b9c13/1772534399016/protokoll%20barn-%20och%20utbildningsn%c3%a4mnden%202026-03-02.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/ss134-ks-investerings-och-exploateringsbudget-2027-2030pdf?downloadmode=open": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "sha256": "3a912e9ed322abcb4c1febc170fbd5d3f4630049329743eeea2276c990c228ce"
+  },
+  "www4.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/af5cfbe75b3d5c19c1258e73004a7de8/$file/12_bilagor_2_5.002.pdf?openelement=": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "c4df57d26cdf72794b14df7068b07c351ffdff7d8effdbe72e795106f40a68b9"
+  },
+  "habo.se/download/18.37014ff19dd248e44a5bc20/1777906715388/kallelse%20f%c3%b6r%20kommunfullm%c3%a4ktige%20den%202026-05-11.pdf": {
+   "kommun": "haabo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hallsberg.se/download/18.6ebf618c19dd772ff9030/1777444496061/2026-04-20%20-%20protokoll%20kf.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "halmstad.se/download/18.232629221a148ff333ebcf1e/1792559858813/261020-ks-protokoll-gdpr.pdf": {
+   "kommun": "halmstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "haninge.se/492fa3/siteassets/dokument/blanketter/kommunstyrelseforvaltningen-ksf/blankett-ksf155-sammantradesarvode-for-vissa-organ.pdf": {
+   "kommun": "haninge",
+   "datum": "2026-11-07",
+   "sha256": "48e20336c6c0a4bcec6114037deb45ebc713a98963626b0803f02cc9468b8dff"
+  },
+  "haparanda.se/download/18.13c210f1193dec8a1fdf4b/1734685206471/protokoll%20bun%202023-10-11.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260219--19-21.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "6fa8181ba512dd67d2a29226d6e3ec2f42bcd2e16df0b2ced9771bf2afb300e0"
+  },
+  "hofors.se/download/18.339af2ff18beb247916575c/1707903558514/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202024-02-19.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "1874b853f48ec90fc05155b724efe68082edb4b2dcec06ffe4f1a83a08fb41d5"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkdnwjtxrr4ruvb2iwzfoonbyhd7&currentpageid=4.1fc96f7a15aa40b071a5e94&name=ks%202026-05-12%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "80e6991482d1e334babc391c079a15cc738dbcd9eec0b406c0db5f7da21be705"
+  },
+  "hultsfred.se/files/2026/02/protokoll-fran-barn-och-utbildningsnamnden-2026-02-25.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "820e680e6bf5262e9b8b50018b9a9de1e0cd8b082981687d0452827e584d70ff"
+  },
+  "herjedalen.se/download/18.6cb66e8f19d9a73e17917963/1776697031454/protokoll%20kommunstyrelsen%2015%20april%202026%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hassleholm.se/download/18.33c66ac91943c4972b069000/1737986829583/kommunfullm%c3%a4ktiges%20kallelse%202025-01-27.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hogsby.se/wp-content/uploads/vn_2026-10-14_kallelsesida.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "980be61e367be610236e767f1e1ef0de8a63c5dd753bd5ad8446c4f3c3ce5425"
+  },
+  "jokkmokk.se/media/2xqizpmd/protokoll-ks-20260622-signerat-1.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "26a3cbb281f0cf573c014307e587ef41ca815746e348457076c5c957f85374a2"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/kultur--och-fritidsnamnden/2018/bilaga-4-budgetuppfoljning.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "0e6a24fd70c0ff2b32501be06bfda5b1d49d540977ceaa471b4c3db8dd55a35a"
+  },
+  "karlskoga.se/download/18.701fbcd21a170f26042a14/1793088900034/%c3%84rende%201.%20information%20kommunfullm%c3%a4ktiges%20sammantr%c3%a4de%202026.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "8fbf97f438315cd4694f8333ae059b6cc0555d057c596783e4a8c20409fc02a3"
+  },
+  "katrineholm.se/download/18.594fcfdc17d336fd422360b/1637310854665/tillkommande%20handlingar%20till%20%c3%a4rende%20%c3%96vergripande%20plan%20med%20budget%202022-2024.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kinda.se/download/18.590ab7dd19c88eb9a372c89b/1781265569421/ans%c3%b6kan%20gymnasial%20vuxenutbildning.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kiruna.se/download/18.3ba3298919a7ba15ae61af8b/1763971959257/kommunfullm%c3%a4ktiges%20protokoll%202025-11-10%20signerat.pdf": {
+   "kommun": "kiruna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kramfors.se/download/18.1e308f6919a0a1eaad0538fd/1762239478830/protokoll%20kommunfullm%c3%a4ktige%2027%20oktober.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.7cf84a311a08626de0d25898/1789391909220/kommunfullm%c3%a4ktiges%20kallelse%202026-09-15%20%20kompletterad.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "koping.se/download/18.33795d0e19bfceb424b13660/1769521326336/protokoll%20ks%202026-01-20.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laholm.se/download/18.7bcfb4d41a12f8f040f46691/1792605261651/protokoll%20ubn%202026-10-21.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laxa.se/download/18.4a624412166dd3d2be42caf3/1541407847285/budget%20och%20verksamhetsplan%202017-2019.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lillaedet.se/download/18.39016c2919d8be93a895d/1776169518724/kallelse%20bin%202026-04-21.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lindesberg.se/download/18.13ff553519e63386cd712800/1780669021343/kallelse%20kommunfullm%c3%a4ktige%202026-06-15.pdf": {
+   "kommun": "lindesberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusdal.se/download/18.76558f7619ed45387911eb99/1782232644109/protokoll%20un%202026-06-17%20signerat.pdf": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusnarsberg.se/download/18.a20ff1019c47978adb9c6c/1771489848070/kommunstyrelsen%20sammantr%c3%a4deshandlingar%202026-02-25.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lysekil.se/download/18.a2556c51a16305f5291d72/1793351282327/programblad%20vt27%20kock%20l%c3%a4rling.pdf": {
+   "kommun": "lysekil",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "mullsjo.se/download/18.1c2b0b0f1762683c56beae7/1606991325537/granskning%20av%20n%c3%a4mnders,%20bolagens%20och%20kommunstyrelsens%20arbete%20med%20intern%20kontroll.pdf": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "morbylanga.se/wp-content/uploads/2023/12/bildningsnamndens-reglemente.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "38cd7e774aa1cdfed074c2df5e10d1b94b0edc346bd728d611e09b9952a90ef4"
+  },
+  "hedemora.se/wp-content/uploads/2026/10/kallelse-bn-2026-10-26.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "fbcd8ae27b160bd0fd66650c74c951424c07ec3dfa435c4afd602134d32493fb"
+  },
+  "nordanstig.se/download/18.c9ab8701686e14dc6fa36a7/1548686486440/budget-2017--2020.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nordmaling.se/download/18.87c46d519ce2e338c159a2/1776072751912/kallelse%20kommunstyrelsen%2020%20april%202026.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "05b6df3adb6dd7d07a21ccc2e86b009881bba700170bd759d4692d78af097a36"
+  },
+  "norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/mal-och-budget-2025-2027_revidering.pdf": {
+   "kommun": "norrtalje",
+   "datum": "2026-11-07",
+   "sha256": "30bde524b09836b5307a06ad1fa347f8023d14d5b41308c40484c375c37c07c9"
+  },
+  "nybro.se/wp-content/uploads/2020/12/kommunplan-2018.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "cc03feda5c6c2c7f7568167661d01b7a113d3e54fa79805e3b98aaae4c17aa08"
+  },
+  "nynashamn.se/download/18.6cb66e8f19d9a73e17916b82/1776686347200/dagordning%20barn-%20och%20utbildningsn%c3%a4mnden%202026-04-21.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nassjo.se/download/18.1c7bdf2d199e59b572e20be5/1762873470000/protokoll%20kommunfullm%c3%a4ktige%20den%2030%20oktober%202025.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "c4fa647ac602a2afbd8a47949a0f038dede2fd6af723a58ac990a8761b53862e"
+  },
+  "olofstrom.se/download/18.815b7be1900ff115de44ce/1757397617423/delegationsordning%20kommunstyrelsen.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "orsa.se/download/18.564794a419ed43cacf97b59a/1782387753301/kommunplan%202026.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "osby.se/download/18.1fbe9bba1a0e73007aba47/1790597703826/kommunstyrelsens%20individutskott%202026-09-28.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "robertsfors.se/download/18.4e5943e01927167b488460b0/1729662697206/protokoll%20bou%202022-11-07.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ronneby.se/download/18.1003f451a00e5619a8761b/1787033623368/kommunstyrelsen%202026-08-17%20%c2%a7%c2%a7%20187-190%20omedelbart%20justerat.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sandviken.se/download/18.8d8e7f819b2bd01f29795d/1769596196731/protokoll%20%c3%96verf%c3%b6rmyndarn%c3%a4mnden%20i%20v%c3%a4stra%20g%c3%a4strikland%202026-01-20.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sigtuna.se/download/18.712304531737be9129fddb6/1595926322929/pop-mal-och-budget-2020-2022-tillganglighetsanpassad.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "simrishamn.se/download/18.55d873b519c9887c909ec651/1773835433666/ks-protokoll%20260311.pdf": {
+   "kommun": "simrishamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.210e89091a162eb14274be45/1793348299844/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-10-27.pdf": {
+   "kommun": "sjobo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "skurup.se/download/18.372fd09d19c98b67b0cba6d0/1773651873782/ks%202026.11_kallelse%20kommunfullm%c3%a4ktige%202026-03-23.pdf": {
+   "kommun": "skurup",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "storuman.se/globalassets/fkun/protokoll-2026-10-26-signerat.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "8f71cb9ac1954d6b6ecfe4939b585d4edbeeda2005ae4032412b4e9a0b5cea2b"
+  },
+  "stromstad.se/download/18.43c9f6cd19c47948c722cf6e/1771353486082/f%c3%b6redragningslista%20med%20kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-02-24.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sundsvall.se/download/18.1d7d30f119efe220e451d4c7/1782458124419/protokoll%20kommunfullm%c3%a4ktige%202026-06-22%20%c2%a7%c2%a7%20123-140%20och%20143-151.pdf": {
+   "kommun": "sundsvall",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "surahammar.se/download/18.7506cf931a0fb7ed5043983/1791209781404/kallelse%20kf%202026-10-05.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svalov.se/download/18.35b6217817c119d563b30175/1634829563623/kf-20210927.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "svenljunga.se/download/18.f3679831809055e352a17/1653031269570/barn-%20och%20utbildningsn%c3%a4mndens%20verksamhetsplan%202021-2023.pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "43a1b406b3a92f5a2da97bed487a83b431a7e17c1e5583587a5a2fc0e535e859"
+  },
+  "saffle.se/download/18.4e1a93b016d8b57a91320c5b/1570687600965/budget%202020.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sater.se/wp-content/uploads/2026/04/protokoll-2026-04-15.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "72e69c613de0adbbceffd802a938e902453a5deb20e20c934b3e9babd7c3aa80"
+  },
+  "savsjo.se/download/18.3f6a1abe190585ac74a83b1/1720000791492/beslut%20kf%20verksamhetsplan%202024%20s%c3%a4vsj%c3%b6%20kommun.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "543e7181adcc4b7fba0a1ffbf658d1b23a00748cb86fb5c05d0b4a06899a5dc4"
+  },
+  "soderhamn.se/download/18.7b705b8b1a162f2f388950b/1793094014396/protokoll%20%c3%96fn%202026-08-18%20%c2%a7%c2%a7%2044-50.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/06-styrande-dokument/politik-reglementen-arbetsordning/reglemente-for-kommunstyrelsen-och-namnder-m-fl-_galler-fran-20270101.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "847006419132bc75529f2cd49aba7e8eabf65cf62171acb37909abbb9c2eabb7"
+  },
+  "tanum.se/download/18.35629f641a12f54bd3d15b7/1791870856811/tekniska%20n%c3%a4mnden%2019%20oktober%202026,%20med%20handlingar.pdf": {
+   "kommun": "tanum",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "tierp.se/download/18.4f617d3619d24d1a6a56b59/1776086090235/handlingar%20kf%202026-04-07.pdf": {
+   "kommun": "tierp",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "tjorn.se/download/18.273015e218fe7d3833510d9/1717593290455/socialdemokraternas%20och%20kristdemokraternas%20budgetf%c3%b6rslag%202025.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "torsas.se/wp-content/uploads/protokollau171017.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "8ed9c47f4ecee5f3c2e1373e8352fe2beda6e00489f247adc17c84dea1f90c7b"
+  },
+  "trelleborg.se/app/uploads/2023/11/bin-delegationsordning-for-bildningsnamnden-250917.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "trosa.se/app/uploads/2026/10/kallelse-med-handlingar-till-kommunfullmaktiges-sammantrade-2026-10-14.pdf": {
+   "kommun": "trosa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "ulricehamn.se/download/18.566ae8061a01f6a9cf1c1e18/1787812985624/%c3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-08-20.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "upplands-bro.se/download/18.518a2b9d184b916bc4e8162/1670946125309/kallelse%20kommunfullm%c3%a4ktige%202022-12-14%20.pdf": {
+   "kommun": "upplands-bro",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "uppvidinge.se/download/18.7dfc37cf19dd25bcdf3d9a4/1777963268144/kallelse%20hul%202026-05-04.pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaggeryd.se/download/18.2de4ca1f169fdf1827e543f/1554789111119/kallelse%20barn-%20och%20utbildningsn%c3%a4mndens%20arbetsutskott%20%202019-04-09.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxholm.se/download/18.51a2292e1900c66f38537ba3/1718604986912/budgetf%c3%b6rslag%20%20lvd%20%20till%20kf%202024-06-17.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vindeln.se/download/18.121c541d19c4e93ef372c1/1772203603063/protokoll%20kommunstyrelsen%20den%2024%20februari%202026.pdf": {
+   "kommun": "vindeln",
+   "datum": "2026-11-07",
+   "sha256": "3c99e299d87ec6d2d79ce7fb17c78222107676b41ec6fcc7609d8af69d4fe555"
+  },
+  "vannas.se/download/18.1e594eea181871db88612b/1656427649855/budget%202019-2020,%20plan%202021.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "varmdo.se/download/18.22e4ee451639ed6e2d8bfbe8/1528180762730/jaktr%c3%a4ttspolicy.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "vaxjo.se/download/18.2cc974e719ea57df6989293/1781002899016/utskick%20inf%c3%b6r%20slutlig%20antagning%20till%20gymnasiet%202026%20elev%20fr%c3%a5n%20annan%20kommun.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ydre.se/download/18.53a0669f180dc549367452/1668003769580/kallelse%20kf%202022-05-02.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "almhult.se/download/18.2eac78ea193953fe280913dc/1734354819007/budget%202025%20plan%202026-2027%20med%20bilagor.pdf": {
+   "kommun": "almhult",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvdalen.se/download/18.58bc16519e63557f169a0b0/1780608323083/protokoll%20barn-%20och%20utbildningsutskottet%202026-06-04%20signerat.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvkarleby.se/download/18.51fc507619c98a21b9c21e8f/1773828999156/ks_2026-03-12-protokoll%20kommunstyrelsen%202026-03-12.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "engelholm.se/download/18.649c78c3198c139573f35a/1755777486446/kallelse%20fun%202025-08-28.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "8c631ff03c4fef98cbc209c83e4692bb34a4970a0389175ab7bbd84c466df280"
+  },
+  "amal.se/download/18.78174f7c190a248d3368182a/1722952828856/beslut%20-%20202400215%20-%20ks%20-%20%c2%a7%20116.pub.pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "are.se/download/18.54f5ca0e1a16333a3601d0f/1792755020488/2026-10-22%20anslag%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "are",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "orkelljunga.se/download/18.87470fc19ddcaf3a207b29/1778148080429/kommunstyrelsen%202026-05-06.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ostragoinge.se/download/18.dee93a9193deb99a174076/1736339238203/kommunrevisionen-protokoll-2018-04-27.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "overkalix.se/media/h2vc3sly/kommunstyrelsens-protokoll-2026-04-07-26-49signeradpub.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "4c453920e69be2f81c32d285e9f0511273c905bd8c781f1b1faa727a7d01ef8d"
+  },
+  "arboga.se/download/18.64998a741961de73aa375952/1744730624736/12.1%20ks%202025-04-01%20%c2%a7%2059%20kompletteringsbudget%202025,%20arboga%20kommun.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "arvidsjaur.se/download/18.605f126519d43b5940b54dd/1781511446703/delegationsordning%20f%c3%b6r%20kommunstyrelsen%20(med%20bilagor).pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "askersund.se/download/18.77162fb1193953ff563be1f/1734436859282/protokoll%20%20mob%202024-12-12.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2026/protokoll-kommunstyrelsens-samhallsplaneringsutskott-28-april-2026.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "8d6628c61dbf024c5e06579e31e5108a1bec7da7472e1a7096adf3e746fe50b0"
+  },
+  "berg.se/download/18.29cb7d1319dba5e35fa157e1/1777463028980/kallelse%20f%c3%b6rstasida%20kommunstyrelsen%205%20maj%202026%20-%20uppdaterad.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjurholm.se/download/18.6004138119d9a6b31d013710/1777442710466/socialn%c3%a4mndens%20reglemente.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bjuv.se/download/18.69ac471819bbeca05c67f62e/1769692325202/protokoll%20un%20260128%20(1).pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bollebygd.se/download/18.600f38101a1631831095132/1793004453519/bmn-2026-716--internkontrollplan%20f%c3%b6r%20bygg-och%20milj%c3%b6n%c3%a4mnden%202027.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "botkyrka.se/download/18.21f1442d17ce4b6f17d17dcd/1638811958130/m%c3%a5l%20och%20budget%202022%20med%20fler%c3%a5rsplan%202023%20-%202025.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "bastad.se/download/18.767116d318b37dcb7384db6/1697547725002/bestammelser-om-pension-f%c3%b6r-anstallda.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "emmaboda.se/download/18.446fdf051a0d399295729d5/1791814505820/kommunfullm%c3%a4ktige%20protokoll%202026-09-28.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "3efc2821b47c88baaa6ba304b274846bb8d63d7d140a4f27958d8e34d61656b9"
+  },
+  "fagersta.se/download/18.49af114218d8762ff97101ce/1710158196255/2024-02-22.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "falkoping.se/download/18.70d1f82819d70e1e38c2158/1777467307081/protokoll%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-04-21.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "430093aee04b38b84d0f2e63d09c6efc4f3d5df7753524831e317383585b80b6"
+  },
+  "filipstad.se/download/18.d2968b719e4ad36e644ac77/1779461550288/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunstyrelsen%20den%202026-05-28.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "finspang.se/download/18.52c5d3ca19c193ca1341e323/1770044807954/2026-02-11%20kallelse%20med%20handlingar%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnesta.se/download/18.4d29998c1a0e7539ef981a3/1790684866530/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-10-01%20komplettering.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "gnosjo.se/download/18.377cf95819e808f998b3f92/1781611208663/protokoll%20kommunstyrelsen%202026-06-09.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "c43c31e42d1e531264db3894d371ce00db56466801f047be25a2896e90788502"
+  },
+  "grums.se/download/18.67eb62ee16db20b5fc5c0f/1571128071102/10%20oktober%20%c2%a7%c2%a7%2054-71.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "grastorp.se/download/18.2b9d495319fb73896f51995d/1788332471415/reglemente%20f%c3%b6r%20kommunstyrelsen%202027-2030.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "7f102731922e226b0a5ba26fc1b6ebce710665fa568f85f0027f6b363f26dc4c"
+  },
+  "gallivare.se/download/18.7fda751b19dcca0865d1fd1c/1777364259003/protokoll%20barn-%20och%20utbildningsn%c3%a4mnden%202026-04-23.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/ss134-ks-investerings-och-exploateringsbudget-2027-2030pdf?downloadmode=download": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "sha256": "3a912e9ed322abcb4c1febc170fbd5d3f4630049329743eeea2276c990c228ce"
+  },
+  "goteborg.se/wps/wcm/connect/e4bea429-128e-4891-8dbe-daadcfe2e06a/g%c3%b6teborgs+stads+avgifter+f%c3%b6r+f%c3%b6rskola+och+pedagogisk+omsorg+(giltig+fr%c3%a5n+1+juli).pdf?mod=ajperes": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "f1fae4bc2c0ad5db98ca1d61e9c6db3cb24f74c8fecdee46682dea98d9414a28"
+  },
+  "habo.se/download/18.1bde164619d24dbd771ad71f/1775476814662/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunfullm%c3%a4ktige%20den%202026-04-13.pdf": {
+   "kommun": "haabo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hallsberg.se/download/18.54f836cc19c935815581d70/1772806059472/2026-02-23%20-%20protokoll%20kf.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "haparanda.se/download/18.13c210f1193dec8a1fdf4d/1734685216953/protokoll%20bun%202023-11-08.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks260401--22-41.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "24ca8ed90543db6bb310e41c402b30aec8446cb557f3ed30eca66e1710da2c50"
+  },
+  "hofors.se/download/18.4ff4980818df866912c1987/1710238981768/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202024-03-18.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "685c062c17d2f42932319c4131a14e9801ef4b8a0d47a2f4611d8b7baa4cd73e"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkbqasgxhuk3jvfzdp3ox7sgtcm7&currentpageid=4.1fc96f7a15aa40b071a5e94&name=ks%202026-06-02%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "01fbce3b61643430cc05ac9aa5793af14e5a3ac808ae77bba8bb844b29903f3f"
+  },
+  "hultsfred.se/files/2026/01/kallelse-till-barn-och-utbildningsnamnden-2026-01-28.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "153df8f699ddce3887efbb5f7e2b3a9d4913a21a1c1339ec43f79af07170aa6b"
+  },
+  "herjedalen.se/download/18.1db4f0a19cf57db9b17986/1773741943896/protokoll%20kommunstyrelsen%2011%20mars%202026%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hassleholm.se/download/18.19542ccc19367f540c1151d7/1733760613576/kommunfullm%c3%a4ktiges%20kallelse%202024-12-09.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "hogsby.se/wp-content/uploads/sammantradesplan-2027.2-1.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "9ad784ccbbf1b609cad9766044c6f08cd88720c5eb618f590f0bac16a54f7f59"
+  },
+  "jokkmokk.se/media/oqcdysm2/protokoll-ks-20260601-signerat.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "38cb1a856fcd08276211bc06a85cf796b29be6a96eeb4ff9c7d20f8ec5b8bcd5"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/kultur--och-fritidsnamnden/2018/protokoll-kfn-2018-08-29-bilaga-5-budgetuppfoljning-juni-2018.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "7a09a23fa1dc1140db3441926b141a014af7fad8d967d7c2ff3b15b7d3b8552c"
+  },
+  "karlskoga.se/download/18.701fbcd21a170f26042a1a/1793088900526/%c3%84rende%2010.%20inkomna%20handlingar%20kf%202026-11-03.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "b71f3e3a3bbf9604840bd152f77b6b2b17a5ed5c62788e03ab811e92e6d5cb38"
+  },
+  "katrineholm.se/download/18.4eb6e3331a18c6e609c17d/1793360962745/kommunstyrelsens%20protokoll%202026-10-28.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kinda.se/download/18.676e9edb18acbac7e9648b66/1695823581641/utveckling%20kinda%202024-2027.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kiruna.se/download/18.1366b79c18d8738882f99/1707376528313/protokoll%20kommunfullm%c3%a4ktige%202024-02-05,%20extra.pdf": {
+   "kommun": "kiruna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kramfors.se/download/18.49d8e190199c902329d5c51/1760094268106/protokoll%20kommunfullm%c3%a4ktige%2029%20september.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.355451a71a163267086489fc/1793344703473/kommunfullm%c3%a4ktiges%20kallelse%202026-11-10.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "koping.se/download/18.166f07e319c6d70205fceffd/1771929396671/protokoll%20ks%202026-02-17.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laholm.se/download/18.49ac010a1a12f59cb9a1a11b/1792091197453/kommunstyrelsens%20protokoll%2020261013.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "laxa.se/download/18.4a624412166dd3d2be422eac/1541407789483/budget%20och%20verksamhetsplan%202016-%202018.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lillaedet.se/download/18.1da24d9c19d9a5b4dca8f99/1777297503902/protokoll%20bin%202026-04-21.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lindesberg.se/download/18.3f5bc47319e0253c8d21f9e/1778252317477/kallelse%20kommunfullm%c3%a4ktige%202026-05-18.pdf": {
+   "kommun": "lindesberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusdal.se/download/18.14feb22f1a01f72f83a159c1/1787666661423/protokoll%20un%202026-08-19%20signerat.pdf": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ljusnarsberg.se/download/18.1bb8891319c98b63847d595/1773152771999/kommunstyrelsen%20sammantr%c3%a4deshandlingar%202026-03-18.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "lysekil.se/download/18.328c32691a163168f7f1d10/1793345637863/programblad%20vt27%20marin%20servicetekniker%20l%c3%a4rling.pdf": {
+   "kommun": "lysekil",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "mullsjo.se/download/18.1c2b0b0f1762683c56beae9/1606991386510/granskning%20av%20verkst%c3%a4llighet%20av%20fullm%c3%a4ktigebeslut.pdf": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "morbylanga.se/wp-content/uploads/2023/05/webb-protokoll-sbn-230119.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "c62a2cd7253f84bd0de613bdf33de6502fbc341dfa828de0016dd8ef42a51c28"
+  },
+  "hedemora.se/wp-content/uploads/2026/01/protokoll-bildningsnamnden-2026-01-26-1-7-extra.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "10f9311a5dea59ebe1f5f5dcc171fce4574ae0e7a0edb08a3e44d9dda285ae8c"
+  },
+  "nordanstig.se/download/18.c9ab8701686e14dc6fa36a6/1548686485629/budget-2016--2019-kf-151109-kf-%c2%a7-123.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nordmaling.se/download/18.3ffef30919c4b122beb22d5e/1773128112898/kallelse%20kommunstyrelsen%20260316.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "59a77feda0e80cf2c114518f40dff5379b5e5d618c82acffcfd143b240544889"
+  },
+  "norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetsplan-bygg--och-miljonamnden-2025-2027.pdf": {
+   "kommun": "norrtalje",
+   "datum": "2026-11-07",
+   "sha256": "dd3dd75518e56d0ee8f34db06393a31c6b29afa080b67bd6093cfeca2cfc738a"
+  },
+  "nybro.se/wp-content/uploads/2020/12/kommunplan-2017-2019.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "310a25cd003cb290154c6198b0fc592a382d04dee286adf1c65fe8cb4a72ffb0"
+  },
+  "nynashamn.se/download/18.e996b4519cf59de51e8487/1773745900900/2026-03-24%20-%20dagordning%20-barn-%20och%20utbildningsn%c3%a4mnden.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "nassjo.se/download/18.488d168d199a7cecb564c2a/1759817810124/protokoll%20kommunfullm%c3%a4ktige%20den%2025%20september%202025.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "e2e60ff2112f4cd499fc0d0c387c7c7322e6423ae8cbf8b3d873a0ab120c57eb"
+  },
+  "orsa.se/download/18.51cb3e8619540d1c9f6122a/1782386995206/kommunplan%202025.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "osby.se/download/18.323cf7981a0adb1190d3ae8a/1790068322843/kommunfullm%c3%a4ktige%202026-09-14.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "robertsfors.se/download/18.4e5943e01927167b488460b4/1729662718008/protokoll%20bou%202021-01-25.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "ronneby.se/download/18.4c1c2a561a0422229e727d2d/1788264568032/kommunstyrelsen%202026-09-01%20%c2%a7%20239%20omedelbart%20justerad.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sandviken.se/download/18.382b0c8f19cff5da58d193/1773838624338/protokoll%20-%20%c3%96verf%c3%b6rmyndarn%c3%a4mnden%20i%20v%c3%a4stra%20g%c3%a4strikland,%202026-03-17.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "sigtuna.se/download/18.712304531737be9129fddb8/1595926323295/mal-och-budget-2019-2021-tillganglighetsanpassad.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "simrishamn.se/download/18.62e13f4c19e641f27bc488c0/1780660165491/anslag%20ks%20260603.pdf": {
+   "kommun": "simrishamn",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "kristianstad.se/download/18.2d6ee6901a0adad6f9b76353/1790759898446/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-09-29.pdf": {
+   "kommun": "sjobo",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "skurup.se/download/18.6be2659619bdff188fc6f2d4/1770020081544/ks%202026.10_kallelse%20kommunfullm%c3%a4ktige_wcag.pdf": {
+   "kommun": "skurup",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
   }
  }
 }

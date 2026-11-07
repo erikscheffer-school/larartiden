@@ -224,5 +224,95 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/03/Protokoll-fran-barn-och-utbildningsnamnden-2026-03-25.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "86718503524d64444d41bab5a3f59535ae46a63f66b173b04ab9bc744f3dd57d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a lokalytan och effektivisera organisationen, samt minska kostnaderna. Kostnader kopplade till Rönnvägen 13B • Årshyra 2026: 293 251 kronor • Statsbidrag 2025 (omsorg kväll/helg): 121 370 kronor • Återställningskostnad av utemiljö vid flytt Antal barn i omsorg under kvällar och helger Omsorgen nyttjas i dag",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "esdatum 2026-03-25 BUN § 29/2026 Meddelande 1. Skolverket Beslut om statsbidrag för införande av ämnesbetyg. Hultsfreds kommun beviljas 69 271 kronor för 2026. Beslut om statsbidrag för omsorg under tid då förskola",
+    "belopp_nara": true
+   },
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "3-25 • 4 skolbarn (6–12 år) • 4 förskolebarn i kö Samtliga bor i Hultsfreds tätort. Omsorgen är en frivillig service, men kommunen kan söka statsbidrag för varje erbjuden plats som omfattar minst 30 timmar per månad erbjuden – oavsett om barnet nyttjar hela tiden. Barnkonsekvensanalys Vid beslut som rör barn",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/02/Kallelse-till-barn-och-utbildningsnamnden-2026-02-25.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2c495a79d22ec138cbb47925aea6a7b1ca0ac1e23e59d1d2ea36295978497733",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/02/Protokoll-fran-barn-och-utbildningsnamnden-2026-02-25.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "820e680e6bf5262e9b8b50018b9a9de1e0cd8b082981687d0452827e584d70ff",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "srapport per 2025-08-31 med helårsprognos för drift- och investeringsbudget. 3. Barn- och utbildningsförvaltningen Ansökan om statsbidrag för lovskola 2026. Ansökan om statsbidrag för papperslösa barn 2026. Rekvisition av statsbidrag för kvalitetshöjande åtgärder i förskol",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 11
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/01/Kallelse-till-barn-och-utbildningsnamnden-2026-01-28.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "153df8f699ddce3887efbb5f7e2b3a9d4913a21a1c1339ec43f79af07170aa6b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

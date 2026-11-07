@@ -243,5 +243,140 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "http://www5.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/93ec9160f537fa30c12572aa004b6c1a/5cd6bde9236c986ac1258dd900526446/$FILE/8.%20TU%20Forandrad%20avgiftskonstruktion.002.pdf",
+  "titel": "Göteborgs Stad Grundskoleförvaltningen, tjänsteutlåtande 1 (4)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f4630cd4b4b50ab4ea90fa5f51959b6aa689c0ad55b576c0a76e79e00edbad8c",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "preliminära uppgifter som indikerar att avgifterna kan minska med 16,2 procent för vårdnadshavare i relation till nuvarande nivåer. Samtidigt höjs anslaget för statsbidraget för maxtaxa. För Göteborgs Stad innebär detta enligt preliminära uppgifter en ökning om cirka 57 miljoner kronor som ska fördelas mellan förskola och grundsk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Den utökade statsbidragsramen som beräknas tillföras grundskoleförvaltningen är 22 miljoner kronor som kompensation för de lägre avgiftsintäkterna, vilket också ska täcka kompensation",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "avgifter för grundläggande tjänster. Kommuner är inte skyldiga att tillämpa maxtaxa, däremot kan de få statsbidrag som kompensation om de väljer att göra det. Statsbidraget är avsett att täcka de kostnader som uppstår för kommunerna när de tillämpar denna avgiftsbegränsning. Kommunfullmäktige beslutade i juni 2001 att införa max",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www4.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/AF5CFBE75B3D5C19C1258E73004A7DE8/$File/12_bilagor_2_5.002.pdf?OpenElement=",
+  "titel": "Bilaga 2. Redovisning av vidtagna ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c4df57d26cdf72794b14df7068b07c351ffdff7d8effdbe72e795106f40a68b9",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid",
+   "undervisningstimmar"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "Inledning Syftet med denna rutin I skollagen regleras den garanterade undervisningstiden för elever i gymnasieskola och anpassad gymnasieskola. Undervisningstiden är en av skolans viktigaste resurser och en viss mängd undervisningstid är nödvändi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 10,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "ng, lärarlösa lektioner och självstudier. 10 Även om det inte finns några bestämmelser i lagar och förordningar om vad som inte ska räknas in i den garanterade undervisningstiden går det att få en del vägledning av förarbeten och utredningar; • Läsårets aktuella nationella prov, på bestämda provdatum, ska genomföras utöver e",
+    "belopp_nara": false
+   },
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rvisning (se definition i första stycket). • Huvudsakligen är restid på studieresor och friluftsdagar inte undervisning. Restid räknas bara som undervisningstid om det finns tydliga inslag av undervisning. • Prov och andra examinationsformer (inkl gamla nationella prov) räknas vanligen som undervisnings",
+    "belopp_nara": false
+   },
+   {
+    "sida": 14,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "2. Uppföljning om förra läsårets studenter nått upp till minsta garanterade undervisningstid under sina tre år. Uppföljningen jämför planerad tid i timplanen med genomförd tid från IST Analys per ämne. Den ger en bra hel",
+    "belopp_nara": false
+   },
+   {
+    "sida": 25,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "Lektion (punkt4 i bilden nedan). Filtrera bort de kurskoder som inte räknas som undervisning t.ex. Mentorstid och Nationella prov. (Läs rubriken Vad räknas som undervisningstid? och i bilaga 5 Anvisningar till schemaläggare) Det kan också vara till hjälp att ta fram undervisningsgrupp för att avgöra om timmar har varit stöd eller oml",
+    "belopp_nara": false
+   },
+   {
+    "sida": 37,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "följande två kumulativa villkor är uppfyllda: 1. Elevens begäran: Eleven (eller vårdnadshavare om eleven är under 18 år) måste explicit begära att få undervisningstiden minskad. Skolan får inte på eget initiativ tvinga fram en minskning eller korta schemat på grund av hög frånvaro. 2. Särskilda skäl: Rektor må",
+    "belopp_nara": false
+   },
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Dnr SI 2026:2211) Göteborgs kommun redovisar vidtagna åtgärder med anledning av Skolinspektionens beslut den 21 april 2026 om föreläggande avseende garanterad undervisningstid på introduktionsprogrammet vid Burgårdens gymnasium 2. Burgården 2 är dock inte längre den enhet som programmet drivs på, då verksamheten har flyttat över till",
+    "belopp_nara": false
+   },
+   {
+    "sida": 3,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Utbildningsförvaltningens rutin för planering och uppföljning av garanterad undervisningstid",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 219
+ },
+ {
+  "url": "https://goteborg.se/wps/wcm/connect/e4bea429-128e-4891-8dbe-daadcfe2e06a/G%C3%B6teborgs+Stads+avgifter+f%C3%B6r+f%C3%B6rskola+och+pedagogisk+omsorg+(giltig+fr%C3%A5n+1+juli).pdf?MOD=AJPERES",
+  "titel": "Göteborgs Stads avgifter för förskola och pedagogisk omsorg",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f1fae4bc2c0ad5db98ca1d61e9c6db3cb24f74c8fecdee46682dea98d9414a28",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m erbjudits förskola enligt 8 kap. 7 § skollagen får avgiften endast avse den del av verksamheten som överstiger 15 timmar per vecka. Förordning (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet Enligt förordning (2001:160) har kommuner som tillämpar maxtaxa rätt till statsbidrag. Avg",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

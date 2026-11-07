@@ -148,5 +148,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.47f0c2f219c1200b46b22fd/1770019533128/Verksamhetsplan%202026.pdf",
+  "titel": "Verksamhetsplan för 2026 med plan för 2027-2028\npdf, 1.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "74bb8b2d1c6c0bc9da3a099363ad32bbc937e51720f9a0a70200a4527d7ce82c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.47f0c2f219c1200b46b22f2/1770019462563/Verksamhetsplan%20S%C3%A4vsj%C3%B6%20kommun%202025.pdf",
+  "titel": "Verksamhetsplan för 2025 med plan för 2026-2027\npdf, 4.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "af25094f2d6e82a15cd6d98d3bbdb063c8b5686ead8e20e67885adfe1de7b595",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ådet fortsatt främst inom arbetet samverkan kring frånvaro och hemmasittare. Budget har äskats för att finansiera ett skolsocialt team, hälften finansieras via statsbidrag. Ett skolsocialt team måste bestå av två heltidstjänster, en från skolan och en från socialförvaltningen som samarbetar med individer med problematisk skolfrån",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.3f6a1abe190585ac74a83b1/1720000791492/Beslut%20KF%20Verksamhetsplan%202024%20S%C3%A4vsj%C3%B6%20kommun.pdf",
+  "titel": "Verksamhetsplan för 2024 med plan för 2025-2026\npdf, 5.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "543e7181adcc4b7fba0a1ffbf658d1b23a00748cb86fb5c05d0b4a06899a5dc4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 154,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 38,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "8 707 859 732 883 936 Välfärdsmiljarder - - flyktingvariabeln Skolmiljarden - Statsbidrag för god vård och omsorg av äldre - personer Integrationsbidrag för 4 500 högt flyktingmottagande Bidrag",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

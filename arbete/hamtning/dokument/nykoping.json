@@ -141,5 +141,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/styrande-dokument/organiserande/Reglemente-fr-revisionen/",
+  "titel": "Revisionen: Kommunen har det antal revisorer som efter allmänna val utses av fullmäktige för en mandatperiod. Revisorer är inte valbara till andra för",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "44a7af1cb0a1f9cf732d76f8fb1d49ac0520134914894a13ea1251c3d6faa1c5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

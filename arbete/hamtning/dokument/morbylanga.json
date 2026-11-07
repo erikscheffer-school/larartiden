@@ -209,5 +209,73 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2024/03/verksamhetsplan-med-budget-2020.pdf",
+  "titel": "Verksamhetsplan med budget 2020",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "58500162a36f1de61fd795c30062777d548fbd834f39ccb88c27fe417b1cee83",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "500 - - Ramökning skolskjuts, taxi 150 Kompensation avslutat statsbidrag, Fritidshemssatsning 948 - - Del av generellt statsbidrag, Skolstart 6 års ålder",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2026/09/kungorelse-007.pdf",
+  "titel": "Kungörelse om slutlig rösträkning efter valen till riksdag, kommunfullmäktige och regionfullmäktige",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "66ecd26ebfee9318942d5635a49d388d1e76b389b69872040adc3d980cffb7de",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2023/12/bildningsnamndens-reglemente.pdf",
+  "titel": "Bildningsnämndens reglemente",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "38cd7e774aa1cdfed074c2df5e10d1b94b0edc346bd728d611e09b9952a90ef4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2023/05/webb-protokoll-sbn-230119.pdf",
+  "titel": "Protokoll SBN 230119Protokoll SBN 230216Protokoll SBN 230323Protokoll SBN 230420Protokoll SBN 230525Protokoll SBN 230622Protokoll SBN 230824Protokoll ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c62a2cd7253f84bd0de613bdf33de6502fbc341dfa828de0016dd8ef42a51c28",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

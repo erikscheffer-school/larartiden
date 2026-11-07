@@ -171,5 +171,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/fkun_2024_91-fkuns-taxor-och-avgifter-2025.pdf",
+  "titel": "Här hittar du fritids-, kultur- och utbildningsförvaltningens taxor och avgifter. Taxor och avgifter 2025 Taxor och avgifter 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "18e0ba721207de654a819b504bd15e9f4b7170e9d8a875bd35a1fb25cc675ed9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkuns-taxor-och-avgifter-2026.pdf",
+  "titel": "Här hittar du fritids-, kultur- och utbildningsförvaltningens taxor och avgifter. Taxor och avgifter 2025 Taxor och avgifter 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "90771694cf41f5c914ae7d6cd1c29753287986fbc9d0016cebdbc295a5222045",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-2026-10-26-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8f71cb9ac1954d6b6ecfe4939b585d4edbeeda2005ae4032412b4e9a0b5cea2b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -119,5 +119,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/0zfpazic/kommunfullmaktiges-protokoll-20260615-27-41.pdf",
+  "titel": "KF 2026-06-15 §§ 27-41 Skapad: 2026-06-23 Filtyp: pdf (1,22 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "35e6c530404031bfaf89fdf8644b4c720774969d578f35d7a5fe2fbb7fcc22cf",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/mgqabr3w/kf-2027-04-27-11-26.pdf",
+  "titel": "KF 2027-04-27 §§ 11-26 Skapad: 2026-04-30 Filtyp: pdf (1,21 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b5e97fdb491dc556ad604b4a64c05500ec429740782df9c9ac5b1abe77e5ff1c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/h2vc3sly/kommunstyrelsens-protokoll-2026-04-07-26-49signeradpub.pdf",
+  "titel": "KS 2026-04-07 §§ 26-49 Skapad: 2026-04-09 Filtyp: pdf (1,22 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4c453920e69be2f81c32d285e9f0511273c905bd8c781f1b1faa727a7d01ef8d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 48,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -88,5 +88,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-08-31.pdf",
+  "titel": "Protokoll Demokratiberedningen 2020-08-31",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "945dadf9c3af939a2ebf4dea1a517de2df0c0efb1411b74565a7353b75b05775",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-11-16.pdf",
+  "titel": "Protokoll Demokratiberedningen 2020-11-16",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0e60517b3d4463158c19590b748e69029773170928fbecc1783baa73a7d0c636",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/06-styrande-dokument/politik-reglementen-arbetsordning/reglemente-for-kommunstyrelsen-och-namnder-m-fl-_galler-fran-20270101.pdf",
+  "titel": "Reglemente för kommunstyrelsen, nämnder, beredningar och kommunens revisorer gäller från och med 2027-01-01, pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "847006419132bc75529f2cd49aba7e8eabf65cf62171acb37909abbb9c2eabb7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

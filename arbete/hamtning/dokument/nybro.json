@@ -186,5 +186,81 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2020-2022.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6bbd06de92e6731a6b410a9f3bce362c9e60ae2e3eda7b98e44ce2f3cf789b6c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nfattas några av satsningarna från Sveriges Kommuner och Landstings cirkulär 19:18:  475 miljoner kronor satsas på lärarassistenter inom skolan.  Statsbidraget till kommuner med socioekonomiskt utsatta områden förstärks med 321 miljoner kronor.  Två riktade statsbidrag till äldre slopas: 200 miljoner",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2019-2021.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b9c7113eefd6799e6720de9ca7f58f7d0ff00d8ca6a409e81694ef5dd7ab9745",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2018.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cc03feda5c6c2c7f7568167661d01b7a113d3e54fa79805e3b98aaae4c17aa08",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2020/12/Kommunplan-2017-2019.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "310a25cd003cb290154c6198b0fc592a382d04dee286adf1c65fe8cb4a72ffb0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r och helger. Vi ser gärna även att man tittar på en lösning i hemmiljö. . (Ändringsyrkande från S och under förutsättning att Nybro kommun tilldelas det extra statsbidrag som utlovats men ännu inte beslutats.) 2017:4 Att göra ett generellt lärarlönelyft för de lärare som inte får ta del av det statliga lärarlönelyftet Nybro är",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

@@ -104,5 +104,83 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/09/protokoll-2026-09-09.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-09-09",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "30d308e4ac119a72c7eb92e07f9d528a6f14ad03c825c9ce13e76309ebf7232b",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "at om verksamheten vid Dahlander kunskapscentrum följer gällande bestämmelser om individuella studieplaner och garanterad undervisningstid. Tillsynen har omfattat intervjuer med elever, lärare, personal i elevhälsan och rektorn samt lektionsobservationer mell",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/05/protokoll-2026-05-12.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-05-12",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "024e8c5508051127c9796ffb52dbf271ea43edac3276c62349f6c5e76a23dd7f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "uppgår avgiftsreduktionen för förskola till 1 230 kr/månad och till fritidshem 820 kr/månad. Bakgrund Statsbidraget för maxtaxa 2026 har förstärkts för att möjliggöra sänkta avgifter i förskola och fritidshem från och med den 1 juli 2026. För Säters komm",
+    "belopp_nara": true
+   },
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erkansavtalet. Den föreslagna revideringen innebär istället att en ersättningsprincip baserad på Skolverkets fastställda statsbidragsnivåer. Förändringen bedöms skapa ökad förutsägbarhet, bättre ekonomisk stabilitet och mer ändamålsenliga planeringsförut",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/04/protokoll-2026-04-15.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-04-15",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "72e69c613de0adbbceffd802a938e902453a5deb20e20c934b3e9babd7c3aa80",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 15,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "tabsfunktionen samt stundande fastighetsprojekt. Just nu finns ingen hänsyn taget till den reglering av lärares maximala undervisningstid, som beräknas träda i kraft HT 2027. Utöver ovanstående behöver IKE- och IT-kostnader inför 2027 ses över inför nästa år",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

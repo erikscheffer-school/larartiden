@@ -182,5 +182,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.2e942b1f184c9fc534dc6c/1671198654835/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202023-2025.pdf",
+  "titel": "Barn- och utbildningsnämndens Verksamhetsplan 2023-2025.pdf Pdf, 813 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b60ed7f769a7ec9333e4991c4288baa6f88b9dd7a872d31288cdca7bc2c785ef",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lan, vilket i sin tur medför en ökning i kostnader. Under pandemin har förvaltningen haft extern finansiering i form av statsbidrag. Dessa statsbidrag har stöttat upp ekonomin inom grundskolan, men försvinner från och med år 2023. Förvaltningen behöve",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.f3679831809055e352a15/1653031269173/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202022-2024.pdf",
+  "titel": "Barn- och utbildningsnämndens Verksamhetsplan 2022-2024.pdf Pdf, 431 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "076cc8e379cb53f43e3ef8125ba10674fa43b935179666d15d943a7e3f70a32f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.f3679831809055e352a17/1653031269570/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202021-2023.pdf",
+  "titel": "Barn- och utbildningsnämndens Verksamhetsplan 2021-2023.pdf Pdf, 999 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "43a1b406b3a92f5a2da97bed487a83b431a7e17c1e5583587a5a2fc0e535e859",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "m att minska antalet elevassistenter på skolorna. Förvaltningen har valt att satsa på specialpedagogisk kompetens och utökat antalet specialpedagoger. Lärartätheten i Svenljunga kommun ligger något under riks- och kommungruppssnittet. Den nuvarande skolorganisationen och det ökade antalet garanterade un",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

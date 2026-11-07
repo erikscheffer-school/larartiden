@@ -259,5 +259,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2026/kommunstyrelsens-samhallsplaneringsutskott-2026-03-30.pdf",
+  "titel": "2026-01-12 2026-02-23 2026-03-30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "df8f6a2ad1bcd53b6245b592b807ca0150b0f2e35ddfd73fe2f87b5d90373857",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2026/protokoll-kommunstyrelsens-samhallsplaneringsutskott-28-april-2026.pdf",
+  "titel": "2026-04-28 2026-05-18 2026-06-22",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8d6628c61dbf024c5e06579e31e5108a1bec7da7472e1a7096adf3e746fe50b0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

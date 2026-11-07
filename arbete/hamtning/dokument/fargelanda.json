@@ -68,5 +68,37 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://fargelanda.se/media/uwxhtcgu/kallelse-kommunstyrelsen-2026-06-10.pdf",
+  "titel": "Beslutsinstans: Kommunstyrelsen Datum och tid: onsdag 10 juni 2026 Kl. 08:30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a059cf6f0f3a5e38c308968508fed56cb35d4ddba90d88223a9e7c4becb968e7",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 444,
+  "nämner_reformen": true,
+  "ord": [
+   "reglerad undervisnings- och planeringstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 266,
+    "ord": "reglerad undervisnings- och planeringstid",
+    "reform": true,
+    "utdrag": "kommer fortsatt att vara ett centralt verktyg för budgetbalans. Nationella reformer 2025–2028, bland annat nya läroplaner, nytt betygssystem, mobilförbud och reglerad undervisnings- och planeringstid, kan medföra ökade resursbehov. 5.4 Socialnämnden Verksamhetsbeskrivning Sida 266 av 443",
+    "belopp_nara": false
+   },
+   {
+    "sida": 248,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "S:a generella st at sbidrag och ut jämning 157 717 157 839 157 717 157 839 Specifikation generel la statsbidrag Periodisering Belopp, tkr, 2025 Skolor mot brott Allt intäktsfört 32 7",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

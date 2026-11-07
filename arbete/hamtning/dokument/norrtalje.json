@@ -77,5 +77,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/mal-och-budget-2025-2027_revidering.pdf",
+  "titel": "Mål och budget 2025–2027 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "30bde524b09836b5307a06ad1fa347f8023d14d5b41308c40484c375c37c07c9",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 113,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "i förskola och skola eller äldre personer som behöver stöd. Kommunstyrelsen har genom kommunstyrelsekontoret gjort prognoser på bland annat skatteintäkter och statsbidrag, prisuppräkningar och kapitalkostnader. Prognoserna används för att beräkna kommunens kommande intäkter och kostnader. Med utgångspunkt i prognoser och ekonomi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 72,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola eller fritidshem eller omsorg som erbjuds under tid då förskola eller fritidshem inte erbjuds. Kommuner som tillämpar maxtaxa kan enligt bestämmelserna få statsbidrag. Skolverket ska senast den 1 december året före bidragsåret lämna uppgift till varje kommun om högsta avgiftsgrundande inkomst per månad och det högsta avgifts",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetsplan-bygg--och-miljonamnden-2025-2027.pdf",
+  "titel": "Verksamhetsplan Bygg- och miljönämnden (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dd3dd75518e56d0ee8f34db06393a31c6b29afa080b67bd6093cfeca2cfc738a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

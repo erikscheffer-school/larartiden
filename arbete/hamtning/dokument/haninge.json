@@ -179,5 +179,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/492fa3/siteassets/dokument/blanketter/kommunstyrelseforvaltningen-ksf/blankett-ksf154-ersattning-for-forlorad-arbetsinkomst.pdf",
+  "titel": "Blankett ersättning för förlorad arbetsinkomst.pdf (PDF, 0,24 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5c81b6f0aa711879e56fa0255f5409270d7f10b615bda2ce6ad414e52143dd5d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/492fa3/siteassets/dokument/blanketter/kommunstyrelseforvaltningen-ksf/blankett-ksf155-sammantradesarvode-for-vissa-organ.pdf",
+  "titel": "Blankett sammanträdesarvode för vissa organ.pdf (PDF, 0,37 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "48e20336c6c0a4bcec6114037deb45ebc713a98963626b0803f02cc9468b8dff",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

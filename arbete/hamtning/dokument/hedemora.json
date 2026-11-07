@@ -73,5 +73,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/04/kf-kungorelse-2026-04-28.pdf",
+  "titel": "Kommunfullmäktige",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "704eb9a181e6fa730a510f329ebe50a7d4273865c1361d995441b9c7fee9a9aa",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 394,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

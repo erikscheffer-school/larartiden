@@ -74,5 +74,136 @@
   "träffar": [],
   "antal_träffar": 0,
   "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.2189039319cdecc79b43c8/1776176051541/Kallelse%20kommunfullm%C3%A4ktige%2020%20april%202026.pdf",
+  "titel": "Kallelse kommunfullmäktige 20 april 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "285fb0edc0922c5224f37a9b5d8e15903797b8cb5d054bd2626e7045d814452b",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 1044,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 113,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "prestationsbaserade medel i syfte att minska andelen timanställda inom kommunalt finansierad vård och omsorg om äldre 2023, 556 tkr från prestationsbaserade statsbidraget utöka sjuksköterskebemanning på särskilda boenden 2023 samt 27 tkr från statsbidraget medel för skolor mot brott. Not 7 Finansiella intäkter",
+    "belopp_nara": true
+   },
+   {
+    "sida": 207,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "prestationsbaserade medel i syfte att minska andelen timanställda inom kommunalt finansierad vård och omsorg om äldre 2023, 556 tkr från prestationsbaserade statsbidraget utöka sjuksköterskebemanning på särskilda boenden 2023 samt 27 tkr från statsbidraget medel för skolor mot brott. Not 7 Finansiella intäkter",
+    "belopp_nara": true
+   },
+   {
+    "sida": 169,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommande år. 9 Fortsatt näringslivsarbete som idag 200 Mötesplatser och företagsbesök, samverkan skolan bekostas av statsbidrag och och näringsliv, Kommunikation och information inom projektpengar näringsliv. Nyttjad till lit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 170,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iala teamet - Förebyggande 312 Pausas under hösten utifrån besparing, 3 arbete barn och unga verksamheten nyttjar statsbidrag i stället. 4 Utökning rektorstjänsten Komvux 102 Kopplat till 0,1 rektorstjänst 5 Arbetsskor 165 Klart,",
+    "belopp_nara": false
+   },
+   {
+    "sida": 263,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommande år. 9 Fortsatt näringslivsarbete som idag 200 Mötesplatser och företagsbesök, samverkan skolan bekostas av statsbidrag och och näringsliv, Kommunikation och information inom projektpengar näringsliv. Nyttjad till lit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 264,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iala teamet - Förebyggande 312 Pausas under hösten utifrån besparing, 3 arbete barn och unga verksamheten nyttjar statsbidrag i stället. 4 Utökning rektorstjänsten Komvux 102 Kopplat till 0,1 rektorstjänst 5 Arbetsskor 165 Klart,",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.1f18b20919d92ce2cb264/1776450429333/NY%20Omformaterad%20kallelse%20kommunfullm%C3%A4ktige%2020%20april%202026.pdf",
+  "titel": "NY Omformaterad kallelse kommunfullmäktige 20 april 2026.pdf Pdf, 49 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "136fade84121440a385642266eed3645c41b40992354656bf65ed2f6f14441af",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1053,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 117,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "prestationsbaserade medel i syfte att minska andelen timanställda inom kommunalt finansierad vård och omsorg om äldre 2023, 556 tkr från prestationsbaserade statsbidraget utöka sjuksköterskebemanning på särskilda boenden 2023 samt 27 tkr från statsbidraget medel för skolor mot brott. Not 7 Finansiella intäkter",
+    "belopp_nara": true
+   },
+   {
+    "sida": 211,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "prestationsbaserade medel i syfte att minska andelen timanställda inom kommunalt finansierad vård och omsorg om äldre 2023, 556 tkr från prestationsbaserade statsbidraget utöka sjuksköterskebemanning på särskilda boenden 2023 samt 27 tkr från statsbidraget medel för skolor mot brott. Not 7 Finansiella intäkter",
+    "belopp_nara": true
+   },
+   {
+    "sida": 173,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommande år. 9 Fortsatt näringslivsarbete som idag 200 Mötesplatser och företagsbesök, samverkan skolan bekostas av statsbidrag och och näringsliv, Kommunikation och information inom projektpengar näringsliv. Nyttjad till lit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 174,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iala teamet - Förebyggande 312 Pausas under hösten utifrån besparing, 3 arbete barn och unga verksamheten nyttjar statsbidrag i stället. 4 Utökning rektorstjänsten Komvux 102 Kopplat till 0,1 rektorstjänst 5 Arbetsskor 165 Klart,",
+    "belopp_nara": false
+   },
+   {
+    "sida": 267,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommande år. 9 Fortsatt näringslivsarbete som idag 200 Mötesplatser och företagsbesök, samverkan skolan bekostas av statsbidrag och och näringsliv, Kommunikation och information inom projektpengar näringsliv. Nyttjad till lit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 268,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iala teamet - Förebyggande 312 Pausas under hösten utifrån besparing, 3 arbete barn och unga verksamheten nyttjar statsbidrag i stället. 4 Utökning rektorstjänsten Komvux 102 Kopplat till 0,1 rektorstjänst 5 Arbetsskor 165 Klart,",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.121c541d19c4e93ef372c1/1772203603063/Protokoll%20kommunstyrelsen%20den%2024%20februari%202026.pdf",
+  "titel": "Protokoll kommunstyrelsen den 24 februari 2026.pdf Pdf, 1.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3c99e299d87ec6d2d79ce7fb17c78222107676b41ec6fcc7609d8af69d4fe555",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -149,5 +149,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.26a3fd58195b8a67f179d55/1752843912312/Kallelse%20FUN%202025-07-30.pdf",
+  "titel": "FUN ärendelista 2025-07-30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4603cc323eba3eca33a340b70897a9ba092a4933037cbc42dd6346238015ce24",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.26a3fd58195b8a67f17a336/1753949437043/FUN%202025-07-30%20Protokoll.pdf",
+  "titel": "FUN protokoll 2025-07-30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "79e38eff90d6fb98912df71a3c9fa94f825f66dc378ca32a8dbbbb69af8f0f24",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.engelholm.se/download/18.649c78c3198c139573f35a/1755777486446/Kallelse%20FUN%202025-08-28.pdf",
+  "titel": "FUN ärendelista 2025-08-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8c631ff03c4fef98cbc209c83e4692bb34a4970a0389175ab7bbd84c466df280",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]
