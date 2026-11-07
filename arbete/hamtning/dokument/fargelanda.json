@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://fargelanda.se/media/u53hzeed/kallelse-kommunfullmaktige-2026-04-22.pdf",
+  "titel": "Kommunfullmäktige Datum och tid: onsdag 22 april 2026 ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9deee73b8ac03948182527e53bfaa684a17ba908f14edd9fdb43e3b5c0981b7d",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 286,
+  "nämner_reformen": true,
+  "ord": [
+   "planeringstid",
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "undervisningstid",
+    "utdrag": "nde struktur innebär att barnen tvingas till tidskrävande busstransporter till Högsäter för gymnastik och slöjd, vilket splittrar skoldagen och stjäl värdefull undervisningstid. Sedan 2020 är Barnkonventionen svensk lag, vilket ställer höga krav på att vi som beslutsfattare ser till barnets bästa och säkrar en likvärdig skolgång. Sve",
+    "belopp_nara": false
+   },
+   {
+    "sida": 110,
+    "ord": "planeringstid",
+    "utdrag": "t centralt verktyg för budgetbalans. Nationella reformer 2025–2028, bland annat nya läroplaner, nytt betygssystem, mobilförbud och reglerad undervisnings- och planeringstid, kan medföra ökade resursbehov. Sida 110 av 285",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.dagenssamhalle.se/offentlig-ekonomi/kommunal-ekonomi/fargelanda-ska-spara-10-miljoner/",
+  "titel": "Färgelanda kommun genomför besparingar på 10 miljoner - Dagens Samhälle",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b88a79fdb6501fa4149eb0bd420ba829f37cc0894b3b58c53f544de4ea9263b5",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://fargelanda.se/media/1a4hntww/kallelse-utbildningsnamnden-2026-03-31.pdf",
+  "titel": "Beslutsinstans: Utbildningsnämnden Datum och tid:",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "33ba8bce99c11020c20a1fbbb550b984a184adca0cc3c0d8e6c1ec8d7ac3baa4",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 103,
+  "nämner_reformen": false,
+  "ord": [
+   "statsbidrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 72,
+    "ord": "statsbidrag",
+    "utdrag": "Dalsland pågår med fokus på tidigt samordnade insatser över huvudmannagränser. Ekonomisk tilldelning Förskoleverksamhetens intäkter för taxor, statsbidrag, momsbidrag och verksamhetsförsäljning uppgår till 6 440 tkr för 2026. Intäktsnivån beräknas öka med 798 tkr i budget. Den tilldelade budgetramen fö",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.ekero.se/download/18.455ec01b19f85d001ca8d176/1786354753180/Dagvattenutredning%20Stenhamra%20norra.pdf",
+  "titel": "Rapport DAGVATTENUTREDNING FÖR STOCKBY 3:13 OCH 4:41 FÄRINGSÖ,",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "356a2dfe4277cea307d6d2c3356f79f6b34c53319449e5258d2aeefc82515e94",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mitti.se/nyheter/klart-sd-tar-plats-i-ekeros-nya-styre-6.3.392107.bc00d0b171",
+  "titel": "Klart: SD tar plats i Ekerös nya styre | Mitt i",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "867792550ff3cac8e3f9667fcab8275663d62acedccc10265edc731187da3260",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommunkartan.se/karta/ekero-kommun/465852/",
+  "titel": "Lokalförsörjningsplan 2027–2035 | Ekerö 2026 | Svanängens IP",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7f9c454e395ad20e87dd3f11b7c292351b7d86165caa6a748bbc88ff8e12245b",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

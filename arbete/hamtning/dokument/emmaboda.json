@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.emmaboda.se/download/18.5080449519bdc2ee84b5d93/1770977263005/Kommunstyrelsen%20protokoll%202026-02-10%20signerat.pdf",
+  "titel": "Sammanträdesprotokoll 1 (37) Kommunstyrelsen 2026-02-10 Justerande",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd980bf528654a1f2528132807ffe57f8c580266647f454024dd537e1d6d6f13",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.emmaboda.se/download/18.3e31647d19cfc90e1281572/1774976307730/%C3%85rsredovisning%202025.pdf",
+  "titel": "Årsredovisning 2025.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "374b3b9b8385a7dddd5b5d317044782bf8910886d05562020befa62b495bf4a2",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 62,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

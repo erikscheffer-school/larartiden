@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://finspang.se/download/18.575f780b19d9a4b2cd0bf7d3/1777386419420/2026-04-23%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kommunfullmäktige Protokoll 1 (63) Sammanträdesdatum 2026-04-23 Plats och tid:",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cd5f5328ddde072e92884683b5b721abe5163ad5dd7af9ca3d052c1a163b9636",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 64,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skollovet.se/kommun/finspang/",
+  "titel": "Skollov Finspång 2026/2027: läsårstider, sportlov, påsklov",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b463ba5a68d415fb0058cd2bfee66ddd9f483bc504afff4c9447324722bdbfeb",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.edu.se/kommuner/finspang/lasarstider",
+  "titel": "Läsårstider Finspång 2026/2027 – lov och prov – EDU.se",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "f3cabc194dcb8b2696c3e27398787261a7916f2906e1fd46b88b080576561b34",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skollov-se.se/finspang",
+  "titel": "Skollov Finspång | Skollov SE",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ae1f32fac7d27463218019c6bf45d3c58c7351d5b2e4be11017d9a412982466a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

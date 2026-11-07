@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.gislaved.se/download/18.46abb3a619ef0d81a5d2556/1782455490019/Pensionspolicy,%20antagen%20den%2022%20juni%202026.pdf",
+  "titel": "Pensionspolicy, antagen den 22 juni 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "598ad884f96f1220a9f71275ee60b2857c5b54b8d71ba625ffc54737503529f1",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gislaved.se/download/18.5ab7590519d1eab7dcb99d/1774358870520/Handlingsplan%20N%C3%A4ringslivsprogram.pdf",
+  "titel": "Handlingsplan kopplat till näringslivsprogrammet Version: 2026-03-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "572c57bca1fa981e9539aaec6b8af3ad3b6db6d5577e86c95170e3936521cb2b",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gislaved.se/utbildning-och-barnomsorg/forskola/allman-forskola",
+  "titel": "Allmän förskola | Gislaveds kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "b22c8e739af66f800c99e76b2361678c17660a10a4c54dff7c9e0a03b92b85aa",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

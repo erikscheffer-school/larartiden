@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.bjurholm.se/download/18.6ec5c3f319b2c01e8777c02a/1770196824094/KS%20Protokoll%20260203.pdf",
+  "titel": "BJURHOLMS KOMMUN PROTOKOLL Sammanträdesdatum Kommunstyrelsen 2026-02-03 1 (13)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a2f17548cf7a4a1b7724776fd8af68adb55ac4335add88157e8d62e31c26ed6f",
+  "sökning": 1,
+  "budget2027": true,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjurholm.se/download/18.6f80686519e48d47eaf7d7d/1779693259031/%C3%84rende%2015%20%C3%96P%20Bjurholm%20-%20planhandling%20samr%C3%A5d.pdf",
+  "titel": "Översiktsplan Bjurholms kommun 2040",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "449d6e136f99a7b135e2a87eeea14f54b18de7ec6e953ef59f9e6b1727d77efa",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjurholm.se/download/18.6004138119d9a6b31d07d21/1776849072687/KF%20Protokoll%20260420.pdf",
+  "titel": "BJURHOLMS KOMMUN PROTOKOLL Sammanträdesdatum Sid. Kommunfullmäktige 2026-04-20",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6e23e68776a6c93439fabefdc0c94d7619841dec180385ffaf842e33834fc899",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjurholm.se/om-webbplatsen/nyheter/nyhetsarkiv/2026-03-10-vart-framtida-bjurholm",
+  "titel": "Vårt framtida Bjurholm | Bjurholm kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7090ae506778912199c6452ad8cdec6aebe6cd0d63371352a17a8582096b4744",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

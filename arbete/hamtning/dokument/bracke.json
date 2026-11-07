@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.bracke.se/download/18.7454b4e719d866db8787c77/1776253216779/Uppf%C3%B6ljande%20granskning%20kompetensf%C3%B6rs%C3%B6rjning%20och%20fordonsnyttjande.pdf",
+  "titel": "Bräcke kommuns revisorer Bräcke kommun Kommunfullmäktiges presidium 2026-03-30",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5d9d423e3689e29f535d675c44d6f0d98dffc83539a5ff051a6513156f942931",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jamtlandstidning.se/braecke-jt26v13-placed/sparfoerslag-pa-30-miljoner-kronor-i-braecke-kommun/304905",
+  "titel": "(+) Sparförslag på 30 miljoner kronor i Bräcke kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "477313c4eb1667eb1ac7973bfd5538faad7a8295f062c031e131117ade221f7e",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jamtlandstidning.se/braecke-jt26v21-kultur/braecke-utreder-nedlaeggning-av-kulturskolan/311366",
+  "titel": "(+) Bräcke utreder nedläggning av kulturskolan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "f3212f2124265e9d21057988a765cd1e01cf816c5e4e00be0994fe752b466f4c",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

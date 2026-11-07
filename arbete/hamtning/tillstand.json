@@ -1,0 +1,1131 @@
+{
+ "kommuner": {
+  "ale": {
+   "senast_sokt": "2026-11-07"
+  },
+  "arboga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "arvidsjaur": {
+   "senast_sokt": "2026-11-07"
+  },
+  "arvika": {
+   "senast_sokt": "2026-11-07"
+  },
+  "askersund": {
+   "senast_sokt": "2026-11-07"
+  },
+  "avesta": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bengtsfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "berg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bjurholm": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bjuv": {
+   "senast_sokt": "2026-11-07"
+  },
+  "boden": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bollebygd": {
+   "senast_sokt": "2026-11-07"
+  },
+  "boras": {
+   "senast_sokt": "2026-11-07"
+  },
+  "botkyrka": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bracke": {
+   "senast_sokt": "2026-11-07"
+  },
+  "bastad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "degerfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "dorotea": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ekero": {
+   "senast_sokt": "2026-11-07"
+  },
+  "emmaboda": {
+   "senast_sokt": "2026-11-07"
+  },
+  "enkoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "eslov": {
+   "senast_sokt": "2026-11-07"
+  },
+  "essunga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "fagersta": {
+   "senast_sokt": "2026-11-07"
+  },
+  "falkoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "filipstad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "finspang": {
+   "senast_sokt": "2026-11-07"
+  },
+  "flen": {
+   "senast_sokt": "2026-11-07"
+  },
+  "forshaga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "fargelanda": {
+   "senast_sokt": "2026-11-07"
+  },
+  "gislaved": {
+   "senast_sokt": "2026-11-07"
+  },
+  "gnesta": {
+   "senast_sokt": "2026-11-07"
+  },
+  "gnosjo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "grums": {
+   "senast_sokt": "2026-11-07"
+  },
+  "grastorp": {
+   "senast_sokt": "2026-11-07"
+  },
+  "gallivare": {
+   "senast_sokt": "2026-11-07"
+  },
+  "gavle": {
+   "senast_sokt": "2026-11-07"
+  },
+  "goteborg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "habo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hallsberg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "halmstad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hammaro": {
+   "senast_sokt": "2026-11-07"
+  },
+  "haninge": {
+   "senast_sokt": "2026-11-07"
+  },
+  "haparanda": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hedemora": {
+   "senast_sokt": "2026-11-07"
+  },
+  "herrljunga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hjo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hofors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hudiksvall": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hultsfred": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hylte": {
+   "senast_sokt": "2026-11-07"
+  },
+  "harjedalen": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hassleholm": {
+   "senast_sokt": "2026-11-07"
+  },
+  "haabo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hoganas": {
+   "senast_sokt": "2026-11-07"
+  },
+  "hogsby": {
+   "senast_sokt": "2026-11-07"
+  },
+  "jokkmokk": {
+   "senast_sokt": "2026-11-07"
+  },
+  "jarfalla": {
+   "senast_sokt": "2026-11-07"
+  },
+  "jonkoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kalmar": {
+   "senast_sokt": "2026-11-07"
+  },
+  "karlsborg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "karlskoga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "karlstad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "katrineholm": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kinda": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kiruna": {
+   "senast_sokt": "2026-11-07"
+  },
+  "klippan": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kramfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kristianstad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kristinehamn": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kumla": {
+   "senast_sokt": "2026-11-07"
+  },
+  "kavlinge": {
+   "senast_sokt": "2026-11-07"
+  },
+  "koping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "laholm": {
+   "senast_sokt": "2026-11-07"
+  },
+  "landskrona": {
+   "senast_sokt": "2026-11-07"
+  },
+  "laxa": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lekeberg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "leksand": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lerum": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lidingo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lidkoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lilla-edet": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lindesberg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "linkoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ljungby": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ljusdal": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ljusnarsberg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lomma": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lund": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lycksele": {
+   "senast_sokt": "2026-11-07"
+  },
+  "lysekil": {
+   "senast_sokt": "2026-11-07"
+  },
+  "mariestad": {
+   "senast_sokt": "2026-11-07"
+  },
+  "motala": {
+   "senast_sokt": "2026-11-07"
+  },
+  "mullsjo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "munkfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "molndal": {
+   "senast_sokt": "2026-11-07"
+  },
+  "morbylanga": {
+   "senast_sokt": "2026-11-07"
+  },
+  "norberg": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nordanstig": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nordmaling": {
+   "senast_sokt": "2026-11-07"
+  },
+  "norrtalje": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nybro": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nykoping": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nynashamn": {
+   "senast_sokt": "2026-11-07"
+  },
+  "nassjo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "olofstrom": {
+   "senast_sokt": "2026-11-07"
+  },
+  "orsa": {
+   "senast_sokt": "2026-11-07"
+  },
+  "osby": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ragunda": {
+   "senast_sokt": "2026-11-07"
+  },
+  "robertsfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "ronneby": {
+   "senast_sokt": "2026-11-07"
+  },
+  "rattvik": {
+   "senast_sokt": "2026-11-07"
+  },
+  "sandviken": {
+   "senast_sokt": "2026-11-07"
+  },
+  "sigtuna": {
+   "senast_sokt": "2026-11-07"
+  },
+  "simrishamn": {
+   "senast_sokt": "2026-11-07"
+  },
+  "sjobo": {
+   "senast_sokt": "2026-11-07"
+  },
+  "skelleftea": {
+   "senast_sokt": "2026-11-07"
+  },
+  "skurup": {
+   "senast_sokt": "2026-11-07"
+  },
+  "solleftea": {
+   "senast_sokt": "2026-11-07"
+  },
+  "sollentuna": {
+   "senast_sokt": "2026-11-07"
+  },
+  "sotenas": {
+   "senast_sokt": "2026-11-07"
+  },
+  "staffanstorp": {
+   "senast_sokt": "2026-11-07"
+  },
+  "storfors": {
+   "senast_sokt": "2026-11-07"
+  },
+  "storuman": {
+   "senast_sokt": "2026-11-07"
+  },
+  "stromstad": {
+   "senast_sokt": "2026-11-07"
+  }
+ },
+ "dokument": {
+  "ale.se/download/18.78063ecd19d9a4917075ffd7/1777488123390/2026-05-05%20kallelse%20med%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "3369f705fa838d3eb72a1c00da0f59e1636cc0662b3838edc385a4e6bd9898bc"
+  },
+  "ale.se/download/18.132f5f1d19d9a5177d733b88/1777035628017/2026-04-30%20kallelse%20och%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "c58e548a466222f3cb7072e3e989e77249825cc01bf2083ea55182637ad14598"
+  },
+  "ale.se/download/18.62e13f4c19e641f27bc63971/1780984194561/2026-06-17%20kallelse%20och%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "76719aa9100e83f2e118fb105782502f5399ab381e26cadf6cf6e68a1e666153"
+  },
+  "ale.se/download/18.55d873b519c9887c909e0ee1/1773762035590/2026-03-23%20kallelse%20och%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "8ec8674b188df2cc372d29f6fab2eb1434a25417e4f6c2334852b2e34e8f193c"
+  },
+  "ale.se/download/18.79ab0b3519ddc9816b566778/1778677147459/2026-05-20%20kallelse%20med%20handlingar%20.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "ef65d21958b8331203708b580414dec845951856e5569c6e37d59496da202040"
+  },
+  "ale.se/download/18.11bd94e219c2c372caad2b1/1770396528267/2026-02-09%20kallelse%20och%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "e353191048fc54ba974392134ca6c55c8cf8a37a695fae4a187d8e4ed65a333a"
+  },
+  "ale.se/download/18.7c03f7f319f4fd26dce26c12/1784012939113/2026-07-23%20kallelse%20och%20handlingar.pdf": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "0e240eabccf58bbf8fe703d2872d522436d5aa608f4a306df4b05db080d44618"
+  },
+  "kommunkartan.se/karta/salems-kommun/459335": {
+   "kommun": "ale",
+   "datum": "2026-11-07",
+   "sha256": "7e4b563761b4fc9c5c9a1bf2f2f7cead8c229a98f95ab0758d5ced17cbe10974"
+  },
+  "arboga.se/download/18.467cb72a19d24d181611c60a/1774525318980/33.2%20f%c3%b6reningsst%c3%a4mma,%20kommuninvest%20ekonomisk%20f%c3%b6rening.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "8fb34430d4dbbf427dcf0149b56184ac51533b897891e553fb2aa944fb58b5ae"
+  },
+  "arboga.se/download/18.6490b67a19b681d243db7866/1767796462352/socialn%c3%a4mndens%20direktjusterade%20protokoll%20%c2%a7%203,%202026-01-07.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "b545b5aa85ee60f8498157e26c4f76b0f7cdba15abd4331fe7c0d53e96022fcc"
+  },
+  "bblat.se/insandare/vem-tar-ansvar-for-arbogas-ekonomi": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "f615974a7ce4d41238dbed7396809b79f4d497a25e05099574675cba936b6017"
+  },
+  "magazin24.se/opinion/debatt/vem-tar-ansvar-for-arbogas-ekonomi": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "4bda2042a771ed66ab6799149e7697ef1ac50e23413a1cf91083c564eb47c8bd"
+  },
+  "bblat.se/insandare/styret-maste-visa-korten-om-arbogas-skolor": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "c233627009a9dffcc75f14b050c490623066dbdcb875e0edd26e7a2090b9cbae"
+  },
+  "arvidsjaur.se/download/18.b98800c19e6349fce747cf2/1781030621073/handlingar%20f%c3%b6r%20kommunfullm%c3%a4ktige%20den%202026-06-16.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (37 MB)"
+  },
+  "arvidsjaur.se/download/18.555b315819d012ed80b500/1773848232549/dagordning%20kommunstyrelsen%202026-03-24.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "sha256": "6c81df13402e0f5b60fc7afc93b201b64ceabc42287d76ab5cb485425fc9336a"
+  },
+  "arvidsjaur.se/download/18.24db6b5a19dad8e3536a69c/1776927324011/riktlinjer%20f%c3%b6r%20skyddade%20personuppgifter%20inom%20f%c3%b6rskola%20och%20skola.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "sha256": "ee909d77a77d8bb0a9a5079da716b9f03bf0ebfafd10d3e4e5b2751b030ae0fd"
+  },
+  "arvika.se/download/18.72dba78719b2bf3befc782ae/1768212928858/verksamhetsst%c3%b6d%20verksamhetsplan%202026-2028.pdf": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "cf8c4410ca6c88e7d566a9214a7327f6a9f5a1315f09e0f7c2c2e52d82f2c30a"
+  },
+  "arvika.se/download/18.176b013a19d9a4b4b061440b/1776941876233/protokoll%20los%202026-04-15.pdf": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "a321266dedd14a3d59d7333527e051e0725e216c2586ade937b34306c5c9a10b"
+  },
+  "arvika.se/download/18.667849a119d9a61cb5fa261/1776694687557/protokoll%20ks%202026-04-14.pdf": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "28e7891b8e3a48a1f54daa91d9a9c20abe3a95d98585a60783d0d5cb39aaf401"
+  },
+  "arvika.se/download/18.5fcd765319e6341e6c02037f/1780660639963/samlingshandling%20f%c3%b6r%20kf_2026-06-15.pdf": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "arvikapartiet.se/2026/06/18/arvikapartiets-budget-och-strategiska-plan-2027-2029-stod-sig-starkt-i-fullmaktige": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "fel": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+  },
+  "arvikanyheter.se/lang-natt-i-fullmaktige-arvika-antar-budget-for-2027": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "b722af99b08474bf5fe4959a4012d18080a0da8d57c20936a2ee0cf7091fd199"
+  },
+  "arvikanyheter.se/forslag-till-budget-for-2027-men-laget-ar-politiskt-osakert": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "d0a6d6fdfcec789697850d11318f31c6176219bc6f7aa052f1409acc3eefe84b"
+  },
+  "arvikanyheter.se/nyheter/nya-styret-gor-andringar-i-budgeten-lagre-skatt-men-ingen-rondell": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "bb7f67e9ce5d96187b14a35e471a62f6fc543330cd67b41630babcaf223fb1f8"
+  },
+  "arvikanyheter.se/fortsatt-osakert-om-budgeten-men-en-debatt-om-skatten-vantar": {
+   "kommun": "arvika",
+   "datum": "2026-11-07",
+   "sha256": "6e1f195f2b6c0c978295133557197c18c8e343ab90996b5d51a573b364f606cc"
+  },
+  "askersund.se/download/18.774f4f5419c986b50145833/1772617899049/protokoll%20mob%202026-02-26.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "sha256": "8f60db26444367f467b389930fbe181bd35fd4deef18df98655baf2dd1955cef"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/kf/kallelse-och-handlingar-kommunfullmaktige-den-2026-02-09-4.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: Not Found"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/ks/kallelse-och--handlingar-for-mote-kommunstyrelsen-den-2026-10-05.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: Not Found"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/bsau/handlingar-bsau-2026-05-20.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "5975292d5cef8578eb92fa34ac4d2e9a67f78e99c4486b14a3090c83d6c9ea53"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/pensionarsradet/2026/anteckningar-pensionarsradet-26-02-18_med-bilagor.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "2213dfa92ddd7a0af3fe478b696b0f497df6a6ce9d629b0e875753ba3463ad4e"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/bs/handlingar-bs-2026-05-06.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "714f9a532102f5b1368403dfb045768c882f5b58f8b1a50ad0599031c51d58f5"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/kf/2026/kommunfullmaktige-9-februari-2026.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "0fea4bf5c69e9b7f493ac09c2ebd8dede49420621d730a5c4d27dd87aaada56d"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/avesta-vatten-och-avfall/handlingar-for-sammantrade-avesta-vatten-och-avfall-ab-den-2026-02-02.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "d83989b67d11915eed3ba210eeb8e15c3a6b8e11acf37a5fcc45f7e6ce040231"
+  },
+  "avesta.se/globalassets/for-alla-sidor/bygga-bo-och-miljo/taxor-och-avgifter/blad-broschyrer-dokument/taxa-plan-och-bygg-2026.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "9a83f520bcae3c69330085767e106a2061597cc019a8f1437c2fffed24e38710"
+  },
+  "lokalti.se/avesta-far-resursskola-nasta-ar": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "9291e660f9be999a447bf71a15affa8f15fe1d20f0c0a42a2151fcb8630b95b0"
+  },
+  "avestatidning.com/avesta/skola-och-omsorg-hit-gar-budgetmiljonerna": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "7dd527b39efda821b0e176ffcd544920fb1721c45eca0d24e5c108541bf7d6ac"
+  },
+  "avestatidning.com/avesta/forslaget-stang-forskolan-alvnas-nasta-ar": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "ba888dde47fa5502f37c634708b5681f496a255faefd1a685c0b29a382b24f29"
+  },
+  "avestatidning.com/avesta/resursskola-startar-for-elever-i-behov-av-stod": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "ed56035a404ba5d66fe985272e7c9f629362581176d41af7a66c8d19fcd3442c"
+  },
+  "bengtsfors.se/arkiv/nyheter/nyheter/2026-04-17-medborgarenkaten-om-framtidens-bengtsfors-ar-avslutad": {
+   "kommun": "bengtsfors",
+   "datum": "2026-11-07",
+   "sha256": "63f0c2d16f75ff15b5fae49084f672324f60c0d1bc04bc552383eb624de43ab7"
+  },
+  "foreningsguiden.se/kommun/bengtsfors": {
+   "kommun": "bengtsfors",
+   "datum": "2026-11-07",
+   "sha256": "f053953f403be1bfb7bdd8c619a678360acea913c0ccd6f7cf373cae7d04f09a"
+  },
+  "skollov-se.se/bengtsfors": {
+   "kommun": "bengtsfors",
+   "datum": "2026-11-07",
+   "sha256": "08697f78211bb5a0930d52b2a720ec0feab68babb87fb941effd1c883fc856c1"
+  },
+  "berg.se/download/18.500c9bec19b2bf8b4c9b33fe/1769429586415/budgetdokument%202026.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "69076f971324e83a811ebd6047187378a43aaa4c43b0224c89a0b008dfd1ccb1"
+  },
+  "berg.se/download/18.6f4729a719d24cf410544cd/1774530046127/kommunstyrelens%20utvecklingsutskotts%20protokoll%20den%202026-03-23.pdf.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "408a13705502bcc57d700d7a34a0966093b2375f9a7c9c9dbb49128a069fab8c"
+  },
+  "berg.se/download/18.6f4729a719d24cf41053f848/1775648983510/samh%c3%a4llsbyggnadsutskottets%20protokoll%20den%2031%20mars%202026%20f%c3%b6r%20delning.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "cdfb1d517dcda0130a9259553f712c548b5a49ed40ec0763e650c931c2443b46"
+  },
+  "files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1521/cps/6136286d-7e06-4b48-a7e9-b2043a965362/2026-2027-user-friendly-budget.pdf?disposition=inline": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "d505f3cb61b74dc75580ceb2331838cce765b6c1dba3da27a9eea308698f73c9"
+  },
+  "bjurholm.se/download/18.6ec5c3f319b2c01e8777c02a/1770196824094/ks%20protokoll%20260203.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "a2f17548cf7a4a1b7724776fd8af68adb55ac4335add88157e8d62e31c26ed6f"
+  },
+  "bjurholm.se/download/18.6f80686519e48d47eaf7d7d/1779693259031/%c3%84rende%2015%20%c3%96p%20bjurholm%20-%20planhandling%20samr%c3%a5d.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "449d6e136f99a7b135e2a87eeea14f54b18de7ec6e953ef59f9e6b1727d77efa"
+  },
+  "bjurholm.se/download/18.6004138119d9a6b31d07d21/1776849072687/kf%20protokoll%20260420.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "6e23e68776a6c93439fabefdc0c94d7619841dec180385ffaf842e33834fc899"
+  },
+  "bjurholm.se/om-webbplatsen/nyheter/nyhetsarkiv/2026-03-10-vart-framtida-bjurholm": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "7090ae506778912199c6452ad8cdec6aebe6cd0d63371352a17a8582096b4744"
+  },
+  "hd.se/bjuv/sa-vill-partierna-i-bjuv-anvanda-skattepengarna": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "dec3c4364b8d77588a9669c0e9ea5e324da86a50e9963206f31b958f7d98fd47"
+  },
+  "regeringen.se/contentassets/627515767fa14191b0b7d56498efbd24/skane-lan-20232026.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "33a0afdc8166225d53dd5ea141e6f3db9ac6e5fdd0130bfd46fbaf319632be1e"
+  },
+  "jobbsafari.se/jobb/studie-och-yrkesvagledare-med-samordnande-funktion-sasrb-20272546": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  "bodennytt.se/samhalle/budgetramar-beslutade-for-skola-och-arbetsmarknad-i-boden-43239": {
+   "kommun": "boden",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  "bodennytt.se/samhalle/bodens-kfu-spikar-budgetramar-for-20272029-38607": {
+   "kommun": "boden",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  "bollebygd.se": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "sha256": "701b6f3fc5172a446a5fb66c43d88baf04bdb9b4409b77bb576e589f1fe9f340"
+  },
+  "boras.se/download/18.426c4bf01a12f5493ab2ec1d/1792074293333/inkommen%20handling%20till%20kommunstyrelsen%202026-00011-bost%c3%a4der.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "boras.se/download/18.37014ff19dd248e44a579f8/1777882400252/redovisning%20av%20anm%c3%a4lnings%c3%a4renden%202026-05-11.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "478d43818473563ad8a48ae8e95180c735d583781119dbf4c59967c02602aa58"
+  },
+  "boras.se/download/18.5d453dda19bd471859d6cb51/1769423134206/samh%c3%a4llsbyggnadsn%c3%a4mnden%202026-01-21%20protokoll.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "bd9aadc3dad3363c31f68a76851bca708209398d36ab643f25fd6d97728a3e84"
+  },
+  "boras.se/download/18.229ad7a419c47c81f641b479/1770900759061/handlingar%20f%c3%b6r%20m%c3%b6te%20valn%c3%a4mnden%20den%202026-02-16.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (51 MB)"
+  },
+  "boras.se/download/18.c09408519e492c9a65e458/1779433611598/kommunstyrelsen%202026-06-01%20handlingar.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (33 MB)"
+  },
+  "boras.se/download/18.1bde164619d24dbd7711da3e/1774615883010/protokoll%20digital%20signatur%202026-03-25.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "004494ba20ef18c7b40a40a3e82539f0f5e520d5fcb22ccae29e7cfb0077abfa"
+  },
+  "boras.se/download/18.17eac3cd19dd2802e4390736/1778229437831/plankarta.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "ce8980dc5cad047588d51c969e8578f65f87dcab2870f9bff6559975e023d87d"
+  },
+  "boras.se/download/18.6bddc7f219d9a74787b2a3/1776414373148/kommunfullm%c3%a4ktige%202026-04-23%20handlingar.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (35 MB)"
+  },
+  "boras.se/download/18.7cdf5ab19c8e3cd34d96544/1772802550726/handlingar%20f%c3%b6r%20m%c3%b6te%20grundskolen%c3%a4mnden%20den%202026-03-17.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "db997f25a157204ba02d1b850536ae928f41edc87cefdf85ede7a33c497f541b"
+  },
+  "boras.se/download/18.4a016e7a19c47b642ba8cc48/1771589810797/fritids-%20och%20folkh%c3%a4lson%c3%a4mnden%202026-02-17%20protokoll.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "0f1eda4ef3f2682a92366f79beea8bade61e5e4fe935cacd9e1ab909af2e19ea"
+  },
+  "boras.se/download/18.63fd2cca19d6b4c67e0254e/1775635280007/missiv%20-%20granskning%20av%20bor%c3%a5s%20stads%20strategiska%20arbete%20med%20milj%c3%b6-%20och%20klimatfr%c3%a5gor.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "755ff538aa3eff39927ba4506bc9dcef06011fc082f9a2023264020f1ed69f77"
+  },
+  "boras.se/download/18.4c5a9f0119ed43061f7181/1781694003389/alternativt%20f%c3%b6rslag%20m%20kd%20hvb%208-13%20%c3%a5r.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "011b05501b88b95741d07e09e3a675c63074130569045efd4f69f051b35831a1"
+  },
+  "boras.se/download/18.1bde164619d24dbd7711da41/1774615943657/alternativt%20f%c3%b6rslag%20fr%c3%a5n%20sverigedemokraterna%20&%20moderterna%20%c2%a7%2036.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "fc15b60a484218a03a4e74e5320cb82fd44e39c76f2119f586965fdef7717f1b"
+  },
+  "boras.se/download/18.48f99c9119e631e67431743e/1780478046930/propagandaregler%20vid%20r%c3%b6stningslokaler.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "800b68477a475ea7ddceb2ad080f7bfa52d59595335c74015d7488f58dcf59be"
+  },
+  "boras.se/download/18.6b1e2caf19b7cc0b908c06f4/1768487788003/gymnasie-%20och%20vuxenutbildningsn%c3%a4mnden%20260127%20handlingar.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "da238768d5edcdbd98169fab5457c5e3bff924b9e0291bbebc77b7e48adfa4b7"
+  },
+  "boras.se/download/18.3921d5331a08643d2b4b263/1789556440093/kommunstyrelsen%202026-09-21%20handlingar.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "aae10617ddf1699981b4a00b86152930498bb770a09445b5b7657d0739dcf9c0"
+  },
+  "bt.se/insandare/ge-oss-arbetsro-i-boras-skolor": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "987b4158fac3e14bf53535c540917d75484854f7e500ab33b6dbc4c6efaac8a3"
+  },
+  "bt.se/svenljunga/extra-miljoner-till-skolan-och-socialnamnden": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "541833c8d94d5464dd36f1c8ea41d45dd0294fb7c416086110bf5964a82c746c"
+  },
+  "underaret.se/skola/lasarstider": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "52a061d7044e892bb4eccded147f69db4bd3b571914ba881d922d0c7cabc50a4"
+  },
+  "skolverket.se/download/18.3e7a86df19e631b9adac6/1779781165744/bidragsramar%20f%c3%b6r%20statsbidraget%20f%c3%b6r%20st%c3%a4rkt%20kunskapsutveckling%202027.pdf": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "c999f09a7f741ea0cdc61157978d7db7f30b56aefb63f58bec2597c63f4832ac"
+  },
+  "bt.se/debatt/mittsamverkan-for-borasarna-bakom-ljuset-om-satsningar-i-skolan": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "e9a683f51cd43c9f4ab2c0950a39c82f531f8d829777a2a7989cfbbbdd793008"
+  },
+  "bt.se/boras/styret-bjuder-in-oppositionspartierna-i-budgeten": {
+   "kommun": "boras",
+   "datum": "2026-11-07",
+   "sha256": "f292a1cea9d767ee51b5add82683619e190ab7d927ae73f391a169212feca15e"
+  },
+  "botkyrka.se/download/18.2d75104a19a0a3a26b328971/1779965408018/tillval%20botvidsg%c3%a5rden.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "6ea3aa05a82f42ec7db2f83fd4f1040a3b68c3bc7fea275fe086842338ed68e8"
+  },
+  "botkyrka.se/download/18.4b1c5af31817fd030534550/1782896397357/uppdragsbeskrivning%20grupp-%20och%20servicebostad.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "68a1b2f9d12af73046579d5f101a3fe466ee50765257884c00abf51e802f7013"
+  },
+  "kommunkartan.se/karta/botkyrka-kommun/414162": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "33b270b5f52f955a97e6a98acff93800d7693abca692ee607e38bedb19c66962"
+  },
+  "botkyrkanytt.se/kommunalt/vard-och-omsorgsnamnden-klar-med-budgetyttrande-20272030-136688": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  "botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/vill-du-byta-skola": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "a12459dcec38509ef7ff0c52b150b5d25701d8fe4a8d28885e46512a616cdca7"
+  },
+  "botkyrka.se/nyhetsarkiv/nyhetsarkiv/2026-01-30-driften-av-fritidsklubbar-och-fritidsgardar-i-botkyrka-ska-upphandlas": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "29bb3b06102a85e1d2c17e1c97d73215f9ce8e4f27dcba67a5a994978e0f3802"
+  },
+  "bracke.se/download/18.7454b4e719d866db8787c77/1776253216779/uppf%c3%b6ljande%20granskning%20kompetensf%c3%b6rs%c3%b6rjning%20och%20fordonsnyttjande.pdf": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "sha256": "5d9d423e3689e29f535d675c44d6f0d98dffc83539a5ff051a6513156f942931"
+  },
+  "jamtlandstidning.se/braecke-jt26v13-placed/sparfoerslag-pa-30-miljoner-kronor-i-braecke-kommun/304905": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "sha256": "477313c4eb1667eb1ac7973bfd5538faad7a8295f062c031e131117ade221f7e"
+  },
+  "jamtlandstidning.se/braecke-jt26v21-kultur/braecke-utreder-nedlaeggning-av-kulturskolan/311366": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "sha256": "f3212f2124265e9d21057988a765cd1e01cf816c5e4e00be0994fe752b466f4c"
+  },
+  "bastad.se/download/18.4b7ef5a19d8be814cd146b6/1776409805940/3.planbeskrivning.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "f9c5aa3d8980cb8563b44bf94cab3e2915881f90b052a559741fcc28ff9efefb"
+  },
+  "bastad.se/download/18.7dfc0df519e48bc9fe5e7e/1779346866400/planbeskrivning.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "13328c4d9bd7cf3b1f48587bd9b9b02314e68b0ec98041829831dd0d9e57cde2"
+  },
+  "dorotea.se/media/i1tbt2to/260616-minnesanteckningar-fran-naringslivsradet.pdf": {
+   "kommun": "dorotea",
+   "datum": "2026-11-07",
+   "sha256": "a6c84477135112bbbc084087f9f76d9414493007ea5acf380f8f934a673c45ee"
+  },
+  "dorotea.se/media/wznef411/kladd-sommarbladet-26.pdf": {
+   "kommun": "dorotea",
+   "datum": "2026-11-07",
+   "sha256": "27450b75f29117f3669a4acacf057da1124a919bce467abce513704391b2fcf8"
+  },
+  "nyheter24.se/nyheter/inrikes/1481095-hostens-skolval-2027-har-ar-kommunerna-som-pressas": {
+   "kommun": "dorotea",
+   "datum": "2026-11-07",
+   "sha256": "4a74052aa63fe206dd1371f719ca8d54b4f4e56b3a8ee12478a353e6e392a0c4"
+  },
+  "ekero.se/download/18.455ec01b19f85d001ca8d176/1786354753180/dagvattenutredning%20stenhamra%20norra.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "356a2dfe4277cea307d6d2c3356f79f6b34c53319449e5258d2aeefc82515e94"
+  },
+  "mitti.se/nyheter/klart-sd-tar-plats-i-ekeros-nya-styre-6.3.392107.bc00d0b171": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "867792550ff3cac8e3f9667fcab8275663d62acedccc10265edc731187da3260"
+  },
+  "kommunkartan.se/karta/ekero-kommun/465852": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "7f9c454e395ad20e87dd3f11b7c292351b7d86165caa6a748bbc88ff8e12245b"
+  },
+  "emmaboda.se/download/18.5080449519bdc2ee84b5d93/1770977263005/kommunstyrelsen%20protokoll%202026-02-10%20signerat.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "bd980bf528654a1f2528132807ffe57f8c580266647f454024dd537e1d6d6f13"
+  },
+  "emmaboda.se/download/18.3e31647d19cfc90e1281572/1774976307730/%c3%85rsredovisning%202025.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "374b3b9b8385a7dddd5b5d317044782bf8910886d05562020befa62b495bf4a2"
+  },
+  "enkoping.se/download/18.5b9869119b2bf02ae125fcb/1777469260093/plan-upn-budget-2026-plan-2027%e2%80%932028.pdf": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "afad813a0571cf93c9660f4628641823c40a454f02e01744e7e57bc38b6457be"
+  },
+  "politik.enkoping.se/committees/kommunstyrelsen/kommunstyrelsen-27-januari-2026/protocol/protokoll-ks-2026-01-27pdf?downloadmode=open": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "ea6429b8c0ac565fedc426982fabd6c6f446f3a1947a7bc021e9f8f90f54823f"
+  },
+  "politik.enkoping.se/welcome-sv/namnder-styrelser/kommunstyrelsen/kommunstyrelsen-31-mars-2026/agenda/verksamhetsberattelse-2025-von-rev-2026-02-25pdf?downloadmode=open": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "2a7a8d9dad241e914312b43374ee97cce0594e58e3f5842ed9db5bf8a08e7773"
+  },
+  "via.tt.se/pressmeddelande/4445154/enkopings-kommuns-budget-for-2027-ar-beslutad?publisherid=3236045&lang=sv": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "3137eaf1d3d3c6a976e1d3202d8cf44e8f708cecd7017cfcef6b5db603d7401b"
+  },
+  "eposten.se/nyheter/enkoping/artikel/ny-budget-i-enkoping-med-sankta-tillsynsavgifter/jo5x0v8l": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "0e1de60c9917eca4468931750522cff5076176bafedba65572e4a7262a2b3ef0"
+  },
+  "eposten.se/insandare/politik/artikel/socialdemokraternas-budget-for-enkoping-ar-bara-en-bubbla/lqpo91kr": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "81012ae8d648882569a64866589edd782c2b83474ad70a33704ffc994ed91971"
+  },
+  "eposten.se/insandare/skola/artikel/s-visioner-skulle-krava-en-skattehojning/r4961z9j": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "0769ad2f6c4ba846a610b23714b5dbd40df9c6cbadec93b4a208364eafca0736"
+  },
+  "politik.enkoping.se/committees/utbildningsnamnden/utbildningsnamnden-50433/protocol/protokollpdf?downloadmode=open": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "1b43f1af096e29e331a4fc26bca5cfc65b4ee4314dbc5ba787e835d351243d59"
+  },
+  "eposten.se/insandare/skola/artikel/felaktiga-pastaenden-om-skolan/rgo48o0j": {
+   "kommun": "enkoping",
+   "datum": "2026-11-07",
+   "sha256": "ed3988e4b319245be4c8b28b8e7b23ffb2ee3279f0486392e843174ecfedc182"
+  },
+  "eslov.se/app/uploads/kallelse-ks-2026-04-07-del-2.pdf": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (55 MB)"
+  },
+  "eslov.se/app/uploads/kallelse-och-handlingar-till-kommunstyrelsen-2026-05-26.pdf": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (30 MB)"
+  },
+  "eslov.se": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "sha256": "ed0a57af1fa25a81f358ed43dbf567b6dcb219823b81d3cd7a6606d4c836a9b8"
+  },
+  "s-eslov.se/val-2026/handlingsprogram-2026-2030": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "fel": "URLError: <urlopen error timed out>"
+  },
+  "skd.se/skola": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "sha256": "7351784ca805d118d42bb468a97243361dfe173f63cc5a0ba2c6f875c69a5e43"
+  },
+  "essunga.se/download/18.37f8592b19b35a509531f759/1769606346537/planbeskrivning%20b%c3%a4reberg%201.10.pdf": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "26a4afa06f7a36ed8ab4963a624ee7f1e512f27cbb56ae36e8dcc925ae83421c"
+  },
+  "essunga.se/download/18.37f8592b19b35a509531f3e0/1769592247149/dagvatten%20och%20skyfallsutredning%20b%c3%a4reberg_sluthandling%20(1).pdf": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "8073ad9f1205f6515145b7540da7316a4efdbce00eb3a424a5e7bb725575a3b0"
+  },
+  "alingsastidning.se/nyheter/essunga/klubbade-ramar-for-2027-rakna-med-skattehojning-i-essunga.0ce28df3-1e78-465a-be27-8271b3162c8d": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "74e9034051910767c9eac2b8ff7f776a7da557cd0ca65e6ebf223e2847dd94ff"
+  },
+  "essunga.se/om-webbplatsen/nyhetsarkiv/nyhetsarkiv/2026-05-21-skolavslutningar.html": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "5b3332af29bc70cddf506884bce94afd1d1339ddeee68a75e81f1c16eb8e52cc"
+  },
+  "nlt.se/essunga/sallsynt-skattehojning-foreslas-vi-kan-inte-skara-mer": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "407894e1759e695d30fcd25adcd46f015b860d25a37b2d599f4de452981dbb9d"
+  },
+  "dagenssamhalle.se/offentlig-ekonomi/kommunal-ekonomi/ekonomicheferna-har-ligger-budgetlagets-storsta-utmaningar": {
+   "kommun": "essunga",
+   "datum": "2026-11-07",
+   "sha256": "c08b1aeb9ad6ac09543485f69345e63c13e07d47ba027d6addbe675a565672bf"
+  },
+  "falkoping.se/download/18.420f2d5419bd9f90ceefe1/1769511121302/verksamhetsplan%20f%c3%b6r%20%c3%a5r%20%202026-2028%20-%20kommunstyrelsen.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "4ed386364dc2ace9f6a051ecf775cc068e9570c44ca025d9b5593aebff5f973c"
+  },
+  "falkoping.se/download/18.582b050219c0f3580a6ccce/1771944301984/handlingar%20kultur-%20och%20fritidsn%c3%a4mnden%202026-03-03.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "2cede22ce5c7a7da0d822193737eceb430b0e37e0c7e673e61f44cbb449ea72a"
+  },
+  "falkoping.se/download/18.4933f3551a04786e3042fa27/1789558786579/handlingar%20kompetens-%20och%20arbetslivsn%c3%a4mnden%202026-09-23.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "cb0c72f572ec2d5bd80635df86dbb3ac68ab68f6bb2fb3f5ae082d6024e30439"
+  },
+  "falkoping.se/download/18.70d1f82819d70e1e38c11dd/1776691581215/kallelse%20och%20handlingar%20-%20%20kommunfullm%c3%a4ktige%202026-04-27%20-%20del%205.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (35 MB)"
+  },
+  "falkoping.se/download/18.1eb706c819e6eadae8a776/1780385809118/protokoll%20-%20kommunfullm%c3%a4ktige%202026-05-25,%20med%20signaturer.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "4e046ebe945744cee77dcf3f102a2a05d72e1b892e38f951adcd5ddabc368f04"
+  },
+  "falkoping.se/download/18.538abe0919e0227e509580/1778661443007/protokoll%20-%20kommunstyrelse%202026-05-11,%20med%20signaturer.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "c12cae3b73b594725a74fca2b4e62375d5b6c4f9c7195ccd7ff1e7cb592481fd"
+  },
+  "falkoping.se/download/18.538abe0919e0227e509ef3/1779695411574/kallelse%20kommunstyrelsens%20utskott%20f%c3%b6r%20st%c3%b6d%20och%20service%202026-05-28.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "370fb724c104fbb18792a61dc3c784b756fc9faf3b1efa554c1cfc702525b212"
+  },
+  "falkopingstidning.se/falkoping/har-ska-styret-lagga-pengarna-kommande-ar": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "41b3c2eb3527c25431bba2bc1c2250494b2631ecdfa334e4450d4350ce643d93"
+  },
+  "falkoping.se/download/18.7bdef21a19ac5f61f0178ca/1768568200583/verksamhetsplan%20f%c3%b6r%20%c3%a5r%202026-2028%20-%20kompetens-%20och%20arbetslivsn%c3%a4mnden.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "909a5b63b6079eec29777d902d88bcb97239f49bc2ed652b2bd6137c150e2ff5"
+  },
+  "falkoping.se/download/18.4933f3551a04786e3042f79a/1789548127841/kallelse%20och%20handlingar%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-09-22.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "250857cc8449a39110d299d6cc37244c3533b006c5e49aed8f4f83f88d0302a5"
+  },
+  "falkoping.se/download/18.61769da719d2ad523dac8b/1775712185658/protokoll%20-%20kommunfullm%c3%a4ktige%202026-03-30,%20med%20signaturer.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "034f27bec78bdff45d4962d77443e8f7dfaaf45a06200b0fbb994194a7946913"
+  },
+  "falkoping.se/download/18.582b050219c0f3580a6cccc/1771944288748/handlingar%20kultur-%20och%20fritidsn%c3%a4mnden%202026-01-27.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "6ea03b1151b53a51691ba5b19db9569a7adaf41db76069e75b4d5139d3aeac3e"
+  },
+  "filipstad.se/download/18.8fd609d19e24ac3b535729a/1778834098923/arsredovisning%202025.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "b36c942c88ff402d46af439fd08efbd3e38af9751f2e4e36ddeb456bbf460905"
+  },
+  "filipstad.se/download/18.3d618a5519d709da341ab3b/1775724130105/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunstyrelsens%20teknikutskott%20den%202026-04-13.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "59c5226d409c04d1922fa9824fff156e086dcdb4420e0eb9443b1917583477e5"
+  },
+  "filipstadstidning.se/filipstad/skogsuttaget-maste-minska-igen-underhallsbudget-for-fastigheter-behover-oka": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "c872080e99d10bc25b72c9446da7c882744706ae0f186dfc7e9e6acf2478049a"
+  },
+  "finspang.se/download/18.575f780b19d9a4b2cd0bf7d3/1777386419420/2026-04-23%20protokoll%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "cd5f5328ddde072e92884683b5b721abe5163ad5dd7af9ca3d052c1a163b9636"
+  },
+  "skollovet.se/kommun/finspang": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "b463ba5a68d415fb0058cd2bfee66ddd9f483bc504afff4c9447324722bdbfeb"
+  },
+  "edu.se/kommuner/finspang/lasarstider": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "f3cabc194dcb8b2696c3e27398787261a7916f2906e1fd46b88b080576561b34"
+  },
+  "skollov-se.se/finspang": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "ae1f32fac7d27463218019c6bf45d3c58c7351d5b2e4be11017d9a412982466a"
+  },
+  "vilararejobb.se/lediga-jobb/31410404-finspangs-kommun-soker-forskollarare-till-hogklint-visstid": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: Not Found"
+  },
+  "flen.se/download/18.39483a381a0862d2b163074/1789046575828/kallelse%202026-04-22.pdf": {
+   "kommun": "flen",
+   "datum": "2026-11-07",
+   "sha256": "a864d13d9dc9195c69ca9efc74132e87c0e998f5551cdb9d71c53edadb014dc5"
+  },
+  "edu.se/kommuner/flen/lasarstider": {
+   "kommun": "flen",
+   "datum": "2026-11-07",
+   "sha256": "78fdb073a1c1be81229173b203b6000d885e9a2521b02f3ee7b601ba29d4dba3"
+  },
+  "forshaga.se/download/18.7aaec2b119c6d520236c6f95/1771917847723/regler%20och%20avgifter%20f%c3%b6r%20f%c3%b6rskola%20(2026-02-23)_%20tillg%c3%a4nglig.pdf": {
+   "kommun": "forshaga",
+   "datum": "2026-11-07",
+   "sha256": "fd3c72984650b16a7a7566dee523fc9e3441e6e22df836335b1e0a38928825cf"
+  },
+  "svt.se/nyheter/lokalt/varmland/sa-planerar-din-kommun-infor-de-minskade-elevkullarna": {
+   "kommun": "forshaga",
+   "datum": "2026-11-07",
+   "sha256": "bf34540bf7e8d3945cc581e4743a17af230feb3e603d3375f212b96b70952dfc"
+  },
+  "fargelanda.se/media/u53hzeed/kallelse-kommunfullmaktige-2026-04-22.pdf": {
+   "kommun": "fargelanda",
+   "datum": "2026-11-07",
+   "sha256": "9deee73b8ac03948182527e53bfaa684a17ba908f14edd9fdb43e3b5c0981b7d"
+  },
+  "fargelanda.se/media/uwxhtcgu/kallelse-kommunstyrelsen-2026-06-10.pdf": {
+   "kommun": "fargelanda",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (48 MB)"
+  },
+  "dagenssamhalle.se/offentlig-ekonomi/kommunal-ekonomi/fargelanda-ska-spara-10-miljoner": {
+   "kommun": "fargelanda",
+   "datum": "2026-11-07",
+   "sha256": "b88a79fdb6501fa4149eb0bd420ba829f37cc0894b3b58c53f544de4ea9263b5"
+  },
+  "fargelanda.se/media/1a4hntww/kallelse-utbildningsnamnden-2026-03-31.pdf": {
+   "kommun": "fargelanda",
+   "datum": "2026-11-07",
+   "sha256": "33ba8bce99c11020c20a1fbbb550b984a184adca0cc3c0d8e6c1ec8d7ac3baa4"
+  },
+  "gislaved.se/download/18.46abb3a619ef0d81a5d2556/1782455490019/pensionspolicy,%20antagen%20den%2022%20juni%202026.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "598ad884f96f1220a9f71275ee60b2857c5b54b8d71ba625ffc54737503529f1"
+  },
+  "gislaved.se/download/18.5ab7590519d1eab7dcb99d/1774358870520/handlingsplan%20n%c3%a4ringslivsprogram.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "572c57bca1fa981e9539aaec6b8af3ad3b6db6d5577e86c95170e3936521cb2b"
+  },
+  "gislaved.se/utbildning-och-barnomsorg/forskola/allman-forskola": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "b22c8e739af66f800c99e76b2361678c17660a10a4c54dff7c9e0a03b92b85aa"
+  },
+  "gnesta.se/download/18.6c24f75c19c890b00de400a5/1772454581980/protokoll%20kommunfullm%c3%a4ktige%202026-02-23.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "b74d5869c418a9a2734cd93eb909d5bd5d93a84ff420b4b019611dee8e0570b0"
+  },
+  "gnesta.se/download/18.2ae41c3019dcdb0d5bb12097/1777460547554/kallelse%20samh%c3%a4llsbyggnadsn%c3%a4mnden%202026-05-06.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "91415eb809178d59e145781788ba4686f569e7f7220d267ed951c98851fb8c17"
+  },
+  "gnesta.se/download/18.feb27ae19dcda0de3372d0a/1778143005790/protokoll%20samh%c3%a4llsbyggnadsn%c3%a4mnden%202026-05-06.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "dd038b35f019465540110b7eed2bb2d95ae75e351f27d6d61bbb40c405c08960"
+  }
+ }
+}

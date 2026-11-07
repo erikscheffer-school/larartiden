@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://berg.se/download/18.500c9bec19b2bf8b4c9b33fe/1769429586415/Budgetdokument%202026.pdf",
+  "titel": "Budgetdokument 2026 Ekonomistöd",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "69076f971324e83a811ebd6047187378a43aaa4c43b0224c89a0b008dfd1ccb1",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.6f4729a719d24cf410544cd/1774530046127/Kommunstyrelens%20utvecklingsutskotts%20protokoll%20den%202026-03-23.pdf.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Sammanträdesdatum 2026-03-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "408a13705502bcc57d700d7a34a0966093b2375f9a7c9c9dbb49128a069fab8c",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.6f4729a719d24cf41053f848/1775648983510/Samh%C3%A4llsbyggnadsutskottets%20protokoll%20den%2031%20mars%202026%20f%C3%B6r%20delning.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Sammanträdesdatum 2026-03-31",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cdfb1d517dcda0130a9259553f712c548b5a49ed40ec0763e650c931c2443b46",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/1521/Cps/6136286d-7e06-4b48-a7e9-b2043a965362/2026-2027-User-Friendly-Budget.pdf?disposition=inline",
+  "titel": "2026-27 User Friendly Budget Summary Generated on May 5, 2026 Page 1 Bergen",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d505f3cb61b74dc75580ceb2331838cce765b6c1dba3da27a9eea308698f73c9",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

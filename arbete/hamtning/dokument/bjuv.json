@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://www.hd.se/bjuv/sa-vill-partierna-i-bjuv-anvanda-skattepengarna",
+  "titel": "Så vill partierna i Bjuv använda skattepengarna – HD",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "dec3c4364b8d77588a9669c0e9ea5e324da86a50e9963206f31b958f7d98fd47",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.regeringen.se/contentassets/627515767fa14191b0b7d56498efbd24/skane-lan-20232026.pdf",
+  "titel": "1 Lokal fördelning av satsningar år 2023 – 2026 Skåne län Inledning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "33a0afdc8166225d53dd5ea141e6f3db9ac6e5fdd0130bfd46fbaf319632be1e",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": true,
+  "ord": [
+   "statsbidrag",
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "undervisningstid",
+    "utdrag": "sonalförstärkningar skulle förstärks med 200 miljoner kronor för år 2026. • Statsbidrag för hjälp med läxor eller annat skolarbete utanför ordinarie undervisningstid Statsbidraget för hjälp med läxor eller annat skolarbete utanför ordinarie undervisningstid syftar till att öka möjligheterna för alla elever att utvec",
+    "belopp_nara": true
+   },
+   {
+    "sida": 16,
+    "ord": "statsbidrag",
+    "utdrag": "senaste åren, och medel har tillförts kontinuerligt till ändamålet. Fördelningen är indikativ. • Särskilda insatser på skolområdet För att förstärka statsbidraget till särskilda insatser på skolområdet tillförde regeringen 20 miljoner kronor 2023. Förstärkningen avsåg kostnader för att inrätta eller utveckla an",
+    "belopp_nara": true
+   },
+   {
+    "sida": 17,
+    "ord": "statsbidrag",
+    "utdrag": "Förstärkning av statsbidrag för akutskolor För att ge ytterligare ökade förutsättningar för huvudmännen att inrätta akutskolor föreslog regeringen att statsbidraget för personalkostnader för akutskolor i grundskolan skulle förstärkas med 100 miljoner kronor för 2025. Kommunernas och regionernas stöd är ej beräkna",
+    "belopp_nara": true
+   },
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "utdrag": "barngrupper i förskolan och för att minska barngruppernas storlek vilka kan vara åtgärder för att höja kvaliteten i förskolan. Regeringen föreslog att statsbidraget förstärks med 900 miljoner kronor för 2025. I budgetpropositionen för 2026 förstärkte regeringen statsbidraget förstärks med ytterligare 500 miljoner",
+    "belopp_nara": true
+   },
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "utdrag": "kning av Förstärkning av statsbidrag för Höjd statsbidrag för inköp av schablonersättning kvalitetshöjande läroböcker och skolväsen",
+    "belopp_nara": false
+   },
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "utdrag": "131,8 23,6 Tabell 2.1. Satsningar på skola och utbildning 2026 - Skåne Förlängt statsbidrag för Fribelopp i Förstärkning av Förstärkning av säkerhetshöjande maxtaxa i kvalitetshöjande statsbidrag fö",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 32
+ }
+]

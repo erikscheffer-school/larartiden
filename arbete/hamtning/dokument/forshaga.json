@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.forshaga.se/download/18.7aaec2b119c6d520236c6f95/1771917847723/Regler%20och%20avgifter%20f%C3%B6r%20f%C3%B6rskola%20(2026-02-23)_%20tillg%C3%A4nglig.pdf",
+  "titel": "Regler Uppdaterad 2026-02-03 Regler och avgifter för förskola",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fd3c72984650b16a7a7566dee523fc9e3441e6e22df836335b1e0a38928825cf",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svt.se/nyheter/lokalt/varmland/sa-planerar-din-kommun-infor-de-minskade-elevkullarna",
+  "titel": "Så planerar din kommun inför de minskade elevkullarna | SVT Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "bf34540bf7e8d3945cc581e4743a17af230feb3e603d3375f212b96b70952dfc",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

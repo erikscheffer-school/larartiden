@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://flen.se/download/18.39483a381a0862d2b163074/1789046575828/Kallelse%202026-04-22.pdf",
+  "titel": "Postadress Besöksadress Telefon Bankgiro E-post 642 81 FLEN Sveavägen 1",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a864d13d9dc9195c69ca9efc74132e87c0e998f5551cdb9d71c53edadb014dc5",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.edu.se/kommuner/flen/lasarstider",
+  "titel": "Läsårstider Flen 2026/2027 – lov, studiedagar, prov – EDU.se",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "78fdb073a1c1be81229173b203b6000d885e9a2521b02f3ee7b601ba29d4dba3",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

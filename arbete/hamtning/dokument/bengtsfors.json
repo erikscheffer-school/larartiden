@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.bengtsfors.se/arkiv/nyheter/nyheter/2026-04-17-medborgarenkaten-om-framtidens-bengtsfors-ar-avslutad",
+  "titel": "Medborgarenkäten om framtidens Bengtsfors är avslutad | Bengtsfors kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "63f0c2d16f75ff15b5fae49084f672324f60c0d1bc04bc552383eb624de43ab7",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://foreningsguiden.se/kommun/bengtsfors/",
+  "titel": "Föreningsbidrag i Bengtsfors — bidrag, regler och deadlines",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "f053953f403be1bfb7bdd8c619a678360acea913c0ccd6f7cf373cae7d04f09a",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skollov-se.se/bengtsfors",
+  "titel": "Skollov Bengtsfors | Skollov SE",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "08697f78211bb5a0930d52b2a720ec0feab68babb87fb941effd1c883fc856c1",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

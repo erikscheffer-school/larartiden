@@ -1,0 +1,152 @@
+[
+ {
+  "url": "https://enkoping.se/download/18.5b9869119b2bf02ae125fcb/1777469260093/plan-upn-budget-2026-plan-2027%E2%80%932028.pdf",
+  "titel": "Upplevelsenämndens nämndplan med budget 2026 och plan 2027–2028",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "afad813a0571cf93c9660f4628641823c40a454f02e01744e7e57bc38b6457be",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [
+   "statsbidrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "utdrag": "r dels skett inom ramen för samarbetet mellan förvaltningarna i referensgrupp arbetsmarknad, utbildning, stöd, vård och omsorg (ASO), dels inom ramen för olika statsbidrag där förvaltningarna genomfört initiativ som dans för hälsa och COPE-utbildningar till föräldrar med barn på kommunala förskolor. 2.3.3 Självständighe",
+    "belopp_nara": false
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "utdrag": "fokuserat på att göra fritidsaktiviteter mer tillgängliga, och samarbeten mellan olika förvaltningar syftar till att stärka den psykiska hälsan hos unga genom statsbidrag för förebyggande och främjande insatser. Kostnadsfri utlåning av utrustning via Fritidsbanken, simskolor för alla skolor, allmänhetens åkning, fritidsgårdarna",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://politik.enkoping.se/committees/kommunstyrelsen/kommunstyrelsen-27-januari-2026/protocol/protokoll-ks-2026-01-27pdf?downloadMode=open",
+  "titel": "Kontakta kommunen: telefon: 0171–62 50 00, e-post: kommunen@enkoping.se",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ea6429b8c0ac565fedc426982fabd6c6f446f3a1947a7bc021e9f8f90f54823f",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 48,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://politik.enkoping.se/welcome-sv/namnder-styrelser/kommunstyrelsen/kommunstyrelsen-31-mars-2026/agenda/verksamhetsberattelse-2025-von-rev-2026-02-25pdf?downloadMode=open",
+  "titel": "Rapport Datum: 2026-02-25 Ärendenummer: VON2024/169 Vård- och omsorgsnämndens",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2a7a8d9dad241e914312b43374ee97cce0594e58e3f5842ed9db5bf8a08e7773",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://via.tt.se/pressmeddelande/4445154/enkopings-kommuns-budget-for-2027-ar-beslutad?publisherId=3236045&lang=sv",
+  "titel": "Enköpings kommuns budget för 2027 är beslutad | Enköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "3137eaf1d3d3c6a976e1d3202d8cf44e8f708cecd7017cfcef6b5db603d7401b",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.eposten.se/nyheter/enkoping/artikel/ny-budget-i-enkoping-med-sankta-tillsynsavgifter/jo5x0v8l",
+  "titel": "Ny budget i Enköping med sänkta tillsynsavgifter",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0e1de60c9917eca4468931750522cff5076176bafedba65572e4a7262a2b3ef0",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.eposten.se/insandare/politik/artikel/socialdemokraternas-budget-for-enkoping-ar-bara-en-bubbla/lqpo91kr",
+  "titel": "INSÄNDARE: Socialdemokraternas budget för Enköping är bara en bubbla",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "81012ae8d648882569a64866589edd782c2b83474ad70a33704ffc994ed91971",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.eposten.se/insandare/skola/artikel/s-visioner-skulle-krava-en-skattehojning/r4961z9j",
+  "titel": "INSÄNDARE: S visioner skulle kräva en skattehöjning",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0769ad2f6c4ba846a610b23714b5dbd40df9c6cbadec93b4a208364eafca0736",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://politik.enkoping.se/committees/utbildningsnamnden/utbildningsnamnden-50433/protocol/protokollpdf?downloadMode=open",
+  "titel": "Kontakta kommunen: telefon: 0171–62 50 00, e-post: kommunen@enkoping.se",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1b43f1af096e29e331a4fc26bca5cfc65b4ee4314dbc5ba787e835d351243d59",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.eposten.se/insandare/skola/artikel/felaktiga-pastaenden-om-skolan/rgo48o0j",
+  "titel": "INSÄNDARE: Felaktiga påståenden om skolan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ed3988e4b319245be4c8b28b8e7b23ffb2ee3279f0486392e843174ecfedc182",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

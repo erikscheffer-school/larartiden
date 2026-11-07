@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://eslov.se/",
+  "titel": "Eslövs kommun – Service, e-tjänster och information",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "ed0a57af1fa25a81f358ed43dbf567b6dcb219823b81d3cd7a6606d4c836a9b8",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skd.se/skola",
+  "titel": "Skola – Skånska Dagbladet",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7351784ca805d118d42bb468a97243361dfe173f63cc5a0ba2c6f875c69a5e43",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

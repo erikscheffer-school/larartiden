@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.dorotea.se/media/i1tbt2to/260616-minnesanteckningar-fran-naringslivsradet.pdf",
+  "titel": "Näringslivsrådet i Dorotea kommun Minnesanteckningar 20260616",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a6c84477135112bbbc084087f9f76d9414493007ea5acf380f8f934a673c45ee",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.dorotea.se/media/wznef411/kladd-sommarbladet-26.pdf",
+  "titel": "Dorotea kommun sommarblad 2026 Evenemang i hela kommunen",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "27450b75f29117f3669a4acacf057da1124a919bce467abce513704391b2fcf8",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nyheter24.se/nyheter/inrikes/1481095-hostens-skolval-2027-har-ar-kommunerna-som-pressas",
+  "titel": "Höstens skolval 2027 – här är kommunerna som pressas",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "4a74052aa63fe206dd1371f719ca8d54b4f4e56b3a8ee12478a353e6e392a0c4",
+  "sökning": 2,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]
