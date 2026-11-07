@@ -81,10 +81,17 @@ def enkel(text):
     return unicodedata.normalize("NFC", text).lower()
 
 
+def samma_doman(url, d):
+    """Samma webbplats eller en underdomän till den (vilarare.se är inte are.se)."""
+    h = doman(url)
+    return h == d or h.endswith("." + d)
+
+
 def kommunhandling(url, kommun):
     """Ligger dokumentet på kommunens webbplats eller en mötesportal (inte en tidning eller myndighet)?"""
     d, u = doman(kommun["w"]), url.lower()
-    return doman(url).endswith(d) or any(p in u for p in PORTALER)
+    h = doman(url)
+    return h == d or h.endswith("." + d) or any(p in u for p in PORTALER)
 
 
 def namn_finns(namn, text):

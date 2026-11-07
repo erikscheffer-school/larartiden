@@ -15,23 +15,6 @@
   ]
  },
  {
-  "id": "are",
-  "kommun": "Åre",
-  "lan": "Jämtlands län",
-  "status": 5,
-  "poang": 7,
-  "skal": [
-   "2 nytt/nya dokument nämner reformen",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.sverigeslarare.se/om-oss/nyheter/reglerad-tid-for-larares-karnuppdrag--har-ar-forordningen/",
-   "https://www.vilarare.se/nyheter/arbetstid/lag-om-undervisningstid--redan-nasta-sommar/",
-   "https://are.se/download/18.4c73110e19d8af8a2d173b/1776178087141/2026-04-14.pdf",
-   "https://are.se/download/18.5e484f4b19ed4844be316cf3/1782718717258/F%C3%B6reskrift%20om%20avfallshantering%202026-06-25.pdf"
-  ]
- },
- {
   "id": "katrineholm",
   "kommun": "Katrineholm",
   "lan": "Södermanlands län",
@@ -64,23 +47,6 @@
    "https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten",
    "https://www.saffletidningen.se/saffle/debatt-om-skatten-nar-kommunens-budget-klubbades/",
    "https://www.mp.se/saffle/just-nu/vart-forslag-rostades-ner/"
-  ]
- },
- {
-  "id": "varberg",
-  "kommun": "Varberg",
-  "lan": "Hallands län",
-  "status": 5,
-  "poang": 5,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://varberg.se/kommun-och-politik/kommunfakta/ekonomi-och-budget/budget",
-   "https://www.hn.se/asikt-och-debatt/asikter/ordet-ar-fritt/valfarden-prioriteras-i-varsams-budget-med-ansvar-for-ekonomi-och-framtid.136c32c0-09bd-55f4-ad1a-987ada6fab70",
-   "https://socialdemokraternavarberg.se/2026/08/23/beslut-om-skolan-i-dag-avgor-varbergs-framtid/",
-   "https://varberg.se/download/18.5f6c899519ee53e98ddc6d93/1782195685477/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%202026-06-18.pdf",
-   "https://varberg.se/download/18.1aab221319c8bc874d13a9d1/1771939118356/Hamn-%20och%20gatun%C3%A4mnden%20protokoll%202026-02-23,%20%C2%A7%C2%A7%203-16.pdf"
   ]
  },
  {
@@ -164,6 +130,39 @@
    "https://www.vf.se/ingen-skattesankning-har-ar-satsningarna-i-hammaros-budget/",
    "https://www.hammaronytt.se/majoritetens-budgetforslag-lagt/",
    "https://varmlandsbygden.se/hammaro/hammaro-satsar-miljoner-pa-lillangshamnen/"
+  ]
+ },
+ {
+  "id": "haninge",
+  "kommun": "Haninge",
+  "lan": "Stockholms län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "1 nytt/nya dokument nämner reformen"
+  ],
+  "dokument": [
+   "https://www.haninge.se/499336/globalassets/dokument/styrdokument/politiska-styrdokument/mal-och-budget-arsredovisningar/arsredovisning-2025-haninge-kommun.pdf",
+   "https://www.haninge.se/siteassets/bygga-bo-och-miljo/kartor-lantmateri-och-matning/dokument/taxa-2026-for-haninge-kommuns-verksamhet-inom-plan--och-bygglagens-omrade-samt-kart--och-mattjanster.pdf",
+   "https://www.haninge.se/4941cc/siteassets/bygga-bo-och-miljo/oversiktsplanering-och-detaljplaner/detaljplaner/tungelsta/alsta-271-och-272/antagande-alsta-271-och-272/protokollsutdrag-kommunstyrelsen-2026-03-09--37.pdf",
+   "https://hagalyckebyskolan.haninge.se/var-skola/terminstider-och-skollov/"
+  ]
+ },
+ {
+  "id": "haabo",
+  "kommun": "Håbo",
+  "lan": "Uppsala län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "1 nytt/nya dokument nämner reformen"
+  ],
+  "dokument": [
+   "https://www.habo.se/download/18.48f99c9119e631e674351cfd/1780934360948/23-45.%20Anm%C3%A4lan%20av%20motioner.pdf",
+   "https://www.habo.se/download/18.4afc698219d2168c2415199/1774424294353/Uppf%C3%B6ljning%20avfallsplan%202025%20(3)%20(1).pdf",
+   "https://www.habo.se/download/18.48f99c9119e631e6743171cd/1780409455154/Protokoll%20KS%202026-05-26%20signerat.pdf",
+   "https://www.habo.se/download/18.4a016e7a19c47b642babbef8/1771870608131/Kallelse%20KF%202%20mars%202026.pdf",
+   "https://skollov-se.se/habo-uppsala"
   ]
  }
 ]
