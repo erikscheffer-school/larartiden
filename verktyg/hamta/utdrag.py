@@ -41,11 +41,14 @@ def main():
         sidor = pdf_till_sidor(data) if data[:5] == b"%PDF-" else html_till_sidor(data)
         valda = set(b.get("sidor") or [])
         for i, s in enumerate(sidor, 1):
+            if b.get("endast"):  # bara de angivna sidorna
+                break
             if STARK.search(s) or SVAG.search(s) or ("2027" in s and BUDGET.search(s)):
                 valda.add(i)
         valda = sorted(valda)[:MAX_SIDOR] if not b.get("sidor") else sorted(valda)
-        ut = [f"URL: {b['url']}", f"Sidor: {len(sidor)}", "", "== INNEHÅLL (första raden per sida) =="]
-        for i, s in enumerate(sidor, 1):
+        ut = [f"URL: {b['url']}", f"Titel: {b.get('titel') or ''}", f"Sidor: {len(sidor)}", "",
+              "== INNEHÅLL (första raden per sida) =="]
+        for i, s in enumerate(sidor if len(sidor) <= 80 or not b.get("endast") else [], 1):
             rad = next((r.strip() for r in s.splitlines() if r.strip()), "")
             ut.append(f"{i}: {rad[:110]}")
         for i in valda:
