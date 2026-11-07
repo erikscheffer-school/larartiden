@@ -21,8 +21,8 @@ import urllib.parse
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(__file__))
-from gemensamt import (SOKRESULTAT, TILLSTAND, doman, enkel, idag, kommuner,  # noqa: E402
-                       las_json, skriv_json)
+from gemensamt import (SOKRESULTAT, TILLSTAND, doman, idag, kommuner, las_json,  # noqa: E402
+                       namn_finns, skriv_json)
 
 API = "https://api.search.brave.com/res/v1/web/search"
 STATUSORDNING = {5: 0, 4: 1, 3: 2, 2: 3, 1: 4, 0: 5}
@@ -112,9 +112,8 @@ def main():
             svar = brave.sok(q, freshness)
             t = traffar(svar)
             if omgang == 2:  # behåll bara träffar som rör rätt kommun
-                n = enkel(namn)
                 t = [x for x in t if doman(x["url"]).endswith(dom)
-                     or n in enkel((x["titel"] or "") + " " + (x["beskrivning"] or "") + " " + x["url"])]
+                     or namn_finns(namn, (x["titel"] or "") + " " + (x["beskrivning"] or "") + " " + x["url"])]
             post = resultat["kommuner"].setdefault(k["id"], {"kommun": namn, "status": k["s"], "traffar": []})
             sedda = {x["url"] for x in post["traffar"]}
             post["traffar"] += [dict(x, sokning=omgang) for x in t if x["url"] not in sedda]

@@ -210,20 +210,5 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
- },
- {
-  "url": "https://kommunkartan.se/karta/salems-kommun/459335/",
-  "titel": "Nämndplan och budget 2027 för barn- och utbildningsnämnden | Salem 2026",
-  "typ": "html",
-  "hämtad": "2026-11-07",
-  "sha256": "7e4b563761b4fc9c5c9a1bf2f2f7cead8c229a98f95ab0758d5ced17cbe10974",
-  "sökning": 2,
-  "budget2027": true,
-  "sidor": 1,
-  "nämner_reformen": false,
-  "ord": [],
-  "belopp_nära_träff": false,
-  "träffar": [],
-  "antal_träffar": 0
  }
 ]

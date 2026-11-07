@@ -11,6 +11,8 @@ Poängen bygger på det som hämtades i veckan:
   +1  per ytterligare ny budgethandling för 2027 (högst +2)
   +2  fullmäktige beslutade budget för 2027 de senaste tre veckorna och statusen är inte 0
   +1  status 5 (Ej bedömbart än)
+Bara kommunens egna handlingar (webbplatsen eller en mötesportal) ger poäng. Tidningsartiklar
+och myndigheters dokument visas men räknas inte, eftersom de inte är budgethandlingar.
 Utan --antal tas alla kommuner med minst 4 poäng, men aldrig färre än 3 eller fler än 10.
 
 Listan skrivs till arbete/veckolista/<datum>.md och .json och till GitHub-sammanfattningen.
@@ -24,7 +26,8 @@ import sys
 from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(__file__))
-from gemensamt import DOKUMENT, SOKRESULTAT, VECKOLISTA, kommuner, las_json, skriv_json  # noqa: E402
+from gemensamt import (DOKUMENT, SOKRESULTAT, VECKOLISTA, kommuner, kommunhandling,  # noqa: E402
+                       las_json, skriv_json)
 
 STATUS = ["Pengar beslutade", "Pengar föreslagna", "Kostnad beräknad",
           "Nämnt utan belopp", "Ej nämnt", "Ej bedömbart än"]
@@ -37,6 +40,7 @@ def kf_datum(kf):
 
 def bedom(k, nya, korning):
     poang, skal = 0, []
+    nya = [d for d in nya if kommunhandling(d["url"], k)]
     reform27 = [d for d in nya if d["nämner_reformen"] and d["budget2027"]]
     reform = [d for d in nya if d["nämner_reformen"] and not d["budget2027"]]
     budget27 = [d for d in nya if d["budget2027"]]
@@ -70,7 +74,7 @@ def dokumentrad(d):
     if d.get("anmärkning"):
         rad += f". {d['anmärkning']}"
     for t in d["träffar"][:3]:
-        if not t["ord"].startswith("statsbidrag") or not d["nämner_reformen"]:
+        if t.get("reform") or not d["nämner_reformen"]:
             rad += f"\n  - s. {t['sida']}: …{t['utdrag']}…"
     return rad
 
@@ -116,7 +120,12 @@ def main():
         md += [f"## {i}. {x['kommun']} ({x['lan']})", "",
                f"Status nu: {x['status']} {STATUS[x['status']]}. Poäng {x['poang']}. "
                f"Varför: {'; '.join(x['skal'])}.", ""]
-        md += [dokumentrad(d) for d in x["dokument"][:6] if d["budget2027"] or d["ord"]]
+        egna = [d for d in x["dokument"] if kommunhandling(d["url"], data[x["id"]])]
+        andra = [d for d in x["dokument"] if d not in egna and d["nämner_reformen"]]
+        md += [dokumentrad(d) for d in egna[:6] if d["budget2027"] or d["nämner_reformen"]]
+        if andra:
+            md.append("\nAndra källor (räknas inte som budgethandling):\n")
+            md += [dokumentrad(d) for d in andra[:3]]
         md.append("")
     text = "\n".join(md)
 

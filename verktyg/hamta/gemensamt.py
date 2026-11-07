@@ -26,11 +26,18 @@ USER_AGENT = "larartiden-hamtning/1.0 (+https://github.com/erikscheffer-school/l
 PAUS_PER_VARD = 3.0  # sekunder mellan anrop till samma webbplats
 
 # Ord som tyder på att dokumentet handlar om reformen (samma ord som i metod/metod.md).
-REFORMORD = [
-    "reglerad undervisningstid", "undervisningstid", "undervisningsuppdrag",
-    "lärares arbetstid", "lärarnas arbetstid", "planeringstid",
-    "undervisningstimmar", "lärartäthet",
-]
+# Starka ord gäller reformen nästan alltid. Svaga ord används också om annat (garanterad
+# undervisningstid, förskollärares planeringstid) och räknas bara med reformsammanhang.
+STARKA = ["reglerad undervisningstid", "reglering av undervisningstid", "reglera undervisningstid",
+          "tid för undervisningsuppdraget", "undervisningsuppdrag", "lärares arbetstid",
+          "lärarnas arbetstid", "lärares undervisningstid", "reglerad undervisnings- och planeringstid"]
+SVAGA = ["undervisningstid", "planeringstid", "undervisningstimmar", "lärartäthet"]
+REFORMORD = STARKA + SVAGA
+REFORMKONTEXT = re.compile(r"regler|reform|nationell|lagförslag|lagändring|prop\.|proposition|1 juli 2027|sou 2025|2025/26:196", re.I)
+INTE_REFORM = re.compile(r"garanterad\W+undervisningstid|erbjuden\W+undervisningstid|förskollär|barnskötar", re.I)
+# Mötesportaler där kommunens handlingar ofta ligger på en annan domän.
+PORTALER = ["netpublicator", "meetingsplus", "ciceron", "lexkommun", "edok", "dokument.", "handlingar.",
+            "politik.", "sammantraden", "insynsverige", "kommunkartan.se/handling"]
 # Statsbidrag räknas bara som träff i närheten av lärare/undervisning.
 STATSBIDRAG = re.compile(r"statsbidrag", re.I)
 STATSBIDRAG_KONTEXT = re.compile(r"lärar|undervisn|skol", re.I)
@@ -72,6 +79,17 @@ def normalisera_url(url):
 def enkel(text):
     """Gemener utan diakritiska tecken utom åäö, för jämförelser av namn."""
     return unicodedata.normalize("NFC", text).lower()
+
+
+def kommunhandling(url, kommun):
+    """Ligger dokumentet på kommunens webbplats eller en mötesportal (inte en tidning eller myndighet)?"""
+    d, u = doman(kommun["w"]), url.lower()
+    return doman(url).endswith(d) or any(p in u for p in PORTALER)
+
+
+def namn_finns(namn, text):
+    """Kommunnamnet som eget ord, så att Ale inte matchar Salem."""
+    return re.search(rf"(?<![a-zåäöé]){re.escape(namn.lower())}(?![a-zäöé])", text.lower()) is not None
 
 
 def kanda_urler(data):

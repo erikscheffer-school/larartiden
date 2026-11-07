@@ -1,6 +1,6 @@
 {
  "antal": 5,
  "max_sok": 250,
- "kommentar": "Ändra och committa den här filen för att starta en hämtning direkt. antal tomt = 3–10 efter poäng.",
- "startad": "2026-11-07 13:52"
+ "kommentar": "Ändra och committa den här filen för att starta en hämtning direkt. antal tomt = 3–10 efter poäng. omanalysera: true = sök inget nytt, analysera om redan hämtade PDF:er.",
+ "omanalysera": true
 }
