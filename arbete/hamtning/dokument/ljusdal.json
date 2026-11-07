@@ -73,5 +73,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.1113076219dd79743ae2be0d/1778079766091/Protokoll%20utbildningsn%C3%A4mnd%20260429%20signerat.pdf",
+  "titel": "2026-04-29 pdf, 1.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b1aaf26be7c85c5175a8f351242946759d0b5bd6fb9b3145e1530f83493dec76",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

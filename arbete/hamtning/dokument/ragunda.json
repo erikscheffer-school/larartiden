@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ragunda.se/download/18.3679ff70193deb55b5b18b00/1736763785529/Budget%202025.pdf",
+  "titel": "Budget Ragunda kommun 2025 pdf, 605.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b2fc68a428c85e61f681a6c4666d88f23f35a046280ded478dc38c9f91e2306c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ragunda.se/download/18.3679ff70193deb55b5b1da3c/1737102468143/Bilaga%201%20-%20Fo%CC%88rslag%20Investeringsbudget.pdf",
+  "titel": "Bilaga 1 - Invisteringsbudget 2025 pdf, 305.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4ec75304746efb5022ff534491cbb314752ff6ee6e7c79375621ea72887e3eb4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ragunda.se/download/18.7efcb2d1a163265f394722/1793022302319/iPad%20Manual%20f%C3%B6rtroendevalda.pdf",
+  "titel": "iPad manual\npdf, 644.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2f39d963bd048840dc0a8fe6eb18c306d126f5d4ca27f334a1f3fa5c1418fe3c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

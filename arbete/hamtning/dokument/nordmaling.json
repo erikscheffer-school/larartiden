@@ -28,5 +28,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nordmaling.se/download/18.3c62992718bd3c7cac21184/1701686559161/Verksamhetsplan%202024.pdf",
+  "titel": "Verksamhetsplan (ärende 8)\npdf, 785.1 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a1020197506ea4f66c8e8ee3e5e0f01af54436e0546b9b75cdd249ab78c8d9dc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erksamheterna skall arbeta för en ökad delaktighet av barn och elever i arbetet med dessa planer genom att utveckla arbetssätt för ett ökat inflytande. Utifrån statsbidrag har ett arbete med problematisk skolfrånvaro påbörjats. Under hösten 2023 har ett närvaroteam startat upp som ett steg mot skolsocialt team. Skolsocialt team ä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "anen och uppdraget kring skola och arbetsliv är ett viktigt bidrag till att långsiktigt stärka Nordmalings kommuns näringslivsklimat. Nyttjandet av Skolverkets statsbidrag för utvecklingsarbetet är nödvändigt där riktade medel kan sökas för främjande och förebyggande arbete. De riktade statsbidrag har minskat i antal men samlats",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.nordmaling.se/download/18.c071ba181f4d4c1ad116d4/1666259880327/Kommunfullm%C3%A4ktiges%20handlingar%20del%202%20med%20Budget%202023.pdf",
+  "titel": "Kallelse med föredragningslista till kommunfullmäktige del 2,  2022-10-24 (pdf)\npdf, 21.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a6d7e83415d6a2e39b41f2a88cbe02085b10868ac9b06551e538bc37d04c81a9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 75,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.nordmaling.se/download/18.5e6ebc7a1a137b1841c437/1793611815717/Kallelse%20kommunstyrelsen%20261109.pdf",
+  "titel": "Kallelse till kommunstyrelsens sammanträde 2026-11-09 (pdf)\npdf, 183.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d1f82a28976d37d3e613f233355449561552e76c475c4c837ce8493c7129f1f5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

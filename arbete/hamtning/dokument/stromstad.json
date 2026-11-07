@@ -36,5 +36,109 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.750f70e0184b91d58dc502/1669650549850/Kallelse%20BUN%202022-09-20.pdf",
+  "titel": "Länk till kallelse\npdf, 8.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "76728a8760befe805767819c205777204b7348db815fac189f880ccecfa1e86f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 227,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 75,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "da \"Öppna jämförelser\" 20220830 En förskola utan förskollärare är ingen förskola, då det är förskolläraren som i enlighet med förskolans läroplan ansvarar för undervisningsuppdraget och därmed processen för att utveckla alla barn i enlighet med läroplanens strävansmål. Under verksamhetsåret 2021 sattes både ett politiskt samt verksamhet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nutbildningen mer än fördubblades under pandemin, detta bedöms främst ha sin orsak i att anställda i handeln permitterades och sökte utbildning för omskolning. Statsbidragen till vuxenutbildningen ökade från 2,5 miljon 2019 till 24 miljoner kronor 2022. I nuläget har Strömstad inte nyttjat hela statsstödet, utifrån att nämndbidra",
+    "belopp_nara": true
+   },
+   {
+    "sida": 26,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ggande behörighet till högskoleutbildning som påbörjas på grundnivå. Flera program utökas, både vad gäller antalet gymnasiepoäng och garanterad undervisningstid tex barn- och fritidsprogrammet, hotell- och turismprogrammet samt vård- och omsorgsprogrammet. 2024-2025  Garanti införs för tidiga stödinsat",
+    "belopp_nara": false
+   },
+   {
+    "sida": 84,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "på rätt plats, i rätt tid, till rätt kostnad (se 4:1.2 och 4:1.3). De insatserna sker i samarbete med rektorsgrupp i förskola Strömstad med stöd utifrån olika statsbidragsfinansierade nyckelpersoner samt av andra nyckelpersoner med riktat uppdrag i BUF:s stab. Vidare sker ute i verksamheterna ytterligare lokala uppstartade som s",
+    "belopp_nara": false
+   },
+   {
+    "sida": 107,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "våga och göra sitt bästa, det märks att elevernas förmågor har utvecklats, exempelvis vågar fler elever ta plats i grupp. En bra undervisning kräver planeringstid och förberedelse. När detta har fungerat så har undervisningen fungerat väl. När enheterna jobbar i mindre elevgrupper upplevs det ge mer kvalitét i",
+    "belopp_nara": false
+   },
+   {
+    "sida": 117,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "erna i undervisningen utifrån sina förmågor och förutsättningar vilket medför en total måluppfyllelse för samtliga elever. Efter analys av elevernas undervisningstid under läsåret 2020/21 visade då att undervisningen inte följde timplanen. Detta är åtgärdat inför detta läsår, verksamheten följer timplanen och elev",
+    "belopp_nara": false
+   },
+   {
+    "sida": 136,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "tydlig roll i utvecklingsorganisationen. Timplanerna på programmen har setts över och det är säkerställt att alla programmen håller den lagstadgade undervisningstiden. I vissa fall har det medfört att resurser har kunnat frigjorts för att skapa nuvarande stödorganisation. För att kunna slå samman små grupper och på s",
+    "belopp_nara": false
+   },
+   {
+    "sida": 181,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rganisation för det kommunala aktivitetsansvaret. Hur har arbetet fortlöpt? Ingen permanent organisation för den operativa delen är på plats, den är i hög grad statsbidragsfinansierad fortfarande. Styrgrupp och tvärprofessionell grupp är satta. Bifogat finns senaste uppföljning av KAA-arbetet. 9. Höstterminen 2022 träder en ny k",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 16
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.4df98bcb19bd13d969e216c4/1769095638949/Protokoll%20KS%202026-01-21.pdf",
+  "titel": "Protokoll KS 2026-01-21.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ad9acb54b95a4c527d57bf76651fa96b1699dbee51dd3dd3bff0687f392f094b",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.3dff4319c935838d8f4ec/1772203066967/Protokoll%20KS%202026-02-25.pdf",
+  "titel": "Protokoll KS 2026-02-25.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e3d1ef749d7f9fdcacad0c577e97dd896aa2c7e9e4e0f52e7dfbd3fefecd5ef4",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

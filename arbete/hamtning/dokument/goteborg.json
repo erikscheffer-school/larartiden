@@ -116,5 +116,87 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sejfer.se/nyheter/nyheter/2026/11/03/goteborg-skarper-krav-elsparkcyklar-2028/",
+  "titel": "Göteborg skärper kraven på elsparkcyklar – företag kan nekas mark 2028 - Sejfer",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "c3fa121bb73b9877cfa28ef5f62f2d2ec4e1b960c53d5d53f5543b21dc5b1b95",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www4.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/F3CE639DD48E71FAC1258DC300432486/$File/8_20260401.pdf?OpenElement=",
+  "titel": "Göteborgs Stad kommunstyrelsen 1 (2) Yttrande angående kompletterande",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "79977538e4f5f2ea2ef859a81d73f846741e74daa629d70e9e18568fd3397a64",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 350,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 163,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": ". Utifrån insatserna har andelen utbildad personal totalt ökat från 89,8 procent i oktober 2024 till 93,8 procent i oktober 2025 och förskollärartätheten i utsatta områden har ökat. Förskoleförvaltningen har under våren 2025 sett över systematiken och strukturen för uppföljning av förskolor",
+    "belopp_nara": false
+   },
+   {
+    "sida": 169,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "genom anpassningar av anställningar och lovjobb. Inom sfi har arbetet effektiviserats genom förbättrad närvarouppföljning, längre undervisningstid och kvalitetssäkring av undervisningen. Uppföljning visar stärkt studievana, och arbetsinriktad sfi är nu fullt implementerad. Det ökade ar",
+    "belopp_nara": false
+   },
+   {
+    "sida": 322,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "g. Vidare prioriteras förbättrade förutsättningar för rektorer att arbeta med sitt chefs- och arbetsmiljöansvar samt ökade möjligheter till planeringstid för förskolans pedagogiska verksamhet. Utgångspunkten för förvaltningens arbete inom arbetsmiljöområdet är att tidigt fånga upp risker för",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://goteborg.se/wps/wcm/connect/9a3e6583-ce71-4ed8-aabf-46e69661cf8d/Rapport+2026_10+Handledning+f%C3%B6r+samh%C3%A4llsekonomiska+analyser+och+inkludering+av+h%C3%A5llbarhetsnyttor.pdf?MOD=AJPERES",
+  "titel": "Handledning för samhällsekonomiska analyser och inkludering av hållbarhetsnyttor",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c8a2254e3bf9759a67a37ff7017a2aacedf5c70c9451de74f465cc66bba91b68",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www4.goteborg.se/prod/Intraservice/Namndhandlingar/SamrumPortal.nsf/87F7F776FE53A22BC1258E0B003155E2/$File/Snabbprotokoll_20260603.pdf",
+  "titel": "Göteborgs Stad, kommunstyrelsen snabbprotokoll 1 (11) Snabbprotokoll",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "16199469377b76a64ad0bdff7b624a034d98de0e6e512735c5244fbfec7906ba",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

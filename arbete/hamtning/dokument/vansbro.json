@@ -28,5 +28,57 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vansbro.se/download/18.4953b4f71a0ada95b47b00d3/1790674382276/Fastst%C3%A4lld%20delegationsordning%20att%20g%C3%A4lla%20fr%C3%A5n%20och%20med%202026-10-01.pdf",
+  "titel": "Kommunstyrelsens delegationsordning pdf, 2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "24bae214d98157136a1717db726c22676257ad722ff5c9db38c74ef2aaa2c120",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 191,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 125,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "5 avslag om begäran av tilläggsbelopp Beslut om fördelning av Skolförordningen 9 kap 4 § Skolchef 2018-10-16 33.6 undervisningstid mellan årskurserna (timplan) Beslut om språkval Skolförordningen 9 kap 5 § Rektor 2018-10-16 33.7 Beslut o",
+    "belopp_nara": false
+   },
+   {
+    "sida": 127,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "örvaltningsdomstol hemkommunen Beslut om ytterligare Skolförordningen 10 Rektor 2018-10-16 34.8 undervisningstid kap 2 § Beslut om fördelning av Skolförordningen 10 Skolchef 2018-10-16 34.9 undervisning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 130,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "vid en fristående gymnasieskola Beslut om utbildningens omfattning och Skollagen 17 kap 6 § Rektor 2019-12-03 36.16 garanterad undervisningstid på introduktionsprogram Beslut om plan för Skollagen 17 kap 7 § Rektor 2019-12-03 36.17 introduktionsprogr",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725/",
+  "titel": "fjärde kapitlet av Kommunallagen, \nLänk till annan webbplats, öppnas i nytt fönster.",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "2aac6d733a29840ec254d435f24627a2049a3ef6fd2146b8c3ce09cba579e97a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -13,5 +13,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/Verksamhetsplan-med-budget-2026-2028-1.pdf",
+  "titel": "Verksamhetsplan med budget 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0011e2837f95588658d5c960ad544dcf253b3f923cc2f08aab7e1c007829a148",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/Verksamhetsplan-med-budget-2025.pdf",
+  "titel": "Verksamhetsplan med budget 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aadb74bfc54b826432a49a7f62f6634577f8d5663336458e33bc0ba5b323814e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "betydelse att följa utgångsläget kommunens resultat uppgå till minst 2,0 befolkningsutvecklingen i de åldersgrupper som procent av skatteintäkter, generella statsbidrag och omfattas av dessa verksamheter. I det första utjämning. diagrammet visas barn och ungdomar inom förskola, •",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/Budget-2024-25-26.pdf",
+  "titel": "Verksamhetsplan med budget 2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4e7a05b2bee3101da8484f75f61326b133391a7c7f0cafebfb3a743d18f80ed9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

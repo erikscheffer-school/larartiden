@@ -28,5 +28,85 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tierp.se/download/18.13d975e31a12f7e7d3310a7/1791891772123/Kallelse%20och%20dagordning%20KF%202026-10-20%20.pdf",
+  "titel": "Kallelse och dagordning KF 2026-10-20 .pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e47930f4d1cdc673b7d06f5935a2f4994d50a9b639947a89c7eca73daa87b866",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tierp.se/download/18.13d975e31a12f7e7d3310a6/1791891755943/Handlingar%20KF%202026-10-20.pdf",
+  "titel": "Handlingar KF 2026-10-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5e7d1ee0db9c1eff6bb7024bf25e15a2edeec68a24a091137ed8fbe1aad0e73f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 90,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 66,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "jer det i stort den ekonomiska skolors olika förutsättningar? resurstilldelningen. I skolor med stora socioekonomiska utmaningar har lärartätheten ökats markant senaste åren och i vissa skolor har tvålärarsystem införts med två lärare per klass i ordinarie undervisning. Även elevhälsan har utökats med m",
+    "belopp_nara": false
+   },
+   {
+    "sida": 68,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "urser ingår i granskningen att beskriva och det gäller resurser, resultat och möjligheter för elever att nå målen. Denna skillnad har analysera lärartäthet och lärarbehörigheter i en jämförelse mellan de olika dessutom ökat kraftigt sedan 1990-talet.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 69,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "son, certifierad kommunal yrkesrevisor. Granskningen avser Kommunstyrelsen Metod Granskningen har tagit avstamp i en dataanalys avseende kostnadsfördelning, lärartäthet och resultat. Utöver detta genomförs granskningen genom dokumentstudie av relevanta dokument samt intervjuer med berörda tjänstepersoner och politiker. Kvalit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 75,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "socioekonomiska skillnader. Även elevhälsoresurser finns inbakade i skolans budget, med undantag för psykologresurs som finansieras och organiseras centralt. Statsbidragen går i hög utsträckning till att öka personaltätheten på skolorna. Alla medel fördelas ut utifrån kända behov vid läsårets start. Inflytt och växande behov u",
+    "belopp_nara": false
+   },
+   {
+    "sida": 78,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "re i kommunal grundskola årskurs 1-9. Vi kan Aspenskolan 12,5 11,6 10,7 12,9 10,3 11,5 konstatera att Tierp har en över tid ökande lärartäthet med allt färre elever per lärare. Trenden följer inte bara övriga kommuner i jämförelsen utan avviker ytterligare något åt Björkängsskolan 11,1 12,0",
+    "belopp_nara": false
+   },
+   {
+    "sida": 81,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ntar Bedömning Vi kan konstatera att Tierps kommun har en relativt hög lärartäthet generellt. Denna Vår bedömning är att lärartätheten är mycket god i Tierps kommuns grundskolor. varierar mellan skolorna utifrån vilka behov som f",
+    "belopp_nara": false
+   },
+   {
+    "sida": 88,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kfel som riskerar att leda till felaktiga vidtagits de senaste åren avseende omfördelning av resurser och satsning på slutsatser och åtgärder. lärartäthet och i vissa fall två-lärar-system, ger de resultat som förväntas. Vi bedömer dock att åtgärderna är grundade i forskning och beprövad erfarenhet och borde leda",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 17
  }
 ]

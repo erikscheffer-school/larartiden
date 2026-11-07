@@ -13,5 +13,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.58ec93661a133f6ee1f2187f/1792133173629/Kommunfullm%C3%A4ktige%202026-10-26.pdf",
+  "titel": "Kommunfullmäktige 2026-10-26.pdf\nPdf, 23 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0d488f69d79944e4ce806ff2cf26123a56890ed296f47d5500cab6e71fe9af56",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 380,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.58ec93661a133f6ee1f52332/1792411175034/Kallelse%20kommunstyrelsen%202026-10-27.pdf",
+  "titel": "Kallelse kommunstyrelsen 2026-10-27.pdf\nPdf, 114.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9683250547c14d701638ca2ef0098b388873c130be722cffa8a69feab68845b2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.642472ba1a162ec5efa68a69/1793295409342/Kommunstyrelsen%202026-11-03.pdf",
+  "titel": "Kommunstyrelsen 2026-11-03.pdf\nPdf, 129 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ee4e4193e98c6008fd736a6fed7bb49bbeddbe70870ace88a403abaaa457311b",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

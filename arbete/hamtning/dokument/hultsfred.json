@@ -88,5 +88,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/01/Gemensamt-reglemente-ks-bun-soc_20260101.pdf",
+  "titel": "Gemensamt reglemente för kommunstyrelsen, barn- och utbildningsnämnden och socialnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "211ece08007c31de3b4519d369ca4e4c3cf25f7baf4b212a8e6a84ed82256451",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/11/Protokoll-fran-barn-och-utbildningsnamnden-2026-10-28.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "22c8e0c2b690848877dd6860a964ab20f7ec1ea2ae5009b74ca42838825e819c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ing efter besök i Hultsfreds gymnasium 3, anpassad gymnasieskola, den 16–17 september 2026 4. Skolverket Beslut om omprövning statsbidrag för läxhjälp 2026. Beslut om statsbidrag för barn som vistas i landet utan tillstånd höstterminen 2026. ___ Justerandes",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/08/Kallelse-till-barn-och-utbildningsnamnden-2026-08-26.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9a00668c02458fd619e8f22efd86b0619e26e9598f2a2f4f266286cbdf74dd43",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

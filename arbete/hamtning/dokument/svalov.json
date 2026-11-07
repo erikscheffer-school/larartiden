@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.388a71c218c629a9875505c/1702540673931/Ans%C3%B6kningsblankett%20Komvux%20anpassad.pdf",
+  "titel": "Ansökningsblankett  komvux som anpassad utbildning pdf, 497.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "513fc95b54362ef52df9d952e3583f8d374ff17477c87aae6a71386a3bce69ee",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.3b1dd4ca19eb47371761ed9f/1781182617642/Kurslitteratur%20vuxenutbildningen%20HT26.pdf",
+  "titel": "Lista för kurslitteratur alla kurser HT26 här pdf, 113.7 kB.Lista för kurslitteratur Naturkunskap VT26 här pdf, 117.1 kB..",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "20362535f5825f1c888602345a2953a38100c1c47a59942f844be7da526eb7ca",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.485bd24217f4498682056651/1649163861760/E-blankett%20SFI%20ans%C3%B6kan.pdf",
+  "titel": "För att ansökan ska kunna behandlas är det viktigt att du fyller i alla uppgifter. Du kan få vänta upp till tre månader på att börja studera, då det p",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "51d3ffaf4e2cfbd8f7eeb1f7876c96391890bc5e8e8bed44e298f861d06c2eba",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

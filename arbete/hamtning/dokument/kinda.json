@@ -1,0 +1,70 @@
+[
+ {
+  "url": "https://www.kinda.se/download/18.2dbcc4b819bc63a479f864b6/1769528937303/Budget%202026.pdf",
+  "titel": "Budget 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b0ef97d9b2c554735a10476e35ad244079a139dca5d1e84c1eb49361dc59b23b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "som har specialpedagogisk kompetens. Andelen lärare med sådan utbildning har ökat kraftigt under mandatperioden – tack vara en politisk satsning kombinerad med statsbidrag. Detta har gett elever och lärare tillgång till bättre stöd och möjliggjort stödundervisning i mindre sammanhang på alla skolor och särskilt i de lägre åldrarn",
+    "belopp_nara": false
+   },
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "illgång till litteratur och läromedel Barn och unga ska ha god tillgång till fysiska böcker, både skönlitteratur och läromedel. Satsningar från såväl nämnd som statsbidrag och sponsring har inneburit ett fantastiskt utbud av litteratur och läromedel för alla kommunens barn- och unga. I samband med byggnationen på Rimforsa skola f",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.kinda.se/download/18.6aa2f733194c8e4cf1d6e739/1739264572936/Budget%202025.pdf",
+  "titel": "Budget 2025.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aac114c93a6af487e1c84d2e851449013c0df29573bd96d2353c7b29d3764483",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kinda.se/download/18.4494a6518b128056774f9ac/1712818182118/Budget%202024.pdf",
+  "titel": "Budget 2024.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "25635ca50379902f1bca558ecde72afeca62b920dd76f40fef0519f76e18f9ac",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ambehov bibehållen verksamhet förskola -2 000 -100 -100 -100 Rambehov bibehållen verksamhet komvux (3 500 tkr) och ökade statsbidrag (-1 600 tkr) 1 900 Beslutsår 2024 Summa 1 466 1 400 1 350 1 350 Bi",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
+ }
+]

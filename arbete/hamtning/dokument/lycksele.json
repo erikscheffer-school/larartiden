@@ -21,5 +21,35 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.lycksele.se/globalassets/dokument/6-kommun-och-politik/handlingar-och-protokoll/sammantradesplan-2026-kf.pdf",
+  "titel": "Sammanträdesplan",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cf8da8754f111e0177693f7351c3312d8f13200297cf5cf5850d5e7b0e25f5bd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.notisum.se/rnp/document/?id=20090400",
+  "titel": "offentlighets- och sekretesslagen.",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "687e731bedb92dbaec36d1e0159dca3964fe98d070dbabbb6bdbf7caa91bc3a2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -51,5 +51,60 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.1f34ec7719e639278e11393c/1780643762805/Budget%202026%20och%20ekonomisk%20fler%C3%A5rsplan%202027-2028%20beslutad%20i%20KF%202025-11-24.pdf",
+  "titel": "Budget och ekonomisk flerårsplan I vår Budget 2026 pdf, 3.9 MB. finns information om hur budgeten fördelas. Budget 2026 och ekonomisk flerårsplan (EFP",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "04a45fb0fa174df696e10f012e1aa51eb6d4ce37988e581315a3e9d90c3c1a3e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.82035bf1934c1405faa9/1732626146454/Budget%202025%20och%20ekonomisk%20fler%C3%A5rsplan%202026-2027%20beslutad%20i%20KF%202024-11-25.pdf",
+  "titel": "Budget 2025 och ekonomisk flerårsplan (EFP) 2026-2027\npdf, 3.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dc44ef1a28a0c5ecb8dd14836278fb541d2d9897b0c83a22ddeeb06d30b59d6d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 44,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 39,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "-8,7 Effektiviseringsåtgärder (generella statsbidrag) -0,7 Generella statsbidrag, finansieringsprincipen (utökad undervisningstid, digitalt och 0,7 centralt rättade nationella prov, statistik om skolväsendet, förstärkning av SFI, gemensamt skolval, förstäkning av likvärdighetsuppdra",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.180050e218c319d525caf299/1701804420838/Budget%202024%20och%20ekonomisk%20fler%C3%A5rsplan%202025-2026%20belutad%20i%20KF%202023-11-27.pdf",
+  "titel": "Budget 2024 och ekonomisk flerårsplan (EFP) 2025-2026\npdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "af8bae7895e5d0c88e58a0bf3fbea5665a9ed5f0edd17d1cd4418122548c416a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -88,5 +88,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lidkoping.se/download/18.4d3f227c190e3477ba3115ea/1723469306579/Strategisk%20plan%20och%20budget%202025-2027.pdf",
+  "titel": "Strategisk plan och budget 2025-2027\npdf, 439.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bb54197cccd8d5c293a192797321da31acbabb42249bc7c4a29649b39f1a5dbd",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lidkoping.se/download/18.50ea560f18d202b65154cae/1706106230105/Strategisk%20plan%20och%20budget%202024-2026%20till%20webben.pdf",
+  "titel": "Strategisk plan och budget 2024-2026\npdf, 1.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f853c4720f2fdd2ec81cf4fe09f186ca0e46649962759bf3a99bcbef67929c41",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lidkoping.se/download/18.2bae7de0180f9b57d59285e9/1657180410461/Strategisk%20plan%20och%20budget%202023-2025%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Strategisk plan och budget 2023-2025\npdf, 3.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "37a19d54cdbcb16c3af41cda9861fb0682da0bb8fa93e78483781f9692acf998",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

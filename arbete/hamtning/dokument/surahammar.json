@@ -44,5 +44,50 @@
   "träffar": [],
   "antal_träffar": 0,
   "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://surahammar.se/download/18.5d8e596c179f5fcc77c120a4/1624968005435/Arbetsordning%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "arbetsordningen\npdf, 472 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ae731d45e24d70815051dd4d00180547f6ac9a06bab585593ebfc3e72272f789",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.641058b5190a227ec2113202/1723811279581/Kallelse%20KF%202024-08-19%20Budget%202025%20Surahammars%20kommun.pdf",
+  "titel": "Kallelse KF 2024-08-19 Budget 2025 Surahammars kommun.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e1dc26f3a724f1629e6341a29cd9d6166dd1d391114350be415e518a1658d04e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.62732da117a760b300f394e4/1630910244612/KS%202021-08-23%20Majoritetens%20Budgetf%C3%B6rslag%202022.pdf",
+  "titel": "KS 2021-08-23 Majoritetens Budgetförslag 2022.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cea7b643b65076ccde19079db3043ccc1c43310f8074eb6fb9be348be799f7da",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -28,5 +28,112 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.3ef958f71a12f5f33eb41339/1791978908532/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-21.pdf",
+  "titel": "Ärendelista och handlingar 21 oktober 2026 (pdf) pdf, 9.9 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "85e08825548b714fddf8f6e05ecd2ab3b5e1a03781f52dbe68bd818f14f940d7",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 136,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 59,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "för kränkande behandling av någon i personalen. Ändringen omfattar all personal. Orden lärare och förskollärare har strukits. Enligt Proposition 2025/26:196, Tid för undervisningsuppdraget, bedömer regeringen att det inte alltid måste finnas skriftlig dokumentation för att omständigheterna kring en händelse ska kunna utredas. Det viktiga är att r",
+    "belopp_nara": false
+   },
+   {
+    "sida": 50,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "t finns också pedagogiska hänsyn att beakta. Antalet sökande till naturvetenskapsprogrammet är vanligtvis färre än 16. Om elevantalet överskrider 16 krävs att undervisningstiden i kemi, fysik och biologi utökas för att genom gruppdelningar garantera säkerheten vid laborationer. Det är förenat med kostnader som skolan kan undvika geno",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.262f6d591a12f6f9bcb3c2f8/1791966875933/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-15.pdf",
+  "titel": "Ärendelista och handlingar 15 oktober 2026 (pdf) pdf, 28.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2ce80e0bae289be6e832d1ccce90e625b6f8efc818014c50c204c5bb406f86da",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 609,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 126,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rna ska stärka elevernas kunskaper och lärarens roll i klassrummet, och bidra till en tryggare skola. Nya läroplaner och förändrat betygsystem införs. Lärarnas undervisningstid, både i skola och förskola, fastställs. Reformerna, 25 stycken till antalet, kräver ett omfattande arbete av huvudman, rektorer, lärare och stabsfunktioner. De",
+    "belopp_nara": false
+   },
+   {
+    "sida": 84,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "budgetavvikelse om 0,7 mnkr. Enheterna visar en avvikelse på 0 mnkr. Ett överskott finns centralt kopplat till bland annat avstämningen av barnantalet 15 mars, statsbidrag samt familjecentralen. Grundskolan har en positiv budgetavvikelse om 9,1 mnkr. Enheterna visar en avvikelse på 5,9 mnkr och resterande ligger centralt. Kostna",
+    "belopp_nara": true
+   },
+   {
+    "sida": 123,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". Skolskjutsar prognosticeras med ett mindre underskott (- 0,6 mnkr). Medel för medicinska behov (0,4 mnkr) finns för eventuella uppkommande behov till hösten. Statsbidrag för personalförstärkning för specialpedagoger (0,6 mnkr) kom i juni och påverkar resultatet positivt. Enheterna visar en prognos på 1,2 mnkr. 3 enheter progno",
+    "belopp_nara": true
+   },
+   {
+    "sida": 125,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n är 3,5 mnkr. Övergripande: 1,7 överskott handlar om IKE och skolskjutsar/elevtransporter. Vuxenutbildningen: 0,3 kopplat till personalkostnader och inkomna statsbidrag. Nationella programmen: -0,7 kopplat till personalkostnader. IM/modersmål: 0,5 kopplat till personalkostnader och inkomna statsbidrag Anpassad skola: 1,5 vi",
+    "belopp_nara": true
+   },
+   {
+    "sida": 127,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och elevhälsan börjar efterträdaren till höstterminen och det gjorde att det blev en lucka på två månader. Skolpsykolog är rekryterad och började i augusti. Statsbidrag för personalförstärkning inom elevhälsa för 2025 fick vi ett mer positivt beslut (0,4 mnkr) än vad vi förväntade oss. Barn- och elevhälsan har sökt och blivit",
+    "belopp_nara": true
+   },
+   {
+    "sida": 29,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "en av insatserna.  Att prioritera matematik, där flera kurser uppvisar hög andel F och låg genomsnittlig betygspoäng.  Att behålla 100 undervisningstimmar i matematikkurser om 100 poäng och överväga utökad undervisningstid i matematik nivå 1a och 1b.  Att utveckla ett skolövergripande arbete med",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5d1f31c21a163242f9682265/1793025259071/Protokoll%20kommunstyrelsen%202026-10-01.pdf",
+  "titel": "Protokoll 1 oktober 2026 (pdf) pdf, 531.1 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0259efb4ad6cfa72e6f6e7455939cb126205eb783446fe424f38ae83b4891f22",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

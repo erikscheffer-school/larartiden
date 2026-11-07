@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.ydre.se/download/18.6b5a53e019c4795fa8cb732/1771859807956/Protokoll%20vn%202026-02-16.pdf",
+  "titel": "Protokoll vn 2026-02-16",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f3820d28966fa73b34967470d3b0f92247ab09be617b72caf53b06b6ccea56ff",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.5d99862e19e48bc8f261779/1779456356871/Protokoll%20vn%202026-05-12.pdf",
+  "titel": "Protokoll vn 2026-05-12",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6674172e721c755b9de7a06a116b944205576d1369a2dd9fcb65f3fbfcd841fe",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.7cfa51c219ddcb7f64f5218/1778066028681/Kallelse%202026-05-12.pdf",
+  "titel": "Kallelse 2026-05-12",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f3b4f0c07be73338680483ad27f759446dc3408427b515ad534be05a4d6394d1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -43,5 +43,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://solvesborg.se/download/18.76dfff1b19ed42d8839bc403/1784108693828/Kommunstyrelsens%20protokoll%20260715%20-%20Delegationsbeslut%20ej%20anm%C3%A4lda%20till%20n%C3%A4mnd%20sign.pdf",
+  "titel": "Kommunstyrelsens protokoll 260715 - Delegationsbeslut ej anmälda till nämnd sign.pdf\nPdf, 636.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e579aa7a7851ae477ca6c1189991125c337029c9f190f0ea951432fad2fb3e3f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://solvesborg.se/download/18.175c4d3f1a1a18a322c1e2a/1793801101185/Kallelse%20KS%20261110.pdf",
+  "titel": "Kallelse KS 261110.pdf\nPdf, 26.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aea63e77fbedff721bb7de171e01a28c9880296bb37aea28eff5048814b2261e",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 442,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 50,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "lutas när system inte längre används eller när personal slutar. • Risk att den garanterade undervisningstiden inte följs i huvudmannens verksamheter. • Risk för att styrdokument beslutade av nämnden",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://solvesborg.se/download/18.4f0dfe81a15ccdc28e20af/1792658278837/Kallelse%202026-10-28%20BUN.pdf",
+  "titel": "Kallelse 2026-10-28 BUN.pdf\nPdf, 861.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e51826dc7341b840ebf0e2de577873b9aa48c89c6afd95ea7cfac406f8e66d5c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

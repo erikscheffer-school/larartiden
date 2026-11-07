@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.karlskoga.se/download/18.1736b2101a19dadd57cdff/1793699197949/%C3%84rende%2013%20M%C3%A5l%20och%20budget%202027-2029.pdf",
+  "titel": "Ärende 13 Mål och budget 2027-2029.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "09846af0d9b5d91874465cfcddf00f65de93e8580f4c208405ac904532d05cd2",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.karlskoga.se/download/18.184044241a10d2bd07a278c/1791975242620/%C3%84rende%202.%20Politiskt%20uppdrag%20m%C3%A5l%20och%20budget.pdf",
+  "titel": "Ärende 2. Politiskt uppdrag mål och budget.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3d0d3e97da5117b8689be586643bf5e543c69e2b718f913fc2940cd03bc46e74",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.karlskoga.se/download/18.184044241a10d2bd07a311f/1792070344718/%C3%84rende%203%20-%20Omdisponering%20investeringsbudget%202026%20.pdf",
+  "titel": "Ärende 3 - Omdisponering investeringsbudget 2026 .pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b98e7fdd20dfd9141e6fd6ea45b9beaed3664d27f7ec41218b9bda0f2fab7641",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

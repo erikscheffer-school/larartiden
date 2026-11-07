@@ -58,5 +58,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.242969cb19d7240b84f9ce3/1775832653471/KS%202026-04-08.pdf",
+  "titel": "Sida 1(44) Justerandes sign Utdragsbestyrkande",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3d1f3bcb11ad6695b0bc70c0cf8d73e0a626b4141b2147efa46a957e0c82f50c",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 45,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.68bbff2f1a1a17489d97a51/1793802004682/Kommunstyrelsens%20individutskott%202026-11-04.pdf",
+  "titel": "Kommunstyrelsens individutskott 2026-11-04.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "208899c5da089ecf936ba39a1da69bc77c6b4b792a29568c1544270a1a3e60ee",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.osby.se/download/18.68bbff2f1a1a17489d97a38/1793801953112/Kommunstyrelsen%202026-11-04%20omedelbart%20justerat.pdf",
+  "titel": "Kommunstyrelsen 2026-11-04 omedelbart justerat.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b9fd840acba9e2567cb3a8987a4763a711d45fd06bcac81e1c56fdc1fb57d707",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

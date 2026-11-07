@@ -28,5 +28,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vargarda.se/download/18.558f0b6718a9713cdab28b/1695189970395/Vuxenutbildning,_Ans%C3%B6kan%20sfi.pdf",
+  "titel": "Ansökningsblankett SFI AppRegistry.registerApp({applicationId:'se.soleilit.actionLink|3.1.0',htmlElementId:'svid12_558f0b6718a9713cdab28f',route:'/',p",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1b31db82402fa731dfd21e137a1454ddb886b65d38a9ac904d183d2e1f79a6da",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vargarda.se/download/18.5bfd660b19ea2794f9d1969/1793031391780/Protokoll%20Kommunfullm%C3%A4ktige%202026-10-21.pdf",
+  "titel": "Ta del av protokollet i sin helhet",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7d7fe7b764504d65f8e2febf91fa6affc7f9fa17f8811840ab633f0c670fec0e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

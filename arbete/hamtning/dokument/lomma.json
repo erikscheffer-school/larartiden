@@ -88,5 +88,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lomma.se/lsg/lsgstartsida/vanligafragor.4552.html",
+  "titel": "Vanliga frågor - Lomma kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "99ab4111c54cd3a14dfa60e0d6105041b85b46e2c2c54896207177c1f23636f1",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

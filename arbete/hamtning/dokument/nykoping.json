@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2026-och-flerarsplan-2027-2028.pdf",
+  "titel": "Budget 2026 och flerårsplan 2027-2028",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "78dddca8bce0dd4ce73dcb70a3dc257eabd5af19be097a56d6b1d1b45f742b62",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 66,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2025-med-flerarsplan-2026-2027.pdf",
+  "titel": "Budget 2025 och flerårsplan 2026-2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "35ba27517f8ac898c7572dc76fab66b4ce56eb46b21510c2b85de1590d2fd1fd",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 64,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2024-och-flerarsplan-2025-2026.pdf",
+  "titel": "Budget 2024 och flerårsplan 2025-2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6a940175afc354d30983e390adc726d48fefebd1fb049e27f7c38b59c4414a14",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

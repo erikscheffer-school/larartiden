@@ -13,5 +13,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://torsby.se/download/18.c08c035187740912272656e/1682060930537/1_8%20KF%20Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige%20.pdf",
+  "titel": "Arbetsordningen för kommunfullmäktige i Torsby kommun\npdf, 564.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b0c4e096b1d6df00997d619e391cc3cdf00d919d4ad9bb57a703c95628010b57",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

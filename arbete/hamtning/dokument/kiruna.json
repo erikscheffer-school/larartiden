@@ -58,5 +58,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://kiruna.se/download/18.369d94fd197625529281eab/1750062362153/Antaget%20budgetdirektiv%202026-2029.pdf",
+  "titel": "Budgetdirektiv 2026-2029 pdf, 401.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c1b2b4c1c0dbdb17df00d1b20797cfe2deed563ae79659c2e18bc0801d597118",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

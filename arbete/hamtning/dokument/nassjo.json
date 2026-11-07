@@ -81,5 +81,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nassjo.se/download/18.52ef10e71a186b1f98c1aaf/1793346546320/Protokoll%20kommunfullm%C3%A4ktige%20den%2029%20oktober%202026.pdf",
+  "titel": "Protokoll kommunfullmäktige den 29 oktober 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a3a855743bb519a7a36375eaa560dc612839ef5b0b5d46d8a71279d9993046f4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nassjo.se/download/18.4fff94381a036a800253a2c0/1790939529531/Protokoll%20kommunfullm%C3%A4ktige%20den%2024%20september%202026.pdf",
+  "titel": "Protokoll kommunfullmäktige den 24 september 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "375393fa300fecedf1485941c282624e46793e075464fe3bebdf2cf779f14a63",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nassjo.se/download/18.7e11c26f19e3df8f0b9b5a6/1780034817441/Protokoll%20kommunfullm%C3%A4ktige%20den%2021%20maj%202026.pdf",
+  "titel": "Protokoll kommunfullmäktige den 21 maj 2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a204aa8159c08f9ead4a85243e9bc606ea9c7a12acb8db62dd4705a14bc58455",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

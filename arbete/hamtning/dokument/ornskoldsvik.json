@@ -73,5 +73,79 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ornskoldsvik.se/download/18.5dd57ed519e636b69015e16/1779888563231/%C3%85rsredovisning%202025.pdf",
+  "titel": "Se Budget 2026 (öppnas i nytt fönster) Se budget 2025 (öppnas i nytt fönster) Årsredovisning 2025 Se Delårsrapport augusti 2025 Se årsredovisning 2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "743b9d85a493f2523af5ac3f3ac2639a56d9dbed7a835ae92d2500079bd82b18",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 80,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t ökat med 4,4 % (32 Mkr) jämfört med föregående år. Ökade intäkter förklaras i huvudsak av årlig indexering av hyror, taxor och avgifter samt av högre riktade statsbidrag. Kommunen har exempelvis erhållit mer riktade statsbidrag till skolverksamhet och omställning till ny socialtjänstlag samt till God och nära vård men däremot l",
+    "belopp_nara": true
+   },
+   {
+    "sida": 64,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "7,8 85,8 376,7 371,7 666,6 653,0 Riktade statsbidrag intäktsförs i takt med att villkoren uppfylls. Upplupna riktade statsbidrag är hänförliga till skola och kulturverksamhet. Not 18 Kassa och bank",
+    "belopp_nara": false
+   },
+   {
+    "sida": 66,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2,9 855,6 785,5 1 229,8 1 138,1 Riktade statsbidrag intäktsförs i takt med att villkoren uppfylls. Av förutbetalda riktade statsbidrag är huvuddelen hänförliga till skola och äldreomsorg. Not 24 Pensionsförpl",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.ornskoldsvik.se/download/18.24b093fd19b2bceef7d74d4f/1767800299737/Del%C3%A5rsrapport,augusti%202025.pdf",
+  "titel": "Se Delårsrapport augusti 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ecba3b5dda1df54d43f9f2a166153051fbb7a491be0fa92d52bc357843f82dc7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 58,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "med 22 Mkr jämfört med motsvarande period ifjol. Ökade intäkter förklaras i huvudsak av årlig indexering av hyror och taxor och avgifter samt av högre riktade statsbidrag. Kommunen har exempelvis erhållit mer riktade statsbidrag till skolverksamhet och omställning till ny socialtjänstlag men däremot lägre riktade statsbidrag til",
+    "belopp_nara": true
+   },
+   {
+    "sida": 50,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ch ett tilläggsbelopp om 1,4 Mkr. Av det erhållna bidraget 2024 avser 4,1 Mkr 2025, av de så är 2,7 Mkr intäktsförda på perioden och 1,4 periodiserade. Riktade statsbidrag intäktsförs i takt med att förutbetalda villkoren uppfylls. Av riktade statsbidrag är huvuddelen hänförliga till skola och äldreomsorg. Not 24 Pensionsförpli",
+    "belopp_nara": true
+   },
+   {
+    "sida": 48,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "85,8 373,4 371,7 599,3 653,0 Riktade statsbidrag intäktsförs i takt med att villkoren uppfylls. Av upplupna riktade statsbidrag är huvuddelen hänförliga till skola och äldreomsorg. Not 18 Kassa och bank",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
  }
 ]

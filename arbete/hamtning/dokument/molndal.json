@@ -120,5 +120,137 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce91/1763657725188/Budget%20plan%202025-2027.pdf",
+  "titel": "Budget plan 2025-2027.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a26b91870908352d095d86519380a39f004d1f5d86f994890a6387220e5dd037",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 61,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Karriärstjänster 7,1 7,1 7,1 17,8 mnkr respektive 6,4 mnkr. Utöver ovan objekt så tillkom­ Statsbidrag för kvalitetshöjande åtgärder 18,3 18,3 18,3 mer även Brattåsskolan och från 2027 Sörgårdsskolan. Nämnden Summa",
+    "belopp_nara": true
+   },
+   {
+    "sida": 4,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "avsett hamnar i kriminalitet. Vi satsar därför på att stärka konjunkturläge anser vi att våra gemensamma resurser först lärartätheten per barn, för att främja såväl elevernas och främst ska gå till kärnverksamhet. Högre kvalitet går resultat som närvaron i skolan. Vi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Pendlingskommuner 5,7 5,6 5,5 Generella statsbidrag till skolområdet Riket 5,1 5,1 5,1 Enligt 2022 års s",
+    "belopp_nara": false
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "älpa unga nyanlända kvinnor yrkesinriktning inom GR-samverkan, delfinansieras genom statsbidrag 527 550 530 med låg tidigare utbildning i yrkesutbildningar eller arbete/ praktik. Tidiga resultat i projektet visar på en",
+    "belopp_nara": false
+   },
+   {
+    "sida": 53,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "grundskola. Skolan kommer ha kapacitet för 95 elever. 52 Utveckling av befintligt GC-nät, statsbidrag 37 Krokslättsskolan hus A, ventilationsombyggnad, Bidrag från regional infrastrukturplan via Trafikverket för tillgänglighetsanpassning etc",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.molndal.se/download/18.24ecca8419ae7c7212179/1764834186427/Budget%20plan%202026-2028.pdf",
+  "titel": "Budget plan 2026-2028.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "eff14e7f0b7de24a86b8e8fedcf50650c2c38a73f81fddff20f2ff3dead675a2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Statsbidrag mnkr 2026 2027 2028 Jordbruksverket, EU-bidrag ek",
+    "belopp_nara": false
+   },
+   {
+    "sida": 42,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "öljd av höjd internränta. Vidare höjs personalomkost- nadspålägget för pensioner från 8,62 till 8,89 procent, samtidigt som avdrag görs för effektivare inköp. Statsbidrag mnkr 2026 2027 2028 Skolverket, statsbidrag för",
+    "belopp_nara": false
+   },
+   {
+    "sida": 47,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "öljd av höjd internränta. Vidare höjs personalomkost- nadspålägget för pensioner från 8,62 till 8,89 procent, samtidigt som avdrag görs för effektivare inköp. Statsbidrag mnkr 2026 2027 2028 Skolverket, förordning",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce90/1763657725076/Budget%20plan%202024-2026.pdf",
+  "titel": "Budget plan 2024-2026.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "922ec26f92053f0da43f48d5030a99f598ba561e5849f0e375e173fc0db2cdb2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 67,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 38,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "enligt modellen. möjliggöra ökat utbud av digitala utbildningar avgår succesivt enligt planerat. Generella statsbidrag till skolområdet Nämnden tilldelades 0,3 mnkr för medverkan i Ifous Enligt 2022 års statliga budget påverkas utbildningsnämnden forsknings-",
+    "belopp_nara": true
+   },
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Resursskola 7,0 Statsbidrag Skolor med konfessionel inriktning 1 0,1",
+    "belopp_nara": false
+   },
+   {
+    "sida": 31,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2024 jämfört med 2023. dens måltidsproduktion. Ny-, om- och tillbyggnad av lokaler Generella statsbidrag till skolområdet Ny-, om- och tillbyggnad planeras på ett antal förskole- och Enligt 2022 års statliga budget påverkas skolnämnden under skolenheter",
+    "belopp_nara": false
+   },
+   {
+    "sida": 53,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "d Göteborgsregionen. Lindome C där utbyggnad av förskolan möjliggörs. 35 Metrobussystem Söderleden/E6, statsbidrag 44 Reinvestering komponentutbyte, beläggning och Bidrag för att möjliggöra effektiva tvärgående konst",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

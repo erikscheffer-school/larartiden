@@ -13,5 +13,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hudiksvall.se/rest-api/graph-service/preview?documentId=01BIVRHKFSLCKB4EUDQZCK4N53BCSA5VPO&currentPageId=4.1fc96f7a15aa40b071a5e70&name=KF%202026-10-19%20Kallelse.pdf&fileType=pdf",
+  "titel": "KF 2026-10-19 Kallelse.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ff46072aafc00ad5f05e5b8bd482cab84e99a01c12fef63780aae812e065fa08",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hudiksvall.se/rest-api/graph-service/preview?documentId=01BIVRHKAUBCJLXAJ5FFAZULN3LUOXUEC3&currentPageId=4.1fc96f7a15aa40b071a5e70&name=KF%202026-09-28%20Kallelse.pdf&fileType=pdf",
+  "titel": "KF 2026-09-28 Kallelse.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7a2d40b90ebafa19beb856fedea03d09104e7b8a89fe53676341c4ca04cd3c3d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hudiksvall.se/rest-api/graph-service/preview?documentId=01BIVRHKG3JXGFBJ5CMFH3W4BJS4JVCAEO&currentPageId=4.1fc96f7a15aa40b071a5e70&name=KF%202026-06-15%20Kallelse.pdf&fileType=pdf",
+  "titel": "KF 2026-06-15 Kallelse.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1d2451630381a51c958ac3636601cbc5b131286f0f4ab70a4ab1fb0c7d2fe376",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

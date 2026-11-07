@@ -73,5 +73,65 @@
    }
   ],
   "antal_träffar": 32
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.2b17a258185c4e847d0a1825/1675351160305/Reservation%20Socialn%C3%A4mnden%202023-01-31,%20%C3%A4rende%204%20Internbudget.pdf",
+  "titel": "Reservation § 25 pdf, 46.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a5ee74d5405a1173791a8ce8167df49a96482f65b9a3f61c7bea2c1b316feb29",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.3868045217988f50b4b4ac1b/1621867447775/Verksamhetspresentation%20till%20n%C3%A4mnd.pdf",
+  "titel": "Presentation Verksamhetsplaner 2022 pdf, 3.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd262ae11fedcfc0c5e2931b81f098db28a9a573fe6c67b4714e04849cb4edd2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.5c16b8c41768432450339c7/1608633684427/20201217%20Reservation%20Internbudget%202021.pdf",
+  "titel": "Reservation § 134 pdf, 283.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e42c80d39daa72cdacf4c36e5cab075c24ce782ccbd43450d2bf6dab7f27eb22",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.69ac471819bbeca05c639845/1769003925326/Kallelse%20UN%202601.pdf",
+  "titel": "Utbildningsnämnden 2026-01-28 pdf, 101.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1c193a6a8f6e51add65bf04e2fb7eb42f791cdae7576e50ed25ffd546e17dea8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

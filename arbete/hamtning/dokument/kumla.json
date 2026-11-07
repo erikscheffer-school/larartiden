@@ -66,5 +66,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20182088-om-tobak-och-liknande-produkter_sfs-2018-2088",
+  "titel": "Ta del av ny lag om tobak och liknande produkter på riksdagens hemsida. Länk till annan webbplats, öppnas i nytt fönster.",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "7413ed5de0bc42dda8dc5cd85d9c9461b43d3802a28872d78bae2170d3dbb523",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

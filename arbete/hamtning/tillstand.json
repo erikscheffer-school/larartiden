@@ -3187,7 +3187,7 @@
    "sha256": "80fe25c3076dc7fd8da1c9c019e6cea636ea9624c00d85a85a85fd661f89a95e"
   },
   "habo.se/download/18.75292ed61a0422215d439faf/1788191674373/kallelse%20kf%207%20september%202026%20med%20beslutsunderlag,%20exkl.sekretess.pdf": {
-   "kommun": "habo",
+   "kommun": "haabo",
    "datum": "2026-11-07",
    "fel": "ValueError: för stor (57 MB)"
   },
@@ -3435,6 +3435,2076 @@
    "kommun": "molndal",
    "datum": "2026-11-07",
    "sha256": "37615798e10a833b655a5717debef3b7c82e16c5adf956cb4d6a99bec37efa78"
+  },
+  "arboga.se/download/18.1a2af75b19e8c07c3e5d0694/1781009676263/07.1%20tj%c3%a4nsteskrivelse_prelimin%c3%a4ra%20budgetramar%202027.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "80b084af73b6f9f149fccf5ad71290ff1da89fd0866049f4d895ce3511b1bd5b"
+  },
+  "arvidsjaur.se/download/18.52dff55c19d707416d0318/1775713360539/arbetsordning%20f%c3%b6r%20m%c3%a5l%20och%20demokratiberedningen.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "sha256": "d2ebb614776acf22e983557e21a73c82cec5a1a236037ab415663c2bd5bbf446"
+  },
+  "askersund.se/download/18.7450d3ad18a262cddc610d75/1694589639150/protokoll%20mob%202023-08-24.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "sha256": "6ef797927f301729e4d051723988e9f2baffea41330397eb86a90c3fc1981e54"
+  },
+  "bengtsfors.se/download/18.f14c6aa19ddcc3e5ed38c0c/1778504679726/plan%20mot%20kra%cc%88nkande%20behandling%20vux%20bengtsfors.pdf": {
+   "kommun": "bengtsfors",
+   "datum": "2026-11-07",
+   "sha256": "35241cf9f5bed285cb9fc4ecf00db3529802273063256df8e51884ceaee5c95d"
+  },
+  "berg.se/download/18.2667cb99194b18f755536597/1741159151638/budgetdokument%202025.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "19c0109e4444b1b6cf7836f136f6d7b15c208b959e22bdd589db8b684f6e3f6a"
+  },
+  "bjurholm.se/download/18.12b012b4183e1cbc75c3eea/1672653131638/ta-uppf%c3%b6randekod%20f%c3%b6r%20f%c3%b6rtroendevalda%202023-2026.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "bf7c74a571f616969bcd7373cd455914c530c01acfd7391f9e9139bd6abc5b51"
+  },
+  "bjuv.se/download/18.2b17a258185c4e847d0a1825/1675351160305/reservation%20socialn%c3%a4mnden%202023-01-31,%20%c3%a4rende%204%20internbudget.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "a5ee74d5405a1173791a8ce8167df49a96482f65b9a3f61c7bea2c1b316feb29"
+  },
+  "bollebygd.se/download/18.281d9b4a19eb482ffff60f5/1781255017753/m%c3%b6tespunkt%2016.%20bmn-2025-801-1-verksamhetsplan%20f%c3%b6r%20bygg-%20och%20milj%c3%b6n%c3%a4mnden%202026.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "sha256": "ff018ff1c040cd2013a5fcd326903de207f64088839cfbb929ecda012d63d54e"
+  },
+  "botkyrka.se/download/18.317809c518c3dd37c451f2ff/1702391923837/m%c3%a5l%20och%20budget%202024%20med%20fler%c3%a5rsplan%202025%20-%202027.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "11d3c13bcd83024300f0ac284405cff7bf7950876d40e1c35e9473bfa2631ad6"
+  },
+  "brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20474": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "bastad.se/download/18.37afac61192bd2cca1237bf9/1730725224681/budget-2025.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "f7bfa3f69dd28a61912987d5fdad37282e69e1cbb347fb5c1ba2cb728b6a3eae"
+  },
+  "ekero.se/download/18.42216c211a18c7d98111928d/1793706376498/anslagsbevis%20kommunstyrelsen%2019%20oktober.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "b2be4aa4158b37ff2e923bc6b14fc022d6670882a854c3e155c6015641d4b1ec"
+  },
+  "emmaboda.se/download/18.446fdf051a0d39929573354/1792151190068/kommunfullm%c3%a4ktige%20kallelse%202026-10-26.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "11482a3d4be6c921712dcc5b6f52b12931c3749618b9a009f28fc0e018125042"
+  },
+  "fagersta.se/download/18.2069563719afccef1b157b4/1765276676541/sammantr%c3%a4desplan%20%c3%a5r%202026.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "sha256": "63234eac5882532d8f8855e065c5969ee9ef900d68865db12ccd05e58d614840"
+  },
+  "falkoping.se/download/18.548bc4b21a0f7ce8aa2926b/1792410507423/kallelse%20och%20handlingar%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-10-20.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "2b3a1cc2550cd6d8c3c014215d3e4d1229556c4152d59e643458467b0817a2cd"
+  },
+  "filipstad.se/download/18.35e8f85f1a12f8f6ccb3b2d0/1792058206779/nya%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "7c5956610ecfaedd447de2f61b332a9974885a138d48a869fe51d22d46ba7394"
+  },
+  "finspang.se/download/18.63ce37821a11d21694f2c70e/1791813880591/2026-10-21%20kallelse%20med%20handlingar%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "0de086ab3b2eec783b51832d26f9b64510004a9a4f84fa340542ecbac412141a"
+  },
+  "flen.se/download/18.6ebade8f1a18c46137b21fae/1793694287193/kallelse%202026-11-09.pdf": {
+   "kommun": "flen",
+   "datum": "2026-11-07",
+   "sha256": "f60aaf705a99d20f6f9d3a268435903150261d49f9e5fe16f241974bf4c105ca"
+  },
+  "regionvarmland.se/download/18.156698a319b5357bdb218eed/1768485134866/n%c3%a4mndens%20%c3%a5rsplan%20och%20budget%202026.pdf": {
+   "kommun": "forshaga",
+   "datum": "2026-11-07",
+   "sha256": "83314d2c628199fa870a2890a6820c2681283399341b28202c29778f105f816f"
+  },
+  "gislaved.se/download/18.70bca8731a17beda946eb7/1793120033258/protokoll%20utbildningsn%c3%a4mnden%202026-10-27.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "fc66ebf3fe29bd45b2c99736422a406fb619080b0532a5db866fb3494088c889"
+  },
+  "grums.se/download/18.367f25c3193ded7cd4c36f0/1765276364467/budget%202025%20plan%202026-2028.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "sha256": "b223c4d6cfee60c1b0f926eaa613dd3aed76646749cac8c1223a00df5dd9f420"
+  },
+  "grastorp.se/download/18.2d5e3da71936c6739cb4266/1733227496023/verksamhetsplan%20och%20budget%202025%20ekonomisk%20plan%202026-2029%20fastst%c3%a4lld.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "b730b3130d44fdc5d170b796550bf87321624919d6e2dbc6678e712376904970"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a884f/1685089783188/yrkade%20investeringar%20i%20kf.%20budget%202023,%20plan%202024-2026.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "sha256": "a759b4626edc11ece0ed66d52d0bdfcd2d233f71bcf51efb31bab265452063a9"
+  },
+  "meetingsplus.gavle.se/api/v2.0/meetings/102163/download/items/110481": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "sejfer.se/nyheter/nyheter/2026/11/03/goteborg-skarper-krav-elsparkcyklar-2028": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "c3fa121bb73b9877cfa28ef5f62f2d2ec4e1b960c53d5d53f5543b21dc5b1b95"
+  },
+  "habo.se/download/18.48f99c9119e631e674351cf7/1780934359172/17.%20beslut%20-%20godk%c3%a4nnande%20av%20nettobudget%20f%c3%b6r%20exploatering,%20b%c3%a5lsta%20c,%20etapp%201.pdf": {
+   "kommun": "habo",
+   "datum": "2026-11-07",
+   "sha256": "ca762fcd4971fb715ba239037a25aff1f99275ba3d41f8bcd3e0638da4cbc55c"
+  },
+  "hallsberg.se/download/18.2c880b51a1a1b512dc9d8/1793893181890/2026-11-16%20-%20kallelse%20kf.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (45 MB)"
+  },
+  "hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/budget%202027.pdf": {
+   "kommun": "hammaro",
+   "datum": "2026-11-07",
+   "sha256": "bb7086fc8156c1e0b47a65c66dd595c4d62aebe3f774b9922405bed2b4217727"
+  },
+  "haninge.se/4aad44/globalassets/dokument/styrdokument/politiska-styrdokument/mal-och-budget-arsredovisningar/mal-och-budget_2026-2028.pdf": {
+   "kommun": "haninge",
+   "datum": "2026-11-07",
+   "sha256": "a765d35a99b2bbef76b696501f108d5c403b475f38f396117eaf71d2cd859451"
+  },
+  "haparanda.se/download/18.206eb4e18fe7aa6afb8d8f6/1718176999638/m%c3%a5l%20och%20strategi%20-%20kommunfullm%c3%a4ktiges%20inriktning.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "sha256": "dd9d8597e2ad42f73937d15f381bd5e32e2c1f9079bc7a89fed36aee16b2d03c"
+  },
+  "hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2025-2027.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "91298b41ea67e2e41c02a95f888722dc63a51ae1f52f1f20809aea6f8d3b7f5f"
+  },
+  "hofors.se/download/18.769d6e30188adc6a1c95bdd/1692780620266/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202023-05-22.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "9d1fd32a71227082465b46e99e24ae787865ce6feb4f0aebaf9d5d97c94572ec"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkfslckb4eudqzck4n53bcsa5vpo&currentpageid=4.1fc96f7a15aa40b071a5e70&name=kf%202026-10-19%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "ff46072aafc00ad5f05e5b8bd482cab84e99a01c12fef63780aae812e065fa08"
+  },
+  "hultsfred.se/files/2026/01/gemensamt-reglemente-ks-bun-soc_20260101.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "211ece08007c31de3b4519d369ca4e4c3cf25f7baf4b212a8e6a84ed82256451"
+  },
+  "meetings.hylte.se/api/v2.0/meetings/2646/download/items/51970": {
+   "kommun": "hylte",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "herjedalen.se/download/18.3ca98e381a1a188b3ad137cf/1793977565601/protokoll%20kommunfullm%c3%a4ktige%202026-10-29%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "sha256": "4405a10770ad180a26d729b5ae8afef0b4dc8089dc1f429395a36c59b7461179"
+  },
+  "hassleholm.se/download/18.241d76a2199c8f39a23b888/1760971379473/kommunfullm%c3%a4ktiges%20kallelse%202025-10-20.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "sha256": "dbc3851ab5e05d8e9379542fc8fd4e976fd7681aebba240eaa3c5b88dbb80da6"
+  },
+  "hogsby.se/wp-content/uploads/verksamhetsplan-med-budget-2026-2028-1.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "0011e2837f95588658d5c960ad544dcf253b3f923cc2f08aab7e1c007829a148"
+  },
+  "jokkmokk.se/media/ciokktun/budget-och-strategisk-plan-2027-2029-kf.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "94b77dd8a98bb4cbb4261179a075e9b86ba5059dafbb7d7bc6409a4234f93c93"
+  },
+  "jarfalla.se/download/18.f1d527a13d6c0da509800010879/1422498705095/atagandeblad_tillganglighet_bemotande.pdf": {
+   "kommun": "jarfalla",
+   "datum": "2026-11-07",
+   "sha256": "0bfef1d8fbfaafe828585551283b1b193e29597e8c90d045edd8133964b7e814"
+  },
+  "jonkoping.se/download/18.5bf52f9d1a157840cc0a0af/1792566306229/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-10-13.pdf": {
+   "kommun": "jonkoping",
+   "datum": "2026-11-07",
+   "sha256": "36c79c236ed0b636290e1ccaa42cfbcc41c25baa8b838107d4e7d14629e91521"
+  },
+  "kalmar.se/download/18.7d5fba0219a7ba0af5a1344a/1781271705469/sammantradesdagar-2026.pdf": {
+   "kommun": "kalmar",
+   "datum": "2026-11-07",
+   "sha256": "44b00dcdb86b44d026d874a2b0e520e4a672ed67c44f798df0a764a34d2406dd"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/barn--och-utbildningsnamnden/2018/2018-12-11/protokoll-bun-2018-12-11-bilaga-3-budget-och-verksamhetsplan-2019.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "e157c5f75e9123c721425e91acb3841bca322e489790e31885ed3ba5a04db4b9"
+  },
+  "karlskoga.se/download/18.1736b2101a19dadd57cdff/1793699197949/%c3%84rende%2013%20m%c3%a5l%20och%20budget%202027-2029.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "09846af0d9b5d91874465cfcddf00f65de93e8580f4c208405ac904532d05cd2"
+  },
+  "docs.netpublicator.com/api/public/karlstad/document/60b2c589f58f0136ee13-5f24-4cce-8612-b1e5ef680a4e?hash=f8dd7bc30e0b31-ddfbebadf49716834-f3cd2ede99e97754607-b053561fbb5a6517907-67c6b5bac1546578957&cache=mon%20oct%2020%202025%2014:15:01%20gmt+0200%20(centraleuropeisk%20sommartid)": {
+   "kommun": "karlstad",
+   "datum": "2026-11-07",
+   "sha256": "b894984022ff96c6f7334e1759699c88136f54ea222323b15ccb49238ffc9d31"
+  },
+  "katrineholm.se/download/18.51f0ebde173915a01636b0dd/1598613799995/4-2020%20bildningsn%c3%a4mndens%20%c3%b6vergripande%20plan%20med%20budget%202021.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "sha256": "c45152f2b4206801dd71e326bbf99d212d700fd8a4b5555697d813ace2243084"
+  },
+  "kinda.se/download/18.2dbcc4b819bc63a479f864b6/1769528937303/budget%202026.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "sha256": "b0ef97d9b2c554735a10476e35ad244079a139dca5d1e84c1eb49361dc59b23b"
+  },
+  "kramfors.se/download/18.29d3a57a1a1a17408a232ef/1793872433722/protokoll%20kommunfullm%c3%a4ktige%2026%20oktober.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "sha256": "1c00092d9799ee1ac0eaa6e38acb54290fdcd32470e0d20cb0ae7834ff3c5a19"
+  },
+  "kristianstad.se/download/18.d23440719c12d52cb11df86/1770031099926/verksamhetsplan%20arbete%20och%20v%c3%a4lf%c3%a4rdsf%c3%b6rvaltningen%202026.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "sha256": "87603cdd1ef7b4a665e8be4176e4895dce3a26470cc7c4400537f1fbd2614a32"
+  },
+  "kristinehamn.se/contentassets/7e299f5b510d446b8a6c28cdcd9e51b2/budget-2025-och-plan-2026-2027-kristinehamns-kommun-bilaga-1-0f860d30-0990-4a59-862d-39ae782f8e1e.pdf": {
+   "kommun": "kristinehamn",
+   "datum": "2026-11-07",
+   "sha256": "9b4ba9eba8954fb3fb6393c899d870d63d71970b6c2430361f715c16599d0f2a"
+  },
+  "riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20182088-om-tobak-och-liknande-produkter_sfs-2018-2088": {
+   "kommun": "kumla",
+   "datum": "2026-11-07",
+   "sha256": "7413ed5de0bc42dda8dc5cd85d9c9461b43d3802a28872d78bae2170d3dbb523"
+  },
+  "koping.se/download/18.329f2dbe19c2729c79e55e61/1770388159070/kommunfullm%c3%a4ktige%202026-02-02.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "sha256": "11197d543b59b25c6f7fc33b15e58ad41eeeb2923fe0769cecbd917f9e8bb520"
+  },
+  "laholm.se/download/18.10e4a7dc19a7bd354e8af570/1764678674880/kommunplan%20med%20budget%20f%c3%b6r%202026.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "sha256": "0db945016dd3fe6a47d51ec0759d23f7f05f2301fc91469b5c83a518e425461c"
+  },
+  "laxa.se/download/18.15af126319a768a457d422cd/1763736219473/budget%202026%20och%20verksamhetsplan%202027-2028.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "sha256": "61b7339514138d44c11e66ab36490df3cca1913ec0ea909455a1f85e4f1dbb64"
+  },
+  "lekeberg.se/download/18.7e770ca319dd77309c32f63/1777470578193/budget%202026%20samt%20ekonomisk%20plan%20f%c3%b6r%202027-2028.pdf": {
+   "kommun": "lekeberg",
+   "datum": "2026-11-07",
+   "sha256": "a1dd330166aa4900a2d4993c3947b0af12fae163bd7f5d0dd4cace167187b286"
+  },
+  "lidkoping.se/download/18.4d3f227c190e3477ba3115ea/1723469306579/strategisk%20plan%20och%20budget%202025-2027.pdf": {
+   "kommun": "lidkoping",
+   "datum": "2026-11-07",
+   "sha256": "bb54197cccd8d5c293a192797321da31acbabb42249bc7c4a29649b39f1a5dbd"
+  },
+  "lillaedet.se/download/18.66196faf1a1302cd6e519e9/1791975102076/kallelse%20kf%202026-10-21.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "sha256": "d197f8f00ed18974be1471fa99be837a7bd96800cef7d1efe601eae552f3fb1f"
+  },
+  "ljusnarsberg.se/download/18.6150bfd119c2c828a412dc/1770293033331/kommunfullm%c3%a4ktige%20sammantr%c3%a4deshandlingar%202026-02-12.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "sha256": "366c3718765bf90f6e9ecd00f694036528dbf82001f580d5846992d87821794d"
+  },
+  "lomma.se/lsg/lsgstartsida/vanligafragor.4552.html": {
+   "kommun": "lomma",
+   "datum": "2026-11-07",
+   "sha256": "99ab4111c54cd3a14dfa60e0d6105041b85b46e2c2c54896207177c1f23636f1"
+  },
+  "lund.se/download/18.5f38ad6e19db51c94e66faf/1777445321318/redovisning%20av%20paketinsatser%202025%20enligt%20evp%202025%e2%80%932027.pdf": {
+   "kommun": "lund",
+   "datum": "2026-11-07",
+   "sha256": "d4e6bc1f40dde1dd2b1424ed8fa5805cf5b7eb5fc57a6ecc4f89736c1ae653a0"
+  },
+  "lycksele.se/globalassets/dokument/6-kommun-och-politik/handlingar-och-protokoll/sammantradesplan-2026-kf.pdf": {
+   "kommun": "lycksele",
+   "datum": "2026-11-07",
+   "sha256": "cf8da8754f111e0177693f7351c3312d8f13200297cf5cf5850d5e7b0e25f5bd"
+  },
+  "mariestad.se/download/18.6fd8de8819b2c036d511eafb/1768834773872/handlingar%20kommunfullm%c3%a4ktige%202026-01-26.pdf": {
+   "kommun": "mariestad",
+   "datum": "2026-11-07",
+   "sha256": "aab9515b93b46a80f6a144a3400860046d6098a17690e93b2e2ba128575e433d"
+  },
+  "motala.se/media/uploads/budget-mal-och-resursplan-for-2026-med-plan-for-2027-2028.pdf": {
+   "kommun": "motala",
+   "datum": "2026-11-07",
+   "sha256": "8cd365f12b7224253535882fbab0ec38749f3f084e6a512f97a8cf10c9356e10"
+  },
+  "mullsjo.se/download/18.7d5e747b19b2bdcc10443d93/1766995461756/planeringsagenda%202026%20-%20kommunfullm%c3%a4ktige,%20kommunstyrelsen,%20utskott.pdf": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "sha256": "11ec5450e0100faeff34d202e17fdaf2b3a747e2e1265071a505fa9d07d808bc"
+  },
+  "regionvarmland.se/download/18.6467635d19fca688a7413acf/1787225064575/kultur-%20och%20bildningsn%c3%a4mndens%20%c3%a5rsplan%20och%20budget%202026.pdf": {
+   "kommun": "munkfors",
+   "datum": "2026-11-07",
+   "sha256": "ed040c1b428c60c6b72e805e9421dc2033935c966db1fdbc0be8cab0ccf06e23"
+  },
+  "molndal.se/download/18.7dca557719a7d85cdddce91/1763657725188/budget%20plan%202025-2027.pdf": {
+   "kommun": "molndal",
+   "datum": "2026-11-07",
+   "sha256": "a26b91870908352d095d86519380a39f004d1f5d86f994890a6387220e5dd037"
+  },
+  "morbylanga.se/wp-content/uploads/2025/11/kommunbudget-2026ny.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "4e43c0650038c1aaf59d2f861cd3218b7ad94b309b2a352888929e103c30f09c"
+  },
+  "hedemora.se/wp-content/uploads/2026/01/kallelse-bildningsnamnden-2026-01-26-extra.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "72ef7b8a3cc258035fce7cbeb714fd3d84eefecb948f92302f882ef2d72ccfe2"
+  },
+  "nordanstig.se/download/18.7228151618beb6d93df1034/1700466147402/mal-och-budget-2024-2027-ks-111%20%c2%a7.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "sha256": "b00a08b51bf801a56330b1aa21a3722e376f9a23c6310652ada9781e0ef38657"
+  },
+  "nordmaling.se/download/18.3c62992718bd3c7cac21184/1701686559161/verksamhetsplan%202024.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "a1020197506ea4f66c8e8ee3e5e0f01af54436e0546b9b75cdd249ab78c8d9dc"
+  },
+  "nybro.se/wp-content/uploads/2025/06/kommunplan-2027-2029.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "0e758c76be82bb5147123b04f02d810803e9b8a44801f96f1b466721fc9f23bc"
+  },
+  "nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2026-och-flerarsplan-2027-2028.pdf": {
+   "kommun": "nykoping",
+   "datum": "2026-11-07",
+   "sha256": "78dddca8bce0dd4ce73dcb70a3dc257eabd5af19be097a56d6b1d1b45f742b62"
+  },
+  "nynashamn.se/download/18.717d9ba519b3546508f15669/1766395400425/verksamhetsplan%202026%20barn-%20och%20utbildningsn%c3%a4mnden.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "sha256": "489bbbf8d9eccea7c43e30cd771c9042547df78c031e11ec2f8588bd5a20002d"
+  },
+  "nassjo.se/download/18.52ef10e71a186b1f98c1aaf/1793346546320/protokoll%20kommunfullm%c3%a4ktige%20den%2029%20oktober%202026.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "a3a855743bb519a7a36375eaa560dc612839ef5b0b5d46d8a71279d9993046f4"
+  },
+  "olofstrom.se/download/18.3a309c3719a7bd89da148df4/1764586399547/budget-2026.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "sha256": "e44a02b6d9c035441d8235d05c80f89cd2887f0b488a1860c95dcdfdc18798c3"
+  },
+  "orsa.se/download/18.67561de41795f5f7f8b2c2ec/1621581112579/protokoll%20kommunstyrelsen%20m%c3%a5l-%20och%20budgetberedning%202021-05-07.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "sha256": "e54b2304bcfd8c0f7d4808f58754babdbdef27cce04e101d3ca255f7dbb69e28"
+  },
+  "osby.se/download/18.242969cb19d7240b84f9ce3/1775832653471/ks%202026-04-08.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "sha256": "3d1f3bcb11ad6695b0bc70c0cf8d73e0a626b4141b2147efa46a957e0c82f50c"
+  },
+  "ragunda.se/download/18.3679ff70193deb55b5b18b00/1736763785529/budget%202025.pdf": {
+   "kommun": "ragunda",
+   "datum": "2026-11-07",
+   "sha256": "b2fc68a428c85e61f681a6c4666d88f23f35a046280ded478dc38c9f91e2306c"
+  },
+  "robertsfors.se/download/18.4e5943e01927167b48846092/1729662573925/protokoll%20bou%202023-01-30.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "sha256": "3b11d463499783510e45d83ffa7a536bc6dd3f72c030be87773df2e00bda21a4"
+  },
+  "ronneby.se/download/18.5c9a1500179e5478cc530a16/1623239749390/protokoll%20un%20210603%20extra%20budgetm%c3%b6te.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "sha256": "284828fdb8b40429201c33ee0eeda54f7d4179225ed4f0474a1e3d6ec49e2d5b"
+  },
+  "rattvik.se/download/18.28645f5117022de9cec2499e/1756106568493/orgbarnochutbildningsf%c3%b6rvaltning.pdf": {
+   "kommun": "rattvik",
+   "datum": "2026-11-07",
+   "sha256": "17e49b4e8fe4bf17b2f2f624f64046d2987e7a0e87f72a3a5bc61237d9cb63a1"
+  },
+  "sandviken.se/download/18.2b9ff8911a1a18a0f1be14/1793957609758/kallelse%20kommunfullm%c3%a4ktige%202026-11-16.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "sha256": "15085b41a1baa558d9e0d33f8a6db0924914b84015e8c2eba72d3d57fd776c6e"
+  },
+  "sigtuna.se/download/18.7d4bf65c1939037bbe810835/1733472554692/m%c3%a5l%20och%20budget%202025-2027.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "sha256": "b34022b7f1dfe720f84294c4f0429dd1cdd2c574c368d22cdf49c5c722f6493f"
+  },
+  "skurup.se/download/18.1d2ae3441a162f26a4c1d6ca/1793028329247/ks%202026.16%20kallelse%20kommunfullm%c3%a4ktige%202026-11-02.pdf": {
+   "kommun": "skurup",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (60 MB)"
+  },
+  "sotenas.se/download/18.7432d7d11a1a188b0c06b6/1793803970206/kallelse%20kf%202026-11-11%20inkl%20handlingar.pdf": {
+   "kommun": "sotenas",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (47 MB)"
+  },
+  "storuman.se/contentassets/bfd48347e1e7458fb9ae9138cab5502a/kommunstyrelsens-arbetsutskotts-protokoll-2026-05-12-4.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "e26a431ca8403419b61b5e5dbffaf5f2037f61442c8d14acf3c6041fc6cea53a"
+  },
+  "stromstad.se/download/18.750f70e0184b91d58dc502/1669650549850/kallelse%20bun%202022-09-20.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "sha256": "76728a8760befe805767819c205777204b7348db815fac189f880ccecfa1e86f"
+  },
+  "opengov.360online.com/meetings/sundbyberg/file/details/1139022.pdf?filename=protokoll%20f%c3%b6r%20kommunstyrelsens%20sammantr%c3%a4de%20den%2026%20oktober%202026%2c%20%c2%a7%c2%a7%20154%2c%20156-173%2c%20175%2c%20176%2c%20178-185&filesize=215991": {
+   "kommun": "sundbyberg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "surahammar.se/download/18.5d8e596c179f5fcc77c120a4/1624968005435/arbetsordning%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "sha256": "ae731d45e24d70815051dd4d00180547f6ac9a06bab585593ebfc3e72272f789"
+  },
+  "svalov.se/download/18.388a71c218c629a9875505c/1702540673931/ans%c3%b6kningsblankett%20komvux%20anpassad.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "sha256": "513fc95b54362ef52df9d952e3583f8d374ff17477c87aae6a71386a3bce69ee"
+  },
+  "svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_verksamhetsplan%202027-2029%20f%c3%b6r%20svenljunga%20kommun%20och%20koncernbolagen%20(ksau%2026_10).pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "6d257642c5c5bf71a56084e38612dbe669fbc5ad70f691427b61fe146b16057b"
+  },
+  "saffle.se/download/18.1dead61d18a8d053e1d1c05f/1695361371944/kommunstyrelsen%20protokoll%2018%20september%202023%20budgetdialog.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "sha256": "662cbca2f20550dbfaf5fd457e78611fc4398d721ee8ed2f7f1db6ee127082b5"
+  },
+  "sater.se/wp-content/uploads/2026/09/kallelse-2026-09-09-till-hemsidan.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "2b60c6bf366fd5de8b07fbff7172fd1b717775e1b25678043ff34537cea9632b"
+  },
+  "savsjo.se/download/18.64590a0819bd95aba3e5a6/1768905012033/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-01-14.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "68e7afa1d6752486bfa8689e6c73b9d222c2ef1c3d2633364398c1e8221e64a8"
+  },
+  "soderhamn.se/download/18.2d3cf62318c64650b5db68/1703751216273/kommunplan%202024-2027.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "sha256": "f306d2564f64bac17e30fb6b8d28fe129a7860787ae129e4e48e59bd6bfb224b"
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2021/protokoll-demokratiberedningen-2021-01-25.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "50615f3328091f3153e511339b0ed25a7319ae2340e1b6392b65d0c64eb58a5b"
+  },
+  "solvesborg.se/download/18.76dfff1b19ed42d8839bc403/1784108693828/kommunstyrelsens%20protokoll%20260715%20-%20delegationsbeslut%20ej%20anm%c3%a4lda%20till%20n%c3%a4mnd%20sign.pdf": {
+   "kommun": "solvesborg",
+   "datum": "2026-11-07",
+   "sha256": "e579aa7a7851ae477ca6c1189991125c337029c9f190f0ea951432fad2fb3e3f"
+  },
+  "tjorn.se/download/18.607a8f5419b2bf908082a7a4/1766397025571/barn-%20och%20utbildningn%c3%a4mndens%20detaljbudget%202026.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "sha256": "b97746f5004e9caa3cffba740864211e1ceb93b191f396511a803cf8a11d9f3b"
+  },
+  "torsas.se/wp-content/uploads/protokollbin171107.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "522880186d887b5f8cc4ceae90e7a2fd6f3802179160d540a96cda33c305268f"
+  },
+  "trelleborg.se/app/uploads/2024/10/stockholm-kr-1232-24-dom-2024-10-08.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "trollhattan.se/globalassets/dokument/omsorg-och-hjalp/omsorg/styrdokument/namnd/omsorgsnamndens-verksamhetsplan-med-budget.pdf": {
+   "kommun": "trollhattan",
+   "datum": "2026-11-07",
+   "sha256": "46d1c52375dff9571d332dbedd93ae5f22f4264b32b63d84b7340f52d9c80ee5"
+  },
+  "trosa.se/app/uploads/2026/06/vansterpartiets-forslag-till-budget-2027.pdf": {
+   "kommun": "trosa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "toreboda.se/download/18.5816571119c47e69cd16817/1771306417057/handlingar%20kommunfullm%c3%a4ktige%202026-02-23.pdf": {
+   "kommun": "toreboda",
+   "datum": "2026-11-07",
+   "sha256": "dc7d300e6cba0260f27e55a33067c3b1544f6cbdbaa1687490abe81887dd06f5"
+  },
+  "ulricehamn.se/download/18.3ef958f71a12f5f33eb41339/1791978908532/%c3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-21.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "sha256": "85e08825548b714fddf8f6e05ecd2ab3b5e1a03781f52dbe68bd818f14f940d7"
+  },
+  "riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/offentlighets--och-sekretesslag-2009400_sfs-2009-400": {
+   "kommun": "upplands-vasby",
+   "datum": "2026-11-07",
+   "sha256": "328f7cde0f1faffb1569b5bcfa0909426dcfb93c04390b627a34f6ec9aa111be"
+  },
+  "upplands-bro.se/download/18.3909a8561821a025e87415/1658321328556/handlingar%20till%20kommunfullm%c3%a4ktiges%20sammantr%c3%a4de%20%20den%2027%20november%202019.pdf": {
+   "kommun": "upplands-bro",
+   "datum": "2026-11-07",
+   "sha256": "7f2436adc65cdc3d2743e9b30ba18ef1e27778c18f3b5fb058ce002fd8b4fec5"
+  },
+  "uppvidinge.se/download/18.fd7ba851a157a87bca414/1792493911448/protokoll%20bun%202026-10-14.pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "sha256": "899e4da6013a779505cf6c9e5e9ec00f560988117695162ed2c1c16caca5aacb"
+  },
+  "vaggeryd.se/download/18.6c90eb0c19bfd11fac71af3/1769513360556/avgift%20f%c3%b6r%20kopior,%20utskrifter%20och%20avskrifter%20av%20allm%c3%a4nna%20handlingar%20m.m.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "sha256": "b5d9eb064018ba0452218facc58989300a4dc64bafe6afc60270abad2067d3c5"
+  },
+  "vansbro-sok.ciceron.cloud/download/document?filename=uhjvz3jhbs5wzgy%3d&id=7868&session_id=f95c1cb50fa0ea6515a26ef117df4d25a8cccf2d5d": {
+   "kommun": "vansbro",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  "varberg.se/download/18.2718eddc19d16e441c682b82/1774362981132/kommunfullm%c3%a4ktige%20protokoll%20260317.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-07",
+   "sha256": "94a5b48400b70d188272ead5700779bc3d703dda4afc53e1a04199e8cd8360d8"
+  },
+  "vaxholm.se/download/18.1421c79319d9a688562235f2/1776853547719/komplettering%20inf%c3%b6r%20kf%202026-04-27-%20renovering%20av%20ishallen%20%20ut%c3%b6kad%20budget%20.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "sha256": "0f73e89110a4f39288114a5f54f00b818d243b73034b11d4dfd280c7fa17a1f0"
+  },
+  "kallelser-protokoll.vellinge.se/api/v2.0/meetings/17365/download/agenda?downloadmode=download": {
+   "kommun": "vellinge",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "vindeln.se/download/18.358eacf1197f0e7b2f4357/1755079243824/skr%20m%c3%a5l%20och%20resultat.pdf": {
+   "kommun": "vindeln",
+   "datum": "2026-11-07",
+   "sha256": "87441563490f310a60e1ebf48349337ffb8719279bf84dcbbaefb56e4ef3f8d0"
+  },
+  "vannas.se/download/18.59f814591a1a19ec04f9541/1793797349854/budget%202027%202028%20och%20plan%202029%20beslut%20kf%2020261020%20dnr%202026-173.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "sha256": "49d20b4b33302c0e367576b377230222332a19be120c6db08bfb730e68e885ba"
+  },
+  "varmdo.se/download/18.12ba2c8119a76987fe547fc/1763651161725/m%c3%a5l%20och%20budget%202026%20med%20ramar%202027-2029%20pub.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "sha256": "342f64af47df7c1b43c0c36581b2986dbd83e2e3995fe2291f91b6fc7c5302a5"
+  },
+  "vaxjo.se/download/18.19762da1a18c6b231719bba/1793695253252/f%c3%b6rslag%20till%20budget%202027%20med%20plan%20f%c3%b6r%202028%20och%202029_m-l-kd-c.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "sha256": "d8fd20b9d220e1f8a2513d60c793583cc435a68acf85f47f6d20ebf71865c6fd"
+  },
+  "vargarda.se/download/18.558f0b6718a9713cdab28b/1695189970395/vuxenutbildning,_ans%c3%b6kan%20sfi.pdf": {
+   "kommun": "vargarda",
+   "datum": "2026-11-07",
+   "sha256": "1b31db82402fa731dfd21e137a1454ddb886b65d38a9ac904d183d2e1f79a6da"
+  },
+  "ydre.se/download/18.6b5a53e019c4795fa8cb732/1771859807956/protokoll%20vn%202026-02-16.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "sha256": "f3820d28966fa73b34967470d3b0f92247ab09be617b72caf53b06b6ccea56ff"
+  },
+  "ystad.se/download/18.5933842b191974d8039909/1725607788836/%c3%96vergripande%20m%c3%a5l%20f%c3%b6r%20ystads%20kommunkoncern.pdf": {
+   "kommun": "ystad",
+   "datum": "2026-11-07",
+   "sha256": "ae5244b4ed847bed82d4395d551f68414fe01f15d13d240c4a1139d315faf101"
+  },
+  "alvdalen.se/download/18.58ec93661a133f6ee1f2187f/1792133173629/kommunfullm%c3%a4ktige%202026-10-26.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "sha256": "0d488f69d79944e4ce806ff2cf26123a56890ed296f47d5500cab6e71fe9af56"
+  },
+  "alvkarleby.se/download/18.678c8a51188cdd2ee8a11f/1687787042583/omr%c3%b6stningsprotokoll%20tillh%c3%b6rande%20kf%202023-06-21%20%c2%a765%20m%c3%a5l-%20och%20budgetdokument%202024-2027.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "sha256": "e87e9e37fc4564be7dc7c05a9f77e52ba714f40b2f94e72b12ca5d753584209d"
+  },
+  "engelholm.se/download/18.177ebff6193b7c1a10d34448/1737725352975/fun%202025-01-23%20protokoll.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "c9b7edb9863192e18a165c71bd52109e7b02704ee681d24832ace19995cd32f9"
+  },
+  "amal.se/download/18.2d6ee6901a0adad6f9b64be0/1790603978093/kf%20110%20driftsbudget%202027.pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "sha256": "3d13dcb9d34262a220ac1925aab679943d74ffc159b214a2c46ac3a3d301440d"
+  },
+  "moten.ange.se/api/v2.0/meetings/53277/download/items/61143": {
+   "kommun": "ange",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "are.se/download/18.65da71581a18c87c3666676/1793636144673/2026-11-09%20%c3%84rendelista%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "are",
+   "datum": "2026-11-07",
+   "sha256": "33d8f63caa60fa0e49b227a41641055afe63d08757d6ade3249ec7abe9edf03d"
+  },
+  "riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725": {
+   "kommun": "asele",
+   "datum": "2026-11-07",
+   "sha256": "2aac6d733a29840ec254d435f24627a2049a3ef6fd2146b8c3ce09cba579e97a"
+  },
+  "ockero.se/download/18.4a6cfe0c19bc9a16cee9c87a/1770034916102/budget-%20och%20uppdragshandling%20utbildnings-%20%20kultur-%20och%20fritidsn%c3%a4mnden%202026.pdf": {
+   "kommun": "ockero",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "orkelljunga.se/download/18.1f34ec7719e639278e11393c/1780643762805/budget%202026%20och%20ekonomisk%20fler%c3%a5rsplan%202027-2028%20beslutad%20i%20kf%202025-11-24.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "sha256": "04a45fb0fa174df696e10f012e1aa51eb6d4ce37988e581315a3e9d90c3c1a3e"
+  },
+  "ornskoldsvik.se/download/18.5dd57ed519e636b69015e16/1779888563231/%c3%85rsredovisning%202025.pdf": {
+   "kommun": "ornskoldsvik",
+   "datum": "2026-11-07",
+   "sha256": "743b9d85a493f2523af5ac3f3ac2639a56d9dbed7a835ae92d2500079bd82b18"
+  },
+  "ostragoinge.se/download/18.7fed703e1a04203ce53b5926/1788328785787/im%20gy%20-%20plan%20mot%20diskriminering%20och%20kr%c3%a4nkande%20behandling%20l%c3%85%202026-2027.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "sha256": "760b793ee64da2e832488c717292aeb7e882fe8daeb2085a8335573cc2fdafcc"
+  },
+  "overkalix.se/media/nlumsiaw/budget-2025-overkalix-kommun.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "ce255c041fa17564f3e1816916aaa13f13dfc9811f2d0a82f4d78bd4abe89062"
+  },
+  "arboga.se/download/18.1a2af75b19e8c07c3e5d06b1/1781009692787/07.2%20s,v,mp,c%20f%c3%b6rslag%20prel_ramar%20budget%202027%20och%20plan%c3%a5ren%202028%20och%202029.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "1e2d8e75486e9451db824154f0e2e71998ad55b070d510a20398c83f6234666e"
+  },
+  "arvidsjaur.se/download/18.52dff55c19d707416d032a/1775713362187/minoritetspolitiska%20m%c3%a5l%20och%20riktlinjer.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "sha256": "3baa191a011bdcc50b4fc08fd45fd6994b652f1afe488b1998ad22f23845f708"
+  },
+  "askersund.se/download/18.37e22e7c18a9317b4ea10b56/1696239061203/protokoll%20mob%202023-09-28.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "sha256": "099ee7faf2fc0cd32ea41d809c5e098bea547b2dcca22ce1697422a2d4e3836d"
+  },
+  "berg.se/download/18.50fe10ba18daca97ef17037/1708425198898/budget%202024.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "75b765f270b95f859c39d242462b22c86fb07b0c9b39316d620946cede92d7c3"
+  },
+  "bjurholm.se/download/18.12b012b4183e1cbc75c3a63/1672144954870/ta-arbetsformer%20f%c3%b6r%20kommunstyrelsen%20och%20n%c3%a4mnder.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "23cb53cc21962c3471c41699d0aac082b938d10175a3688e266012e105841133"
+  },
+  "bjuv.se/download/18.3868045217988f50b4b4ac1b/1621867447775/verksamhetspresentation%20till%20n%c3%a4mnd.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "bd262ae11fedcfc0c5e2931b81f098db28a9a573fe6c67b4714e04849cb4edd2"
+  },
+  "bollebygd.se/download/18.600f38101a16318310951aa/1793006301020/%c3%84rendelista%20-%20kallelse%20bygg-%20och%20milj%c3%b6n%c3%a4mnden2026-11-02%20maskad.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "sha256": "effd8464ce4666495776e482c6d12c4ecf372cb0affac941f5266b76e2cff0e7"
+  },
+  "brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20477": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "bastad.se/download/18.39676ac618c430013413dab/1702048860349/budget-2024.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "852c05c8a0f1bb5fb5800066a8b85e7380e8f03f581b1920de51cf1f085965bf"
+  },
+  "ekero.se/download/18.134d4a3e1a162ee4b5626da9/1793188170358/anslagsbevis%20bun%2020%20okt.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "e4fef96531960bdb916c674fef6631342e8c6b85b72af863d787cb522a497a11"
+  },
+  "emmaboda.se/download/18.446fdf051a0d39929573353/1792151164381/kommunfullm%c3%a4ktige%20kallelse%202026-10-26%20konstituerande.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "2f0e1f8b7c7d33245d6ec7f7a6553bc2e2062183a4f9479dd5bd0d789f565382"
+  },
+  "fagersta.se/download/18.2ddb8bf01a12f4db6d716a95/1792140612961/2026-10-02%20signed.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "sha256": "f8e78a4b1859c17e365427c3ef0ca903805019e5525d169a85354d94c4ec0d79"
+  },
+  "falkoping.se/download/18.1eb706c819e6eadae8adbfdb/1787301782400/kallelse%20och%20handlingar%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-08-27.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "c7153c2b456a88897bde1f7d2a1d8df485c224dafca129faa19d0b37547a4840"
+  },
+  "filipstad.se/download/18.41a846ac1a12f57717e3f75b/1792586495980/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunfullm%c3%a4ktige%20den%202026-10-22.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "86a3523e0a5ccfb97f40baf5eba89bf31c0d23a86fc720c87cbb9a52cf192aa5"
+  },
+  "finspang.se/download/18.7b1446061a1631d2f9f3d860/1793019977252/2026-10-21%20protokoll%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "0d950bcc88dc24a44c6f6570e6968f189ba3f88d74cabed9bc76bad4407b90ec"
+  },
+  "gislaved.se/download/18.4cfd0a151a0f2f38a61c5de/1791976109564/utbildningsn%c3%a4mndens%20protokoll%202026-10-13%20un%20%c2%a7%20101%20justerat.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "ddcf687cb5a4adc80ad853a6dad8f4dc79d1631ad6388848b211286148f3ec4f"
+  },
+  "gnesta.se/download/18.31b3d88719bb04fe03ed1bc3/1769707674442/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-02-05.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "490b7f9c255d21ec66aa36e11202fd830c13a09ac3f6f533353fd5ccb761e49c"
+  },
+  "gnosjo.se/download/18.4af9b4091a199ccffa876d/1793715153547/f%c3%b6redragningslista%20kommunstyrelsen%202026-11-10.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "fed40ca0daaa9f8eb096d372b3ac9a55b07952813deb3ec451aea709ed3cb4cf"
+  },
+  "grums.se/download/18.6679637817245a8738917dc2/1594893890960/bilaga%201%20%c2%a7%2050%20budgetf%c3%b6rslag%20m%20och%20c.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "sha256": "c1bbc9e0ec4b6e57cb5033ed3004738d1ae3d21b39f34b57dd63299b34ec2deb"
+  },
+  "grastorp.se/download/18.14c246318b4157c79e22ea4/1701416041953/verksamhetsplan%20budget%202024%20ekonomisk%20plan%202025-2026.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "0b2ca48107f579c6c2c8f4d9a9b1db063e3a181255ad9c782a07cf132e74307c"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a8850/1685089783363/yrkade%20partibudgetar%20i%20kf.%20budget%202023,%20plan%202024-2026.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "sha256": "cfd251f743ceb4b62910a6bb37cf05a0e86f0fb73a9c51db061889930dc8312e"
+  },
+  "meetingsplus.gavle.se/api/v2.0/meetings/102163/download/items/110486": {
+   "kommun": "gavle",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "www4.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/f3ce639dd48e71fac1258dc300432486/$file/8_20260401.pdf?openelement=": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "79977538e4f5f2ea2ef859a81d73f846741e74daa629d70e9e18568fd3397a64"
+  },
+  "habo.se/download/18.48f99c9119e631e674351cf5/1780934359058/15.%20beslut%20-%20ut%c3%b6kad%20budget%20f%c3%b6r%20omkl%c3%a4dningsrum%20futurum.pdf": {
+   "kommun": "habo",
+   "datum": "2026-11-07",
+   "sha256": "7de26b2342b397c5f07b5addcbf2383507036bdea1f9966f12bbec4ed20dfe8d"
+  },
+  "hallsberg.se/download/18.2c880b51a1a1b512dc744/1793873144583/2026-11-03%20-%20protokoll%20ks.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (62 MB)"
+  },
+  "hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2024-2026.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "82806b407cb941283284bc8fb2e31e70acc5b653018c13025e2a99207d4c69c4"
+  },
+  "hofors.se/download/18.4a20cb1317f2525642026e1/1647271876206/protokoll%20kommunfullm%c3%a4ktige%202022-03-08.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "3ebe51d514610df3c18c2efb925a1956dccad3d0fb81f3c7a0b9616b738f3807"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkaubcjlxaj5ffazuln3luoxuec3&currentpageid=4.1fc96f7a15aa40b071a5e70&name=kf%202026-09-28%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "7a2d40b90ebafa19beb856fedea03d09104e7b8a89fe53676341c4ca04cd3c3d"
+  },
+  "hultsfred.se/files/2026/11/protokoll-fran-barn-och-utbildningsnamnden-2026-10-28.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "22c8e0c2b690848877dd6860a964ab20f7ec1ea2ae5009b74ca42838825e819c"
+  },
+  "meetings.hylte.se/api/v2.0/meetings/2646/download/items/52018": {
+   "kommun": "hylte",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "herjedalen.se/download/18.ec76a2a1a1542a691cb490/1792565994039/protokoll%20kommunstyrelsen%202026-10-14%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "sha256": "dd65ae76bec4a944dcfcec49573a78a30eb2936e5157dd28f9f7f2fb498b945b"
+  },
+  "hassleholm.se/download/18.153e1a141992cc7b75f57018/1759146634686/kommunfullm%c3%a4ktiges%20kallelse%202025-09-29.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "sha256": "eb64ecc7ded6d5b94a9f36ef0c4d00cb1ca3d4e501b8c040199c806010f9f0c4"
+  },
+  "hoganas.se/download/18.2b8c832119b2bd0764a511/1765967966636/m%c3%b6tesdatum%20f%c3%b6r%20utbildningsn%c3%a4mnden%202026.pdf": {
+   "kommun": "hoganas",
+   "datum": "2026-11-07",
+   "sha256": "5b5669a0b72904c226691533f6078b79fbe98b7d13ad92b2a2a67403db0cc827"
+  },
+  "hogsby.se/wp-content/uploads/verksamhetsplan-med-budget-2025.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "aadb74bfc54b826432a49a7f62f6634577f8d5663336458e33bc0ba5b323814e"
+  },
+  "jokkmokk.se/media/mb2o24oe/budget-och-strategisk-plan-2025-2027.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "5e2c839f6821b235615ffdabfb79d697d726cd8694355301764946f6424015cb"
+  },
+  "jarfalla.se/download/18.7643f85016c6c81538194dc3/1565945290582/kursplaner-larvux-grundlaggande-skolverket-2017.pdf": {
+   "kommun": "jarfalla",
+   "datum": "2026-11-07",
+   "sha256": "442da3584247fdf156b30489308e1d9a0b5177c6065fce2215a3f4d986539b6d"
+  },
+  "jonkoping.se/download/18.44e6b59c1a157950e22a405/1792565708214/utbildnings-%20och%20arbetsmarknadsn%c3%a4mnden%20protokoll%202026-10-12.pdf.pdf": {
+   "kommun": "jonkoping",
+   "datum": "2026-11-07",
+   "sha256": "9e385b8622b76a2ddcd775fabe8c9b61dd66bd35d3b59c3d4a10d58449b785e3"
+  },
+  "kalmar.se/download/18.102612931a1632d52c1cf00/1793182264458/sammantradesdagar-2027.pdf": {
+   "kommun": "kalmar",
+   "datum": "2026-11-07",
+   "sha256": "7fc7b682d3b1916ec6eac9f34a97ae818b56b55db4bb106c1fefbf6df1fc206e"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/barn--och-utbildningsnamnden/2019/2019-05-21/bun-2019-05-21-bilaga-3-budgetuppfoljning-april.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "2c971c0ccce3e7453388b787156069d0697a81b54d71dd6d067af1216121fb62"
+  },
+  "karlskoga.se/download/18.184044241a10d2bd07a278c/1791975242620/%c3%84rende%202.%20politiskt%20uppdrag%20m%c3%a5l%20och%20budget.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "3d0d3e97da5117b8689be586643bf5e543c69e2b718f913fc2940cd03bc46e74"
+  },
+  "katrineholm.se/download/18.c71f29816bc1576d31e3016/1567426211539/6-2019%20underlag%20for%20overgripande%20plan%20med%20budget%20n%c3%a4mndbeslutad.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "sha256": "5214d91a06ee636cd89aaafd566d8dd3f361b0a0afddced502c257c12ef896a0"
+  },
+  "kinda.se/download/18.6aa2f733194c8e4cf1d6e739/1739264572936/budget%202025.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "sha256": "aac114c93a6af487e1c84d2e851449013c0df29573bd96d2353c7b29d3764483"
+  },
+  "kramfors.se/download/18.47b40c0b1a18c56a8753e86/1793559612972/protokoll%20inledande%20sammantr%c3%a4de%20kommunfullm%c3%a4ktige%2026%20oktober.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "sha256": "90c97b767bdf6874f70c0e2988e1459d6a1b64c9ed850caf8bc35372457f6190"
+  },
+  "kristianstad.se/download/18.2d1dbb0319a154a8a078847e/1762867101019/verksamhetsplan%202025%20bun.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "sha256": "8fef01305ba25adf8826ba8984266e3272a757c51a1f2fd5663d08bee52f85ca"
+  },
+  "kristinehamn.se/contentassets/9b4ea0a168d14b3ea3458a98e45f30f8/budget-2024.pdf": {
+   "kommun": "kristinehamn",
+   "datum": "2026-11-07",
+   "sha256": "aad8dc0b061870447646c84cf6eae0655b7e393ec81396334199ba13a1c73441"
+  },
+  "koping.se/download/18.27a8b45419cbfb64f9a12aff/1772803974343/kommunfullm%c3%a4ktige%c2%a02026-03-02.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "sha256": "142db3486c5a5097f0126b3ecd57cba70935461823bff4e851ad60a8ca1a7495"
+  },
+  "laholm.se/download/18.19dc1c881944fa328fe54/1736504173329/kommunplan%20med%20budget%20f%c3%b6r%202025.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "sha256": "898915994301f0bf9b0460d6ffe1ae2498c0f42385581d560db730e9f2580675"
+  },
+  "laxa.se/download/18.39adf63019367d59c7a8fd4/1732713380278/budget%202025%20och%20verksamhetsplan%202026-2027.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "sha256": "1026709d5aab888db17825eb0adf755ae220fa98a2d7a9d89cfa61d9881b6154"
+  },
+  "lidkoping.se/download/18.50ea560f18d202b65154cae/1706106230105/strategisk%20plan%20och%20budget%202024-2026%20till%20webben.pdf": {
+   "kommun": "lidkoping",
+   "datum": "2026-11-07",
+   "sha256": "f853c4720f2fdd2ec81cf4fe09f186ca0e46649962759bf3a99bcbef67929c41"
+  },
+  "lillaedet.se/download/18.70571f641a162feda214e5d/1793104398496/protokoll%20kf%202026-10-21.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "sha256": "4a2ad024f61a909694de2b99138407a76c210e2bf53fa4672bd5337b3da79128"
+  },
+  "lindesberg.se/download/18.58e091e51a18c51096969bf/1793630761535/kallelse%20kommunfullm%c3%a4ktige%202026-11-09.pdf": {
+   "kommun": "lindesberg",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (31 MB)"
+  },
+  "ljungby.se/download/18.3ea48b7318e65ad1c7139e0c/1755250400769/ans%c3%b6kan%20till%20vuxenutbildningen.pdf": {
+   "kommun": "ljungby",
+   "datum": "2026-11-07",
+   "sha256": "360d58a44db75fe259ab5124e56e2252944f4f902ff5c76995d687d9be86e0ab"
+  },
+  "ljusdal.se/download/18.1113076219dd79743ae2be0d/1778079766091/protokoll%20utbildningsn%c3%a4mnd%20260429%20signerat.pdf": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-07",
+   "sha256": "b1aaf26be7c85c5175a8f351242946759d0b5bd6fb9b3145e1530f83493dec76"
+  },
+  "ljusnarsberg.se/download/18.6c859e3319e73b59b4c5c03/1780558979877/kommunfullm%c3%a4ktige%20sammantr%c3%a4deshandlingar%202026-06-11.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "sha256": "5859f8cd98df6b10a46d305e558aca7a51c1838c0a4159087b28345120073fa4"
+  },
+  "lund.se/download/18.3afa049419a7bd8d6b914ba8/1763716810829/evp%202026-2028%20med%20budget%20fo%cc%88r%202026.pdf": {
+   "kommun": "lund",
+   "datum": "2026-11-07",
+   "sha256": "885b487f0333d440e547e3b211430e9f69d639c271c181d1cd8fa9ac580ea0d4"
+  },
+  "lysekil.se/download/18.1b4e6e761a0a1cc89eb2d0ac/1790074976973/protokoll%20r%c3%a5den%202026-02-19.pdf": {
+   "kommun": "lysekil",
+   "datum": "2026-11-07",
+   "sha256": "b2768f95cbb834ceceae4c35e488db12ed8dde8dcf6ede1235f8759a2309fc59"
+  },
+  "mariestad.se/download/18.5816571119c47e69cd15d5c/1771252195679/handlingar%20kommunfullm%c3%a4ktige%202026-02-23.pdf": {
+   "kommun": "mariestad",
+   "datum": "2026-11-07",
+   "sha256": "f4cc3bbedacec3463b85431158e9a9d77e454143013ca60107101bf9285b0082"
+  },
+  "motala.se/media/uploads/budget_260323.pdf": {
+   "kommun": "motala",
+   "datum": "2026-11-07",
+   "sha256": "fbcc7bbdc15dbde06efff6a0ed9c2e972f1ff9f7d0407068e1e53cb33a1f750a"
+  },
+  "mullsjo.se/appresource/4.3dcd35ec18419bc63832786f/12.269eb38f1a18c6e9e3d5bdd5/file/4c97d514-d9b0-464f-aa3b-3e3ce406148f": {
+   "kommun": "mullsjo",
+   "datum": "2026-11-07",
+   "sha256": "59ca26571d59f5ea952719612c46f67869bf797c1318d69a3f6938ff0f843e70"
+  },
+  "molndal.se/download/18.24ecca8419ae7c7212179/1764834186427/budget%20plan%202026-2028.pdf": {
+   "kommun": "molndal",
+   "datum": "2026-11-07",
+   "sha256": "eff14e7f0b7de24a86b8e8fedcf50650c2c38a73f81fddff20f2ff3dead675a2"
+  },
+  "morbylanga.se/wp-content/uploads/2024/11/verksamhetsplan-med-budget-2025241120.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "2e36d65cbe9c004e7b78b7e6d23c8d0450ef0c4dedf6128f275287ea452b9ac7"
+  },
+  "hedemora.se/wp-content/uploads/2026/02/kallelse-bildningsnamnden-2026-02-23.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "282092fd03b56830cfd47bea52c364b5af49c374a66f46fb0e84a94c2f661feb"
+  },
+  "nordanstig.se/download/18.5b8a7ed119be529fb0723016/1769429057314/mal-och-budget-2026-2029.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "sha256": "97b4506fdef408f69c4a50671d64741d29c45ec196ce348558999cd0f91f300b"
+  },
+  "nordmaling.se/download/18.c071ba181f4d4c1ad116d4/1666259880327/kommunfullm%c3%a4ktiges%20handlingar%20del%202%20med%20budget%202023.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "a6d7e83415d6a2e39b41f2a88cbe02085b10868ac9b06551e538bc37d04c81a9"
+  },
+  "nybro.se/wp-content/uploads/2024/11/kommunplan-2026-2028.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "487101ba6b7db216b1a78bb408d0ab71d926496df129e9cd3b33fdf747bc9248"
+  },
+  "nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2025-med-flerarsplan-2026-2027.pdf": {
+   "kommun": "nykoping",
+   "datum": "2026-11-07",
+   "sha256": "35ba27517f8ac898c7572dc76fab66b4ce56eb46b21510c2b85de1590d2fd1fd"
+  },
+  "nynashamn.se/download/18.68d8913919b355c84d6b7398/1768402392196/verksamhetsplan%202026%20kommunstyrelsen.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "sha256": "0047659d746abf00d2edf7da8f49c2705f4fe949dc704c7d3c02d95d1c5bc574"
+  },
+  "nassjo.se/download/18.4fff94381a036a800253a2c0/1790939529531/protokoll%20kommunfullm%c3%a4ktige%20den%2024%20september%202026.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "375393fa300fecedf1485941c282624e46793e075464fe3bebdf2cf779f14a63"
+  },
+  "olofstrom.se/download/18.3a09c67c1936a330749567c/1733296749739/budget2025_olofstr%c3%b6mskommun.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "sha256": "925786502992d4cc7a3293021f1711fed2fba14582936fa33dd55b34a1f4e8ed"
+  },
+  "docreader.readspeaker.com/docreader?cid=ccpms&lang=sv_se&url=https%3a%2f%2fwww.orsa.se%2fdownload%2f18.67561de41795f5f7f8b2c2ec%2f1621581112579%2fprotokoll%2520kommunstyrelsen%2520m%25c3%25a5l-%2520och%2520budgetberedning%25202021-05-07.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "osby.se/download/18.68bbff2f1a1a17489d97a51/1793802004682/kommunstyrelsens%20individutskott%202026-11-04.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "sha256": "208899c5da089ecf936ba39a1da69bc77c6b4b792a29568c1544270a1a3e60ee"
+  },
+  "ragunda.se/download/18.3679ff70193deb55b5b1da3c/1737102468143/bilaga%201%20-%20fo%cc%88rslag%20investeringsbudget.pdf": {
+   "kommun": "ragunda",
+   "datum": "2026-11-07",
+   "sha256": "4ec75304746efb5022ff534491cbb314752ff6ee6e7c79375621ea72887e3eb4"
+  },
+  "robertsfors.se/download/18.4e5943e01927167b48846094/1729662589871/protokoll%20bou%202023-03-27.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "sha256": "6de0944c361ae002701b23f7a64102cad2ca81da8dfc07c5757501bd61698248"
+  },
+  "ronneby.se/download/18.759467b919b99047d967cc35/1769083491486/kommunstyrelsen%202026-01-13%20%c2%a7%c2%a7%201-28.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "sha256": "36099c4aaf6902b7f017df8e9231510c1e973913bda9453f4f0a2e40acd8d273"
+  },
+  "sandviken.se/download/18.30d8279d1a12f76bbae23ef/1792483319272/kallelse%20kommunstyrelsen%202026-10-27.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "sha256": "0f7b6f1e059019add8d878e25934bb53d729851f1c4ab7bd548fe4be01a7cb03"
+  },
+  "sigtuna.se/download/18.878685519ae29f485921cba/1764951869721/sigtuna%20kommuns%20m%c3%a5l%20och%20budget%202026%e2%80%932028_tillg%c3%a4nglig.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "sha256": "48f4dc5d2b7bd6abd8da54f5414d1a80e79d4d18a43d6abbdb949a2537cbf93e"
+  },
+  "skurup.se/download/18.2c068cc51a12f6b87b546f8/1791901407554/kommunfullm%c3%a4ktige%2019%20okt%202026_samlingskallelse.pdf": {
+   "kommun": "skurup",
+   "datum": "2026-11-07",
+   "sha256": "5763be5ad928884d8724c6ae557a103315750548ae99cae883d1039b0d40d21e"
+  },
+  "sotenas.se/download/18.2f056e301a1a17946211637/1793957120810/vn%20protokoll%202026-11-05%20signed.pdf": {
+   "kommun": "sotenas",
+   "datum": "2026-11-07",
+   "sha256": "0116d414364bc43984ceb7a95d3402cc3cdbcd38a686dd509376a86385d79748"
+  },
+  "storfors.se/download/18.472fe055196f1307552213f7/1747998926767/arvodesreglemente%20-%20bilaga%207%20kf%202024-11-14%20%c2%a7%20102.pdf": {
+   "kommun": "storfors",
+   "datum": "2026-11-07",
+   "sha256": "f747e30fbfcdfa61627ccd90e814026ff7f37d826f0afdd6c93e47132c076329"
+  },
+  "storuman.se/contentassets/fcda21afe7bf4712b863d5c457f35bad/2025/protokoll-kf-2025-11-18-gdpr-version-for-webbpubl.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "30aabb7f66b51a9b5b8dc4390b78307290e97185908718e4733491757eb04a4b"
+  },
+  "stromstad.se/download/18.4df98bcb19bd13d969e216c4/1769095638949/protokoll%20ks%202026-01-21.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "sha256": "ad9acb54b95a4c527d57bf76651fa96b1699dbee51dd3dd3bff0687f392f094b"
+  },
+  "opengov.360online.com/meetings/sundbyberg/file/details/1138537.pdf?filename=protokoll%20f%c3%b6r%20kommunstyrelsens%20sammantr%c3%a4de%20den%2026%20oktober%202026%2c%20%c2%a7%c2%a7%20155%2c%20174%20och%20177&filesize=102687": {
+   "kommun": "sundbyberg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "sundsvall.se/download/18.262f6d591a12f6f9bcb7a835/1792137095301/%c3%84rendelista%20kommunfullm%c3%a4ktige%202026-10-26.pdf": {
+   "kommun": "sundsvall",
+   "datum": "2026-11-07",
+   "sha256": "adba1fdafc49443128046efe2741f9ce7c4ad52667d1b918070b61f8253fe8ca"
+  },
+  "surahammar.se/download/18.641058b5190a227ec2113202/1723811279581/kallelse%20kf%202024-08-19%20budget%202025%20surahammars%20kommun.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "sha256": "e1dc26f3a724f1629e6341a29cd9d6166dd1d391114350be415e518a1658d04e"
+  },
+  "svalov.se/download/18.3b1dd4ca19eb47371761ed9f/1781182617642/kurslitteratur%20vuxenutbildningen%20ht26.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "sha256": "20362535f5825f1c888602345a2953a38100c1c47a59942f844be7da526eb7ca"
+  },
+  "svenljunga.se/download/18.3d6da4bf1a17b5a55b066d/1793617182729/6_10_beredning%20av%20revisorernas%20budget%202027.pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "a8212a3a6fead061914c77c3e352f5f16b50545feb05b857f4417319e39ea1e1"
+  },
+  "saffle.se/download/18.2f1cc1c9181a976d4ff35c9/1656587487296/ks_2022_33-fullm%c3%a4ktigem%c3%a5l%20och%20budget%202023-2025,%20budgetbok.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "sha256": "726de675b246bcc53f05d3b568d2c2298cc0988f30971a53a3c1eb0195c76d49"
+  },
+  "sater.se/wp-content/uploads/2026/05/kallelse-bun-2026-05-12.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "a093122026a25cc819e9d1340373c468b275789e55a769d3d09e39a676bba58f"
+  },
+  "savsjo.se/download/18.1c7bdf2d199e59b572e8417d/1770718030053/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-02-04.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "c370cdd910483a08ca9153052d0c6e576a77836620807af8e7a64cdffe0b3e59"
+  },
+  "soderhamn.se/download/18.73837f1119e639446eb5b96/1779957599025/kommunplanestruktur%20med%20%c3%a5rsbudget%202026%20och%20utblick%202027-2029.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "sha256": "40517becdbe43a971b12db345def95489bf4c7ad73aff35ae4bc6ff9549ff00e"
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2021/protokoll-demokratiberedningen-2021-05-31.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "e64d4332f9a47557dc59458ef20a61deaa28024d19e1673d1b77c6c545de3dd8"
+  },
+  "solvesborg.se/download/18.175c4d3f1a1a18a322c1e2a/1793801101185/kallelse%20ks%20261110.pdf": {
+   "kommun": "solvesborg",
+   "datum": "2026-11-07",
+   "sha256": "aea63e77fbedff721bb7de171e01a28c9880296bb37aea28eff5048814b2261e"
+  },
+  "tanum.se/download/18.35629f641a12f54bd3d17e3/1792572888925/kommunfullm%c3%a4ktige%2026%20oktober%202026,%20med%20handlingar.pdf": {
+   "kommun": "tanum",
+   "datum": "2026-11-07",
+   "sha256": "9baca9a8613fc57becdbc9e9ba96bd9184d6f2b3686e7c26e27ef9561e65847d"
+  },
+  "tierp.se/download/18.13d975e31a12f7e7d3310a7/1791891772123/kallelse%20och%20dagordning%20kf%202026-10-20%20.pdf": {
+   "kommun": "tierp",
+   "datum": "2026-11-07",
+   "sha256": "e47930f4d1cdc673b7d06f5935a2f4994d50a9b639947a89c7eca73daa87b866"
+  },
+  "tjorn.se/download/18.607a8f5419b2bf908082a7a6/1766397105187/socialn%c3%a4mndens%20detaljbudget%202026.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "sha256": "dbccf82d638b288da3d69968a9055ba15397c33fe10dae8ed50794238b0930b9"
+  },
+  "torsby.se/download/18.c08c035187740912272656e/1682060930537/1_8%20kf%20arbetsordning%20f%c3%b6r%20kommunfullm%c3%a4ktige%20.pdf": {
+   "kommun": "torsby",
+   "datum": "2026-11-07",
+   "sha256": "b0c4e096b1d6df00997d619e391cc3cdf00d919d4ad9bb57a703c95628010b57"
+  },
+  "torsas.se/wp-content/uploads/protokollbin171003_direktjustering-%c2%a7-133-17.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "4a02e527b5020db97fe16ba1ec08fa5d83c00640cf5f533539ac6297b9c9c341"
+  },
+  "trelleborg.se/app/uploads/2024/02/malmo-fr-5741-23-dom-2024-09-27-8.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "trollhattan.se/file/download?contentref=192145": {
+   "kommun": "trollhattan",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: Not Found"
+  },
+  "trosa.se/app/uploads/2026/06/sverigedemokraternas-forslag-till-budget-2027.pdf": {
+   "kommun": "trosa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "toreboda.se/download/18.5816571119c47e69cd190cb/1771480492956/handlingar%20kommunfullm%c3%a4ktige%202026-02-23.pdf": {
+   "kommun": "toreboda",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (31 MB)"
+  },
+  "ulricehamn.se/download/18.262f6d591a12f6f9bcb3c2f8/1791966875933/%c3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-15.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "sha256": "2ce80e0bae289be6e832d1ccce90e625b6f8efc818014c50c204c5bb406f86da"
+  },
+  "upplands-bro.se/download/18.1b1fe85b1885185e2bae67d/1686581105161/kallelse%20kommunfullm%c3%a4ktige%202023-06-14.pdf": {
+   "kommun": "upplands-bro",
+   "datum": "2026-11-07",
+   "sha256": "b31bc988acfcd90aed00b9196352060ad9baf7b5094e4a0f5419c3bb16b58485"
+  },
+  "uppvidinge.se/download/18.67fd0b081a0420c907315c8d/1788867636577/protokoll%20bun%202026-09-02_redacted.pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "sha256": "d7d953f71a9da99f91ac4e6e5290cca1b11f83a752e784432ff8196d7de89dd4"
+  },
+  "vaggeryd.se/download/18.6ca7ee6216ed967d4474645e/1576047864200/kallelse%20till%20barn-%20och%20utbildningsn%c3%a4mndnes%20arbetsutskott%202019-12-10.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "sha256": "8b3a635d82f31f47eabc0cf69f9822298916fc877dbacec0cf4938aa30e00122"
+  },
+  "vansbro.se/download/18.4953b4f71a0ada95b47b00d3/1790674382276/fastst%c3%a4lld%20delegationsordning%20att%20g%c3%a4lla%20fr%c3%a5n%20och%20med%202026-10-01.pdf": {
+   "kommun": "vansbro",
+   "datum": "2026-11-07",
+   "sha256": "24bae214d98157136a1717db726c22676257ad722ff5c9db38c74ef2aaa2c120"
+  },
+  "varberg.se/download/18.6e790f8a19e4ae5711232cb/1779377188348/kommunstyrelsen%20kallelse%20260526.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "vaxholm.se/download/18.59e8a5b11992795b53082c7d/1758192151528/komplettering%20kf%202025-09-22-%20budget%20(c)%20vaxholms%20stad%202026-2028%20-%20uppdaterad.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "sha256": "55b230122cf43bbe0aba6d7732fa0fa21fe209b1e8f25a0d19fd7a0fa088a807"
+  },
+  "kallelser-protokoll.vellinge.se/api/v2.0/meetings/17365/download/protocol?downloadmode=download": {
+   "kommun": "vellinge",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "vannas.se/download/18.59f814591a1a19ec04f953f/1793797322536/budget%202026,%202027%20och%20plan%202028%20kf%2020250610.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "sha256": "88c5d054c202d4e2612a02a0229736f24220f4b9a3d85af1a081d227cbbbdca0"
+  },
+  "varmdo.se/download/18.1524f1c618a8d1d9fee11548/1695109337020/ers%c3%a4ttningsreglemente%202023-2026.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "sha256": "3ea061cc27f7d35cd07ca02fbda3b052db229fe5478081583b61cd9fb9bd9608"
+  },
+  "vaxjo.se/download/18.a71c51d1a18c7d48851c9bf/1793712609375/budgetf%c3%b6rslag%20s,%20v,%20mp%202027.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "sha256": "e061e37c1fe4b2afc9def8bb53f61abccbf4e1bf1c1d02cbcae4f5a648430731"
+  },
+  "vargarda.se/download/18.5bfd660b19ea2794f9d1969/1793031391780/protokoll%20kommunfullm%c3%a4ktige%202026-10-21.pdf": {
+   "kommun": "vargarda",
+   "datum": "2026-11-07",
+   "sha256": "7d7fe7b764504d65f8e2febf91fa6affc7f9fa17f8811840ab633f0c670fec0e"
+  },
+  "ydre.se/download/18.5d99862e19e48bc8f261779/1779456356871/protokoll%20vn%202026-05-12.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "sha256": "6674172e721c755b9de7a06a116b944205576d1369a2dd9fcb65f3fbfcd841fe"
+  },
+  "alvdalen.se/download/18.58ec93661a133f6ee1f52332/1792411175034/kallelse%20kommunstyrelsen%202026-10-27.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "sha256": "9683250547c14d701638ca2ef0098b388873c130be722cffa8a69feab68845b2"
+  },
+  "alvkarleby.se/download/18.290ea4ea1a1a18dfda2159/1793716008418/2026-11-10-dagordning%20un.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "sha256": "65c4abd28ef30d080e07f5c0a671cc1555a1f6c1c3328aee6ff08c56885ac17e"
+  },
+  "engelholm.se/download/18.177ebff6193b7c1a10d3bbe5/1741078370152/fun%202025-02-27%20protokoll%20maskad.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "a3468e348f30e3efb30e886566fcfa0ff14c8b1935cb26b5e4d866762e68eb8f"
+  },
+  "amal.se/download/18.2d6ee6901a0adad6f9b64be1/1790603978120/kf%20111%20investeringsbudget%202027.pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "sha256": "394dc2540b95ce7058d9fb165982dbce892b6ef59b8fd98c7e606c358a0fbaaa"
+  },
+  "moten.ange.se/api/v2.0/meetings/53277/download/items/61225": {
+   "kommun": "ange",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "are.se/download/18.9614c51a1a1771ae5474f/1793893293858/2026-11-12%20kallelse%20kommunstyrelsen-komprimerad%20(1).pdf": {
+   "kommun": "are",
+   "datum": "2026-11-07",
+   "sha256": "545b5090ed836616d543751f3a8ac20908378f3fcc0f17fbfb2bc8fbc00017c2"
+  },
+  "riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forvaltningslag-2017900_sfs-2017-900": {
+   "kommun": "asele",
+   "datum": "2026-11-07",
+   "sha256": "28298e74881df61cc96be26fab30367a5f916197122d5f5fab58d921086812e7"
+  },
+  "ockero.se/download/18.4a6cfe0c19bc9a16cee9c879/1770034916072/budget-%20och%20uppdragshandling%20milj%c3%b6-och%20samh%c3%a4llsbyggnadsn%c3%a4mnden%202026.pdf": {
+   "kommun": "ockero",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "orkelljunga.se/download/18.82035bf1934c1405faa9/1732626146454/budget%202025%20och%20ekonomisk%20fler%c3%a5rsplan%202026-2027%20beslutad%20i%20kf%202024-11-25.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "sha256": "dc44ef1a28a0c5ecb8dd14836278fb541d2d9897b0c83a22ddeeb06d30b59d6d"
+  },
+  "ornskoldsvik.se/download/18.24b093fd19b2bceef7d74d4f/1767800299737/del%c3%a5rsrapport,augusti%202025.pdf": {
+   "kommun": "ornskoldsvik",
+   "datum": "2026-11-07",
+   "sha256": "ecba3b5dda1df54d43f9f2a166153051fbb7a491be0fa92d52bc357843f82dc7"
+  },
+  "ostragoinge.se/download/18.7fed703e1a04203ce5382b22/1788186040572/vuxenutbildningen%20-%20plan%20mot%20diskriminering%20och%20kr%c3%a4nkande%20behandling%20l%c3%85%202026-2027.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "sha256": "422c12509be290356b39706c9388e541d196e99a765a373589e9885f0e70ebca"
+  },
+  "overkalix.se/media/o0abrghn/budget-2024-overkalix-kommun.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "8eee1a32334bf431b3f8a6447a68b738a7c788ba589d3ef38ee2d84cac2370d1"
+  },
+  "arboga.se/download/18.1a2af75b19e8c07c3e5d06b2/1781009703180/07.3%20fyrkl%c3%b6verns%20f%c3%b6rslag%20prel_ramar%20budget%202027%20och%20plan%c3%a5ren%202028%20och%202029.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "ca2195ebe54de7bac766c413b2e72067bcfd1673e061937e9183203c9b4fe080"
+  },
+  "arvidsjaur.se/download/18.6a4d560719a715a38741c49/1763462079125/verksamhetsplan-2026.pdf": {
+   "kommun": "arvidsjaur",
+   "datum": "2026-11-07",
+   "sha256": "0ffd520210bbc4c224c276030a0fc6c0d254ab325f982550798c6291b45e8d5d"
+  },
+  "askersund.se/download/18.3dff297118bcc32efba579/1699963790874/protokoll%20mob%202023-11-09.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "sha256": "dce19324f6f186d8a3c3cb8a33c856dab38fed819b63ebc0fab08304d304293a"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/ks/handlingar-for-mote-kommunstyrelsen-den-2026-10-26-1.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "85867b809825cdfb895d45d4d31c757e028a52717240facb8362b41d42ab27c1"
+  },
+  "berg.se/download/18.3c40436a1865060acdf17592/1677592439986/budget%202023.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "4b31b62117d8cdbbf6e08e68bf5ef7735581dbc11dce06e64972d6d7057bd7c0"
+  },
+  "bjurholm.se/download/18.12b012b4183e1cbc75ccb5/1667214879308/ta-arbetsordning%20kommunfullm%c3%a4ktige%202022-2026.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "88471a579bb171c4176cd97f185dbbefdb3a0c4354ff1aaf8000084a2a789164"
+  },
+  "bjuv.se/download/18.5c16b8c41768432450339c7/1608633684427/20201217%20reservation%20internbudget%202021.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "e42c80d39daa72cdacf4c36e5cab075c24ce782ccbd43450d2bf6dab7f27eb22"
+  },
+  "bollebygd.se/download/18.b273f861a0f7d8cff3875/1790943728767/%c3%84rendelista%20-%20kallelse%20bygg-%20och%20milj%c3%b6n%c3%a4mnden%202026-09-28(3).pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "sha256": "48464e8d15ee37e5551c2ea5d656460ec630aed12eee30d896b73ff8936c7331"
+  },
+  "botkyrka.se/download/18.1fbbaae6170bff9469dee9a/1584095744888/handlingar%20kofn%202019-09-03%20inklusive%20m%c3%a5l%20och%20budget%202020.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "4a7e1ab816651eb0cc7a71d2ecef8e98016261719a0a7f303744518315581ae7"
+  },
+  "brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20467": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "bastad.se/download/18.39676ac618c430013413daa/1702048860271/budget-2023.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "4f70b5ba93a41f4ccb6958b024c5920fbaa974e11f5c4daefb531b64a0127108"
+  },
+  "ekero.se/download/18.42216c211a18c7d981118bc4/1793700017365/anslagsbevis%20kommunfullm%c3%a4ktige%20%2019%20oktober.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "d962f12175c7bcdca007457d5fde43397a3c19ba600a886602ce147a4e7d83c0"
+  },
+  "emmaboda.se/download/18.1f843b761a0a5a4894d7e2/1790601757872/kommunfullm%c3%a4ktige%20kallelse%202026-09-28.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "f98a216d196a9c68252cd1f185246b6481290792fe334504f7eef248e83a0675"
+  },
+  "fagersta.se/download/18.2ddb8bf01a12f4db6d716a90/1792140582658/2026-09-24%20signed.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "sha256": "e7162c99947f0ce45c69a211b5c3297ee06bfa4500ae65946cd307570a06c8a7"
+  },
+  "falkoping.se/download/18.1eb706c819e6eadae8a5ab2/1781121026759/kallelse%20och%20handlingar%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-06-16.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "5e1f3c35b33aafd4b5e8915030208bca48c37b2bdbe853a5ea90fd039843c454"
+  },
+  "filipstad.se/download/18.206b6b661a0862d704749099/1789642487438/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunfullm%c3%a4ktige%20den%202026-09-17.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "6c5b4967dfa8660e7c1b50c1aca6f166ae6233ffce754e3264b600093b84e53e"
+  },
+  "finspang.se/download/18.66a6a5981a0fcaaca87340fd/1791270438943/2026-10-15%20kallelse%20med%20handlingar%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "3cb8fcfe100c35a2c9039f4d5bb6ceaf3896a5161f731bcb916b4138698b19ea"
+  },
+  "gislaved.se/download/18.1d7a6b291a0cd1dba9e2049/1790328188110/utbildningsn%c3%a4mndens%20protokoll%202026-09-22%20un%20%c2%a7%c2%a779-100%20justerat.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "a2fafae43259085c07ef6c4052da330b6d47a18a48224f2073a293fbba393d85"
+  },
+  "gnesta.se/download/18.54581b0a19c1e3e17f33bca7/1770631683476/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-02-13.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "2790c0f06c7e92d6c312486e680d79ff10ed96088868b2b6a405c259771072ad"
+  },
+  "gnosjo.se/download/18.2bd9fe851a109775fa8211/1791208761832/f%c3%b6redragningslista%20kommunstyrelsen%202026-10-13.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "a76bb0456ba00055b549123b1e59027dda2bf743285a62a438b3aa5497019538"
+  },
+  "grums.se/download/18.6679637817245a8738917dc6/1594893995909/bilaga%202%20%c2%a7%2050%20budgef%c3%b6rslag%20sd.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "sha256": "703054d7a7bceceeb039442df8328cb182183d541ded1e1d5ebf5b76aa4f3bef"
+  },
+  "grastorp.se/download/18.4112e9bd18c61db5aa313002/1704787554982/kommun%c3%b6vergripande%20verksamhetsplan%20och%20budget%202023.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "607c0f5b944b65a6d28c7676fa73b67cf4d079b044784010d7aa4564bc28a11e"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a882b/1685089232264/g%c3%a4llivare%20kommuns%20budget%20i%20kommunplan%202022,%20plan%202023-2024.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "sha256": "8d39e343f273068ad431648661c9834f62cc297451ec36ec0ad866b0fa1ff46c"
+  },
+  "goteborg.se/wps/wcm/connect/9a3e6583-ce71-4ed8-aabf-46e69661cf8d/rapport+2026_10+handledning+f%c3%b6r+samh%c3%a4llsekonomiska+analyser+och+inkludering+av+h%c3%a5llbarhetsnyttor.pdf?mod=ajperes": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "c8a2254e3bf9759a67a37ff7017a2aacedf5c70c9451de74f465cc66bba91b68"
+  },
+  "hallsberg.se/download/18.13588cf81a1631848a02ca/1792735178471/2026-10-19%20-%20protokoll%20kf,%20%c2%a7%c2%a7%2084-95.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "sha256": "8358f3694f28519ba5511e3d8977349bcb12f5094835ed0e2bfe8b0c94e0b6ae"
+  },
+  "halmstad.se/download/18.59974b7c1a12f6b48a95e47d/1791969261151/261022-kf-handlingar-gdpr.pdf": {
+   "kommun": "halmstad",
+   "datum": "2026-11-07",
+   "sha256": "94f1550c0899abd30cbfc82e831e12621535909bba3623177d970174fa4a4cbf"
+  },
+  "haparanda.se/download/18.7dda32119a7ba5285ff5e3/1764070980477/utkast%20sammantr%c3%a4desplan%202026.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "sha256": "e2adc434e4381d625d22137c84030608dd22717e0043a94de367099f6015755c"
+  },
+  "hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/varbudget-hjo-kommun-2025.pdf": {
+   "kommun": "hjo",
+   "datum": "2026-11-07",
+   "sha256": "5cee542b17c25fbb442ac2ca3b545d62691f7b159bf62f03011a8bc5fe1933b9"
+  },
+  "hofors.se/download/18.326587a11936c69f8ad56da/1739193674682/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202025-02-17.pdf": {
+   "kommun": "hofors",
+   "datum": "2026-11-07",
+   "sha256": "a9602703273ef0d9d76a75594a705eaee89e1f682a099cdafe7c22d02561004f"
+  },
+  "hudiksvall.se/rest-api/graph-service/preview?documentid=01bivrhkg3jxgfbj5cmfh3w4bjs4jvcaeo&currentpageid=4.1fc96f7a15aa40b071a5e70&name=kf%202026-06-15%20kallelse.pdf&filetype=pdf": {
+   "kommun": "hudiksvall",
+   "datum": "2026-11-07",
+   "sha256": "1d2451630381a51c958ac3636601cbc5b131286f0f4ab70a4ab1fb0c7d2fe376"
+  },
+  "hultsfred.se/files/2026/08/kallelse-till-barn-och-utbildningsnamnden-2026-08-26.pdf": {
+   "kommun": "hultsfred",
+   "datum": "2026-11-07",
+   "sha256": "9a00668c02458fd619e8f22efd86b0619e26e9598f2a2f4f266286cbdf74dd43"
+  },
+  "meetings.hylte.se/api/v2.0/meetings/2646/download/items/52025": {
+   "kommun": "hylte",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "herjedalen.se/download/18.4bc117f71a0adb12db824d48/1790076686333/protokoll%20kommunstyrelsen%202026-09-15%20%20webbversion.pdf": {
+   "kommun": "harjedalen",
+   "datum": "2026-11-07",
+   "sha256": "9b9dae6b630c23c6b42f4e345716adc0ba56660a532fd0afac8ca2947715de47"
+  },
+  "hassleholm.se/download/18.3dc1335c198977b06c924fb2/1756123205807/kommunfullm%c3%a4ktiges%20kallelse%202025-08-25.pdf": {
+   "kommun": "hassleholm",
+   "datum": "2026-11-07",
+   "sha256": "4323fe1b13f46302f83b3de26225ae1a031c3d7b8e454f74adffb704d4c02a7b"
+  },
+  "hoganas.se/download/18.45fada431a16334321e74d7/1793095955330/riktlinjer%20f%c3%b6r%20utbildningsn%c3%a4mndens%20verksamhetsbes%c3%b6k(un_2026_76-3)%20(0).pdf": {
+   "kommun": "hoganas",
+   "datum": "2026-11-07",
+   "sha256": "43a378a71d98531f96fd3496fa7254e2881fc915a8560956c625717991c5f64e"
+  },
+  "hogsby.se/wp-content/uploads/budget-2024-25-26.pdf": {
+   "kommun": "hogsby",
+   "datum": "2026-11-07",
+   "sha256": "4e7a05b2bee3101da8484f75f61326b133391a7c7f0cafebfb3a743d18f80ed9"
+  },
+  "jokkmokk.se/media/vr0megp0/maal-och-riktlinjer-foer-arbetet-med-nationella-minoriteter-2025-2027.pdf": {
+   "kommun": "jokkmokk",
+   "datum": "2026-11-07",
+   "sha256": "09219048fb98c7b44e25a055b8d2ff1d03a3148af2ef6b173cffb73f969c928e"
+  },
+  "jonkoping.se/download/18.17ce49301a1631b5d014a563/1793258690831/milj%c3%b6-%20och%20h%c3%a4lsoskyddsn%c3%a4mndens%20protokoll%202026-10-22.pdf": {
+   "kommun": "jonkoping",
+   "datum": "2026-11-07",
+   "sha256": "ea302fa73b701f29eee27ca5b1fe54fe984ff97db2755bf635fa0b7b134173d2"
+  },
+  "karlsborg.se/globalassets/documents/protokoll-och-bilagor-till-och-med-2020/byggnadsnamnden/2019/2019-12-05/bn-2019-12-05-bilaga-2-budget-och-verksamhetsplan-2020-2022.pdf": {
+   "kommun": "karlsborg",
+   "datum": "2026-11-07",
+   "sha256": "7df9ab32846e24b6d51e09825784384c83d61fd2e33808136474ac227af9dc46"
+  },
+  "karlskoga.se/download/18.184044241a10d2bd07a311f/1792070344718/%c3%84rende%203%20-%20omdisponering%20investeringsbudget%202026%20.pdf": {
+   "kommun": "karlskoga",
+   "datum": "2026-11-07",
+   "sha256": "b98e7fdd20dfd9141e6fd6ea45b9beaed3664d27f7ec41218b9bda0f2fab7641"
+  },
+  "katrineholm.se/download/18.34d9e96416970a52c2ac66a/1552659492685/3-2019%20bildningsn%c3%a4mndens%20plan%20med%20budget%202019.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-07",
+   "sha256": "2a5ba459031c0380f36e5c1f1f806d6f9a29b2c31f40169f5aada775bbcb7859"
+  },
+  "kinda.se/download/18.4494a6518b128056774f9ac/1712818182118/budget%202024.pdf": {
+   "kommun": "kinda",
+   "datum": "2026-11-07",
+   "sha256": "25635ca50379902f1bca558ecde72afeca62b920dd76f40fef0519f76e18f9ac"
+  },
+  "kiruna.se/download/18.369d94fd197625529281eab/1750062362153/antaget%20budgetdirektiv%202026-2029.pdf": {
+   "kommun": "kiruna",
+   "datum": "2026-11-07",
+   "sha256": "c1b2b4c1c0dbdb17df00d1b20797cfe2deed563ae79659c2e18bc0801d597118"
+  },
+  "kramfors.se/download/18.6827239e18df28d3c3c161cb/1709562780980/protokoll%20kommunfullm%c3%a4ktige%2026%20februari.pdf": {
+   "kommun": "kramfors",
+   "datum": "2026-11-07",
+   "sha256": "54d872e36ae9f3161ba22e0e79a4929f2a52c0be1b13e80dfefe26c3a2dd75f6"
+  },
+  "kristianstad.se/download/18.1bb5a6b618fa43bf26438a0a/1734502921635/riktlinje%20f%c3%b6r%20hantering%20av%20klagom%c3%a5l%20och%20klagom%c3%a5l%20mot%20utbildningen.pdf": {
+   "kommun": "kristianstad",
+   "datum": "2026-11-07",
+   "sha256": "35fba003e8220a028c530ef01e909011aafdc7d207373ef3658211056b1684f3"
+  },
+  "kristinehamn.se/contentassets/9b4ea0a168d14b3ea3458a98e45f30f8/budget-2023.pdf": {
+   "kommun": "kristinehamn",
+   "datum": "2026-11-07",
+   "sha256": "1bd7aa18bdf0bbfe8b2d843f337b9c656642f0c1bbbe4e880efa12dc0919a40d"
+  },
+  "koping.se/download/18.5fe2a03419d9a68f42c116/1776412468077/kommunfullm%c3%a4ktige%202026-04-13.pdf": {
+   "kommun": "koping",
+   "datum": "2026-11-07",
+   "sha256": "1df5e0da49417b5ac4f4e753e6b0c92df7355dff6144dcf32b118d548ba20b4f"
+  },
+  "laholm.se/download/18.37adb3ba18c80d4e0524f6a/1703063985787/kommunplan%20med%20budget%20f%c3%b6r%202024.pdf": {
+   "kommun": "laholm",
+   "datum": "2026-11-07",
+   "sha256": "9a3aa6460378dcb1ff9b28ce8126e51825633426d0f4ab538b0b8e3f25cd0730"
+  },
+  "laxa.se/download/18.2340dd5218c3dd373452a4be/1702194245125/budget%202024%20och%20verksamhetsplan%202025-2026.pdf": {
+   "kommun": "laxa",
+   "datum": "2026-11-07",
+   "sha256": "3798f046cb7376f7d1072d84f7a9a8a96c356aec0fee64394dc61b4c8a476602"
+  },
+  "lidkoping.se/download/18.2bae7de0180f9b57d59285e9/1657180410461/strategisk%20plan%20och%20budget%202023-2025%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "lidkoping",
+   "datum": "2026-11-07",
+   "sha256": "37a19d54cdbcb16c3af41cda9861fb0682da0bb8fa93e78483781f9692acf998"
+  },
+  "lillaedet.se/download/18.1feceb2f1a0adad5cad9638/1790577143286/kallelse%20bin%202026-09-29.pdf": {
+   "kommun": "lilla-edet",
+   "datum": "2026-11-07",
+   "sha256": "6e9bf0058a208099f56020c635a40650c886663a9d375f1c2f3b211b3a1e0216"
+  },
+  "lindesberg.se/download/18.2c803d561a12f602438a8d6/1792401837851/uppdaterad%20kallelse%20kommunfullm%c3%a4ktige%202026-10-19.pdf": {
+   "kommun": "lindesberg",
+   "datum": "2026-11-07",
+   "sha256": "be71c64f8e62e2fd95ee0105651fa3ec52c89a1ee178ff99a409134328c50098"
+  },
+  "skolkoll.se/kommun/ljungby/lasarstider": {
+   "kommun": "ljungby",
+   "datum": "2026-11-07",
+   "sha256": "aa36c67aa2229aa2f450e0ab396ea5b5ff7480b5e9fd9845781e4fd7884f8658"
+  },
+  "docreader.readspeaker.com/docreader?cid=bwhvu&lang=sv_se&url=https%3a%2f%2fwww.ljusdal.se%2fdownload%2f18.1113076219dd79743ae2be0d%2f1778079766091%2fprotokoll%2520utbildningsn%25c3%25a4mnd%2520260429%2520signerat.pdf": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "ljusnarsberg.se/download/18.49636eb61a0862d6023e71/1789040514677/kommunfullm%c3%a4ktige%20sammantr%c3%a4deshandlingar%202026-09-17.pdf": {
+   "kommun": "ljusnarsberg",
+   "datum": "2026-11-07",
+   "sha256": "f15548aa0c86ccf3f5172ef3dbe4ad3770aec8a2e1800a040b042802a2dd53a2"
+  },
+  "lund.se/download/18.39275e119a0f6d9df2276e5/1762510672470/planeringsdirektiv%20f%c3%b6r%20ekonomi-%20och%20verksamhetsplan%20(evp)%202026-2028%20med%20budget%20f%c3%b6r%202026.pdf": {
+   "kommun": "lund",
+   "datum": "2026-11-07",
+   "sha256": "e9d75e389bf92aa024d0ef7b27a51bdbd6569acb22e18c5fd0ad81f3bd039ec2"
+  },
+  "notisum.se/rnp/document?id=20090400": {
+   "kommun": "lycksele",
+   "datum": "2026-11-07",
+   "sha256": "687e731bedb92dbaec36d1e0159dca3964fe98d070dbabbb6bdbf7caa91bc3a2"
+  },
+  "lysekil.se/download/18.1b4e6e761a0a1cc89eb2d0ad/1790074993422/protokoll%20r%c3%a5den%202026-04-29.pdf": {
+   "kommun": "lysekil",
+   "datum": "2026-11-07",
+   "sha256": "8030cc58c35d0e2b32106d25eb74d1364be3afc49d1051bde8d9ffe551ee546e"
+  },
+  "mariestad.se/download/18.318d074c19d054138b44847/1774277468249/kommunfullm%c3%a4ktiges%20handlingar%202026-03-30.pdf": {
+   "kommun": "mariestad",
+   "datum": "2026-11-07",
+   "sha256": "8d27e0d6d8982dc7b4a26cc398e67452612a8600971bb2c19bfcf4702213d6a4"
+  },
+  "motala.se/media/uploads/arsredovisning-2025.pdf": {
+   "kommun": "motala",
+   "datum": "2026-11-07",
+   "sha256": "9e7da181711066b351979f85ff5a12a810bc1199bee4844dd63eeb59191ac6f7"
+  },
+  "munkfors.se/wp-content/uploads/2026/10/protokoll-ks-2026-10-19.pdf": {
+   "kommun": "munkfors",
+   "datum": "2026-11-07",
+   "sha256": "eeb1bfbb2363bf216ca979867458b72e2057ed9b6f4946aae166cafbd03bd36c"
+  },
+  "molndal.se/download/18.7dca557719a7d85cdddce90/1763657725076/budget%20plan%202024-2026.pdf": {
+   "kommun": "molndal",
+   "datum": "2026-11-07",
+   "sha256": "922ec26f92053f0da43f48d5030a99f598ba561e5849f0e375e173fc0db2cdb2"
+  },
+  "morbylanga.se/wp-content/uploads/2023/11/verksamhetsplan-med-budget-2024.pdf": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-07",
+   "sha256": "051aa8882f165a8ce8976f436dfc004bc0479d8e0778316ae9bb74eb750f0d2d"
+  },
+  "hedemora.se/wp-content/uploads/2026/03/kallelse-bildningsnamnden-2026-03-23.pdf": {
+   "kommun": "norberg",
+   "datum": "2026-11-07",
+   "sha256": "3b00912b1131e28003c4102ac638e0341631285928a51d52b15ae865dd058368"
+  },
+  "nordanstig.se/download/18.2304a94a19993d969474d95a/1759998501164/mal-och-budget-2025-2028-kf-%c2%a749.pdf": {
+   "kommun": "nordanstig",
+   "datum": "2026-11-07",
+   "sha256": "b30796ab5ac464416c8cd61c9fe9b4183b1d0a8d95e08ebc4ca4c45516d35054"
+  },
+  "nordmaling.se/download/18.5e6ebc7a1a137b1841c437/1793611815717/kallelse%20kommunstyrelsen%20261109.pdf": {
+   "kommun": "nordmaling",
+   "datum": "2026-11-07",
+   "sha256": "d1f82a28976d37d3e613f233355449561552e76c475c4c837ce8493c7129f1f5"
+  },
+  "alltomnorrtalje.se/miljonoverskott-och-ny-odlingsstrategi-nar-fullmaktige-sammantrader": {
+   "kommun": "norrtalje",
+   "datum": "2026-11-07",
+   "sha256": "9626846071ca00308a092128d51d20a47e258352bb0e1386fa00bba4568c13d0"
+  },
+  "nybro.se/wp-content/uploads/2025/10/kommunplan-med-budget-2025-plan-2026-2028.pdf": {
+   "kommun": "nybro",
+   "datum": "2026-11-07",
+   "sha256": "487101ba6b7db216b1a78bb408d0ab71d926496df129e9cd3b33fdf747bc9248"
+  },
+  "nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2024-och-flerarsplan-2025-2026.pdf": {
+   "kommun": "nykoping",
+   "datum": "2026-11-07",
+   "sha256": "6a940175afc354d30983e390adc726d48fefebd1fb049e27f7c38b59c4414a14"
+  },
+  "nynashamn.se/download/18.7dfe45e819b2be5213761d4/1766056272756/verksamhetsplan%202026%20n%c3%a4ringslivs-%20och%20arbetsmarknadsn%c3%a4mnden.pdf": {
+   "kommun": "nynashamn",
+   "datum": "2026-11-07",
+   "sha256": "b5b07c9611a975e8899d4349c10388c644d91bdcbbc2927dd462c125f19a59ad"
+  },
+  "nassjo.se/download/18.7e11c26f19e3df8f0b9b5a6/1780034817441/protokoll%20kommunfullm%c3%a4ktige%20den%2021%20maj%202026.pdf": {
+   "kommun": "nassjo",
+   "datum": "2026-11-07",
+   "sha256": "a204aa8159c08f9ead4a85243e9bc606ea9c7a12acb8db62dd4705a14bc58455"
+  },
+  "olofstrom.se/download/18.7136917318c433e669b321/1707914584462/budget-2024.pdf": {
+   "kommun": "olofstrom",
+   "datum": "2026-11-07",
+   "sha256": "c53efa69c841ca3fedbc9eb5d4d0710ff0d7b6163749814421f4aa013db8a593"
+  },
+  "orsa.se/download/18.5a540c7419dd77243a512ef/1777448840473/protokoll%20kommunfullm%c3%a4ktige%202026-04-20.pdf": {
+   "kommun": "orsa",
+   "datum": "2026-11-07",
+   "sha256": "e838c4d8e6cf515406b2b311882634acbbf2ac8021f1e6eeed52da1028ccdc89"
+  },
+  "osby.se/download/18.68bbff2f1a1a17489d97a38/1793801953112/kommunstyrelsen%202026-11-04%20omedelbart%20justerat.pdf": {
+   "kommun": "osby",
+   "datum": "2026-11-07",
+   "sha256": "b9fd840acba9e2567cb3a8987a4763a711d45fd06bcac81e1c56fdc1fb57d707"
+  },
+  "ragunda.se/download/18.7efcb2d1a163265f394722/1793022302319/ipad%20manual%20f%c3%b6rtroendevalda.pdf": {
+   "kommun": "ragunda",
+   "datum": "2026-11-07",
+   "sha256": "2f39d963bd048840dc0a8fe6eb18c306d126f5d4ca27f334a1f3fa5c1418fe3c"
+  },
+  "robertsfors.se/download/18.4e5943e01927167b48846096/1729662602200/protokoll%20bou%202023-05-22.pdf": {
+   "kommun": "robertsfors",
+   "datum": "2026-11-07",
+   "sha256": "3601510cafefe6270b7e08fa9385e289e638d81a793eafefa5546457f2bf3b25"
+  },
+  "ronneby.se/download/18.50b0619719c47b7e236dee2/1770889623310/kommunstyrelsen%202026-02-03%20%c2%a7%c2%a7%2029-55%20inkl.%20bilaga.pdf": {
+   "kommun": "ronneby",
+   "datum": "2026-11-07",
+   "sha256": "7b5dce4a20ea0d1957d69a53a0d3488e323ac992905cde7f1deb2665824abb64"
+  },
+  "sandviken.se/download/18.2cc09a771a12f64b6e22b3/1791882384706/kallelse%20individ-%20och%20familjeomsorgsn%c3%a4mnden%202026-10-20.pdf": {
+   "kommun": "sandviken",
+   "datum": "2026-11-07",
+   "sha256": "71fa83c01ebdb6f5f1fa00f34a8f248e55d6e27abd9954ecb5ee5b404baf3851"
+  },
+  "sigtuna.se/download/18.14350d7218d54a56bd7bbba/1706882717575/m%c3%a5l%20och%20budget%202024-2026.pdf": {
+   "kommun": "sigtuna",
+   "datum": "2026-11-07",
+   "sha256": "94fd5ad16ba8b6c0079d5a7572d6864caf382f807af095bd52ebe5fc7b3dc462"
+  },
+  "simrishamn.se/download/18.5f17ceb41a0ad97b5ba20f95/1789977247232/ks%20protokoll%20260915.pdf": {
+   "kommun": "simrishamn",
+   "datum": "2026-11-07",
+   "sha256": "fa4e3d215ffc45a1c37c3817e60ccba3f1e0b016df70ba91ea53ec8a30959da5"
+  },
+  "skurup.se/download/18.5896dcc21a042344fd01d9f3/1788185853192/kallelse%20kommunfullm%c3%a4ktige%202026-09-07.pdf": {
+   "kommun": "skurup",
+   "datum": "2026-11-07",
+   "sha256": "ba74b58f4435d797710a141acff8939d7b87ac7d67f3cb67ccf9a3193d68ec50"
+  },
+  "sotenas.se/download/18.74ee28dd1a1a16b1ab611d0/1793879871436/mbnau%20kallelse%202026-11-12.pdf": {
+   "kommun": "sotenas",
+   "datum": "2026-11-07",
+   "sha256": "52e64d6f14e2f0c7a2043efcd944f5b117ecda62d861cbdf9aa025ef382d8263"
+  },
+  "storfors.se/download/18.3b54a8541a08628092b53dd/1789050004842/kallelse%20kf%202026-09-17.pdf": {
+   "kommun": "storfors",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (191 MB)"
+  },
+  "storuman.se/contentassets/9d46b5f7ee13423db9b54a672f3c75c6/ks-261103-justeringsversion-slutlig.pdf": {
+   "kommun": "storuman",
+   "datum": "2026-11-07",
+   "sha256": "1cc2de2a08f7a711a226efde22bd110e052dc1eb1db70aea3c07db0a700f249e"
+  },
+  "stromstad.se/download/18.3dff4319c935838d8f4ec/1772203066967/protokoll%20ks%202026-02-25.pdf": {
+   "kommun": "stromstad",
+   "datum": "2026-11-07",
+   "sha256": "e3d1ef749d7f9fdcacad0c577e97dd896aa2c7e9e4e0f52e7dfbd3fefecd5ef4"
+  },
+  "opengov.360online.com/meetings/sundbyberg/file/details/1137675.pdf?filename=protokoll%20f%c3%b6r%20kommunfullm%c3%a4ktiges%20sammantr%c3%a4de%20den%2019%20oktober%202026&filesize=123057": {
+   "kommun": "sundbyberg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "sundsvall.se/download/18.262f6d591a12f6f9bcb7a836/1792137114232/m%c3%b6teshandlingar%20kommunfullm%c3%a4ktige%202026-10-26.pdf": {
+   "kommun": "sundsvall",
+   "datum": "2026-11-07",
+   "sha256": "d8c82df662801b0e1bdd13f8b3cb477298f4f73fdb79c2fedbfc7d4e89ac6df5"
+  },
+  "surahammar.se/download/18.62732da117a760b300f394e4/1630910244612/ks%202021-08-23%20majoritetens%20budgetf%c3%b6rslag%202022.pdf": {
+   "kommun": "surahammar",
+   "datum": "2026-11-07",
+   "sha256": "cea7b643b65076ccde19079db3043ccc1c43310f8074eb6fb9be348be799f7da"
+  },
+  "svalov.se/download/18.485bd24217f4498682056651/1649163861760/e-blankett%20sfi%20ans%c3%b6kan.pdf": {
+   "kommun": "svalov",
+   "datum": "2026-11-07",
+   "sha256": "51d3ffaf4e2cfbd8f7eeb1f7876c96391890bc5e8e8bed44e298f861d06c2eba"
+  },
+  "svenljunga.se/download/18.3d6da4bf1a17b5a55b066f/1793617206162/7_2_investeringsbudget%202027-2031%20f%c3%b6r%20svenljunga%20kommun%20och%20svenljunga%20verksamhetslokaler%20ab%20(ksau%2026_10).pdf": {
+   "kommun": "svenljunga",
+   "datum": "2026-11-07",
+   "sha256": "c950ff68e480e320cc8d30beaee045a03615f31db88ba4db72d47630fc31ed77"
+  },
+  "saffle.se/download/18.2baa1031922645ab02f569/1727258050948/%c3%85rsredovisning_2023.pdf": {
+   "kommun": "saffle",
+   "datum": "2026-11-07",
+   "sha256": "c18c119e5375757c126c42b9ad207fcffe06ee05b9623b5973129c2c46ea7043"
+  },
+  "sater.se/wp-content/uploads/2026/04/kallelse-bun-2026-04-15.pdf": {
+   "kommun": "sater",
+   "datum": "2026-11-07",
+   "sha256": "66ed5c902850edd61a55a316150cc93bd84a0af408a5e12cab0afab1ccc1f504"
+  },
+  "savsjo.se/download/18.7ca9d08b19a3311685e8b466/1772620941426/barn-%20och%20utbildningsn%c3%a4mndens%20protokoll%202026-02-25.pdf": {
+   "kommun": "savsjo",
+   "datum": "2026-11-07",
+   "sha256": "49c09062c6fedb11b5e55e15c5267f09bfb054e9abe473607a9f691d5eb88cf1"
+  },
+  "soderhamn.se/download/18.54bcf22d18e394a835d14ff/1712730553619/plan%20f%c3%b6r%20energi%20och%20klimat%20s%c3%b6derhamns%20kommun.pdf": {
+   "kommun": "soderhamn",
+   "datum": "2026-11-07",
+   "sha256": "cdf6aebee949b90b2dae5878eb4caa239a3b08c94bc01d7b35687911db1554fd"
+  },
+  "soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2021/protokoll-demokratiberedningen-2021-09-20.pdf": {
+   "kommun": "soderkoping",
+   "datum": "2026-11-07",
+   "sha256": "347e088043cb58833888bfdf4e49853d656d824d5ac9da3d0086b1485068dad7"
+  },
+  "solvesborg.se/download/18.4f0dfe81a15ccdc28e20af/1792658278837/kallelse%202026-10-28%20bun.pdf": {
+   "kommun": "solvesborg",
+   "datum": "2026-11-07",
+   "sha256": "e51826dc7341b840ebf0e2de577873b9aa48c89c6afd95ea7cfac406f8e66d5c"
+  },
+  "tanum.se/download/18.77ecb0ce1a18c435c471ad/1793362118313/kommunstyrelsen%204%20november%202026,%20med%20handlingar.pdf": {
+   "kommun": "tanum",
+   "datum": "2026-11-07",
+   "sha256": "ca4374b07453a066050b95e2be452e3ec0de67fde766ce86a151d37f6a6e900a"
+  },
+  "tierp.se/download/18.13d975e31a12f7e7d3310a6/1791891755943/handlingar%20kf%202026-10-20.pdf": {
+   "kommun": "tierp",
+   "datum": "2026-11-07",
+   "sha256": "5e7d1ee0db9c1eff6bb7024bf25e15a2edeec68a24a091137ed8fbe1aad0e73f"
+  },
+  "tjorn.se/download/18.607a8f5419b2bf908082a7c7/1766397167534/kultur-%20och%20fritidsn%c3%a4mndens%20detaljbudget%202026.pdf": {
+   "kommun": "tjorn",
+   "datum": "2026-11-07",
+   "sha256": "e1cec95082df60ff33cf64360e24fc9184afbff11cebeb1a6e2405c6d5021db5"
+  },
+  "torsas.se/wp-content/uploads/protokollbin170613.pdf": {
+   "kommun": "torsas",
+   "datum": "2026-11-07",
+   "sha256": "1af9a4032af03a448d9233753d2d7b6bd97677f94e71cc915f7a7cab1be1a196"
+  },
+  "trelleborg.se/app/uploads/2026/03/remiss-forslag-till-ungdomsfullmaktige-i-trelleborgs-kommun.pdf": {
+   "kommun": "trelleborg",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "trollhattan.se/file/download?contentref=192144": {
+   "kommun": "trollhattan",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: Not Found"
+  },
+  "trosa.se/app/uploads/2026/06/miljopartiet-de-gronas-budgetforslag-2027.pdf": {
+   "kommun": "trosa",
+   "datum": "2026-11-07",
+   "fel": "robots.txt tillåter inte"
+  },
+  "toreboda.se/download/18.7c52e27919c985ee72f1213/1772201042290/handlingar%20kommunfullm%c3%a4ktige%202026-03-06.pdf": {
+   "kommun": "toreboda",
+   "datum": "2026-11-07",
+   "sha256": "9c7d5273a33c4018b3c84352db1755d7d878c5e5b7607adb697d4a9baa56cae9"
+  },
+  "ulricehamn.se/download/18.5d1f31c21a163242f9682265/1793025259071/protokoll%20kommunstyrelsen%202026-10-01.pdf": {
+   "kommun": "ulricehamn",
+   "datum": "2026-11-07",
+   "sha256": "0259efb4ad6cfa72e6f6e7455939cb126205eb783446fe424f38ae83b4891f22"
+  },
+  "upplands-bro.se/download/18.7b9ee94218851b709421097e/1686587303220/m%c3%b6tesbok%20kommunfullm%c3%a4ktige%202023-06-14%20webb_bortredigerad.pdf": {
+   "kommun": "upplands-bro",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (144 MB)"
+  },
+  "uppvidinge.se/download/18.48802db51a157ba49331b2b/1792578712265/protokoll%20kf%202026-10-15%20(konstituerande%20fullm%c3%a4ktige).pdf": {
+   "kommun": "uppvidinge",
+   "datum": "2026-11-07",
+   "sha256": "be504172b89970bdd3d67454fcb0a32e26198781ecf34ddea0330318fa0ab294"
+  },
+  "vaggeryd.se/download/18.39f71eae16e8140e9705fe1/1574164530650/kallelse%20barn-%20och%20utbildningsn%c3%a4mndens%20arbetsutskott%202019-11-12.pdf": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-07",
+   "sha256": "cd779db2424df8c4dc830bfa10b84d00362b6932aa2224ab417b4d501b8f09bc"
+  },
+  "riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725": {
+   "kommun": "vansbro",
+   "datum": "2026-11-07",
+   "sha256": "2aac6d733a29840ec254d435f24627a2049a3ef6fd2146b8c3ce09cba579e97a"
+  },
+  "varberg.se/download/18.7f6e3f5419daba3f057d6c83/1776950366965/kommunstyrelsen%20kallelse%20260428%20-%20del%201.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "vaxholm.se/download/18.63a28de419927a4dc67b2d8e/1758527922099/komplettering%20kf%202025-09-22%20budgetf%c3%b6rslag%20mp%202026.pdf": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-07",
+   "sha256": "c090c5f6be87d2c43efe038e8dfe00fddbea56bf3ed1f8a40b5ce5b40cc17db3"
+  },
+  "kallelser-protokoll.vellinge.se/api/v2.0/meetings/12292/download/agenda?downloadmode=download": {
+   "kommun": "vellinge",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "vindeln.se/download/18.1f18b20919d92ce2cb264/1776450429333/ny%20omformaterad%20kallelse%20kommunfullm%c3%a4ktige%2020%20april%202026.pdf": {
+   "kommun": "vindeln",
+   "datum": "2026-11-07",
+   "fel": "ValueError: för stor (51 MB)"
+  },
+  "vannas.se/download/18.2bffacc81902c3883dcaa/1719314202789/budget%202025-2026,%20plan%202027%20kf%2020240618.pdf": {
+   "kommun": "vannas",
+   "datum": "2026-11-07",
+   "sha256": "19b59c7d8d20dba45423b6678510529fb4daf91e888e7929ee9133f04efabc81"
+  },
+  "varmdo.se/download/18.33d76b7195ada2a7b210e29/1744032234125/auktorisationssystem%20inom%20vuxenutbildning.pdf": {
+   "kommun": "varmdo",
+   "datum": "2026-11-07",
+   "sha256": "c72c2f3dad9dabab28c46faf66f4ae04459027f1705cc852d9897c9c066b529f"
+  },
+  "vaxjo.se/download/18.7430308919c890aa30721e10/1772174927811/internbudget%20f%c3%b6r%20utbildningsn%c3%a4mnden%202026.pdf": {
+   "kommun": "vaxjo",
+   "datum": "2026-11-07",
+   "sha256": "bcef92abdb12f6539fa4934de92b5149dd8d21d781322c047919ec2c9fdbdd11"
+  },
+  "ydre.se/download/18.7cfa51c219ddcb7f64f5218/1778066028681/kallelse%202026-05-12.pdf": {
+   "kommun": "ydre",
+   "datum": "2026-11-07",
+   "sha256": "f3b4f0c07be73338680483ad27f759446dc3408427b515ad534be05a4d6394d1"
+  },
+  "almhult.se/download/18.1932ec3d19329b835ff65a2e/1732262997802/kommunfullm%c3%a4ktiges%20sammantr%c3%a4deshandlingar%202024-11-25%20-%20extrahandlingar%20-%20budgetf%c3%b6rslag%202025%20fr%c3%a5n%20moderaterna.pdf": {
+   "kommun": "almhult",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an "
+  },
+  "alvdalen.se/download/18.642472ba1a162ec5efa68a69/1793295409342/kommunstyrelsen%202026-11-03.pdf": {
+   "kommun": "alvdalen",
+   "datum": "2026-11-07",
+   "sha256": "ee4e4193e98c6008fd736a6fed7bb49bbeddbe70870ace88a403abaaa457311b"
+  },
+  "alvkarleby.se/download/18.4c6b35881a1631a913c3dc/1792680833451/dagordning%20kf%202026-10-28.pdf": {
+   "kommun": "alvkarleby",
+   "datum": "2026-11-07",
+   "sha256": "16defe2c6f8e14c27a9a6ad41043d50b00ba8e197a89733684166eec228fb624"
+  },
+  "engelholm.se/download/18.26a3fd58195b8a67f1714a4/1743491289770/fun%202025-03-27%20protokoll.pdf": {
+   "kommun": "angelholm",
+   "datum": "2026-11-07",
+   "sha256": "e47d0e2d0ce82088507861ab4ee3ba8d47bb03c254e194bf1f304b1fdb619b02"
+  },
+  "amal.se/download/18.2d6ee6901a0adad6f9b64bde/1790603978017/budgetdokument%202027%20-%202030.pdf": {
+   "kommun": "amal",
+   "datum": "2026-11-07",
+   "sha256": "2f371fb2eb43ca011ce73a6aad6b807460378e7f3cb42159bad5f6620843c0b0"
+  },
+  "moten.ange.se/api/v2.0/meetings/53277/download/items/61138": {
+   "kommun": "ange",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "are.se/download/18.86795d91a1a1a1fd5d566b/1793896014993/2026-11-10%20kallelse%20kommunstyrelsens%20arbetsutskott.pdf": {
+   "kommun": "are",
+   "datum": "2026-11-07",
+   "sha256": "6980b04e7e0dfce44b69097b5dbfa313f7bef2221526e09f46a14c2f5890d324"
+  },
+  "ockero.se/download/18.4a6cfe0c19bc9a16cee9c877/1770034916007/budget-%20och%20uppdragshandling%20%20socialn%c3%a4mnden%202026.pdf": {
+   "kommun": "ockero",
+   "datum": "2026-11-07",
+   "fel": "HTTPError: HTTP Error 404: "
+  },
+  "orkelljunga.se/download/18.180050e218c319d525caf299/1701804420838/budget%202024%20och%20ekonomisk%20fler%c3%a5rsplan%202025-2026%20belutad%20i%20kf%202023-11-27.pdf": {
+   "kommun": "orkelljunga",
+   "datum": "2026-11-07",
+   "sha256": "af8bae7895e5d0c88e58a0bf3fbea5665a9ed5f0edd17d1cd4418122548c416a"
+  },
+  "ostragoinge.se/download/18.68eb143f1997f604aecee5b4/1759154047298/m%c3%a5l-%20och%20resultatplan%202026-2027%20250528.pdf": {
+   "kommun": "ostra-goinge",
+   "datum": "2026-11-07",
+   "sha256": "e52c42d1d3c5ac0d0a6542b56031c7e0bba8b63a1ab986d989aca97aadb94b4a"
+  },
+  "overkalix.se/media/crwhiqqo/budget-2023-overkalix-kommun.pdf": {
+   "kommun": "overkalix",
+   "datum": "2026-11-07",
+   "sha256": "1d68ac9573c25811be67f6d1a11551ad54ad46f30a8065ef9f6dbacd4ae3fc1d"
+  },
+  "arboga.se/download/18.2ed6952d1900fdd5f365eb3/1718276118998/13.1%20tj%c3%a4nsteskrivelse_strategisk%20och%20ekonomisk%20plan%202025-2027,%20m%c3%a5l%20och%20budget%202025.pdf": {
+   "kommun": "arboga",
+   "datum": "2026-11-07",
+   "sha256": "5b2a58e18b28e74ec19f779fea681654afdafd80d5faf9d088ee9482bb5d525d"
+  },
+  "askersund.se/download/18.277d354918c629aad78451b/1702902158932/protokoll%20mob%202023-12-14.pdf": {
+   "kommun": "askersund",
+   "datum": "2026-11-07",
+   "sha256": "fc958dcfee2a4d37e0e9954b6e14a7e9f93795da96eb1dccce0fcfd685bcfeaf"
+  },
+  "avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/kf/handlingar-for-mote-kommunfullmaktige-den-2026-11-09.pdf": {
+   "kommun": "avesta",
+   "datum": "2026-11-07",
+   "sha256": "e2860a07dae1bdf5ed83a9fb3b310952d7975384c6a522042baa4392ba83926c"
+  },
+  "berg.se/download/18.666e2f2719c0958516f34b1/1769759015239/kommunstyrelsens%20protokoll%20den%2020%20januari%202026%20f%c3%b6r%20delning.pdf": {
+   "kommun": "berg",
+   "datum": "2026-11-07",
+   "sha256": "d7050657722a9769fce0bbb9dfed82ab69c9f05a87e8c05559afdda4d8427c53"
+  },
+  "bjurholm.se/download/18.7d99aaa718ab7ea8b915b61/1772085728860/delegationsordning%20enligt%20kommunstyrelsens%20reglemente.pdf": {
+   "kommun": "bjurholm",
+   "datum": "2026-11-07",
+   "sha256": "052832da9b1e314427b582597be46ab97db3553b34f4ac7e1b677f8b0d6fc861"
+  },
+  "bjuv.se/download/18.69ac471819bbeca05c639845/1769003925326/kallelse%20un%202601.pdf": {
+   "kommun": "bjuv",
+   "datum": "2026-11-07",
+   "sha256": "1c193a6a8f6e51add65bf04e2fb7eb42f791cdae7576e50ed25ffd546e17dea8"
+  },
+  "bollebygd.se/download/18.281d9b4a19eb482ffff11a92/1781513569913/%c3%84rendelista%20-%20kallelse%20bygg-%20och%20milj%c3%b6n%c3%a4mnden,%202026-06-17.pdf": {
+   "kommun": "bollebygd",
+   "datum": "2026-11-07",
+   "sha256": "05be68ba8d208bf07d510142571b25c5775f4ace282b5e6d94dc06044c67c687"
+  },
+  "botkyrka.se/download/18.1fbbaae6170bff9469dee64/1584095656130/kfn%202018-04-24%2007%20budgetprognos%20mars.pdf": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-07",
+   "sha256": "826fe113ea2fb3c256c3407302689508674ec102846332a42af6e8fb6d9ab42f"
+  },
+  "brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20502": {
+   "kommun": "bracke",
+   "datum": "2026-11-07",
+   "fel": "okänd typ application/octet-stream"
+  },
+  "bastad.se/download/18.2cb3832019bb6e31a5e61dd8/1768981546170/finansiella-riktlinjer-for-bastads-kommun.pdf": {
+   "kommun": "bastad",
+   "datum": "2026-11-07",
+   "sha256": "8ded0e76fb39ecce43f8f025331537ad90dc2f5d8d35fb2322efee7f51a79c43"
+  },
+  "ekero.se/download/18.134d4a3e1a162ee4b562c31b/1793259719818/anslag%20vn%202026-10-22.pdf": {
+   "kommun": "ekero",
+   "datum": "2026-11-07",
+   "sha256": "f95051cc71f1cff79e5f1383fcc8c710014ebf2e9adebfe06f8b544a51c7317a"
+  },
+  "emmaboda.se/download/18.5de0d0f519f85402cbd113/1785156531580/kommunfullm%c3%a4ktige%20kallelse%202026-08-03.pdf": {
+   "kommun": "emmaboda",
+   "datum": "2026-11-07",
+   "sha256": "ce57af77c97b2e27950f533d3d18551ef2dd91a944f8414df39a3c831588d275"
+  },
+  "riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105": {
+   "kommun": "eslov",
+   "datum": "2026-11-07",
+   "sha256": "c7eb72d2bea35c835100f5dee975040bec98ad289b0ea3635f372ed532b9b068"
+  },
+  "fagersta.se/download/18.dbf56df19c47d34ed92bd7c/1771576112702/2026-02-18.pdf": {
+   "kommun": "fagersta",
+   "datum": "2026-11-07",
+   "sha256": "410d1ec9fe67e43dec767989273b777df98b9399f7ff092a130eb7d01afd65dd"
+  },
+  "falkoping.se/download/18.538abe0919e0227e5095d0/1778674570419/kallelse%20och%20handlingar%20-%20barn-%20och%20utbildningsn%c3%a4mnden%202026-05-19.pdf": {
+   "kommun": "falkoping",
+   "datum": "2026-11-07",
+   "sha256": "f2da6a802ba46bc8a1d946865520d6094ef97936a0ca0ccdf1120533d9c478b6"
+  },
+  "filipstad.se/download/18.58e3605719e85cefe97792f3/1781095231632/handlingar%20f%c3%b6r%20m%c3%b6te%20kommunfullm%c3%a4ktige%20den%202026-06-10.pdf": {
+   "kommun": "filipstad",
+   "datum": "2026-11-07",
+   "sha256": "3987e4e0fc5864cc62627e8f56394028ee588ff12e1e27af5b12e751b2cc4d9e"
+  },
+  "finspang.se/download/18.30fd03281a134014b9f57c93/1792416698658/2026-10-15%20protokoll%20kommunfullm%c3%a4ktige.pdf": {
+   "kommun": "finspang",
+   "datum": "2026-11-07",
+   "sha256": "7cb60c32fb70d4458480795e1c2007f21d894e5ca9f5789d04b02a5ca7c5d220"
+  },
+  "gislaved.se/download/18.70bca8731a17beda9462935/1793274649027/kommunfullm%c3%a4ktige%20protokoll%202026-10-26.pdf": {
+   "kommun": "gislaved",
+   "datum": "2026-11-07",
+   "sha256": "2d8e620ca44b02884b7ecad9ec44ca8ec1398c053f70ec6652bd744fbcf70413"
+  },
+  "gnesta.se/download/18.5e05fa1519cf59d963c13ee/1773666442062/kallelse%20barn-%20och%20utbildningsn%c3%a4mnden%202026-03-23.pdf": {
+   "kommun": "gnesta",
+   "datum": "2026-11-07",
+   "sha256": "23f09452513f89f77aed468c058966c15b5f8d861d93e6007d54ec12f3d8660c"
+  },
+  "gnosjo.se/download/18.2bd9fe851a109775fa849a1/1792667532007/protokoll%20kommunstyrelsen%202026-10-13.pdf": {
+   "kommun": "gnosjo",
+   "datum": "2026-11-07",
+   "sha256": "b54a398cbc89ab068d08c1f618991b02ce101c8f33bcc0258194be514e3ebaf0"
+  },
+  "grums.se/download/18.67eb62ee16db20b5fc5428/1570782276304/21%20februari%20%c2%a7%c2%a7%201-10.pdf": {
+   "kommun": "grums",
+   "datum": "2026-11-07",
+   "sha256": "51d295542087fa311e0fedf98a22c94eae50f45fa6e77fd84524d67ad555f10f"
+  },
+  "grastorp.se/download/18.5b86a7be19754b6e60c50af/1750058971259/antagna%20m%c3%a5l%20och%20riktlinjer%20f%c3%b6r%20god%20ekonomisk%20hush%c3%a5llning.pdf": {
+   "kommun": "grastorp",
+   "datum": "2026-11-07",
+   "sha256": "4c95838e3331d3412febe1749bcb4a5e937a6c9e9a61d4e6fe2e07bf22d2f3cd"
+  },
+  "gallivare.se/download/18.79a301f518851710d0a882a/1685089232240/g%c3%a4llivare%20kommuns%20budget%20i%20kommunplan%202021,%20plan%202022-2023.pdf": {
+   "kommun": "gallivare",
+   "datum": "2026-11-07",
+   "sha256": "1e1ed065208de8a01aaa468b72ae467e8bb881d4a1cb9c53bb1de870b82bafe8"
+  },
+  "www4.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/87f7f776fe53a22bc1258e0b003155e2/$file/snabbprotokoll_20260603.pdf": {
+   "kommun": "goteborg",
+   "datum": "2026-11-07",
+   "sha256": "16199469377b76a64ad0bdff7b624a034d98de0e6e512735c5244fbfec7906ba"
+  },
+  "habo.se/download/18.523861941a12f6880de103/1791798115295/kallelse%20kf%2019%20okt%202026%20med%20underlag.pdf": {
+   "kommun": "habo",
+   "datum": "2026-11-07",
+   "sha256": "7338ff70c99dce7c296e00dfc3f47a77d220ccc1b5b93cccc3152f64e49286de"
+  },
+  "hallsberg.se/download/18.13588cf81a1631848a02bf/1792735098168/2026-10-19%20-%20protokoll%20kf,%20%c2%a7%c2%a7%2079-83.pdf": {
+   "kommun": "hallsberg",
+   "datum": "2026-11-07",
+   "sha256": "8ee80a54cc074a753663bc537acd732183aa77c131ab9a9d3701b48d2b53c819"
+  },
+  "halmstad.se/download/18.18e209a21a11582e7d525916/1791440401869/261015-kf-handlingar.pdf": {
+   "kommun": "halmstad",
+   "datum": "2026-11-07",
+   "sha256": "9a832fb8c82a03607025b8605cbfd62fb520096e509bc9dbcca6a39977b1413e"
+  },
+  "haninge.se/49c578/globalassets/dokument/styrdokument/kommunstyrelseforvaltningen-och-hela-kommunen/pensionsriktlinjer-for-fortroendevalda-2026.pdf": {
+   "kommun": "haninge",
+   "datum": "2026-11-07",
+   "sha256": "4196b3614cd28b30e8b410d81a1e55101518950d6f0d4dc8fb0635048c873334"
+  },
+  "haparanda.se/download/18.13c210f1193dec8a1fdf41/1734685152849/protokoll%20bun%202023-01-11.pdf": {
+   "kommun": "haparanda",
+   "datum": "2026-11-07",
+   "sha256": "264497abdada569e87e953511fd6bc2bfdb054354c01d89c513bc642b06a24bc"
   }
  }
 }

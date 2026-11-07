@@ -13,5 +13,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jokkmokk.se/media/ciokktun/budget-och-strategisk-plan-2027-2029-kf.pdf",
+  "titel": "Budget- och strategisk plan 2027-2029",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94b77dd8a98bb4cbb4261179a075e9b86ba5059dafbb7d7bc6409a4234f93c93",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jokkmokk.se/media/mb2o24oe/budget-och-strategisk-plan-2025-2027.pdf",
+  "titel": "Förslag till investeringsbudget 2025 Förslag till budget 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5e2c839f6821b235615ffdabfb79d697d726cd8694355301764946f6424015cb",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jokkmokk.se/media/vr0megp0/maal-och-riktlinjer-foer-arbetet-med-nationella-minoriteter-2025-2027.pdf",
+  "titel": "Jokkmokks kommuns/Jåhkåmåhke kommuvna/Jåhkåmåhki suohkan mål och riktlinjer: Svenska Julevsámegiella Davvisámegiella",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "09219048fb98c7b44e25a055b8d2ff1d03a3148af2ef6b173cffb73f969c928e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

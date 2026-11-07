@@ -28,5 +28,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.607a8f5419b2bf908082a7a4/1766397025571/Barn-%20och%20utbildningn%C3%A4mndens%20detaljbudget%202026.pdf",
+  "titel": "Barn- och utbildningsnämndens detaljbudget 2026 pdf, 386 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b97746f5004e9caa3cffba740864211e1ceb93b191f396511a803cf8a11d9f3b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.607a8f5419b2bf908082a7a6/1766397105187/Socialn%C3%A4mndens%20detaljbudget%202026.pdf",
+  "titel": "Socialnämndens detaljbudget 2026 pdf, 1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dbccf82d638b288da3d69968a9055ba15397c33fe10dae8ed50794238b0930b9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kunna delta i kommunens barn- och ungdomsverksamhet kommer vi att bygga och utveckla tillgängliga och anpassade verksamhetslokaler för Delta i Skärhamn. Stärka lärartätheten inom grundskolan Vi vill ge eleverna i Tjörns skolor en bra grund att stå på för fortsatta studieframgångar. För detta krävs bland annat duktiga lärare och g",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.tjorn.se/download/18.607a8f5419b2bf908082a7c7/1766397167534/Kultur-%20och%20fritidsn%C3%A4mndens%20detaljbudget%202026.pdf",
+  "titel": "Kultur- och fritidsnämndens detaljbudget 2026 pdf, 971 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e1cec95082df60ff33cf64360e24fc9184afbff11cebeb1a6e2405c6d5021db5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

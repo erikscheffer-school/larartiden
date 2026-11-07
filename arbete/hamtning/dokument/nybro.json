@@ -43,5 +43,65 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2025/06/Kommunplan-2027-2029.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0e758c76be82bb5147123b04f02d810803e9b8a44801f96f1b466721fc9f23bc",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t barn och unga, vilket påverkar behovet av förskole- och skolverksamhet. Budgeten utgår från att vi når ett positivt resultat motsvarande 1,0 % av skatter och statsbidrag år 2026 och att detta successivt ska öka till 3,5 % år 2029. Detta ger ett sammanlagt överskottsmål på 2,4 % under planperioden. Dessa överskott är nödvändiga",
+    "belopp_nara": false
+   },
+   {
+    "sida": 19,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "pecialiserade psykiatriska vården.  0,3 miljarder kronor 2025 för ökad skolsäkerhet. Huvuddelen av budgetpropositionens förslag till nya eller ändrade statsbidrag till kommuner och regioner som avser specifika verksamhetsområden saknar information om vilken summa som kan bli aktuell för den enskilda kommunen och regionen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2024/11/Kommunplan-2026-2028.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "487101ba6b7db216b1a78bb408d0ab71d926496df129e9cd3b33fdf747bc9248",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2025/10/Kommunplan-med-budget-2025-plan-2026-2028.pdf",
+  "titel": "Kommunplan med budget 2025, plan 2026-2028",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "487101ba6b7db216b1a78bb408d0ab71d926496df129e9cd3b33fdf747bc9248",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

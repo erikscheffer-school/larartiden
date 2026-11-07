@@ -58,5 +58,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristinehamn.se/contentassets/7e299f5b510d446b8a6c28cdcd9e51b2/budget-2025-och-plan-2026-2027-kristinehamns-kommun-bilaga-1-0f860d30-0990-4a59-862d-39ae782f8e1e.pdf",
+  "titel": "Kommunens inkomster kommer från tre olika källor: statsbidrag, avgifter och skatteintäkter. I juni beslutar kommunfullmäktige om budget och övergripan",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9b4ba9eba8954fb3fb6393c899d870d63d71970b6c2430361f715c16599d0f2a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristinehamn.se/contentassets/9b4ea0a168d14b3ea3458a98e45f30f8/budget-2024.pdf",
+  "titel": "Kommunens inkomster kommer från tre olika källor: statsbidrag, avgifter och skatteintäkter. I juni beslutar kommunfullmäktige om budget och övergripan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "aad8dc0b061870447646c84cf6eae0655b7e393ec81396334199ba13a1c73441",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristinehamn.se/contentassets/9b4ea0a168d14b3ea3458a98e45f30f8/budget-2023.pdf",
+  "titel": "Kommunens inkomster kommer från tre olika källor: statsbidrag, avgifter och skatteintäkter. I juni beslutar kommunfullmäktige om budget och övergripan",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "1bd7aa18bdf0bbfe8b2d843f337b9c656642f0c1bbbe4e880efa12dc0919a40d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

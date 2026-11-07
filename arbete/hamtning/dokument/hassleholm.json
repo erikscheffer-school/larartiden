@@ -73,5 +73,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.241d76a2199c8f39a23b888/1760971379473/Kommunfullm%C3%A4ktiges%20kallelse%202025-10-20.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-10-20.pdf Pdf, 23.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dbc3851ab5e05d8e9379542fc8fd4e976fd7681aebba240eaa3c5b88dbb80da6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 313,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.153e1a141992cc7b75f57018/1759146634686/Kommunfullm%C3%A4ktiges%20kallelse%202025-09-29.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-09-29.pdf Pdf, 18.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "eb64ecc7ded6d5b94a9f36ef0c4d00cb1ca3d4e501b8c040199c806010f9f0c4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 437,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.3dc1335c198977b06c924fb2/1756123205807/Kommunfullm%C3%A4ktiges%20kallelse%202025-08-25.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-08-25.pdf Pdf, 19.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4323fe1b13f46302f83b3de26225ae1a031c3d7b8e454f74adffb704d4c02a7b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 245,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

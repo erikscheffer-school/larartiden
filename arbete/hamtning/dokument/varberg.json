@@ -81,5 +81,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://varberg.se/download/18.2718eddc19d16e441c682b82/1774362981132/Kommunfullm%C3%A4ktige%20protokoll%20260317.pdf",
+  "titel": "Varbergs kommun Sammanträdesprotokoll Kommunfullmäktige 2026-03-17 1-45",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94a5b48400b70d188272ead5700779bc3d703dda4afc53e1a04199e8cd8360d8",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

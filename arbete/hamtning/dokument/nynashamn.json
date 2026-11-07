@@ -13,5 +13,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.717d9ba519b3546508f15669/1766395400425/Verksamhetsplan%202026%20Barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "Verksamhetsplan för barn- och utbildningsnämnden\npdf, 783 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "489bbbf8d9eccea7c43e30cd771c9042547df78c031e11ec2f8588bd5a20002d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommunbidraget på 708,1 miljoner kronor har nämnden preliminärt beräknade intäkter på totalt 94,1 miljoner kronor 2026. 48,6 miljoner kronor utgör budgeterade statsbidrag. Resterande del 45,5 miljoner kronor utgör i huvudsak avgifter från vårdnadshavare för bland annat förskole- och fritidsverksamhet. I ”övergripande BUN” i tab",
+    "belopp_nara": true
+   },
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "eror på att bidragen för 2026 söks löpande under budgetåret är det inte möjligt att budgetera för samtliga av förvaltningens förväntade bidragsintäkter. Utöver statsbidragen i tabellen förväntas förvaltningen även söka statsbidragen Inköp av litteratur, inköp av vissa läromedel, personalförstärkning, fortbildning av lärare och fö",
+    "belopp_nara": false
+   },
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Grundskola 23,8 Maxtaxa Fritidshem 1,6 Summa statsbidrag grundskola 36,8 Maxtaxa Förskola",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 13
+ },
+ {
+  "url": "https://nynashamn.se/download/18.68d8913919b355c84d6b7398/1768402392196/Verksamhetsplan%202026%20Kommunstyrelsen.pdf",
+  "titel": "Kommunstyrelsens verksamhetsplan\npdf, 724 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0047659d746abf00d2edf7da8f49c2705f4fe949dc704c7d3c02d95d1c5bc574",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ing med 10,8 miljoner kronor jämfört med 2025, där 5,0 miljoner kronor avser satsning för Tillväxtinitiativet. Därtill tillkommer övriga intäkter kopplade till statsbidrag, internhyror samt avgifter inom mark- och exploateringsverksamheten. Investeringsramen för 2026 är 298 miljoner kronor, där större satsningar görs inom fastigh",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://nynashamn.se/download/18.7dfe45e819b2be5213761d4/1766056272756/Verksamhetsplan%202026%20N%C3%A4ringslivs-%20och%20arbetsmarknadsn%C3%A4mnden.pdf",
+  "titel": "Verksamhetsplan för näringslivs- och arbetsmarknadsnämnden\npdf, 648 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b5b07c9611a975e8899d4349c10388c644d91bdcbbc2927dd462c125f19a59ad",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "eten ännu inte är klar. Statsbidrag Tabellen som följer visar på förvaltningens budgeterade statsbidrag, beloppen är preliminära. Vid årsbokslut redovisas hur statsbidragen har nyttjats under året. Bidrag 2026 Belopp mnkr Myndigheten för yrkeshögskolan",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

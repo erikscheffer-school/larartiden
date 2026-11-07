@@ -73,5 +73,57 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.3909a8561821a025e87415/1658321328556/Handlingar%20till%20kommunfullm%C3%A4ktiges%20sammantr%C3%A4de%20%20den%2027%20november%202019.pdf",
+  "titel": "Handlingar pdf, 21.7 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7f2436adc65cdc3d2743e9b30ba18ef1e27778c18f3b5fb058ce002fd8b4fec5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 486,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 345,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "yder att beräknat resultat blir -8 000 tkr för 2019. Åtgärder i sammanfattning: • Neddragning med 12 heltidstjänster. Effekt 8 500 tkr/år. • Ökad undervisningstid för lärare. Effekt 3 500 tkr/år Gymnasiesärskola Antal elever (18 st) och kostnader enligt budget. Kommunen har ingen egen gymnasiesärskola. Upplands-Bro, Verk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 346,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "för helåret 2019. Det beror till viss del på flera vakanser som inte kommer att hinnas tillsättas under senare delen av 2019. En stor del av budgeten utgörs av statsbidragsmedel från staten för att tillhandahålla främst yrkesutbildning samt intäkter från Myndigheten för yrkeshögskolan. Under 2019 har det varit en historisk hög ti",
+    "belopp_nara": false
+   },
+   {
+    "sida": 391,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": ", där konstgruppens verk för året visades upp för ett drygt 60-tal besökare. Rotary har under året bjudit verksamheternas konstgrupp på ett antal undervisningstimmar av en lokal konstnär, vilket inneburit ett stort lyft för hela verksamheten. Upplands-Bro, Verksamhetsrapport augusti 2019",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.1b1fe85b1885185e2bae67d/1686581105161/Kallelse%20Kommunfullm%C3%A4ktige%202023-06-14.pdf",
+  "titel": "Tillkännagivande och kallelse pdf, 118.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b31bc988acfcd90aed00b9196352060ad9baf7b5094e4a0f5419c3bb16b58485",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

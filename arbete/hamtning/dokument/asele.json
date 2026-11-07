@@ -43,5 +43,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725#K13",
+  "titel": "kommunallagens 13 kapitel",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "2aac6d733a29840ec254d435f24627a2049a3ef6fd2146b8c3ce09cba579e97a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forvaltningslag-2017900_sfs-2017-900",
+  "titel": "förvaltningslagens §§ 40 - 49",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "28298e74881df61cc96be26fab30367a5f916197122d5f5fab58d921086812e7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

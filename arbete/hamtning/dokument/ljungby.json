@@ -73,5 +73,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljungby.se/download/18.3ea48b7318e65ad1c7139e0c/1755250400769/Ans%C3%B6kan%20till%20Vuxenutbildningen.pdf",
+  "titel": "Ansök till distanskurs",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "360d58a44db75fe259ab5124e56e2252944f4f902ff5c76995d687d9be86e0ab",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skolkoll.se/kommun/ljungby/lasarstider/",
+  "titel": "Läsårstider Ljungby 2026/2027 | Skolkoll",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "aa36c67aa2229aa2f450e0ab396ea5b5ff7480b5e9fd9845781e4fd7884f8658",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

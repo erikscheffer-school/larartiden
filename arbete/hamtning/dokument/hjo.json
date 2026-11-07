@@ -28,5 +28,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2025-2027.pdf",
+  "titel": "Budget- och verksamhetsplan 2025-2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "91298b41ea67e2e41c02a95f888722dc63a51ae1f52f1f20809aea6f8d3b7f5f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/budget-hjo-kommun-2024-2026.pdf",
+  "titel": "Budget- och verksamhetsplan 2024-2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "82806b407cb941283284bc8fb2e31e70acc5b653018c13025e2a99207d4c69c4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Politiska prioriteringar och är därför en av anledningarna till det underskott som nu uppvisas. Därför tilldelas verksamheten 1 mnkr för att Generella statsbidrag fortsatt kunna bedriva undervisningsgruppen. I samband med att riksdagen stiftar nya lagar och",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/varbudget-hjo-kommun-2025.pdf",
+  "titel": "Vårbudget 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5cee542b17c25fbb442ac2ca3b545d62691f7b159bf62f03011a8bc5fe1933b9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 69,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 58,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "10-årig grundskola. För att komma i ram önskas förstärkning om ytterligare Förordning innehåller bestämmelser om statsbidrag för 1,7 tjänst, uppskattad kostnad 1,1 mnkr, vilket tilldelas inför fortbildning av förskollärare verksamma i förskoleklassen 2025.",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

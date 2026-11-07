@@ -13,5 +13,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://toreboda.se/download/18.5816571119c47e69cd16817/1771306417057/Handlingar%20kommunfullm%C3%A4ktige%202026-02-23.pdf",
+  "titel": "Handlingar kommunfullmäktige 2026-02-23.pdf\nPdf, 26.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dc7d300e6cba0260f27e55a33067c3b1544f6cbdbaa1687490abe81887dd06f5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 139,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://toreboda.se/download/18.7c52e27919c985ee72f1213/1772201042290/Handlingar%20kommunfullm%C3%A4ktige%202026-03-06.pdf",
+  "titel": "Handlingar kommunfullmäktige 2026-03-06.pdf\nPdf, 10.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9c7d5273a33c4018b3c84352db1755d7d878c5e5b7607adb697d4a9baa56cae9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

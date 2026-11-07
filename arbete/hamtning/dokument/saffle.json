@@ -73,5 +73,60 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://saffle.se/download/18.1dead61d18a8d053e1d1c05f/1695361371944/Kommunstyrelsen%20protokoll%2018%20september%202023%20budgetdialog.pdf",
+  "titel": "Kommunstyrelsen protokoll 18 september 2023 budgetdialog pdf, 914.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "662cbca2f20550dbfaf5fd457e78611fc4398d721ee8ed2f7f1db6ee127082b5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://saffle.se/download/18.2f1cc1c9181a976d4ff35c9/1656587487296/KS_2022_33-Fullm%C3%A4ktigem%C3%A5l%20och%20budget%202023-2025,%20budgetbok.pdf",
+  "titel": "Budget 2023 pdf, 1.1 MB. Årsredovisning 2023 pdf, 23.5 MB. Delårsrapport 2023 pdf, 4.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "726de675b246bcc53f05d3b568d2c2298cc0988f30971a53a3c1eb0195c76d49",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 21,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "ade statliga medel 1 122 894 0 Utveckling nationella prov 2018, 2022 -76 Utökad undervisningstid, cirkulär 21:51 328 976 Planering etc. gymnasial utbildning, cirkulär 21:34 248 Ämnesbetyg, implementering",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://saffle.se/download/18.2baa1031922645ab02f569/1727258050948/%C3%85rsredovisning_2023.pdf",
+  "titel": "Årsredovisning 2023\npdf, 23.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c18c119e5375757c126c42b9ad207fcffe06ee05b9623b5973129c2c46ea7043",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

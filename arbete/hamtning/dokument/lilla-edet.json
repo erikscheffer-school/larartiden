@@ -88,5 +88,86 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.66196faf1a1302cd6e519e9/1791975102076/Kallelse%20KF%202026-10-21.pdf",
+  "titel": "Kallelse KF 2026-10-21.pdf\nPdf, 13 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d197f8f00ed18974be1471fa99be837a7bd96800cef7d1efe601eae552f3fb1f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 163,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.70571f641a162feda214e5d/1793104398496/Protokoll%20KF%202026-10-21.pdf",
+  "titel": "Protokoll KF 2026-10-21.pdf\nPdf, 2.9 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4a2ad024f61a909694de2b99138407a76c210e2bf53fa4672bd5337b3da79128",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lillaedet.se/download/18.1feceb2f1a0adad5cad9638/1790577143286/Kallelse%20BIN%202026-09-29.pdf",
+  "titel": "Kallelse BIN 2026-09-29.pdf\nPdf, 5.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6e9bf0058a208099f56020c635a40650c886663a9d375f1c2f3b211b3a1e0216",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 102,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rundskoleverksamheten redovisar en positiv budgetavvikelse för perioden på 3,5 mnkr. Intäkterna är något lägre än budgeterat, vilket främst beror på uteblivna statsbidrag från migrationsverket samt att statsbidrag kopplade till litteratur och läromedel först bokförs vid leverans. Personalkostnaderna uppvisar samtidigt en positi",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "gits i 2025 års internkontrollplan, dels resultatet av de delkontroller som genomförts under årets första del. Delrapporteringen omfattar kontroll av: • undervisningstid, • elever i behov av särskilt stöd, • redovisning av föreningsbidrag, • felaktig folkbokföring, • köpta platser inom förskola och gymnasium",
+    "belopp_nara": false
+   },
+   {
+    "sida": 5,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "gits i 2025 års internkontrollplan, dels resultatet av de delkontroller som genomförts under årets första del. Delrapporteringen omfattar kontroll av: • undervisningstid, • elever i behov av särskilt stöd, • redovisning av föreningsbidrag, • felaktig folkbokföring, • köpta platser inom förskola och gymnasium",
+    "belopp_nara": false
+   },
+   {
+    "sida": 9,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "v delresultat i 2026 års internkontroll Process/arbetssätt Oönskad händelse Resultat Åtgärd Undervisningstid Det finns en risk att elever inte får Sammanställning av schemalagd Fortsatt uppföljning. Ny kontroll",
+    "belopp_nara": false
+   },
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Nämndspecifika kontrollpunkter 1. Undervisningstid Beskrivning: Det finns en risk att elever inte får den undervisningstid de har rätt till enligt timplanen. Resultat: En sammanställning av schem",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 21
  }
 ]

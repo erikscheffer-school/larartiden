@@ -36,5 +36,65 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://gallivare.se/download/18.79a301f518851710d0a884f/1685089783188/Yrkade%20investeringar%20i%20KF.%20Budget%202023,%20plan%202024-2026.pdf",
+  "titel": "Yrkade investeringar i KF. Budget 2023, plan 2024-2026.pdf\nPdf, 1.9 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a759b4626edc11ece0ed66d52d0bdfcd2d233f71bcf51efb31bab265452063a9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://gallivare.se/download/18.79a301f518851710d0a8850/1685089783363/Yrkade%20partibudgetar%20i%20KF.%20Budget%202023,%20plan%202024-2026.pdf",
+  "titel": "Yrkade partibudgetar i KF. Budget 2023, plan 2024-2026.pdf\nPdf, 2.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cfd251f743ceb4b62910a6bb37cf05a0e86f0fb73a9c51db061889930dc8312e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://gallivare.se/download/18.79a301f518851710d0a882b/1685089232264/G%C3%A4llivare%20kommuns%20budget%20i%20kommunplan%202022,%20plan%202023-2024.pdf",
+  "titel": "Gällivare kommuns budget i kommunplan 2022, plan 2023-2024.pdf\nPdf, 306.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8d39e343f273068ad431648661c9834f62cc297451ec36ec0ad866b0fa1ff46c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://gallivare.se/download/18.79a301f518851710d0a882a/1685089232240/G%C3%A4llivare%20kommuns%20budget%20i%20kommunplan%202021,%20plan%202022-2023.pdf",
+  "titel": "Gällivare kommuns budget i kommunplan 2021, plan 2022-2023.pdf\nPdf, 169.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1e1ed065208de8a01aaa468b72ae467e8bb881d4a1cb9c53bb1de870b82bafe8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

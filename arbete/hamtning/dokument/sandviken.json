@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://sandviken.se/download/18.2b9ff8911a1a18a0f1be14/1793957609758/Kallelse%20kommunfullm%C3%A4ktige%202026-11-16.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-11-16.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "15085b41a1baa558d9e0d33f8a6db0924914b84015e8c2eba72d3d57fd776c6e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sandviken.se/download/18.30d8279d1a12f76bbae23ef/1792483319272/Kallelse%20kommunstyrelsen%202026-10-27.pdf",
+  "titel": "Kallelse kommunstyrelsen 2026-10-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0f7b6f1e059019add8d878e25934bb53d729851f1c4ab7bd548fe4be01a7cb03",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sandviken.se/download/18.2cc09a771a12f64b6e22b3/1791882384706/Kallelse%20Individ-%20och%20familjeomsorgsn%C3%A4mnden%202026-10-20.pdf",
+  "titel": "Kallelse Individ- och familjeomsorgsnämnden 2026-10-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "71fa83c01ebdb6f5f1fa00f34a8f248e55d6e27abd9954ecb5ee5b404baf3851",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

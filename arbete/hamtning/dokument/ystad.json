@@ -28,5 +28,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://ystad.se/download/18.5933842b191974d8039909/1725607788836/%C3%96vergripande%20m%C3%A5l%20f%C3%B6r%20Ystads%20kommunkoncern.pdf",
+  "titel": "Du kan läsa mer om kommunens styrmodell här.\npdf, 437 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ae5244b4ed847bed82d4395d551f68414fe01f15d13d240c4a1139d315faf101",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

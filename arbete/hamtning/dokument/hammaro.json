@@ -58,5 +58,44 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hammaro.se/download/18.3e08275119ed48485f132875/1785913026645/Budget%202027.pdf",
+  "titel": "Budget 2027\n(pdf, öppnas i nytt fönster)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bb7086fc8156c1e0b47a65c66dd595c4d62aebe3f774b9922405bed2b4217727",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 37,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rksamheter och resurser. Över tid beslutar regeringar om olika reformer som berör och påverkar välfärden. Under våren har det beslutats om två större reformer, undervisningstid för lärare och aktivitetskrav för att få försörjningsstöd. SKR gör bedömningen att dessa är kraftigt underfinansierade, vilket är en utmaning för hela kommunsv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "-2 280 -2 280 -2 280 Kommunstyrelsen (besparing) 800 800 800 Reform undervisningstid/aktivitetskrav -8 500 -16 000 -16 000 Service prisökningar -2 000 -2 000",
+    "belopp_nara": false
+   },
+   {
+    "sida": 33,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "-8 347 -8 695 Generella statsbidrag 189 248 185 108 183 596 Generella statsbidr. undervisningstid, 5 696 7 745 7 745 aktivitetskrav Statsbidrag LSS 16 078 15",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

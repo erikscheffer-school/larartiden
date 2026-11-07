@@ -28,5 +28,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orsa.se/download/18.67561de41795f5f7f8b2c2ec/1621581112579/Protokoll%20Kommunstyrelsen%20m%C3%A5l-%20och%20budgetberedning%202021-05-07.pdf",
+  "titel": "Protokoll Kommunstyrelsen mål- och budgetberedning 2021-05-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e54b2304bcfd8c0f7d4808f58754babdbdef27cce04e101d3ca255f7dbb69e28",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orsa.se/download/18.5a540c7419dd77243a512ef/1777448840473/Protokoll%20kommunfullm%C3%A4ktige%202026-04-20.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-04-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e838c4d8e6cf515406b2b311882634acbbf2ac8021f1e6eeed52da1028ccdc89",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

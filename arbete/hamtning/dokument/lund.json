@@ -43,5 +43,100 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lund.se/download/18.5f38ad6e19db51c94e66faf/1777445321318/Redovisning%20av%20paketinsatser%202025%20enligt%20EVP%202025%E2%80%932027.pdf",
+  "titel": "Redovisning av paketinsatser 2025 enligt ekonomi- och verksamhetsplan 2025-2027 (pdf)\npdf, 994 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d4e6bc1f40dde1dd2b1424ed8fa5805cf5b7eb5fc57a6ecc4f89736c1ae653a0",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lund.se/download/18.3afa049419a7bd8d6b914ba8/1763716810829/EVP%202026-2028%20med%20budget%20fo%CC%88r%202026.pdf",
+  "titel": "Ekonomi- och verksamhetsplan med budget för 2026-2028 pdf, 4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "885b487f0333d440e547e3b211430e9f69d639c271c181d1cd8fa9ac580ea0d4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 125,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 20,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ed tillgängliga lärmiljöer och språkutvecklande arbetssätt i förskolan är fortsatt angeläget. Under hela mandatperioden har det gjorts stora satsningar på ökad lärartäthet i kommunens grundskolor. Det är viktigt för att barn och elever ska få en tryggare och mer stödjande lärmiljö, med mer tid och uppmärksamhet från varje lärare",
+    "belopp_nara": false
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nansieras till cirka 90 procent av kommunbidrag. Resterande 10 procent finansierar nämnden genom dels avgifter från förskola och fritidshem, dels genom riktade statsbidrag. Barn- och skolnämnd (Tkr) Budget 2025 Budget 2026 Förändring % Plan 2027 Plan 2028 Intäkter 326 430",
+    "belopp_nara": false
+   },
+   {
+    "sida": 23,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "den finansieras utöver kommunbidrag till stor del av ersättningar från andra kommuner vars elever går på gymnasieskolorna i Lund men även i viss mån av riktade statsbidrag. Utbildningsnämnd (Tkr) Budget 2025 Budget 2026 Förändring % Plan 2027 Plan 2028 Intäkter 1 358 439 1 4",
+    "belopp_nara": false
+   },
+   {
+    "sida": 75,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mmunala resurserna, alternativt förändrat arbetssätt. Utmaningen innebär att kostnaderna för kommunens verksamhet ökar snabbare än skatteintäkter och generella statsbidrag om verksamheten bedrivs på samma sätt som idag. Det kommer också att innebära stora behov av investeringar samt betydande svårigheter att försörja framtidens ä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 112,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lenheten. Lagförändringen innebär tydligare krav på bemanning, lokaler, medieutbud och samordning med undervisningen. Finansiering återfinns bland de generella statsbidragen. Skolans säkerhetsarbete i brottsförebyggande syfte Från 1 juli 2025 trädde ändringar i skollagen i kraft som gäller skolans säkerhetsarbete i brottsförebyg",
+    "belopp_nara": false
+   },
+   {
+    "sida": 116,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "6 185 0 0 KGS som kommunbidrag under KS -50 434 0 0 Statsbidrag för maxtaxa direkt till BSN (ej finansförvaltningen) -17 500 0 0 Stärkta skolbibliotek via generella statsbidrag",
+    "belopp_nara": false
+   },
+   {
+    "sida": 117,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "0 0 GY 25 inköp av nya läromedel 0 0 -5 000 Stärkta skolbibliotek via generella statsbidrag 1 291 0 0 Stärkta elevhälsoteam 3 000 0",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 9
+ },
+ {
+  "url": "https://lund.se/download/18.39275e119a0f6d9df2276e5/1762510672470/Planeringsdirektiv%20f%C3%B6r%20ekonomi-%20och%20verksamhetsplan%20(EVP)%202026-2028%20med%20budget%20f%C3%B6r%202026.pdf",
+  "titel": "Planeringsdirektiv för ekonomi- och verksamhetsplan (EVP) 2026–2028 med budget för 2026 pdf, 1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e9d75e389bf92aa024d0ef7b27a51bdbd6569acb22e18c5fd0ad81f3bd039ec2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

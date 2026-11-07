@@ -130,5 +130,97 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.19762da1a18c6b231719bba/1793695253252/F%C3%B6rslag%20till%20budget%202027%20med%20plan%20f%C3%B6r%202028%20och%202029_M-L-KD-C.pdf",
+  "titel": "Moderaternas, Kristdemokraternas, Centerpartiets och Liberalernas förslag till budget för 2027\npdf, 1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d8fd20b9d220e1f8a2513d60c793583cc435a68acf85f47f6d20ebf71865c6fd",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 75,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 29,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "uderande Resursförstärkning för Rättvist och UN 10 mnkr genomförande av ansvarstagande reformen om lärares undervisningstid och för stärkta tidiga insatser Utred hur språkkrav för Tryggt och UN Inom ram elevnära personal kan ti",
+    "belopp_nara": true
+   },
+   {
+    "sida": 26,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "upptäcks, inte först när svårigheterna har hunnit växa. Därför stärker vi arbetet med tidiga insatser samtidigt som vi tar ansvar för reformen om lärares undervisningstid. Förskolan och de tidiga skolåren lägger grunden för språk, lärande och framtida skolresultat. Förutsättningarna för utökad allmän förskola och",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.a71c51d1a18c7d48851c9bf/1793712609375/Budgetf%C3%B6rslag%20S,%20V,%20MP%202027.pdf",
+  "titel": "Socialdemokraternas, Miljöpartiets och Vänsterpartiets förslag till budget för 2027\npdf, 2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e061e37c1fe4b2afc9def8bb53f61abccbf4e1bf1c1d02cbcae4f5a648430731",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 69,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n används för att mäta detta riktningsmåls utveckling. Nyckeltal 1. Verksamhetens nettokostnader dividerat med summan av skatteintäkter, generella statsbidrag och utjämning 2. Kostnader för verksamhetslokaler, andel av budgeten 3. Resursindex förskola 4. Resursindex kommunal grundskola F-9 5. Resu",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vaxjo.se/download/18.7430308919c890aa30721e10/1772174927811/Internbudget%20f%C3%B6r%20utbildningsn%C3%A4mnden%202026.pdf",
+  "titel": "Internbudget för utbildningsnämnden 2026\npdf, 775 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bcef92abdb12f6539fa4934de92b5149dd8d21d781322c047919ec2c9fdbdd11",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommunkoncernernas investeringar till närmare 190 miljarder kronor, motsvarande cirka 13–14 procent av skatteintäkter och generella statsbidrag. Delar av investeringarna avser skollokaler, idrottsanläggningar och annan utbild- ningsrelaterad infrastruktur. Kombinationen av minskande elevu",
+    "belopp_nara": false
+   },
+   {
+    "sida": 7,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "aft ett stort elevinflöde sam- tidigt som lokalbristen varit påtaglig. Analysen visar att Växjös anpassade grundskola har en högre lärartäthet än både riket och större städer, vilket innebär fler lärare per elev än vad som är vanligt i jämförbara kommuner. Kostna- den per e",
+    "belopp_nara": false
+   },
+   {
+    "sida": 48,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "• Hög inflation och stigande lönekostnader (bl.a. höjt PO-pålägg till 47,18 %) • Stora satsningar 2023–2024 (t.ex. ökad lärartäthet, elevhälsa, språkstöd, socioekonomi) • Omfattande lokalprojekt (Lammhult, Hagavik m.fl.) • Minskande elevantal vilk",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

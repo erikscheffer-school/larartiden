@@ -43,5 +43,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sotenas.se/download/18.2f056e301a1a17946211637/1793957120810/VN%20protokoll%202026-11-05%20signed.pdf",
+  "titel": "Länk till protokoll\npdf, 475.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0116d414364bc43984ceb7a95d3402cc3cdbcd38a686dd509376a86385d79748",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sotenas.se/download/18.74ee28dd1a1a16b1ab611d0/1793879871436/MBNAU%20kallelse%202026-11-12.pdf",
+  "titel": "Länk till kallelse\npdf, 163.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "52e64d6f14e2f0c7a2043efcd944f5b117ecda62d861cbdf9aa025ef382d8263",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

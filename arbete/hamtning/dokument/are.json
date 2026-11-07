@@ -83,5 +83,51 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.are.se/download/18.65da71581a18c87c3666676/1793636144673/2026-11-09%20%C3%84rendelista%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "2026-11-09 Ärendelista kommunfullmäktige\npdf, 485.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "33d8f63caa60fa0e49b227a41641055afe63d08757d6ade3249ec7abe9edf03d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.are.se/download/18.9614c51a1a1771ae5474f/1793893293858/2026-11-12%20Kallelse%20kommunstyrelsen-komprimerad%20(1).pdf",
+  "titel": "2026-11-12 Kallelse kommunstyrelsen-komprimerad (1).pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "545b5090ed836616d543751f3a8ac20908378f3fcc0f17fbfb2bc8fbc00017c2",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 492,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.are.se/download/18.86795d91a1a1a1fd5d566b/1793896014993/2026-11-10%20Kallelse%20kommunstyrelsens%20arbetsutskott.pdf",
+  "titel": "2026-11-10 Kallelse kommunstyrelsens arbetsutskott.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6980b04e7e0dfce44b69097b5dbfa313f7bef2221526e09f46a14c2f5890d324",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 160,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

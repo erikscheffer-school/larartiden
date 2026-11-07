@@ -58,5 +58,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://koping.se/download/18.329f2dbe19c2729c79e55e61/1770388159070/Kommunfullm%C3%A4ktige%202026-02-02.pdf",
+  "titel": "Kommunfullmäktige 2026-02-02.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "11197d543b59b25c6f7fc33b15e58ad41eeeb2923fe0769cecbd917f9e8bb520",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://koping.se/download/18.27a8b45419cbfb64f9a12aff/1772803974343/Kommunfullm%C3%A4ktige%C2%A02026-03-02.pdf",
+  "titel": "Kommunfullmäktige 2026-03-02.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "142db3486c5a5097f0126b3ecd57cba70935461823bff4e851ad60a8ca1a7495",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://koping.se/download/18.5fe2a03419d9a68f42c116/1776412468077/Kommunfullm%C3%A4ktige%202026-04-13.pdf",
+  "titel": "Kommunfullmäktige 2026-04-13.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1df5e0da49417b5ac4f4e753e6b0c92df7355dff6144dcf32b118d548ba20b4f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 62,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

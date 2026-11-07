@@ -38,5 +38,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.1421c79319d9a688562235f2/1776853547719/Komplettering%20inf%C3%B6r%20KF%202026-04-27-%20Renovering%20av%20ishallen%20%20ut%C3%B6kad%20budget%20.pdf",
+  "titel": "Komplettering inför KF 2026-04-27- Renovering av ishallen utökad budget .pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0f73e89110a4f39288114a5f54f00b818d243b73034b11d4dfd280c7fa17a1f0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.59e8a5b11992795b53082c7d/1758192151528/Komplettering%20KF%202025-09-22-%20Budget%20(C)%20Vaxholms%20stad%202026-2028%20-%20Uppdaterad.pdf",
+  "titel": "Komplettering KF 2025-09-22- Budget (C) Vaxholms stad 2026-2028 - Uppdaterad.pdf\nPdf, 324.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "55b230122cf43bbe0aba6d7732fa0fa21fe209b1e8f25a0d19fd7a0fa088a807",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kolresultat och hur ett minskat barnantal i verksamheter ska mötas på ett kontrollerat politiskt genomtänkt sätt utan stora skolklasser och lägre lärartäthet. - Ge uppdrag till Barn och utbildningsnämnden att återkomma med vilket grundbelopp som behövs för ovanstående efter att hänsyn tagits till",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.63a28de419927a4dc67b2d8e/1758527922099/Komplettering%20KF%202025-09-22%20Budgetf%C3%B6rslag%20MP%202026.pdf",
+  "titel": "Komplettering KF 2025-09-22 Budgetförslag MP 2026.pdf\nPdf, 342.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c090c5f6be87d2c43efe038e8dfe00fddbea56bf3ed1f8a40b5ce5b40cc17db3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "dbelopp som behövs för att kunna bibehålla en skola med hög kvalité, goda skolresultat, goda arbetsmiljöer för både barn och anställda samt hög lärartäthet, efter att hänsyn tagits till lokalförsörjningsplanen. • ge Barn- och utbildningsnämnden i uppdrag att utreda möjligheten till resursskola i",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

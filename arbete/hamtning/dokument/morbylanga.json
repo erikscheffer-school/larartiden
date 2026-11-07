@@ -43,5 +43,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2025/11/kommunbudget-2026ny.pdf",
+  "titel": "Kommunbudget 2026 med flerårsplan 2027-2029",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4e43c0650038c1aaf59d2f861cd3218b7ad94b309b2a352888929e103c30f09c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ing Lokalkostnader förskola Lokalkostnader grundskola Skolskjuts OB-omsorg Förebyggande arbete fritidsgårdar Generellt statsbidrag, stärkta bibliotek Generellt statsbidrag, minskad brottslighet Uppstart resursskola I politikens budgetförslag ingår prioriteringar till verksamheterna på sammanlagt 75,7 mnkr, vilket är en utökning",
+    "belopp_nara": true
+   },
+   {
+    "sida": 39,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t omsorgskontakt Generellt statsbidrag, utökat anhörigstöd Generellt statsbidrag, ny socialtjänstlag Generellt statsbidrag, brottsförebyggande arbete Generellt statsbidrag, stärkt skydd för barn Generellt statsbidrag, stärkt samhällsvård Säkerhetshöjande åtgärder (PDV) Stöd till studieorganisationer Fritidsgårdar Nationellt profe",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2024/11/verksamhetsplan-med-budget-2025241120.pdf",
+  "titel": "Verksamhetsplan med budget 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2e36d65cbe9c004e7b78b7e6d23c8d0450ef0c4dedf6128f275287ea452b9ac7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 37,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ecklingsarbete Förebyggande arbete för äldre Uppstart av resursskola Utökat förebyggande arbete för unga Brottsförebyggande arbete inom grundskolan - generellt statsbidrag Stärkta skolbibliotek - generellt statsbidrag Tidigare prioriteringar som förblir i budget 2025 Nämnds- och styrelseverksamhet Övrig politisk verksamhet Fysi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 43,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ndast till hälften ryms inom prislappen och prioritering görs för att kunna bibe- hålla detta i samma utsträckning som idag. Prioritering görs av tre generella statsbidrag till nämnden som annars skulle ingå i de ge- nerella skatteintäkterna och statsbidragen. Under 2024 och 2025 kompenseras verksam- heterna för den ökade internr",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2023/11/verksamhetsplan-med-budget-2024.pdf",
+  "titel": "Verksamhetsplan med budget 2024 och plan 2025-2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "051aa8882f165a8ce8976f436dfc004bc0479d8e0778316ae9bb74eb750f0d2d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 39,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ng gatutekniker Upprustning enskilda vägar Äldreomsorg - omställning Nytt LSS-boende Förstärkt fokus på förebyggande verksamhet Fast omsorgskontakt - generellt statsbidrag Förstärkning gymnasieskolan Tidigare prioriteringar som förblir i budget 2024 Räddningstjänst Hållbar utveckling i Mörbylånga kommun inkl världsarv Turismve",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://www.uppvidinge.se/download/18.fd7ba851a157a87bca414/1792493911448/Protokoll%20BUN%202026-10-14.pdf",
+  "titel": "Barn- och utbildningsnämnden protokoll 2026-10-14\nPdf, 497.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "899e4da6013a779505cf6c9e5e9ec00f560988117695162ed2c1c16caca5aacb",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 25,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "er - Kvalitetsdialoger 25/26, fokusområden - Medarbetarfeedback - Reform Lärarnas arbetstid Beslutsgång Ordförande frågar ifall Barn- och utbildningsnämnden kan godkänna information",
+    "belopp_nara": false
+   },
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "or finns budgeterade under perioden. Lägre kostnader för IT, kompetensutveckling och semesterlöneskuld samt vissa statsbidrag har dock dämpat underskottet. Förskolan redovisar ett underskott på 2,6 miljoner kronor. Resultatet förklaras frä",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rundskola 2026 .............................................. 14 § 121 Dnr 2026-000207 Återrapportering av statsbidrag 2026 ................................................................ 15 § 122 Dnr 2026-000213 Handlingspl",
+    "belopp_nara": false
+   },
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Barn- och utbildningsnämnden beslutar att godkänna informationen. Sammanfattning av ärendet De statsbidrag som Barn- och utbildningsförvaltningen har sökt är följande; - Stärkt kunskapsutveckling - Fortbildni",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.uppvidinge.se/download/18.67fd0b081a0420c907315c8d/1788867636577/Protokoll%20BUN%202026-09-02_Redacted.pdf",
+  "titel": "Protokoll Barn- och utbildningsnämnden\nPdf, 225.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d7d953f71a9da99f91ac4e6e5290cca1b11f83a752e784432ff8196d7de89dd4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026-06-24 Kommunfullmäktige Beslut-2026000256-KS§93 2026-06-15 Barn- och Beslut till Uppvidinge om statsbidrag utbildningsförvaltningen för skolsociala team 2026 Beslutsgång Ordföra",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.uppvidinge.se/download/18.48802db51a157ba49331b2b/1792578712265/Protokoll%20KF%202026-10-15%20(konstituerande%20fullm%C3%A4ktige).pdf",
+  "titel": "Protokoll KF 2026-10-15\nPdf, 194.8 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "be504172b89970bdd3d67454fcb0a32e26198781ecf34ddea0330318fa0ab294",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

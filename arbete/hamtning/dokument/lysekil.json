@@ -75,5 +75,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lysekil.se/download/18.1b4e6e761a0a1cc89eb2d0ac/1790074976973/Protokoll%20r%C3%A5den%202026-02-19.pdf",
+  "titel": "Protokoll råden 2026-02-19.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b2768f95cbb834ceceae4c35e488db12ed8dde8dcf6ede1235f8759a2309fc59",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lysekil.se/download/18.1b4e6e761a0a1cc89eb2d0ad/1790074993422/Protokoll%20r%C3%A5den%202026-04-29.pdf",
+  "titel": "Protokoll råden 2026-04-29.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8030cc58c35d0e2b32106d25eb74d1364be3afc49d1051bde8d9ffe551ee546e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -43,5 +43,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bengtsfors.se/download/18.f14c6aa19ddcc3e5ed38c0c/1778504679726/Plan%20mot%20kra%CC%88nkande%20behandling%20vux%20Bengtsfors.pdf",
+  "titel": "Plan mot kränkande behandling",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "35241cf9f5bed285cb9fc4ecf00db3529802273063256df8e51884ceaee5c95d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

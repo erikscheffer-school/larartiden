@@ -96,5 +96,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.6150bfd119c2c828a412dc/1770293033331/Kommunfullm%C3%A4ktige%20sammantr%C3%A4deshandlingar%202026-02-12.pdf",
+  "titel": "Kommunfullmäktige sammanträdeshandlingar 2026-02-12.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "366c3718765bf90f6e9ecd00f694036528dbf82001f580d5846992d87821794d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.6c859e3319e73b59b4c5c03/1780558979877/Kommunfullm%C3%A4ktige%20sammantr%C3%A4deshandlingar%202026-06-11.pdf",
+  "titel": "Kommunfullmäktige sammanträdeshandlingar 2026-06-11.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5859f8cd98df6b10a46d305e558aca7a51c1838c0a4159087b28345120073fa4",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 417,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://ljusnarsberg.se/download/18.49636eb61a0862d6023e71/1789040514677/Kommunfullm%C3%A4ktige%20sammantr%C3%A4deshandlingar%202026-09-17.pdf",
+  "titel": "Kommunfullmäktige sammanträdeshandlingar 2026-09-17.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f15548aa0c86ccf3f5172ef3dbe4ad3770aec8a2e1800a040b042802a2dd53a2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 81,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

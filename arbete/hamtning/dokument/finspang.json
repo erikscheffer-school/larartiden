@@ -58,5 +58,94 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.63ce37821a11d21694f2c70e/1791813880591/2026-10-21%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 21 oktober 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0de086ab3b2eec783b51832d26f9b64510004a9a4f84fa340542ecbac412141a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 257,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "het från stat Större förändringar av intäkter mellan åren: och myndighet ökar med 5 mnkr, bland annat för • Ökade intäkter för statsbidrag om 11 mnkr, bland HVB barn och unga och vuxna missbrukare. annat från Socialstyrelsen och Skolverket. U",
+    "belopp_nara": true
+   },
+   {
+    "sida": 135,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "andra Grundskolan visar en förbättrad prognos med 0,5 kommuner har valt att söka till Bergska gymnasiet mnkr. På intäktssidan har ett statsbidrag för per- vilket gör att intäkterna för försäljning av utbildnings- sonalförstärkning på 2,5 mnkr tillkommit som inte ti-",
+    "belopp_nara": true
+   },
+   {
+    "sida": 136,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "v sektorernas ekonomi Större förändringar mellan åren säkerställa likvärdigheten mellan skolenheter sker Erhållna statsbidrag är 3,9 mnkr högre jämfört med en separat tilldelning utöver barn-/elevpengen för samma period föregående år. Intäkter kopplat till för-",
+    "belopp_nara": true
+   },
+   {
+    "sida": 137,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "där ger en effekt på 0,4 mnkr lägre personalkostna- der än tidigare prognostiserats. Statsbidraget för yr- Förskolan prognostiserar ett överskott med 1 mnkr. kesutbildningar beräknas",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://finspang.se/download/18.7b1446061a1631d2f9f3d860/1793019977252/2026-10-21%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 21 oktober (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0d950bcc88dc24a44c6f6570e6968f189ba3f88d74cabed9bc76bad4407b90ec",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.66a6a5981a0fcaaca87340fd/1791270438943/2026-10-15%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 15 oktober 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3cb8fcfe100c35a2c9039f4d5bb6ceaf3896a5161f731bcb916b4138698b19ea",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.30fd03281a134014b9f57c93/1792416698658/2026-10-15%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 15 oktober (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7cb60c32fb70d4458480795e1c2007f21d894e5ca9f5789d04b02a5ca7c5d220",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

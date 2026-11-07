@@ -73,5 +73,67 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.317809c518c3dd37c451f2ff/1702391923837/M%C3%A5l%20och%20budget%202024%20med%20fler%C3%A5rsplan%202025%20-%202027.pdf",
+  "titel": "Mål och budget 2024 med flerårsplan 2025 - 2027.pdf Pdf, 2.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "11d3c13bcd83024300f0ac284405cff7bf7950876d40e1c35e9473bfa2631ad6",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 134,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 99,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "Extra studietid och utökad lovskola -1 082 -28 Utökad undervisningstid flyttas fram 2 007 -2 060 När det gäller fastighetsinvesteringar så redovi- Professionsprogrammet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 100,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "2024 för att bland annat göra det möjligt att genomföra förslag om statistik om fristående Utökad undervisningstid flyttas fram skolor enligt förslag från Skolinformationsutred- Redan inför 2020 avsattes medel för utökad ningen oc",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.1fbbaae6170bff9469dee9a/1584095744888/Handlingar%20KOFN%202019-09-03%20inklusive%20M%C3%A5l%20och%20Budget%202020.pdf",
+  "titel": "Handlingar KOFN 2019-09-03 inklusive Mål och Budget 2020.pdf Pdf, 19.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4a7e1ab816651eb0cc7a71d2ecef8e98016261719a0a7f303744518315581ae7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 293,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.1fbbaae6170bff9469dee64/1584095656130/KFN%202018-04-24%2007%20Budgetprognos%20mars.pdf",
+  "titel": "KFN 2018-04-24 07 Budgetprognos mars.pdf Pdf, 109.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "826fe113ea2fb3c256c3407302689508674ec102846332a42af6e8fb6d9ab42f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.52dff55c19d707416d0318/1775713360539/Arbetsordning%20f%C3%B6r%20m%C3%A5l%20och%20demokratiberedningen.pdf",
+  "titel": "Arbetsordning för mål och demokratiberedningen.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d2ebb614776acf22e983557e21a73c82cec5a1a236037ab415663c2bd5bbf446",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.52dff55c19d707416d032a/1775713362187/Minoritetspolitiska%20m%C3%A5l%20och%20riktlinjer.pdf",
+  "titel": "Minoritetspolitiska mål och riktlinjer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3baa191a011bdcc50b4fc08fd45fd6994b652f1afe488b1998ad22f23845f708",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.6a4d560719a715a38741c49/1763462079125/verksamhetsplan-2026.pdf",
+  "titel": "Verksamhetsplan 2026\npdf, 153.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0ffd520210bbc4c224c276030a0fc6c0d254ab325f982550798c6291b45e8d5d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

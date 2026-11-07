@@ -199,5 +199,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/ks/handlingar-for-mote-kommunstyrelsen-den-2026-10-26-1.pdf",
+  "titel": "Tid: 13:15 Plats: Omsorgshuset Kallelse med handlingar",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "85867b809825cdfb895d45d4d31c757e028a52717240facb8362b41d42ab27c1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 465,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/kf/handlingar-for-mote-kommunfullmaktige-den-2026-11-09.pdf",
+  "titel": "Plats: Folkets hus i Fors Tid: 17:00 Kallelse och handlingar",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e2860a07dae1bdf5ed83a9fb3b310952d7975384c6a522042baa4392ba83926c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 344,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

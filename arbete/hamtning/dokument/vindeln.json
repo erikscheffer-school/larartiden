@@ -43,5 +43,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.358eacf1197f0e7b2f4357/1755079243824/SKR%20M%C3%A5l%20och%20resultat.pdf",
+  "titel": "Mål och resultat: att utveckla mål- och resultatstyrning - SKR\nPdf, 422.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "87441563490f310a60e1ebf48349337ffb8719279bf84dcbbaefb56e4ef3f8d0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

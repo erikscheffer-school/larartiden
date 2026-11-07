@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://lekeberg.se/download/18.7e770ca319dd77309c32f63/1777470578193/Budget%202026%20samt%20ekonomisk%20plan%20f%C3%B6r%202027-2028.pdf",
+  "titel": "Budget 2026 samt ekonomisk plan för 2027-2028\npdf, 702.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a1dd330166aa4900a2d4993c3947b0af12fae163bd7f5d0dd4cace167187b286",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 21,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "närmaste åren samt övriga poster som ingår i finansförvaltningens budget. Andra poster som ingår i finansförvaltningen, förutom skatter och bidrag, är riktade statsbidrag, fi- nansiella intäkter och kostnader (finansnetto), pensionsutbetalningar och internränta. Riktade statsbidrag avser bidrag till kommuner som tillämpar maxtax",
+    "belopp_nara": false
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026. Utöver detta avsätts resurser för att finansiera en ytterligare speciallärare samt finansiering av en befintlig speciallärare som numera finansieras via statsbidrag. Volymförändringen i barn- och elevantal minskar enligt SCB:s befolkningsprognos, vilket innebär att både förskolebarn och grundskoleelever minskar, medan gym-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ }
+]

@@ -58,5 +58,103 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/download/18.35629f641a12f54bd3d17e3/1792572888925/Kommunfullm%C3%A4ktige%2026%20oktober%202026,%20med%20handlingar.pdf",
+  "titel": "Kommunfullmäktige 26 oktober 2026, med handlingar.pdf\nPdf, 21.9 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9baca9a8613fc57becdbc9e9ba96bd9184d6f2b3686e7c26e27ef9561e65847d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 180,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 112,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ti visar på ett avser förskolan med 1,0 mnkr. Förskolan överskott överskott om 9,8 mnkr jämfört med budget. härleds till ökat statsbidrag, minskade kostnader för Barn- och utbildningsnämnden prognostiserar ett överskott för måltider och köp av platser från annan kommun. helåret 2026 på 1,8",
+    "belopp_nara": true
+   },
+   {
+    "sida": 57,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "seringen och nyligen har kraven på bemannade skolbibliotek förstärks i skollagen. Likaså har staten genomfört satsningar i form av statsbidrag för inköp av läromedel. Av bestämmelserna för ansökningsåret 2025 framgår att statsbidraget ska användas för inköp av läroböcker. E",
+    "belopp_nara": false
+   },
+   {
+    "sida": 58,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ng 2026-09-22 KS 2026/0189-600 komponenter. Bidraget får därmed inte användas till att bekosta renodlade digitala läromedel. Statsbidraget får bara användas till inköp av sådana läroböcker som är avsedda att användas i undervisningen. Läroboken ska vara utgiven av någon som bedriver utgivningsve",
+    "belopp_nara": false
+   },
+   {
+    "sida": 65,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "yligen har kraven på bemannade skolbibliotek förstärks i skollagen. Likaså har staten genomfört satsningar i form av statsbidrag för inköp av läromedel. Av bestämmelserna för ansökningsåret 2025 framgår att statsbidraget ska användas för inköp av",
+    "belopp_nara": false
+   },
+   {
+    "sida": 95,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lt inom omsorg, skola och teknisk För Tanums kommun är utvecklingen av verksamhet, där bemanning och kontinuitet påverkar skatteunderlag, statsbidrag och invånarantal särskilt kvalitet och kostnader. betydelsefull. Kommunens intäkter påverkas både av Sammanfattning den nationella utvecklingen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 14
+ },
+ {
+  "url": "https://www.tanum.se/download/18.77ecb0ce1a18c435c471ad/1793362118313/Kommunstyrelsen%204%20november%202026,%20med%20handlingar.pdf",
+  "titel": "Kommunstyrelsen 4 november 2026, med handlingar.pdf\nPdf, 9.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ca4374b07453a066050b95e2be452e3ec0de67fde766ce86a151d37f6a6e900a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 223,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 104,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "nom nuvarande ekonomiska förutsättningar är försörjningsstödet samt regleringen av lärares inriktningen en minskning med 25 mnkr 2028, undervisningstid. Under 2027 fortsätter ytterligare 25 mnkr 2029 och ytterligare 15 mnkr kommunens arbete med att förbereda och 2030. M",
+    "belopp_nara": true
+   },
+   {
+    "sida": 81,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "ionella reformer som bland annat rör tioårig grundskola, läroplaner, Det låga barnafödandet innebär att förskolan. står betygssystem, lärares undervisningsuppdrag, inför en växande obalans mellan kapacitet och elevhälsa samt trygghet och studiero. Reformernas behov. År 2027 beräknas",
+    "belopp_nara": false
+   },
+   {
+    "sida": 106,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t ökade krav till följd av statliga reformer inom skola och omsorg innebär ett ökat ekonomiskt tryck under kommande år. Trots att skatteintäkter och generella statsbidrag beräknas öka med cirka 31 mnkr mellan 2026 och 2027 räcker ökningen inte för att fullt ut finansiera 36",
+    "belopp_nara": true
+   },
+   {
+    "sida": 116,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Nämndernas nettokostnader ökar med 31,2 mnkr. motsvarande 1,1 procent av skatteintäkter och Nämnderna kompenseras med 32,8 mnkr för statsbidrag. I resultatet ingår intäkter från ökade pris- och lönekostnader, medan tomtförsäljningar på 18,0 mnkr. Pensions- volymförändr",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

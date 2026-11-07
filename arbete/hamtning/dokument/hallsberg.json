@@ -181,5 +181,35 @@
    }
   ],
   "antal_träffar": 13
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.13588cf81a1631848a02ca/1792735178471/2026-10-19%20-%20Protokoll%20KF,%20%C2%A7%C2%A7%2084-95.pdf",
+  "titel": "2026-10-19 - Protokoll KF, §§ 84-95.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8358f3694f28519ba5511e3d8977349bcb12f5094835ed0e2bfe8b0c94e0b6ae",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 109,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.13588cf81a1631848a02bf/1792735098168/2026-10-19%20-%20Protokoll%20KF,%20%C2%A7%C2%A7%2079-83.pdf",
+  "titel": "2026-10-19 - Protokoll KF, §§ 79-83.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8ee80a54cc074a753663bc537acd732183aa77c131ab9a9d3701b48d2b53c819",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

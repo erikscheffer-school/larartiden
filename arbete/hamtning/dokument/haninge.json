@@ -89,5 +89,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/4aad44/globalassets/dokument/styrdokument/politiska-styrdokument/mal-och-budget-arsredovisningar/mal-och-budget_2026-2028.pdf",
+  "titel": "Mål och budget 2026–2028.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a765d35a99b2bbef76b696501f108d5c403b475f38f396117eaf71d2cd859451",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "svarande verksamheter. Barn- och förskolenämndens driftbudgetram för 2026 uppgår till 812,2 mnkr. Av ramen utgör 771,0 mnkr medel inom pengsystemet, inklusive statsbidrag för maxtaxa. Resterande medel om 41,2 mnkr avser anslagsfinansierad verksamhet och ska bland annat finansiera utbildningsförvaltningens centrala enheter, särsk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "undskolenämnden. För 2026 fastställs elevpeng enligt tabell nedan, som också innehåller en jämförelse med elevpengen för 2025. Elevpengen är beräknad inklusive statsbidrag för maxtaxa, dock ingår inte de specialdestinerade statsbidrag som hanteras och fördelas via barn- och förskolenämnden respektive grundskolenämnden. Elevpeng",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.haninge.se/49c578/globalassets/dokument/styrdokument/kommunstyrelseforvaltningen-och-hela-kommunen/pensionsriktlinjer-for-fortroendevalda-2026.pdf",
+  "titel": "Pensionsriktlinjer för förtroendevalda.pdf (PDF, 0,25 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4196b3614cd28b30e8b410d81a1e55101518950d6f0d4dc8fb0635048c873334",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

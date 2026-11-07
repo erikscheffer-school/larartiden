@@ -1,0 +1,71 @@
+[
+ {
+  "url": "https://olofstrom.se/download/18.3a309c3719a7bd89da148df4/1764586399547/budget-2026.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e44a02b6d9c035441d8235d05c80f89cd2887f0b488a1860c95dcdfdc18798c3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 58,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skolverksamhet. kvalitetsdialoger,  en stark och förebyggande Verksamheterna elevhälsa med tydligt stöd till barn Statsbidragen har stor betydelse för och elever i behov av särskilda nämndens ekonomi men är komplexa att insatser,",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://olofstrom.se/download/18.3a09c67c1936a330749567c/1733296749739/Budget2025_Olofstr%C3%B6msKommun.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "925786502992d4cc7a3293021f1711fed2fba14582936fa33dd55b34a1f4e8ed",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "keshögskola och musikskola. Samtliga verksamheter påverkas i mer eller mindre grad av olika statsbidrag. Verksamhetsmål De statliga satsningar som görs, står inte Vid kommunfullmäktige 2024-04-29 (KF alltid i relation",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://olofstrom.se/download/18.7136917318c433e669b321/1707914584462/Budget-2024.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c53efa69c841ca3fedbc9eb5d4d0710ff0d7b6163749814421f4aa013db8a593",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 65,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 36,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a yrkeshögskola och musikskola. Samtliga verksamheter påverkas i mer eller mindre grad av olika statsbidrag. Verksamhetsmål De statliga satsningar som görs, står inte Olofströms kommun har bland annat alltid i relation til",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ }
+]

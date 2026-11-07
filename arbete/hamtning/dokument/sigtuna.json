@@ -13,5 +13,102 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.7d4bf65c1939037bbe810835/1733472554692/M%C3%A5l%20och%20budget%202025-2027.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2025-2027\nPdf, 6.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b34022b7f1dfe720f84294c4f0429dd1cdd2c574c368d22cdf49c5c722f6493f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 90,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rnas resultatnivåer behöver stärkas för att bromsa en allt för hög skuldsättning. De demografiska behovsökningarna förväntas bli små under perioden. De riktade statsbidragen förstärks 2026 för införandet av ny socialtjänstlag och minskar inom vuxenutbildningen och förskolan. Den sammantagna ekonomiska effekten är liten. Satsninga",
+    "belopp_nara": false
+   },
+   {
+    "sida": 55,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ntisemistim -1,0 Drift inpasseringssystem -0,5 (Tiopunktsprogrammet) Ökad lärartäthet - förskola -5,0 Genomlysning skolpeng 0,6 Vetenskapligt team",
+    "belopp_nara": false
+   },
+   {
+    "sida": 56,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "atsningen ska erbjudas till såväl kommunala som fristående skolor i kommunen. 6 Utbildningsnämnden får i uppdrag att göra en satsning för att öka förskolelärartätheten i de kommunala förskolorna. 7 Utbildningsnämnden får i uppdrag att, utifrån prioriteringen i skolutvecklingsprogrammet, på vetenskaplig grund utveckla und",
+    "belopp_nara": false
+   },
+   {
+    "sida": 58,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "iopunktsprogrammets insatser till att skapa en arbetsmiljö där lärare kan vara lärare, inte ordningsvakter. En särskild satsning för att långsiktigt öka förskollärartätheten i kommunen förskolor genomförs under 2025. Samarbetet mellan skola och det lokala näringslivet ska vidareutvecklas. Efter Hamas terrorattack mot Israel den 7",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.878685519ae29f485921cba/1764951869721/Sigtuna%20kommuns%20M%C3%A5l%20och%20budget%202026%E2%80%932028_tillg%C3%A4nglig.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2026–2028\nPdf, 5.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "48f4dc5d2b7bd6abd8da54f5414d1a80e79d4d18a43d6abbdb949a2537cbf93e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 75,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "der 2025 visat positiva resultat ska fortsätta följas och lärdomarna ska tillvaratas samt utvecklas vidare. En särskild satsning för att långsiktigt öka förskollärartätheten i kommunens förskolor genomfördes under 2025 och ska utökas under 2026. För att skapa förutsättningar för högre genomströmning i gymnasieskolan och färre avh",
+    "belopp_nara": false
+   },
+   {
+    "sida": 49,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "inre miljön på våra förskolor och skolor samt deras förskole- och skolgårdar. 3. Utbildningsnämnden får i uppdrag att utöka satsningen att öka förskolelärartätheten i de kommunala förskolorna. 4. Utbildningsnämnden får i uppdrag att, utifrån prioriteringen i skolutvecklingsprogrammet, på vetenskaplig grund utveckla",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.14350d7218d54a56bd7bbba/1706882717575/M%C3%A5l%20och%20budget%202024-2026.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2024-2026\nPdf, 3.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94fd5ad16ba8b6c0079d5a7572d6864caf382f807af095bd52ebe5fc7b3dc462",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 71,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 21,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a tillkommande behov av verksamhetslokaler, löneökningar, ökade avskrivningar och ökade pensionskostnader. Långtidsplanen visar på utvecklingen för skatter och statsbidrag, finansiellt netto, ramar för kommunsty- relsen och nämnderna, effektiviseringskrav alternativt reformutrymme för att uppnå en resultatnivå på två procent av s",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

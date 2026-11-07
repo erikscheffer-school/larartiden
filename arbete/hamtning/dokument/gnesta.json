@@ -58,5 +58,119 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.31b3d88719bb04fe03ed1bc3/1769707674442/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-02-05.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-02-05.pdf\nPdf, 7.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "490b7f9c255d21ec66aa36e11202fd830c13a09ac3f6f533353fd5ccb761e49c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 84,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "på 8 727 248 kronor för 2025. I ärendet redogörs för hur bidraget har använts under året utifrån nämndens beslutade områden. Bakgrund Skolverket ansvarar för statsbidraget för stärkt kunskapsutveckling som syftar till att stödja huvudmän i att stärka likvärdigheten och kunskapen i och mellan skolor. Statsbidraget ska användas",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Kallelse - Kungörelse Informationsärenden 2 BOUN.2026.6 Förskoleplaceringar Uppföljning av statsbidrag för stärkt 3 BOUN.2025.137 kunskapsutveckling 2025 Beslutsärenden kommunstyrelsen Ianspr",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "8 727 248 Juridiska konsekvenser Villkoren styrs av · Förordning (2018:49) om statsbidrag för stärkt kunskapsutveckling · Skolverkets föreskrifter om statsbidrag för stärkt kunskapsutveckling Konsekvenser för miljön Förslaget medför inte nå",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.54581b0a19c1e3e17f33bca7/1770631683476/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-02-13.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-02-13.pdf\nPdf, 862.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2790c0f06c7e92d6c312486e680d79ff10ed96088868b2b6a405c259771072ad",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 62,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "undervisningstimmar"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "2026. Bestämmelserna föreslås tillämpas första gången på utbildning som påbörjas höstterminen 2028. Förslagen bereds vidare i Regeringskansliet. Reglering av lärares undervisningstid och stödundervisning Regeringen har presenterat förslag som syftar till att reglera lärares och förskollärares undervisningstid samt att införa nya stödinsatse",
+    "belopp_nara": false
+   },
+   {
+    "sida": 10,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Även anpassade grundskolan utökas med en ny första årskurs. Lågstadiet i grundskolan och anpassade grundskolan utvidgas alltså med ett år, och den garanterade undervisningstiden utökas med 534 timmar per skolform. De regelverk som gäller för de olika skolformerna i övrigt gäller även för den nya första årskursen, även om utbildningen",
+    "belopp_nara": false
+   },
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tisk frånvaro. Arbetet med att främja skolnärvaro behöver utvecklas genom bland annat tillgänglighetsarbete samt att elever med betydande frånvaro stöttas. Ett statsbidragsfinansierat skolsocialt team har under 2025 definierats och utvecklas. I det skolsociala teamet ingår elevhälsan och medarbetare från socialtjänstens öppenvård",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.5e05fa1519cf59d963c13ee/1773666442062/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-03-23.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-03-23.pdf\nPdf, 5.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "23f09452513f89f77aed468c058966c15b5f8d861d93e6007d54ec12f3d8660c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 172,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "närvaro.  Tidiga insatser för att identifiera och bryta frånvaromönster genom Skolspåret 2.0 Nämnden har beslutat att rikta strax under 600 tkr av statsbidraget för stärkt kunskapsutveckling till närvaroarbete under 2025. Tilldelningen för arbetet har halverats jämfört med föregående år. Förvaltningen ser trots det a",
+    "belopp_nara": true
+   },
+   {
+    "sida": 30,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "rje avdelning. Större enheter tenderar att ha lättare att attrahera behörig personal, medan mindre förskolor kan behöva riktade insatser för att öka sin förskollärartäthet. Det ekonomiska läget medför att förskolorna inte alltid har möjlighet att anställa en förskollärare när personal slutar, vilket är en utmaning i att uppnå mål",
+    "belopp_nara": false
+   },
+   {
+    "sida": 54,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "dighet samt bättre möjligheter för tidig planering av verksamheten. Personalens kompetensutveckling Flera personalföreläsningar har genomförts under året genom statsbidraget för stärkt kunskapsutveckling. Föreläsningarna har handlat om:  Samverkan mellan fritidshemmet och skolan  En lyckad skoluppstart  Tillgänglig",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

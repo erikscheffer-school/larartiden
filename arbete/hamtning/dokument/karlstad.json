@@ -73,5 +73,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/karlstad/document/60b2c589f58f0136ee13-5f24-4cce-8612-b1e5ef680a4e?hash=f8dd7bc30e0b31-ddfbebadf49716834-f3cd2ede99e97754607-b053561fbb5a6517907-67c6b5bac1546578957&cache=Mon%20Oct%2020%202025%2014:15:01%20GMT+0200%20(centraleuropeisk%20sommartid)",
+  "titel": "Gemensam målbild för de tekniska förvaltningarna.\nLänk till annan webbplats.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b894984022ff96c6f7334e1759699c88136f54ea222323b15ccb49238ffc9d31",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

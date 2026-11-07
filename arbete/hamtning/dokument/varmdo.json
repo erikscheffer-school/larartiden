@@ -13,5 +13,115 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.12ba2c8119a76987fe547fc/1763651161725/M%C3%A5l%20och%20Budget%202026%20med%20ramar%202027-2029%20pub.pdf",
+  "titel": "Budget 2026\npdf, 8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "342f64af47df7c1b43c0c36581b2986dbd83e2e3995fe2291f91b6fc7c5302a5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "t tid och ges möjlighet att nå sin fulla potential. I förskolan fortsätter arbetet med mindre barngrupper och stärkta tidiga insatser. I skolan prioriteras mer undervisningstid i matematik och svenska, tätare uppföljning av elevernas resultat och tidiga stödinsatser utifrån screening. Arbetet med studiero, närvaro och elevhälsa fördju",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.1524f1c618a8d1d9fee11548/1695109337020/Ers%C3%A4ttningsreglemente%202023-2026.pdf",
+  "titel": "Ersättningsreglemente för förtroendevalda och politiska sekreterare.pdf\npdf, 359.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3ea061cc27f7d35cd07ca02fbda3b052db229fe5478081583b61cd9fb9bd9608",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.33d76b7195ada2a7b210e29/1744032234125/Auktorisationssystem%20inom%20vuxenutbildning.pdf",
+  "titel": "Auktorisationssystem inom vuxenutbildning.pdf\nPdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c72c2f3dad9dabab28c46faf66f4ae04459027f1705cc852d9897c9c066b529f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 102,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 39,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "narens uppdrag ingår att bedriva utbildning och utveckla verksamheten enligt skollagen (2010:800), förordningen om vuxenutbildning (2011:1108), förordningen om statsbidrag för regional yrkesinriktad vuxenutbildning (2016:937), läroplanen för vuxenutbildning (SKOLFS 2012:101) samt andra författningar och allmänna råd från Skolverk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 45,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ktioner och handledning på plats i skolans (anordnarens) lokaler. Klassrumsundervisning kan kombineras med hybridundervisning. Hybridundervisning är interaktiv undervisningstid som bedrivs digitalt i realtid och får erbjudas maximum 20 % per vecka av all undervisningstid. Antal timmar för klassrumsundervisning grundläggande kurser sk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 46,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Sida 13 av 42 studiegrupp under 5, 10 eller 20 veckor. Anordnare ska utöver denna ordinarie undervisningstid, vid behov, erbjuda elever ytterligare undervisningstid som stöd för elever som har svårighet att tillägna sig kursinnehållet inom den ordinarie undervisningst",
+    "belopp_nara": false
+   },
+   {
+    "sida": 48,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "dervisningen ska utformas på ett sådant sätt att eleven kan följa en sammanhållen studiegrupp under 5, 10 eller 20 veckor. Anordnare ska utöver denna ordinarie undervisningstid erbjuda elever ytterligare undervisningstid som stöd för elever som har svårighet att tillägna sig kursinnehållet inom den ordinarie undervisningstiden. Alla",
+    "belopp_nara": false
+   },
+   {
+    "sida": 49,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ktioner och handledning på plats i skolans (anordnarens) lokaler. Klassrumsundervisning kan kombineras med hybridundervisning. Hybridundervisning är interaktiv undervisningstid som bedrivs digitalt i realtid och får erbjudas maximum 20% per vecka av all undervisningstid. Antal timmar för klassrumsundervisning • 55 % av kursens",
+    "belopp_nara": false
+   },
+   {
+    "sida": 50,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gsutbildning. Skolverkets villkor om utformning av lärlingsutbildning (Lärlingsvux) ska följas, inklusive de villkor som uppställs för kommunens erhållande av statsbidrag, se information på Skolverkets hemsida. Lärlingsutbildning är en kombination av klassrumsundervisning och arbetsplatsförlagd utbildning. Förutsättningar för a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 57,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ombinerar svenska för invandrare (SFI) med kurser på grundläggande och gymnasial nivå. För kombinationsutbildningar finns det inom vuxenutbildningen ett riktat statsbidrag; ”Yrkesvux kombination”. Anordnare ska följa de villkor som uppställs för kommunens erhållande av statsbidrag. Kombinationsutbildningar ska utformas enligt fö",
+    "belopp_nara": false
+   },
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "försäljning och service Yrkeskurser inom hotell och turism 85 Priserna är satta i förhållande till statsbidrag för yrkesvux och ändring av priserna sker i samband med att ersättningen revideras av Skolverket. Vid avbrott på yrkeskurser utbetalas pris * antal poäng eleve",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 17
  }
 ]

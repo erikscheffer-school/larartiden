@@ -96,5 +96,115 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.51f0ebde173915a01636b0dd/1598613799995/4-2020%20Bildningsn%C3%A4mndens%20%C3%B6vergripande%20plan%20med%20budget%202021.pdf",
+  "titel": "4-2020 Underlag för övergripande plan med budget 2021\npdf, 413.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c45152f2b4206801dd71e326bbf99d212d700fd8a4b5555697d813ace2243084",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.c71f29816bc1576d31e3016/1567426211539/6-2019%20Underlag%20for%20overgripande%20plan%20med%20budget%20n%C3%A4mndbeslutad.pdf",
+  "titel": "6-2019 Underlag för övergripande plan med budget 2020\npdf, 191.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5214d91a06ee636cd89aaafd566d8dd3f361b0a0afddced502c257c12ef896a0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "lika behov. Under 2019 har bildningsförvaltningen sett att utbildningen är för likriktad, vilket gör att tiden på programmet blir onödigt utdragen. Därtill har undervisningstiden varit för låg, vilket också försvårat genomströmningen till andra program eller till arbetslivet. Introduktionsprogrammet behöver därför bredda sin utbildnin",
+    "belopp_nara": false
+   },
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ker bland annat genom öppen kulturskola på exempelvis lov och helger. Det sker även genom samarbete med Lyckliga gatorna. Den öppna verksamheten finansieras av statsbidrag. Förutom Kulturskolan så finns KomTek som med sina fritidskurser och lovaktiviteter bidrar till ett rikt fritidsliv i Katrineholm. KomTek verkar för att stärka",
+    "belopp_nara": false
+   },
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "haft samma ändamål. Dessa satsningar har dock dragits in (fritidshemsatsningen helt och lågstadiesatsningen delvis) vilket gör att insatserna minskat. Ett nytt statsbidrag för lärarassistenter infördes 2019. Statsbidraget ska gå till att anställa fler lärarassistenter i skolan för att ge lärare ökad möjlighet att fokusera på unde",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.34d9e96416970a52c2ac66a/1552659492685/3-2019%20Bildningsn%C3%A4mndens%20plan%20med%20budget%202019.pdf",
+  "titel": "3-2019 Plan med budget 2019\npdf, 637.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2a5ba459031c0380f36e5c1f1f806d6f9a29b2c31f40169f5aada775bbcb7859",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Förskolornas och skolornas arbete med värdegrund kommer att följas upp i det systematiska kvalitetsarbetet läsåret 2018/19. Insatser kopplade till statsbidraget för likvärdig skola: Katrineholms kommun har för 2019 beviljats drygt 16,4 mnkr i statsbidrag för ökad likvärdighet. Bidraget ska gå till att stä",
+    "belopp_nara": true
+   },
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mråde har ökat de sista åren och därmed ökar också administrationen kring detta. I dagsläget söker, rekvirerar och redovisar bildningsförvaltningen statsbidrag för cirka 50 mnkr årligen från främst Skolverket och Migrationsverket. Tillgänglig, tydlig och öppen organisation Bildningsförvaltningen arbe",
+    "belopp_nara": true
+   },
+   {
+    "sida": 15,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "84 061 kr Grundskola Skolpengen till år 1-6 höjs med 372 kr/elev med anledning av att timplanen förändras och flera undervisningstimmar ska genomföras i år 1-6. Skolpengen till år 7-9 minskas med 382 kr/elev med anledning av att timplanen förändras och färre undervisningstimmar ska",
+    "belopp_nara": true
+   },
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "äsåret 18/19 då dessa elever kommer att behöva extra stöttning för att nå sina mål. Insatser på skolenhetsnivå kommer att genomföras inom ramen för statsbidraget för likvärdig skola. Bildningsförvaltningens Matematik- och språkutvecklare kommer att fortsätta sitt arbete under året. Utgångspunkten kommer at",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "personal. Från hösten 2018 är förskoleklassen obligatorisk. För att stärka likvärdigheten i förskoleklassen har bildningsförvaltningen med hjälp av statsbidraget för ökad likvärdighet tillsatt fyra förskoleklassutvecklare. Dessa personer har i en del av sin tjänst ha ett särskilt uppdrag för att utveckla v",
+    "belopp_nara": false
+   },
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ets slut. I de fall förvaltningen hade planerat för satsningar inom grundskolan kommer dessa satsningar i den mån det är möjligt att finansieras av statsbidraget för likvärdig skola. Största delen av de omprioriteringar som gjorts berör förvaltningsledning och administration för att konsekvenserna på skole",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 11
  }
 ]

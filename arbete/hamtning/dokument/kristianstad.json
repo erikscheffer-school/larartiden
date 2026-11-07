@@ -130,5 +130,50 @@
    }
   ],
   "antal_träffar": 18
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.d23440719c12d52cb11df86/1770031099926/Verksamhetsplan%20arbete%20och%20v%C3%A4lf%C3%A4rdsf%C3%B6rvaltningen%202026.pdf",
+  "titel": "Verksamhetsplan arbete och välfärdsförvaltningen 2026.pdf Pdf, 821.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "87603cdd1ef7b4a665e8be4176e4895dce3a26470cc7c4400537f1fbd2614a32",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.2d1dbb0319a154a8a078847e/1762867101019/Verksamhetsplan%202025%20BUN.pdf",
+  "titel": "Verksamhetsplan 2025 BUN.pdf Pdf, 530 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8fef01305ba25adf8826ba8984266e3272a757c51a1f2fd5663d08bee52f85ca",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.1bb5a6b618fa43bf26438a0a/1734502921635/Riktlinje%20f%C3%B6r%20hantering%20av%20klagom%C3%A5l%20och%20klagom%C3%A5l%20mot%20utbildningen.pdf",
+  "titel": "Riktlinje för hantering av klagomål och klagomål mot utbildningen.pdf Pdf, 282.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "35fba003e8220a028c530ef01e909011aafdc7d207373ef3658211056b1684f3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

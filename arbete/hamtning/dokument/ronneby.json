@@ -43,5 +43,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.5c9a1500179e5478cc530a16/1623239749390/Protokoll%20UN%20210603%20extra%20budgetm%C3%B6te.pdf",
+  "titel": "Protokoll UN 210603 extra budgetmöte.pdf\nPdf, 2.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "284828fdb8b40429201c33ee0eeda54f7d4179225ed4f0474a1e3d6ec49e2d5b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.759467b919b99047d967cc35/1769083491486/Kommunstyrelsen%202026-01-13%20%C2%A7%C2%A7%201-28.pdf",
+  "titel": "Kommunstyrelsen 2026-01-13 §§ 1-28.pdf\nPdf, 994.1 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "36099c4aaf6902b7f017df8e9231510c1e973913bda9453f4f0a2e40acd8d273",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 72,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ronneby.se/download/18.50b0619719c47b7e236dee2/1770889623310/Kommunstyrelsen%202026-02-03%20%C2%A7%C2%A7%2029-55%20inkl.%20bilaga.pdf",
+  "titel": "Kommunstyrelsen 2026-02-03 §§ 29-55 inkl. bilaga.pdf\nPdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7b5dce4a20ea0d1957d69a53a0d3488e323ac992905cde7f1deb2665824abb64",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 77,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -66,5 +66,76 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0665/1793617182121/6_2_Verksamhetsplan%202027-2029%20f%C3%B6r%20Svenljunga%20kommun%20och%20koncernbolagen%20(KSAU%2026_10).pdf",
+  "titel": "6_2_Verksamhetsplan 2027-2029 för Svenljunga kommun och koncernbolagen (KSAU 26_10).pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6d257642c5c5bf71a56084e38612dbe669fbc5ad70f691427b61fe146b16057b",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 45,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "er årets riksdagsval. Tillskott sker redan nu även för 2028 för barn- och utbildningsnämnden för reformen \"Reglering av lärares undervisningstid\". Helårseffekt är därmed uppnådd från 2028. Barn- och utbildningsnämnden ska göra en noggrann analys av effekterna av r",
+    "belopp_nara": false
+   },
+   {
+    "sida": 43,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "ocialchefens bedömning är att denna ändring i viss mån snarare leder till en fördyring I deras verksamhet. Reglering av lärares undervisningstid Regeringen föreslår att medel tillförs från 2027 för genomförandet av förslagen om reglering av lärares undervisningsti",
+    "belopp_nara": false
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ot just riktade statsbidrag men det återstår en hel del förenklingar att göra för Regeringen. Majoriteten av de riktade statsbidragen finns inom barn- och utbildningsförvaltningens och socialförvaltningens område, och kan sökas hos Skolverket respekti",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b066d/1793617182729/6_10_Beredning%20av%20revisorernas%20budget%202027.pdf",
+  "titel": "6_10_Beredning av revisorernas budget 2027.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a8212a3a6fead061914c77c3e352f5f16b50545feb05b857f4417319e39ea1e1",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b066f/1793617206162/7_2_Investeringsbudget%202027-2031%20f%C3%B6r%20Svenljunga%20kommun%20och%20Svenljunga%20Verksamhetslokaler%20AB%20(KSAU%2026_10).pdf",
+  "titel": "7_2_Investeringsbudget 2027-2031 för Svenljunga kommun och Svenljunga Verksamhetslokaler AB (KSAU 26_10).pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c950ff68e480e320cc8d30beaee045a03615f31db88ba4db72d47630fc31ed77",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

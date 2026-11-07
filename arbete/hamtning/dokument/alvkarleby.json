@@ -1,0 +1,56 @@
+[
+ {
+  "url": "https://www.alvkarleby.se/download/18.678c8a51188cdd2ee8a11f/1687787042583/Omr%C3%B6stningsprotokoll%20tillh%C3%B6rande%20KF%202023-06-21%20%C2%A765%20M%C3%A5l-%20och%20budgetdokument%202024-2027.pdf",
+  "titel": "omröstningsprotokoll pdf, 7.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e87e9e37fc4564be7dc7c05a9f77e52ba714f40b2f94e72b12ca5d753584209d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.290ea4ea1a1a18dfda2159/1793716008418/2026-11-10-Dagordning%20UN.pdf",
+  "titel": "Kallelse till Utbildningsnämndens sammanträde den 10 november\npdf, 170.8 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "65c4abd28ef30d080e07f5c0a671cc1555a1f6c1c3328aee6ff08c56885ac17e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "l 2027, UN/2026:42 11 Revidering av dokumenthanteringplan, UN/2026:106 12 Redovisning av taxor och avgifter, UN/2026:110 13 Redovisning av statsbidrag, UN/2026:109 14 Elevstatistik, UN/2026:21, UN/2025:20, UN/2024:21 15 Körapport för förskolan, UN/2026:9 16 Uppdragslista, 17 Årspla",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.4c6b35881a1631a913c3dc/1792680833451/Dagordning%20KF%202026-10-28.pdf",
+  "titel": "Kallelse till fullmäktiges möte den 28 oktober\npdf, 168.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "16defe2c6f8e14c27a9a6ad41043d50b00ba8e197a89733684166eec228fb624",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

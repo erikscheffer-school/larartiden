@@ -43,5 +43,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://kalmar.se/download/18.7d5fba0219a7ba0af5a1344a/1781271705469/sammantradesdagar-2026.pdf",
+  "titel": "Sammanträdesdagar 2026 (med reservation för ändringar)\npdf, 150.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "44b00dcdb86b44d026d874a2b0e520e4a672ed67c44f798df0a764a34d2406dd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kalmar.se/download/18.102612931a1632d52c1cf00/1793182264458/sammantradesdagar-2027.pdf",
+  "titel": "Sammanträdesdagar 2027 (med reservation för ändringar)\npdf, 150.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7fc7b682d3b1916ec6eac9f34a97ae818b56b55db4bb106c1fefbf6df1fc206e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

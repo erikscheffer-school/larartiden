@@ -1,0 +1,55 @@
+[
+ {
+  "url": "https://www.herjedalen.se/download/18.3ca98e381a1a188b3ad137cf/1793977565601/Protokoll%20kommunfullm%C3%A4ktige%202026-10-29%20%20webbversion.pdf",
+  "titel": "Kommunfullmäktige 29 oktober\npdf, 3.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4405a10770ad180a26d729b5ae8afef0b4dc8089dc1f429395a36c59b7461179",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.ec76a2a1a1542a691cb490/1792565994039/Protokoll%20kommunstyrelsen%202026-10-14%20%20webbversion.pdf",
+  "titel": "Protokoll kommunstyrelsen 14 oktober\npdf, 4.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dd65ae76bec4a944dcfcec49573a78a30eb2936e5157dd28f9f7f2fb498b945b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.4bc117f71a0adb12db824d48/1790076686333/Protokoll%20kommunstyrelsen%202026-09-15%20%20webbversion.pdf",
+  "titel": "Protokoll kommunstyrelsen 15 september\npdf, 5.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9b9dae6b630c23c6b42f4e345716adc0ba56660a532fd0afac8ca2947715de47",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 67,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ingen med Tävlingsidrott ishockey, LIP, är att ge ishockeyspelande gymnasieelever möjligheten att kombinera gymnasiestudier innehållande schemalagd undervisningstid i ämnet Tävlingsidrott ishockey på skoltid med ishockeyträning och matchspel i föreningsverksamhet under hela gymnasietiden. En grundförutsä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

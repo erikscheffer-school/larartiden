@@ -58,5 +58,43 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jarfalla.se/download/18.f1d527a13d6c0da509800010879/1422498705095/atagandeblad_tillganglighet_bemotande.pdf",
+  "titel": "Åtagande för tillgäng­lighet och bemötande\npdf, 131.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0bfef1d8fbfaafe828585551283b1b193e29597e8c90d045edd8133964b7e814",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jarfalla.se/download/18.7643f85016c6c81538194dc3/1565945290582/kursplaner-Larvux-grundlaggande-Skolverket-2017.pdf",
+  "titel": "Skolverkets kursplaner för anpassad utbildning på grundläggande nivå\npdf, 1.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "442da3584247fdf156b30489308e1d9a0b5177c6065fce2215a3f4d986539b6d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 99,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 91,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "nkterna hanteras i relation till varandra är något som lärare tillsammans med eleven måste avgöra. Det centrala innehållet säger heller ingenting om hur mycket undervisningstid som ska ägnas åt de olika punkterna. Det är viktigt att understryka att det centrala innehållet inte begränsar inne- hållet i undervisningen. Det finns allt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

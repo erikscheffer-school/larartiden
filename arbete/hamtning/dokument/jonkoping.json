@@ -43,5 +43,78 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.5bf52f9d1a157840cc0a0af/1792566306229/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-10-13.pdf",
+  "titel": "Barn- och utbildningsnämndens protokoll 2026-10-13\npdf, 1.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "36c79c236ed0b636290e1ccaa42cfbcc41c25baa8b838107d4e7d14629e91521",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "nteras för nämnden i december. - Workshop med anledning av den nya förordningen om lärares och förskollärares undervisningsuppdrag. Ekonomichef René Rizzo informerar från ekonomienheten, bl.a. om följande punkter: - Pågående bud",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "bl.a. om följande punkter: - Förlängning och utvärdering av projektet Trygg start, finansierat genom statsbidrag från BRÅ. - Pågående omställningsarbete, inklusive genomförd riskbedömning avseende omsorgsbiträden.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.44e6b59c1a157950e22a405/1792565708214/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mnden%20protokoll%202026-10-12.pdf.pdf",
+  "titel": "Utbildnings- och arbetsmarknadsnämnden, protokoll 2026-10-12\npdf, 834.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9e385b8622b76a2ddcd775fabe8c9b61dd66bd35d3b59c3d4a10d58449b785e3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "st del gäller grundskolan men även gymnasiet och vuxenutbildningen. Aktuella reformer i nuläget är Trygghet och studiero, undervisningsuppdraget (reglering av lärares arbetstid) samt nytt betygs­ system som kommer att påverka gymnasiet mycket. Budget för 2027: sto",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.17ce49301a1631b5d014a563/1793258690831/Milj%C3%B6-%20och%20h%C3%A4lsoskyddsn%C3%A4mndens%20protokoll%202026-10-22.pdf",
+  "titel": "Protokoll Miljö- och hälsoskyddsnämnden 2026-10-22\npdf, 1.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ea302fa73b701f29eee27ca5b1fe54fe984ff97db2755bf635fa0b7b134173d2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

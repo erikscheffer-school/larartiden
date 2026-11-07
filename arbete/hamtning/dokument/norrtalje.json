@@ -62,5 +62,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://alltomnorrtalje.se/miljonoverskott-och-ny-odlingsstrategi-nar-fullmaktige-sammantrader/",
+  "titel": "Miljonöverskott och ny odlingsstrategi när fullmäktige sammanträder - Allt om Norrtälje",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "9626846071ca00308a092128d51d20a47e258352bb0e1386fa00bba4568c13d0",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

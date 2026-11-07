@@ -58,5 +58,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.laxa.se/download/18.15af126319a768a457d422cd/1763736219473/Budget%202026%20och%20verksamhetsplan%202027-2028.pdf",
+  "titel": "Budget 2026 och verksamhetsplan 2027-2028.pdf\nPdf, 2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "61b7339514138d44c11e66ab36490df3cca1913ec0ea909455a1f85e4f1dbb64",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rbunds budgetprocess. I Laxå kommuns budget har hänsyn tagits till förändringar så långt det är möjligt och det inom KS budgetram. Utöver skatter och generella statsbidrag i budgeten så finns på verksamhetsnivå budgeterade riktade statsbidrag, migrationsintäkter och bidrag från Skolverket. SON har budgeterat 1 mnkr från Migration",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.laxa.se/download/18.39adf63019367d59c7a8fd4/1732713380278/Budget%202025%20och%20verksamhetsplan%202026-2027.pdf",
+  "titel": "Budget 2025 och verksamhetsplan 2026-2027.pdf\nPdf, 1.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1026709d5aab888db17825eb0adf755ae220fa98a2d7a9d89cfa61d9881b6154",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rbunds budgetprocess. I Laxå kommuns budget har hänsyn tagits till förändringar så långt det är möjligt och det inom KS budgetram. Utöver skatter och generella statsbidrag i budgeten så finns på verksamhetsnivå budgeterade riktade statsbidrag, migrationsintäkter och bidrag från Skolverket. SON har budgeterat 0,5 mnkr från Migrati",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.laxa.se/download/18.2340dd5218c3dd373452a4be/1702194245125/Budget%202024%20och%20verksamhetsplan%202025-2026.pdf",
+  "titel": "Budget 2024 och verksamhetsplan 2025-2026.pdf\nPdf, 889.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3798f046cb7376f7d1072d84f7a9a8a96c356aec0fee64394dc61b4c8a476602",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ndringar så långt det är möjligt och det inom KS budgetram. Utöver skatter och generella statsbidrag i budgeten så finns på verksamhetsnivå budgeterade riktade statsbidrag, migrationsintäkter och bidrag från Skolverket. SON har budgeterat med bidrag motsvarande 0,5 mnkr och BUN räknar med bidrag från Skolverket uppgående till ca",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "at med bidrag motsvarande 0,5 mnkr och BUN räknar med bidrag från Skolverket uppgående till ca 10 mnkr och migrationsintäkter på 4,4 mnkr. Det tidigare riktade statsbidraget för äldreomsorgssatsningen som för år 2023 uppgick till 3,1 mnkr omfördelas till generellt bidrag inför 2024. SON har erhållit tillskott i ram motsvarande de",
+    "belopp_nara": true
+   },
+   {
+    "sida": 28,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kott för lovskola (ersättning till elever) -150 -150 Tillfälligt tillskott 2024 omfördelning riktat statsbidrag till generellt -3 084 -3 084 Digitalisering",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

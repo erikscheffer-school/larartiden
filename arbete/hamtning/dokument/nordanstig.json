@@ -13,5 +13,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nordanstig.se/download/18.7228151618beb6d93df1034/1700466147402/Mal-och-budget-2024-2027-KS-111%20%C2%A7.pdf",
+  "titel": "Mål och budget 2024-2027\npdf, 1.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b00a08b51bf801a56330b1aa21a3722e376f9a23c6310652ada9781e0ef38657",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "vereras, dvs stänga vårdcentraler, sjukhus, skolor, äldreboenden, busslinjer mm. En stor utmaning i hanteringen av ekonomin är avsaknaden av regeringsbesked om statsbidragens nivå för 2024. Det kan göra att kommuner och regioner avvaktar med att vidta nödvändiga åtgärder i tron eller förhoppningen om tillskott i höstens budgetpro",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://nordanstig.se/download/18.5b8a7ed119be529fb0723016/1769429057314/Mal-och-budget-2026-2029.pdf",
+  "titel": "Mål och budget 2026-2029\npdf, 1.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "97b4506fdef408f69c4a50671d64741d29c45ec196ce348558999cd0f91f300b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nordanstig.se/download/18.2304a94a19993d969474d95a/1759998501164/Mal-och-budget-2025-2028-KF-%C2%A749.pdf",
+  "titel": "Mål och budget 2025-2028\npdf, 1009.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b30796ab5ac464416c8cd61c9fe9b4183b1d0a8d95e08ebc4ca4c45516d35054",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

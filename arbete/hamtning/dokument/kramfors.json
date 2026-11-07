@@ -73,5 +73,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kramfors.se/download/18.29d3a57a1a1a17408a232ef/1793872433722/Protokoll%20Kommunfullm%C3%A4ktige%2026%20oktober.pdf",
+  "titel": "Protokoll Kommunfullmäktige 26 oktober.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1c00092d9799ee1ac0eaa6e38acb54290fdcd32470e0d20cb0ae7834ff3c5a19",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kramfors.se/download/18.47b40c0b1a18c56a8753e86/1793559612972/Protokoll%20Inledande%20sammantr%C3%A4de%20Kommunfullm%C3%A4ktige%2026%20oktober.pdf",
+  "titel": "Protokoll Inledande sammanträde Kommunfullmäktige 26 oktober.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "90c97b767bdf6874f70c0e2988e1459d6a1b64c9ed850caf8bc35372457f6190",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kramfors.se/download/18.6827239e18df28d3c3c161cb/1709562780980/Protokoll%20Kommunfullm%C3%A4ktige%2026%20februari.pdf",
+  "titel": "Protokoll Kommunfullmäktige 26 februari.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "54d872e36ae9f3161ba22e0e79a4929f2a52c0be1b13e80dfefe26c3a2dd75f6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

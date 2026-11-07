@@ -43,5 +43,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hofors.se/download/18.769d6e30188adc6a1c95bdd/1692780620266/Kallelse%20Barn-%20och%20utbildningsn%C3%A4mnden%202023-05-22.pdf",
+  "titel": "Kallelse Barn- och utbildningsnämnden 2023-05-22.pdf\nPdf, 114.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9d1fd32a71227082465b46e99e24ae787865ce6feb4f0aebaf9d5d97c94572ec",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hofors.se/download/18.4a20cb1317f2525642026e1/1647271876206/Protokoll%20Kommunfullm%C3%A4ktige%202022-03-08.pdf",
+  "titel": "Protokoll Kommunfullmäktige 2022-03-08.pdf\nPdf, 675.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3ebe51d514610df3c18c2efb925a1956dccad3d0fb81f3c7a0b9616b738f3807",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hofors.se/download/18.326587a11936c69f8ad56da/1739193674682/Kallelse%20Barn-%20och%20utbildningsn%C3%A4mnden%202025-02-17.pdf",
+  "titel": "Kallelse Barn- och utbildningsnämnden 2025-02-17.pdf\nPdf, 78.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a9602703273ef0d9d76a75594a705eaee89e1f682a099cdafe7c22d02561004f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

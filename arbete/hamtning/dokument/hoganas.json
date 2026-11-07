@@ -73,5 +73,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.2b8c832119b2bd0764a511/1765967966636/M%C3%B6tesdatum%20f%C3%B6r%20utbildningsn%C3%A4mnden%202026.pdf",
+  "titel": "Mötesschema 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5b5669a0b72904c226691533f6078b79fbe98b7d13ad92b2a2a67403db0cc827",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.45fada431a16334321e74d7/1793095955330/Riktlinjer%20f%C3%B6r%20utbildningsn%C3%A4mndens%20verksamhetsbes%C3%B6k(UN_2026_76-3)%20(0).pdf",
+  "titel": "Riktlinjer för verksamhetsbesök\n(pdf, öppnas i nytt fönster)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "43a378a71d98531f96fd3496fa7254e2881fc915a8560956c625717991c5f64e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

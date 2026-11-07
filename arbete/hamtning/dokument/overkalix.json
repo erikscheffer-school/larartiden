@@ -13,5 +13,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/nlumsiaw/budget-2025-overkalix-kommun.pdf",
+  "titel": "Budget 2025 Överkalix Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ce255c041fa17564f3e1816916aaa13f13dfc9811f2d0a82f4d78bd4abe89062",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "samt nytt högre pris på elavtal • Skatter och bidrag ca 8 mkr, ytterligare nästan 2 mkr på grund av befolkningsökning • Finansnetto ca -1 mkr • Statsbidrag till näringslivsutveckling försvinner -1,7 mkr • Licenskostnader m m högre inom IT pga övergång till molnet och NIS2 • Högre kostnader för skolskjuts",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.overkalix.se/media/o0abrghn/budget-2024-overkalix-kommun.pdf",
+  "titel": "Budget 2024 Överkalix Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8eee1a32334bf431b3f8a6447a68b738a7c788ba589d3ef38ee2d84cac2370d1",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/crwhiqqo/budget-2023-overkalix-kommun.pdf",
+  "titel": "Årsbudget 2023 Överkalix Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1d68ac9573c25811be67f6d1a11551ad54ad46f30a8065ef9f6dbacd4ae3fc1d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ssättning och kursplanerna ändras också från höstterminens start 2022. Från höstterminens start får vi utökade krav på att erbjuda läxhjälp och lovskola. Visst statsbidrag utgår för den verksamheten men det kan bli en utmaning att klara skolskjutsar för verksamheten. När det gäller vuxenutbildningen så införs från 1/8 2022 krav p",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

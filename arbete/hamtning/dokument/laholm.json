@@ -68,5 +68,74 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://laholm.se/download/18.10e4a7dc19a7bd354e8af570/1764678674880/Kommunplan%20med%20budget%20f%C3%B6r%202026.pdf",
+  "titel": "Kommunplan med budget för 2026\npdf, 2.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0db945016dd3fe6a47d51ec0759d23f7f05f2301fc91469b5c83a518e425461c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rjning på grund av befolkningstillväxten. I budgetpropositionen återfinns inga större generella tillskott inom skolans område och social- tjänstens område. De statsbidrag som har aviserats i det generella har nu utfördelats i denna budget. Mot bakgrund av det begränsade finansiella utrymmet för resursförstärkningar har därför k",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://laholm.se/download/18.19dc1c881944fa328fe54/1736504173329/Kommunplan%20med%20budget%20f%C3%B6r%202025.pdf",
+  "titel": "Kommunplan med budget för 2025\npdf, 1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "898915994301f0bf9b0460d6ffe1ae2498c0f42385581d560db730e9f2580675",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gar av medel till övriga reserver återfinns i budgeten. Under ett antal år har nämnderna utöver erlagd plan erhållit stora tillkommande resurser genom riktade statsbidrag för olika typer av satsningar som exempelvis likvärdighetsbidraget inom skola samt olika satsningar inom det lönepolitiska området för karriärtjänster och förs",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://laholm.se/download/18.37adb3ba18c80d4e0524f6a/1703063985787/Kommunplan%20med%20budget%20f%C3%B6r%202024.pdf",
+  "titel": "Kommunplan med budget för 2024\npdf, 2.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9a3aa6460378dcb1ff9b28ce8126e51825633426d0f4ab538b0b8e3f25cd0730",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 74,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gar av medel till övriga reserver återfinns i budgeten. Under ett antal år har nämnderna utöver erlagd plan erhållit stora tillkommande resurser genom riktade statsbidrag för olika typer av satsningar som exempelvis likvärdighetsbidraget inom skola samt olika satsningar inom det lönepolitiska området för karriärtjänster och förs",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

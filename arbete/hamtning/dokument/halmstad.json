@@ -28,5 +28,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.59974b7c1a12f6b48a95e47d/1791969261151/261022-kf-handlingar-gdpr.pdf",
+  "titel": "261022-kf-handlingar-gdpr.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94f1550c0899abd30cbfc82e831e12621535909bba3623177d970174fa4a4cbf",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 333,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 65,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gre bidrag till fristående verksamheter, där bidraget per barn och elev är högre i år, men även ökade kostnader för IT och skolskjuts. Ökningen dämpas av högre statsbidrag från Skolverket och av att lokalkostnaderna minskat med knappt 4 mnkr sedan flera lokaler sagts upp. Hemvårdsnämndens nettokostnad har ökat med nästan 96 mnkr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "att antalet barn i förskolor förväntas bli lägre än tidigare förväntat. Förändringen sedan föregående prognos beror på att verksamheten beräknas erhålla högre statsbidrag än förväntat. \u0019\u0017 .XOWXUVNRODQ Budgetavvikelse (Förändring jämfört med föregående prognos): +300 tkr (+300 tkr) Verksamheten beräknas i nu",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.18e209a21a11582e7d525916/1791440401869/261015-kf-handlingar.pdf",
+  "titel": "261015-kf-handlingar.pdf Öppnas i en ny flik",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9a832fb8c82a03607025b8605cbfd62fb520096e509bc9dbcca6a39977b1413e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

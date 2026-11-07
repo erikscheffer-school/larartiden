@@ -1,0 +1,55 @@
+[
+ {
+  "url": "https://www.ostragoinge.se/download/18.7fed703e1a04203ce53b5926/1788328785787/IM%20GY%20-%20Plan%20mot%20diskriminering%20och%20kr%C3%A4nkande%20behandling%20L%C3%85%202026-2027.pdf",
+  "titel": "Göinge Utbildningscenter (Gy IMA & IM-YRK)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "760b793ee64da2e832488c717292aeb7e882fe8daeb2085a8335573cc2fdafcc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ostragoinge.se/download/18.7fed703e1a04203ce5382b22/1788186040572/Vuxenutbildningen%20-%20Plan%20mot%20diskriminering%20och%20kr%C3%A4nkande%20behandling%20L%C3%85%202026-2027.pdf",
+  "titel": "Vuxenutbildningen (Yrkesvux, Gyvux, Grundvux, SFI)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "422c12509be290356b39706c9388e541d196e99a765a373589e9885f0e70ebca",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ostragoinge.se/download/18.68eb143f1997f604aecee5b4/1759154047298/M%C3%A5l-%20och%20resultatplan%202026-2027%20250528.pdf",
+  "titel": "Östra Göinge kommuns mål- och resultatplan för 2026-2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e52c42d1d3c5ac0d0a6542b56031c7e0bba8b63a1ab986d989aca97aadb94b4a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n, den kommunala så att vårt viktiga överskottsmål om 2 procent av skat- samhällsekonomin. ter och statsbidrag kommer bli svårt att leva upp till 2025 och 2026. Därför sänkte vi överskottsmålet för 20",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

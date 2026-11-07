@@ -13,5 +13,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/01/kallelse-bildningsnamnden-2026-01-26-extra.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-01-26 extra",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "72ef7b8a3cc258035fce7cbeb714fd3d84eefecb948f92302f882ef2d72ccfe2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/02/kallelse-bildningsnamnden-2026-02-23.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-02-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "282092fd03b56830cfd47bea52c364b5af49c374a66f46fb0e84a94c2f661feb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "av justerare 2. Fastställande av dagordningen 3. Ekonomi 2025 kl. 13:00 controller 4. Redovisning av statsbidrag Rapporter a) Förvaltningschef informerar b) Skolchef informerar c) Förskolan",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/03/kallelse-bildningsnamnden-2026-03-23.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-03-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3b00912b1131e28003c4102ac638e0341631285928a51d52b15ae865dd058368",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "inspektionsrapport 6. Ekonomi 2026 kl. 14:00 controller 7. Internkontrollplan 2026 8. Redovisning av statsbidrag 9. Mottagande av statsbidrag för kvalitetshöjande åtgärder i förskolan 2026 10. Patientsäkerhetsberättelse elevhälsans medicinska in",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

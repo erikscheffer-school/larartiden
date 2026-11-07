@@ -68,5 +68,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.6fd8de8819b2c036d511eafb/1768834773872/Handlingar%20kommunfullm%C3%A4ktige%202026-01-26.pdf",
+  "titel": "Handlingar kommunfullmäktige 2026-01-26.pdf\nPdf, 25.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "aab9515b93b46a80f6a144a3400860046d6098a17690e93b2e2ba128575e433d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 248,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.5816571119c47e69cd15d5c/1771252195679/Handlingar%20Kommunfullm%C3%A4ktige%202026-02-23.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2026-02-23.pdf\nPdf, 9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f4cc3bbedacec3463b85431158e9a9d77e454143013ca60107101bf9285b0082",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 127,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.318d074c19d054138b44847/1774277468249/Kommunfullm%C3%A4ktiges%20handlingar%202026-03-30.pdf",
+  "titel": "Kommunfullmäktiges handlingar 2026-03-30.pdf\nPdf, 14 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8d27e0d6d8982dc7b4a26cc398e67452612a8600971bb2c19bfcf4702213d6a4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 191,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -240,5 +240,95 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa2926b/1792410507423/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-10-20.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-10-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2b3a1cc2550cd6d8c3c014215d3e4d1229556c4152d59e643458467b0817a2cd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "heten i vissa delar uppnår goda resultat avseende kunskapsutveckling, trygghet och studiero. Elevantalet har ökat samtidigt som lärartätheten kunnat bibehållas och andelen personal med pedagogisk högskoleexamen har ökat. Samtidigt identifieras utvecklingsområden avse",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ad grundskola läsåret 2025/2026. Elevantalet har ökat från 52 till 64 elever mellan läsåren 2024/2025 och 2025/2026. Samtidigt har lärarresursen förstärkts och lärartätheten bibehållits. Underlaget visar att verksamheten i huvudsak uppnår goda resultat avseende kunskapsutveckling, trygghet och studiero samtidigt som elevökningen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.1eb706c819e6eadae8adbfdb/1787301782400/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-08-27.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-08-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c7153c2b456a88897bde1f7d2a1d8df485c224dafca129faa19d0b37547a4840",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.1eb706c819e6eadae8a5ab2/1781121026759/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-06-16.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-06-16.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5e1f3c35b33aafd4b5e8915030208bca48c37b2bdbe853a5ea90fd039843c454",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 63,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.538abe0919e0227e5095d0/1778674570419/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-05-19.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-05-19.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f2da6a802ba46bc8a1d946865520d6094ef97936a0ca0ccdf1120533d9c478b6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ör att avgifterna inom förskola och fritidshem sänks för samtliga hushåll. Nämnden får ersättning för intäktsbortfall i form av statsbidrag. Kommunfullmäktige har gett barn- och utbildningsnämnden befogenhet att årligen fastställa maxtaxan utifrån de belopp som fasts",
+    "belopp_nara": false
+   },
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "§ och 14 kap. 12 §, får kommunen ta ut avgift för plats i förskola och fritidshem. Falköpings kommun tillämpar maxtaxa i enlighet med förordning (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskola och fritidshem. Enligt 4 § i nämnda förordning fastställer Skolverket årligen, senast den 1 december, de inko",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

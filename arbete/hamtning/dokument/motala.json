@@ -58,5 +58,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Budget-Mal-och-resursplan-for-2026-med-plan-for-2027-2028.pdf",
+  "titel": "Mål och resursplan – kommunens budget Kommunens största intäkt är kommunalskatten, den finansierar cirka 60 procent av kommunens verksamhet. Kommunens",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8cd365f12b7224253535882fbab0ec38749f3f084e6a512f97a8cf10c9356e10",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Budget_260323.pdf",
+  "titel": "Mål och resursplan – kommunens budget Kommunens största intäkt är kommunalskatten, den finansierar cirka 60 procent av kommunens verksamhet. Kommunens",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fbcc7bbdc15dbde06efff6a0ed9c2e972f1ff9f7d0407068e1e53cb33a1f750a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Arsredovisning-2025.pdf",
+  "titel": "Årsredovisning 2025 (PDF, 2,7 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9e7da181711066b351979f85ff5a12a810bc1199bee4844dd63eeb59191ac6f7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

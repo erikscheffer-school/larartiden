@@ -43,5 +43,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.59f814591a1a19ec04f9541/1793797349854/Budget%202027%202028%20och%20plan%202029%20beslut%20KF%2020261020%20dnr%202026-173.pdf",
+  "titel": "Budget 2027-2028, verksamhetsplan 2029\npdf, 654.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "49d20b4b33302c0e367576b377230222332a19be120c6db08bfb730e68e885ba",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.59f814591a1a19ec04f953f/1793797322536/Budget%202026,%202027%20och%20plan%202028%20KF%2020250610.pdf",
+  "titel": "Budget 2026-2027, verksamhetsplan 2028\npdf, 793.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "88c5d054c202d4e2612a02a0229736f24220f4b9a3d85af1a081d227cbbbdca0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.2bffacc81902c3883dcaa/1719314202789/Budget%202025-2026,%20plan%202027%20KF%2020240618.pdf",
+  "titel": "Budget 2025-2026, verksamhetsplan 2027\npdf, 533.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "19b59c7d8d20dba45423b6678510529fb4daf91e888e7929ee9133f04efabc81",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

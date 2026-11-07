@@ -43,5 +43,52 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.2d6ee6901a0adad6f9b64be0/1790603978093/KF%20110%20Driftsbudget%202027.pdf",
+  "titel": "Budgettabell för driftbudget pdf, 264.8 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3d13dcb9d34262a220ac1925aab679943d74ffc159b214a2c46ac3a3d301440d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://amal.se/download/18.2d6ee6901a0adad6f9b64be1/1790603978120/KF%20111%20Investeringsbudget%202027.pdf",
+  "titel": "Budgettabell för investeringsbudget pdf, 95.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "394dc2540b95ce7058d9fb165982dbce892b6ef59b8fd98c7e606c358a0fbaaa",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://amal.se/download/18.2d6ee6901a0adad6f9b64bde/1790603978017/Budgetdokument%202027%20-%202030.pdf",
+  "titel": "budgetdokument pdf, 806.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2f371fb2eb43ca011ce73a6aad6b807460378e7f3cb42159bad5f6620843c0b0",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

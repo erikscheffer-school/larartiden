@@ -28,5 +28,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105",
+  "titel": "offentlighetsprincipen (2 kapitlet Om allmänna handlingars offentlighet i Tryckfrihetsförordningen)",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "c7eb72d2bea35c835100f5dee975040bec98ad289b0ea3635f372ed532b9b068",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

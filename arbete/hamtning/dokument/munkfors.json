@@ -58,5 +58,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.regionvarmland.se/download/18.6467635d19fca688a7413acf/1787225064575/Kultur-%20och%20bildningsn%C3%A4mndens%20%C3%A5rsplan%20och%20budget%202026.pdf",
+  "titel": "Kultur- och bildningsnämndens årsplan och budget 2026 (pdf)\nPdf, 366 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ed040c1b428c60c6b72e805e9421dc2033935c966db1fdbc0be8cab0ccf06e23",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-ks-2026-10-19.pdf",
+  "titel": "Justerat sammanträdesprotokoll kommunstyrelsen 2026-10-19, anslaget 2026-10-22, tas ned 2026-11-14",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "eeb1bfbb2363bf216ca979867458b72e2057ed9b6f4946aae166cafbd03bd36c",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 48,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

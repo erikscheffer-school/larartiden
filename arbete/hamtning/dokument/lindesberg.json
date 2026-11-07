@@ -81,5 +81,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.2c803d561a12f602438a8d6/1792401837851/Uppdaterad%20kallelse%20Kommunfullm%C3%A4ktige%202026-10-19.pdf",
+  "titel": "Uppdaterad kallelse Kommunfullmäktige 2026-10-19.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "be71c64f8e62e2fd95ee0105651fa3ec52c89a1ee178ff99a409134328c50098",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

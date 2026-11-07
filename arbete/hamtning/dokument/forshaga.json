@@ -28,5 +28,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://regionvarmland.se/download/18.156698a319b5357bdb218eed/1768485134866/N%C3%A4mndens%20%C3%A5rsplan%20och%20budget%202026.pdf",
+  "titel": "Nämndens årsplan och budget 2026 (pdf)\nPdf, 319 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "83314d2c628199fa870a2890a6820c2681283399341b28202c29778f105f816f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

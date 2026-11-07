@@ -28,5 +28,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://flen.se/download/18.6ebade8f1a18c46137b21fae/1793694287193/Kallelse%202026-11-09.pdf",
+  "titel": "Kallelse 2026-11-09",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f60aaf705a99d20f6f9d3a268435903150261d49f9e5fe16f241974bf4c105ca",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 390,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 307,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "grundskolan. Kommunstyrelsen Förstärkt krisberedskap och 700 Arbete fortgår med de statsbidrag totalförsvar som Myndigheten för Civilt fö",
+    "belopp_nara": false
+   },
+   {
+    "sida": 362,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ta med otillräcklig finansiering. Underfinansierade reformer kan tvinga kommuner att höja skatter, skära i verksamheter eller acceptera lägre resultat. Riktade statsbidrag, sena besked och kortsiktiga satsningar försvårar dessutom långsiktig planering. Kommunernas resultat förbättrades 2025 till 32 miljarder kronor (4 % av skatt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]
