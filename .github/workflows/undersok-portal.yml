@@ -1,0 +1,31 @@
+# Undersöker hur mötesportaler är uppbyggda (länkar och dataanrop), som underlag
+# för portalspecifika hämtskript. Startas när arbete/granskning/portalprov.json ändras.
+name: Undersök mötesportaler
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["arbete/granskning/portalprov.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  undersok:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera webbläsaren
+        run: pip install -q playwright && python -m playwright install --with-deps chromium
+      - name: Undersök portalerna
+        run: python3 verktyg/hamta/undersok_portal.py
+      - name: Spara resultatet i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arbete/granskning/portaler
+          git commit -q -m "Undersökning av mötesportaler $(date +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

@@ -134,7 +134,7 @@ class Hamtare:
         rp = self.robots[bas]
         return True if rp is None else rp.can_fetch(USER_AGENT, url)
 
-    def hamta(self, url, maxbytes=30_000_000, timeout=60):
+    def hamta(self, url, maxbytes=80_000_000, timeout=60):
         host = urllib.parse.urlparse(url).netloc
         vanta = PAUS_PER_VARD - (time.time() - self.senast.get(host, 0))
         if vanta > 0:
