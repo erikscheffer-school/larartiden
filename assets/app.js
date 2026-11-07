@@ -55,13 +55,24 @@ window.addEventListener("hashchange", route);
 /* ---------- Översikt ---------- */
 function renderOverview() {
   const c = [0,0,0,0,0,0]; DATA.forEach(k => c[k.s]++);
-  $("#bar").innerHTML = c.map((v, i) => v ? `<span title="${esc(STATUS[i].short)}: ${v}" style="width:${v / DATA.length * 100}%;background:var(--s${i})"></span>` : "").join("");
-  $("#counts").innerHTML = c.map((v, i) => `<tr><td><span class="sq s${i}"></span>${esc(STATUS[i].n)}</td><td class="n">${v}</td></tr>`).join("") +
-    `<tr><td>Totalt</td><td class="n">${DATA.length}</td></tr>`;
-  const cases = DATA.filter(k => k.s <= 2).sort((a, b) => a.s - b.s || a.k.localeCompare(b.k, "sv"));
-  $("#cases").innerHTML = cases.map(k => `<li><button class="linklike" data-open="${k.id}"><b>${esc(k.k)}</b></button> <span class="small muted">${esc(k.l)}</span><div class="small"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].short)}. ${esc(k.m || k.mk || "")}</div></li>`).join("");
+  const sorted = [...DATA].sort((a, b) => a.s - b.s || a.k.localeCompare(b.k, "sv"));
+  // En ruta per kommun, i statusordning. Rutorna är klickbara men tas inte med i tabbordningen, listan nedan och fliken Kommuner nås med tangentbord.
+  $("#kgrid").innerHTML = sorted.map(k => `<button type="button" tabindex="-1" class="cell s${k.s}" data-open="${k.id}" title="${esc(k.k)}: ${esc(STATUS[k.s].short)}" aria-hidden="true"></button>`).join("");
+  $("#legend").innerHTML = c.map((v, i) => `<li><span class="sq s${i}"></span><span class="lg-t">${esc(STATUS[i].n)}</span><span class="lg-n">${v}</span></li>`).join("");
+  // Kort sammanställning per status. Fältet kort är en förenklad beloppsrad, hela texten finns på kommunens sida.
+  $("#cases").innerHTML = [0, 1, 2].map(s => {
+    const list = sorted.filter(k => k.s === s);
+    if (!list.length) return "";
+    const lbl = s === 2 ? "Beräknad kostnad" : "Belopp";
+    return `<section class="case-group"><h3><span class="sq s${s}"></span>${esc(STATUS[s].short)} <span class="muted">${list.length}</span></h3><ul>` +
+      list.map(k => `<li><button class="linklike" type="button" data-open="${k.id}">${esc(k.k)}</button><span class="case-l">${esc(k.l.replace(" län", ""))}</span><span class="case-m"><span class="sr">${lbl}: </span>${esc(k.kort || k.m || k.mk || "")}</span></li>`).join("") +
+      `</ul></section>`;
+  }).join("");
 }
-document.addEventListener("click", e => { const b = e.target.closest("[data-open]"); if (!b) return; show("kommuner"); openDetail(b.dataset.open, true); });
+document.addEventListener("click", e => {
+  const g = e.target.closest("[data-goto]"); if (g) { e.preventDefault(); show(g.dataset.goto, true); window.scrollTo(0, 0); return; }
+  const b = e.target.closest("[data-open]"); if (!b) return; show("kommuner"); openDetail(b.dataset.open, true);
+});
 
 /* ---------- Kommunlistan ---------- */
 function shortKf(s) {
@@ -101,6 +112,7 @@ const fact = (t, v, html) => v ? `<dt>${t}</dt><dd>${html ? v : esc(v)}</dd>` : 
 function gapList(text) {
   return String(text || "").split(/(?<=[.!?])\s+(?=[A-ZÅÄÖ"(])/).map(s => s.trim()).filter(Boolean);
 }
+function host(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } }
 function linkify(s) { return esc(s).replace(/(https?:\/\/[^\s)]+[^\s).,;])/g, '<a href="$1" target="_blank" rel="noopener">länk</a>'); }
 function openDetail(id, push) {
   currentId = id; renderDetail(id); renderRows();
@@ -113,12 +125,12 @@ function renderDetail(id) {
   const gaps = gapList(k.lu);
   const site = k.w ? `<a href="${esc(k.w)}" target="_blank" rel="noopener">${esc(k.w.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a>` : "";
   const kfText = k.kf ? `${esc(k.kf)}${k.kfu ? ` (<a href="${esc(k.kfu)}" target="_blank" rel="noopener">källa</a>)` : ""}` : "Inte känt. Leta efter kommunfullmäktiges sammanträdesdagar för hösten 2026.";
-  const docs = (k.docs || []).map(d => `<li><b>${esc(d.t || "Dokument")}</b><div class="meta">${[d.d, d.sk, d.pr, d.nr === true ? "nämner reformen" : d.nr === false ? "nämner inte reformen" : ""].filter(Boolean).map(esc).join(", ")}</div>${d.c ? `<blockquote>${esc(d.c)}</blockquote>` : ""}${d.u ? `<a href="${esc(d.u)}" target="_blank" rel="noopener">${esc(d.u)}</a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
+  const docs = (k.docs || []).map(d => `<li><b>${esc(d.t || "Dokument")}</b><div class="meta">${[d.d, d.sk, d.pr, d.nr === true ? "nämner reformen" : d.nr === false ? "nämner inte reformen" : ""].filter(Boolean).map(esc).join(", ")}</div>${d.c ? `<blockquote>${esc(d.c)}</blockquote>` : ""}${d.u ? `<a class="doclink" href="${esc(d.u)}" target="_blank" rel="noopener" title="${esc(d.u)}">Öppna dokumentet <span class="muted">(${esc(host(d.u))})</span></a>` : ""}</li>`).join("") || '<li class="muted">Inga dokument registrerade.</li>';
   const mailto = `mailto:${CFG.mail}?subject=${encodeURIComponent("Lärartiden i budgeten: " + k.k)}`;
   $("#detail").innerHTML = `<article class="detail" aria-labelledby="dh">
-    <div class="head"><h2 id="dh">${esc(k.k)} <span class="small muted" style="font-weight:400">${esc(k.l)}</span></h2><button class="btn ghost" type="button" id="closeDetail">Stäng</button></div>
-    <p class="status"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].n)}</p>
-    <p style="max-width:80ch">${esc(k.sum || "")}</p>
+    <div class="head"><div><h2 id="dh">${esc(k.k)}</h2><p class="d-lan">${esc(k.l)}</p></div><button class="btn ghost" type="button" id="closeDetail">Stäng</button></div>
+    <p class="status st${k.s}"><span class="sq s${k.s}"></span>${esc(STATUS[k.s].n)}</p>
+    <p class="d-sum">${esc(k.sum || "")}</p>
     <dl class="facts">
       ${fact("Pengar kopplade till reformen", k.m)}${fact("Egen beräknad merkostnad", k.mk)}
       ${fact("Om statsbidraget", k.sb)}${fact("Om prislista eller samverkan", k.pl)}
@@ -206,6 +218,7 @@ function simpleMd(text) {
   return text.split(/\n{2,}/).map(b => {
     const h = b.match(/^(#{1,4})\s+(.*)$/);
     if (h) return `<h${h[1].length}>${inline(h[2])}</h${h[1].length}>`;
+    if (/^\d+\. /.test(b)) return "<ol>" + b.split(/\n(?=\d+\. )/).map(li => `<li>${inline(li.replace(/^\d+\. /, ""))}</li>`).join("") + "</ol>";
     if (/^[-*] /.test(b)) return "<ul>" + b.split(/\n(?=[-*] )/).map(li => `<li>${inline(li.replace(/^[-*] /, ""))}</li>`).join("") + "</ul>";
     return `<p>${inline(b.replace(/\n/g, " "))}</p>`;
   }).join("");
@@ -230,7 +243,7 @@ async function openText(id) {
 $("#toc").addEventListener("click", e => { const b = e.target.closest("button[data-t]"); if (!b) return; openText(b.dataset.t); setHash("text-" + b.dataset.t); });
 
 /* ---------- Metod, logg och prompt (filer i mappen metod/) ---------- */
-const METOD = { metod: "metod/metod.md", logg: "metod/logg.md", prompt: "metod/prompt.md" };
+const METOD = { metod: "metod/metod.md", logg: "metod/logg.md", prompt: "metod/prompt.md", utveckla: "metod/utveckla.md" };
 async function openMetod(id) {
   if (!METOD[id]) id = "metod";
   document.querySelectorAll("#metodnav button").forEach(b => b.setAttribute("aria-current", b.dataset.m === id ? "true" : "false"));
@@ -239,7 +252,8 @@ async function openMetod(id) {
   if (id === "prompt") {
     // Filen består av en inledning, en rad med "---PROMPT---" och sedan själva prompten.
     const [intro, prompt = ""] = text.split(/^---PROMPT---\s*$/m);
-    $("#metodbody").innerHTML = md(intro) + `<p><button class="btn" type="button" id="copyPrompt">Kopiera prompten</button></p><pre class="prompt" id="promptText" tabindex="0">${esc(prompt.trim())}</pre>`;
+    const words = prompt.trim().split(/\s+/).length;
+    $("#metodbody").innerHTML = md(intro) + `<div class="prompt-bar"><button class="btn" type="button" id="copyPrompt">Kopiera prompten</button><span class="small muted">${words.toLocaleString("sv-SE")} ord. Hela prompten visas nedan.</span></div><pre class="prompt" id="promptText" tabindex="0">${esc(prompt.trim())}</pre>`;
     $("#copyPrompt").addEventListener("click", () => copy(prompt.trim(), "Prompten är kopierad"));
   } else {
     $("#metodbody").innerHTML = md(text);

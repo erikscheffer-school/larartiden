@@ -18,6 +18,7 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `metod/metod.md` | Texten under Metod och källor |
 | `metod/logg.md` | Loggen över alla instruktioner till AI:n |
 | `metod/prompt.md` | Prompten för att göra en egen kopia (inledning, raden `---PROMPT---`, sedan prompten) |
+| `metod/utveckla.md` | Förslag på hur prompten kan utvecklas |
 | `supabase/schema.sql` | Databasskript för bedömningar |
 
 ## Fält i `data/kommuner.json`
@@ -28,6 +29,7 @@ Sidan är en statisk webbplats som publiceras med GitHub Pages. Besökarnas bed�
 | `s` | Status: 0 pengar beslutade, 1 pengar föreslagna, 2 kostnad beräknad, 3 nämnt utan belopp, 4 ej nämnt, 5 ej bedömbart än |
 | `sum` | Sammanfattning |
 | `m`, `mk` | Pengar kopplade till reformen, egen beräknad merkostnad |
+| `kort` | Kort beloppsrad som visas på startsidan, bara för status 0–2 (högst cirka 60 tecken) |
 | `sb`, `pl` | Kommentar om statsbidraget, om prislista/samverkan |
 | `kf`, `kfu` | Fullmäktiges budgetbeslut och källa |
 | `w` | Kommunens webbplats |

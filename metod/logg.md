@@ -54,6 +54,14 @@ Allt var redan publicerat. Claude granskade sedan Kramfors, Sundsvall, Helsingbo
 
 Claude tog bort skolpeng och styre ur data och sida, gjorde luckorna till en markerad punktlista, lade till avsnittet "Var du kan fortsätta leta" med länk till varje kommuns webbplats, skrev den här metodtexten, loggen och prompten, tömde analysavsnittet och gjorde om sidans utseende till en enklare stil. Datum för budgetbeslut visas där det är känt från granskningen (cirka 100 kommuner). För övriga kommuner är datumet inte undersökt ännu.
 
+### 7 november 2026, kl. 08.22
+
+> Jag vill snygga till hemsidan lite grann. Jag gjorde den så att den inte skulle se så AI-genererad men jag vill ha den lite snyggare än den är nu. Rent formatmässigt alltså.
+>
+> Jag vill också ha det mer avgränsat, framför allt vad som står under respektive kommun på startsidan. Under fliken "Kommuner" ska all information dock vara kvar. Jag vill också att det ska finnas en totalprompt under fliken "metod och källor", alltså inte bara en hänvisning till Github. Skapa en ny prompt som skulle kunna användas av någon annan för att bygga samma sak som jag samt en separat kommentar om vad man skulle kunna ändra om man vill utveckla prompten.
+
+Claude gav rubrikerna ett serift typsnitt, gjorde flikarna tydligare och putsade avstånd, tabellen och kommunsidan. Den smala stapeln på startsidan ersattes med en ruta per kommun som går att klicka på. Listan över kommuner med pengar eller beräknad kostnad grupperades per status och visar nu bara en kort beloppsrad (nytt fält `kort` i data). Hela underlaget finns kvar under Kommuner. Länkarna till dokumenten visas som "Öppna dokumentet" i stället för hela adressen. Under Metod och källor skrevs en ny, fristående prompt som visas i sin helhet, och en ny del, Utveckla prompten, med förslag på förbättringar.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.

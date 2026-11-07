@@ -1,6 +1,6 @@
 ## Så gjordes sidan
 
-Sidan är gjord av mig, Erik Håkansson, med hjälp av AI-assistenten Claude från Anthropic. Jag har bestämt vad som ska undersökas, hur kommunerna ska kategoriseras och vad sidan ska innehålla. Claude har sökt upp och läst kommunernas handlingar, fyllt i uppgifterna, skrivit koden och publicerat ändringarna. Allt Claude har fått i uppdrag finns ordagrant i [loggen över instruktionerna](#metod-logg). Där finns också en prompt som du kan använda för att [göra en egen kopia](#metod-prompt) av sidan.
+Sidan är gjord av mig, Erik Håkansson, med hjälp av AI-assistenten Claude från Anthropic. Jag har bestämt vad som ska undersökas, hur kommunerna ska kategoriseras och vad sidan ska innehålla. Claude har sökt upp och läst kommunernas handlingar, fyllt i uppgifterna, skrivit koden och publicerat ändringarna. Allt Claude har fått i uppdrag finns ordagrant i [loggen över instruktionerna](#metod-logg). Under [Prompten](#metod-prompt) finns hela prompten som behövs för att bygga en egen kopia av sidan, och under [Utveckla prompten](#metod-utveckla) förslag på hur den kan göras bättre.
 
 ### Vad som har undersökts
 

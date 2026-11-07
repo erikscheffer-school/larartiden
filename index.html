@@ -26,19 +26,21 @@
 
 <main class="wrap">
   <section class="view" id="view-oversikt">
-    <div class="cols">
-      <div>
-        <h2>Följer pengarna med till skolan?</h2>
-        <p class="lede">Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Här följer jag om kommunerna i sina budgetar för pengarna vidare till skolan.</p>
-        <div class="bar" id="bar" role="img" aria-label="Fördelning av kommuner per status"></div>
-        <table class="counts" id="counts"></table>
-        <p class="small muted">Många kommuner beslutar budgeten i november eller december eftersom det är valår. "Ej bedömbart än" betyder att jag inte hittat några budgethandlingar för 2027, inte att kommunen avstått.</p>
-      </div>
-      <div>
-        <h3 style="margin-top:4px">Kommuner som avsatt pengar eller räknat på kostnaden</h3>
-        <ul class="case-list" id="cases"></ul>
-      </div>
+    <div class="intro">
+      <h2>Följer pengarna med till skolan?</h2>
+      <p class="lede">Från 1 juli 2027 regleras hur mycket lärare ska undervisa. Staten kompenserar kommunerna med 1,3 miljarder kronor 2027 och 2,6 miljarder per år därefter, via det generella statsbidraget. Pengarna är inte öronmärkta. Här följer jag om kommunerna i sina budgetar för pengarna vidare till skolan.</p>
     </div>
+
+    <figure class="grid-fig">
+      <figcaption>Varje ruta är en kommun. Klicka på en ruta för att läsa vad som har hittats.</figcaption>
+      <div class="kgrid" id="kgrid" role="img" aria-label="Sveriges 290 kommuner fördelade efter status"></div>
+      <ul class="legend" id="legend"></ul>
+      <p class="small muted note">Många kommuner beslutar budgeten i november eller december eftersom det är valår. "Ej bedömbart än" betyder att jag inte hittat några budgethandlingar för 2027, inte att kommunen avstått.</p>
+    </figure>
+
+    <h2 class="cases-h">Kommuner som avsatt pengar eller räknat på kostnaden</h2>
+    <p class="muted cases-sub">Beloppen är förenklade. Under <a href="#kommuner" data-goto="kommuner">Kommuner</a> finns hela underlaget med citat och källor.</p>
+    <div class="cases" id="cases"></div>
   </section>
 
   <section class="view" id="view-kommuner" hidden>
@@ -69,7 +71,8 @@
     <nav class="subnav" id="metodnav" aria-label="Metod">
       <button type="button" data-m="metod" aria-current="true">Så gjordes sidan</button>
       <button type="button" data-m="logg" aria-current="false">Logg över instruktionerna</button>
-      <button type="button" data-m="prompt" aria-current="false">Gör en egen kopia</button>
+      <button type="button" data-m="prompt" aria-current="false">Prompten</button>
+      <button type="button" data-m="utveckla" aria-current="false">Utveckla prompten</button>
     </nav>
     <div id="metodbody" class="prose"><p class="muted">Laddar…</p></div>
   </section>
