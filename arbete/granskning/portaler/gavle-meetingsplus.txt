@@ -1,0 +1,190 @@
+Kommun: Gävle  nyckel: meetingsplus
+
+######## SIDA: https://meetingsplus.gavle.se/committees
+Titel: Nämnder & Styrelser | MeetingPlus [sv]
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://meetingsplus.gavle.se/committees
+
+## Länkar (href | text | sammanhang)
+https://meetingsplus.gavle.se/committees#main | Hoppa över navigering | 
+https://meetingsplus.gavle.se/ | Meetings+ | Meetings+
+https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&client_secret=IWP123&redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2fcommittees&language=sv | Logga in | Logga in
+https://meetingsplus.gavle.se/overview | ÖVERSIKT | ÖVERSIKT
+https://meetingsplus.gavle.se/committees | NÄMNDER & STYRELSER | NÄMNDER & STYRELSER
+https://meetingsplus.gavle.se/committees#activeCommitteesTabContent | Aktiva | Aktiva Inaktiva
+https://meetingsplus.gavle.se/committees#inactiveCommitteesTabContent | Inaktiva | Aktiva Inaktiva
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad | Gävle kommuns Funktionsrättsråd | Gävle kommuns Funktionsrättsråd
+https://meetingsplus.gavle.se/committees/hbtqi-rad | HBTQI-råd | HBTQI-råd
+https://meetingsplus.gavle.se/committees/javsnamnden | Jävsnämnden | Jävsnämnden
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://meetingsplus.gavle.se/committees/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/samba-lokalt-brottsforebyggande-rad | SAMBA - Lokalt brottsförebyggande råd | SAMBA - Lokalt brottsförebyggande råd
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/valnamnden | Valnämnden | Valnämnden
+https://meetingsplus.gavle.se/committees/forskole-och-grundskolenamnden | Förskole- och grundskolenämnden | Förskole- och grundskolenämnden
+https://meetingsplus.gavle.se/committees/gymnasie-och-vuxenutbildningsnamnden | Gymnasie- och vuxenutbildningsnämnden | Gymnasie- och vuxenutbildningsnämnden
+https://meetingsplus.gavle.se/committees/stod-och-omsorgsnamnden | Stöd- och omsorgsnämnden | Stöd- och omsorgsnämnden
+
+## Knappar
+Nämnder & Styrelser
+Avbryt sök
+Filtrera nämnder/styrelser
+Aktiva
+
+## HTML (början av body)
+<body class="page"> <nav> </nav> <a href="#main" id="skipNavigation">Hoppa över navigering</a> <div class="site-wrap"> <header class="header no-print"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-md-4 w-auto"> <a href="/" class="main-logo" role="link"> <span>Meetings+ </span> </a> </div> <div class="col-md-4 full-text-search-container"> <div class="search-global" role="search"> <input id="full-text-search" type="search" placeholder="Sök" aria-label="Sök"> </div> </div> <div class="col-md-4 w-auto"> <div class="user unlogged"> <a class="log-link" href="https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&amp;client_secret=IWP123&amp;redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2fcommittees&amp;language=sv" role="link"> Logga in <span class="log-icon"></span> </a> </div> </div> </div> </div> <nav class="main-nav"> <div class="nav-menu site-nav-menu"> <button id="DropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Nämnder &amp; Styrelser </button> <ul class="dropdown-menu" role="listbox" aria-labelledby="DropDownButton"> <li class=" " role="presentation"> <a id="PageLink_overview" role="tab" href="/overview"> Översikt </a> </li> <li class="active " role="presentation"> <a id="PageLink_committees" role="tab" href="/committees"> Nämnder &amp; Styrelser </a> </li> </ul> </div> </nav> </header> <main id="main" class="main"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-12"> <div class="main-header"> <h1> Nämnder &amp; Styrelser </h1> <div class="search-box" role="search"> <input id="searchbox" type="search" class="form-control" aria-label="Filtrera nämnder/styrelser" placeholder="Filtrera nämnder/styrelser"> <button hidden="" type="reset" id="clearButton" class="search-box-button clear" aria-label="Avbryt sök"></button> <button id="searchButton" type="button" class="search-box-button search" aria-label="Filtrera nämnder/styrelser"></button> </div> </div> <div id="committeesOverviewTabs" class="tabs-page"> <div class="tabs-menu"> <button id="PhonesDropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Aktiva</button> <div class="dropdown-menu" role="tablist" aria-labelledby="PhonesDropDownButton"> <a id="activeCommitteesTabButton" class="dropdown-item active " role="tab" href="#activeCommitteesTabContent" data-toggle="tab" aria-controls="activeCommitteesTabContent"> Aktiva </a> <a id="inactiveCommitteesTabButton" class="dropdown-item " role="tab" href="#inactiveCommitteesTabContent" data-toggle="tab" aria-controls="inactiveCommitteesTabContent"> Inaktiva </a> </div> </div> </div> <div class="tab-content"> <div role="tabpanel" class="tab-pane active " id="activeCommitteesTabContent"> <div class="committees-list"> <div id="activeCommittees"> <ul class="box-list"> <li class="list-item-row"> <span class="list-item-name" data-content-id="880"> <a class="name" href="https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden" aria-label="Nämnd Arbetsmarknads- och funktionsrättsnämnden" aria-live="off" role="link">Arbetsmarknads- och funktionsrättsnämnden</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="4458"> <a class="name" href="https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad" aria-label="Nämnd Gävle kommuns Funktionsrättsråd" aria-live="off" role="link">Gävle kommuns Funktionsrättsråd</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="79520"> <a class="name" href="https://meetingsplus.gavle.se/committees/hbtqi-rad" aria-label="Nämnd HBTQI-råd" aria-live="off" role="link">HBTQI-råd</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="887"> <a class="name" href="https://meetingsplus.gavle.se/committees/javsnamnden" aria-label="Nämnd Jävsnämnden" aria-live="off
+
+######## SIDA: https://meetingsplus.gavle.se/committees#main
+Titel: Nämnder & Styrelser | MeetingPlus [sv]
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://meetingsplus.gavle.se/committees#main | Hoppa över navigering | 
+https://meetingsplus.gavle.se/ | Meetings+ | Meetings+
+https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&client_secret=IWP123&redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2fcommittees&language=sv | Logga in | Logga in
+https://meetingsplus.gavle.se/overview | ÖVERSIKT | ÖVERSIKT
+https://meetingsplus.gavle.se/committees | NÄMNDER & STYRELSER | NÄMNDER & STYRELSER
+https://meetingsplus.gavle.se/committees#activeCommitteesTabContent | Aktiva | Aktiva Inaktiva
+https://meetingsplus.gavle.se/committees#inactiveCommitteesTabContent | Inaktiva | Aktiva Inaktiva
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad | Gävle kommuns Funktionsrättsråd | Gävle kommuns Funktionsrättsråd
+https://meetingsplus.gavle.se/committees/hbtqi-rad | HBTQI-råd | HBTQI-råd
+https://meetingsplus.gavle.se/committees/javsnamnden | Jävsnämnden | Jävsnämnden
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://meetingsplus.gavle.se/committees/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/samba-lokalt-brottsforebyggande-rad | SAMBA - Lokalt brottsförebyggande råd | SAMBA - Lokalt brottsförebyggande råd
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/valnamnden | Valnämnden | Valnämnden
+https://meetingsplus.gavle.se/committees/forskole-och-grundskolenamnden | Förskole- och grundskolenämnden | Förskole- och grundskolenämnden
+https://meetingsplus.gavle.se/committees/gymnasie-och-vuxenutbildningsnamnden | Gymnasie- och vuxenutbildningsnämnden | Gymnasie- och vuxenutbildningsnämnden
+https://meetingsplus.gavle.se/committees/stod-och-omsorgsnamnden | Stöd- och omsorgsnämnden | Stöd- och omsorgsnämnden
+
+## Knappar
+Nämnder & Styrelser
+Avbryt sök
+Filtrera nämnder/styrelser
+Aktiva
+
+## HTML (början av body)
+<body class="page"> <nav> </nav> <a href="#main" id="skipNavigation">Hoppa över navigering</a> <div class="site-wrap"> <header class="header no-print"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-md-4 w-auto"> <a href="/" class="main-logo" role="link"> <span>Meetings+ </span> </a> </div> <div class="col-md-4 full-text-search-container"> <div class="search-global" role="search"> <input id="full-text-search" type="search" placeholder="Sök" aria-label="Sök"> </div> </div> <div class="col-md-4 w-auto"> <div class="user unlogged"> <a class="log-link" href="https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&amp;client_secret=IWP123&amp;redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2fcommittees&amp;language=sv" role="link"> Logga in <span class="log-icon"></span> </a> </div> </div> </div> </div> <nav class="main-nav"> <div class="nav-menu site-nav-menu"> <button id="DropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Nämnder &amp; Styrelser </button> <ul class="dropdown-menu" role="listbox" aria-labelledby="DropDownButton"> <li class=" " role="presentation"> <a id="PageLink_overview" role="tab" href="/overview"> Översikt </a> </li> <li class="active " role="presentation"> <a id="PageLink_committees" role="tab" href="/committees"> Nämnder &amp; Styrelser </a> </li> </ul> </div> </nav> </header> <main id="main" class="main"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-12"> <div class="main-header"> <h1> Nämnder &amp; Styrelser </h1> <div class="search-box" role="search"> <input id="searchbox" type="search" class="form-control" aria-label="Filtrera nämnder/styrelser" placeholder="Filtrera nämnder/styrelser"> <button hidden="" type="reset" id="clearButton" class="search-box-button clear" aria-label="Avbryt sök"></button> <button id="searchButton" type="button" class="search-box-button search" aria-label="Filtrera nämnder/styrelser"></button> </div> </div> <div id="committeesOverviewTabs" class="tabs-page"> <div class="tabs-menu"> <button id="PhonesDropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Aktiva</button> <div class="dropdown-menu" role="tablist" aria-labelledby="PhonesDropDownButton"> <a id="activeCommitteesTabButton" class="dropdown-item active " role="tab" href="#activeCommitteesTabContent" data-toggle="tab" aria-controls="activeCommitteesTabContent"> Aktiva </a> <a id="inactiveCommitteesTabButton" class="dropdown-item " role="tab" href="#inactiveCommitteesTabContent" data-toggle="tab" aria-controls="inactiveCommitteesTabContent"> Inaktiva </a> </div> </div> </div> <div class="tab-content"> <div role="tabpanel" class="tab-pane active " id="activeCommitteesTabContent"> <div class="committees-list"> <div id="activeCommittees"> <ul class="box-list"> <li class="list-item-row"> <span class="list-item-name" data-content-id="880"> <a class="name" href="https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden" aria-label="Nämnd Arbetsmarknads- och funktionsrättsnämnden" aria-live="off" role="link">Arbetsmarknads- och funktionsrättsnämnden</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="4458"> <a class="name" href="https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad" aria-label="Nämnd Gävle kommuns Funktionsrättsråd" aria-live="off" role="link">Gävle kommuns Funktionsrättsråd</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="79520"> <a class="name" href="https://meetingsplus.gavle.se/committees/hbtqi-rad" aria-label="Nämnd HBTQI-råd" aria-live="off" role="link">HBTQI-råd</a> </span> </li> <li class="list-item-row"> <span class="list-item-name" data-content-id="887"> <a class="name" href="https://meetingsplus.gavle.se/committees/javsnamnden" aria-label="Nämnd Jävsnämnden" aria-live="off
+
+######## SIDA: https://meetingsplus.gavle.se/
+Titel: Översikt | MeetingPlus [sv]
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://meetingsplus.gavle.se/
+
+## Länkar (href | text | sammanhang)
+https://meetingsplus.gavle.se/#main | Hoppa över navigering | 
+https://meetingsplus.gavle.se/ | Meetings+ | Meetings+
+https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&client_secret=IWP123&redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2f&language=sv | Logga in | Logga in
+https://meetingsplus.gavle.se/overview | ÖVERSIKT | ÖVERSIKT
+https://meetingsplus.gavle.se/committees | NÄMNDER & STYRELSER | NÄMNDER & STYRELSER
+https://meetingsplus.gavle.se/#upcomingTabContent | Kommande | Kommande Tidigare
+https://meetingsplus.gavle.se/#recentTabContent | Tidigare | Kommande Tidigare
+https://meetingsplus.gavle.se/committees/utbildningsnamnden/mote-2026-11-18 | 2026-11-18 | 2026-11-18
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden/mote-2026-11-18 | 2026-11-18 | 2026-11-18
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/valnamnden/mote-2026-11-20 | 2026-11-20 | 2026-11-20
+https://meetingsplus.gavle.se/committees/valnamnden | Valnämnden | Valnämnden
+https://meetingsplus.gavle.se/committees/kommunfullmaktige/mote-2026-11-23 | 2026-11-23 | 2026-11-23
+https://meetingsplus.gavle.se/committees/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden/mote-2026-11-24 | 2026-11-24 | 2026-11-24
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden/mote-2026-11-25 | 2026-11-25 | 2026-11-25
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/socialnamnden/mote-2026-11-26 | 2026-11-26 | 2026-11-26
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/kommunstyrelsen/mote-2026-12-01 | 2026-12-01 | 2026-12-01
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad/mote-2026-12-03 | 2026-12-03 | 2026-12-03
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad | Gävle kommuns Funktionsrättsråd | Gävle kommuns Funktionsrättsråd
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden/mote-2026-12-08 | 2026-12-08 | 2026-12-08
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/javsnamnden/mote-2026-12-08 | 2026-12-08 | 2026-12-08
+https://meetingsplus.gavle.se/committees/javsnamnden | Jävsnämnden | Jävsnämnden
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden/mote-2026-12-08 | 2026-12-08 | 2026-12-08
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden/mote-2026-12-09 | 2026-12-09 | 2026-12-09
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden/mote-2026-12-09 | 2026-12-09 | 2026-12-09
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/socialnamnden/mote-2026-12-10 | 2026-12-10 | 2026-12-10
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet/mote-2026-12-10 | 2026-12-10 | 2026-12-10
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://meetingsplus.gavle.se/committees/kommunfullmaktige/mote-2026-12-14 | 2026-12-14 | 2026-12-14
+https://meetingsplus.gavle.se/committees/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige
+https://meetingsplus.gavle.se/committees/utbildningsnamnden/mote-2026-12-16 | 2026-12-16 | 2026-12-16
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet/mote-2026-11-05 | 2026-11-05 | 2026-11-05
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://meetingsplus.gavle.se/committees/kommunstyrelsen/mote-2026-10-27 | 2026-10-27 | 2026-10-27
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/kommunfullmaktige/mote-2026-10-26 | 2026-10-26 | 2026-10-26
+https://meetingsplus.gavle.se/committees/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad/mote-2026-10-22 | 2026-10-22 | 2026-10-22
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad | Gävle kommuns Funktionsrättsråd | Gävle kommuns Funktionsrättsråd
+https://meetingsplus.gavle.se/committees/socialnamnden/mote-2026-10-22 | 2026-10-22 | 2026-10-22
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden/mote-2026-10-21 | 2026-10-21 | 2026-10-21
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/utbildningsnamnden/mote-2026-10-21 | 2026-10-21 | 2026-10-21
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden/mote-2026-10-21 | 2026-10-21 | 2026-10-21
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden/mote-2026-10-20 | 2026-10-20 | 2026-10-20
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden/mote-2026-10-20 | 2026-10-20 | 2026-10-20
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/kommunstyrelsen/mote-2026-10-13 | 2026-10-13 | 2026-10-13
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/valnamnden/mote-2026-10-02 | 2026-10-02 | 2026-10-02
+https://meetingsplus.gavle.se/committees/valnamnden | Valnämnden | Valnämnden
+https://meetingsplus.gavle.se/committees/hbtqi-rad/mote-2026-10-01 | 2026-10-01 | 2026-10-01
+https://meetingsplus.gavle.se/committees/hbtqi-rad | HBTQI-råd | HBTQI-råd
+https://meetingsplus.gavle.se/committees/javsnamnden/mote-2026-09-28 | 2026-09-28 | 2026-09-28
+https://meetingsplus.gavle.se/committees/javsnamnden | Jävsnämnden | Jävsnämnden
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet/mote-2026-09-24 | 2026-09-24 | 2026-09-24
+https://meetingsplus.gavle.se/committees/kommunala-pensionarsradet | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://meetingsplus.gavle.se/committees/socialnamnden/mote-2026-09-24 | 2026-09-24 | 2026-09-24
+https://meetingsplus.gavle.se/committees/socialnamnden | Socialnämnden | Socialnämnden
+https://meetingsplus.gavle.se/committees/utbildningsnamnden/mote-2026-09-23 | 2026-09-23 | 2026-09-23
+https://meetingsplus.gavle.se/committees/utbildningsnamnden | Utbildningsnämnden | Utbildningsnämnden
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden/mote-2026-09-23 | 2026-09-23 | 2026-09-23
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden/mote-2026-09-23 | 2026-09-23 | 2026-09-23
+https://meetingsplus.gavle.se/committees/arbetsmarknads-och-funktionsrattsnamnden | Arbetsmarknads- och funktionsrättsnämnden | Arbetsmarknads- och funktionsrättsnämnden
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden/mote-2026-09-22 | 2026-09-22 | 2026-09-22
+https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden/mote-2026-09-22 | 2026-09-22 | 2026-09-22
+https://meetingsplus.gavle.se/committees/omvardnadsnamnden | Omvårdnadsnämnden | Omvårdnadsnämnden
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad/mote-2026-09-17 | 2026-09-17 | 2026-09-17
+https://meetingsplus.gavle.se/committees/gavle-kommuns-funktionsrattsrad | Gävle kommuns Funktionsrättsråd | Gävle kommuns Funktionsrättsråd
+https://meetingsplus.gavle.se/committees/valnamnden/mote-2026-09-16 | 2026-09-16 | 2026-09-16
+https://meetingsplus.gavle.se/committees/valnamnden | Valnämnden | Valnämnden
+https://meetingsplus.gavle.se/committees/kommunstyrelsen/mote-2026-09-15 | 2026-09-15 | 2026-09-15
+https://meetingsplus.gavle.se/committees/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden/mote-2026-08-26 | 2026-08-26 | 2026-08-26
+https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+
+## Knappar
+Översikt
+Kommande
+
+## HTML (början av body)
+<body class="page"> <nav> </nav> <a href="#main" id="skipNavigation">Hoppa över navigering</a> <div class="site-wrap"> <header class="header no-print"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-md-4 w-auto"> <a href="/" class="main-logo" role="link"> <span>Meetings+ </span> </a> </div> <div class="col-md-4 full-text-search-container"> <div class="search-global" role="search"> <input id="full-text-search" type="search" placeholder="Sök" aria-label="Sök"> </div> </div> <div class="col-md-4 w-auto"> <div class="user unlogged"> <a class="log-link" href="https://meetingsplus.gavle.se/AuthorizationServer/Account/login?client_id=IWP123&amp;client_secret=IWP123&amp;redirect_uri=https%3a%2f%2fmeetingsplus.gavle.se%2f&amp;language=sv" role="link"> Logga in <span class="log-icon"></span> </a> </div> </div> </div> </div> <nav class="main-nav"> <div class="nav-menu site-nav-menu"> <button id="DropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Översikt </button> <ul class="dropdown-menu" role="listbox" aria-labelledby="DropDownButton"> <li class="active " role="presentation"> <a id="PageLink_overview" role="tab" href="/overview"> Översikt </a> </li> <li class=" " role="presentation"> <a id="PageLink_committees" role="tab" href="/committees"> Nämnder &amp; Styrelser </a> </li> </ul> </div> </nav> </header> <main id="main" class="main"> <div class="container-fluid wrapper"> <div class="row"> <div class="col-12"> <div class="main-header"> <h1> Översikt </h1> </div> <div id="meetingOverviewTabs" class="tabs-page"> <div class="tabs-menu"> <button id="PhonesDropDownButton" type="button" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kommande</button> <div class="dropdown-menu" role="tablist" aria-labelledby="PhonesDropDownButton"> <a id="upcomingTabButton" class="dropdown-item active " role="tab" href="#upcomingTabContent" data-toggle="tab" aria-controls="upcomingTabContent"> Kommande </a> <a id="recentTabButton" class="dropdown-item " role="tab" href="#recentTabContent" data-toggle="tab" aria-controls="recentTabContent"> Tidigare </a> </div> </div> </div> <div class="tab-content"> <div role="tabpanel" class="tab-pane active " id="upcomingTabContent"> <div class="meetings-table accessible-table" id="upcomingMeetingsList" role="table"> <div class="meetings-table-header accessible-table-row" role="row"> <div class="meetings-table-meeting-column accessible-table-cell" role="columnheader" aria-sort="none" tabindex="0"> <span> Möte</span> </div> <div class="meetings-table-committee-column accessible-table-cell" role="columnheader" aria-sort="none" tabindex="0"> <span> Nämnder &amp; Styrelser</span> </div> </div> <div class="box-list" role="rowgroup"> <div class="meeting-list-item accessible-table-row" role="row"> <div class="list-item-date meetings-table-meeting-column" data-content-id="102166" role="cell"> <a href="/committees/utbildningsnamnden/mote-2026-11-18" aria-label="2026-11-18" class="accessible-table-cell"> 2026-11-18 </a> </div> <div class="list-item-name meetings-table-committee-column" role="cell"> <a href="https://meetingsplus.gavle.se/committees/utbildningsnamnden" aria-label="Utbildningsnämnden" class="accessible-table-cell"> <span class="url-text"> Utbildningsnämnden </span> </a> </div> </div> <div class="meeting-list-item accessible-table-row" role="row"> <div class="list-item-date meetings-table-meeting-column" data-content-id="102507" role="cell"> <a href="/committees/samhallsbyggnadsnamnden/mote-2026-11-18" aria-label="2026-11-18" class="accessible-table-cell"> 2026-11-18 </a> </div> <div class="list-item-name meetings-table-committee-column" role="cell"> <a href="https://meetingsplus.gavle.se/committees/samhallsbyggnadsnamnden" aria-label="Samhällsbyggnadsnämnden" class="accessible-table-cell"> <span class="url-text"> Samhällsbyggnadsnämnden </span> </a> </div> </div> <div class="meeting-l
