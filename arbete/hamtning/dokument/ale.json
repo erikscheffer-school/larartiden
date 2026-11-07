@@ -40,59 +40,66 @@
   "sidor": 572,
   "nämner_reformen": true,
   "ord": [
-   "lärartäthet",
-   "statsbidrag",
+   "tid för undervisningsuppdraget",
    "undervisningstid",
    "undervisningsuppdrag"
   ],
-  "belopp_nära_träff": true,
+  "belopp_nära_träff": false,
   "träffar": [
    {
-    "sida": 220,
-    "ord": "lärartäthet",
-    "utdrag": "På grund av en tillfällig sats­ ning med fler lärare i årskurs 9 hösten 2025 samt skolans inre organisation med mer resurser till grundskola än fritidshem blev lärartätheten 12,4 elever per lärare 2025. I budget för 2026 fick utbildningsnämnden en ramhöj­ ning för grundskolan på 1,5 mkr för att kunna bibehålla lärartätheten med 1",
-    "belopp_nara": true
-   },
-   {
     "sida": 201,
-    "ord": "undervisningsuppdrag",
-    "utdrag": "stnader för kommunen som inte finansieras av staten. De utredningar och lagförslag som kommer ha störst påverkan på utbildningsnämndens verksamheter är Tid för undervisningsuppdraget, Förbättrad elevhälsa, Förbättrat stöd, Likvärdigt betygssystem samt Likvärdig förskola i de fall de genomförs. Förslag på förbättringar, effektiviseringar e",
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "ökade kostnader för kommunen som inte finansieras av staten. De utredningar och lagförslag som kommer ha störst påverkan på utbildningsnämndens verksamheter är Tid för undervisningsuppdraget, Förbättrad elevhälsa, Förbättrat stöd, Likvärdigt betygssystem samt Likvärdig förskola i de fall de genomförs. Förslag på förbättringar, effektiviseringar ell",
     "belopp_nara": false
    },
    {
     "sida": 211,
-    "ord": "undervisningsuppdrag",
-    "utdrag": "nde lagförslagen är finansieringen inte tillräcklig. De utredningar och lagförslag som kommer ha störst påverkan på utbildningsnämndens verksamheter är Tid för undervisningsuppdraget, Förbättrad elevhälsa, Förbättrat stöd, Likvärdigt betygssystem samt Likvärdig förskola i de fall de genomförs. Kommande utredningar som har en påverkan på u",
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "de kommande lagförslagen är finansieringen inte tillräcklig. De utredningar och lagförslag som kommer ha störst påverkan på utbildningsnämndens verksamheter är Tid för undervisningsuppdraget, Förbättrad elevhälsa, Förbättrat stöd, Likvärdigt betygssystem samt Likvärdig förskola i de fall de genomförs. Kommande utredningar som har en påverkan på utb",
     "belopp_nara": false
    },
    {
     "sida": 212,
     "ord": "undervisningsuppdrag",
+    "reform": true,
     "utdrag": "det tar tid och kraft att rapportera till Skolverket men också förstå och prognostisera för att kunna genomföra en effektiv ekonomistyrning. Statsbidraget för undervisningsuppdraget kommer vara en del av de generella statsbidragen och beräknas att komma hösten 2027. Utvecklingen av AI Utvecklingen av AI innebär möjligheter men också utma",
     "belopp_nara": false
    },
    {
     "sida": 213,
-    "ord": "lärartäthet",
-    "utdrag": "örskollärare ökar. Forskningen visar att andelen utbildade förskollärare är en av de starkaste strukturella faktorerna för hög kvalitet i förskolan. När förskollärartätheten ökar förbättras förutsättningarna för undervisning, systematiskt kvalitetsar­ bete och barns utveckling. Satsningar på att öka förskollärartätheten är en av",
-    "belopp_nara": false
-   },
-   {
-    "sida": 216,
-    "ord": "lärartäthet",
-    "utdrag": "al som rör resul­ tat för gymnasieelever avser elever som bor i Ale oavsett vilken skola de går i. Övriga nyckeltal, samt beräkningar av kommande personal- och lärartäthet finns med som en bilaga till nulägesa­ nalysen. Förskola Att delta i undervisning i förskola bidrar till att skapa lika möjligheter för barn och elever. Inskri",
-    "belopp_nara": false
-   },
-   {
-    "sida": 217,
-    "ord": "lärartäthet",
-    "utdrag": "en för förskolan för att klara anpassningen med yt­ terligare minskat barnantal. Det minskade barnantalet och ökningen av budget innebar också en ökad förskol­ lärartäthet. Diagrammet nedan visar personaltäthet, förskollärartäthet och kostnad för förskola i Ale 2016–2024. Graferna visar att det finns en tydlig korrelation mellan",
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "dskola förväntas kompetensbehovet öka markant till följd av flera av de föreslagna lagändringarna de kommande åren, särskild på­ verkan kommer förslaget enligt Tid för undervisningsuppdraget. Förändringen föreslås genomföras redan till höstter­ minen 2027 (Prop. 2025/26:196). Se bilaga Utredningar och lagförslag, mars 2026 för mer detaljer om komma",
     "belopp_nara": false
    },
    {
     "sida": 226,
-    "ord": "undervisningsuppdrag",
-    "utdrag": "förslag beskrivas inom ramen för rubriken förbättringar. Den mest omfattande ekonomiskt är ett statligt initiativ, en proposition som behandlas i juni. Tid för undervisningsuppdraget (Prop. 2025/26:196) Förslagen på förändringarna i skollagen (2010:800) avseende tid till undervisningsuppdraget syftar till att skapa bättre förutsättningar",
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "e insatsförslag beskrivas inom ramen för rubriken förbättringar. Den mest omfattande ekonomiskt är ett statligt initiativ, en proposition som behandlas i juni. Tid för undervisningsuppdraget (Prop. 2025/26:196) Förslagen på förändringarna i skollagen (2010:800) avseende tid till undervisningsuppdraget syftar till att skapa bättre förutsättningar fö",
+    "belopp_nara": false
+   },
+   {
+    "sida": 227,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "a. Förslag på förbättringar i skolan Tid för utvecklingsarbete och professionellt lärande är avgörande för en förbättrad undervisning som möter alla elever. Då undervisningstiden kommer att minska i och med den nya statliga regleringen bör tiden för lärande kunna öka inom ramen för den angivna kostnaden för förändringen. Detta innebär",
+    "belopp_nara": false
+   },
+   {
+    "sida": 230,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "örslag som kommer ha en påverkan på utbildningsnämndens verksamheter Kommande lagförslag som kommer ha en påverkan på utbildningsnämndens versam­ heter Tid för undervisningsuppdraget Regeringen vill se ändringar i skollagen i syfte att skapa bättre förutsättningar för lärare och förskollärare att ut­ föra sitt undervisningsuppdrag och öka l",
+    "belopp_nara": false
+   },
+   {
+    "sida": 242,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "93%C2%A0Arbetsmarknadens%20AI-ra%CC%8Ad.pdf Göteborgsregionen. (2026). Nyckeltal personalhälsa 2025. Nyckeltal Personhälsa GR 2025 Helår.pdf Prop. 2025/26:196. Tid för undervisningsuppdraget. Tid för undervisningsuppdraget (Proposition 2025/26:196) | Sveriges riksdag SCB. Statistikdatabas. Statistikdatabasen - Välj tabell SFS 2011:326. Förordning (",
     "belopp_nara": false
    }
   ],
@@ -124,57 +131,63 @@
   "sidor": 194,
   "nämner_reformen": true,
   "ord": [
-   "lärartäthet",
-   "statsbidrag",
-   "undervisningstid"
+   "lärares undervisningstid"
   ],
   "belopp_nära_träff": false,
   "träffar": [
    {
-    "sida": 14,
-    "ord": "undervisningstid",
-    "utdrag": "initierat med anledning av att uppgifter har lämnats av huvudmannen till Skolinspektionen. Vidare har ett ärende rört tillsyn av om elever får den garanterade undervisningstid de har rätt till, med anledning av inkomna uppgifter. Ett ärende har avsett en skrivelse som överlämnats till huvudmannens klagomålshantering för vidare hanter",
+    "sida": 63,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "licerades utredningen om minskad administration och reglering av förskollärares och lärares tid. Utredningen gav flera förslag på minskad dokumentation och att lärares undervisningstid ska regleras nationellt. Utredningen har varit på remiss och det återstår att se vilka förslag som går vidare till beslut. (SOU 2025:26) 27 november 2025 - Utr",
     "belopp_nara": false
    },
    {
-    "sida": 63,
+    "sida": 104,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och beviljats Skapande skola-medel senaste åren. Nedan tabell visar hur det sett ut senaste åren: Skapande skola Beviljat statsbidrag Ale 2022 1 236 500 kr Läsår 2023/2024 1 016 050 kr Läsår 2024/2025 849",
+    "belopp_nara": true
+   },
+   {
+    "sida": 14,
     "ord": "undervisningstid",
-    "utdrag": "s utredningen om minskad administration och reglering av förskollärares och lärares tid. Utredningen gav flera förslag på minskad dokumentation och att lärares undervisningstid ska regleras nationellt. Utredningen har varit på remiss och det återstår att se vilka förslag som går vidare till beslut. (SOU 2025:26) 27 november 2025 - Utr",
+    "reform": false,
+    "utdrag": "initierat med anledning av att uppgifter har lämnats av huvudmannen till Skolinspektionen. Vidare har ett ärende rört tillsyn av om elever får den garanterade undervisningstid de har rätt till, med anledning av inkomna uppgifter. Ett ärende har avsett en skrivelse som överlämnats till huvudmannens klagomålshantering för vidare hanter",
     "belopp_nara": false
    },
    {
     "sida": 65,
     "ord": "lärartäthet",
+    "reform": false,
     "utdrag": "Inför kulturgaranti i Ales skolor Bibehållen lärartäthet i för- och grundskola Pröva tvålärarsystem på en årskurs i högstadi",
     "belopp_nara": false
    },
    {
     "sida": 69,
     "ord": "lärartäthet",
+    "reform": false,
     "utdrag": "nde Förvaltningen startar planering tillsammans med kommunledningsförvaltningen för att genomföra kulturevene­ mang för eleverna under hösten 2026. Bibehållen lärartäthet i för- och grundskola Beskrivning Utbildningsförvaltningen upplever ökade kostnader under 2025 och ser en rad utmaningar inför 2026. En ramtilldelning säkers",
     "belopp_nara": false
    },
    {
     "sida": 80,
     "ord": "lärartäthet",
+    "reform": false,
     "utdrag": "• Satsning på elevhälsoteam (Skolsociala team enligt ändring) för minskad skolfrånvaro (engångsmedel) • Kulturgaranti • Bibehålla lärartäthet inom grundskola • Bibehålla personaltäthet inom förskola Till år 2026 minskar de sociala avgifterna för personalkostnader från 42,00 procent till 40",
     "belopp_nara": false
    },
    {
     "sida": 81,
     "ord": "lärartäthet",
+    "reform": false,
     "utdrag": "ch sålda. Det beror på indexuppräkning av priserna för köpta och sålda platser. Grundskola, förskoleklass och fritidshem Medel har tilldelats för att bibehålla lärartätheten inom grundskolan. Den ligger för hösten 2025 på cirka 13 ele­ ver per lärare i grundbemanning vilket är ungefär samma nivå som genomsnittet för kommungruppen",
     "belopp_nara": false
    },
    {
-    "sida": 104,
-    "ord": "statsbidrag",
-    "utdrag": "och beviljats Skapande skola-medel senaste åren. Nedan tabell visar hur det sett ut senaste åren: Skapande skola Beviljat statsbidrag Ale 2022 1 236 500 kr Läsår 2023/2024 1 016 050 kr Läsår 2024/2025 849",
-    "belopp_nara": true
-   },
-   {
     "sida": 92,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "l arrangemang har genomförts. Skapande skola, som är finansierad med statliga medel, har dock genomförts de senaste åren och pågår. Statsbidraget är avsett för projekt som ökar elevernas möjligheter till att 3 Ale kommun Organisationsnummer Telefon E-post",
     "belopp_nara": false
    }

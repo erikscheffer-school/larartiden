@@ -9,14 +9,13 @@
   "budget2027": false,
   "sidor": 185,
   "nämner_reformen": false,
-  "ord": [
-   "statsbidrag"
-  ],
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 155,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "söka utbildning inom hela samverkansområdet. Den föreslagna revideringen ersätter nuvarande modell med en ersättningsprincip baserad på Skolverkets fastställda statsbidragsnivåer. Förändringen bedöms skapa ökad förutsägbarhet, bättre ekonomisk stabilitet och mer ändamålsenliga planeringsförutsättningar för kommunerna. Beskrivnin",
     "belopp_nara": false
    }
@@ -47,48 +46,50 @@
   "sökning": 1,
   "budget2027": false,
   "sidor": 271,
-  "nämner_reformen": true,
-  "ord": [
-   "planeringstid",
-   "statsbidrag",
-   "undervisningstid"
-  ],
+  "nämner_reformen": false,
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 104,
     "ord": "planeringstid",
+    "reform": false,
     "utdrag": "a nivåer med KR, Målplaner, Verksamhetsplan och Årsplaner för SAM-arbetet. - Gemensam Rutinpärm och avtal som rör planeringsdagar, tillämpning, planeringstid, osv. - Utvecklingsgrupper för områden som stödjer samråd för arbetsmiljö och utbildning. - Pedagogiskt forum för pedagogiska frågor och hållbarh",
     "belopp_nara": false
    },
    {
     "sida": 171,
     "ord": "planeringstid",
+    "reform": false,
     "utdrag": "nde särbehandling. Att skapa bra förutsättningar för förskollärare att kunna ta ansvar för undervisningen är också viktigt. Avesta kommun har en rekommenderad planeringstid för förskollärare, barnskötare och arbetslagen som rektor utgår ifrån. Rektor ger arbetslagen friheten att själva planera in tiden utifrån det givna arbetstids",
     "belopp_nara": false
    },
    {
     "sida": 175,
     "ord": "planeringstid",
+    "reform": false,
     "utdrag": "riskvårdsaktören Epassi, för att veta mer gå in på: Personalförmåner som boostar din vardag | Epassi • Vi följer de avtal gällande riktlinjer för planeringstider som Avesta Kommun har, se planeringsavtal för Avesta kommun. Arbetslaget anger och planerar själva in när planeringstiderna för arbetslaget och eden",
-    "belopp_nara": false
-   },
-   {
-    "sida": 254,
-    "ord": "undervisningstid",
-    "utdrag": "fierade behov. Vi strävar efter att fördela arbetsuppgifterna så att ingen behöver utsättas för hög stressbelastning och har tagit fram ett tak för exempelvis undervisningstid. Vi arbetar strategiskt men den organisatoriska och sociala arbetsmiljön och har som mål att den återkommande medarbetarundersökningen ska visa förbättringar.",
     "belopp_nara": false
    },
    {
     "sida": 225,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "ar det riktiga arbetet ute i verksamheterna utifrån Vägledande Samspel. Den insats som genomfördes 2024–2025, Språk-, läs-, skriv, och matematikutveckling med statsbidrag från Skolverket var mycket uppskattad av pedagogerna. Vi ser att denna utbildning bidrog till stor kompetensutveckling inom området. Det handlar om kvalitetssä",
     "belopp_nara": false
    },
    {
     "sida": 232,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "• Kollegialt lärande/innehåll och genomförande • Olika fortbildningsinsatser utifrån behov och intresse • Lednings deltagande i barngrupp • Statsbidrag för inköp barnlitteratur • Utveckla språk och matematik i förskolan (Skolverket) • Bokombudsträffar 13. SAMMANFATTNING AV IDENTIFIERADE UTVECKLINGS",
+    "belopp_nara": false
+   },
+   {
+    "sida": 254,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "fierade behov. Vi strävar efter att fördela arbetsuppgifterna så att ingen behöver utsättas för hög stressbelastning och har tagit fram ett tak för exempelvis undervisningstid. Vi arbetar strategiskt men den organisatoriska och sociala arbetsmiljön och har som mål att den återkommande medarbetarundersökningen ska visa förbättringar.",
     "belopp_nara": false
    }
   ],

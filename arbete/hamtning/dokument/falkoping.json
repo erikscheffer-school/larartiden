@@ -23,15 +23,14 @@
   "sökning": 1,
   "budget2027": false,
   "sidor": 204,
-  "nämner_reformen": true,
-  "ord": [
-   "undervisningstid"
-  ],
+  "nämner_reformen": false,
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 115,
     "ord": "undervisningstid",
+    "reform": false,
     "utdrag": "mhet snarare än att nya föreningar tillkommit. Odenbadet Skolverksamheten på Odenbadet bedrivs årligen under perioden 1 september till 1 juni. Bokad tid avser undervisningstid i 25- metersbassängen, undervisningsbassängen och varmvattenbassängen, måndag till fredag mellan 08.30 och 15.30 under säsongen.",
     "belopp_nara": false
    }
@@ -49,45 +48,49 @@
   "sidor": 146,
   "nämner_reformen": true,
   "ord": [
-   "statsbidrag",
-   "undervisningstid",
-   "undervisningsuppdrag"
+   "tid för undervisningsuppdraget"
   ],
   "belopp_nära_träff": false,
   "träffar": [
    {
-    "sida": 47,
-    "ord": "undervisningstid",
-    "utdrag": "utökat program och beviljar enskild elev sådan utökning tar på sig samtliga kostnader för utökningen av programmet till exempel för utökad garanterad rätt till undervisningstid. Reducerat program Hemkommunen ersätter anordnarkommunen för det pris som gäller för det program där en elev antas, även om eleven följer ett reducerat progr",
+    "sida": 73,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "d: Bättre förutsättningar för trygghet och studiero i skolan, Förbättrat stöd i Skolan, Nya läroplaner – för en stark kunskapsskola Ett likvärdigt betygsystem, Tid för undervisningsuppdraget, Legitimation och behörighet i den tioåriga grundskolan, Utökade registerkontroller inom skolväsendet, Ökad insyn i fristående skolor, Överlämnande av uppgifte",
     "belopp_nara": false
    },
    {
-    "sida": 73,
-    "ord": "undervisningsuppdrag",
-    "utdrag": "e förutsättningar för trygghet och studiero i skolan, Förbättrat stöd i Skolan, Nya läroplaner – för en stark kunskapsskola Ett likvärdigt betygsystem, Tid för undervisningsuppdraget, Legitimation och behörighet i den tioåriga grundskolan, Utökade registerkontroller inom skolväsendet, Ökad insyn i fristående skolor, Överlämnande av uppgif",
+    "sida": 47,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "utökat program och beviljar enskild elev sådan utökning tar på sig samtliga kostnader för utökningen av programmet till exempel för utökad garanterad rätt till undervisningstid. Reducerat program Hemkommunen ersätter anordnarkommunen för det pris som gäller för det program där en elev antas, även om eleven följer ett reducerat progr",
     "belopp_nara": false
    },
    {
     "sida": 58,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "................................. 4 4.1 Dimensionering i förhållande till gymnasieskolan ...................................................... 4 4.2 Statsbidragsfinansierade yrkesutbildningar ............................................................... 5 Yrkesbyrån ...........................................",
     "belopp_nara": false
    },
    {
     "sida": 59,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "nadens behov i enlighet med reglering i Skollagen 2 kapitlet 2a§ och 2b, och 20 kapitlet samt i förordningarna (2011:1108) om vuxenutbildning och (2016:937) om statsbidrag för regionalt yrkesinriktad vuxenutbildning. Avtalet ska leda till att kommunala resurser optimeras både ur ett ekonomiskt och ett kvalitativt perspektiv blan",
     "belopp_nara": false
    },
    {
     "sida": 64,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "m nya nationella beslut förändrar statsbidragen. Ledningsgruppen har inte någon ersättning från Yrkesbyrån. Arbetsgruppens tjänster finansieras inom ramen för statsbidragen för regionalt yrkesvux. ANSÖKNINGSFÖRFARANDE Yrkesbyrån hanterar ansökan inom de fyra utbildningsformer och de tolv yrkesområden som Skolverket har fastslår",
     "belopp_nara": false
    },
    {
     "sida": 65,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "medfinansiering som krävs av kommunerna enligt lag och förordning. Skövde kommun har, för alla 15 kommuners räkning, ansvar för budget och ekonomi kopplad till statsbidraget för regionalt yrkesvux. Statsbidragsfinansierad verksamhet har ett balanskonto hos Skövde kommun för att: • hantera differenser som uppkommer i samban",
     "belopp_nara": false
    }
@@ -180,26 +183,28 @@
   "sidor": 37,
   "nämner_reformen": true,
   "ord": [
-   "statsbidrag",
-   "undervisningsuppdrag"
+   "tid för undervisningsuppdraget"
   ],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 33,
-    "ord": "undervisningsuppdrag",
-    "utdrag": "gghet och studiero i skolan  Förbättrat stöd i skolan  Nya läroplaner – för en stark kunskapsskola  Ett likvärdigt betygsystem  Tid för undervisningsuppdraget  Legitimation och behörighet i den tioåriga grundskolan  Utökade registerkontroller inom skolväsendet  Ökad insyn i fristående skolor ",
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "för trygghet och studiero i skolan  Förbättrat stöd i skolan  Nya läroplaner – för en stark kunskapsskola  Ett likvärdigt betygsystem  Tid för undervisningsuppdraget  Legitimation och behörighet i den tioåriga grundskolan  Utökade registerkontroller inom skolväsendet  Ökad insyn i fristående skolor ",
     "belopp_nara": false
    },
    {
     "sida": 5,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "etavvikelse om 5,8 miljoner kronor och helårsprognosen är ett resultat i balans. Bakom den samlade prognosen finns dock betydande motverkande avvikelser. Högre statsbidrag och lägre kapitalkostnader till följd av förändrade avskrivningstider väger upp underskott inom framför allt förskolan och interkommunala ersättningar (IKE). F",
     "belopp_nara": true
    },
    {
     "sida": 31,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "nser för nämnden utifrån att genomförandet ingår i huvuduppdraget. Delar av de förutsättningar som förnyas med ny lagstiftning för skolbibliotek finansieras av statsbidrag. Beslutsunderlag  Tjänsteutlåtande från barn- och utbildningsförvaltningen, 2026-08-17  Delegationsbeslut om remiss om biblioteksplan för åren 202",
     "belopp_nara": false
    }

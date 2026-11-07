@@ -69,20 +69,20 @@
   "budget2027": false,
   "sidor": 110,
   "nämner_reformen": false,
-  "ord": [
-   "statsbidrag"
-  ],
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 101,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "nkomstindex för 2014 minus 10 000 kronor.2 För att kompensera Borås Stad för den minskade avgiftsintäkten från vårdnadshavarna kommer statsbidraget för maxtaxa att höjas. Översyn av Borås Stads Taxa för förskola, fritidshem och annan pedagogisk omsorg Med utgångspu",
     "belopp_nara": true
    },
    {
     "sida": 109,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "Delegationsbeslut tillförordnad rektor per mars 2026. Delegationsbeslut från rektor per mars 2026. Ekonomi. Beslut om statsbidrag per mars 2026. Övriga delegationsbeslut. Förvaltningschefens beslut per mars 2026. Beslut om tilläggsbelopp.",
     "belopp_nara": false
    }
@@ -173,58 +173,63 @@
   "sökning": 1,
   "budget2027": true,
   "sidor": 746,
-  "nämner_reformen": true,
-  "ord": [
-   "statsbidrag",
-   "undervisningstid"
-  ],
+  "nämner_reformen": false,
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
-    "sida": 446,
-    "ord": "undervisningstid",
-    "utdrag": "rskurs, • antal timmar giltig frånvaro, HT/VT, • antal timmar ogiltig frånvaro, HT/VT, och • antal timmar erbjuden undervisningstid, HT/VT. 88 Skolverket (2021). Utredning om ett nationellt frånvaroregister. Dnr 2021:1738. 89",
-    "belopp_nara": false
-   },
-   {
     "sida": 117,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "rag till skolsociala team Utredningen föreslår att utvecklingskostnaderna för frånvaroregistret ska finansieras genom en minskning av statsbidraget för skolsociala team. Statsbidraget uppgår 2025 till totalt 300 mnkr, varav hälften avser kostnader för skolpersonal och hälften pe",
     "belopp_nara": true
    },
    {
     "sida": 645,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "atsbidraget syftar till att stödja kommunerna för kostnader för skol- personal och personal från socialtjänsten.62 Regeringen har aviserat om en förlängning av statsbidraget. Beräknat anslag för 2026 och 2027 uppgår till totalt 300 miljoner kronor per år och fördelas lika mellan utgiftsområde 9 och 16. Det för att socialtjänst oc",
     "belopp_nara": true
    },
    {
     "sida": 118,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "motsvarar Skolverkets beslutade medel, blir den totala minskningen för kommunerna dubbelt så stor. Detta innebär att neddragningen av statsbidragen blir väsentligt större än vad som redovisas som finansiering av utvecklingskostnaderna för registret. Argumenten för a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 446,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "rskurs, • antal timmar giltig frånvaro, HT/VT, • antal timmar ogiltig frånvaro, HT/VT, och • antal timmar erbjuden undervisningstid, HT/VT. 88 Skolverket (2021). Utredning om ett nationellt frånvaroregister. Dnr 2021:1738. 89",
     "belopp_nara": false
    },
    {
     "sida": 474,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "att rapportera frånvaro- och närvarouppgifter till Skolverket enligt skollagen. Vidare kan regeringen framöver välja att rikta statsbidrag till huvud- män som syftar till att uppnå ökad närvaro och som därvid grundar sig på data från frånvaroregistret.",
     "belopp_nara": false
    },
    {
     "sida": 494,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "d i form av extra medel för att vidta sådana insatser eller åt- gärder som kan främja skolnärvaro. Det kan innebära någon form av statsbidrag som särskilt riktas mot att främja hög skolnärvaro och motverka hög skolfrånvaro. Om en huvudman eller enhet för ut- bildningsver",
     "belopp_nara": false
    },
    {
     "sida": 646,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "huvudman, se tabell 13.3.65 Tabell 13.3 Konsekvenser för kommunala huvudmän med skolsociala team Statsbidrag Mottagande Genomsnittligt (miljoner kr) huvudmän bidrag (tusen kr) Ut",
     "belopp_nara": false
    },
    {
     "sida": 690,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "främja närvaro i sådan verksamhet. Registret syftar även till att utgöra ett underlag i de fall Skolverket ska besluta om och betala ut statsbidrag för åtgärder som främjar skolnärvaro.1 Vidare syftar registret till att tillhandahålla uppgifter till Skolinspek- tionen för att kunna",
     "belopp_nara": false
    }
@@ -265,7 +270,8 @@
     "sida": 1,
     "ord": "undervisningstid",
     "utdrag": "de förändringar som vi behöver förbereda skolan för. Den reform som kommer närmast gäller redan från höstterminen 2027. Det är en reform som handlar om lärares undervisningstid. Bakgrunden till reformen är att lärares arbetsbörda över tid har ökat och med denna reform kommer lärare att få bättre förutsättningar att genomföra undervisn",
-    "belopp_nara": false
+    "belopp_nara": false,
+    "reform": true
    }
   ],
   "antal_träffar": 1

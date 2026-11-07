@@ -10,21 +10,22 @@
   "sidor": 286,
   "nämner_reformen": true,
   "ord": [
-   "planeringstid",
-   "undervisningstid"
+   "reglerad undervisnings- och planeringstid"
   ],
   "belopp_nära_träff": false,
   "träffar": [
    {
-    "sida": 4,
-    "ord": "undervisningstid",
-    "utdrag": "nde struktur innebär att barnen tvingas till tidskrävande busstransporter till Högsäter för gymnastik och slöjd, vilket splittrar skoldagen och stjäl värdefull undervisningstid. Sedan 2020 är Barnkonventionen svensk lag, vilket ställer höga krav på att vi som beslutsfattare ser till barnets bästa och säkrar en likvärdig skolgång. Sve",
+    "sida": 110,
+    "ord": "reglerad undervisnings- och planeringstid",
+    "reform": true,
+    "utdrag": "kommer fortsatt att vara ett centralt verktyg för budgetbalans. Nationella reformer 2025–2028, bland annat nya läroplaner, nytt betygssystem, mobilförbud och reglerad undervisnings- och planeringstid, kan medföra ökade resursbehov. Sida 110 av 285",
     "belopp_nara": false
    },
    {
-    "sida": 110,
-    "ord": "planeringstid",
-    "utdrag": "t centralt verktyg för budgetbalans. Nationella reformer 2025–2028, bland annat nya läroplaner, nytt betygssystem, mobilförbud och reglerad undervisnings- och planeringstid, kan medföra ökade resursbehov. Sida 110 av 285",
+    "sida": 4,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "nde struktur innebär att barnen tvingas till tidskrävande busstransporter till Högsäter för gymnastik och slöjd, vilket splittrar skoldagen och stjäl värdefull undervisningstid. Sedan 2020 är Barnkonventionen svensk lag, vilket ställer höga krav på att vi som beslutsfattare ser till barnets bästa och säkrar en likvärdig skolgång. Sve",
     "belopp_nara": false
    }
   ],
@@ -55,14 +56,13 @@
   "budget2027": true,
   "sidor": 103,
   "nämner_reformen": false,
-  "ord": [
-   "statsbidrag"
-  ],
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 72,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "Dalsland pågår med fokus på tidigt samordnade insatser över huvudmannagränser. Ekonomisk tilldelning Förskoleverksamhetens intäkter för taxor, statsbidrag, momsbidrag och verksamhetsförsäljning uppgår till 6 440 tkr för 2026. Intäktsnivån beräknas öka med 798 tkr i budget. Den tilldelade budgetramen fö",
     "belopp_nara": true
    }

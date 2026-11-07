@@ -9,20 +9,20 @@
   "budget2027": false,
   "sidor": 42,
   "nämner_reformen": false,
-  "ord": [
-   "statsbidrag"
-  ],
+  "ord": [],
   "belopp_nära_träff": false,
   "träffar": [
    {
     "sida": 13,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "r dels skett inom ramen för samarbetet mellan förvaltningarna i referensgrupp arbetsmarknad, utbildning, stöd, vård och omsorg (ASO), dels inom ramen för olika statsbidrag där förvaltningarna genomfört initiativ som dans för hälsa och COPE-utbildningar till föräldrar med barn på kommunala förskolor. 2.3.3 Självständighe",
     "belopp_nara": false
    },
    {
     "sida": 22,
     "ord": "statsbidrag",
+    "reform": false,
     "utdrag": "fokuserat på att göra fritidsaktiviteter mer tillgängliga, och samarbeten mellan olika förvaltningar syftar till att stärka den psykiska hälsan hos unga genom statsbidrag för förebyggande och främjande insatser. Kostnadsfri utlåning av utrustning via Fritidsbanken, simskolor för alla skolor, allmänhetens åkning, fritidsgårdarna",
     "belopp_nara": false
    }
