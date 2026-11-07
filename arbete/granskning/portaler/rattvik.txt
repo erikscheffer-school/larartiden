@@ -1,0 +1,188 @@
+Kommun: Rättvik  nyckel: politik
+Portalen hittades via https://www.rattvik.se/: https://www.rattvik.se/kommun-och-politik/kontakta-oss.html (Kontakta)
+
+######## SIDA: https://www.rattvik.se/kommun-och-politik/kontakta-oss.html
+Titel: Kontakta oss - Rättviks kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.rattvik.se/kommun-och-politik/kontakta-oss.html
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/7a06142a-a444-4b1c-9d98-68bd1ce8dad5/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html#hopptillinnehall | Gå till innehåll | Gå till innehåll
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html# | Lyssna | • Lyssna
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | • Translate
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Sök politiker Kommunfakta Kommunens organisation Politik och demokrati Diarium, arkiv och sekretess Ö
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss Besöksadresser Felanmälan Kommunkontor Barn- och utbildningsförvaltningen Samhällsutvecklings- förvaltninge
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/besoksadresser.html | Besöksadresser | Besöksadresser
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/felanmalan.html | Felanmälan | Felanmälan
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/kommunkontor.html | Kommunkontor | Kommunkontor
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/barn--och-utbildningsforvaltningen.html | Barn- och utbildningsförvaltningen | Barn- och utbildningsförvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/samhallsutvecklings--forvaltningen.html | Samhällsutvecklings- förvaltningen | Samhällsutvecklings- förvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/socialforvaltningen.html | Socialförvaltningen | Socialförvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/miljo--och-bygg.html | Miljö- och bygg | Miljö- och bygg
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/naringsliv.html | Näringsliv | Näringsliv
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/trafik-ungdoms--och-fritidsenheten.html | Trafik, ungdoms- och fritidsenheten | Trafik, ungdoms- och fritidsenheten
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/raddningstjanst.html | Räddningstjänst | Räddningstjänst
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/rattvik-kultur.html | Rättvik kultur | Rättvik kultur
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/dala-vatten-och-avfall-ab.html | Dala Vatten och Avfall AB | Dala Vatten och Avfall AB
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/rattviks-fastigheter-ab.html | Rättviks Fastigheter AB | Rättviks Fastigheter AB
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/fjarrvarme.html | Fjärrvärme | Fjärrvärme
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/ame---ta-till-vara.html | AME – Ta Till Vara | AME – Ta Till Vara
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/samhallsinformation.html | Samhällsinformation | Samhällsinformation
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/visselblasarfunktion.html | Visselblåsarfunktion | Visselblåsarfunktion
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/hjalp-att-ringa.html | Hjälp att ringa | Hjälp att ringa
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | Translate
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss Besöksadresser Felanmälan Kommunkontor Barn- och utbildningsförvaltningen Samhällsutvecklings- förvaltninge
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/besoksadresser.html | Besöksadresser | Besöksadresser
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/felanmalan.html | Felanmälan | Felanmälan
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/kommunkontor.html | Kommunkontor | Kommunkontor
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/barn--och-utbildningsforvaltningen.html | Barn- och utbildningsförvaltningen | Barn- och utbildningsförvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/samhallsutvecklings--forvaltningen.html | Samhällsutvecklings- förvaltningen | Samhällsutvecklings- förvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/socialforvaltningen.html | Socialförvaltningen | Socialförvaltningen
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/miljo--och-bygg.html | Miljö- och bygg | Miljö- och bygg
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/naringsliv.html | Näringsliv | Näringsliv
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/trafik-ungdoms--och-fritidsenheten.html | Trafik, ungdoms- och fritidsenheten | Trafik, ungdoms- och fritidsenheten
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/raddningstjanst.html | Räddningstjänst | Räddningstjänst
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/rattvik-kultur.html | Rättvik kultur | Rättvik kultur
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/dala-vatten-och-avfall-ab.html | Dala Vatten och Avfall AB | Dala Vatten och Avfall AB
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/rattviks-fastigheter-ab.html | Rättviks Fastigheter AB | Rättviks Fastigheter AB
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/fjarrvarme.html | Fjärrvärme | Fjärrvärme
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/ame---ta-till-vara.html | AME – Ta Till Vara | AME – Ta Till Vara
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/samhallsinformation.html | Samhällsinformation | Samhällsinformation
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/visselblasarfunktion.html | Visselblåsarfunktion | Visselblåsarfunktion
+https://www.rattvik.se/kommun-och-politik/kontakta-oss/hjalp-att-ringa.html | Hjälp att ringa | Hjälp att ringa
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12789&lang=sv_se&readid=svid94_6320c8dd141c1e9bf5bfaf&voice=Maja | Lyssna | Lyssna
+tel:0248-70000 | 0248-70 000 | Telefon, växel: 0248-70 000 kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Telefon, växel: 0248-70 000 kommun@rattvik.se
+mailto:katharina.mansfeld@rattvik.se | Katharina Mansfeld | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70150 | 0248-70 150 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70000 | 0248-70 000 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:anki.pellgard@rattvik.se | Anki Pellgård | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70110 | 0248-70 110 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:birgitta.svensson@rattvik.se | Birgitta Svensson | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70124 | 0248-70 124 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:carl-johan.Uhlin@rattvik.se | Carl-Johan Uhlin | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70125 | 0248-70 125 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:jessica.johansen@rattvik.se | Jessica Johansen | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70180 | 0248-70 180 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70990 | 0248-70 990 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70980 | 0248-70 980 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70266 | 0248-70 266 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:barn.utbildning@rattvik.se | barn.utbildning@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70202 | 0248-70 202 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70195 | 0248-70 195 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70000 | 0248-70 000 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:gata.trafik@rattvik.se | gata.trafik@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:mark.plan@rattvik.se | mark.plan@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:miljo.bygg@rattvik.se | miljo.bygg@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:kultur@rattvik.se | kultur@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:bibliotek@rattvik.se | bibliotek@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:fritid@rattvik.se | fritid@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:naringsliv@rattvik.se | naringsliv@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70220 | 0248-70 220 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:sociala@rattvik.se | sociala@rattvik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70170 | 0248-70 170 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0248-70020 | 0248-70 020 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0250-26350 | 0250-26 350 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:010-2481160 | 010-248 11 60 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+mailto:fardtjanst@dalatrafik.se | fardtjanst@dalatrafik.se | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+tel:0774-440000 | 0774-44 00 00 | Kommunledningskontor Kommundirektör Katharina Mansfeld 0248-70 150 Stab- och serviceförvaltning Växel 0248-70 000 Förval
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/synpunkter-och-klagomal.html | Synpunkter och klagomål på kommunens verksamheter | Information Synpunkter och klagomål på kommunens verksamheter
+http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fkontakta-oss.html | Dela på Facebook | Dela på Facebook
+http://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fkontakta-oss.html%20(via%20R%C3%A4ttvik) | Dela på Twitter | Dela på Twitter
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fkontakta-oss.html | Dela på LinkedIn | Dela på LinkedIn
+mailto:?body=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fkontakta-oss.html%20(via%20R%C3%A4ttvik)&subject=Kontakta%20oss | Dela via email | Dela via email
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html.printable | Skriv ut | Skriv ut
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+https://www.rattvik.se/informationslankar/a-o-lista.html | A–Ö-lista › | A–Ö-lista ›
+https://www.rattvik.se/informationslankar/om-cookies.html | Om cookies › | Om cookies ›
+https://www.rattvik.se/informationslankar/tillganglighetsredogorelse.html | Tillgänglighetsredogörelse › | Tillgänglighetsredogörelse ›
+https://www.rattvik.se/informationslankar/webbkarta.html | Webbkarta › | Webbkarta ›
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/lyssna-med-readspeaker.html | Lyssna med ReadSpeaker › | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://get.teamviewer.com/6q6yh2x | Teamviewer
+Länk till annan webbplats, öppnas i nytt fönster. | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://www.rattvik.se/login/ad.html |  | 
+https://portal.office.com/ |  | 
+https://www.facebook.com/pages/R%C3%A4ttviks-kommun/184653194905620 |  | 
+https://www.instagram.com/rattvikskommun/ |  | 
+https://www.linkedin.com/company/rattvikskommun/ |  | 
+
+## Knappar
+Sök
+Lyssna
+Meny
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+webReaders meny
+Lyssna
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;" data-rsevent-id="rs_17298"> <div style="" id="svid10_211ac4b4171ac43d048c5b64" class="sv-layout"><div class="sv-custom-module sv-fontAwesomeFree sv-skip-spacer sv-template-portlet " id="svid12_51b0454817a75e596eacb8da"><div id="FontAwesomeFree"><!-- Font Awesome Free --></div><div data-cid="f20e5ed7-f039-4d14-2bf0-dabf87cfbb91"><!-- Font Awesome Free for SiteVision Version: 5.15.3 App: fontAwesomeFree --></div><script nonce="">AppRegistry.registerBootstrapData('12.51b0454817a75e596eacb8da','f20e5ed7-f039-4d14-2bf0-dabf87cfbb91','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.51b0454817a75e596eacb8da',{"appVersion":"5.15.3","appIdentifier":"fontAwesomeFree","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'fontAwesomeFree|5.15.3',htmlElementId:'svid12_51b0454817a75e596eacb8da',route:'/',portletId:'12.51b0454817a75e596eacb8da',locale:'sv-SE',defaultLocale:'en',webAppId:'fontAwesomeFree',webAppVersion:'5.15.3',webAppAopId:'360.51b0454817a75e596eacb8bf',webAppImportTime:'1627457767627',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-vertical sv-layout sv-template-layout" style="background-color:#f7f7f7;min-height: 100vh; " id="svid10_211ac4b4171ac43d048c5b69"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_211ac4b4171ac43d048c5b76"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6ef1593017cdf8d194bbca7"><div id="Gatillinnehallet"><!-- Gå till innehållet --></div><a href="#hopptillinnehall" class="env-assistive-text env-assistive-text--focusable"> Gå till innehåll </a></div> <div class="sv-fluid-grid sv-grid-grid12 sv-layout ribbon-header sv-template-layout" style="background-color:#ffffff;padding-bottom:1em" id="svid10_211ac4b4171ac43d048c5b77"><div class="sv-row sv-layout sv-hide-sv-bp-telefon sv-skip-spacer sv-template-layout" style="padding-top:0.6em" id="svid10_211ac4b4171ac43d048c5b7a"><div class="sv-layout sv-skip-spacer sv-column-5 sv-template-layout" style="padding-left:5.8em" id="svid10_211ac4b4171ac43d048c5b7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4a3aa69717229d52a7f73244"><div class="sv-image-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b7e"><div id="LoggaHeaderdesktop"><!-- Logga - Header desktop --></div><a href="/"><img alt="Rättviks kommun" class="sv-noborder sv-svg" style="max-width:276px;max-height:100px" width="276" height="100" src="/images/18.18b60de17368fa286f699c4/1595930241016/Kommunloggan.svg"></a></div> </div> </div> <div class="sv-layout sv-column-7 sv-template-layout" id="svid10_211ac4b4171ac43d048ce8b7"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" style="margin-left:1em;position:relative;float:right" id="svid10_3f4cab7171ac54930aee92f"><div class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" style="padding-right:2em" id="svid10_211ac4b4171ac43d048c5b82"><div class="sv-jcrmenu-portlet sv-portlet sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b87"><div id="Toppmeny"><!-- Toppmeny --></div> <ul style="display:inline; padding-left:0; margin-left:0; list-style:none" class="topmenu"> <li class="sv-inline"><a href="/kommun-och-politik/kontakta-oss.html" class="toppmeny" style="vertical-align:middle; margin-left:0.15em">Kontakta</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a id="show-readspeaker" class="toppmeny" href="#" style="vertical-align:middle; margin-left:0.15em">Lyssna</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a href="/sidor-utanfor-meny-och-sok/translate.html" class="toppmeny" style="vertical-align:middle;

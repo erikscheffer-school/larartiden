@@ -1,0 +1,6 @@
+Kommun: Gävle  nyckel: meetingsplus
+Portalen hittades via https://www.gavle.se/tyck-till-och-paverka-gavle/kommunal-anslagstavla/: https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden/mote-2026-10-20/protocol/protokoll-kfn-2026-10-20pdf?downloadMode=open (Mer information)
+FEL: Error: Page.goto: Download is starting
+Call log:
+  - navigating to "https://meetingsplus.gavle.se/committees/kultur-och-fritidsnamnden/mote-2026-10-20/protocol/protokoll-kfn-2026-10-20pdf?downloadMode=open", waiting until "networkidle"
+

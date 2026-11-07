@@ -1,0 +1,17 @@
+Kommun: Gällivare  nyckel: ciceron
+Portalen hittades via https://www.gallivare.se/: https://gallivare-anslagstavla.ciceron.cloud/#!/billboard/ (Kommunens anslagstavla
+ (Öppnas i nytt fönster))
+
+######## SIDA: https://gallivare-anslagstavla.ciceron.cloud/#!/billboard/
+Titel: 
+
+## Dataanrop
+GET 403 document text/plain https://gallivare-anslagstavla.ciceron.cloud/
+      Forbidden
+
+## Länkar (href | text | sammanhang)
+
+## Knappar
+
+## HTML (början av body)
+<body><pre style="word-wrap: break-word; white-space: pre-wrap;">Forbidden</pre></body></html>
