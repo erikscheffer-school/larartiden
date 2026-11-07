@@ -89,5 +89,87 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/ekonomi/budget-och-verksamhetsplan/varbudget-2024.pdf",
+  "titel": "Vårbudget 2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c57772ad435e48f404ef356ff923f0585e98d07617a07c32ab799a0ffd4cb894",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 75,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 60,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skolan (fortbildning med möjlighet till medfi- • Ny nationell digitaliseringsstrategi och digitala nansiering via statsbidrag) nationella prov Den 1 juli 2021 upphörde undantaget från kravet på Und",
+    "belopp_nara": false
+   },
+   {
+    "sida": 61,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "61 • 10-årig grundskola (fortbildning med möjlighet • Nya timplaner HT 2024 till medfinansiering via statsbidrag) Förslagen till nya timplaner ska lösa problemet med att vis- Riksdagen har gett regeringen i",
+    "belopp_nara": false
+   },
+   {
+    "sida": 63,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mellan skola och socialtjänst och inrättande av sociala team kan vara ett sätt att organisera arbetet som passar i vissa kommuner. Genom att få ta del av detta statsbidrag skulle det ges möjlighet till att delfinansiera en projekttjänst som kan samordna arbetet kring tidiga och förebyggande insatser för barn och unga i riskzon.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunfullmaktige/kallelse/kommunfullmaktiges-sammantrade-2026-11-12.pdf",
+  "titel": "Kommunfullmäktiges sammanträde 2026-11-12.pdf89 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0bc38c5b5c6069ce34abe4e87229ff8cd0349cb0462a381d830ae4976896ba42",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsen/protokoll/2026/ks261028--125-137.pdf",
+  "titel": "Ks261028 §§ 125-137.pdf4203 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8e3f7c7d6f6d5d37d987396282c32e9a8d963269fd343da0362ee650a4b4d2f1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-tekniska-utskott/2026/tu261013--40-46.pdf",
+  "titel": "Tu261013 §§ 40-46.pdf1605 kbÖppnas i nytt fönster",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dcad87c5eb7bbc5107bc75b25c89e7deb4cb7063c70682c0b9053fbf4c60bb78",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

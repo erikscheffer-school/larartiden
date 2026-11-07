@@ -73,5 +73,51 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://sandviken.se/download/18.3bc688f41a12f52eaae596/1791895792910/2026-10-20%20KUN%20kallelse.pdf",
+  "titel": "2026-10-20 KUN kallelse.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c93fd1d3ab7f9d988bcc51b2463f0e6d3b8f0db8ce252d011809fdb9b809c3fe",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sandviken.se/download/18.a5c7c8719c47946c542027/1771396937576/Kunskapsn%C3%A4mnden%202026-02-17%20(2026-02-17%20%20%C2%A749)%20Direktjusterad%20paragraf.pdf",
+  "titel": "Kunskapsnämnden 2026-02-17 (2026-02-17 §49) Direktjusterad paragraf.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "809e84a8d28e60e1bf895f29d7a74204fc4edcd74868a51c37824cb632107fc2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://sandviken.se/download/18.6ebf618c19dd772ff902b85/1779100958686/2026-05-13%20ON%20direktjusterat%20protokoll%20%C2%A7%2017.pdf",
+  "titel": "2026-05-13 ON direktjusterat protokoll § 17.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd15aeb4ff81d6af27f3285dd2b1159dec09e84c48c2e1082db8531bd6d29624",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -103,5 +103,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2023/12/Kommunplan-2024-2026.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7915c6222e8f708d30018e0cdd1b3b2b3ce16c6ef6b52dc6a6fba14a6f5ebb88",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". • 3 miljarder kronor i generella statsbidrag till regionerna. • 3 miljarder kronor 2024 i sektorsbidrag till hälso- och sjukvården. • Statsbidraget inom skolan för stärkt likvärdighet och kunskapsutveckling utökas med 850 miljoner kronor och byter namn till \"Kunskapsbidraget\". SKR räknar med at",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2023/02/Kommunplan-2023-2025.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "66a998263aa01d97d9b8a5b363f1400cfbd0d57dcdb6a22e89e04a32fc848011",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "för riskskatten för kreditinstitut som upphör 2023. Det innebär att kommuner och regioner bibehåller den nuvarande nivån på de generella statsbidragen. • Subventionering av LVU-placeringar på 484 miljoner kronor förlängs. • 400 miljoner kronor i riktat statsbidrag för fler speciallärare.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "En kommunplan som värnar det kommunala grunduppdraget och som bibehåller kvaliteten. Den nuvarande situationen kommer att ställa höga krav på att staten genom statsbidrag hjälper kommunerna igenom krisen så att vi framöver inte behöver göra stora kommunala nedskärningar inom skola och omsorg. Trots den kris vi nu går igenom lägg",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2022/02/Kommunplan-2022-2024.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9724d0aabf9d6b3b9935979b38e2d57abc10c3621bbe86d9e56c1f80620b7037",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nybro.se/wp-content/uploads/2021/01/Kommunplan-2021-2023.pdf",
+  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "634b48efb7e689bf812a2b4a206675e294da03d227070d563e089cd51c5a45f2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

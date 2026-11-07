@@ -51,5 +51,65 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.78576c8519ed42dd6a32b057/1782219521379/Protokoll%20kommunfullm%C3%A4ktige%202026-06-10%20%20webbversion.pdf",
+  "titel": "Kommunfullmäktige 10 juni pdf, 4.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2be5f279d797e6dfe938d49b238934f93c41829f711bd45e904b6c9a4379fd66",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 45,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.62f02c819d6653c1421fa6/1775564454569/Protokoll%20kommunfullm%C3%A4ktige%2025%20mars%202026%20%20webbversion.pdf",
+  "titel": "Kommunfullmäktige 25 mars pdf, 2.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ca5a4810db3cffffb01e10fc43e9c936385784a7796826a04c7f28f45b2272f9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.2ccf01531906f89e9a6207fc/1720072989930/Protokoll%20kommunfullm%C3%A4ktige%2026%20juni%202024%20%20webbversion.pdf",
+  "titel": "Kf 26 juni pdf, 3.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b2a8bbdd1df26d13f16abfd56f8d5fe29666910d0f154b22e68db8b74fa33516",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.32923d3819ea56f69cd15104/1781164989616/Protokoll%20kommunstyrelsen%202026-06-10%20%20webbversion.pdf",
+  "titel": "Protokoll kommunstyrelsen 10 juni pdf, 11.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "65bcab718de568db3ebf715216da67cca0d79c5c7e871d5ac2292ed659e4e671",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

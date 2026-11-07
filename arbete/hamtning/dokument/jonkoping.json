@@ -116,5 +116,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.1700e31e1a157ba3ab033288/1792664703149/%C3%96verf%C3%B6rmyndarn%C3%A4mndens%20protokoll%202026-10-14%20offentlig%20version.pdf",
+  "titel": "Överförmyndarnämndens protokoll 2026-10-14 offentlig version\npdf, 1.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3580e52ecfa0ea7b0bb398895677c829e9b431011018cdcf8e864579a075afd6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.1700e31e1a157ba3ab02ed73/1792651291594/Stadsbyggnadsn%C3%A4mndens%20protokoll%202026-10-15.pdf",
+  "titel": "Stadsbyggnadsnämndens protokoll 2026-10-15\npdf, 3.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d364708d9c367948db70795d239a659816f06ce6ade874a5d34f32e853962814",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 66,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.44e6b59c1a157950e2211756/1792648203506/Funktionsst%C3%B6dsn%C3%A4mnden%20protokoll%20%C2%A7%20174,%20177-188.pdf",
+  "titel": "Funktionsstödsnämnden protokoll (2026-10-14) § 174, 177-188\npdf, 795.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9495d7de5d9638cecd8a9214dfcaa967cdc51c97e0f5cbf327bb28837494ee17",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.jonkoping.se/download/18.44e6b59c1a157950e2227c5/1792498839762/Individ-%20och%20familjeomsorgsn%C3%A4mndens%20protokoll%202026-10-13.pdf",
+  "titel": "Individ- och familjeomsorgsnämndens protokoll 2026-10-13, § 171-185\npdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d8d7f2b71ccc8ac56b3ee66e59d3a94cf1280f845ba31f57f20d582668c28500",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "annat ute på skolor. Samsjuklighetsreformen Det finns ett förslag om förändring när det gäller generella statsbidrag, från och med 2028. I samsjuklighetsreformen utreds bland annat ansvaret för kommun respektive region samt hur förflyttni",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

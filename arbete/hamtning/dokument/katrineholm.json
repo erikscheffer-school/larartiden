@@ -206,5 +206,50 @@
    }
   ],
   "antal_träffar": 11
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.5b1e8c7b19cff5ac8de392d4/1774365744954/KS%20kallelse%202026-03-25.pdf",
+  "titel": "Kallelse Kommunledningsförvaltningen 2026-03-19 Sammanträdande organ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b7b732dbc43e33283da41907a46212d9f1c779dbee327d0a7feada709a770034",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 222,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.742311da1a0adb902c670802/1790321181921/Vuxenutbildnings-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%202026-09-21.pdf",
+  "titel": "Protokoll pdf, 714.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a1673656887d225b61b4cf25137c768ef1bc1989c570e3569368f3a99fe4ca24",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.4953b4f71a0ada95b47b12a6/1790680250767/Protokoll%20bildningsn%C3%A4mnden%202026-09-22.pdf",
+  "titel": "Protokoll pdf, 1.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f52b370db68a5d94532ee038154d74efa58ed339578a4da6670735aa7be1d55d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

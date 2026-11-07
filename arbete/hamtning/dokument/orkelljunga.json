@@ -106,5 +106,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.1c19c97c17f3848377d6f80c/1680253036469/Budget%202023%20och%20ekonomisk%20fler%C3%A5rsplan%20(EPF)%202024-2025.pdf",
+  "titel": "Budget 2023 och ekonomisk flerårsplan (EFP) 2024-2025\npdf, 10.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "45cbfb525fdbe733c319270a1e2d695cfdc193b0f8a7b1dd557244609a59d852",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.659742711a12f7115074c/1791798900779/Kommunstyrelsen%202026-10-07.pdf",
+  "titel": "Kommunstyrelsen 2026-10-07\npdf, 388.8 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0b55bc1c8fe773569cc3b258ae12c26007998a1198ae09956c38a0d762d7da68",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.3cf55a8e1a0420e74b7aefa/1788534161995/Kommunstyrelsen%202026-09-02.pdf",
+  "titel": "Kommunstyrelsen 2026-09-02.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7401ac84426d636ec37ca8d8693a502b6ecd8031e76f1cb709242d2e16aa7b23",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -66,5 +66,101 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/kf_2026_11_09.pdf",
+  "titel": "Läs hela kallelsen till KF 2026-11-09 här",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f639a8dec603f8f79730623334f6f38252d633cfce5e2dce696274707cb1c08d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 437,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 39,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ljning av korttidsplatser till närliggande kommuner. Individ- och familjeomsorgen prognostiserar även de för ett överskott på cirka 2,8 mnkr och beror på ökade statsbidrag. Utbildningsutskottet prognostiserar ett underskott om cirka 1,5 mnkr. Det är främst inom grundskoleverksamheten samt inom vuxenutbildningen och gymnasiet som",
+    "belopp_nara": true
+   },
+   {
+    "sida": 250,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola, fritidshem och pedagogisk omsorg 2027 Ärendebeskrivning Högsby kommuns barnomsorgstaxa grundar sig på reglerna för statsbidrag till kommuner som tillämpar maxtaxa inom förskola, fritidshem och pedagogisk omsorg. Taxor och avgifter uppdateras årlige",
+    "belopp_nara": false
+   },
+   {
+    "sida": 253,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m Administrativ chef Maxtaxa för förskola, fritidshem och pedagogisk omsorg 2027 Ärendebeskrivning Högsby kommuns barnomsorgstaxa grundar sig på reglerna för statsbidrag till kommuner som tillämpar maxtaxa inom förskola, fritidshem och pedagogisk omsorg. Taxor och avgifter uppdateras årligen. De taxor som utbildningsutskottet b",
+    "belopp_nara": false
+   },
+   {
+    "sida": 255,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola, fritidshem och pedagogisk omsorg 2027 Ärendebeskrivning Högsby kommuns barnomsorgstaxa grundar sig på reglerna för statsbidrag till kommuner som tillämpar maxtaxa inom förskola, fritidshem och pedagogisk omsorg. Taxor och avgifter uppdateras årlige",
+    "belopp_nara": false
+   },
+   {
+    "sida": 257,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola, fritidshem och pedagogisk omsorg 2027 Ärendebeskrivning Högsby kommuns barnomsorgstaxa grundar sig på reglerna för statsbidrag till kommuner som tillämpar maxtaxa inom förskola, fritidshem och pedagogisk omsorg. Taxor och avgifter uppdateras årlige",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/protokoll-mn-261022-signerat.pdf",
+  "titel": "MN 2026-10-22",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "94364903390f59d7dba66e6820318d3d207c34fb8ca2a00bc835b82e9f46292a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/ks_2026-10-20_kallelsesida.pdf",
+  "titel": "KS_2026-10-20_Kallelsesida",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5fc05b7e6718b953033e2c14c3ca3a923d113aee78663fba3cac69ba2a3d96ed",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hogsby.se/wp-content/uploads/kf_2026-10-19_kallelsesida.pdf",
+  "titel": "Tillkännagivande KF_2026-10-19",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d9229bf695402a2d78b60e202830cc0bc320ab94099395faa7743e0c25326446",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

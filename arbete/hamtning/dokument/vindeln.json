@@ -58,5 +58,21 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vindeln.se/download/18.1f18b20919d92ce2cb2bf/1776952951066/Protokoll%20kommunfullm%C3%A4ktige%20den%2020%20april%202026.pdf",
+  "titel": "Protokoll kommunfullmäktige den 20 april 2026.pdf Pdf, 7.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "782313c39af01c1447569afc3e3eb2f1776017106432b824fe49b8798fdd97ba",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 47,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
  }
 ]

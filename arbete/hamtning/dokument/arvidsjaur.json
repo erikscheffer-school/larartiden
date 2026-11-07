@@ -73,5 +73,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.3e5ed87d1a18c4cbb3e15fe5/1793701175048/Protokoll%20Kf%202026-10-27.signerad.pub.pdf",
+  "titel": "Protokoll Kf 2026-10-27.signerad.pub.pdf Pdf, 713.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "40bb499850c1a4afc53c598aca4bb1d65bb9d3d0869b33eaefa96f1aa333dc2c",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.21a8546b1a162e81a8b22f85/1793197070166/Direktjusterade%20paragrafer%20-%20Kommunfullm%C3%A4ktige%202026-10-27.pdf",
+  "titel": "Direktjusterade paragrafer - Kommunfullmäktige 2026-10-27.pdf Pdf, 606.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "31ba792aafa6126ece69f9ce66dc1d1478bc507dedaa0a34972fb57ec1c725b5",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://arvidsjaur.se/download/18.364de4651a12f7f72da2d70b/1792506147752/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-10-27.pdf",
+  "titel": "Handlingar för möte Kommunfullmäktige den 2026-10-27.pdf Pdf, 12.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "82117c256d343bbd16071e51ff5d6a7baf38a9cfe19fdb5d9feb42c78b239c15",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 194,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

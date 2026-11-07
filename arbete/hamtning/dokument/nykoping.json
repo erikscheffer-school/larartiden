@@ -73,5 +73,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2023-och-flerarsplan-2024-2025.pdf",
+  "titel": "Budget 2023 och flerårsplan 2024-2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6ab375bb3f9c7f61d0b78e9f6ef0f3a85a052ca3de617248e2bcee761d6272ba",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 67,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/rapport/budget-2022-och-flerarsplan-2023-2024.pdf",
+  "titel": "Budget 2022 och flerårsplan 2023-2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8ccf64d95a8c723e6bdc159d07f73b8e498b6f06231abc01c106e5b56572fc18",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 64,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "muner, inklusive Nyköpings kommun, med ekonomiskt överskott 2020. Detta tack vare en ökning av det generella statsbidraget och de pandemirelaterade tillfälliga statsbidragen till kommunerna. Trots ekonomiskt överskott väntar stora utmaningar runt hörnet. Det handlar om vård som inte har kunnat utföras, omsorgsinsatser som ställts",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/styrande-dokument/organiserande/reglemente-for-kommunstyrelsen.pdf",
+  "titel": "Kommunstyrelsen (KS): består av 26 förtroendevalda Ordförande, 1:e vice ordförande, 2:e vice ordförande, 10 ledamöter och 13 ersättare",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2531944577acf010f51e63bd5a90450acae55bad89ed97d1d2d04fe000af618e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nykoping.se/globalassets/nykoping.se/dokument/styrande-dokument/organiserande/arbetsordning-for-kommunfullmaktige2.pdf",
+  "titel": "Kommunfullmäktiges Arvodesberedning",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "10ca9d71b1a3efae611c9f060ff5d5297013f067ae38a1ca2d955828f80d2e54",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

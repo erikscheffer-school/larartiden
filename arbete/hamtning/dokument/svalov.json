@@ -73,5 +73,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.7148c0af18125ef1a7f1912c/1655285008208/SFI%20pr%C3%B6vning.pdf",
+  "titel": "uxenutbildningens ansökningsblanketter ansökan SFI prövning pdf, 509.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5bf85ed774cb720f410d0872806880f824faec2e6e7d1f5ff46b417d4692d59a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.75fb093817dc24f238e419fb/1643981676817/KF%20220131.pdf",
+  "titel": "KF 220131.pdf Pdf, 775.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4f029db88b092db68ef6b761b760392214f7523036fa31e46a30f94d7565017d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svalov.se/download/18.5f6bfd6b17dc23cbe8ba9ac/1640850712942/KF-20211220.pdf",
+  "titel": "KF-20211220.pdf Pdf, 986.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cf1eb13a8039c70ea6ce365e8569c20b75340b98c9d4cba8e780f18409d4560b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 45,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

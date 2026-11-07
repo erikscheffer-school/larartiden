@@ -96,5 +96,65 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://nynashamn.se/download/18.40abfd3119b353ba0671432/1766140585376/Verksamhetsplan%202026%20Kultur-%20och%20fritidsn%C3%A4mnden.pdf",
+  "titel": "Verksamhetsplan för kultur- och fritidsnämnden\npdf, 682 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "86aeccd1515b0f07528fd6218278ec714fd95587f85dfc2c8035ad0860ec61f0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.5394668d19b31b3f48716c6/1766084469355/Verksamhetsplan%202026%20Samh%C3%A4llsbyggnadsn%C3%A4mnden.pdf",
+  "titel": "Verksamhetsplan för samhällsbyggnadsnämnden\npdf, 737 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "80af0fd51e31bb068c344714ec7348c7b73f9764de2a2806648b6da8291ce1d7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.717d9ba519b3546508fc4dec/1768568039382/Verksamhetsplan%202026%20Socialn%C3%A4mnden.pdf",
+  "titel": "Socialnämndens verksamhetsplan\npdf, 2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7e5a7aa62dba3d5f93a6a27d5890a85bb1981fab8fd8251980ee15608e63fcfd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://nynashamn.se/download/18.6ea431a12f66d0f16e62/1791891502891/2026-10-20-Dagordning-Barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "2026-10-20-Dagordning-Barn- och utbildningsnämnden.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "290647e282902546e9525c43ef9458870870d8607cb81fc341300159038af1e4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

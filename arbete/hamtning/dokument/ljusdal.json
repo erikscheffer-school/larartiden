@@ -88,5 +88,65 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.535757fe19bf64d2b4c52e7/1769438812151/Protokoll%20UN%202026-01-22%20signerat.pdf",
+  "titel": "2026-01-22\npdf, 641.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d97349f8a692b3fc493448e112275b6f7839f6380a9e66972bd59697e684fb39",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.64aee84e19c47a6f5ae571df/1771945611475/Protokoll%20UN%202026-02-19%20signerat.pdf",
+  "titel": "2026-02-19\npdf, 883.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4b139778c1a71ad5c4389b3891435ed764000673964fe09dc6c8e5a996ab77ba",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdal.se/download/18.7615b65619cff5d7d3528ef7/1774367247171/Protokoll%20UN%202026-03-19%20signerat.pdf",
+  "titel": "2026-03-19 pdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "206f436cac360e6305fd1396497f3b93a14308e67270fa1a91942a311427fb69",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ".............................................................................. 14 § 34 Dnr UN-00052/2025 Statsbidrag via Skolverket, bidragsåret 2025 samt läsåret 2025/2026 .............. 17 § 35 Dnr UN-00018/2026 Remiss",
+    "belopp_nara": false
+   },
+   {
+    "sida": 17,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026-03-19 § 34 Dnr UN-00052/2025 Statsbidrag via Skolverket, bidragsåret 2025 samt läsåret 2025/2026 Utbildningsnämnden beslutar 1. Nä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

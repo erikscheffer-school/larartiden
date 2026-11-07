@@ -133,5 +133,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lidkoping.se/kommun-och-politik/forfattningssamling---styrande-dokument",
+  "titel": "Författningssamling - styrande dokument - Lidköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "0f8c50588b0eadf497d0674ba22b73bc4ea33ced0770d6e50c0633c8377a6bba",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lidkoping.se/barn-och-utbildning/skolval-skolbyte",
+  "titel": "Skolval och skolbyte - Lidköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "48b7aa44365dafd877b81a8dd8a2552f4e1ad81b266d065ebd88bce3bc515fd6",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.edu.se/kommuner/lidkoping/lasarstider",
+  "titel": "Läsårstider Lidköping 2026/2027 – lov och prov – EDU.se",
+  "typ": "html",
+  "hämtad": "2026-11-07",
+  "sha256": "35d0f145f13a20187dfccd24ff426b39cbb20353b579d98c247f3b3970553fab",
+  "sökning": 2,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

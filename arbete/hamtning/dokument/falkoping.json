@@ -330,5 +330,73 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.70d1f82819d70e1e38c9b2/1776178302187/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-04-21.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-04-21.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b7f6c5c5ea4b6b0f20b12619ea0843ba76a1b7904116da7383675287f450e8dd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.582b050219c0f3580a612f7a/1772614396269/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-03-10.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-03-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2ad4d9df3ce3a0c098e8b0e71ad1addc99baf13f7feb059e64aadd18bddf5126",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "för nämnden är kostnader för interkommunal ersättning (IKE), som hade ett underskott på 9 miljoner kronor och återbetalning av statsbidraget för akutskolor på 3 miljoner kronor. Under personalredovisningen redovisas en minskning på 40 årsarbetare vid",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.582b050219c0f3580a612f6f/1772614390689/Kallelse%20och%20handlingar%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-01-27.pdf",
+  "titel": "Kallelse och handlingar - Barn- och utbildningsnämnden 2026-01-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "57779a690ca3fc0f3437c920cd1a67fa8e53cc9b10e127430832aa73accdc151",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 126,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.4933f3551a04786e304a11a/1788166259610/Protokoll%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-08-27.pdf",
+  "titel": "Protokoll - Barn- och utbildningsnämnden 2026-08-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6ae61211c97fc909eef0ae10c3807235f26a899c230e4395a57f546b8c66629a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

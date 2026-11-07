@@ -58,5 +58,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.grastorp.se/download/18.73135842182f25ea575cbec/1663143981289/Antagna%20m%C3%A5l%20och%20riktlinjer%20f%C3%B6r%20Gr%C3%A4storp%20kommuns%20minoritetspolitiska%20arbete.pdf",
+  "titel": "Antagna mål och riktlinjer för Grästorps kommuns minoritetspolitiska arbete pdf, 179.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d7ca9f4eea2b26165312c154ccf39888e6326884999a254cbb6346439287c2c4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.grastorp.se/download/18.2b9d495319fb73896f51994d/1788332347431/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige%202026-2030.pdf",
+  "titel": "Arbetsordning för kommunfullmäktige 2026-2030 pdf, 227 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "05c3f4a612b44327b19edaf7852b0e2cf70bd524c2e211793d6c3ae25333ec82",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.grastorp.se/download/18.6cf588241a0a93110e46eb0/1790258921874/Delegationsordning%20f%C3%B6r%20kommunstyrelsen%20antagen%202026-09-16%20med%20redaktionell%20%C3%A4ndring%202026-09-24",
+  "titel": "Delegationsordning för kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cf056d8313f70d94ec1074d55f03a6524eeed914d7af529324e0f88fa65f1f78",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "§§ SL 6.25. Ansökan, rekvirering och Ekonom, redovisning av statsbidrag eller bildningsverksamh Skolchef/ bildningschef EU-bidrag för skolans område. et 6.26.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.grastorp.se/download/18.4d092e01759507d7511d565/1728300311611/Taxa%20f%C3%B6r%20kopior%20av%20allm%C3%A4nna%20handlingar%20och%20kopiering.pdf",
+  "titel": "Taxa för kopior av allmänna handlingar och kopiering pdf, 115.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd17af4138bb9a140d936092121bf6e65afb1820db0e905cc55ac0b4dfdcaf79",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

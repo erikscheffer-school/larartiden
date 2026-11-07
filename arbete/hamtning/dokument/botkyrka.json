@@ -135,5 +135,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.2ec811d416f55cfff0441e1/1578469695292/M%C3%A5l%20och%20budget%202020%20med%20fler%C3%A5rsplan%202021-2023.pdf",
+  "titel": "Mål och budget 2020 med flerårsplan 2021-2023.pdf Pdf, 2.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a09f39abaa531fd9f62112914e48817375790109d379dc8773e51acbec1b5be0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 84,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lik kompetensförsörjning vid nor. två grundskolor. Omföring mellan nämnder Statsbidraget avseende ett nytt nationellt system Inför 2019 infördes en ny prismodell för kom- för kunskapsbedömning med färre och digitala munövergripande ver",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.7ddd8c91176843130eb955/1608564143810/M%C3%A5l%20och%20budget%202021%20med%20fler%C3%A5rsplan%202022-2024.pdf",
+  "titel": "Mål och budget 2021 med flerårsplan 2022-2024.pdf Pdf, 3.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "031c1a91dffe469d169696dbd68446950bcaa28bc2a567c80554439ac4a77a85",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 131,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 94,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "digitala nationella prov sänks det generella Budgetramen utökas med 5,4 miljoner kronor statsbidraget till Botkyrka med 62 000 kronor för ökade hyreskostnader för förskolorna 2022 och därmed sänks utbildningsnämndens Opalen, Vallmon och Måsen.",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.7ddd8c91176843130eb956/1608564144019/M%C3%A5l%20och%20budget%202019%20med%20fler%C3%A5rsplan%202020%20-%202022.pdf",
+  "titel": "Mål och budget 2019 med flerårsplan 2020 - 2022.pdf Pdf, 3.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a4ea49a7e46409349f3970617d2e724719dddf4c1e0862af0315da0d15e6ba02",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

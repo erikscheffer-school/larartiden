@@ -73,5 +73,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://kiruna.se/download/18.44475331a0fb7e2bab1105b/1791185519601/Antagen%20barn-%20och%20ungdomspolitisk%20strategi.pdf",
+  "titel": "Barn- och ungdomspolitisk strategi pdf, 388.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ea648dd5fa9fe29cae8f953e9e4ee735e483b7826cb164f3991294a7dc95fe10",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kiruna.se/download/18.5d7b726219b3549d5f6d7e48/1770214679061/Kommunstyrelsens%20uppsiktsplikt.pdf",
+  "titel": "Kommunstyrelsens uppsiktsplikt pdf, 369.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3dc25bcdf938d56f6bf93a24a71b600054fad730a0c5737ae60dcdfb8351928a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

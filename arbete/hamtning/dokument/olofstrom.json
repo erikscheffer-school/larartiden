@@ -67,5 +67,96 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://olofstrom.se/download/18.3d4a511a188bd9ee136f4ff/1688454470875/Budget2023.pdf",
+  "titel": "Budget 2023\npdf, 848.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6e7a1776acce605f7b4dfad730a4ad5c8d62373eec5eb5a7ef44c6418bce5bd6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 47,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "en som skolväg av elanvändningen på motionsslingorna. barn som ska till och från Vilboksskolan. Möjliggör även anpassning och justering Statsbidrag söks och genomförs enbart av ljusstyrka anpassat till platsen. om medel erhålls. Summa: 880 tkr Summa: 780 tkr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a aktivitetsansvar, vuxenutbildning, Samtliga verksamheter påverkas i mer yrkeshögskola och musikskola. eller mindre grad av olika statsbidrag. De statliga satsningar som görs, står inte Verksamhetsmål alltid i relation til",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://olofstrom.se/download/18.1ccfab9817ce9bda701216b2/1638950111042/budget-2022.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bd8581477e3975026a679443af7d88fabbd2a27fa598d56bffefce85d3f93d30",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 60,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://olofstrom.se/download/18.5b0e2a2a176843ef8f5204c1/1610446052866/budget-2021.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a240ad3118e3b63683bb3b454d8ab230b3941997ca20b2ae2da94a46cd262841",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iteringar och statliga annat i de två gjorda genomlysningarna av satsningar är en utmaning. förskolan respektive gymnasieskolan och Statsbidragen är mycket svårhanterliga i vuxenutbildningen samt i de pågående såväl ansökan som redovisning. Inte processerna i nämndens olika",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://olofstrom.se/download/18.102d8a2f1702c37a2a231086/1581503409520/budget-2020.pdf",
+  "titel": "Varje år görs en budget över hur mycket pengar kommunen väntas få in och vad pengarna ska användas till. Kommunen får till största del in pengar från ",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "de03c95e9ce2ca3843db21e690bf15c32a84744d44bdb8bca27168911ec46bd6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Driftsbudget 2020 • Administration och ledningsorganisation Statliga satsningar/statsbidrag: De statliga • Arbeta igenom analyserna av satsningar som görs, står ibland inte i förskolan respektive",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

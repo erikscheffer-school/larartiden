@@ -88,5 +88,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-ksau-2026-10-12.pdf",
+  "titel": "Justerat sammanträdesprotokoll kommunstyrelsens arbetsutskott 2026-10-12, anslaget 2026-10-16, tas ned 2026-11-07",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0bb68bf8804f113673db39f9897d28cc85118da992a2f4c810707c71783c57c6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-boh-2026-10-13.pdf",
+  "titel": "Justerat sammanträdesprotokoll utskott bildning och hälsa 2026-10-13, anslaget 2026-10-14, tas ned 2026-11-09",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "97d4d1abfcbd4db98e60955199343c00fb5aedb7dfd075a413859923bcf42720",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ernas behov och elevutveckling. Budgetförslaget balanserar mot tilldelad ram. I budgeten ingår bland annat förstärkningar för gymnasieverksamheten, schemalagd undervisningstid, föreningsstödjande verksamhet samt digitala verksamhetssystem. De största kostnadsområdena är grundskola, förskola samt gymnasie- och anpassat gymnasium. Bud",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-miljo-och-byggnamnden-2026-10-21.pdf",
+  "titel": "Justerat sammanträdesprotokoll miljö- och byggnämnden 2026-10-21, anslaget 2026-10-27, tas ned 2026-11-18",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "69c8586537dbe8497430244a245a4876f10299e210b5c04c32662bb4ad55f24d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-omsorg-och-halsa-2026-10-12.pdf",
+  "titel": "Justerat sammanträdesprotokoll utskott omsorg och hälsa 2026-10-12, anslaget 2026-10-16, tas ned 2026-11-09",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5460037b7bd64472e3b61c918f0174793b0c70178d2e173a767f3c269cd933fe",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

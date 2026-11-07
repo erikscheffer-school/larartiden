@@ -51,5 +51,50 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ostragoinge.se/download/18.dee93a9193deb99a174073/1736339238000/kommunrevisionen-protokoll-2018-06-18.pdf",
+  "titel": "kommunrevisionen-protokoll-2018-06-18.pdf Pdf, 635.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ae8fd8b4057a06d059f210addb79b8eb9551e0ac670a41d8f5f3275f67fcb316",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ostragoinge.se/download/18.dee93a9193deb99a174072/1736339238000/kommunrevisionen-protokoll-2019-02-28.pdf",
+  "titel": "kommunrevisionen-protokoll-2019-02-28.pdf Pdf, 495.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "442b820e884e1ecfe77f04fe8f2c77900f28645bfe84bf7f82ffdd84ec33baf5",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ostragoinge.se/download/18.dee93a9193deb99a174074/1736339238001/kommunrevisionen-protokoll-2019-02-11.pdf",
+  "titel": "kommunrevisionen-protokoll-2019-02-11.pdf Pdf, 590.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0d7b533b5ba138d7aa26c5d8fd12095a4dd1e41645b882fb7160ac9628a76f5c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

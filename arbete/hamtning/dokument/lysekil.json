@@ -105,5 +105,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://lysekil.se/download/18.7b7137f81a18c59fb0612ef/1793688520424/Protokoll%20r%C3%A5den%202026-09-23,.pdf",
+  "titel": "Protokoll råden 2026-09-23,.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2a39b4fb1406cb49dd474a23a293069e435c77ed9161db9bbc1530c24dd08dfa",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lysekil.se/download/18.692ad8af1a18c3aaac11190/1793628706774/Kurskatalog_VT2027_web.pdf",
+  "titel": "Kurskatalog våren 2027 - Yrkesutbildningar samt kurser på grundläggande och gymnasial nivå i norra Bohuslän. \npdf, 3.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6644aa2bd695ba8b608e791ce951b8e3233ab11386d8b3717782ac0f856f0718",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://lysekil.se/download/18.1514b59c1a1a19c878c3c2/1793778764602/Kurskatalog_VT2027_web.pdf",
+  "titel": "Kurskatalog våren 2027 - Yrkesutbildningar samt kurser på grundläggande och gymnasial nivå i norra Bohuslän.\npdf, 3.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6644aa2bd695ba8b608e791ce951b8e3233ab11386d8b3717782ac0f856f0718",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

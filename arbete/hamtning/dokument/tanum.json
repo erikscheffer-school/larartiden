@@ -156,5 +156,35 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.tanum.se/download/18.ffd58281a12f68b7c35092/1792071819207/Barn-%20och%20utbildningsn%C3%A4mnden%2022%20oktober%202026,%20med%20handlingar.pdf",
+  "titel": "Barn- och utbildningsnämnden 22 oktober 2026, med handlingar.pdf\nPdf, 1.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7a0bda7d71b40ae091529b8fb0e7927191f6a2cc3d022e9b0ad2d278416ace55",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.tanum.se/download/18.4bb3ddb9197a1b514ae63eb7/1793369310364/Gemensamma%20reglementsbest%C3%A4mmelser%20f%C3%B6r%20Tanums%20kommuns%20n%C3%A4mnder.pdf",
+  "titel": "Gemensamma reglementsbestämmelser\npdf, 433 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6421d6dbb36254c81be371f584f4b83ed065c9474a911a4ddc079314dc2cabb6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

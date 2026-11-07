@@ -89,5 +89,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.3c94a5a619c2c626145be5/1770306778048/Kallelse%20KF%202026-02-06.pdf",
+  "titel": "Kallelse KF 2026-02-06.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "109de89459cfcf2dad7cb05785229533a6711a067394f6458d1b39db56ee7750",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.23855c0719d24bb93ba2812/1774603699479/Kallelse%20KF%202026-03-27.pdf",
+  "titel": "Kallelse KF 2026-03-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cb080cf2a4a4608e5a652e40e850ed63b7fd9dfad41d2062e11c10470835d32e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://surahammar.se/download/18.716c1f5719ddcda984b6ae/1777549687987/Kallelse%20KF%202026-04-30.pdf",
+  "titel": "Kallelse KF 2026-04-30.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fb5d1b1ded9a05ab96e0bd1410eb18f4d173ed1fbb66b47d046d813af2488094",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -82,5 +82,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.uppvidinge.se/download/18.27f6070c1a1a19eae0412a8/1793775891010/Protokoll%20KF%202026-10-29.pdf",
+  "titel": "Protokoll KF 2026-10-29\nPdf, 384.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "22c3faa1491955d0c25cadccb593379b2a645e3b8384973c48552e5389a092f0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.uppvidinge.se/download/18.2d84c5c419c479487f25e89/1771031352210/Kallelse%20KFU%202026-01-15.pdf",
+  "titel": "Kallelse KFU 2026-01-15.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "afb6cddba7fd070de6e2d7ae5a653a43644f79fb1938d283d33eee794f47035c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.uppvidinge.se/download/18.227e53d819dd24916a621c87/1778863374041/Kallelse%20KSTU%202026-05-15.pdf",
+  "titel": "Kallelse KSTU 2026-05-15.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f60655533e1b1b5186a4c5b3f811073bc6cbe8daabfa83e9f6458ecce2ec61f7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

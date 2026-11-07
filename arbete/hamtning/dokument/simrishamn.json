@@ -13,5 +13,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.simrishamn.se/download/18.5db95c3d19c986bbd1b5862e/1772706500806/KS-kallelse%20260311.pdf",
+  "titel": "Kallelse 2026-03-11\npdf, 237.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a72777d732a04261e2716580eb9191d2488505f8ec91096f842c316d747d174d",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

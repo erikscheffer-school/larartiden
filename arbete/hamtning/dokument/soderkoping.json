@@ -43,5 +43,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2021/protokoll-demokratiberedningen-2021-11-22.pdf",
+  "titel": "Protokoll Demokratiberedningen 2021-11-22",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "866a09b437c79e6af0ff7da94ff1f1d17ab8a062c7fdc421afe427ab63b7d18f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-02-03.pdf",
+  "titel": "Protokoll Demokratiberedningen 2020-02-03",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "97e12991ccf04762dceb694cb90da13d6d656549e5aeb85204f85902da9c25f3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.soderkoping.se/globalassets/documents/06-kommun-och-politik/03-politik-och-beslut/demokrati-och-inflytande/demokratiberedningen/db2020/protokoll-demokratiberedningen-2020-05-25.pdf",
+  "titel": "Protokoll Demokratiberedningen 2020-05-25",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "765133a8c6fb1278effa417857c8044e0ab854c2ec34fe445293fe8905a5d0e8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

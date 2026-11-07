@@ -141,5 +141,95 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.laxa.se/download/18.2e777cf818529c9576ed56b/1671541659295/Budget%202023%20och%20verksamhetsplan%202024-2025.pdf",
+  "titel": "Budget 2023 och verksamhetsplan 2024-2025.pdf\nPdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "415fb6f3ec068dcd33537c1e4a5fcc512d9a6861de95e112191f1c34b439ada8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kas av regeringen från 6,23 miljarder kronor till 6,5 miljarder kronor för 2022. Inget nytt om 2023 ännu. Barn- och utbildningsnämnden har i budgeterat med ett statsbidrag på 6,6 mnkr för 2023 i jämförelse med 5,5 mnkr i budget 2022. Statsbidraget för Skolmiljarden utgår från 2023. Barn- och utbildningsnämnden räknar med att tota",
+    "belopp_nara": true
+   },
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "heterna migrationsintäkter och övriga riktade statliga bidrag som är direkt riktade till verksamheterna, dessa nettoredovisas inom ramen. Ett exempel är riktat statsbidrag som staten har tillskjutits för vård och omsorg av äldre personer som Social- och omsorgsnämnden. Barn- och utbildningsnämnden kan söka bidrag som exempelvis l",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.laxa.se/download/18.2e777cf818529c9576ed526/1671541568075/Budget%202022%20och%20verksamhetsplan%202023-2024.pdf",
+  "titel": "Budget 2022 och verksamhetsplan 2023-2024.pdf\nPdf, 2.5 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ef3fd9c530889c36ebcd480ced3e8247d69249201fff45d08e257b3ee787cf03",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 41,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ill att alla barn och elever ska få den utbildning de har rätt till trots Corona-pandemi. Medlen kan bland annat användas till ökad undervisningstid och mer stöd för de elever som behöver det. Det riktade statsbidraget för äldreomsorgssatsningen som uppgår till 3,2 mnkr är upptaget",
+    "belopp_nara": true
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tsbidragen. Enligt budgetpropositionen för 2022 föreslås en förstärkning till kommunerna på totalt 2,1 miljarder kronor i generella statsbidrag, dessa finns med i tabellen ovan. Tidigare aviserade minskning av anslaget för nationella prov inom skolan drogs tillbaka och förväntas istället",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.laxa.se/download/18.659f4b7617597464fbb85eeb/1605274741009/Budget%20och%20verksamhetsplan%202021-2023.pdf",
+  "titel": "Budget och verksamhetsplan 2021-2023.pdf\nPdf, 4.7 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "515d2a18990fb958abd47d19c7ee88b07773eb7be1263e213f563dbc861d11e7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.laxa.se/download/18.3112a35216ed592829c8e5a9/1576229325935/Budget%20och%20verksamhetsplan%202020-2022.pdf",
+  "titel": "Budget och verksamhetsplan 2020-2022.pdf\nPdf, 3.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "37a9b5b33f56643ef0450f5c82d59679d54f88049dd0d2b14037cc2b84ff96c9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

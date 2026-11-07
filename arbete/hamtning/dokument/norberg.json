@@ -74,5 +74,81 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/04/kallelse-bildningsnamnden-2026-04-27-4.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-04-27",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cad19363d8ef05a89033a5c6d782f03f717edb69cb2e16d12dd2b4e443db73bd",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "5. Ekonomi 2026 – omfördelning av medel utifrån inspektionsrapporter 6. Svar på inspektionsrapporter 7. Redovisning av statsbidrag 8. Rapport gällande antal förskolebarn och elever i bildningsförvaltningens verksamheter 9. Gymnasieantagning 2026",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/05/kallelse-bn-2026-05-25.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-05-25",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5b50c39f2dde3cea0fb65d56c102bc0396d80aea8062455b5c173ee74320959f",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/06/kallelse-bn-2026-06-15.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-06-15",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "28227851a280b3e8b5a8a50b8ae016a218faf5e29a33cc62a551c0cbcd000ca7",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Budget 2027 kl. 9:00 controller 4. Ekonomi 2026 5. Omfördelning av medel för skolsociala team 6. Redovisning av statsbidrag 7. Rapport gällande antal förskolebarn och elever i bildningsförvaltningens verksamheter 8. Anmälan av delegationsbeslut",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://hedemora.se/wp-content/uploads/2026/06/kallelse-bn-2026-06-15-extra.pdf",
+  "titel": "Kallelse bildningsnämnden 2026-06-22 extra",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5ac62708665823e65bdbe4e4ed5d6ca3d1120f6450bc976a06e331f248ff56a0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

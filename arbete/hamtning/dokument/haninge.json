@@ -134,5 +134,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/4a89dc/contentassets/189ff32887494d858725a812c0acd5b0/kallelse-kommunfullmaktige-2026-10-12-pa-bordet.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-10-12 (PDF, 0,28 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cebfc3bc9431f54a813d733dcdc277510147f5d4047f07823d692743c3621610",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/48f8ae/contentassets/7e253a018eb246c9ba7d948a8f109773/lathund-motessystem-esession-2021-03-03.pdf",
+  "titel": "Kommunfullmäktiges mötessystem eSessions",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fd3377758b72d91ea1dc39114d250fe8a0ab0ae300b33b73d8997d3ab5ab00a9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haninge.se/492fa3/siteassets/dokument/blanketter/kommunstyrelseforvaltningen-ksf/blankett-ksf153-ersattning-for-barntillsyn.pdf",
+  "titel": "Blankett ersättning för barntillsyn.pdf (PDF, 0,24 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "401f0e3535b00f09b0a4052c39c18afd00d168fb5af93242cb0ff44c70f08dcf",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

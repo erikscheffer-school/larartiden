@@ -128,5 +128,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://saffle.se/download/18.4bd2cc9f18c629d1cd9cfe8/1702909835314/Del%C3%A5rsrapport_2023.pdf",
+  "titel": "Delårsrapport 2023\npdf, 4.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "596c0b6cce2987221fa099e19797d7983d19157069b335a3f4a762441053bfd8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://saffle.se/download/18.2db8f9f017f2a9c37fea2be/1646043568008/Fullm%C3%A4ktigem%C3%A5l%20och%20budget%202022-2024,%20budgetbok.pdf",
+  "titel": "Budget 2022\npdf, 10.8 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "042339fc4fc27a3af51bdaea232efaab65beea7237a62f28247567bd51fc6bdb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://saffle.se/download/18.21fbd309188ba2411d555f71/1689065105325/%C3%85rsredovisning_2022.pdf",
+  "titel": "Årsredovisning 2022\npdf, 22.8 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cb2342607a4de62c1c9f735cc04de4bb7318e636dfd0ea9b444298d9f4c5f8be",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ffle och en för den del av resultatet respektive år som översteg vatten- och avgiftskollektivet Åmål. Fonderna har 1 procent av skatter, statsbidrag och utjämning. skapats genom överflyttning av medel från skuld till Resultatutjämningsreserven skapades 2012 genom abonnentkol",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

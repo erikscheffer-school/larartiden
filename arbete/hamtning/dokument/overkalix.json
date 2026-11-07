@@ -74,5 +74,50 @@
    }
   ],
   "antal_träffar": 2
+ },
+ {
+  "url": "https://www.overkalix.se/media/fkyj5hza/arsbudget-2022-2025-overkalix-kommun.pdf",
+  "titel": "Årsbudget 2022 2025 Överkalix Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "061026d9147d4edd99939cc567d8a9e935e0b7d508d8e22fe893125d255255f7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/imqpgqme/arsbudget-2021-2024-overkalix-kommun.pdf",
+  "titel": "Årsbudget 2021 2024 Överkalix Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "17a6d78dd100679eb5506afb438e568d2f0040f9630d1716fcbb42cadfdf9949",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.overkalix.se/media/ndveimin/kommunfullmaktiges-protokoll-20261026-42-61signeradpub-2.pdf",
+  "titel": "KF 2026-10-26 §§ 42-61 Skapad: 2026-10-28 Avpubliceras: 2026-11-19 Filtyp: pdf (1,23 Mb)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "349034dcab46b677aebae2bf53823164e4ffa3b2016abe5d50543d6ef08e3067",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -88,5 +88,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.65bbbfff1a18b0398166c34/1793351945741/Protokoll%20kommunfullm%C3%A4ktige%202026-10-26.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-10-26.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0654666c968e30d259190199cada459d3213f8fc97b140c166dfcf59740697fb",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 47,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sundsvall.se/download/18.5e9f02991a0d78d5f8d7e909/1790684288459/Protokoll%20kommunfullm%C3%A4ktige%202026-09-28.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-09-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ea94b6adac9e1dc487f7ef6e494e5c4e86f8c1af2d9083ee46aaec5e293f5a35",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

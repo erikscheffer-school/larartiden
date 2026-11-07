@@ -88,5 +88,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.4bdb9a5d18828fdfeb131d/1686658284850/Budget%202024-2025,%20plan%202026%20%20KF%2020230612%20%C2%A7%2043.pdf",
+  "titel": "Budget 2024-2025, verksamhetsplan 2026\npdf, 555.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0ead0250207c038e7c3576f7ac3689d20906d21644119c5d0adfc365d43b5a3a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vannas.se/download/18.4c53fdde184135d426b786/1668003314878/Budget%202023-2024%20plan%202025.pdf",
+  "titel": "Budget 2023-2024, verksamhetsplan 2025\npdf, 566.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b3d900a56882ef78a908ce8a376ae8d1e6d74d55778e27127927bf596a08d584",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "er och etablering av nya samt marknadsföra Vännäs som etableringsort. • År 2023 minskar utbetalningarna för det riktade statsbidraget lärarlönelyftet med 1 mkr. De minskade utbetalningarna för lärarlönelyftet betalas delvis med 500 tkr från central",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vannas.se/download/18.67ed39be17a10bb0c171abb/1628232690673/Budget%202022-%202023,%20plan%202024.pdf",
+  "titel": "Budget 2022-2023, verksamhetsplan 2024\npdf, 543.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7ddceee34b7a3fcc9fbd94c349e2d4c19eeaaa6e4717d758b320d86ce904a03d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

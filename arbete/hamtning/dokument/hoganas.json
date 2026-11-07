@@ -103,5 +103,20 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.28c622f019937115703139c5/1758723057468/Utbildningsn%C3%A4mndens-m%C3%A5l-2026.pdf",
+  "titel": "Utbildningsnämnens mål\n(pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "53572391af51ca2637f6a2c942ef0da6f92d356b8f125e0fc369f945e0b4478d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

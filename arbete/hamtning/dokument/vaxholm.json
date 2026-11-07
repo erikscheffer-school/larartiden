@@ -99,5 +99,50 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.63a28de419927a4dc67e563/1757418411467/Komplettering%20KS%202025-09-11-%20Budgetf%C3%B6rslag%202026%20%20LVD.pdf",
+  "titel": "Komplettering KS 2025-09-11- Budgetförslag 2026 LVD.pdf\nPdf, 754.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "df3ca78faf65f9bb64da6c20096d956bce136df5a4a447957d06b51e7180a0cf",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.79f951b718c33e1a6d129fc/1701698939607/R%C3%A4ttelse%202023-12-04%20%C3%A4rende%203%20Detaljbudget%202024%20och%20upphandlingsplan%202024-2025.pdf",
+  "titel": "Rättelse 2023-12-04 ärende 3 Detaljbudget 2024 och upphandlingsplan 2024-2025.pdf\nPdf, 135.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1554efe5837358339b2704d3a0f500c72584f44d59c348aa2c5e68bb7bb591af",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaxholm.se/download/18.31c7bff8182e8f4dedddaee2/1663591442314/Komplettering%20%C3%A4rende%207%20BUN%202022-09-26-%20R%C3%A4ttad%20version-Yttrande%20till%20m%C3%A5l%20och%20budget%20BUN%202023%20.pdf",
+  "titel": "Komplettering ärende 7 BUN 2022-09-26- Rättad version-Yttrande till mål och budget BUN 2023 .pdf\nPdf, 305.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "335d2b0cc55ea6f9655486c5b3c342f8f4a3023d57db16998f76c1634a39807f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

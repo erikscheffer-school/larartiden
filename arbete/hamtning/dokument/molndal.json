@@ -252,5 +252,183 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce8f/1763657724734/Budget%20plan%202023-2025.pdf",
+  "titel": "Budget plan 2023-2025.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "22f611eaeb996aca68f977497016e29f742c95579340acd79ad89a2a216d48d1",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 69,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m måltidsverksamheten. 2023 bland annat för Krokslättsskolan, samlokalisering av grundsärskolan, Streteredsskolan och Balltorpsskolan. I plan Generella statsbidrag till skolområdet för 2024 tillkommer 10,1 mnkr även det för ovanstående objekt Enligt 2022 års statliga budget påverkas skolnämnden under samt Almåsskol",
+    "belopp_nara": true
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och yrkeshögskolor via befintligt distansutbud. Utöver budget- ställer ökade krav på verksamhetens utveckling och användning tillskott väntas ett årligt statsbidrag på 1,4 mnkr. För att kunna av digitala verktyg och i syfte att möjliggöra ytterligare ökat erbjuda fler elever praktikplats, arbetsplatsförlagt lärande, A",
+    "belopp_nara": true
+   },
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t. Höjda priser på livsmedel och mattransporter 2,4 Statsbidrag Utredning kommunal resursskola -0,5",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce8e/1763657724589/Budget%20plan%202022-2024.pdf",
+  "titel": "Budget plan 2022-2024.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "7208ae2609c426a160e9a8ac659b07c4d44f2c17bffba9e5ce61cfe2d3cfcc68",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 69,
+  "nämner_reformen": true,
+  "ord": [
+   "planeringstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 35,
+    "ord": "planeringstid",
+    "reform": true,
+    "utdrag": "kolan. Förskoleassistenterna ska fungera som planerings- utredandet och hanteringen av klagomål framöver i första hand avlösare så att den pedagogiska planeringstiden säkras för skötas av huvudmannen och i andra hand av Skolinspektionen. förskollärarna i syfte att skapa en likvärdig förskola med hög Med",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rån Skolinspektionen 0,4 Statsbidrag Utredning kommunal resursskola 0,5 -0,5 mnkr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 36,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Ökade generella statsbidrag till skolområdet Andra indikatorer av särskilt intresse Enligt avisering i 20",
+    "belopp_nara": false
+   },
+   {
+    "sida": 42,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "10 5 4 Gymnasial utbildning med Ökade generella statsbidrag till skolområdet yrkesinriktning inom GR-samverkan, delfinansieras",
+    "belopp_nara": false
+   },
+   {
+    "sida": 55,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "44 Allmän platsmark exploatering av egen mark kommunal verksamhet 34 Utveckling av befintligt GC-nät, statsbidrag Åtgärder inom allmän platsmark till följd av ny- och Bidrag från regional infrastrukturplan via Trafikverket för utbyggnad av till exempe",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 9
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce8d/1763657724436/Budget%20plan%202021-2023.pdf",
+  "titel": "Budget plan 2021-2023.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c6b5e2ec0634d7843108288d6c611c251bd49eab34d3e27ee08a4d7b6751f281",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 69,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "81,1 2022 ges ytterligare 1,4 mnkr i tillskott för halvårseffekt på Nämnden disponerar även ovanstående statsbidrag i ungefärliga belopp. Streteredsskolan och Balltorpsskolan sa",
+    "belopp_nara": true
+   },
+   {
+    "sida": 35,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ntal barn per årsarbetare inom Stadens försök med två lärarassistenter infördes innan stats­ förskola, kommunal regi bidrag fanns att söka. Statsbidragsfinansieringen upphör inför Mölndal 6,3 5,9 6,0",
+    "belopp_nara": false
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "14,6 vux för att uppnå behörighet till högskola och yrkeshögskola. Nämnden disponerar även ovanstående statsbidrag i ungefärliga belopp. Antalet kommunmedborgare som söker behörighetsgivande 1) Statsbidrag från Migrationsverket är beroende på volymer i",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.molndal.se/download/18.7dca557719a7d85cdddce8c/1763657724291/Budget%20plan%202020-2022.pdf",
+  "titel": "Budget plan 2020-2022.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "50a55533e7527a745aafbcd402299dc0799812d0227435d60ad4a8ecd22e2ee4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 65,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 32,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kostnader till fristående aktörer Grundsärskola 35,7 37,6 41,2 • 1,5 mnkr tillförs för minskade statsbidrag maxtaxa Kulturskola 16,6 16,9 15,5 • 2,0 mnkr tillförs för ökade livsmedelskostnader och pris­",
+    "belopp_nara": true
+   },
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tom det kommunbidrag som tilldelas från kommunfull- mäktige disponerar nämnden även vissa statsbidrag inom sitt verksamhetsområde. Under 2020 beräknas följande statsbidrag i ungefärliga belopp: Socialstyrelsen: Stabilisera och stärka barn- och ungdomsvården\b 2,0 mnkr Migrationsverket: Skolpeng asylsö",
+    "belopp_nara": true
+   },
+   {
+    "sida": 17,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tudiero/trygghet, extra stöd 8,0 Ersättning ökade lokalkostnader, fristående aktörer 2,0 Minskade statsbidrag maxtaxa 1,5 Budget/plan Mölndals stad 2020–2022 \b",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "samt extra stöd. Dessutom tillkommer medel för I tabell 6 redovisas en sammanfattning av de volymför- ökade måltidskostnader inom skolmåltider, minskat statsbidrag ändringar som sker mellan åren under planperioden. Till- maxtaxa, ersättning för ökade lokalkostnader till fristående kommande och avgående poster",
+    "belopp_nara": false
+   },
+   {
+    "sida": 38,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "delas från kommunfull- Förändrat elevtal gymnasieskola 6,3 3,6 mäktige disponerar nämnden även vissa statsbidrag inom sitt Förändrat elevtal gymnasiesärskola 0,8 0,4 verksamhetsområde. Under 2020 beräknas följande statsb",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
  }
 ]

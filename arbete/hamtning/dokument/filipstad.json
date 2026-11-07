@@ -103,5 +103,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.609de8b319ddcd049631231/1777884470695/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-05-07.pdf",
+  "titel": "Handlingar för möte Kommunfullmäktige den 2026-05-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ab2c1170640771eb024e3790a9dd0a9c76ec2f55c5301af42c6a45b0141833a9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 264,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.723a49019d48253924419df/1775632578536/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-04-09.pdf",
+  "titel": "Handlingar för möte Kommunfullmäktige den 2026-04-09.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1e3974ffcd5d5a4f215c05335f0634b5b6d0f83d15027683784c146b796afd6c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 184,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.8209f1d19c0324e7d75b58d/1770280640731/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-02-05.pdf",
+  "titel": "Handlingar för möte Kommunfullmäktige den 2026-02-05.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bc5f3d005f9e84cfe5dfd824f145892b01e5c5ff56f5e93dfe09141c99592407",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.2e1886f51a1630625f24ca8a/1793007295788/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-10-28.pdf",
+  "titel": "Handlingar för möte Kommunstyrelsen den 2026-10-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "74c8c30c63402554c0aed409b64b5f3591bab3ecd5f08f73e3118143bb19332b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 217,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 130,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erna ligger högre mot budget inom anpassad grundskola med - 202 tkr. Grundskolan prognosticerar sammantaget en budget i balans. Prognosen beräknas på att sökta statsbidrag beviljas. Grundskolan prognosticerar ett överskott med 500 tkr. Personalminskningar med 2.0 tjänst införs hösten 2026. Lägre elevantal har påverkat behovet av",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

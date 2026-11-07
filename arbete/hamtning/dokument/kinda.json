@@ -66,5 +66,20 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.kinda.se/download/18.3a1c4a01828c6490d0d5ec6/1669886252424/Budget%202023.pdf",
+  "titel": "Budget 2023.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e71f19bef80115ce832cd8b6a76934aafa133c05876fa65a42176b2617e429c9",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -43,5 +43,51 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.321225fd16de9d2f32cbd49/1571660673489/Kallelse%20barn-%20och%20utbildningsn%C3%A4mndens%20arbetsutskott%202019-10-15.pdf",
+  "titel": "Kallelse barn- och utbildningsnämndens arbetsutskott 2019-10-15.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "be4e4b6ecf58a434f545063188d1f069e7168effcb35b8a9b2ef05a1b9edc5c8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.752ef1da16d29738355359de/1568708631326/Kallelse%20barn-%20och%20utbildningsn%C3%A4mndens%20arbetsutskott%20%202019-09-10.pdf",
+  "titel": "Kallelse barn- och utbildningsnämndens arbetsutskott 2019-09-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "034b5eb89f11ca3610bc8b8039b888acffa7b511fd3dbcf773f310491d60acfc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.46d742f316cafe40b656f46/1566366222818/Kallelse%20barn-%20och%20utbildningsn%C3%A4mndens%20arbetsutskott%20%202019-08-13.pdf",
+  "titel": "Kallelse barn- och utbildningsnämndens arbetsutskott 2019-08-13.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "0cb820182054d2bce263ad43c96b9184774c5db71d11105c55182d252c3014e6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
  }
 ]

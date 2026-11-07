@@ -90,5 +90,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.65a36900197a1ea03201283d/1751008609384/Budgetdokument%202026-2029.pdf",
+  "titel": "budgetdokument pdf, 962.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f4c100627563852c1712f7783494498c7850151f65c64e0027261000a14e6814",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.65a36900197a1ea03201283c/1751008609300/Budgettabell%20fo%CC%88r%20driftbudget.pdf",
+  "titel": "Budgettabell för driftbudget pdf, 249.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a654b20938a93441eabffff7c2c1b5a8f2a9fae61eaeedc42e4b430e915bc5a0",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://amal.se/download/18.65a36900197a1ea03201283b/1751008609223/Budgettabell%20fo%CC%88r%20investeringsbudget.pdf",
+  "titel": "Budgettabell för investeringsbudget pdf, 188.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c10c019312d8b25be0e6ed5d2724cc3d8d301f483d5f62f9d7367ffd4ab3ca2c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

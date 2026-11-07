@@ -43,5 +43,66 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/03/kallelse-bun-2026-03-18.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-03-18",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6149b6d27af761a9b83dee2c5f51913b42fc8ec97d0cbde3a65a03aee640933d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/02/kallelse-2026-02-11-20.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-02-11",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "dabc3a476958a0d3fd8968f65ffbda78d786986a3c97c484242c0c4dc438386a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". 8.30-12.00 Plats: Kommunstyrelsens sammanträdesrum i Rådhuset Justering förslag: Louise Lissel Innehållsförteckning BUN § 1 Information - hantering av statsbidrag lärarlönelyftet .................. 5 BUN § 2 Bokslut 2025 ...................................................................................... 6 BUN § 3",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://sater.se/wp-content/uploads/2026/10/protokoll-2026-10-21.pdf",
+  "titel": "Barn- och utbildningsnämnden 2026-10-21",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8bf2f2e303b4a04faef2a72de23ce9abf9b7b8789ce1e9669e13809b8e8b81eb",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sskolan .. ........................................................................................................... 15 BUN § 79 Redovisning av statsbidrag ........................................................... 16 BUN § 80 Information från barn- och utbildningssektorn ............................ 17 BUN §",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

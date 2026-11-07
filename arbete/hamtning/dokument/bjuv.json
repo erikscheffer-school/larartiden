@@ -133,5 +133,74 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.5db9e75119c47c581bd3dcc6/1771415707984/Kallelse%20UN%20260225.pdf",
+  "titel": "Utbildningsnämnden 2026-02-25 pdf, 84.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c7eb9d62a18802fcb8033e775a10ce7378747a6c01b86409cef496703e82b08a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.30a062bc19d9a69135d29d38/1776940665046/Kallelse%20UN%20260429.pdf",
+  "titel": "Utbildningsnämnden 2026-04-29 pdf, 106.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b32a04694983f7a1e8a83854fac679a576064bf3277dce14ea4aed6c7b2f14f7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "nr 2026-00003 2. Val av justerare Dnr 2026-00004 3. Information: Aktivitet förebygger Dnr 2026-00054 4. Information: Betygsresultat och lärartäthet Dnr 2026-00104 5. Riktlinjer för skola och socialtjänst vid tillämpning av 10 kap. 15 a § offentlighets- och sekretesslagen Dnr 2026-001",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.d692cbf19e4399b89b2c2c/1779285365125/Kallelse%20UN%2020260527.pdf",
+  "titel": "Utbildningsnämnden 2026-05-27  pdf, 23.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "069eba9bbf258df53e850523d3903cb01f398fc2b00d0ad1bc57df6e661e6fde",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bjuv.se/download/18.e480a9b19ec4ea40579896f/1781531737218/Kallelse%20UN%20260617%20inst%C3%A4llt.pdf",
+  "titel": "Utbildningsnämnden 2026-06-17 pdf, 105.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "b8e56fb82d45dc44baa2fd0a1f971e6ee5ca127415241fdf03f3acb16ea04641",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

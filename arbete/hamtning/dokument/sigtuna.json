@@ -110,5 +110,109 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.64f93733184b928fc3a67ec/1669815414977/M%C3%A5l%20och%20Budget%202023-2025.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2023-2025\nPdf, 7.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6a754b1b8a44dc8aca1fe303292a1f1296ce92f283ca638b3a94dd55e6727c89",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 85,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a tillkommande behov av verksamhetslokaler, löneökningar, ökade avskrivningar och ökade pensionskostnader. Långtidsplanen visar på utvecklingen för skatter och statsbidrag, finansiellt netto, ramar för kommunstyrelsen och nämnderna, effektiviseringskrav alternativt reformutrymme för att uppnå en resultatnivå på 2 procent av skatt",
+    "belopp_nara": false
+   },
+   {
+    "sida": 37,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ningsmodell i barn- och skolpengen för att se om det går att hitta en ännu mera träffsäker modell. 9. Barn- och ungdomsnämnden får i uppdrag att genom statsbidrag stärka Framtidens skolbibliotek och säkerställa att det finns tillräckligt med böcker i kommunens skolbibliotek, mångfaldsbibliotek och cirkulation",
+    "belopp_nara": false
+   },
+   {
+    "sida": 56,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "är att Sigtuna kommun har en god ekonomisk hushållning där det årliga resultatet exklusive exploateringsvinster över tid överstiger intäkterna från skatter och statsbidrag med minst 2 procent. Kommunens kärnverksamhet, det vill säga vården, omsorgen, skolan tillsammans med tryggheten och den hållbara samhällsutvecklingen, ska pri",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.7f494153179f5c96fa75fd4d/1623923478381/M%C3%A5l%20och%20budget%202022.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2022-2024\nPdf, 5.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2d8b59fa9a9e148f23a291183ac34753eb5ba6516de819a087f21b179c506974",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 89,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "2,5 Bibliotek 1,0 Landsbygdsskolor 0,9 Lärartätheten i förskola 2,9 Utökat antal psykologer 0,8 Vikariekostnad",
+    "belopp_nara": false
+   },
+   {
+    "sida": 51,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ksamhetslokaler, löneökningar, ökade avskrivningar och ökade pensionskostnader. Flerårsplanen omfattar åren 2022-2027 och visar på utvecklingen för skatter och statsbidrag, finansiellt netto, ramar för kommunstyrelsen och nämnderna, effektiviseringskrav alternativt reformutrymme för att uppnå en resultatnivå på 2 procent av skatt",
+    "belopp_nara": false
+   },
+   {
+    "sida": 57,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "bil ekonomi. En förutsättning för detta är att Sigtuna kommun har en god ekonomisk hushållning där det årliga resultatet överstiger intäkterna från skatter och statsbidrag med minst 2 procent. Kommunens kärnverksamhet, det vill säga vården, omsorgen, skolan tillsammans med tryggheten och den hållbara samhällsutvecklingen, ska pri",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.sigtuna.se/download/18.282088481760b0d8abf80fb4/1606747105031/M%C3%A5l%20och%20budget%202021-2023.pdf",
+  "titel": "Sigtuna kommuns Mål och budget 2021-2023\nPdf, 5.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "60cce3b467ab67965a760330af9a678f133f5dcd77e473e92638764da5c3d20d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 105,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "bil ekonomi. En förutsättning för detta är att Sigtuna kommun har en god ekonomisk hushållning där det årliga resultatet överstiger intäkterna från skatter och statsbidrag med minst 2 procent. Kommunens kärnverksamhet, det vill säga vården, omsorgen, skolan tillsammans med tryggheten och den hållbara samhällsutvecklingen, ska pri",
+    "belopp_nara": false
+   },
+   {
+    "sida": 50,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ksamhetslokaler, löneökningar, ökade avskrivningar och ökade pensionskostnader. Flerårsplanen omfattar åren 2021-2026 och visar på utvecklingen för skatter och statsbidrag, finansiellt netto, ramar för kommunstyrelsen och nämnderna, effektiviseringskrav alternativt reformutrymme för att uppnå en resultatnivå på 2 procent av skatt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

@@ -141,5 +141,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/05/Kallelse-barn-och-utbildningsnamnden-2026-05-27.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "669cfda1439a659f9fe4ea0277fb3dd9dc5cd552e0e535f1ed90505c01e4f8df",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Maria Bengtsson kommer 14:00 5 Förslag taxor för förskola och fritidshem 2026/115 49 2026 Maria Bengtsson 6 Statsbidrag 2025-2026 2026/116 047 Maria Bengtsson 7 Presentation av sammanställning årlig 2026/117 026 uppföljni",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/04/Kallelse-till-barn-och-utbildningsnamnden-2026-04-29.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "eaf48615c75e02d941f5259c5412f7509be664b7921375a462072004027bae7a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/04/Protokoll-fran-barn-och-utbildningsnamnden-2026-04-29.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fdaf4edaf9b24df2b75855d41570ea493a503a0d98b5f138336974558cdc6213",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "esdatum 2026-04-29 BUN § 43/2026 Meddelande 1. Skolverket Beslut om statsbidrag för kvalitetshöjande åtgärder i förskolan för 2026. Hultsfreds kommun beviljas 4 169 362 kronor för 2026. Beslut om statsbidrag för und",
+    "belopp_nara": true
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tsutskott 2026-03-31, § 65/2026, Presidiemöte med barn- och utbildningsnämnden och socialnämnden 6. Barn- och utbildningsförvaltningen Redovisning av statsbidrag kvalitetshöjande åtgärder i förskolan 2026. Ansökan om statsbidrag för icke-folkbokförda 2026. Anmälningar om kränkande behandling eller diskriminering 2",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/03/Kallelse-till-barn-och-utbildningsnamnden-2026-03-25.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "afa997138fbb96896bb1ddf981bf7b89c5f60dd812c02ed56aec5e7155dd920a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

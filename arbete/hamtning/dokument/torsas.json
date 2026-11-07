@@ -106,5 +106,53 @@
   "träffar": [],
   "antal_träffar": 0,
   "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollbin170509.pdf",
+  "titel": "Protokollbin170509",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "46076be7190243d3f5ad259a7a14f0259e78adffae6bb2894953b2443cc86173",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollbin170411.pdf",
+  "titel": "Protokollbin170411",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c2c8b0cae570b8626ecf9b9dacea98118acad084619e2547789e6eae162e3c2c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollbin170314.pdf",
+  "titel": "Protokollbin170314",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "593e59192f7c5236cbe957bf836e9f489df9babb2673dcb832c9c0707154ee98",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
  }
 ]

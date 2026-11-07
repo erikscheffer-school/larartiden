@@ -137,5 +137,116 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://laholm.se/download/18.77d939c18afea4fb129d3c/1697187645843/Kommunplan%20med%20budget%20f%C3%B6r%202023.pdf",
+  "titel": "Kommunplan med budget för 2023\npdf, 3.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "11f6e370fe789620d8bd5e868ed13e3b8b9c5af4bf255bb49a49a6bb9ec3b61a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 75,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gar av medel till övriga reserver återfinns i budgeten. Under ett antal år har nämnderna utöver erlagd plan erhållit stora tillkommande resurser genom riktade statsbidrag för olika typer av satsningar som exempelvis likvärdighetsbidraget inom skola samt olika satsningar inom lönepolitiska områden för karriärtjänster och förstelä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 35,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "s satsningar för 2023 och åren därefter. Detta kan komma att påverkas i den nya regeringens budgetproposition. Tro- ligtvis kommer de dock att kvarstå. Riktat statsbidrag för lärarlönelyftet och karriärtjänster Inför budgetåret 2020 var ett par bidrag som tidigare varit mycket oklara var de riktade statsbi- dragen för lärarlönel",
+    "belopp_nara": false
+   },
+   {
+    "sida": 36,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Riktat statsbidrag för likvärdig skola Tidigare regeringen lämnade inför 2022 förslag om ytterligare satsning på det riktade statsbi- draget, likvärdig skola, som ökade från 6,2",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://laholm.se/download/18.77d939c18afea4fb129df9/1697190425328/Kommunplan%20med%20budget%202022.pdf",
+  "titel": "Kommunplan med budget för 2022\npdf, 2.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1f43d7cd8e26a74b6b6dbe3f845ca533c3e17df1df88c8ea9661f4521d671268",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 73,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 34,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ett riktat statsbidrag. Riktat statsbidrag för likvärdig skola (riktat statsbidrag) Regeringen har också lämnat förslag om ytterligare satsning på det riktade statsbidraget, likvär- dig skola, som ökar från 6,2 miljarder kronor 2021 till 6,5 miljarder kronor 2022. För 2021 uppgick bidraget till Laholm på cirka 17,3 miljoner kro",
+    "belopp_nara": true
+   },
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". Även medel till övriga reserver återfinns i budgeten. Under ett antal år har nämnderna utöver erlagd plan erhållit stora tillkommande resurser genom riktade statsbidrag för olika typer av satsningar som exempelvis likvärdighetsbidraget inom skola samt olika satsningar inom lönepolitiska områden för karriärtjänster och förstelä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 33,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "r även under 2022 som för 2021 till att alla barn och elever, trots pandemin, ska få den utbildning de har rätt till. Medlen kan bland annat användas till ökad undervisningstid och mer stöd för de elever som behöver det. Statsbidraget avser hela skolväsendet, det vill säga förskolan, den obligatoriska skolan, gymnasieskolan, gymnasies",
+    "belopp_nara": false
+   },
+   {
+    "sida": 44,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ", utvidgade skyldigheter för kommunen. Kom- munerna inkomster måste minst uppgå till samma nivå som skatteunderlagsutvecklingen och utvecklingen i utjämningen (statsbidrag). Befolkningsökningen och den demografiska föränd- ringen i landet medför volymökningar inom förskola, skola och välfärdsbehov inom äldre- och handikappomsorg",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 13
+ },
+ {
+  "url": "https://laholm.se/download/18.4db9323419c98915e081d90/1772104896918/Protokoll%20UBN%202026-02-25.pdf",
+  "titel": "Protokoll den 25 februari\npdf, 270.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "359b72ccc252444d2337c946eaea13e01c6877ec032b6df228339b667a890926",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://laholm.se/download/18.50f2538119ed430e907765e/1781776576354/Protokoll%20UBN%202026-06-17.pdf",
+  "titel": "Protokoll den 17 juni\npdf, 289.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c3f8e31efe10d600f66a2d15fb416d0a68bab94f079775b1a6e207c4936a1fa2",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

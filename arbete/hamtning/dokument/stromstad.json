@@ -140,5 +140,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.63b7a5c19d24cada8b5600e/1775635393743/Protokoll%20KS%202026-04-01.pdf",
+  "titel": "Protokoll KS 2026-04-01.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cdcfc21e4bb9a4a2c3208f94d60c81b714dad7ce2777b8f030288ec74639a7c3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.443e1d3919e49e0359580bd/1779467143637/Protokoll%20KS%202026-05-20.pdf",
+  "titel": "Protokoll KS 2026-05-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3a6891cc639f17461fa37f0327cb138ee379e87f3bd227c81f8ef046b0f9bb13",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromstad.se/download/18.562173d119eafce1ce2961c/1781191692609/Protokoll%20KS%202026-06-10.pdf",
+  "titel": "Protokoll KS 2026-06-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d5a0fdddb9a13e730ff3d035fec248fe36314f6275ebf090a7e1be5b06fbb43b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

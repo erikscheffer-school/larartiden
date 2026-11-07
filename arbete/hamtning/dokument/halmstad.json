@@ -73,5 +73,35 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.33d085581a1631b25e5c168d/1793033208558/261022-kf-protokoll-gdpr.pdf",
+  "titel": "261022-kf-protokoll-gdpr.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6b1af1b7e7d2281cada9a648cfee1723b3057a0751bbedf3d018eae561175588",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.769a0ebc19044d4f810bda23/1719810458590/Reglemente-och-arbetsform-Barn-och-ungdomsnamnden.pdf",
+  "titel": "Reglemente och arbetsform för barn- och ungdomsnämnden\nPdf, 167.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ff7271a583179ad993160d5f7f136a912d021e22e66623c7cadeed14df5d76d8",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -43,5 +43,81 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf43/1734685164123/Protokoll%20BUN%202023-02-15.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-02-15\npdf, 485 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "f82546c8fa64334e0e0fa2bb5ce5af630fcc41d8ba82eb41a60d794fb07e8ccc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "Förslaget till en ny timplan för grundskolan följer Skolverkets stadieindelade timplan och säkerställer att minsta antal garanterade undervisningstimmar uppnås i varje ämne och stadium. Beslutsunderlag Bilaga Förslag grundskolans timplan 2023",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf45/1734685174717/Protokoll%20BUN%202023-03-17.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-03-17\npdf, 534.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2e1aa008b414f17eac89422ffb68a9e378ca827fc2b62909f7b7610c555eea92",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "13 BUN § 22 Interkommunal ersättning Montessori 2023 15 BUN § 23 Missiv - Garanterad undervisningstid 17 BUN § 24 Missiv - Systematiskt kvalitetsarbete 18",
+    "belopp_nara": false
+   },
+   {
+    "sida": 17,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Mötesdatum 2023-03-17 BUN § 23 Missiv - Garanterad undervisningstid Diarienummer BUN 2023/14 Beslut Barn- och ungdomsnämnden beslutar att fastställa åtgärdsp",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 14
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf47/1734685185115/Protokoll%20BUN%202023-05-03.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-05-03\npdf, 553.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4a6323ec7cf14f2bd908baaca41f3e65f11fafb00244d2801e67e8741fcfa32b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "1 miljoner kr. Utfallet av medlen påverkar förvaltningen och möjligheterna till att planera arbetet på lång sikt. Statsbidraget för likvärdig skola är en stor del av dessa bidrag, för år 2023 är den 10,5 miljoner kronor för Haparanda kommun, vilket är en liten",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

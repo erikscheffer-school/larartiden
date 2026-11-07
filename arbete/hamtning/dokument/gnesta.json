@@ -172,5 +172,72 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.5efea1df19d012c10a4123f6/1774017315938/Kallelse%20barn-%20och%20utbildningsf%C3%B6rvaltningen%202026-03-23%20komplettering.pdf",
+  "titel": "Kallelse barn- och utbildningsförvaltningen 2026-03-23 komplettering.pdf\nPdf, 194 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "86eda139d9acd07d3463743aef94a0bfa99318f5bbd3d79355fd30decd931952",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.7e34ed9719dcdc04dc63fb62/1777876721403/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-05-11.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-05-11.pdf\nPdf, 7.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "75d4d10de1561e0846d9bc12c72fa400397d02611e4d878339744ee6160c934f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 99,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnesta.se/download/18.67f18ed19ea56f5bfaef0/1780903865098/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-06-15.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2026-06-15.pdf\nPdf, 3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "45684b4067e5d960710c3e71f061db18379759df37ef25a060bd531897d40b8f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 70,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 50,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ve centrala elevhälsan Verksamhetsområdet redovisar totalt per sista februari en negativ avvikelse om -2 520,8 tkr mot budget. Störst avvikelse ses inom lägre statsbidrag och personalkostnader samt högre kostnad för köpta platser. Övergripande verksamhet som innehåller köpta platser redovisar ett underskott -3 040,7 tkr för per",
+    "belopp_nara": true
+   },
+   {
+    "sida": 53,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "-778,2 93,3 Kulturskola Verksamheten redovisar per sista april ett överskott om +131,8 tkr och kan härledas till högre intäkter i form av statsbidrag. Personalkostnader har en negativ avvikelse för perioden om -7,9 tkr. Detta bedöms dock inte ha en större påverkan på personalkostnaderna på årsbasis då verksa",
+    "belopp_nara": true
+   },
+   {
+    "sida": 41,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "vis i lådor som låses in under dagen och lämnas tillbaka vid sista lektionen. För detta finns behov av säkerhetsskåp, vilket planeras finansieras genom riktade statsbidrag. Oavsett regeringens beslut kan mobilförbud på högstadiet bli aktuellt, då detta redan idag kan beslutas av rektor enligt skollagen. Dokumentnamn",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

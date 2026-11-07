@@ -175,5 +175,88 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.706672e318c6244728520f9/1734503431451/Renh%C3%A5llningsordning%20f%C3%B6r%20Kristianstads%20kommun%20Avfallsplan%20-%20M%C3%A5l%20och%20handlingsplan.pdf",
+  "titel": "Renhållningsordning för Kristianstads kommun Avfallsplan - Mål och handlingsplan.pdf Pdf, 476.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c386d5eb214ac195d4b9dec3293e5694b72c8343f000860ebaf9aeb7c2d187f0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.7e2d93771a0f5beb5122571/1790857109158/Kristianstads%20kommun%20budget%202025.pdf",
+  "titel": "Kristianstads kommun budget 2025.pdf Pdf, 2.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2f3e6fdecebe6ec43ce639b3f5169adde40ffc9a6166199a44c41c37b25a1003",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och skola och äldreomsorg. PERSONALKOSTNADSÖKNINGAR generella statsbidrag. De starka resulta- INVESTERINGAR För år 2025 beräknas löneutvecklingen ten gjorde",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.7e2d93771a0f5beb5122572/1790857110098/Kristianstads%20kommun%20budget%202026%20Bilaga%201%20investeringsbudget.pdf",
+  "titel": "Kristianstads kommun budget 2026 Bilaga 1 investeringsbudget.pdf Pdf, 182.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "87a00c95041ccaaf973b02c44c89118ce12b828ce0474484f80059b697891732",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.kristianstad.se/download/18.7e2d93771a0f5beb5122573/1790857110438/Kristianstads%20kommun%20budget%202026.pdf",
+  "titel": "Kristianstads kommun budget 2026.pdf Pdf, 3.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "798f35686c85719803538fb28098e946e384dc5f599a570d2d4c91bed65d6001",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "till både barn- och Reserver deltidsorga- RN 0,4 utbildningsnämnden samt arbete- och ÖVRIGA STATSBIDRAG nisation välfärdsnämnden får fler skolområden Förutom de prioriteringar som kom-",
+    "belopp_nara": false
+   },
+   {
+    "sida": 20,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "oner pågår. Arbetet ska självfinansieras genom skatteintäkter reducera tillskottsvatten. med brandstationen i Tollarp närmar och generella statsbidrag har nämnderna sig färdigställande och därefter följer SKOLBYGGN",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
  }
 ]

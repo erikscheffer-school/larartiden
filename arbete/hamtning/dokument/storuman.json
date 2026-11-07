@@ -126,5 +126,50 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.storuman.se/contentassets/9d46b5f7ee13423db9b54a672f3c75c6/protokoll-ks-2026-10-13.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-11-03 (489 kB) 2026-10-13 (435 kB) 2026-09-08 (537 kB) 2026-05-26 (740 kB) 2026-03-31 (205 kB) 2026-0",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9e3121164e153c6637e7a3ed1c48e39474de7803e176777317a39c7a6ec2633b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/ks/ks241105.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-11-03 (489 kB) 2026-10-13 (435 kB) 2026-09-08 (537 kB) 2026-05-26 (740 kB) 2026-03-31 (205 kB) 2026-0",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ccc6f03ce49ce3574aec1ed7b177a0ca68025ed497809a52ef16a12707b2843b",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/kommun-och-politik/moten-handlingar-och-protokoll/kf/ofn200217.pdf",
+  "titel": "Överförmyndarnämndens i södra Lappland protokoll 2020-02-17 (pdf, öppnas i nytt fönster)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "841c2f5be612c01a7cae4ad078ba60f4a5a984ba1c79833659035b9635d6a33a",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

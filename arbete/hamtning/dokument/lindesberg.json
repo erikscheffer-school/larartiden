@@ -96,5 +96,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.5444ed281a1160fb49e3436/1791555538252/Kallelse%20Kommunfullm%C3%A4ktige%202026-10-19.pdf",
+  "titel": "Kallelse Kommunfullmäktige 2026-10-19.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "112f98932f2b5d8510e7f0300c55598b6971e739386aa3a7afcb6799b87ba4d6",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.b08cf01a042280e008ece/1788348436353/Kallelse%20kommunfullm%C3%A4ktige%202026-09-07.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-09-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3114e6649a412ab6c5506dceb95afbba00b9e3683657e0a8a875dd44005e3d90",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 185,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 148,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r. Regionens satsning Kulturkraft – för varenda unge – ger bidrag baserat på antal elever (122 034 kr till Lindesberg 2025). Kulturrådet  Skapande skola: Statsbidrag för att integrera konst och kultur i undervisningen. Läsåret 2025/2026 uppgår bidraget till 601 284 kr.  Utvecklingsbidrag till kulturskolo",
+    "belopp_nara": true
+   },
+   {
+    "sida": 152,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ur. Regionens satsning Kulturkraft – för varenda unge – ger bidrag baserat på antal elever (122 034 kr till Lindesberg 2025). Kulturrådet  Skapande skola: Statsbidrag för att integrera konst och kultur i undervisningen. Läsåret 2025/2026 uppgår bidraget till 601 284 kr.  Utvecklingsbidrag till kulturskol",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

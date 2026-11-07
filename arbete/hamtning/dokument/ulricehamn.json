@@ -135,5 +135,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.3ab15c21a0adc92ba2d32bf/1790241130723/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-10-01.pdf",
+  "titel": "Ärendelista och handlingar 1 oktober 2026 (pdf) pdf, 14.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "2544b0f9763e45176d04e03e892cebc832d5a21c8335fa3d9d2d61a4850dd180",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 250,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "specialskola, gymnasieskola eller anpassad gymnasieskola 22.2 Verksamhetschef 2026-08-14 Nr 785/2026, 855/2026 2026-167 Rekvirering av statsbidrag 22.6 Sektorchef 2026-07-01, 2026-09-02",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.53a3b8141a06c416a9e9238a/1788934193766/Protokoll%20kommunstyrelsen%202026-09-03.pdf",
+  "titel": "Protokoll 3 september 2026 (pdf) pdf, 614 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "d8c484b3860534a06f42444176fdf4a888b3577f216c45634133eef9fd7547cc",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 67,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.51b98f641a042156370f15b2/1788501439718/Protokoll%20omedelbart%20justerat%20kommunstyrelsen%202026-09-03.pdf",
+  "titel": "Protokoll omedelbar justerat § 218 3 september 2026 pdf, 194.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "caf1cbc7c1429a1fbe0c389ebbb5761e5b308a4fac10d47abf0ffe4e04149f65",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

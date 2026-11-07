@@ -58,5 +58,60 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.58ec93661a133f6ee1f157ba/1792048025897/Kommunfullm%C3%A4ktiges%20valberedning%202026-10-26.pdf",
+  "titel": "Kommunfullmäktiges valberedning 2026-10-26.pdf\nPdf, 114.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "759ae1973ce86eca84bca1886ed4274189b82da5fba924eb7a446243c0711e1c",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.7313608f19bf1a141992cba5/1769425315467/Protokoll%20Barn-%20och%20utbildningsutskottet%202026-01-23%20signerat.pdf",
+  "titel": "Protokoll Barn- och utbildningsutskottet 2026-01-23 signerat.pdf\nPdf, 2.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ce512f39fb8ea3fd8c5e235367ed5974c3a1216eb30081661f9e9b9ce968cc3f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvdalen.se/download/18.318a3bf819c93370b5ee5e8e/1772782222932/Protokoll%20Barn-%20och%20utbildningsutskottet%202026-03-05%20signerat.pdf",
+  "titel": "Protokoll Barn- och utbildningsutskottet 2026-03-05 signerat.pdf\nPdf, 1.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "87d155ea655d78a029bd9e5d1ea2b024f5c650e5b1e3f173d08dfb6b9fad0d56",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "älsa samt studieresultat i linje med modern sömnforskning. I dagsläget är medborgarförslaget inte genomförbart på grund av flera anledningar, såsom skolskjuts, lärarnas arbetstider och schematekniska svårigheter. Kommunen tackar för medborgarförslaget. Beslutsunderlag Tjänsteutlåtande daterat, 20260223 Medborgarförslag: Senarelägga sko",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
  }
 ]

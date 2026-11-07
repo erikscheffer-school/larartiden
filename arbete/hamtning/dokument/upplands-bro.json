@@ -125,5 +125,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.1b1fe85b1885185e2ba154b7/1686593836311/Samlad.pdf",
+  "titel": "Budgetförslag pdf, 5.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8756f9354cd2b85890233ba99d67af1544725529a265fd8347f221150efb8cff",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 164,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 121,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ihet för elever och föräldrar. Skolorna i kommunen behöver ytterligare resurser för att bygga en skola med ännu högre kvalité och trygghet. Skolan behöver ökad lärartäthet, lägre lärarflykt och fler kvalificerade lärare. Vilket kräver ökade resurser. Sverigedemokraterna vill satsa på kommunens skolor med fyra målsättningar: Målet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 147,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "m att säkra kvaliteten på våra skolor och förskolor och det gör vi i kommunal regi. I skolan gör vi detta genom att anställa behöriga lärare och genom att öka lärartätheten. Vi sätter ett tak på antal elever i klassrummen till 25 elever. I förskolan gör vi detta genom att anställa behöriga förskolepedagoger och barnskötare sam",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.79e769af188bdd3bf8c6bff/1687328602634/Protokoll%20Kommunfullm%C3%A4ktige%202023-06-14.pdf",
+  "titel": "14 juni 2023Tillkännagivande och kallelse pdf, 118.6 kB.Handlingar pdf, 137.5 MB.Budgetförslag pdf, 5.7 MB.Protokoll pdf, 531.9 kB.Antagen budget pdf,",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ef6a29bd0870dbd5d056361a1966d848a1bb5bd082b4e3de9e64a64201000ce4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 64,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

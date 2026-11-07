@@ -137,5 +137,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.3d6da4bf1a17b5a55b0670/1793617206222/7_3_Investeringsbudget%202027-2031%20f%C3%B6r%20Svenljunga%20kommun%20och%20Svenljunga%20Verksamhetslokaler%20AB%20%E2%80%93%20Bilaga%201%20beskrivningar.pdf",
+  "titel": "7_3_Investeringsbudget 2027-2031 för Svenljunga kommun och Svenljunga Verksamhetslokaler AB – Bilaga 1 beskrivningar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1472b1217692a64196b3a34368e910d0ba99f701e8e9a1208fcbda5eff1b3627",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.3f4e20b1196d0a6eb0c4bb/1747921432114/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202025-2027.pdf",
+  "titel": "Barn- och utbildningsnämndens Verksamhetsplan 2025-2027.pdf Pdf, 400 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "80528194ea002f66b721ef26a1cbc2d86fb4988fb38db2f3e0b62bb47bf7b0ce",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svenljunga.se/download/18.6e9e0b3f18dd5dd7c33ec6/1709635605890/Barn-%20och%20utbildningsn%C3%A4mndens%20Verksamhetsplan%202024-2026.pdf",
+  "titel": "Barn- och utbildningsnämndens Verksamhetsplan 2024-2026.pdf Pdf, 309 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8458be1f2182732a3e3af3fe1af0833f816c8c0d9ec62d829380922fb966ea46",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -103,5 +103,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.641a595019cfee58fc76cf6/1774346054064/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-03-18.pdf",
+  "titel": "Barn- och utbildningsnämndens protokoll 2026-03-18.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "3123a7fd80004e04e3307e6a9f625302b26fc1a2bdff489b69e0f14943c725c7",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.2011181119d6ffa29fe5b0/1775729118492/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-04-01.pdf",
+  "titel": "Barn- och utbildningsnämndens protokoll 2026-04-01.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "e9c3989a5efd1ff54dab35f30ac43a33161801b7ed8f44a6227d68d965e7f657",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.savsjo.se/download/18.34f1081919df3803a6d989c/1778662985237/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-05-06.pdf",
+  "titel": "Barn- och utbildningsnämndens protokoll 2026-05-06.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "598ea58055e22531ffc12935fc87b2c88da35549c34dbab88bdc5ea5e74b55ff",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

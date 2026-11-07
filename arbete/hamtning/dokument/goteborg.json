@@ -198,5 +198,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www4.goteborg.se/prod/intraservice/namndhandlingar/samrumportal.nsf/95FE8A84331AAD89C1258DF4001FB01F/$File/07_EXN260518.pdf?OpenElement=",
+  "titel": "Hållbar stad – öppen för världen Förvaltningen informerar",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "64f1d5601675b74fc3d1e26df46be60fd58898a0914eb99ebf774c645d258250",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://poseidon.goteborg.se/wp-content/uploads/2026/02/Arsredovisning_2025.pdf",
+  "titel": "ÅRSREDOVISNING 2025 BOSTADS AB POSEIDON",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8d2d14ea0b82ef9c68a96fb9c8d916038da3ff7ff332c5a53400f18b0b803ed1",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 85,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://poseidon.goteborg.se/wp-content/uploads/2026/03/Poseidon-Arsredovisning-2025_webb.pdf",
+  "titel": "Årsredovisning 2025 Bostads AB Poseidon - Göteborgs Stad",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "81d840df48ed7171587ae7bd4217e55962c9c8434642f43c7c8bcfedcbc7de90",
+  "sökning": 1,
+  "budget2027": false,
+  "sidor": 85,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

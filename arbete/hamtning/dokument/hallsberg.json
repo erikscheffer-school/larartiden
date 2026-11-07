@@ -211,5 +211,97 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.cc84b5f1a0adaf6813481c/1790678650231/2026-09-21%20-%20Protokoll%20KF.pdf",
+  "titel": "2026-09-21 - Protokoll KF.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "10c4c99673e88e62a94ff5dc77370383824efbc3ea32564cdefdb226c4050f04",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 121,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hallsberg.se/download/18.246489bf19eafcdf93434/1781079856473/2026-06-08%20-%20Protokoll%20KF.pdf",
+  "titel": "2026-06-08 - Protokoll KF.pdf Öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "9dd50cada0eb0ec83f335199d4beaff317414777e7c216c021914bfe17ab89bf",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 533,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid",
+   "tid för undervisningsuppdraget",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 141,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "kap. Verksamhetsutveckling genom digitalisering och AI innebär att vilja lära och att göra det tillsammans och i samverkan. Skolreformer Den nya regleringen av lärares undervisningstid innebär att staten inför nationella ramar för hur mycket tid lärare ska undervisa och hur mycket tid som ska avsättas för planering och uppföljning av undervis",
+    "belopp_nara": false
+   },
+   {
+    "sida": 142,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "t kan finansiera någon seriös uppbyggnad av ny verksamhet. Större effekter på skolans områden får dock tidigare kommunicerade reformer, exempelvis förslaget om lärares arbetstid, där skillnaden mellan den statliga finansieringen och de faktiska kostnaderna bedöms överstiga 5 miljarder kronor. Även riktade medel för kunskapsbidrag och s",
+    "belopp_nara": false
+   },
+   {
+    "sida": 291,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "ar: e förslag rörande yrkesutbildning och Fler vägar in i arbetslivet — kompetensförsörjning. Tid för undervisningsuppdraget insatser för att renodla lärarrollen. — En förbättrad elevhälsa —",
+    "belopp_nara": false
+   },
+   {
+    "sida": 122,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lande till budget. Prognosen är fortsatt svårbedömd då verksamheterna arbetar med att fastställa organisationen inför hösten. Det finns även en osäkerhet kring statsbidrag som har sökts, vilket också kan komma att påverka prognosen positivt. Förskolorna prognostiserar ett överskott mot budget på cirka 2,5 mnkr. Anpassning av verk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 154,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "maxtaxan gör. En familj med två barn i förskolan sparar upp till ca 1 300:- kr /månad (2026 års nivå). Förändringar i riktade statsbidrag och maxtaxan för förskolan gör det svårt att sätta budget för reformen 2028-2029. Vi avsätter 5 miljoner kronor årligen och är beredda att vid behov öka finans",
+    "belopp_nara": true
+   },
+   {
+    "sida": 140,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "försvåras av de reformer som aviserats. Samtliga verksamheter påverkas av omställningen till nya socialtjänstlagen och bedöms ha ekonomiska effekter över tid. Statsbidragen är begränsade och omställningen tar tid vilket kan innebära utmaningar att finansiera omställningen. Beredskap har fått en större betydelse i för kommunernas",
+    "belopp_nara": false
+   },
+   {
+    "sida": 268,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a ledord för kommunsektorn framöver. Kommunerna står inför en rad svåra beslut, bland annat att anpassa verksamheter till färre barn och elever. Intäkter och statsbidrag Medlemsbidragen finansierar cirka 6124 av verksamheten. Övriga kostnader finansieras främst via försäljning av skolplatser, därav vikten att locka fler elever",
+    "belopp_nara": false
+   },
+   {
+    "sida": 276,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ervisning i svenska som andraspråk för att säkerställa att alla elever ges möjlighet att nå examensmålen. Verksamheten har erfarna och välutbildade lärare och lärartätheten är hög. Behörigheten ligger på 9324. Vi erbjuder obehöriga yrkeslärare behörighetsgivande utbildning inom VAL efter två års anställning. Dessa faktorer gör a",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 14
  }
 ]

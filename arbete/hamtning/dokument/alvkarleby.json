@@ -52,5 +52,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.53a36d84187ad1076fd476/1683725986298/KF_2023-04-26-KF%20protokoll%2026%20april.pdf",
+  "titel": "26 april pdf, 1008.1 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "fb9c56606850a386b611f6dd51c440520c87a1eff36e776e259a560bd9faf073",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.6cd3bc61184288ff02338e/1667316306607/KF%20protokoll%2026%20okt.pdf",
+  "titel": "26 oktober pdf, 331.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c71d826a020375f06de47272d50a98ca803d56a79116ce3e1f75ef0143ed6c5f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvkarleby.se/download/18.290ea4ea1a1a18dfda215c/1793716099666/Dagordning%20KS%202026-11-11.pdf",
+  "titel": "Kallelse till kommunstyrelsens sammanträde den 11 november\npdf, 165.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bfb9a37b01abf60f36017dace8fe0f811b5d77ce33249f3dcbf807256d6f8668",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

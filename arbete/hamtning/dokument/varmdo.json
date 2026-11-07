@@ -123,5 +123,65 @@
    }
   ],
   "antal_träffar": 17
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.57c1368f18529dd0cc6b34d3/1675241659092/Huvudmannens%20plan%20f%C3%B6r%20systematiskt%20kvalitetsarbete%20p%C3%A5%20vuxenutbildningen%20i%20V%C3%A4rmd%C3%B6.PDF",
+  "titel": "Huvudmannens plan för systematiskt kvalitetsarbete på vuxenutbildningen i Värmdö.PDF\nPdf, 989.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5aea6892c477b0ebdd280a2f1e65b5970cc3aad7c8d0abbde226f87181df39c7",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ning och auktorisation för antagning till vuxenutbildningens tre skolformsdelar samt för viss myndighetsutövning och för hantering av statsbidrag inom Yrkesvux. Som huvudman ska enheten för antagning och auktorisation och vuxenutbildning- och arbetslivskontoret även säkerställa",
+    "belopp_nara": false
+   },
+   {
+    "sida": 16,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "orsaker till avbrott • Måluppfyllelse (godkända och underkända) • Antal lärlingar Statistik kopplat till statsbidrag • Helårsplatser yrkesvux • Helårsplatser lärling Övrig statistik • Antal skolor pe",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.22e4ee451639ed6e2d8bfbe7/1528180762609/IKT-strategi%20f%C3%B6r%20kommunala%20grundskolor.pdf",
+  "titel": "IKT-strategi för kommunala grundskolor.pdf\nPdf, 1.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "991e884634a8ca1ba58bddc8461bb78ba878539130b209eaf7dbffc8a39cb0b3",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.varmdo.se/download/18.2556a422187eb0fb1a84ab23/1684761387168/Instruktion%20f%C3%B6r%20%20kommunstyrelsens%20klimat-%20och%20milj%C3%B6utskott%20.pdf",
+  "titel": "Instruktion för kommunstyrelsens klimat- och miljöutskott .pdf\nPdf, 204.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1a5d7ff6ef02ce26d79a6c3d4c7d4df705d2f76a38be0688739a0fbcdd5fa869",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

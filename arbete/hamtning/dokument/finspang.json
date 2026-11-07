@@ -147,5 +147,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.4953b4f71a0ada95b47b3d13/1790693209421/2026-09-23%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 23 september",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "61b5828f262198459e5a72c4805fe02b7b778a48a714fc25c5952dd3a1aabc7d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.1598661019e63286f97c9ffb/1780904012093/2026-06-18%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 18 juni 2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "58f28bbcacbafc83d0f64a0109893cade5f539337b0980e37c8847077a51e3d4",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 171,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "v. Även kostnaden för den externa leverantören av skolskjuts har gått upp kopplat till indexökning beroende på ökade bränslepriser. Samtidigt har ett statsbidrag som inte fanns med i budget tillkommit bland intäkterna. Dessa poster tar ut varandra. Kostnaden för köp av externa platser beräknas bli högre då fle",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://finspang.se/download/18.6ac10d1d19ed45e47a272364/1782371406862/2026-06-18%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 18 juni",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "945888b72137be30b1b87678a0885ad338c105bfcf52ae7cb36b9126347e7d03",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -126,5 +126,88 @@
    }
   ],
   "antal_träffar": 1
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2023/10/preliminara-budgetramar-2024.pdf",
+  "titel": "Preliminära budgetramar 2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "80eac2ed74d7c58a0101b4ea7f1f4d5e0aab4b8405fc7a7115d832ef82c55319",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "fektivisering inför 2024 Summa effektiviseringar 0 Varav prioriteringar inför 2024 Utökad undervisningstid ny timplan införs, ingår i Generellt statsbidrag 348 generella statsbidrag inledningsvis, s",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2023/05/verksamhetsplan-med-budget-2023-och-flerarsplan-for-2024-2025-1.pdf",
+  "titel": "Verksamhetsplan med budget 2023 och flerårsplan för 2024-2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "6eeff3eb9e2228a07d8553c90b57560627a97fe012d5d0efc27667c280076b28",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2024/03/verksamhetsplan-med-budget-2022.pdf",
+  "titel": "Verksamhetsplan med budget 2022",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5cc58503dcd73096a0f9c6eea26068a81cf383848f5506c33463f7354bb8a6ef",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 53,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.morbylanga.se/wp-content/uploads/2024/03/verksamhetsplan-med-budget-2021.pdf",
+  "titel": "Verksamhetsplan med budget 2021",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "621f359a3bcafca67dc260fa2bcbae7e7225bffbee66867d533c798450f6a092",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 54,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "dsökningar men fortfarande en stor del av dem. Utöver detta görs en satsning på 3 300 tkr inom grundskolan (lågstadiesatsning) för att kompensera för uteblivet statsbidrag inom denna verksamhet. Ett riktat statsbidrag för att höja kvaliteten inom äldreomsorgsverksamheten fördelas ut till verksamheten och extra medel för att föreb",
+    "belopp_nara": true
+   },
+   {
+    "sida": 44,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "getram ökar med 13 555. Kostnadsuppräkningen på 1 procent ger nämnden en utökning med 1 355 tkr. En extra satsning görs på grundskolan då regeringen tagit bort statsbidrag på motsvarande 3 300 tkr inom lågstadiet. Utöver detta tillförs verksamheten medel utifrån resursfördelningen med prognosen för antalet barn som underlag. Nämn",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 5
  }
 ]

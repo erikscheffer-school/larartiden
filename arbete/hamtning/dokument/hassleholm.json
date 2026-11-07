@@ -118,5 +118,65 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.3fd0ef1197124022344df4b/1749814628832/Kommunfullm%C3%A4ktiges%20kallelse%202025-06-16.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-06-16.pdf Pdf, 23.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "15ce6dd8f11742965d5766369854654bf81866a57be829cf5f3ce22fcd636b1a",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 395,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.5f23dee419613aad3ee63fd6/1745847191468/Kommunfullm%C3%A4ktiges%20kallelse%202025-04-28.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-04-28.pdf Pdf, 21.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "4b10d462328e1066d089408374fe94affc9151b05f9b9f523b0d151ff2609630",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 499,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hassleholm.se/download/18.18dd814c195a81c813919f6f/1743419462734/Kommunfullm%C3%A4ktiges%20kallelse%202025-03-31.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2025-03-31.pdf Pdf, 25.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "1d617521ca4140f473ec0a39c3e373660f898251374c67b047128523f2c68dc0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 334,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 47,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "h med 50 % administrativ lön som 400, 407, bekostas med statsbidrag 140 tkr. Förskola, pedagogisk omsorg 376 223 380 304 -4 081 205 205 412",
+    "belopp_nara": true
+   },
+   {
+    "sida": 49,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gymnasieskolan utifrån den tilldelade bidragsramen för statsbidraget Lärarassistenter motsvarande 275 tkr. • Lägre intäkt",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

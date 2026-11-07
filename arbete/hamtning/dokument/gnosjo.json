@@ -134,5 +134,58 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.323ece9319ff0a6f1715615/1788256318913/F%C3%B6redragningslista%20kommunstyrelsen%202026-09-08.pdf",
+  "titel": "Föredragningslista kommunstyrelsen 2026-09-08 pdf, 23.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ebbff11321cd6ce18df214455f538a29ef0fd711dcd2e132b05e9e35136f0cfe",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.4695693e1a079433a0e11ec/1789047306595/Protokoll%20kommunstyrelsen%202026-09-08.pdf",
+  "titel": "Protokoll kommunstyrelsen 2026-09-08 pdf, 1011.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "ad501c66be93a85bb055ac74196c42dbed63a914ff5745d65444f1f7fbe01c5d",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "de negativ avvikelse. Lagändringar medför ökade krav, vilket kräver resurser som enheten saknar finansiering för då dessa statsbidrag stannar i kommunens finansenhet. Senast publicerad nationell statistik (Kolada, 2024) visar att grundskolan drivs extremt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.gnosjo.se/download/18.557c493c19fc5075f094fd/1785847175430/F%C3%B6redragningslista%20kommunstyrelsen%202026-08-11.pdf",
+  "titel": "Föredragningslista kommunstyrelsen 2026-08-11 pdf, 25.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "a73810991cd2b999f12fe450fbb12e978170cf327d278b89d97ca4f5d742db95",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

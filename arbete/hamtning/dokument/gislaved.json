@@ -104,5 +104,50 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gislaved.se/download/18.70bca8731a17beda94635d8/1793354612453/Socialn%C3%A4mdens%20protokoll%202026-10-27.pdf",
+  "titel": "Socialnämndens protokoll 2026-10-27\nLänk till annan webbplats, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "cdcf6b090528c89433dddfceecb4035dc52836efac7e37b0a5424746e589bdf0",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gislaved.se/download/18.70bca8731a17beda9461633/1793179112779/%C3%96verf%C3%B6rmyndarn%C3%A4mnden%20GGVVs%20protokoll%202026-10-23.pdf",
+  "titel": "Överförmyndarnämnden GGVVs protokoll 2026-10-23\nPdf, 1.5 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "8bb7b8659120b0eaa05898d30e30269ff26519b268e182a0696a0863280f1243",
+  "sökning": 3,
+  "budget2027": true,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.gislaved.se/download/18.4cfd0a151a0f2f38a6112870/1792660592730/Samh%C3%A4llsutvecklingsn%C3%A4mndens%20protokoll%202026-10-19.pdf",
+  "titel": "Samhällsutvecklingsnämndens protokoll 2026-10-19\nLänk till annan webbplats, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "bfa89fe9a89bd7297d569901b4803aef40a326110c7ab8f4d1aaca4cd29ee78f",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

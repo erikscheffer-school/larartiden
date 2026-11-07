@@ -103,5 +103,73 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/MK-arsredovisning-2023-laguppl.pdf",
+  "titel": "Årsredovisning 2023 (PDF, 2,7 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "5b9a0fcdf26e3007c1dc3acf858e140d6d9353f52355387d7985dff08319db05",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 69,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 57,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sam- mnkr. Det har i stora delar realiserats genom effektiviseringar, heter inför kommande år men även vakanser som ej gått att återhållsamhet och utökade statsbidrag. När året summeras kan ersätta. Utöver detta påverkar även begränsade ekonomiska också konstateras att barn- och elevantalet inom förskola och",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/arsredovisning-2022.pdf",
+  "titel": "Årsredovisning 2022 (PDF, 1,7 MB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "81dc1d13bca6901fd104bbb065f790818228d3ff8a08f996630052a578bb490e",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "fram för att ändå kunna devis låg nivå i jämförelse med kommunens barngrupper med undervisning av så kallade 2,4 mnkr beror på ökade statsbidragsintäkter ket är 13 färre än 2021. Minskningen beror Borensberg och området Bråta Hagar har ett arbeta vidare med den viktiga frågan att minska",
+    "belopp_nara": true
+   },
+   {
+    "sida": 23,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Delegationsbeslut Skolmiljarden omfördelning av generellt statsbidrag -5,8 2022-10-31, §131) att bifalla socialnämndens",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.motala.se/media/uploads/Taxa-f%C3%B6r-kopior-av-allm%C3%A4nna-handlingar-m.m.pdf",
+  "titel": "Taxa för kopior av allmänna handlingar med mera (PDF, 32 kB)",
+  "typ": "pdf",
+  "hämtad": "2026-11-07",
+  "sha256": "c1626ce3757a20a5e1a8fcd92146e0b70c59618610815e121d0b88181a6e6ece",
+  "sökning": 3,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]
