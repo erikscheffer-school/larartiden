@@ -1,38 +1,22 @@
 [
  {
   "kommun": "leksand",
-  "nyckel": "netpublicator"
- },
- {
-  "kommun": "vansbro",
-  "nyckel": "netpublicator"
- },
- {
-  "kommun": "vansbro",
-  "nyckel": "ciceron"
- },
- {
-  "kommun": "gallivare",
-  "nyckel": "ciceron"
- },
- {
-  "kommun": "vansbro",
-  "nyckel": "politikerportal"
- },
- {
-  "kommun": "gavle",
-  "nyckel": "meetingsplus"
+  "nyckel": "netpublicator",
+  "start": "https://www.netpublicator.com/reader/r67748107"
  },
  {
   "kommun": "klippan",
-  "nyckel": "evolution"
+  "nyckel": "evolution",
+  "start": "https://evolutioninternet.klippan.se/meetings"
  },
  {
-  "kommun": "rattvik",
-  "nyckel": "politik"
+  "kommun": "gavle",
+  "nyckel": "meetingsplus",
+  "start": "https://meetingsplus.gavle.se/committees"
  },
  {
   "kommun": "vansbro",
-  "nyckel": "politik"
+  "nyckel": "vansbro",
+  "start": "https://www.vansbro.se/kommun-och-politik/arenden-protokoll-och-handlingar.html"
  }
 ]

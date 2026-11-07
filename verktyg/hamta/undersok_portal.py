@@ -58,11 +58,11 @@ async def dumpa(page, url, rader):
     return lankar
 
 
-async def prov(context, kommun, nyckel):
+async def prov(context, kommun, nyckel, start=None):
     page = await context.new_page()
     rader = [f"Kommun: {kommun['k']}  nyckel: {nyckel}"]
     besokta, ko = set(), [kommun["w"]]
-    mal = None
+    mal = start
     try:
         # Leta upp portalen: bredden först bland navigeringslänkar, högst 25 sidor.
         while ko and len(besokta) < 25 and not mal:
@@ -87,10 +87,13 @@ async def prov(context, kommun, nyckel):
             rader.append("Portalen hittades inte.")
             return rader
         lankar = await dumpa(page, mal, rader)
-        nasta = next((h for h, t, s in lankar if MOTE.search(f"{t} {s}") and h != mal
-                      and h.startswith("http") and not h.lower().endswith(".pdf")), None)
-        if nasta:
-            await dumpa(page, nasta, rader)
+        # Två steg till: första länken som ser ut som ett möte, och därifrån en gång till.
+        for _ in range(2):
+            nasta = next((h for h, t, s in lankar if MOTE.search(f"{h} {t} {s}") and h != page.url
+                          and h.startswith("http") and not re.search(r"\.pdf|download|elected", h, re.I)), None)
+            if not nasta:
+                break
+            lankar = await dumpa(page, nasta, rader)
     except Exception as e:
         rader.append(f"FEL: {type(e).__name__}: {e}")
     finally:
@@ -107,8 +110,8 @@ async def main():
         browser = await p.chromium.launch()
         context = await browser.new_context(user_agent=USER_AGENT, locale="sv-SE")
         for pr in prover:
-            rader = await prov(context, data[pr["kommun"]], pr["nyckel"])
-            (UT / f"{pr['kommun']}.txt").write_text("\n".join(rader) + "\n", encoding="utf-8")
+            rader = await prov(context, data[pr["kommun"]], pr.get("nyckel", ""), pr.get("start"))
+            (UT / f"{pr['kommun']}-{pr.get('nyckel') or 'start'}.txt").write_text("\n".join(rader) + "\n", encoding="utf-8")
             print(f"{pr['kommun']}: {rader[1] if len(rader) > 1 else ''}"[:200], flush=True)
         await browser.close()
 

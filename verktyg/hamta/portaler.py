@@ -50,7 +50,8 @@ NAVIGERA = re.compile(
     r"utbildning|bildning|barn- och|meeting|agenda|reader", re.I)
 UNDVIK = re.compile(
     r"mailto:|tel:|javascript:|facebook|instagram|linkedin|twitter|youtube|\.(jpe?g|png|gif|svg|zip|docx?|xlsx?|mp4)(\?|$)|"
-    r"login|logga-in|cookie|/en/|english|jobb|lediga|evenemang|kalender|nyheter/\d{4}/\d{2}/\d{2}", re.I)
+    r"login|logga-in|cookie|/en/|english|jobb|lediga|evenemang|kalender|nyheter/\d{4}/\d{2}/\d{2}|"
+    r"/elected/|/politician/|/party/|ledamoter|förtroendevalda", re.I)
 DOKUMENT = re.compile(r"\.pdf(\?|$)|/download/|getdocument|getfile|documentid|/document/|/file/|fileid=|/dokument/", re.I)
 BRA_DOK = re.compile(r"2027|budget|ramar|resursplan|flerårsplan|mål och|verksamhetsplan|"
                      r"fullmäktige|kommunstyrelse|utbildning|bildning|barn- och|kallelse|protokoll|handlingar", re.I)
@@ -58,8 +59,13 @@ PAUS = 2.0
 
 
 def portaltyp(url):
-    u = url.lower()
-    return next((namn for nyckel, namn in PORTALTYPER.items() if nyckel in u), None)
+    """Portaltyp efter adressen. Nycklar som slutar med punkt gäller bara början av värdnamnet
+    (sammantraden.kommun.se), så att kommun-och-politik.html inte räknas som en portal."""
+    u, host = url.lower(), urllib.parse.urlparse(url.lower()).netloc
+    for nyckel, namn in PORTALTYPER.items():
+        if (host.startswith(nyckel) or host.startswith("www." + nyckel)) if nyckel.endswith(".") else nyckel in u:
+            return namn
+    return None
 
 
 class Robots:
