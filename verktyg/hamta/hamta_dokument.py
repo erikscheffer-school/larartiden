@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from gemensamt import (BELOPP, CACHE, DOKUMENT, INTE_REFORM, REFORMKONTEXT,  # noqa: E402
                        SOKRESULTAT, STARKA, STATSBIDRAG, STATSBIDRAG_KONTEXT, SVAGA,
                        TILLSTAND, Hamtare, idag, kanda_urler, kommuner, las_json,
-                       namn_finns, normalisera_url, skriv_json)
+                       namn_finns, normalisera_url, skriv_json, uppladdad)
 
 BUDGET27 = re.compile(
     r"(budget\w*|ramar|ram|direktiv|kommunplan|strategisk plan|verksamhetsplan|flerårsplan|"
