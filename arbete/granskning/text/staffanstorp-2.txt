@@ -1,0 +1,734 @@
+URL: https://docs.netpublicator.com/api/public/r99471870/document/13fcda3fc2655af2e71f-4c81-4c29-a679-5c03eb09cd59?hash=2fdb323dd6eb149-193c192c90ec404061-b9c575c238f710185326-0e3cb4d2cb0710185347
+Titel: Kommunfullmäktige 2026-11-09 – 07. Budget år 2027 för Staffanstorps kommun – Budget 2027
+Sidor: 25
+
+== INNEHÅLL (första raden per sida) ==
+1: Budget 2027
+2: Innehållsförteckning
+3: Förord till Moderaternas budget för Staffanstorps kommun år 2027
+4: kommer att gälla med start 2027. Vi gör detta för att underlätta jobbsökande men
+5: INLEDNING
+6: EKONOMISTYRDIREKTIV
+7: Kommunstyrelsen beslutar om investeringsbudget per projekt under hösten året före
+8: NYCKELTAL
+9: SKATTESATSER *
+10: STAFFANSTORPS KOMMUN
+11: Önsvala förskola. Omsorgsnämnden har kompenserats för helårseffekt avseende utökade lokaler
+12: Kommunstyrelsen
+13: Utbildningsnämnden
+14: Avgiftsfinansierad verksamhet
+15: EKONOMISK STÄLLNING
+16: Vid ingången av 2026 uppgick RUR:en till 75 mnkr och väntas vara oförändrad vid årets slut.
+17: under tioårsperioden 2020-2029 beräknas kunna finansieras till 125 % av årets resultat och
+18: För att minska sårbarheten i samband med sådana situationer har reavinsterna i samband med
+19: KÄNSLIGHETSANALYS
+20: STAFFANSTORPS BOLAGSKONCERN
+21: INVESTERINGSVOLYM
+22: BILAGOR, STAFFANSTORPS KOMMUN
+23: KASSAFLÖDESBUDGET
+24: BALANSBUDGET
+25: 
+
+===== SIDA 1 =====
+Budget 2027
+Flerårsplan 2028-2029
+
+
+
+
+                   1
+
+===== SIDA 2 =====
+Innehållsförteckning
+
+
+FÖRORD………………………………………………………………….. 3
+
+
+
+INLEDNING……………………………………………………………… 5
+
+- Kommunfullmäktiges mål och god ekonomisk hushållning………………. 5
+
+- Ekonomistyrdirektiv……………………………………………………… 6
+
+- Nyckeltal.......................................................................................………………. 8
+
+- Skattesatser……………………………………………………………….. 9
+
+
+
+STAFFANSTORPS KOMMUN…………………………………………… 10
+
+- Budgetförutsättningar ……………………………………………………. 10
+
+- Budgetramar per nämnd/ Balansenhet…………………………………… 14
+
+- Investeringsvolym …………..…………………………………………… 14
+
+- Ekonomisk ställning ………….…………………………………………. 15
+
+- Känslighetsanalys…………………………………………………………. 19
+
+
+
+STAFFANSTORPS BOLAGSKONCERN……………………..................... 20
+
+- Budgetförutsättningar…………………………………………………….. 20
+
+- Resultat……………………….................………………………………… 20
+
+- Investeringsvolym……………………….……………………………….. 21
+
+
+
+BILAGOR, STAFFANSTORPS KOMMUN………………………………..22
+
+- Resultatbudget…………………………………………………………….. 22
+
+- Kassaflödesbudget………...……………………………………………….. 23
+
+- Balansbudget…….………………………………………………………... 24
+
+
+                                                                2
+
+===== SIDA 3 =====
+Förord till Moderaternas budget för Staffanstorps kommun år 2027
+
+Det är oktober och det är dags att presentera nästkommande års budget för Staffanstorps
+kommun. Därför väljer jag att övergripande informera här för att alla ska kunna ta del av
+det. I skrivande stund har inget nytt styre formerats, men det är på väg. Därför blir budget
+för 2027 ett förslag från Moderaterna. Troligen kommer vårt förslag att uppskattas även av
+andra partier.
+
+I fjor valde vi att sänka skatten och den, förhållandevis, låga nivån behålls. Staffanstorps
+kommun har landets åttonde lägsta skatt av landets 290 kommuner.
+I goda tider sparar vi överskott, och i sämre tider kan vi ekonomiskt värna nivån i våra
+särskilt viktiga kärnverksamheter.
+
+Över tid strävar vi efter att hålla så låg skatt som möjligt samtidigt som vi tilldelar resurser
+där vi ser att det behövs. En ”sunt förnuft-mentalitet”.
+Därför vräker vi inte ut pengar utan att tänka efter och vi är försiktiga med tvära kast vad
+gäller skattesatsen. Över en längre tidshorisont så har detta synsätt byggt vår kommun
+robust.
+
+I 2027 års budgetförslag från Moderaterna så budgeterar vi både med ett mindre överskott,
+samtidigt som vi väljer att göra några riktade satsningar på områden som många
+människors berörs av. I vårt förslag finns inga besparingar på nuvarande verksamheter. Vi
+anser att de är väl skötta och vi håller en god kostnadskontroll i varje budgetuppföljning
+under årens lopp.
+
+Likaså kompenserar vi verksamheterna för de demografiska förändringar som går att
+skönja i befolkningsprognoserna samt för kommande hyresuppräkningar. Under nästa år
+blir det fler barn i våra förskolor och grundskolor, men något färre elever i gymnasiet.
+Samtliga siffror är dock ganska små. Det är bra att Staffanstorp inte minskar i befolkning, så
+som många andra kommuner just nu gör och under nästa år väntas vi passera 28 000
+invånare.
+
+Vi kommer att göra två riktade satsningar inom det sociala området.
+    1. Dels möta upp den nya Socialtjänstlagen och stärka det förebyggande arbetet för
+       ungdomar som behöver tidiga insatser. Insatser som kan fånga upp unga individer
+       innan det går allt för snett i livet.
+    2. Vi kommer även att satsa på aktivitetskravet för de vuxna som inte är i arbete men
+       som har förmåga att arbeta. Det är färre i vår kommun än i de flesta andra
+       kommuner, men icke desto mindre viktigt för det.
+
+Inom Förskola och skola kommer vi också att göra två riktade satsningar.
+   1. Vi kommer att öka antalet timmar i förskola för barn vars föräldrar är antingen
+      arbetslösa eller föräldralediga. Från 15 timmar i veckan till 25 timmar i veckan. Detta
+
+
+
+                                                3
+
+===== SIDA 4 =====
+      kommer att gälla med start 2027. Vi gör detta för att underlätta jobbsökande men
+      även för att förskolan blivit allt mer skolförberedande.
+   2. Vi kommer att slopa måltidsavgiften för gymnasieelver. Detta kommer att gälla från 1
+      januari 2027.
+
+Tidigare i år så dubblade vi föreningsstödet när kommunen gjorde ett mycket bra resultat
+för det gångna året. Vi har många eldsjälar runt om i föreningslivet. Det kan många gånger
+vara ett slitsamt och tungt ideellt uppdrag. Samtidigt så vet vi, att en bra skola tillsammans
+med ett starkt föreningsliv är det bästa förebyggandearbetet som finns.
+
+Därför kommer vi att höja nuvarande föreningsbidrag med 50 % samt lägga in en
+indexering som gör att det inte urholkas av inflation över tid. Denna nya nivå blir permanent
+och kommer att gälla från 1 januari 2027.
+
+Vi kommer att göra ytterligare några mindre satsningar i driftsbudgeten på stadsbyggnad
+och kommunstyrelse. Bland annat på räddningstjänsten och utöka med en VA-ingenjör.
+
+Vi kommer att sänka taxorna för renhållning (sophämtning) men vi kommer behöva justera
+upp taxan för VA med 5 % (Staffanstorp har idag näst lägst VA-taxa i landet så det är från
+en förhållandevis låg nivå).
+
+Vi kommer att ha ett budgeterat resultat på ca 16 miljoner, inklusive årlig reserv. Det
+kommer innebära att soliditeten ligger på ca 37 procentenheter.
+
+Utöver detta förekommer många satsningar i investeringsbudgeten.
+
+Staffanstorp 2026-10-12
+
+
+
+
+Christian Sonesson
+Kommunstyrelsens ordförande (M)
+                                              4
+
+===== SIDA 8 =====
+NYCKELTAL
+
+                                                                               Prognos
+                                                         Bokslut Budget                  Budget   Budget   Budget
+                                                                                 aug
+                                                          2025    2026                    2027     2028     2029
+                                                                                2026
+Övergripande
+Räntebärande lån (mnkr), kommunen                             883     1 088     958      1 108    1 108    1 108
+
+Räntekvot % (räntekostnaden i andel av                                1,4 %
+                                                             1,3 %              1,4 %    1,4 %    1,5 %    1,5 %
+skatteintäkter och kommunalekonomisk utjämning),
+kommunen
+
+Skattesats till kommun                                       19,09    18,94     18,94    18,94    18,94    18,94
+
+Resultaträkning
+Årets balanskravsresultat, mnkr                               18,3      0       25,8      12,0     21,0     22,0
+Årets resultat enligt fullfonderingsmodellen, mnkr            68,5      0       25,8      12,0     21,0     22,0
+Årets resultat (enligt fullfonderingsmodellen) i andel       3,7 %     0%       1,4%     0,6 %    1,0 %    1,0 %
+av skatteintäkter och kommunalekonomisk utjämning
+
+Kassaflödesanalys
+Bruttoinvesteringar totalt (inkl. investeringsreserv),       109,3     98        95       105      87       74
+mnkr
+Nettoinvesteringar totalt (inkl. investeringsreserv),        106,8     97        89       105      87       74
+mnkr
+Andel av bruttoinvesteringarna (inkl.                    121,7 %      62 %      67 %      82%     109 %    130 %
+investeringsreserv) som finansieras av årets resultat
+och avskrivningar
+
+Balansräkning
+Soliditet inkl. ansvarsförbindelsen                          36,8 %   38 %      38 %     37 %     36 %     36 %
+
+
+Demografi
+Folkmängd (antal), 31 dec                                    27 482   27 490   27 689    28 114   28 802   29 450
+Befolkningsförändring (%)                                     0,7 %    0,5 %    0,8 %    1,5 %     2,4 %    2,2 %
+Befolkningsförändring (antal)                                          +142    + 207      + 425   + 688    + 648
+
+
+
+
+                                                         8
+
+===== SIDA 10 =====
+STAFFANSTORPS KOMMUN
+BUDGETFÖRUTSÄTTNINGAR
+Årets resultat planeras till + 12,0 mnkr år 2027, +21,0 mnkr år 2028 och + 22,0 mnkr är 2029.
+
+Skatte- och statsbidragsintäkterna utgår i detta budgetförslag ifrån SKR:s cirkulär 2026:27,
+justerat för egen befolkningsprognos.
+
+Invånarantalet per den 1 november år 2026 beräknas uppgå till 27 689, till 28 114 den 1
+november år 2027 och till 28 802 den 1 november år 2028. Uppräkningsfaktorerna för
+skatteunderlagets utveckling under perioden beräknas till följande: 5,75 % år 2027, 6,10 % år
+2028 och 6,53 % år 2029.
+
+Kommunstyrelsens reserv för oförutsedda händelser uppgår till 3,7 mnkr.
+
+Finansnettots utveckling är beroende av vinster i samband med allokeringar i den långfristiga
+portföljen, kassalikviditeten, räntekostnaderna på de långfristiga lånen och den finansiella
+kostnaden kopplad till pensionsskulden. Realisering av övervärden i den långfristiga portföljen
+har budgeterats till 6 mnkr och borgensavgiften till 4,3 mnkr. Av sedan tidigare upptagna lån
+förfaller 140 mnkr under år 2027. Dessa bedöms inte kunna amorteras utan behöver omsättas.
+Genomsnittsräntan på de långfristiga lånen är budgeterad till 2,7 %. Lånetaket föreslås uppgå till
+200 mnkr år 2027 och avser finansiering av årets investeringar men tar även höjd för osäkerhet
+avseende fördelningen av nyupplåningen mellan åren 2026 och 2027 samt ev. oförutsedda
+händelser, exempelvis markköp.
+
+Avskrivningarna har beräknats på en investeringsvolym på totalt 105 mnkr netto år 2027 varav
+65 mnkr i den skattefinansierade verksamheten och 40 mnkr i den avgiftsfinansierade.
+Investeringsvolymen för år 2028 uppgår till 87 mnkr och för år 2029 till 74 mnkr.
+
+Sammantaget beräknas pensionskostnaderna och förändringen av pensionsskulden minska med
+6,1 mnkr jämfört med budget 2026. Pensionsberäkningarna utgår ifrån KPA:s bedömning i
+augusti 2026.
+
+
+
+Generella ramjusteringar för nämnder och balansenheter
+
+Löneökningarna år 2027 är budgeterade till 3,0 %. För köp av externa tjänster uppgår det
+sammanvägda indexet till 2,9 %. Uppräkning för inflation ingår med 2 %.
+
+Hyreskostnaderna är beräknade enligt årsförändringstakten av KPI (mars 2025-mars 2026),
+0,5%. Vidare har utbildnings- och kultur och föreningsnämnden kompenserats för helårseffekt
+vad gäller ombyggnationen av Hjärupslundsskolan med ny idrottshall, nya Stanstorpsskolan och
+
+
+                                                10
+
+===== SIDA 11 =====
+Önsvala förskola. Omsorgsnämnden har kompenserats för helårseffekt avseende utökade lokaler
+för daglig verksamhet.
+
+Samtliga nämnder kompenseras fullt ut för kostnadsökningar kopplat till demografiska
+förändringar. Sammantaget uppgår de till 12,1 mnkr. Antalet barn i förskoleverksamheten
+beräknas öka år 2027 med 57 barn varav 34 förklaras av att en större andel barn skrivs in i
+verksamheten (inskrivningsgraden har ökat från 93% till 95% enligt statistik från de tre senaste
+åren). Antalet elever i gymnasieskolan väntas minska med 13 elever. Inom
+omsorgsverksamheten väntas antalet personer i behov av hemtjänst öka med 6 personer. Även
+behovet av insatser enligt LSS ökar.
+
+Samtliga nämnder har kompenserats för de driftbudgetmässiga effekterna av investeringsverk-
+samheten gällande såväl förändringar 2026 enligt prognos, som nya och pågående investeringar
+år 2027.
+
+Utöver ovanstående redovisas de nämndspecifika ramjusteringarna nedan.
+
+
+
+Nämndspecifika ramjusteringar
+
+Politisk verksamhet
+
+Budgetramen för Politisk verksamhet ökar med 0,4 mnkr, + 6,2 % i jämförelse med 2026 och
+avser dels prisuppräkningar kopplat till externa avtal och uppräkning av arvoden, dels ett
+engångsanslag om 100 tkr för tillfälligt ökad bemanning kopplat till att den avgående revisionen
+granskar 2026 års årsredovisning samtidigt som den nya tillträder den 1 januari. Vidare har
+överförmyndaren erhållit 118 tkr i extra anslag för personalförstärkning till följd av ny
+lagstiftning om ställföreträdarskap (ändringar i bland annat Föräldrabalken (1949:381)). Syftet är
+att stärka rättssäkerheten för personer som har god man eller förvaltare. Reformen innebär att
+överförmyndaren får större ansvar, bland annat möjlighet att besluta i vissa enklare ärenden om
+god man i stället för domstol. Överförmyndaren får också tydligare ansvar för tillsyn och
+kontroll av gode män och förvaltare.
+
+I enlighet med kommunallagen och kommunfullmäktiges arbetsordning har
+kommunfullmäktiges presidium berett förslag till budget för revisorernas verksamhet. Förslaget
+innebär att revisionens budget för år 2027 uppgår till 1 418 tkr.
+
+
+
+
+                                                11
+
+===== SIDA 13 =====
+Utbildningsnämnden
+
+Utbildningsnämndens ram har utökats med 55,3 mnkr, +5,5 %. I ramen ingår bland annat 2,0
+mnkr för att finansiera borttagandet av måltidsavgiften för gymnasieelever samt 3,6 mnkr för
+utökad tid i förskola för barn till arbetslösa och föräldralediga.
+
+
+
+Omsorgsnämnden
+
+Omsorgsnämndens ram är 11,9 mnkr, +3,3 % högre jämfört med år 2026. Omsorgsprisindex,
+OPI budgeteras till 2,7 % vilket fastställts för år 2026. (kompensation sker med 1 års
+eftersläpning).
+
+
+
+Stadsbyggnadsnämnden
+
+Stadsbyggnadsnämndens budgetram visar att intäkterna överstiger kostnaderna. Nettoramen var
+– 140 tkr 2026 och – 20 tkr 2027. Mellanskillnaden avser generella kostnadsuppräkningar.
+
+
+
+Samarbetsnämnd 2
+
+Samarbetsnämnd 2 (Geoinfo) föreslås få en ram som är 30 tkr högre än 2026, vilket motsvarar
+en ökning med 1,1%. Anslaget för köp av externa tjänster räknas upp samtidigt som
+kapitalkostnaderna minskar med i princip samma belopp.
+
+
+
+Kultur och föreningsnämnden
+
+Kultur- och föreningsnämndens ram har utökats med 3,2 mnkr, 4,7 % varav 1,0 mnkr avser en
+50 % höjning av LOK stödet (lokalt aktivitetsstöd, ett bidrag till föreningar, oftast barn- och
+ungdomsföreningar, som baseras på antalet genomförda aktiviteter och deltagartillfällen).
+
+
+
+Energi- miljö- och naturnämnden
+
+Energi- miljö- och naturnämndens ram är 0,1 mnkr, 3,0 % högre än 2026 och avser generella
+uppräkningar.
+
+
+
+
+                                              13
+
+===== SIDA 14 =====
+Avgiftsfinansierad verksamhet
+
+VA taxan föreslås öka med 5 % och ge ytterligare 4,1 mnkr i intäkter. Resultatet budgeteras till
+-15,7 mnkr år 2027
+
+ Den rörliga delen av renhållningstaxan föreslås sänkas med 12,5 %. och ge 5,0 mnkr mindre i
+intäkter. Resultatet budgeteras till +1,5 mnkr år 2027.
+
+
+
+
+BUDGETRAMAR PER NÄMND/BALANSENHET (MNKR)
+
+
+
+ Nämnd                                     Budget          Budget       Budget        Budget
+                                             2026            2027         2028          2029
+ Politisk verksamhet                        5 770          6 130         6 350        6 650
+ Kommunstyrelsen                          409 600        419 480       435 150      455 690
+ Samarbetsnämnd 2                           2 670          2 700         2 800        2 930
+ Stadsbyggnadsnämnd                          -140           -20            -20          -20
+ Utbildningsnämnd                       1 012 460      1 067 730     1 131 300    1 194 580
+ Energi, miljö och naturnämnd               2 650          2 730         2 830        3 000
+ Kultur- och föreningsnämnd                68 800         72 020        74 670       78 200
+ Omsorgsnämnd                             360 160        372 040       385 730      403 700
+ Arbetsmarknadsnämnd                       54 340         59 400        61 590       64 460
+ VA-verket                                 15 410         15 650        16 220       17 000
+ Renhållning                             - 1 330        - 1 520       - 1 580        -1 650
+
+
+
+
+INVESTERINGSVOLYM (MNKR)
+
+
+ Netto                                              2027      2028     2029
+ Skattefinansierad verksamhet                        65        44       36
+ Avgiftsfinansierad verksamhet                       40        43       38
+ Summa                                              105        87       74
+
+
+
+
+                                               14
+
+===== SIDA 15 =====
+EKONOMISK STÄLLNING
+
+Den samlade analysen av den väntade utvecklingen av kommunens ekonomiska ställning de
+kommande tre åren bygger på tre perspektiv; resultat, kapacitet och risk.
+
+Utifrån det första perspektivet analyseras årets resultat för de kommande tre åren men också ur
+ett mer långsiktigt perspektiv samt genom förhållandet mellan kostnads- och
+skatteintäktsutvecklingen (inkl. kommunalekonomisk utjämning).
+
+Det andra perspektivet benämns kapacitet och avser att analysera den långsiktiga betal-
+ningsberedskapen. Ju starkare kapacitet desto mindre känslig är kommunen för perioder av
+vikande konjunktur eller perioder av kraftig expansion. De nyckeltal som analyseras är
+soliditetens förväntade utveckling och finansieringen av investeringarna.
+
+Riskperspektivet avser att belysa hur kommunen förväntas exponeras finansiellt. Analysen utgår
+ifrån utvecklingen av de långfristiga skulderna, lånens förfallotider, den långfristiga portföljens
+sammansättning och det kommunala borgensåtagandet.
+
+
+
+Resultatutveckling, kommunen
+
+
+
+
+Resultatet uppgick till + 68,5 mnkr år 2025, och prognostiseras till 25,8 mnkr (aug) år 2026. Med
+föreliggande budgetförslag uppgår resultatet till 12 mnkr år 2027, 21,0 mnkr år 2028 och 22,0
+mnkr år 2029.
+
+Under åren 2013 till 2023 fanns det möjlighet för kommunerna att under vissa betingelser
+reservera delar av ett positivt resultat i en resultatutjämnings reserv (RUR). Denna reserv har
+sedan kunnat användas för att utjämna intäkter över en konjunkturcykel och därigenom möta
+konjunkturvariationer. Från och med 2024 har denna ersatts av en ny mer flexibel resultatreserv
+(RER). Resultatutjämningsreserven kommer därmed att upphöra år 2033.
+
+
+                                                15
+
+===== SIDA 17 =====
+under tioårsperioden 2020-2029 beräknas kunna finansieras till 125 % av årets resultat och
+avskrivningar.
+
+
+
+
+Soliditeten är ett mått på kommunens långsiktiga ekonomiska styrka och visar hur stor del av
+kommunens tillgångar som finansierats med egna medel. Soliditetsutvecklingen över tiden är av
+stort intresse. En hög soliditet innebär att kommunen kan hantera tillfälliga ekonomiska svackor
+utan att ta till sparåtgärder. En soliditet inklusive ansvarsförbindelsen som överstiger 30 %
+brukar betraktas som hög. Soliditeten i kommunen uppgick vid utgången av år 2025 till 37 %
+och bedöms vara i princip oförändrad under perioden 2026-2029.
+
+
+
+Risk
+De långfristiga skulderna i kommunkoncernen ligger över genomsnittet för landets
+kommunkoncerner räknat i kronor per invånare, 96 025 kr jmf med 80 762 kr (år 2025).
+Samtidigt finns stora tillgångar avsatta i en finansiell portfölj. I stället för löpande amorteringar
+av lån har kommunen valt långfristiga placeringar. Det har historiskt visat sig vara en mycket god
+strategi men innebär också att kommunen blir mer exponerad för ett flertal finansiella risker.
+
+I slutet av år 2026 beräknas den samlade lånestocken för kommunen uppgå till 958 mnkr.
+Budgeten för år 2027 tar höjd för en nyupplåning på 150 mnkr men utfallet är beroende av
+investeringsverksamhetens omfattning och genomförande samt tillgång på likvida medel och är
+därför osäker.
+
+Den långfristiga portföljen hanteras utifrån finanspolicyns riktlinjer. Marknadsvärdet uppgick till
+751 mnkr vid slutet av augusti 2026 vilket är 64 mnkr mer än vid årsskiftet 2024/2025.
+Fördelningen mellan räntor/alternativa investeringar och aktier är i skrivande stund 43 % resp.
+57 %. Riskprofilen är således högre än normalportföljen om 50 % /50 % men också något högre
+än vid slutet av 2025. Kapitalet placeras alltid utifrån ett långsiktigt perspektiv samtidigt som
+portföljen förutsätts prestera varje enskilt år. Ett allokeringsbeslut som kan vara fördelaktigt i det
+långsiktiga perspektivet kan dock motverka uppdraget om budgetföljsamhet det enskilda året.
+
+                                                 17
+
+===== SIDA 18 =====
+För att minska sårbarheten i samband med sådana situationer har reavinsterna i samband med
+försäljning och köp av fonder budgeterats med försiktighet, till 6 mnkr år 2027.
+
+Borgensåtagandet beräknas öka under åren 2027 – 2029 med anledning av investeringar i teknisk
+infrastruktur, VA- och energinätet. Kommunens samlade borgensåtagande uppgår f n till 94 %
+av de lån som är upptagna av den egna bolagskoncernen.
+
+
+
+Sammanfattande bedömning av den planerade utvecklingen av kommunens ekonomiska
+ställning t o m år 2029
+
+
+Samtliga nyckeltal pekar på att kommunens finansiella styrka förblir stark under hela perioden. År
+2027 sker en viss försvagning jämfört med dagens mycket höga nivåer, men den finansiella
+ställningen bedöms fortsatt vara mycket god. Därefter sker en återhämtning under 2028 och 2029,
+vilket ytterligare stärker kommunens finansiella ställning.
+
+Resultatet i andel av skatteintäkter och kommunalekonomisk utjämning väntas minska från årliga
+genomsnitt om 4,9 % för den senaste 10 års perioden 2016 - 2025 till 3,0 % för perioden 2020 -
+2029. Generellt brukar en nivå på 2,5 - 3,0 % anses vara förenlig med god ekonomisk hushållning.
+
+Bruttoinvesteringarna under perioden 2027-2029 beräknas genomsnittligt kunna finansieras helt
+av årets resultat och avskrivningar (104%). Detsamma gäller för tioårsperioden 2020-2029 (125
+%).
+
+Soliditeten planeras i princip vara oförändrad och kraftigt överstiga de 30 % som anses utgöra
+nivån för stark finansiell ställning.
+
+Vid ingången av 2026 uppgick kommunens resultatutjämningsreserv (RUR) till 75,0 mnkr och
+resultatreserven (RER) till 20,0 mnkr. Under perioden 2027–2029 planeras inga uttag från RUR
+och inga reserveringar till RER.
+
+
+
+
+                                               18
+
+===== SIDA 20 =====
+STAFFANSTORPS BOLAGSKONCERN
+
+BUDGETFÖRUTSÄTTNINGAR
+Bolagsstyrelsen beslutade om budget för verksamhetsår 2027 i juni 2026.Följande
+huvudsakliga uppräkningar har använts som underlag:
+
+
+Löneökningar              3,0 %
+Hyresuppräkningar         0,5 % (koncerninterna)
+Inflation                 2,0 %
+Lånebehov                 10 mnkr
+Genomsnittsräntan         3,26 % (Bedömning av Kommuninvest)
+
+RESULTAT
+
+ Bolag (mnkr)                        Bokslut 2025         Budget        Prognos         Budget
+                                                            2026           2026           2027
+
+ Staffanstorps centrum AB                         0             0               0              0
+ Koncernelimineringar                      -   10,1        - 7,3             -8,0           -5,7
+ Staffanstorps fiber AB                         2,9           2,6             3,4            2,0
+ Staffanstorps energi AB                       20,6          20,4            20,9           20,2
+ Staffanstorps                                 41,7           7,2            11,6            8,8
+ kommunfastigheter inkl
+ Stastad II KB och Annero
+ Mark AB
+ Skatt                                     -   25,2             -              -              -
+ Resultat efter skatt,                         29,9          22,9           27,9           25,3
+ bolagskoncernen
+
+
+Det budgeterade resultatet år 2027 väntas understiga det prognostiserade resultatet år 2026 med
+2,6 mnkr men överstiga det budgeterade resultatet år 2026 med 2,4 mnkr.
+
+Prognosen år 2026 inkluderar en vinst efter en fastighetsförsäljning som inte var budgeterad.
+
+I jämförelse mellan de budgeterade resultaten år 2026 och 2027 förklaras skillnaden av främst av
+helårshyror för de nybyggda verksamhetslokalerna.
+
+
+
+
+                                               20
+
+===== SIDA 21 =====
+INVESTERINGSVOLYM
+Investeringsvolymen för år 2027 uppgår preliminär till 106 mnkr netto.
+
+Av de 60 mnkr som fördelats till Staffanstorps Energi AB avser knappt 18 mnkr årets del av det
+stora investeringspaketet ”högspänningsplanen” (kalkyl 230 mnkr) och knappt 12 mnkr utgörs
+av kundfinansierade projekt. Resten är löpande elnätsinvesteringar.
+
+Gällande Staffanstorps fiber AB är i princip hela investeringsvolymen kopplad till pågående
+exploateringsprojekt.
+
+Investeringsvolymen för Staffanstorps kommunfastigheter AB avses att fördelas mellan ett stort
+antal projekt.
+
+
+ Bolag (mnkr)                                Bokslut 2025 Budget 2026          Budget 2027
+ Staffanstorps centrum AB                                0                 0             0
+ Staffanstorps energi AB                                70               100            60
+ Staffanstorps fiber AB                                 11                23            15
+ Staffanstorps kommunfastigheter inkl.                 267               158            31
+ Stanstad II KB och Annero Mark AB
+ Summa Bolagskoncernen                                 348               281           106
+
+
+
+
+                                              21
+
+===== SIDA 22 =====
+BILAGOR, STAFFANSTORPS KOMMUN
+RESULTATBUDGET
+
+
+
+Resultatbudget (mnkr)                 Bokslut     Budget     Budget        EFP        EFP
+                                        2025        2026       2027       2028       2029
+Verksamhetens nettokostnader exkl.
+avskrivningar                         -1 699,2   -1 831,2   -1 896,9   -1 999,6   -2 114,3
+Avskrivningar                            -64,5      -60,8      -73,7      -73,7      -73,7
+
+Verksamhetens nettokostnader          -1 763,7   -1 892,0   -1 970,6   -2 073,3   -2 188,0
+Skatteintäkter                         1 483,4    1 582,2    1 641,2    1 710,6    1 779,6
+Generella statsbidrag och utjämning      352,6      329,9      366,6      417,3      467,0
+Verksamhetens resultat                    72,3       20,1       37,2       54,6       58,6
+Finansiella intäkter                      42,0       13,2       10,3        8,5        8,5
+Finansiella kostnader                    -39,2      -33,3      -35,5      -42,1      -45,1
+
+Resultat efter finansiella poster        75,1        0,0       12,0       21,0       22,0
+Extraordinära poster                     -6,6        0,0        0,0        0,0        0,0
+Årets resultat                           68,5        0,0       12,0       21,0       22,0
+
+
+
+
+                                        22
+
+===== SIDA 23 =====
+KASSAFLÖDESBUDGET
+
+
+Kassaflödesbudget (mnkr)                       Bokslut   Budget   Budget    EFP     EFP
+                                                 2025      2026     2027   2028    2029
+DEN LÖPANDE VERKSAMHETEN
+Årets resultat                                   68,5       0,0     12,0   21,0     22,0
+Justering för ej likvidpåverkande poster         37,1      60,8     76,0   80,7     73,5
+Övriga likviditetspåverkande poster               -6,8    -18,6    -22,2   -22,2   -22,2
+Medel från verksamheten före
+förändring av rörelsekapital                     98,7      42,2     65,9   79,6     73,4
+Ökning (-)/minskning(+) kortfristiga
+fordringar                                        -8,2
+Ökning (+) /minskning (-) kortfristiga
+skulder                                          -33,4
+Ökning (-) / minskning (+) förråd och
+varulager                                         -7,4
+Ökning (-) / minskning (+) kortfristiga
+placeringar                                       -2,7
+KASSAFLÖDE FRÅN DEN LÖPANDE
+VERKSAMHETEN                                     47,0      42,2     65,9   79,6     73,4
+INVESTERINGSVERKSAMHETEN
+Investering/avyttring i immateriella
+anläggninstillg.                                  -2,0      0,0     -2,0
+Investering/avytting i materiella
+anläggninstillg.                                 -81,9    -97,2   -102,3   -86,9   -73,9
+Investering/Avyttring av finansiella
+anläggningstillg.                                 -2,4
+KASSAFLÖDE FRÅN
+INVESTERINGSVERKSAMHETEN                         -86,3    -97,2   -104,2   -86,9   -73,9
+FINANSIERINGSVERKSAMHETEN
+Nyupptagna lån                                   95,0      55,0    150,0   75,0     75,0
+Amortering av långfristiga skulder m.m.          -33,6      0,0      0,0    0,0      0,0
+
+
+Amortering av skulder för finansiell leasing     -15,6      0,0      0,0    0,0      0,0
+KASSAFLÖDE FRÅN
+FINANSIERINGSVERKSAMHETEN                        45,8      55,0    150,0   12,6     12,6
+BIDRAG TILL INFRASTRUKTUR
+Utbetalning av bidrag till statlig
+infrastruktur                                      0,0
+ÅRETS KASSAFLÖDE                                   6,4      0,0    111,7    5,3     12,1
+Likvida medel vid årets början                     0,0      0,0    -29,1   82,6     87,9
+Likvida medel vid årets slut                       6,4      0,0     82,6   87,9    100,0
+
+
+
+
+                                                 23
+
+===== SIDA 24 =====
+BALANSBUDGET
+
+
+Balansbudget (mnkr)                   Bokslut     Budget         Budget         EFP
+                                       2025        2026           2027          2028
+TILLGÅNGAR
+Anläggningstillgångar
+Immateriella anläggningstillg.              6,4            6,4            7,0          7,0
+Materiella anläggningstillg.
+Mark, byggnader o tekn.anläggning       1 952,8      1 704,8        2 038,3       2 128,2
+Maskiner och inventarier                   74,3        101,0           66,8          66,8
+Övriga materiella anläggningstillgångar
+Finansiella anläggningstillg.             192,7        190,3          191,9         192,7
+Summa anläggningstillg                  2 226,2      2 002,5        2 304,0       2 394,7
+Bidrag till infrastruktur                  34,2         36,5           29,6          29,6
+Omsättningstillgångar
+Förråd m.m.                                85,1         77,7           85,1          85,1
+Fordringar                                219,5        211,3          219,5         219,5
+Kortfristiga placeringar                  686,4        653,5          686,4         686,4
+Kassa och bank                              6,4         47,3           82,6          87,9
+Summa omsättningstillg                    997,4        989,8        1 073,6       1 078,9
+Summa tillgångar                        3 257,8      3 028,8        3 407,2       3 503,3
+EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER
+Eget kapital
+Eget kapital vid årets början           1 131,7      1 157,9        1 232,6       1 244,6
+ - Varav resultatreserv                     0,0          0,0           20,0          20,0
+ - Varav resultatutjämningsreserv          75,0         75,0           75,0          75,0
+Årets resultat                             68,5          0,0           12,0          21,0
+Eget kapital vid årets slut             1 200,2      1 157,9        1 244,6       1 265,6
+ - Varav resultatreserv                    20,0          0,0           20,0          20,0
+ - Varav resultatutjämningsreserv          75,0         75,0           75,0          75,0
+Avsättningar
+Avsättning för pensioner                  389,6       377,8          346,9         346,9
+Andra avsättningar                          0,0
+Summa avsättningar                        389,6       377,8          346,9         346,9
+Skulder
+Långfristiga skulder                    1 321,4      1 338,1        1 475,7       1 550,7
+Kortfristiga skulder                      346,4        154,9          340,1         340,1
+Summa skulder                           1 668,0      1 493,0        1 815,8       1 890,8
+Summa eget kapital,
+avsättningar och skulder                3 257,8      3 028,8        3 407,3       3 503,2
+PANTER OCH
+ANSVARSFÖRBINDELSER
+Panter och därmed jämförliga säkerheter
+Ansvarsförbindelser
+Övriga ansvarsförbindelser              1 520,4      1 577,5        1 628,0       1 693,0
+
+
+
+
+                                        24
