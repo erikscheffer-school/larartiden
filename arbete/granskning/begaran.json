@@ -1,212 +1,159 @@
 [
  {
-  "kommun": "orsa",
-  "url": "https://docs.netpublicator.com/api/public/r90521909/document/c72bd20ccd8827f26a03-c4ec-4fc4-97c0-9baf98e625ed?hash=afbcd1f6d4cc345-3f7ebe1ad5193812706-f41d7e81243710120166-4064350b2f1610120178",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Kultur- och bildningsnämnden 2026-10-21 – 4. Verksamhetsplan 2027 Kultur- och bildningsnämnden – 4.1 Verksamhetsplan 2027"
+  "kommun": "solvesborg",
+  "url": "https://solvesborg.se/download/18.175c4d3f1a1a18a322c1e2a/1793801101185/Kallelse%20KS%20261110.pdf"
  },
  {
-  "kommun": "orsa",
-  "url": "https://docs.netpublicator.com/api/public/r90521909/document/c1f7c42508472f69e467-cd9a-46ed-a25e-4504e4cac273?hash=afbcd1f6d4cc345-3f7ebe1ad5193812706-f41d7e81243710120166-4064350b2f1610120178",
+  "kommun": "hedemora",
+  "url": "https://hedemora.se/wp-content/uploads/2026/05/protokoll-bn-2026-05-25-56-70.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   22,
+   23,
+   24,
+   25
   ],
-  "titel": "Kultur- och bildningsnämnden 2026-10-21 – 4. Verksamhetsplan 2027 Kultur- och bildningsnämnden – 4.2 Verksamhetsplan 2027"
+  "endast": true
  },
  {
-  "kommun": "orsa",
-  "url": "https://docs.netpublicator.com/api/public/r90521909/document/23bb91da999173e3d5a0-bd54-4cc7-a6ca-3a2ac395bf1a?hash=afbcd1f6d4cc345-3f7ebe1ad5193812706-f41d7e81243710120166-4064350b2f1610120178",
+  "kommun": "hedemora",
+  "url": "https://hedemora.se/wp-content/uploads/2026/09/protokoll-bn-2026-09-28-93-115.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   12,
+   13,
+   14
   ],
-  "titel": "Kultur- och bildningsnämnden 2026-10-21 – 4. Verksamhetsplan 2027 Kultur- och bildningsnämnden – Verksamhetsplan 2027_beslutad"
+  "endast": true
  },
  {
-  "kommun": "orsa",
-  "url": "https://docs.netpublicator.com/api/public/r90521909/document/9464ea617c8459786232-7eeb-4f79-85d3-cc4fa74c8e3a?hash=afbcd1f6d4cc345-3f7ebe1ad5193812706-f41d7e81243710120166-b2f2e66465e810120181",
+  "kommun": "orkelljunga",
+  "url": "https://www.orkelljunga.se/download/18.659742711a12f71150782db/1792070279544/Kommunstyrelsens%20arbetsutskott%202026-10-14.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   4,
+   5,
+   6,
+   7
   ],
-  "titel": "Kultur- och bildningsnämnden 2026-10-21 – 5. Budget 2027 Kultur- och bildningsnämnden – 5.1 Budget 2027 Kultur- och bildningsnämnden"
+  "endast": true
  },
  {
-  "kommun": "jokkmokk",
-  "url": "https://www.jokkmokk.se/media/ciokktun/budget-och-strategisk-plan-2027-2029-kf.pdf",
+  "kommun": "vaxholm",
+  "url": "https://www.vaxholm.se/download/18.42acf5741a16301672732609/1793348394278/Kallelse%20%20KF%202026-11-09.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200
   ],
-  "titel": "Budget- och strategisk plan 2027-2029"
+  "endast": true
  },
  {
-  "kommun": "staffanstorp",
-  "url": "https://docs.netpublicator.com/api/public/r99471870/document/730e89f6626f8938ea80-18ce-4e08-9e1a-a86cd2a2f6e0?hash=2fdb323dd6eb149-193c192c90ec404061-b9c575c238f710185326-0e3cb4d2cb0710185347",
+  "kommun": "munkfors",
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-boh-2026-10-13.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   16,
+   17,
+   18,
+   19
   ],
-  "titel": "Kommunfullmäktige 2026-11-09 – 07. Budget år 2027 för Staffanstorps kommun – Kommunstyrelsens beslut § 97, 2026-10-19"
+  "endast": true
  },
  {
-  "kommun": "staffanstorp",
-  "url": "https://docs.netpublicator.com/api/public/r99471870/document/13fcda3fc2655af2e71f-4c81-4c29-a679-5c03eb09cd59?hash=2fdb323dd6eb149-193c192c90ec404061-b9c575c238f710185326-0e3cb4d2cb0710185347",
+  "kommun": "munkfors",
+  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-ks-2026-10-19.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   29,
+   30,
+   31,
+   32
   ],
-  "titel": "Kommunfullmäktige 2026-11-09 – 07. Budget år 2027 för Staffanstorps kommun – Budget 2027"
+  "endast": true
  },
  {
-  "kommun": "staffanstorp",
-  "url": "https://docs.netpublicator.com/api/public/r99471870/document/c9f818b63a9bb5f24d53-af4c-4e49-baef-d84a75282747?hash=2fdb323dd6eb149-193c192c90ec404061-b9c575c238f710185326-0e3cb4d2cb0710185347",
+  "kommun": "koping",
+  "url": "https://koping.se/download/18.3826d5321a0adb78fac13b8/1789624754500/Kallelse%20UN%20260923.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72
   ],
-  "titel": "Kommunfullmäktige 2026-11-09 – 07. Budget år 2027 för Staffanstorps kommun – Bilaga 1. Investeringsbudget 2027"
+  "endast": true
  },
  {
-  "kommun": "torsby",
-  "url": "https://docs.netpublicator.com/api/public/r32137321/document/aa072e9109b2a7536514-b0fa-430f-bb36-7ddc02e35fb6?hash=51473ecee04e89-9d8159e9ba74171068-c5c2b1b24cba9056996-91177703c5c39057059-828af16862f710139258",
+  "kommun": "mariestad",
+  "url": "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   44,
+   45,
+   46,
+   47,
+   48,
+   49
   ],
-  "titel": "Barn- och utbildningsnämnden Sammanträden 2026 2026-10-29 – 04. Detaljbudget 2027 – 04. Barn- och utbildningsnämndens arbetsutskott (2026-10-15 Bunau §27)"
+  "endast": true
  },
  {
-  "kommun": "torsby",
-  "url": "https://docs.netpublicator.com/api/public/r32137321/document/8efce101c24c02355fce-0846-4f79-8951-7d05e7987861?hash=51473ecee04e89-9d8159e9ba74171068-c5c2b1b24cba9056996-91177703c5c39057059-828af16862f710139258",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Barn- och utbildningsnämnden Sammanträden 2026 2026-10-29 – 04. Detaljbudget 2027 – 04. Detaljbudget 2027, Presentation"
+  "kommun": "sotenas",
+  "url": "https://www.sotenas.se/download/18.7432d7d11a1a188b0c06b6/1793803970206/Kallelse%20KF%202026-11-11%20inkl%20handlingar.pdf"
  },
  {
-  "kommun": "vannas",
-  "url": "https://www.vannas.se/download/18.59f814591a1a19ec04f9541/1793797349854/Budget%202027%202028%20och%20plan%202029%20beslut%20KF%2020261020%20dnr%202026-173.pdf",
+  "kommun": "toreboda",
+  "url": "https://toreboda.se/download/18.36469e4d19e6343f4edf9d1/1780995426530/Handlingar%20kommunfullm%C3%A4ktige%202026-06-15.pdf",
   "sidor": [
-   1,
-   2,
-   3
+   9,
+   10,
+   11,
+   12,
+   13,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167
   ],
-  "titel": "Budget 2027-2028, verksamhetsplan 2029 pdf, 654.7 kB."
+  "endast": true
  },
  {
-  "kommun": "arboga",
-  "url": "https://arboga.se/download/18.1a2af75b19e8c07c3e5d0694/1781009676263/07.1%20Tj%C3%A4nsteskrivelse_Prelimin%C3%A4ra%20budgetramar%202027.pdf",
+  "kommun": "toreboda",
+  "url": "https://toreboda.se/download/18.72d624081a12f58e8dd724f/1792404476734/Handlingar%20Kommunfullm%C3%A4ktige%202026-10-26.pdf",
   "sidor": [
    1,
    2,
-   3
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   272,
+   273,
+   274,
+   275,
+   276
   ],
-  "titel": "07.1 Tjänsteskrivelse_Preliminära budgetramar 2027.pdf"
- },
- {
-  "kommun": "arboga",
-  "url": "https://arboga.se/download/18.1a2af75b19e8c07c3e5d06b1/1781009692787/07.2%20S,V,MP,C%20F%C3%B6rslag%20Prel_ramar%20budget%202027%20och%20plan%C3%A5ren%202028%20och%202029.pdf",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "07.2 S,V,MP,C Förslag Prel_ramar budget 2027 och planåren 2028 och 2029.pdf"
- },
- {
-  "kommun": "arboga",
-  "url": "https://arboga.se/download/18.1a2af75b19e8c07c3e5d06b2/1781009703180/07.3%20Fyrkl%C3%B6verns%20F%C3%B6rslag%20Prel_ramar%20budget%202027%20och%20plan%C3%A5ren%202028%20och%202029.pdf",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "07.3 Fyrklöverns Förslag Prel_ramar budget 2027 och planåren 2028 och 2029.pdf"
- },
- {
-  "kommun": "grastorp",
-  "url": "https://docs.netpublicator.com/api/public/r28002453/document/321166455ef6c7a41198-bac3-4c39-a5c6-26888d3b2cf8?hash=1a63a6055ee2350-c5e7e6db229c4389399-c5e9bf69153f9772784-1d79c20e22ac9772898",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Kommunfullmäktige 2026-06-15 – 40. Strategisk plan och budget för år 2027 med plan för åren 2028-2030 – Beslut KF 2026-06-15Strategisk plan och budget för år 2027 med plan för åren 2028-2030"
- },
- {
-  "kommun": "grastorp",
-  "url": "https://docs.netpublicator.com/api/public/r28002453/document/62b4a2c5076458946eb5-2ebd-43a0-acd1-94d82c857658?hash=1a63a6055ee2350-c5e7e6db229c4389399-c5e9bf69153f9772784-1d79c20e22ac9772898",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Kommunfullmäktige 2026-06-15 – 40. Strategisk plan och budget för år 2027 med plan för åren 2028-2030 – 40.1 Beslut KS 2026-06-02 § 122 Strategisk plan och budget för år 2027 med plan för åren 2028-20"
- },
- {
-  "kommun": "grastorp",
-  "url": "https://docs.netpublicator.com/api/public/r28002453/document/7e8ab9826b8072df3e6e-5b50-42fc-adfe-b24914918693?hash=1a63a6055ee2350-c5e7e6db229c4389399-c5e9bf69153f9772784-1d79c20e22ac9772898",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Kommunfullmäktige 2026-06-15 – 40. Strategisk plan och budget för år 2027 med plan för åren 2028-2030 – 40.2 Tjänsteskrivelse 2026-05-29 Strategisk plan och budget 2027-2030"
- },
- {
-  "kommun": "grastorp",
-  "url": "https://docs.netpublicator.com/api/public/r28002453/document/622e3726469317603a69-69d2-4239-bbc7-2e51ff0f609d?hash=1a63a6055ee2350-c5e7e6db229c4389399-c5e9bf69153f9772784-1d79c20e22ac9772898",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Kommunfullmäktige 2026-06-15 – 40. Strategisk plan och budget för år 2027 med plan för åren 2028-2030 – 40.3 Beslut KSAU 2026-05-27 § 117 Strategisk plan och budget för år 2027 med plan för åren 2028-"
- },
- {
-  "kommun": "karlskoga",
-  "url": "https://www.karlskoga.se/download/18.1736b2101a19dadd57cdff/1793699197949/%C3%84rende%2013%20M%C3%A5l%20och%20budget%202027-2029.pdf",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Ärende 13 Mål och budget 2027-2029.pdf"
- },
- {
-  "kommun": "nybro",
-  "url": "https://www.sd.se/nybro/budget-2027-kommunplan-2028-2030/",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "Budget 2027 kommunplan 2028-2030 - SD Nybro"
- },
- {
-  "kommun": "nybro",
-  "url": "https://nybro.se/wp-content/uploads/2025/06/Kommunplan-2027-2029.pdf",
-  "sidor": [
-   1,
-   2,
-   3
-  ],
-  "titel": "I kommunplanen fastställer kommunfullmäktige fördelningen av ekonomiska medel mellan nämnder och verksamheter, skattesatsen samt mål och inriktning fö"
+  "endast": true
  }
 ]
