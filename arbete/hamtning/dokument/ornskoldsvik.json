@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://finsamornskoldsvik.se/om-oss/styrelsen/",
+  "titel": "Styrelsen – Samordningsförbundet i Örnsköldsvik",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "f123f59dcfc78f3d211c2f1543bb72917a1d50ca1ec1dc5b8b3ed023f3975297",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.allehanda.se/asikter/vi-prioriterar-stark-valfard-och-utveckling-i-o-vik/",
   "titel": "Vi prioriterar stark välfärd och utveckling i Ö-vik – Allehanda.se",
   "typ": "html",

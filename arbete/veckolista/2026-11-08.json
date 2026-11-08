@@ -1,0 +1,110 @@
+[
+ {
+  "id": "varberg",
+  "kommun": "Varberg",
+  "lan": "Hallands län",
+  "status": 5,
+  "poang": 16,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027"
+  ],
+  "dokument": [
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af2/1790149902491/UAN-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084206.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af5/1790149902590/FGN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
+   "https://varberg.se/download/18.5077702819e023052003f86/1778158220265/Planeringsf%C3%B6ruts%C3%A4ttningar%20inf%C3%B6r%20Budget%202027%20Varbergs%20kommun.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af8/1790149902682/KS%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-28%20081926.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9aef/1790149902389/MHN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af0/1790149902421/SOC%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084748.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af1/1790149902457/SVN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084419.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af3/1790149902531/%C3%96F%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af4/1790149902557/BN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af6/1790149902622/HGN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf"
+  ]
+ },
+ {
+  "id": "katrineholm",
+  "kommun": "Katrineholm",
+  "lan": "Södermanlands län",
+  "status": 5,
+  "poang": 8,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
+  ],
+  "dokument": [
+   "https://www.katrineholm.se/download/18.5db90bff19ed42aeafd5368a/1782207342898/Protokoll%20VAN%202026-06-15.pdf",
+   "https://www.katrineholm.se/download/18.6f1e98c919e024cd6053da69/1778501985343/Planeringsdirektiv%202027-2029,%20inklusive%20nya%20tabeller%20efter%20ny%20skatteprognos.pdf"
+  ]
+ },
+ {
+  "id": "vindeln",
+  "kommun": "Vindeln",
+  "lan": "Västerbottens län",
+  "status": 5,
+  "poang": 8,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
+  ],
+  "dokument": [
+   "https://www.vindeln.se/download/18.20a8b3891a1a75bdc9171/1793869936526/Vindelns%20kommuns%20verksamhetsplan%20med%20budget%202027-2030.pdf"
+  ]
+ },
+ {
+  "id": "boden",
+  "kommun": "Boden",
+  "lan": "Norrbottens län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://boden.se/download/18.49110930198e5734aa66e3/1756199729621/2025-2027%20Strategisk%20plan.pdf"
+  ]
+ },
+ {
+  "id": "boras",
+  "kommun": "Borås",
+  "lan": "Västra Götalands län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.boras.se/kommunochpolitik/kommunensorganisation/kommunstyrelsen/kommunstyrelsen/kommunstyrelsensammantrade202606151400.5.345c9d6b19a05133abccccb0.html",
+   "https://via.tt.se/pressmeddelande/4434358/nytt-avtal-ska-starka-hallbart-resande-i-boras-del-av-regional-satsning-i-stad-och-land?publisherId=3237184&lang=sv"
+  ]
+ },
+ {
+  "id": "vaggeryd",
+  "kommun": "Vaggeryd",
+  "lan": "Jönköpings län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://medborgare.vaggeryd.se/committees/kommunstyrelsen-ks/mote-2026-06-03",
+   "https://skillingaryd.nu/vaggeryd/nyheter/narmare-10-miljoner-i-resultat-vid-april-manads-slut/",
+   "https://skillingaryd.nu/vaggeryd/nyheter/skolgarden-vid-fagelfors-ska-fraschas-upp/"
+  ]
+ },
+ {
+  "id": "ockero",
+  "kommun": "Öckerö",
+  "lan": "Västra Götalands län",
+  "status": 5,
+  "poang": 4,
+  "skal": [
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.ockero.se/download/18.14729c511a01f4c69f07c/1787232394789/%C3%96cker%C3%B6alliansen%20-%20Budget%20och%20uppdrag%202027.pdf"
+  ]
+ }
+]

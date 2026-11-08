@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.ockero.se/download/18.14729c511a01f4c69f07c/1787232394789/%C3%96cker%C3%B6alliansen%20-%20Budget%20och%20uppdrag%202027.pdf",
+  "titel": "Öckeröalliansen - Budget och uppdrag 2027.pdf\nPdf, 399.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "7eddd7dcef13090281c8b4fc5fcca5f86a3b9ea77faaa39739ac453b0878596e",
+  "sökning": 5,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://wp.kristdemokraterna.se/ockero/kommunalt-handlingsprogram-2027-2030/",
   "titel": "Kristdemokraterna Öckerö | Kommunalt handlingsprogram 2027-2030",
   "typ": "html",

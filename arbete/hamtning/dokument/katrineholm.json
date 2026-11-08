@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.katrineholm.se/download/18.5db90bff19ed42aeafd5368a/1782207342898/Protokoll%20VAN%202026-06-15.pdf",
+  "titel": "PROTOKOLL VUXENUTBILDNINGS- OCH ARBETSMARKNADSNÄMNDEN Datum, plats och tid",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9e9433e9d711c7c1aa6e90c60015a52bbe9e3cc1e5285120b4659f6648150020",
+  "sökning": 6,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.katrineholm.se/download/18.6f1e98c919e024cd6053da69/1778501985343/Planeringsdirektiv%202027-2029,%20inklusive%20nya%20tabeller%20efter%20ny%20skatteprognos.pdf",
+  "titel": "Planeringsdirektiv 2027-2029\npdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "8faf8b380eacef16de88332a641554e80fa38366d2d1b1fa559d7677fc09d49b",
+  "sökning": 5,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.katrineholm.se/download/18.4831ba6819eafd5fb108e1a/1781175402612/STN_2026-06-18%20-%20Service-%20och%20teknikn%C3%A4mndens%20kallelse%20inkl%20handlingar%202026-06-18%20-%20F%C3%96R%20PUBLICERING.pdf",
   "titel": "Kallelse Service- och kulturförvaltningen 2026-06-09 Sammanträdande organ",
   "typ": "pdf",

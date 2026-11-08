@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.kt-kuriren.se/degerfors/mp-lagger-egen-gron-budget-i-degerfors",
+  "titel": "MP lägger egen grön budget i Degerfors – KT-Kuriren",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "23e004c155b850c785eeed86ad001fc6b5414426d8a79edb88d73c6f091c457a",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://degerfors.se/download/18.5aeb199c16914b889fa7051/1571648429317/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige.pdf",
   "titel": "Arbetsordning kommunfullmäktige\nPdf, 160.5 kB, öppnas i nytt fönster.",
   "typ": "pdf",

@@ -1,5 +1,69 @@
 [
  {
+  "url": "https://github.com/erikscheffer-school/larartiden/issues/5",
+  "titel": "Att granska vecka 45 (2026-11-07) · Issue #5 · erikscheffer-school/larartiden · GitHub",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "b4cd44d72662e3e3f91c899fec4852a132877f3a689133d9047b9c6218b0f803",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid",
+   "lärarnas arbetstid",
+   "lärartäthet",
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "öma. Moderaternas, Kristdemokraternas, Centerpartiets och Liberalernas förslag till budget för 2027 pdf, 1 MB. (PDF, 75 s.) – budget 2027: troligen; reformord: lärares undervisningstid s. 29: …uderande Resursförstärkning för Rättvist och UN 10 mnkr genomförande av ansvarstagande reformen om lärares undervisningstid och för stärkta tidiga insa",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 56
+ },
+ {
+  "url": "https://github.com/erikscheffer-school/larartiden/issues/6",
+  "titel": "Att granska vecka 45 (2026-11-07) · Issue #6 · erikscheffer-school/larartiden · GitHub",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "cb9996c3eff5746f4a4d241eaa086713631a0028cf5397f0ce3e885cea07c0b2",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid",
+   "lärarnas arbetstid",
+   "lärartäthet",
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "öma. Moderaternas, Kristdemokraternas, Centerpartiets och Liberalernas förslag till budget för 2027 pdf, 1 MB. (PDF, 75 s.) – budget 2027: troligen; reformord: lärares undervisningstid s. 29: …uderande Resursförstärkning för Rättvist och UN 10 mnkr genomförande av ansvarstagande reformen om lärares undervisningstid och för stärkta tidiga insa",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 58
+ },
+ {
   "url": "https://www.botkyrka.se/download/18.2d75104a19a0a3a26b328971/1779965408018/Tillval%20Botvidsg%C3%A5rden.pdf",
   "titel": "Tillval Botvidsgården",
   "typ": "pdf",

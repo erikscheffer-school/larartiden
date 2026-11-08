@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.olandsbladet.se/insandare/sent-ska-syndarna-vakna",
+  "titel": "”Sent ska syndarna vakna…” – Ölandsbladet",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "b32741849a454a3107efc2d141a214df2dd40e5ff5b34382f6742ef6ba109157",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.morbylanga.se/wp-content/uploads/2026/01/taxa-for-allmanna-vattentjanster-antagen-av-kommunfullmaktige-251117-153pub.pdf",
   "titel": "Reglerande styrdokument Avgift och taxa Regel och föreskrift",
   "typ": "pdf",

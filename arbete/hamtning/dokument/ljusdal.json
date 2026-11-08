@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.ljusdalsposten.se/ljusdal/de-rasar-mot-rojds-utspel",
+  "titel": "De rasar mot Röjds utspel – Ljusdals-Posten",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "15085236ed1c29ddcf83cea9ab240d61daa9363c49a15741dbb41d6c5aef1b67",
+  "sökning": 6,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ljusdalsposten.se/ljusdal/prio-pa-kvalitet-i-skolan-for-svahn-s",
+  "titel": "Prio på kvalitet i skolan för Svahn (S) – Ljusdals-Posten",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "5c6a35a60f11a0a2b142311ac69521feac92050ced8628d9a9d3c3280ca9332c",
+  "sökning": 6,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ljusdalsposten.se/ljusdal/nu-kan-ljusdalingarna-kan-fa-satta-sin-egen-budget",
   "titel": "Nu kan ljusdalingarna få sätta sin egen budget – Ljusdals-Posten",
   "typ": "html",

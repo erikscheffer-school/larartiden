@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://budget2027.berg-tg.ch/pg_finanzplan-2/",
+  "titel": "PG_Finanzplan – Budget 2027 Berg",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "a268882e55a2de3cc4499b09d66911f92c9f0f890aa52196c0e13b7f8a960301",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://berg.se/download/18.500c9bec19b2bf8b4c9b33fe/1769429586415/Budgetdokument%202026.pdf",
   "titel": "Budgetdokument 2026 Ekonomistöd",
   "typ": "pdf",

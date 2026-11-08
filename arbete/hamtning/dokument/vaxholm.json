@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://github.com/erikscheffer-school/larartiden/issues/3",
+  "titel": "Att granska vecka 45 (2026-11-07) · Issue #3 · erikscheffer-school/larartiden · GitHub",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "412182a5f1fd0490a4d849ac1538b523ae7cd084312efea84b649766065275f2",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid",
+   "lärares undervisningstid",
+   "planeringstid",
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningstimmar",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "udgethandling för 2027 i en kommun som ännu inte gått att bedöma. Kallelse/föredragningslista 2026-02-05 1 av 3 (PDF, 528 s.) – budget 2027: oklart; reformord: undervisningsuppdrag s. 82: …atsningar avseende psykisk hälsa och minskade barngrupper i förskolan. Det framkommer även att det planeras en satsning inför år 2026 med koppling till",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 30
+ },
+ {
   "url": "https://www.vaxholm.se/download/18.62f6135c19bca00c9e05a99e/1769694514571/Kallelse%20KS%202026-02-05.pdf",
   "titel": "Kallelse/föredragningslista 2026-02-05 1 av 3",
   "typ": "pdf",

@@ -813,7 +813,7 @@
   },
   "boras.se/download/18.426c4bf01a12f5493ab2ec1d/1792074293333/inkommen%20handling%20till%20kommunstyrelsen%202026-00011-bost%c3%a4der.pdf": {
    "kommun": "boras",
-   "datum": "2026-11-07",
+   "datum": "2026-11-08",
    "fel": "HTTPError: HTTP Error 404: "
   },
   "boras.se/download/18.37014ff19dd248e44a579f8/1777882400252/redovisning%20av%20anm%c3%a4lnings%c3%a4renden%202026-05-11.pdf": {
@@ -938,7 +938,7 @@
   },
   "botkyrkanytt.se/kommunalt/vard-och-omsorgsnamnden-klar-med-budgetyttrande-20272030-136688": {
    "kommun": "botkyrka",
-   "datum": "2026-11-07",
+   "datum": "2026-11-08",
    "fel": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/vill-du-byta-skola": {
@@ -1658,7 +1658,7 @@
   },
   "simrishamnsnytt.se/samhalle/simrishamn-antar-investeringsbudget-till-och-med-2031-69419": {
    "kommun": "simrishamn",
-   "datum": "2026-11-07",
+   "datum": "2026-11-08",
    "fel": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "sjobo.se/download/18.3fac3dbb19c98610dd959bc0/1773839833284/kf%20version%20%c3%a5rsredovisning%202025.pdf": {
@@ -2243,7 +2243,7 @@
   },
   "simrishamnsnytt.se/samhalle/revisionen-i-simrishamn-begar-hojd-budget-2027-65995": {
    "kommun": "simrishamn",
-   "datum": "2026-11-07",
+   "datum": "2026-11-08",
    "fel": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "skelleftea.se/download/18.765cca7519e6341464013cf5/1780997478908/2026-06-09_sam-2026-2173_44_underr%c3%a4ttelse.pdf": {
@@ -9880,6 +9880,206 @@
    "kommun": "svenljunga",
    "datum": "2026-11-07",
    "sha256": "e6a1bd961562e570d6cccf5010872f096d16148a67ab1bbf0e79699c92192475"
+  },
+  "ljusdalsposten.se/ljusdal/de-rasar-mot-rojds-utspel": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-08",
+   "sha256": "15085236ed1c29ddcf83cea9ab240d61daa9363c49a15741dbb41d6c5aef1b67"
+  },
+  "varberg.se/download/18.5077702819e023052003f86/1778158220265/planeringsf%c3%b6ruts%c3%a4ttningar%20inf%c3%b6r%20budget%202027%20varbergs%20kommun.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "3be48a915f93a795061d66fc77b30b3dd4f8e3d29ab833be4b5876a74a7044ce"
+  },
+  "budget2027.berg-tg.ch/pg_finanzplan-2": {
+   "kommun": "berg",
+   "datum": "2026-11-08",
+   "sha256": "a268882e55a2de3cc4499b09d66911f92c9f0f890aa52196c0e13b7f8a960301"
+  },
+  "medborgare.vaggeryd.se/committees/kommunstyrelsen-ks/mote-2026-06-03": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-08",
+   "sha256": "11cf9eed76ce440e843f9be34a36b509c6ed6ee1cda7821ce83f262e104171ab"
+  },
+  "barometern.se/hogsby/sa-har-vill-nya-styret-fordela-pengarna": {
+   "kommun": "hogsby",
+   "datum": "2026-11-08",
+   "sha256": "55dbcc3c1cf92d427be277d57ebcc4fd7eee050af527d640f8bfc50b70821f74"
+  },
+  "oskarshamns-nytt.se/malet-80-procent-av-samtalen-till-1177-ska-besvaras-inom-nio-minuter": {
+   "kommun": "kalmar",
+   "datum": "2026-11-08",
+   "fel": "HTTPError: HTTP Error 503: Service Unavailable"
+  },
+  "olandsbladet.se/insandare/sent-ska-syndarna-vakna": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-08",
+   "sha256": "b32741849a454a3107efc2d141a214df2dd40e5ff5b34382f6742ef6ba109157"
+  },
+  "jobbsafari.se/jobb/ekonomichef-till-torsas-kommun-sasrb-20537643": {
+   "kommun": "torsas",
+   "datum": "2026-11-08",
+   "fel": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  "boden.se/download/18.49110930198e5734aa66e3/1756199729621/2025-2027%20strategisk%20plan.pdf": {
+   "kommun": "boden",
+   "datum": "2026-11-08",
+   "sha256": "3ed99826a5d2729a9b498497f2c454265bb0c60ccd5466889bdc0741f9e9c22d"
+  },
+  "mynewsdesk.com/se/vallentuna/pressreleases/alliansen-presenterar-budgeten-foer-vallentuna-2027-3473234": {
+   "kommun": "upplands-vasby",
+   "datum": "2026-11-08",
+   "sha256": "f4624a9ca3baa464d8dc3993c65c3b6c3949de59cf3dfb2ef7763cc0a2815ba4"
+  },
+  "github.com/erikscheffer-school/larartiden/issues/3": {
+   "kommun": "vaxholm",
+   "datum": "2026-11-08",
+   "sha256": "412182a5f1fd0490a4d849ac1538b523ae7cd084312efea84b649766065275f2"
+  },
+  "flen.se/download/18.337f493c192bd373ea8684bb/1730992979495/na%cc%88mndplan%20%c3%96verf%c3%b6rmyndarn%c3%a4mnden%202024-2027,%20med%20budget.pdf": {
+   "kommun": "flen",
+   "datum": "2026-11-08",
+   "sha256": "720d5df5236b9ca00fd3c573a0ba8e2ba1535372d71c859542a11f3d14266a18"
+  },
+  "katrineholm.se/download/18.5db90bff19ed42aeafd5368a/1782207342898/protokoll%20van%202026-06-15.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-08",
+   "sha256": "9e9433e9d711c7c1aa6e90c60015a52bbe9e3cc1e5285120b4659f6648150020"
+  },
+  "vindeln.se/download/18.20a8b3891a1a75bdc9171/1793869936526/vindelns%20kommuns%20verksamhetsplan%20med%20budget%202027-2030.pdf": {
+   "kommun": "vindeln",
+   "datum": "2026-11-08",
+   "sha256": "1889c2b687cc7ef914a82043c590f67cac284c1f1068d4c30ae2c371a1b0acb8"
+  },
+  "st.nu/asikter/s-vi-kommer-att-fortsatta-utveckla-ange": {
+   "kommun": "ange",
+   "datum": "2026-11-08",
+   "sha256": "4267ed0ed464902da530d4fe12a6271b07f73a04f1ebe26b77fbb1d00d4b4708"
+  },
+  "finsamornskoldsvik.se/om-oss/styrelsen": {
+   "kommun": "ornskoldsvik",
+   "datum": "2026-11-08",
+   "sha256": "f123f59dcfc78f3d211c2f1543bb72917a1d50ca1ec1dc5b8b3ed023f3975297"
+  },
+  "alandstidningen.ax/opinion/fullt-medlemskap-i-nordiska-radet-kan-foernya-sjaelvstyrelsen/1439262": {
+   "kommun": "hjo",
+   "datum": "2026-11-08",
+   "sha256": "36454dfcc1f341a029a59ac415821f067440bc65257d83402056117862b8bf3f"
+  },
+  "via.tt.se/pressmeddelande/4444848/vgr-kraver-tillbaka-27-miljoner-kronor-efter-brister-hos-distriktslakarna-molndal?publisherid=3237184&lang=sv": {
+   "kommun": "molndal",
+   "datum": "2026-11-08",
+   "sha256": "14cb2a7faa931b43b1e47db73ec9bbaf39d9225f5b5fb6642530ef2aae165b08"
+  },
+  "ockero.se/download/18.14729c511a01f4c69f07c/1787232394789/%c3%96cker%c3%b6alliansen%20-%20budget%20och%20uppdrag%202027.pdf": {
+   "kommun": "ockero",
+   "datum": "2026-11-08",
+   "sha256": "7eddd7dcef13090281c8b4fc5fcca5f86a3b9ea77faaa39739ac453b0878596e"
+  },
+  "kt-kuriren.se/degerfors/mp-lagger-egen-gron-budget-i-degerfors": {
+   "kommun": "degerfors",
+   "datum": "2026-11-08",
+   "sha256": "23e004c155b850c785eeed86ad001fc6b5414426d8a79edb88d73c6f091c457a"
+  },
+  "ljusdalsposten.se/ljusdal/prio-pa-kvalitet-i-skolan-for-svahn-s": {
+   "kommun": "ljusdal",
+   "datum": "2026-11-08",
+   "sha256": "5c6a35a60f11a0a2b142311ac69521feac92050ced8628d9a9d3c3280ca9332c"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af8/1790149902682/ks%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-28%20081926.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "0e92581c6b495c6db98ebf9c15cffc3b54de5bd6c6b2a2c2e2661574081f5459"
+  },
+  "skillingaryd.nu/vaggeryd/nyheter/narmare-10-miljoner-i-resultat-vid-april-manads-slut": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-08",
+   "sha256": "87ac759b09f880ec38f0a3f0d547cc2c1e15c4ead7bf7db41f641e83cc141b61"
+  },
+  "fardbevis.se/orebro/ekonomi/forslag-om-verksamhetsplan-och-budget-2027-bereds": {
+   "kommun": "kalmar",
+   "datum": "2026-11-08",
+   "sha256": "4e6bdc0d49d8d993349476a004b7fbabb6288d5a7c6698362da743b39430d006"
+  },
+  "linkedin.com/in/michael-granstedt-3a4b3a196": {
+   "kommun": "morbylanga",
+   "datum": "2026-11-08",
+   "fel": "robots.txt tillåter inte"
+  },
+  "katrineholm.se/download/18.6f1e98c919e024cd6053da69/1778501985343/planeringsdirektiv%202027-2029,%20inklusive%20nya%20tabeller%20efter%20ny%20skatteprognos.pdf": {
+   "kommun": "katrineholm",
+   "datum": "2026-11-08",
+   "sha256": "8faf8b380eacef16de88332a641554e80fa38366d2d1b1fa559d7677fc09d49b"
+  },
+  "boras.se/kommunochpolitik/kommunensorganisation/kommunstyrelsen/kommunstyrelsen/kommunstyrelsensammantrade202606151400.5.345c9d6b19a05133abccccb0.html": {
+   "kommun": "boras",
+   "datum": "2026-11-08",
+   "sha256": "f0fe401947cd85265f620c6e7759dcb5f05657c6a1f7d88dd070d31a3a864e13"
+  },
+  "alandstidningen.ax/opinion/ska-tala-kritik-men-inte-hur-mycket-skit-som-helst/1441504": {
+   "kommun": "hjo",
+   "datum": "2026-11-08",
+   "sha256": "5f187657ec9c9bb82f45eb31f41a5905d5b0f8118302a55430f6a07cb12c37dc"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9aef/1790149902389/mhn%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "4f02458006f8c5e93657823deaa5fa805f040b0562f944dc1db3c8360624d3d1"
+  },
+  "skillingaryd.nu/vaggeryd/nyheter/skolgarden-vid-fagelfors-ska-fraschas-upp": {
+   "kommun": "vaggeryd",
+   "datum": "2026-11-08",
+   "sha256": "8258c5ee834f4c27da3bbbdac58e94f5ab64c4c40bc11ac1f66a939da40d8591"
+  },
+  "github.com/erikscheffer-school/larartiden/issues/5": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-08",
+   "sha256": "b4cd44d72662e3e3f91c899fec4852a132877f3a689133d9047b9c6218b0f803"
+  },
+  "via.tt.se/pressmeddelande/4434358/nytt-avtal-ska-starka-hallbart-resande-i-boras-del-av-regional-satsning-i-stad-och-land?publisherid=3237184&lang=sv": {
+   "kommun": "boras",
+   "datum": "2026-11-08",
+   "sha256": "a8ccd8a83a129b23317b85daac9f261b082fcb648fe41e73a8dfef9532ebaedb"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af0/1790149902421/soc%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084748.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "bbfb030695a7ac71e469da55787b4dd3096f60fce26f21381afba99bb774df56"
+  },
+  "github.com/erikscheffer-school/larartiden/issues/6": {
+   "kommun": "botkyrka",
+   "datum": "2026-11-08",
+   "sha256": "cb9996c3eff5746f4a4d241eaa086713631a0028cf5397f0ce3e885cea07c0b2"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af1/1790149902457/svn%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084419.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "453c6bebcc748bc64f50866540bc02f3e8139553a2afad6562cc6faffe61d12a"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af2/1790149902491/uan-%20underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084206.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "25716c5cd57c3072e2dc091e3d6ad548f60ee2bab15b32999297f37485a58d12"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af3/1790149902531/%c3%96f%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "c91c73950dac5c492fdcdda10539a759b909eebff14a4b5d5cff549a3b2ee88a"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af4/1790149902557/bn%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "80c63761f25ed08ddb883f5b87e47e484c284ba38fa3425c050d20941973aa2c"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af5/1790149902590/fgn%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "99b0dfd801e7e0da572a352e768f77a1ab5168df1ba73e5b89e3664ded163e95"
+  },
+  "varberg.se/download/18.46da13211a0be6c4285d9af6/1790149902622/hgn%20-%20underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf": {
+   "kommun": "varberg",
+   "datum": "2026-11-08",
+   "sha256": "5f66dd0b013508055d5dcbe089fe8d628e33caf77fd87a2889d75af5f63fcbcd"
   }
  }
 }

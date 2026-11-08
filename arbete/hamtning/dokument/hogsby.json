@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.barometern.se/hogsby/sa-har-vill-nya-styret-fordela-pengarna",
+  "titel": "Så här vill nya styret fördela pengarna – Barometern-OT",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "55dbcc3c1cf92d427be277d57ebcc4fd7eee050af527d640f8bfc50b70821f74",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.barometern.se/hogsby/har-ar-oppositionens-syn-pa-hur-budgeten-ska-se-ut-2027",
   "titel": "Här är oppositionens syn på hur budgeten ska se ut 2027 – Barometern-OT",
   "typ": "html",
