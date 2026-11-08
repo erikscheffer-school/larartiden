@@ -79,6 +79,7 @@ jobs:
             omanalysera=$(jq -r '.omanalysera // false' arbete/hamtning/kor.json)
             portaler=$(jq -r '.portaler // false' arbete/hamtning/kor.json)
             budgetsok=$(jq -r '.budgetsok // false' arbete/hamtning/kor.json)
+            bara_kort=$(jq -r '.bara_kort // false' arbete/hamtning/kor.json)
             budget_max_sok=$(jq -r '.budget_max_sok // 170' arbete/hamtning/kor.json)
           fi
           echo "antal=${antal}" >> "$GITHUB_OUTPUT"
@@ -86,11 +87,12 @@ jobs:
           echo "omanalysera=${omanalysera:-false}" >> "$GITHUB_OUTPUT"
           echo "portaler=${portaler:-false}" >> "$GITHUB_OUTPUT"
           echo "budgetsok=${budgetsok:-false}" >> "$GITHUB_OUTPUT"
+          echo "bara_kort=${bara_kort:-false}" >> "$GITHUB_OUTPUT"
           echo "budget_max_sok=${budget_max_sok}" >> "$GITHUB_OUTPUT"
           echo "Antal: ${antal:-3–10}, högst ${max_sok:-250} sökningar"
 
       - name: 1. Sök
-        if: steps.inst.outputs.omanalysera != 'true' && steps.inst.outputs.max_sok != '0'
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.omanalysera != 'true' && steps.inst.outputs.max_sok != '0')
         env:
           # Nyckeln läses bara som miljövariabel och skrivs aldrig ut.
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
@@ -98,29 +100,30 @@ jobs:
         run: python3 verktyg/hamta/sok.py
 
       - name: Installera webbläsaren
-        if: (steps.inst.outputs.portaler == 'true' || steps.inst.outputs.budgetsok == 'true') && steps.inst.outputs.omanalysera != 'true'
+        if: steps.inst.outputs.bara_kort != 'true' && ((steps.inst.outputs.portaler == 'true' || steps.inst.outputs.budgetsok == 'true') && steps.inst.outputs.omanalysera != 'true')
         run: pip install -q playwright && python -m playwright install --with-deps chromium
 
       - name: 1b. Sök i mötesportalerna
-        if: steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true'
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true')
         run: python3 verktyg/hamta/portaler.py
 
       - name: 1c. Riktad sökning efter budget 2027
-        if: steps.inst.outputs.budgetsok == 'true' && steps.inst.outputs.omanalysera != 'true'
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.budgetsok == 'true' && steps.inst.outputs.omanalysera != 'true')
         env:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
           BUDGET_MAX_SOK: ${{ steps.inst.outputs.budget_max_sok }}
         run: python3 verktyg/hamta/budgetsok.py
 
       - name: 2. Hämta dokument
-        if: steps.inst.outputs.omanalysera != 'true'
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.omanalysera != 'true')
         run: python3 verktyg/hamta/hamta_dokument.py --max-dokument 900 --max-minuter 130
 
       - name: 2. Analysera om hämtade PDF:er
-        if: steps.inst.outputs.omanalysera == 'true'
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.omanalysera == 'true')
         run: python3 verktyg/hamta/hamta_dokument.py --omanalysera
 
       - name: 3. Välj kommuner att granska
+        if: steps.inst.outputs.bara_kort != 'true'
         env:
           ANTAL: ${{ steps.inst.outputs.antal }}
         run: python3 verktyg/hamta/prioritera.py
@@ -139,6 +142,7 @@ jobs:
           exit 0
 
       - name: Skapa ärende med veckans lista
+        if: github.event_name == 'schedule'
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}

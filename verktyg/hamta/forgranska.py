@@ -32,6 +32,9 @@ BESLUT = re.compile(r"beslut|fastställ|antag|föreslå|förslag|godkänn|fullm�
 SKOLA = re.compile(r"utbildning|bildning|barn- och|barn och unga|skol|lärande|förskola|grundskola", re.I)
 SIFFRA = re.compile(r"\d[\d\s ]{2,}")
 STATSBIDRAG = re.compile(r"statsbidrag", re.I)
+BUDGETORD = re.compile(r"budget|ramar|budgetram|mål och budget|flerårsplan|resursplan|verksamhetsplan|"
+                       r"strategisk plan|kommunplan|planeringsdirektiv|driftram|nämndram|skattesats", re.I)
+AR2027 = re.compile(r"2027")
 LARARE = re.compile(r"lärar|undervisn", re.I)
 
 
@@ -73,10 +76,36 @@ def kandidater(k, docs, granskade):
     viktade = [d for d in egna if titel_budget2027(d) or (
         d.get("budget2027") and not TIDIGARE.search(f"{d.get('titel') or ''} {d['url']}".replace("%20", " ")))]
     return sorted(viktade, key=lambda d: (not titel_budget2027(d), not d.get("budget2027"),
-                                          d.get("sökning") not in (5, 6), datum_i(d)), reverse=False)[:3]
+                                          d.get("sökning") not in (5, 6), datum_i(d)), reverse=False)[:8]
 
 
 HAMTARE = Hamtare()
+
+
+def budgetrader(sidor):
+    """Rader som nämner både budget/ramar och 2027, med sidnummer."""
+    return rader(sidor, BUDGETORD, AR2027, max_antal=12)
+
+
+def ar_kandidat(sidor):
+    """Ser dokumentet ut att vara, eller innehålla, en budgethandling för 2027?"""
+    br = budgetrader(sidor)
+    tidigt = [r for r in br if int(r.split(":")[0][3:]) <= 5]
+    return bool(tidigt) or len(br) >= 3
+
+
+def las_sidor(d):
+    pdf = CACHE / f"{d.get('sha256')}.pdf"
+    if not pdf.exists():
+        try:
+            data, _, _ = HAMTARE.hamta(d["url"])
+            if data[:5] != b"%PDF-":
+                return None
+            CACHE.mkdir(parents=True, exist_ok=True)
+            pdf.write_bytes(data)
+        except Exception:
+            return None
+    return pdf_till_sidor(pdf.read_bytes())
 
 
 def kort_dokument(d):
@@ -98,7 +127,8 @@ def kort_dokument(d):
     delar = [rubrik, f"Sidor: {len(sidor)}. Budget 2027 enligt titeln: {'ja' if titel_budget2027(d) else 'oklart'}."
              + (" Texten är framtagen med OCR." if d.get("ocr") else ""),
              "", "**Förstasidorna**", "", "```", *[r[:170] for r in forsta], "```", "",
-             "**Beslut och förslag**", "", *(f"- {r}" for r in rader(sidor, BESLUT, max_antal=8)), "",
+             "**Rader om budget och 2027**", "", *(f"- {r}" for r in budgetrader(sidor)), "",
+             "**Beslut och förslag**", "", *(f"- {r}" for r in rader(sidor, BESLUT, AR2027, max_antal=6)), "",
              "**Skola och utbildning (rader med belopp)**", "",
              *(f"- {r}" for r in rader(sidor, SKOLA, SIFFRA, max_antal=10)), "",
              "**Reformorden**", ""]
@@ -127,7 +157,13 @@ def main():
         if k["s"] != 5:
             continue
         docs = las_json(DOKUMENT / f"{k['id']}.json", [])
-        kand = kandidater(k, docs, set(granskade.get(k["id"], [])))
+        kand = []
+        for d in kandidater(k, docs, set(granskade.get(k["id"], []))):
+            s = las_sidor(d)
+            if s and ar_kandidat(s):
+                kand.append(d)
+            if len(kand) >= 3:
+                break
         huvud = [f"# {k['k']} ({k['l']})", "", f"Webbplats: {k['w']}",
                  f"Portal: {', '.join(portaler.get(k['id'], {}).get('portaler') or ['ingen känd'])}",
                  f"Hämtade dokument: {len(docs)}, hämtfel: "
