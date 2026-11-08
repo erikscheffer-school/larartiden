@@ -1,22 +1,7 @@
 [
- {
-  "kommun": "leksand",
-  "nyckel": "netpublicator",
-  "start": "https://www.netpublicator.com/reader/r67748107"
- },
- {
-  "kommun": "klippan",
-  "nyckel": "evolution",
-  "start": "https://evolutioninternet.klippan.se/meetings"
- },
- {
-  "kommun": "gavle",
-  "nyckel": "meetingsplus",
-  "start": "https://meetingsplus.gavle.se/committees"
- },
- {
-  "kommun": "vansbro",
-  "nyckel": "vansbro",
-  "start": "https://www.vansbro.se/kommun-och-politik/arenden-protokoll-och-handlingar.html"
- }
+ {"kommun": "salem", "nyckel": "kommunkartan", "start": "https://kommunkartan.se/karta/salems-kommun/459335/"},
+ {"kommun": "lund", "nyckel": "kommunkartan", "start": "https://kommunkartan.se/karta/lunds-kommun/"},
+ {"kommun": "kristianstad", "nyckel": "kommunmannen", "start": "https://kommunmannen.se/kristianstad"},
+ {"kommun": "lund", "nyckel": "sok", "start": "https://www.lund.se/sok?query=budget+2027"},
+ {"kommun": "kalmar", "nyckel": "sok", "start": "https://kalmar.se/sok.html?query=budget+2027"}
 ]
