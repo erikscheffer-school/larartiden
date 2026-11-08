@@ -1,0 +1,36 @@
+# Felsökning av den riktade budgetsökningen: kör den för några kommuner och sparar
+# alla länkar som hittades (före filtrering) i arbete/granskning/budgetsok/.
+name: Testa budgetsökningen
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["arbete/granskning/budgetsok-kommuner.txt"]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera webbläsaren
+        run: pip install -q playwright && python -m playwright install --with-deps chromium
+      - name: Kör budgetsökningen
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          BUDGETSOK_DEBUG: "1"
+        run: |
+          python3 verktyg/hamta/budgetsok.py --kommuner "$(tr -d ' \n' < arbete/granskning/budgetsok-kommuner.txt)" --max-sok 20
+          git checkout -- .cache 2>/dev/null || true
+      - name: Spara resultatet i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arbete/granskning/budgetsok
+          git commit -q -m "Test av budgetsökningen $(date +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

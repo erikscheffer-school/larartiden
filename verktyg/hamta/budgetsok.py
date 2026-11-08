@@ -21,7 +21,7 @@ import sys
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(__file__))
-from gemensamt import (SOKRESULTAT, USER_AGENT, doman, idag, kommuner, las_json,  # noqa: E402
+from gemensamt import (ROOT, SOKRESULTAT, USER_AGENT, doman, idag, kommuner, las_json,  # noqa: E402
                        namn_finns, samma_doman, skriv_json)
 
 BUDGETNAV = re.compile(
@@ -33,6 +33,8 @@ BUDGET27 = re.compile(
     r"planeringsdirektiv|mrp|evp|direktiv|budgetförslag|förutsättningar)\W+(\w+\W+){0,4}2027"
     r"|2027\W+(\w+\W+){0,3}(budget|ramar)|2027\s*[-–]\s*20(29|30)", re.I)
 TIDIGARE = re.compile(r"(budget|plan)\W+(för\W+)?(år\W+)?202[0-6]\b", re.I)
+DEBUG = bool(os.environ.get("BUDGETSOK_DEBUG"))
+DEBUGDIR = ROOT / "arbete" / "granskning" / "budgetsok"
 SOKVAGAR = ["/sok.html?query=budget+2027", "/sok?q=budget+2027", "/?s=budget+2027",
             "/sok/?q=budget+2027", "/search?q=budget+2027"]
 
@@ -63,6 +65,9 @@ async def webbplatser(valda, max_sidor, parallellt):
                     dok, n = [], max_sidor
                 traff = [d for d in dok if relevant(f"{d['titel']} {d['beskrivning'][:200]}", d["url"])]
                 ut[k["id"]] = traff
+                if DEBUG:
+                    rader = [f"{d['url']} | {' '.join(d['titel'].split())[:120]}" for d in dok]
+                    (DEBUGDIR / f"{k['id']}-webb.txt").write_text("\n".join(rader) + "\n", encoding="utf-8")
                 print(f"  {k['k']}: {n} sidor, {len(traff)} möjliga budgethandlingar för 2027", flush=True)
 
         await asyncio.gather(*(en(k) for k in valda))
@@ -85,6 +90,9 @@ def brave(valda, max_sok):
             if b.antal >= max_sok:
                 return ut
             t = traffar(b.sok(q, fresh))
+            if DEBUG:
+                with open(DEBUGDIR / f"{k['id']}-brave.txt", "a", encoding="utf-8") as f:
+                    f.write(f"## {q}\n" + "".join(f"{x['url']} | {x['titel']} | {(x['beskrivning'] or '')[:150]}\n" for x in t))
             t = [x for x in t if samma_doman(x["url"], dom) or namn_finns(
                 namn, f"{x['titel'] or ''} {x['beskrivning'] or ''} {x['url']}")]
             t = [x for x in t if relevant(f"{x['titel'] or ''} {x['beskrivning'] or ''}", x["url"])]
@@ -100,9 +108,13 @@ def main():
     ap.add_argument("--max-sidor", type=int, default=15)
     ap.add_argument("--parallellt", type=int, default=6)
     ap.add_argument("--utan-webblasare", action="store_true")
+    ap.add_argument("--kommuner", default=os.environ.get("BUDGETSOK_KOMMUNER") or "",
+                    help="kommaseparerade id:n i stället för alla med status 5")
     a = ap.parse_args()
 
-    valda = [k for k in kommuner() if k["s"] == 5]
+    valda = [k for k in kommuner() if (k["id"] in a.kommuner.split(",") if a.kommuner else k["s"] == 5)]
+    if DEBUG:
+        DEBUGDIR.mkdir(parents=True, exist_ok=True)
     print(f"Riktad budgetsökning för {len(valda)} kommuner med status 5.", flush=True)
     webb = {} if a.utan_webblasare else asyncio.run(webbplatser(valda, a.max_sidor, a.parallellt))
     br = brave(valda, a.max_sok) if a.max_sok else {}
