@@ -10,6 +10,8 @@ Poängen bygger på det som hämtades i veckan:
   +3  ny budgethandling för 2027 i en kommun med status 5 (kan bli status 4)
   +1  per ytterligare ny budgethandling för 2027 (högst +2)
   +2  fullmäktige beslutade budget för 2027 de senaste tre veckorna och statusen är inte 0
+  +4  ny handling vars titel anger budget, ramar eller plan för 2027 i en kommun med status 5,
+      även om reformen inte nämns (kandidat för status 4 Ej nämnt)
   +1  status 5 (Ej bedömbart än)
 Bara kommunens egna handlingar (webbplatsen eller en mötesportal) ger poäng. Tidningsartiklar
 och myndigheters dokument visas men räknas inte, eftersom de inte är budgethandlingar.
@@ -35,6 +37,20 @@ STATUS = ["Pengar beslutade", "Pengar föreslagna", "Kostnad beräknad",
           "Nämnt utan belopp", "Ej nämnt", "Ej bedömbart än"]
 
 
+# Titlar som tydligt anger en budgethandling för 2027 (inte "Budget 2026 med plan 2027–2028").
+TITEL_B27 = re.compile(
+    r"(budget|detaljbudget|budgetramar|ramar|budgetförslag|mål och budget|strategisk plan och budget|"
+    r"kommunplan|flerårsplan|resursplan|verksamhetsplan|planeringsdirektiv|mål- och resursplan)"
+    r"\W+(för\W+)?(år\W+)?2027", re.I)
+TIDIGARE = re.compile(r"(budget|plan)\W+(för\W+)?(år\W+)?202[0-6]\b", re.I)
+
+
+def titel_budget2027(d):
+    t = " ".join(f"{d.get('titel') or ''} {d['url'].rsplit('/', 1)[-1]}".split())
+    t = re.sub(r"%20", " ", t)
+    return bool(TITEL_B27.search(t)) and not TIDIGARE.search(t)
+
+
 def kf_datum(kf):
     m = re.search(r"20\d\d-\d\d-\d\d", kf or "")
     return date.fromisoformat(m.group(0)) if m else None
@@ -58,6 +74,13 @@ def bedom(k, nya, korning):
     if budget27 and k["s"] == 5:
         poang += 3
         skal.append("ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma")
+    titel27 = [d for d in nya if titel_budget2027(d)]
+    if titel27 and k["s"] == 5:
+        poang += 4
+        if not any(d["nämner_reformen"] for d in titel27):
+            skal.append("titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt")
+        else:
+            skal.append("titeln anger budget eller plan för 2027")
     if len(budget27) > 1:
         poang += min(2, len(budget27) - 1)
     kf = kf_datum(k.get("kf"))
@@ -127,7 +150,7 @@ def main():
                f"Varför: {'; '.join(x['skal'])}.", ""]
         egna = [d for d in x["dokument"] if kommunhandling(d["url"], data[x["id"]])]
         andra = [d for d in x["dokument"] if d not in egna and d["nämner_reformen"]]
-        md += [dokumentrad(d) for d in egna[:6] if d["budget2027"] or d["nämner_reformen"]]
+        md += [dokumentrad(d) for d in egna[:6] if d["budget2027"] or d["nämner_reformen"] or titel_budget2027(d)]
         if andra:
             md.append("\nAndra källor (räknas inte som budgethandling):\n")
             md += [dokumentrad(d) for d in andra[:3]]
