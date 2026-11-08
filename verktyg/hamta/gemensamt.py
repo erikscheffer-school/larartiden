@@ -88,6 +88,19 @@ def samma_doman(url, d):
     return h == d or h.endswith("." + d)
 
 
+def uppladdad(url):
+    """Uppladdningsdatum (ÅÅÅÅ-MM) om adressen avslöjar det, annars None.
+
+    Sitevision: /download/18.xxx/<millisekunder sedan 1970>/fil.pdf
+    WordPress:  /wp-content/uploads/ÅÅÅÅ/MM/fil.pdf"""
+    m = re.search(r"/download/18\.[^/]+/(1[5-9]\d{11})/", url)
+    if m:
+        from datetime import datetime, timezone
+        return datetime.fromtimestamp(int(m.group(1)) / 1000, timezone.utc).strftime("%Y-%m")
+    m = re.search(r"/uploads/(20\d\d)/(\d\d)/", url)
+    return f"{m.group(1)}-{m.group(2)}" if m else None
+
+
 def kommunhandling(url, kommun):
     """Ligger dokumentet på kommunens webbplats eller en mötesportal (inte en tidning eller myndighet)?"""
     d, u = doman(kommun["w"]), url.lower()

@@ -71,7 +71,7 @@ jobs:
           omanalysera="${{ github.event.inputs.omanalysera }}"
           portaler="${{ github.event.inputs.portaler }}"
           budgetsok="${{ github.event.inputs.budgetsok }}"
-          budget_max_sok=330
+          budget_max_sok=170
           if [ "${{ github.event_name }}" = "schedule" ]; then portaler=true; budgetsok=true; fi
           if [ "${{ github.event_name }}" = "push" ] && [ -f arbete/hamtning/kor.json ]; then
             antal=$(jq -r '.antal // empty' arbete/hamtning/kor.json)
@@ -79,7 +79,7 @@ jobs:
             omanalysera=$(jq -r '.omanalysera // false' arbete/hamtning/kor.json)
             portaler=$(jq -r '.portaler // false' arbete/hamtning/kor.json)
             budgetsok=$(jq -r '.budgetsok // false' arbete/hamtning/kor.json)
-            budget_max_sok=$(jq -r '.budget_max_sok // 330' arbete/hamtning/kor.json)
+            budget_max_sok=$(jq -r '.budget_max_sok // 170' arbete/hamtning/kor.json)
           fi
           echo "antal=${antal}" >> "$GITHUB_OUTPUT"
           echo "max_sok=${max_sok:-250}" >> "$GITHUB_OUTPUT"
@@ -114,7 +114,7 @@ jobs:
 
       - name: 2. Hämta dokument
         if: steps.inst.outputs.omanalysera != 'true'
-        run: python3 verktyg/hamta/hamta_dokument.py --max-dokument 700 --max-minuter 110
+        run: python3 verktyg/hamta/hamta_dokument.py --max-dokument 900 --max-minuter 130
 
       - name: 2. Analysera om hämtade PDF:er
         if: steps.inst.outputs.omanalysera == 'true'

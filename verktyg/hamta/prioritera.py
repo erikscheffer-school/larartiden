@@ -42,7 +42,7 @@ TITEL_B27 = re.compile(
     r"(budget|detaljbudget|budgetramar|ramar|budgetförslag|mål och budget|strategisk plan och budget|"
     r"kommunplan|flerårsplan|resursplan|verksamhetsplan|planeringsdirektiv|mål- och resursplan)"
     r"\W+(för\W+)?(år\W+)?2027", re.I)
-TIDIGARE = re.compile(r"(budget|plan)\W+(för\W+)?(år\W+)?202[0-6]\b", re.I)
+TIDIGARE = re.compile(r"(budget|plan)\W*(för\W+)?(år\W+)?202[0-6](?!\d)", re.I)
 
 
 def titel_budget2027(d):

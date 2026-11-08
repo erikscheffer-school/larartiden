@@ -3,7 +3,7 @@
  "max_sok": 0,
  "kommentar": "Ändra och committa den här filen för att starta en hämtning direkt. antal tomt = 3–10 efter poäng. max_sok 0 = ingen allmän Brave-sökning. portaler: true = sök i mötesportalerna. budgetsok: true = riktad sökning efter budget 2027 för kommuner med status 5 (budget_max_sok = högsta antal Brave-sökningar). omanalysera: true = hämta inget nytt, analysera om redan hämtade PDF:er.",
  "omanalysera": false,
- "portaler": false,
+ "portaler": true,
  "budgetsok": true,
- "budget_max_sok": 330
+ "budget_max_sok": 170
 }

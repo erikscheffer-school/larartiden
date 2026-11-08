@@ -85,16 +85,17 @@ def brave(valda, max_sok):
     fresh = f"2026-03-01to{idag()}"
     for k in valda:
         dom, namn = doman(k["w"]), k["k"]
-        for q in (f'site:{dom} "budget 2027"',
-                  f'"{namn}" kommun "budget 2027" förslag'):
+        # site:-sökningar gav inga träffar i provet, så bara en bred sökning per kommun.
+        for q in (f'{namn} kommun budget 2027 förslag kommunfullmäktige',):
             if b.antal >= max_sok:
                 return ut
             t = traffar(b.sok(q, fresh))
             if DEBUG:
                 with open(DEBUGDIR / f"{k['id']}-brave.txt", "a", encoding="utf-8") as f:
                     f.write(f"## {q}\n" + "".join(f"{x['url']} | {x['titel']} | {(x['beskrivning'] or '')[:150]}\n" for x in t))
-            t = [x for x in t if samma_doman(x["url"], dom) or namn_finns(
-                namn, f"{x['titel'] or ''} {x['beskrivning'] or ''} {x['url']}")]
+            # Kommunnamnet i titeln eller adressen (beskrivningar nämner ofta andra kommuner).
+            t = [x for x in t if samma_doman(x["url"], dom) or namn_finns(namn, f"{x['titel'] or ''} {x['url']}")]
+            t = [x for x in t if "github.com" not in x["url"]]
             t = [x for x in t if relevant(f"{x['titel'] or ''} {x['beskrivning'] or ''}", x["url"])]
             ut.setdefault(k["id"], []).extend(t)
         print(f"  {namn}: {len(ut.get(k['id'], []))} träffar från Brave", flush=True)
@@ -104,7 +105,7 @@ def brave(valda, max_sok):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max-sok", type=int, default=int(os.environ.get("BUDGET_MAX_SOK") or 330))
+    ap.add_argument("--max-sok", type=int, default=int(os.environ.get("BUDGET_MAX_SOK") or 170))
     ap.add_argument("--max-sidor", type=int, default=15)
     ap.add_argument("--parallellt", type=int, default=6)
     ap.add_argument("--utan-webblasare", action="store_true")

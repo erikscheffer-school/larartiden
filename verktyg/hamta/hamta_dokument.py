@@ -163,13 +163,16 @@ def rang(t):
     mote = bool(re.search(r"fullmäktige|kommunstyrelse|\bkf\b|\bks\b|utbildning|bildning|barn- och|skolnämnd", text)) \
         and bool(re.search(r"2026-(0[4-9]|1[0-2])|2026", text))
     riktad = t.get("sokning") in (5, 6)  # funnen av den riktade budgetsökningen
-    return (not riktad, not ("2027" in text and budget), not budget, not mote, not REFORM_I_TEXT.search(text),
+    up = uppladdad(t["url"])
+    ny = (up or "") >= "2026-09"  # uppladdad i höst: aktuella kallelser och budgetförslag
+    gammal = bool(up) and up < "2026"
+    return (gammal, not riktad, not ny, not ("2027" in text and budget), not budget, not mote, not REFORM_I_TEXT.search(text),
             not t["url"].lower().split("?")[0].endswith(".pdf"))
 
 
 REFORM_I_TEXT = re.compile(r"undervisningstid|undervisningsuppdrag|lärares arbetstid", re.I)
 PER_KOMMUN = 6
-PER_KOMMUN_STATUS5 = 10  # kommuner som saknar status får fler dokument per körning
+PER_KOMMUN_STATUS5 = 15  # kommuner som saknar status får fler dokument per körning
 MAX_OCR = 25  # inskannade PDF:er som tolkas med OCR per körning
 
 

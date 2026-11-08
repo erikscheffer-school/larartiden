@@ -20,8 +20,8 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from gemensamt import (CACHE, DOKUMENT, HAMTNING, ROOT, kommuner, kommunhandling,  # noqa: E402
-                       las_json)
+from gemensamt import (CACHE, DOKUMENT, HAMTNING, ROOT, Hamtare, kommuner,  # noqa: E402
+                       kommunhandling, las_json, uppladdad)
 from hamta_dokument import STARK, SVAG, pdf_till_sidor  # noqa: E402
 from prioritera import TIDIGARE, titel_budget2027  # noqa: E402
 
@@ -68,17 +68,29 @@ def kandidater(k, docs, granskade):
             and (kommunhandling(d["url"], k) or d.get("sökning") in (4, 5))
             and d.get("kommunnamn_i_text") is not False and d.get("typ") == "pdf"]
     # Äldre budgetar ("Budget 2025–2027", "Budget 2026 med plan 2027") räknas inte.
+    # Dokument som laddades upp före 2026 kan inte vara budget 2027.
+    egna = [d for d in egna if (uppladdad(d["url"]) or "2026") >= "2026"]
     viktade = [d for d in egna if titel_budget2027(d) or (
         d.get("budget2027") and not TIDIGARE.search(f"{d.get('titel') or ''} {d['url']}".replace("%20", " ")))]
     return sorted(viktade, key=lambda d: (not titel_budget2027(d), not d.get("budget2027"),
                                           d.get("sökning") not in (5, 6), datum_i(d)), reverse=False)[:3]
 
 
+HAMTARE = Hamtare()
+
+
 def kort_dokument(d):
     pdf = CACHE / f"{d.get('sha256')}.pdf"
     rubrik = f"### {' '.join((d.get('titel') or d['url']).split())[:160]}\n\n{d['url']}\n"
-    if not pdf.exists():
-        return rubrik + "\nPDF:en finns inte i cachen.\n"
+    if not pdf.exists():  # finns inte i cachen: hämta igen
+        try:
+            data, _, _ = HAMTARE.hamta(d["url"])
+            if data[:5] != b"%PDF-":
+                raise ValueError("inte en PDF")
+            CACHE.mkdir(parents=True, exist_ok=True)
+            pdf.write_bytes(data)
+        except Exception as e:
+            return rubrik + f"\nPDF:en kunde inte hämtas ({type(e).__name__}).\n"
     sidor = pdf_till_sidor(pdf.read_bytes())
     text = "\n".join(sidor)
     forsta = [" ".join(r.split()) for r in "\n".join(sidor[:2]).splitlines() if r.strip()][:30]
