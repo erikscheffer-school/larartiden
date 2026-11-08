@@ -58,7 +58,10 @@ def kf_datum(kf):
 
 def bedom(k, nya, korning):
     poang, skal = 0, []
-    nya = [d for d in nya if kommunhandling(d["url"], k)]
+    # Kommunens egna handlingar. Dokument där kommunnamnet saknas i början (till exempel regionens
+    # eller en grannkommuns portal) räknas inte.
+    nya = [d for d in nya if (kommunhandling(d["url"], k) or d.get("sökning") == 4)
+           and d.get("kommunnamn_i_text") is not False]
     reform27 = [d for d in nya if d["nämner_reformen"] and d["budget2027"]]
     reform = [d for d in nya if d["nämner_reformen"] and not d["budget2027"]]
     budget27 = [d for d in nya if d["budget2027"]]

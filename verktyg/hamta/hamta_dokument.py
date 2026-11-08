@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from gemensamt import (BELOPP, CACHE, DOKUMENT, INTE_REFORM, REFORMKONTEXT,  # noqa: E402
                        SOKRESULTAT, STARKA, STATSBIDRAG, STATSBIDRAG_KONTEXT, SVAGA,
                        TILLSTAND, Hamtare, idag, kanda_urler, kommuner, las_json,
-                       normalisera_url, skriv_json)
+                       namn_finns, normalisera_url, skriv_json)
 
 BUDGET27 = re.compile(
     r"(budget\w*|ramar|ram|direktiv|kommunplan|strategisk plan|verksamhetsplan|flerårsplan|"
@@ -223,9 +223,12 @@ def main():
             res = analysera(sidor, t.get("titel") or "")
             if ar_pdf and not "".join(sidor).strip():
                 res["anmärkning"] = "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+            # Mötesportaler kan vara regionens eller en grannkommuns: kommunnamnet ska stå i början.
+            namn_i_text = namn_finns(namn, (t.get("titel") or "") + " " + " ".join(sidor[:3])[:30_000])
             poster[kid][t["url"]] = {
                 "url": t["url"], "titel": t.get("titel"), "typ": "pdf" if ar_pdf else "html",
-                "hämtad": idag(), "sha256": sha, "sökning": t.get("sokning"), **res,
+                "hämtad": idag(), "sha256": sha, "sökning": t.get("sokning"),
+                "kommunnamn_i_text": namn_i_text, **res,
             }
             sedda[nu] = {"kommun": kid, "datum": idag(), "sha256": sha}
             andrade.add(kid)

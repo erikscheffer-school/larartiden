@@ -130,6 +130,18 @@ Claude skrev en genomsökare som med en riktig webbläsare (Playwright) går fr�
 
 Svar på Claudes fråga om de 32 kommuner där den automatiska hämtningen hittat reformorden skulle granskas. Claude lät GitHub Actions skriva ut de aktuella sidorna, läste dem och kontrollerade citaten ordagrant. Nio kommuner fick ny status: Hammarö Pengar beslutade (beloppet delas med aktivitetskravet), Forshaga, Bengtsfors och Växjö Pengar föreslagna (Växjös belopp delas med tidiga insatser), samt Säter, Svenljunga, Skurup, Tanum och Hallsberg Nämnt utan belopp. För 23 kommuner var träffarna inte budgethandlingar för 2027, till exempel gamla budgetar, årsredovisningar eller garanterad undervisningstid. Det står nu i deras luckor, och de förblir Ej bedömbart än.
 
+### 8 november 2026, kl. 08.47
+
+> Det saknas fortfarande underlag från 167 kommuner. Är det för att det inte finns något eller för att vi har för "dåliga" skript?
+
+Claude svarade att det är båda, men att den största förklaringen var att skripten bara skickade vidare handlingar där reformen nämns: budgethandlingar för 2027 utan reformord, som ska ge status Ej nämnt, kom aldrig upp för granskning. Många kommuner beslutar dessutom budget 2027 först i november–december efter valet, och skripten missar handlingar på grund av hämtfel, Ciceron och taket på antal dokument.
+
+### 8 november 2026, kl. 08.50
+
+> Ja
+
+Svar på Claudes förslag att låta veckolistan ta med budgethandlingar för 2027 utan reformord och att granska de tydligaste. Veckolistan ger nu poäng åt handlingar vars titel anger budget, ramar eller plan för 2027. Claude granskade nio kommuner. Staffanstorp, Torsby, Jokkmokk, Vännäs, Arboga och Karlskoga fick status Ej nämnt; reformorden saknas i hela respektive dokument. Arbogas status bygger på preliminära ramar. För Lidköping lades datumet för budgetbeslutet till. Handlingarna som hämtats för Orsa och Grästorp visade sig gälla Region Dalarna och Lidköping, så hämtningen kontrollerar nu att kommunnamnet står i dokumentet.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
