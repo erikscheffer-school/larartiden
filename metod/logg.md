@@ -142,6 +142,12 @@ Claude svarade att det är båda, men att den största förklaringen var att skr
 
 Svar på Claudes förslag att låta veckolistan ta med budgethandlingar för 2027 utan reformord och att granska de tydligaste. Veckolistan ger nu poäng åt handlingar vars titel anger budget, ramar eller plan för 2027. Claude granskade nio kommuner. Staffanstorp, Torsby, Jokkmokk, Vännäs, Arboga och Karlskoga fick status Ej nämnt; reformorden saknas i hela respektive dokument. Arbogas status bygger på preliminära ramar. För Lidköping lades datumet för budgetbeslutet till. Handlingarna som hämtats för Orsa och Grästorp visade sig gälla Region Dalarna och Lidköping, så hämtningen kontrollerar nu att kommunnamnet står i dokumentet.
 
+### 8 november 2026, kl. 09.00
+
+> Jag vill ha 0 kommuner utan granskade dokument. Fortsätt bygga skript för att försöka lösa problemet.
+
+Claude byggde en riktad sökning efter budget 2027 för kommuner med status Ej bedömbart än (`verktyg/hamta/budgetsok.py`), OCR för inskannade PDF:er, en prioritering som hämtar höstens dokument först och hoppar över dokument som laddats upp före 2026, och granskningskort per kommun (`verktyg/hamta/forgranska.py`) med de rader som nämner budget och 2027 samt besked om reformorden saknas i hela dokumentet. Claude granskade korten och kontrollerade osäkra fall mot utskrivna sidor. 25 kommuner fick status Ej nämnt och två (Vaxholm och Töreboda) Nämnt utan belopp. För ett tiotal kommuner lades kända datum för budgetbeslut och handlingar till i luckorna. Ett prov visade att Brave Search sällan indexerar kommunernas egna budgethandlingar och att kommunkartan.se:s gränssnitt kräver inloggning.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
