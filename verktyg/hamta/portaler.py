@@ -98,12 +98,16 @@ LANKAR_JS = """els => els.map(e => {
 })"""
 
 
-async def genomsok(context, kommun, robots, max_sidor, senast):
-    """Besöker kommunens webbplats och portal. Returnerar dokumentlänkar och portaltyper."""
+async def genomsok(context, kommun, robots, max_sidor, senast, start=None, navigera=None, bara_egen=False):
+    """Besöker kommunens webbplats och portal. Returnerar dokumentlänkar och portaltyper.
+
+    start: lista med startadresser (standard kommunens startsida). navigera: regex som avgör
+    vilka länkar som följs först. bara_egen: följ bara länkar på kommunens egen webbplats."""
     dom = doman(kommun["w"])
-    start = kommun["w"]
+    navigera = navigera or NAVIGERA
     tillatna = {dom}
-    kö = [(0, 0, start)]
+    kö = [(-i, i, s) for i, s in enumerate(reversed(start or [kommun["w"]]))]
+    heapq.heapify(kö)
     besokta, dokument, portaler = set(), {}, set()
     adresser = set()  # adresser till portaler som har egna hämtare
     raknare = 0
@@ -151,14 +155,14 @@ async def genomsok(context, kommun, robots, max_sidor, senast):
                         d["titel"] = titel
                     continue
                 # Följ länkar på kommunens webbplats och in i portaler som kommunen länkar till.
-                extern_portal = typ or re.search(r"handlingar|protokoll|sammanträden|möten", text, re.I)
+                extern_portal = not bara_egen and (typ or re.search(r"handlingar|protokoll|sammanträden|möten", text, re.I))
                 if not (samma_doman(href, dom) or h in tillatna or extern_portal):
                     continue
                 if extern_portal:
                     tillatna.add(h)
                 if href.split("#")[0] in besokta:
                     continue
-                poang = len(NAVIGERA.findall(f"{href} {text}")) + (3 if typ else 0)
+                poang = len(navigera.findall(f"{href} {text}")) + (3 if typ and not bara_egen else 0)
                 if poang:
                     raknare += 1
                     heapq.heappush(kö, (-poang, raknare, href))

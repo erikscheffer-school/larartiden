@@ -24,6 +24,10 @@ on:
         description: "Sök också igenom mötesportalerna med webbläsare (tar längre tid)"
         type: boolean
         default: true
+      budgetsok:
+        description: "Riktad sökning efter budget 2027 för kommuner med status 5"
+        type: boolean
+        default: true
       omanalysera:
         description: "Sök och hämta inget nytt, analysera om redan hämtade PDF:er"
         type: boolean
@@ -43,12 +47,12 @@ concurrency:
 jobs:
   hamta:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
 
-      - name: Installera pdftotext
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Installera pdftotext och OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils ocrmypdf tesseract-ocr-swe
 
       - name: Återställ hämtade PDF:er
         uses: actions/cache@v4
@@ -66,17 +70,23 @@ jobs:
           max_sok="${{ github.event.inputs.max_sok }}"
           omanalysera="${{ github.event.inputs.omanalysera }}"
           portaler="${{ github.event.inputs.portaler }}"
-          if [ "${{ github.event_name }}" = "schedule" ]; then portaler=true; fi
+          budgetsok="${{ github.event.inputs.budgetsok }}"
+          budget_max_sok=330
+          if [ "${{ github.event_name }}" = "schedule" ]; then portaler=true; budgetsok=true; fi
           if [ "${{ github.event_name }}" = "push" ] && [ -f arbete/hamtning/kor.json ]; then
             antal=$(jq -r '.antal // empty' arbete/hamtning/kor.json)
             max_sok=$(jq -r '.max_sok // empty' arbete/hamtning/kor.json)
             omanalysera=$(jq -r '.omanalysera // false' arbete/hamtning/kor.json)
             portaler=$(jq -r '.portaler // false' arbete/hamtning/kor.json)
+            budgetsok=$(jq -r '.budgetsok // false' arbete/hamtning/kor.json)
+            budget_max_sok=$(jq -r '.budget_max_sok // 330' arbete/hamtning/kor.json)
           fi
           echo "antal=${antal}" >> "$GITHUB_OUTPUT"
           echo "max_sok=${max_sok:-250}" >> "$GITHUB_OUTPUT"
           echo "omanalysera=${omanalysera:-false}" >> "$GITHUB_OUTPUT"
           echo "portaler=${portaler:-false}" >> "$GITHUB_OUTPUT"
+          echo "budgetsok=${budgetsok:-false}" >> "$GITHUB_OUTPUT"
+          echo "budget_max_sok=${budget_max_sok}" >> "$GITHUB_OUTPUT"
           echo "Antal: ${antal:-3–10}, högst ${max_sok:-250} sökningar"
 
       - name: 1. Sök
@@ -88,16 +98,23 @@ jobs:
         run: python3 verktyg/hamta/sok.py
 
       - name: Installera webbläsaren
-        if: steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true'
+        if: (steps.inst.outputs.portaler == 'true' || steps.inst.outputs.budgetsok == 'true') && steps.inst.outputs.omanalysera != 'true'
         run: pip install -q playwright && python -m playwright install --with-deps chromium
 
       - name: 1b. Sök i mötesportalerna
         if: steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true'
         run: python3 verktyg/hamta/portaler.py
 
+      - name: 1c. Riktad sökning efter budget 2027
+        if: steps.inst.outputs.budgetsok == 'true' && steps.inst.outputs.omanalysera != 'true'
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          BUDGET_MAX_SOK: ${{ steps.inst.outputs.budget_max_sok }}
+        run: python3 verktyg/hamta/budgetsok.py
+
       - name: 2. Hämta dokument
         if: steps.inst.outputs.omanalysera != 'true'
-        run: python3 verktyg/hamta/hamta_dokument.py
+        run: python3 verktyg/hamta/hamta_dokument.py --max-dokument 700 --max-minuter 110
 
       - name: 2. Analysera om hämtade PDF:er
         if: steps.inst.outputs.omanalysera == 'true'
@@ -108,11 +125,14 @@ jobs:
           ANTAL: ${{ steps.inst.outputs.antal }}
         run: python3 verktyg/hamta/prioritera.py
 
+      - name: 4. Granskningskort för kommuner utan status
+        run: python3 verktyg/hamta/forgranska.py
+
       - name: Spara resultatet i repot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add arbete/hamtning arbete/veckolista
+          git add arbete/hamtning arbete/veckolista arbete/granskning/kort
           git commit -q -m "Veckohämtning $(date +%F): lista att granska" || true
           git pull -q --rebase origin main
           git push -q origin HEAD:main || exit 1

@@ -55,6 +55,28 @@ def pdf_till_sidor(data):
     return text.split("\f")
 
 
+def ocr_till_sidor(data, max_sidor=80):
+    """Tolkar en inskannad PDF med OCRmyPDF (svenska) och returnerar texten sida för sida."""
+    import shutil
+    if not shutil.which("ocrmypdf"):
+        return []
+    with tempfile.TemporaryDirectory() as d:
+        inn, ut = os.path.join(d, "in.pdf"), os.path.join(d, "ut.pdf")
+        with open(inn, "wb") as f:
+            f.write(data)
+        try:
+            info = subprocess.run(["pdfinfo", inn], capture_output=True, text=True, timeout=30).stdout
+            sidor = int((re.search(r"Pages:\s+(\d+)", info) or [0, 0])[1])
+            if not sidor or sidor > max_sidor:
+                return []
+            subprocess.run(["ocrmypdf", "-q", "-l", "swe", "--skip-text", "--output-type", "pdf",
+                            "--jobs", "2", inn, ut], capture_output=True, timeout=600, check=True)
+            with open(ut, "rb") as f:
+                return pdf_till_sidor(f.read())
+        except Exception:
+            return []
+
+
 def html_till_sidor(data):
     t = data.decode("utf-8", "replace")
     t = re.sub(r"(?is)<(script|style|nav|header|footer)\b.*?</\1>", " ", t)
@@ -140,12 +162,15 @@ def rang(t):
     budget = bool(re.search(r"budget|ramar|mål och|resursplan|flerårsplan|verksamhetsplan|kommunplan|mrp|evp|direktiv", text))
     mote = bool(re.search(r"fullmäktige|kommunstyrelse|\bkf\b|\bks\b|utbildning|bildning|barn- och|skolnämnd", text)) \
         and bool(re.search(r"2026-(0[4-9]|1[0-2])|2026", text))
-    return (not ("2027" in text and budget), not budget, not mote, not REFORM_I_TEXT.search(text),
+    riktad = t.get("sokning") in (5, 6)  # funnen av den riktade budgetsökningen
+    return (not riktad, not ("2027" in text and budget), not budget, not mote, not REFORM_I_TEXT.search(text),
             not t["url"].lower().split("?")[0].endswith(".pdf"))
 
 
 REFORM_I_TEXT = re.compile(r"undervisningstid|undervisningsuppdrag|lärares arbetstid", re.I)
 PER_KOMMUN = 6
+PER_KOMMUN_STATUS5 = 10  # kommuner som saknar status får fler dokument per körning
+MAX_OCR = 25  # inskannade PDF:er som tolkas med OCR per körning
 
 
 def redan_klar(post):
@@ -157,7 +182,7 @@ def ska_hamtas(t):
     u = t["url"].lower()
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
     # Dokumentlänkar från mötesportalerna (sökning 3) saknar ofta .pdf i adressen.
-    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") in (3, 4)
+    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") in (3, 4, 5, 6)
 
 
 def main():
@@ -180,16 +205,19 @@ def main():
 
     # Välj högst PER_KOMMUN nya träffar per kommun och hämta dem turvis, så att taket
     # på antal dokument inte går åt på de första kommunerna.
+    status = {k["id"]: k["s"] for k in kommuner()}
     koer = {}
-    for kid, post in sok["kommuner"].items():
+    # Kommuner som saknar status först, så att de får sina dokument även om taket nås.
+    for kid, post in sorted(sok["kommuner"].items(), key=lambda x: -status.get(x[0], 0)):
         nya = [t for t in post["traffar"]
                if normalisera_url(t["url"]) not in kanda.get(kid, set())
                and not redan_klar(sedda.get(normalisera_url(t["url"]))) and ska_hamtas(t)]
-        koer[kid] = sorted(nya, key=rang)[:PER_KOMMUN]
+        koer[kid] = sorted(nya, key=rang)[:PER_KOMMUN_STATUS5 if status.get(kid) == 5 else PER_KOMMUN]
     poster = {kid: {p["url"]: p for p in las_json(DOKUMENT / f"{kid}.json", [])} for kid in koer}
     andrade = set()
     stopp = False
-    for omgang in range(PER_KOMMUN):
+    ocr_antal = 0
+    for omgang in range(PER_KOMMUN_STATUS5):
         for kid, ko in koer.items():
             if omgang >= len(ko):
                 continue
@@ -220,7 +248,14 @@ def main():
             else:
                 sedda[nu] = {"kommun": kid, "datum": idag(), "fel": f"okänd typ {typ[:40]}"}
                 continue
+            ocr = False
+            if ar_pdf and not "".join(sidor).strip() and ocr_antal < MAX_OCR:
+                ocr_sidor = ocr_till_sidor(data)
+                if ocr_sidor:
+                    sidor, ocr, ocr_antal = ocr_sidor, True, ocr_antal + 1
             res = analysera(sidor, t.get("titel") or "")
+            if ocr:
+                res["ocr"] = True
             if ar_pdf and not "".join(sidor).strip():
                 res["anmärkning"] = "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
             # Mötesportaler kan vara regionens eller en grannkommuns: kommunnamnet ska stå i början.
