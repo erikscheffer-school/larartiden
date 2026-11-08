@@ -1,0 +1,36 @@
+# Kör ett provskript (arbete/granskning/prov/prov.py) med nätåtkomst och webbläsare och sparar
+# det som skriptet skriver i arbete/granskning/prov/ut/. Används för att undersöka nya källor
+# innan de byggs in i hämtningen.
+name: Kör prov
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["arbete/granskning/prov/prov.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  prov:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          pip install -q playwright && python -m playwright install --with-deps chromium
+      - name: Kör provet
+        run: |
+          mkdir -p arbete/granskning/prov/ut
+          python3 arbete/granskning/prov/prov.py 2>&1 | tail -200 > arbete/granskning/prov/ut/logg.txt || true
+      - name: Spara resultatet i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arbete/granskning/prov/ut
+          git commit -q -m "Prov $(date +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
