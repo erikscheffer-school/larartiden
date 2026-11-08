@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.motala.se/nyheter/ny-politisk-majoritet-tar-over-den-1-november/",
+  "titel": "Ny politisk majoritet tar över den 1 november - Motala kommun",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "173940cb3cd691dc92ea8043e6b8cfb2f511fd550bf071d65ab38763d96d53b6",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.corren.se/nyheter/motala/artikel/styrets-budgetforslag-i-motala-infor-2027/rex0zq5l",
   "titel": "Styrets budgetförslag i Motala inför 2027",
   "typ": "html",

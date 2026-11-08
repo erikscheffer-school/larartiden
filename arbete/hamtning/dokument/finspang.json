@@ -1,5 +1,252 @@
 [
  {
+  "url": "https://finspang.se/download/18.2e0b11019c47c6ffeeb4e70/1771343203030/2026-02-11%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 11 februari (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9d2f4aef3e8b05c8886eb66d43c854e6b02a0eb0247988ca6551029c9580a778",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.1243187519afcc65877548/1765181942205/2025-12-17%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 17 december 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "12d85074b28e6a4d9e989b4f0a0cf66a2acb469789742c6b3b23efeb10ea19ee",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 102,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.67b400fc19b2bf8d8633aa9f/1766149295625/2025-12-17%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 17 december 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "cc15b023defe20a41c4a7dc34a51008db4293284a46fad402d0885ed56233140",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.27d1d319a769311e82c2a8/1763453532437/2025-11-27%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 27 november 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "d9824d44a1e559f581b6a7ee7cc574a0b71ace26da3c128dd3c7e057b1e94fcc",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 375,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 153,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Från och med år 2025 avsätts ytterligare medel 0,2 mnkr för Åtgärder skolsociala team (gängkriminalitet). Medel avsätts som komplement till statsbidrag för området och används om statsbidraget erhålls. År 2026 avsätts 0,9 mnkr för prioriterade uppdrag och oförutsett. Från och med",
+    "belopp_nara": true
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "litet). kompetensutvecklingsmedel, landsbygdsutveckling Medel avsätts som komplement till statsbidrag för och drift- och kapitalkostnader för nya investeringar. området och används om statsbi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 47,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "När det gäller taxehöjningar begränsas dock den möjligheten även av maxtaxereformerna inom förskola och äldreomsorg. Finspångs kommun får något lägre generella statsbidrag och utjämning som våra grannkommuner men högre än riket. 7.Känslighetsanalys Händelseförändring kostnad/ intäkt i Mnkr Ränteförändring med",
+    "belopp_nara": false
+   },
+   {
+    "sida": 106,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "). kompetensutvecklingsmedel, landsbygdsutveckling Medel avsätts som komplement till statsbidrag för och drift- och kapitalkostnader för nya investeringar. området och används om st",
+    "belopp_nara": false
+   },
+   {
+    "sida": 113,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "När det gäller taxehöjningar begränsas dock den möjligheten även av maxtaxereformerna inom förskola och äldreomsorg. Finspångs kommun får något lägre generella statsbidrag och utjämning som våra grannkommuner men högre än riket. 7.Känslighetsanalys Händelseförändring kostnad/ intäkt i Mnkr Ränteförändring med",
+    "belopp_nara": false
+   },
+   {
+    "sida": 249,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "det pågår ett arbete med att ta fram en kostnadsbedömning av möjliga framtida investeringar. Utöver detta kommer statsbidrag att tilldelas kommunerna i syfte att skapa bättre förutsättningar för tryggare förskolor och skolor. Sektor utbildning bedömer därför at",
+    "belopp_nara": false
+   },
+   {
+    "sida": 253,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kostnadsbedömning av möjliga framtida investeringar. Utöver detta kommer statsbidrag att tilldelas kommunerna i syfte att skapa bättre förutsättningar för tryggare förskolor och skolor. Sektor u",
+    "belopp_nara": false
+   },
+   {
+    "sida": 255,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kostnadsbedömning av möjliga framtida investeringar. Utöver detta kommer statsbidrag att tilldelas kommunerna i syfte att skapa bättre förutsättningar för tryggare förskolor och skolor. Sektor u",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://finspang.se/download/18.1243187519afcc6587720015/1765291999484/2025-11-27%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 27 november 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "e05b2c290a985f597029cc2c148d34d68a6747dd6b3f11391a4070108bc67ed2",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "örts i samarbete med fastighetsavdelningen där det pågår ett arbete med att ta fram en kostnadsbedömning av möjliga framtida investeringar. Utöver detta kommer statsbidrag att tilldelas kommunerna i syfte att skapa bättre förutsättningar för tryggare förskolor och skolor. Sektor utbildning bedömer därför att det finns ett behov a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 29,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kolor har genomförts och i samarbete med Fastighetsförvaltningen pågår ett arbete för att ta fram en kostnadsbedömning av framtida investeringar. Vidare kommer statsbidrag att tilldelas kommunerna i syfte att skapa bättre förutsättningar för säkrare förskolor och skolor. Sektor utbildning ser ett behov av att ta ett helhetsgrepp",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://finspang.se/download/18.4a990a23199c8ee8d7241c88/1760425772389/2025-10-22%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 22 oktober 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5a7ab9186314f9954bbf46f3d90be14bb674e149690e053aeb3798c7e9d3d741",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 206,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 50,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "som inte tidigare prognosticerats. Utbildning gemensamt visar en förbättring med 1,8 mnkr. Tillkommande statsbidrag ger Förskolan prognostiserar en försämrad ökade intäkter. Intern försäljning av prognos med 1,7 mnkr.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 52,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "la barn. och elevers bästa förutsättningar. Ett Gymnasiet prognostiserar ett underskott på statsbidrag för arbete med psykisk ohälsa, 1,8 mnkr. Budget till den interna som inte räknats med tidi",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://finspang.se/download/18.75d099a119a0a1dd21ebfbe3/1761899614966/2025-10-22%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 22 oktober 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "bc148fab2af9debf90701a05008ca52c5c1953c91178ca999db39596e9b1e2ee",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.2e79248019931f7628153fbb/1757933669993/2025-09-24%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 24 september 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "7742f6098fe3c42032d6bc518fd998a43b7a367abf0a4ce887df2d81d4ee1ce6",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 292,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.676e183119980220dc84d6d7/1759216698020/2025-09-24%20Protokoll%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 24 september 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "4699c9365c225a4d62f5f6e8c81cf757b3367fee4d10f7651d44b7f2ce0bb9e0",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.41f78b481982b5a2db717e86/1753272632051/2025-06-19%20Kallelse%20med%20handlingar%20Kommunfullm%C3%A4ktige.1.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 19 juni 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "642bf975c8594f30cd7ed20ca13fe6719189637d3ed711851783ff7c59b661a8",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 227,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://finspang.se/download/18.575f780b19d9a4b2cd0bf7d3/1777386419420/2026-04-23%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
   "titel": "Kommunfullmäktige Protokoll 1 (63) Sammanträdesdatum 2026-04-23 Plats och tid:",
   "typ": "pdf",

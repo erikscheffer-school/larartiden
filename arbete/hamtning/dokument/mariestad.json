@@ -1,5 +1,225 @@
 [
  {
+  "url": "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
+  "titel": "Kommunfullmäktiges handlingar 2026-10-26.pdf\nPdf, 17.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "a87e3d213f9e0a7155878d9db7cea2a7ffc91343caf1b68a6797fd4c3a00dc15",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 334,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 47,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "tödbehov inom den egna verksamheten. Framöver påverkas nämndens ekonomi av statliga reformer, bland annat ökade krav på skolbibliotek och förändrade regler för lärares arbetstid. Vadsbogymnasiet står dessutom inför flera större investeringsbehov. Inom vuxenutbildningen utvecklas en ny godsutbildning samtidigt som minskade statsbidrag k",
+    "belopp_nara": false
+   },
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skott på 7,5 mnkr. Underskottet förklaras av ökade kostnader för elever med omfattande stödbehov, högre kostnader för lokalvård och skolskjutsar samt ett lägre statsbidrag för speciallärare än förväntat. Sammantaget präglas nämndens ekonomi av ökade stödbehov inom skolan, demografiska förändringar och kostnadsökningar som är svår",
+    "belopp_nara": true
+   },
+   {
+    "sida": 101,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "la: Överskott på 0,1 Mkr, främst på grund av minskade personalkostnader. Familjestöd: Totalt överskott om 0,8 Mkr • Intäkter: Överskott om 0,5 Mkr för statsbidrag som ej varit budgeterade för eller som varit större än beräknat. • Personalkostnader: Överskott om 0,3 Mkr, då verksamheten under en månad k",
+    "belopp_nara": true
+   },
+   {
+    "sida": 46,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erkas främst av ökade kostnader inom grundskolan, där fler elever med omfattande stödbehov, ökade skolskjutskostnader, högre kostnader för lokalvård samt lägre statsbidrag än förväntat bidrar till underskottet. Även kostavdelningen redovisar ett underskott till följd av ökade kostnader och låg kostnadstäckning i vissa verksamhete",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://mariestad.se/download/18.54eaee3118f379fe2fdecc2/1716214862077/Handlingar%20Kommunfullm%C3%A4ktige%202024-05-27.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-05-27.pdf\nPdf, 40 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "33618f839244712bf61e075fa54a0d360b2c16df246b8d2493006eca104bf39a",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 702,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 68,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "mmantaget underskott på centrala konton med 9,8 mkr. Förskoleverksamheten visar totalt ett överskott på 0,6 mkr gentemot budget för 2023, inklusive ett större statsbidrag för kvalitetshöjande insatser. Effektiviseringar har inte nåtts som förväntat, och 15 av 18 förskolor uppvisar ett underskott på totalt 3,3 mkr. Grundskolan r",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://mariestad.se/download/18.3de4ad6818fe7c3a2b214d/1718015240951/Handlingar%20Kommunfullm%C3%A4ktige%202024-06-17.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-06-17.pdf\nPdf, 21.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "eabefa69dd6c6447ad5943968116d98bb3b7087a522f98fa92b4e42de7a60a22",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 261,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.1e0c18e4191e4f6d2e03e12/1727077780362/Handlingar%20Kommunfullm%C3%A4ktige%202024-09-30.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-09-30.pdf\nPdf, 52.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "d68cef7328aa915f72610686e957abe617b0e037a91a9c592f78aace0b9ea7de",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 791,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.11f23c5819271685cbd2faa/1729242338595/Handlingar%20Kommunfullm%C3%A4ktige%202024-10-28.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-10-28.pdf\nPdf, 32.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "512c94bbaecff0f77f50671c885bf6fd167c37db5c253a2639f15c198335a349",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 487,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 104,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "650 tkr. Planerade åtgärder finns på enheterna för att anpassa organisationen för att verksamheten ska nå budget. Utökad timplan i enlighet med nya regler ökar lärares undervisningstid på högstadierna då ekonomi för att täcka ökningen i form av fler lärartjänster saknas. Tilläggsbelopp visar ett underskott på 1 mnkr, elevpengen för anpassad s",
+    "belopp_nara": true
+   },
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ör att nå en ekonomi i balans. Förbättringen i prognosen gentemot budget med 40,6 mnkr har flera olika förklaringsfaktorer: högre skatteintäkter och generella statsbidrag än budgeterat, lägre räntekostnader på grund av en lägre investeringsnivå som inneburit att nyupplåning inte varit nödvändig, minskad bemanning inom förskolan",
+    "belopp_nara": true
+   },
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "statsbidraget i vårbudgeten är medräknat i prognosen i form av ett tillskott i grundskolan motsvarande ca 900 tkr. Det höjda PO-pålägget samt ökade lokalvårdskostnader på",
+    "belopp_nara": true
+   },
+   {
+    "sida": 96,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "etid och utökade timplaner på högstadierna. Dessa beslut påverkar budget för att möta det lagstadgade kravet. Grundskolan har under året ansökt om och erhållit statsbidrag för \"Stärkt kunskapsuppföljning\", tidigare \"Likvärdig skola\", som riktar sig till grundskolan för att nå en stärkt likvärdighet och kunskapsutveckling i riket.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 105,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": ". Förändringar i skollagen leder till att alla yrkesutbildningar utökas från 2500 poäng till 2700 eller 2800 poäng med medföljande lagkrav på utökad garanterad undervisningstid. Detta orsakar kostnadsökningar. Effektiviseringsåtgärder har genomförts i form av större undervisningsgrupper, framflyttande av inköp, översyn av kursutbud.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 14
+ },
+ {
+  "url": "https://mariestad.se/download/18.71e414019329aaba427b5/1731918094748/Handlingar%20Kommunfullm%C3%A4ktige%202024-11-25.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-11-25.pdf\nPdf, 33.7 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0b36ba95a9258bb38daee155c4c27dad622f076f4b9c520e736e95ddba19c970",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 435,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.49c025a2193955bf6cdb57/1733754224497/Handlingar%20Kommunfullm%C3%A4ktige%202024-12-16.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2024-12-16.pdf\nPdf, 9.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5437b12cf37de572c9a676173135a51cf89c50e9570cb38e6be51eecca2a1cea",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 171,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sökande flykting  Barnet har uppehållstillstånd  Barnet tillhör åldersgruppen 0-5 år Sektor utbildning Utbildningsförvaltningen tar del av detta statsbidrag med ett engångsbelopp under det första året barnet finns i kommunen. Därefter ska barnets behov täckas inom befintlig resursfördelningsmodell för förskolan. En",
+    "belopp_nara": false
+   },
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ökande flykting  Eleven har uppehållstillstånd  Eleven tillhör åldersgruppen 6 - 18 år Sektor utbildning Utbildningsförvaltningen tar del av detta statsbidrag med ett engångsbelopp under det första året eleven finns i kommunen. Därefter ska elevens behov täckas inom befintlig resursfördelningsmodell för grundskolan.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://mariestad.se/download/18.4aee9a2b1946375fe552426/1737110752152/Handlingar%20Kommunfullm%C3%A4ktige%202025-01-27.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-01-27.pdf\nPdf, 44.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "4ed3e66b6911a4e294c9ffefecfbf4c2d771a71235cf00fe6fb1aaf92336ab26",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 274,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.mariestadstidningen.se/mariestad/sa-vill-majoriteten-satsa-i-mariestad-nasta-ar",
   "titel": "Så vill majoriteten satsa i Mariestad nästa år – Mariestads-Tidningen",
   "typ": "html",

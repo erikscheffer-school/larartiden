@@ -1,5 +1,45 @@
 [
  {
+  "url": "https://www.kommunkartan.se/karta/mullsjo-kommun/417570/",
+  "titel": "Yttrande om Avfallsplan 2027–2030 | Mullsjö 2026",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "d924aae4fc5ae32fdd37f81a31b28d268dced839606f64ea440cc9877b964673",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mullsjo.se/download/18.1c2b0b0f1762683c56beaef/1606991454494/Ansvarsut%C3%B6vande%20granskning.pdf",
+  "titel": "Granskning av socialnämndens och barn- och utbildningsnämndens styrning och uppföljning samt kommunstyrelsens uppsiktsplikt gentemot socialnämnden och barn- och utbildningsnämnden (pdf) pdf, 431.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "23ae5086da6cc336bd78e02b310d0e3234b20c72fabc65cf72a76d252d76a245",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "resse av att hyra lokalerna på Kyrkvägen 34 från och med skolstarten. §74 Utökning av förskolor Noteringar Kommunens förskolor har inför höstterminen erhållit statsbidrag för minskade barn- grupper om totalt 1 100 tkr. Konsekvensen om fler barn skrivs in i befintliga grupper kan bli att kommunen blir återbetalningsskyldig. För b",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.mullsjo.se/download/18.7d5e747b19b2bdcc10443d93/1766995461756/Planeringsagenda%202026%20-%20kommunfullm%C3%A4ktige,%20kommunstyrelsen,%20utskott.pdf",
   "titel": "Planeringsagenda för 2026 för kommunfullmäktige, kommunstyrelsen samt utskott (pdf) pdf, 100.7 kB.",
   "typ": "pdf",

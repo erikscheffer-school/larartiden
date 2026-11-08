@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://amal.se/download/18.41a2e81919b353de2c42bd7/1766153278603/Sammantr%C3%A4desdatum%202026.pdf",
+  "titel": "Sammanträdesdatum för politiken\n (Öppnas i nytt fönster)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "34923bfc47b94aa6c57fea9380dad1ee94c404873976d1da2bc0bfc2dbb84c01",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.provinstidningen.se/synpunkt/latt-att-lova-mer-pengar-nar-det-ar-rent-onsketankande",
   "titel": "Lätt att lova mer pengar när det är rent önsketänkande – Provinstidningen Dalsland",
   "typ": "html",

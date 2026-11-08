@@ -47,16 +47,29 @@ KA
 2026/001100
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 21. Budget 2027 - Skattesats
+- s. 2: 22. Budget 2027 - Mål- och resursplan
+- s. 78: långsiktiga resursbehov ska prövas i mål- och budgetprocessen för 2027 med planår.
+- s. 80: budgetprocessen för 2027.
+- s. 82: budgetprocessen för 2027.
+- s. 82: långsiktiga resursbehov prövas samlat i mål- och budgetprocessen för 2027.
+- s. 83: och budgetprocessen för 2027.
+- s. 85: prövas i mål- och budgetprocessen för 2027.
+- s. 87: Långsiktiga resursbehov prövas i mål- och budgetprocessen för 2027.
+- s. 89: 2. ge Socialchefen i uppdrag att inom mål- och budgetprocessen för 2027 lyfta nämndens
+- s. 89: budgetprocessen för 2027, samt
+- s. 89: 6. ge Socialchefen i uppdrag att inom mål- och budgetprocessen för 2027 lyfta nämndens
+
 **Beslut och förslag**
 
-- s. 1: Kallelse Kommunfullmäktige
-- s. 1: 1. Fastställande av dagordning
 - s. 1: 4. Val av Kommunstyrelse 2027-2030 – ej handling
-- s. 2: medborgarförslag och initiativärenden 2026 2026/000010
-- s. 2: 28. Inkomna motioner och medborgarförslag 2026
-- s. 2: Notera! Efter Kommunfullmäktiges sammanträde kommer val av Sotenäs kommuns
-- s. 2: Kommunfullmäktiges ordinarie ledamöter och tjänstgörande ersättare rätt att delta och avge röst.
-- s. 3: Gode män utses genom val av kommunfullmäktige och väljs på en tid av
+- s. 93: Sotenäs Vatten AB föreslår att brukningsavgiften höjs med 7,0 procent från 2027-01-01, att
+- s. 94: Besluta om en höjning av brukningsavgiften med 7,0 procent från och med 2027-01-01
+- s. 94: Besluta att anläggningsavgiften är oförändrad jämfört med 2026 från och med 2027-01-01
+- s. 94: Besluta att anta taxeföreskrifter 2027, Sotenäs Vatten AB
+- s. 94: Sotenäs Vatten AB föreslår att brukningsavgiften höjs med 7,0 procent från 2027-01-01,
 
 **Skola och utbildning (rader med belopp)**
 
@@ -74,9 +87,3 @@ KA
 **Reformorden**
 
 - Inga reformord i hela texten (366 sidor).
-
-### Länk till kallelse pdf, 163.2 kB, öppnas i nytt fönster.
-
-https://www.sotenas.se/download/18.74ee28dd1a1a16b1ab611d0/1793879871436/MBNAU%20kallelse%202026-11-12.pdf
-
-PDF:en finns inte i cachen.

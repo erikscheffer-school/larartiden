@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://lund.se/kommun-och-politik/sa-kan-du-paverka/val-2026",
+  "titel": "Val 2026",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "cac35bc0f7f660542a97f0a06b24ed0f259d5fdec68289c864f9ff70838f5a1b",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://lund.se/download/18.172e26251a0421f8538dcb/1788503127170/Best%C3%A4mmelser%20om%20ekonomisk%20ers%C3%A4ttning%20till%20f%C3%B6rtroendevalda%20i%20Lunds%20kommun%20f%C3%B6r%20mandatperioden%202027%E2%80%932030.pdf",
   "titel": "Bestämmelser om ersättning till förtroendevalda i Lunds kommun Beslutsinstans",
   "typ": "pdf",

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ockero.se/
 Portal: ingen känd
-Hämtade dokument: 2, hämtfel: 4
+Hämtade dokument: 8, hämtfel: 5
 Nuvarande sammanfattning: Tre sökningar gav ingen budget- och uppdragshandling för 2027. Bara 2024 års handling dök upp.
 Luckor: Hittade inga budgetdokument 2027, inget datum för KF-beslutet och inga nämndunderlag. Jag hade ingen budgetsida eller mötesportal att följa länkar från.
 
@@ -47,16 +47,24 @@ invånare, näringsliv och kommande
 Budgeten för 2027 tas fram under ett
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: Budgeten för 2027 tas fram under ett
+- s. 2: Budget och uppdrag 2027 Sidan 2
+- s. 3: Budget och uppdrag 2027 Sidan 3
+- s. 4: Budget och uppdrag 2027 Sidan 4
+- s. 5: på förändring i budget- och 5 600 tkr för år 2027.
+- s. 5: Budget och uppdrag 2027 Sidan 5
+- s. 6: Budget och uppdrag 2027 Sidan 6
+- s. 7: Öckerö kommuns lokalresursplan är ett 2027 samt kommande projekt 2028 - 2031
+- s. 7: Budget och uppdrag 2027 Sidan 7
+- s. 8: 5 BUDGETMATRIS 2027
+- s. 8: Budget 2027 Tilldelning Effektivisering
+- s. 8: Rambudget Justeringar Årlig Effektivis- Bud 2027
+
 **Beslut och förslag**
 
-- s. 3: att politiken vill påverka samhällets kommunfullmäktige beslut om ett antal
-- s. 3: och bolag. För nämnder sker styrningen antog kommunfullmäktige 15 mål för
-- s. 3: beslutar om ”vad-frågor” och nästkommande kalenderår, samt en plan
-- s. 3: kommunstyrelsen, nämndernas, bolagens
-- s. 3: och fullmäktiges presidier samt ledande
-- s. 3: levande skärgårdskommun med tagits fram inför strategidagarna beslutar
-- s. 3: människan i centrum” samt fem kommunstyrelsen om
-- s. 3: • Den lärande kommunen Förslag på förändringar i uppdrag och
+- s. 5: Förslag till möjlig upplåning för år 2027 är beräknade kapitalkostnaderna på 3 679 tkr
 
 **Skola och utbildning (rader med belopp)**
 

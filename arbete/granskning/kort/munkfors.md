@@ -47,16 +47,18 @@ hälsa
 Sammanträdesdatum 2026-10-13
 ```
 
+**Rader om budget och 2027**
+
+- s. 3: Förslag mål och budget 2027
+- s. 17: Förslag mål och budget 2027
+
 **Beslut och förslag**
 
-- s. 1: BESLUTANDE Se nästa sida.
-- s. 2: BESLUTANDE
-- s. 3: Godkännande av föredragningslista
-- s. 3: Delegeringsbeslut
 - s. 3: Förslag mål och budget 2027
-- s. 4: Utskottets beslut
-- s. 4: Uppropet godkänns. Hans Backström (S) ersätter Marit Olsson (S), Staffan Jofjell (V) ersätter Christer
-- s. 5: Utskottets beslut
+- s. 11: Kommunstyrelsen fastställer dagar för bildning och hälsas ordinarie sammanträden 2027 enligt
+- s. 11: Förslag till sammanträdestider 2027.
+- s. 11: Förslag till sammanträdestider 2027
+- s. 17: Förslag mål och budget 2027
 
 **Skola och utbildning (rader med belopp)**
 
@@ -116,16 +118,24 @@ hälsa
 Sammanträdesdatum 2026-10-12
 ```
 
+**Rader om budget och 2027**
+
+- s. 3: Verksamhetsplan 2027-2029
+- s. 3: Förslag budget 2027 OoH
+- s. 7: Verksamhetsplan 2027-2029
+- s. 7: Att utskottet antar verksamhetsplanen för omsorg och hälsa 2027-2029
+- s. 7: Verksamhetsplan för omsorg och hälsa 2027-2029
+- s. 12: Förslag budget 2027 OoH
+- s. 12: verksamhetsområdet år 2027. Budgetramen för verksamheten uppgår till 138,9 mnkr, vilket motsvarar
+
 **Beslut och förslag**
 
-- s. 1: BESLUTANDE Se nästa sida.
-- s. 2: BESLUTANDE
-- s. 3: Godkännande av föredragningslista
 - s. 3: Förslag budget 2027 OoH
-- s. 3: Rapportering enligt SoL och LSS avseende ej verkställda gynnade beslut, kvartal 3
-- s. 3: Delegeringsbeslut
-- s. 4: Utskottets beslut
-- s. 4: Utskottet godkänner uppropet, ingen ersättare för vakant (S).
+- s. 8: Kommunstyrelsen antar Folkhälsostrategin 2027-2030 för Munkfors kommun att gälla från och med
+- s. 12: Förslag budget 2027 OoH
+- s. 12: Vidare informeras om förslag till reviderade avgifter från och med 2027. Avgifterna föreslås generellt
+- s. 13: Kommunstyrelsen fastställer dagar för omsorg och hälsas ordinarie sammanträden 2027 enligt Förslag
+- s. 13: Kommunstyrelsen fastställer dagar för omsorg och hälsas ordinarie sammanträden 2027 enligt Förslag
 
 **Skola och utbildning (rader med belopp)**
 
@@ -138,4 +148,78 @@ Sammanträdesdatum 2026-10-12
 
 https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-ks-2026-10-19.pdf
 
-PDF:en finns inte i cachen.
+Sidor: 48. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Kommunstyrelsen PROTOKOLL
+Sammanträdesdatum 2026-10-19
+PLATS OCH TID Kommunhuset, lokal Älven
+2026-10-19, kl. 16.00-19.13
+Ajournering: kl. 18.21-18.41
+BESLUTANDE Se nästa sida.
+ÖVRIGA Se nästa sida.
+JUSTERING
+PLATS OCH TID Digital justering
+PARAGRAFER §165-§194
+UNDERSKRIFTER
+SEKRETERARE
+Josefine Myrén
+ORDFÖRANDE
+Mathias Lindquist (S)
+JUSTERARE
+Staffan Jofjell (V)
+__________________________________________________________________
+ANSLAG/BEVIS Protokollet är justerat. Justeringen har tillkännagivits på
+kommunens anslagstavla.
+SAMMANTRÄDE Kommunstyrelsen
+SÄTTS UPP 2026-10-23
+TAS NED 2026-11-14
+FÖRVARINGSPLATS
+UNDERSKRIFT
+Josefine Myrén
+Comfact Signature Referensnummer: 384197SE
+Kommunstyrelsen PROTOKOLL
+Sammanträdesdatum 2026-10-19
+BESLUTANDE
+```
+
+**Rader om budget och 2027**
+
+- s. 3: Mål och budget 2027
+- s. 3: Skattesats 2027
+- s. 16: • Övriga kostnadsberäkningar enligt det pågående budgetarbetet för 2027.
+- s. 30: Mål och budget 2027
+- s. 30: 1. Godkänna föreslagna budgetramar för år 2027-2029.
+- s. 30: 2. Godkänna föreslagna investeringsramar för 2027-2029.
+- s. 30: Ramfördelning 2027 samt ramförslag för investeringsbudget.
+- s. 30: Kommunstyrelsen har tidigare tagit ett beslut om indikativa budgetramar för 2027. Därefter har
+- s. 31: Skattesats 2027
+- s. 31: Kommunstyrelsen föreslår kommunfullmäktige besluta att skattesatsen för år 2027 fastställs till 22:02
+
+**Beslut och förslag**
+
+- s. 15: Kommunfullmäktige beslutar att från och med 1 januari 2027 höja samtliga avgifter i taxan för
+- s. 24: Kommunstyrelsen antar Folkhälsostrategi 2027-2030 för Munkfors kommun att gälla från och med
+- s. 30: 1. Godkänna föreslagna budgetramar för år 2027-2029.
+- s. 30: 2. Godkänna föreslagna investeringsramar för 2027-2029.
+- s. 30: 3. Godkänna politiska mål för 2027.
+- s. 30: Ramfördelning 2027 samt ramförslag för investeringsbudget.
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 8: - Skolavslutningsöppet på Fritidsgården – 24 deltagare varav 10 tjejer och 14 killar
+- s. 9: Forshaga-Munkfors församling & Värmlands Skolsamverkan 2.0 - kostnad 6000 kr (varav 0 kr
+- s. 9: Sommaridrottsskola – 78 deltagare varav 57 killar och 21 tjejer,
+- s. 11: likvärdig och språkutvecklande förskola (SOU 2026:37) till Utbildningsdepartementet.
+- s. 11: Förutsättningar för en likvärdig och språkutvecklande förskola (SOU 2026:37).
+- s. 11: språkutvecklande förskola (SOU 2026:37). Remissvaren ska ha inkommit till
+- s. 11: Utbildningsdepartementet senast den 2 november 2026.
+- s. 18: avgiftskollektivet. Återföring återställning av tidigare underskott (överuttag 1 351 tkr) bör ske
+- s. 35: Kommunstyrelsen fastställer dagar för bildning och hälsas ordinarie sammanträden 2027 enligt
+- s. 40: "Geijersamfundets sommarkurser på Geijerskolan i Ransäter har sedan mitten av 1950-talet samlat
+
+**Reformorden**
+
+- Inga reformord i hela texten (48 sidor).

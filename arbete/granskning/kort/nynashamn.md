@@ -2,7 +2,7 @@
 
 Webbplats: https://www.nynashamn.se/
 Portal: Ciceron
-Hämtade dokument: 12, hämtfel: 0
+Hämtade dokument: 23, hämtfel: 0
 Nuvarande sammanfattning: Mål och budget 2026–2029 nämner inte reformen.
 Luckor: Sammanträdessidor laddas med JavaScript.
 
@@ -47,16 +47,28 @@ maj 2026
 och fritidshem
 ```
 
+**Rader om budget och 2027**
+
+- s. 9: ss - Planeringsförutsättningar inför mål och budget 2027-2030 - BUN/2026/0131/041-2 Yttrande över remiss - Planeringsförutsättningar inför mål och budget 2027-2030 : Yttr
+- s. 9: budget 2027–2030
+- s. 9: budget för 2027 och inriktning för åren 2028–2030 fram för beslut i kommunfullmäktige i december
+- s. 9: budget för 2027 och inriktning för åren 2028–2030 fram för beslut i kommunfullmäktige i december
+- s. 9: planeringsförutsättningar för mål och budget 2027–2030, enligt bilaga 1. Förvaltningen föreslår att
+- s. 10: ss - Planeringsförutsättningar inför mål och budget 2027-2030 - BUN/2026/0131/041-2 Yttrande över remiss - Planeringsförutsättningar inför mål och budget 2027-2030 : Yttr
+- s. 10: budget 2027–2030
+- s. 11: 2026/0131/041-3 Beslut - BUN AU § 33, 2026-05-19 - Yttrande över remiss - Planeringsförutsättningar inför mål och budget 2027-2030 : Beslut - BUN AU § 33, 2026-05-19 - Yt
+- s. 11: budget 2027-2030
+- s. 11: budget för 2027 och inriktning för åren 2028–2030 fram för beslut i kommunfullmäktige i december
+- s. 34: Bilaga 3, Yttrande från Sveriges Skolledare angående budgetram 2027 och elevpeng i Nynäshamns
+
 **Beslut och förslag**
 
-- s. 2: § 51/26 Fastställande av dagordning
-- s. 2: Beslutspunkter
-- s. 2: § 62/26 Redovisning av delegationsbeslut
-- s. 2: § 63/26 Skrivelser och beslut
-- s. 2: - Beslut tillsyn Skolinspektionen
-- s. 3: Barn- och utbildningsförvaltningen Beslutsinstans
-- s. 3: Förvaltningens förslag till beslut
-- s. 3: 1. Barn- och utbildningsnämnden beslutar att revidera nämndens delegationsordning i enlighet
+- s. 9: för 2027–2030 som sitt eget och överlämna svaret till kommunstyrelsen för fortsatt
+- s. 9: 2027–2030 fastställts av kommunstyrelsen. I ärendet beskrivs de ekonomiska förutsättningarna med
+- s. 9: budget för 2027 och inriktning för åren 2028–2030 fram för beslut i kommunfullmäktige i december
+- s. 9: 2027–2030 fastställts av kommunstyrelsen. I ärendet beskrivs de ekonomiska förutsättningarna med
+- s. 9: budget för 2027 och inriktning för åren 2028–2030 fram för beslut i kommunfullmäktige i december
+- s. 9: planeringsförutsättningar för mål och budget 2027–2030, enligt bilaga 1. Förvaltningen föreslår att
 
 **Skola och utbildning (rader med belopp)**
 

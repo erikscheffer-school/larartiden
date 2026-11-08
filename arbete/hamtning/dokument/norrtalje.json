@@ -1,5 +1,156 @@
 [
  {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/mal-och-budget-2024-2026.pdf",
+  "titel": "Mål och budget 2024-2026 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9a4413ca7281348497a1a96a637e6a74dcf8c944255784b3e42c2cd792097922",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 111,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 72,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola eller fritidshem eller omsorg som erbjuds under tid då förskola eller fritidshem inte erbjuds. Kommuner som tillämpar maxtaxa kan enligt bestämmelserna få statsbidrag. Skolverket ska senast den 1 december året före bidragsåret lämna uppgift till varje kommun om högsta avgiftsgrundande inkomst per månad och det högsta avgifts",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/malochbudget_2023-2025.pdf",
+  "titel": "Mål och budget 2023-2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "014101ab1f910f5ad298e10c8a511ff7c1983a75780adc03bd64c1971e9de316",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 123,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 75,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kola relaterade till Ukraina kriget. förberedelsearbete 2023 –200 Högre priskompensation läggs till: Permanenta statsbidragsfinansierade • Skolmåltider med anledningen av högre funktioner elevhälsan –1 400",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/mal-och-budget-2022-2024_nk.pdf",
+  "titel": "Mål och budget 2022-2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5e6aace068eef187b23fe658342b973651ee1667dfb12e066a35a41daa117d90",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 143,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 23,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "de osäkerheter 1 490 mnkr för 2023. Satsningen omfattar nu 1,7 miljar- som coronapandemin medfört, inte minst vad gäller den der kronor respektive år. Statsbidraget för regionalt ekonomiska utvecklingen med effekter på såväl närings- yrkes­vux tillförs 1 540 mnkr kronor 2022. Skolmiljarden liv som arbe",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-ekonomi/dokument-mal-och-budget/malochbudget-2021-2023.pdf",
+  "titel": "Mål och budget 2021–2023 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "ba70ad9f2f4e3b7847aa72a13a40473bcd4841c920688bebe9f3145b07d7bad6",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 129,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 19,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "l skolan för att skapa förutsättningar för kom- dagens cirka 0,05 procent till lite drygt 0,5 procent på 5 år. muner att kunna erbjuda ökad undervisningstid, personal- *\u0007Swap är en form av derivatinstrument som utgör ett avtal mellan två parter om att göra betalningar till varandra i framtiden i enlighet med v",
+    "belopp_nara": false
+   },
+   {
+    "sida": 87,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "–100 ningar på konsthallen, ej återbesätta vakanta tjänster, Drift- och kapitalkostnader Hallstaviks statsbidragsfinansiera viss verksamhet inom bibliotek nya badhus –4 174",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetspla-kultur--och-fritidsnamnden.pdf",
+  "titel": "Verksamhetsplan för Kultur- och fritidsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "6f54a273bd26b237426395f6f00f0e85a457b33dd602265890edba29120af65d",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.norrtalje.se/globalassets/dokument/dokument-kommun--politik/dokument-politik-och-fortroendevalda/dokument-kommunens-namnder/verksamhetsplan-socialnamnden.pdf",
+  "titel": "Verksamhetsplan Socialnämnden (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5eccd390da83302fb3ceafed3faaf93e4a395247cd73d6c0b69ad48391365369",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/",
+  "titel": "Tryckfrihetsförordningen (riksdagen.se)",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "c7eb72d2bea35c835100f5dee975040bec98ad289b0ea3635f372ed532b9b068",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.sverigeslarare.se/contentassets/01e9389bc26d4cecbaad724d19c21032/sveriges-larare-norrtalje-verksamhetsberattelse-2025-.pdf",
   "titel": "Verksamhetsberättelse 2025 för förening Norrtälje",
   "typ": "pdf",

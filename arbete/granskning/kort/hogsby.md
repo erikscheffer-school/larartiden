@@ -2,7 +2,7 @@
 
 Webbplats: https://www.hogsby.se/
 Portal: ingen känd
-Hämtade dokument: 17, hämtfel: 0
+Hämtade dokument: 25, hämtfel: 0
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 eller beslutsdatum hittades i sökningarna.
 Luckor: Sökningar gav inga träffar på hogsby.se för budget 2027. Sökbudgeten (delad) tog slut innan fler försök kunde göras.
 
@@ -47,16 +47,23 @@ senast innan sammanträdet börjar.
 Magnusson, Kerstin Blom Johansson samt Sandra Olsson
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 11 Information om driftbudget och budgetramar 2027, plan X
+- s. 14: Information om driftbudget och budgetramar 2027, plan 2028-2029
+- s. 60: budgetarbete för 2027 bör olika prioriteringarna belysas.
+- s. 60: Inga ytterligare medel avsätts i budget 2027 för en
+- s. 61: budgetarbete för 2027 bör olika prioriteringarna belysas.
+- s. 61: Inga ytterligare medel avsätts i budget 2027 för en
+
 **Beslut och förslag**
 
-- s. 1: vid sammanträde med Kommunfullmäktige
-- s. 1: Samling vid Ringvägen 5 för fotografering av nya fullmäktige kl 17.30
-- s. 1: Nr Ärendemening Beslut Info
-- s. 1: 3 Godkännande av dagordning
-- s. 1: Meddelande: Varje parti utser två förslag var till
-- s. 1: valberedningen. Förslagen ska inlämnas till KF:s sekreterare
-- s. 1: 8 Val av kommunfullmäktiges ordförande 2026-2030 X
-- s. 1: 9 Val av kommunfullmäktiges förste vice ordförande 2026- X
+- s. 2: 15 Sammanträdesdatum 2027 för kommunfullmäktige X
+- s. 47: 2027-2030 godkänns.
+- s. 56: kommer att revideras utifrån fullmäktiges beslut om fasta och rörliga arvoden 2027.
+- s. 59: 2027-2030 godkänns.
+- s. 74: Sammanträdesdatum 2027 för kommunfullmäktige
+- s. 74: Förslag på sammanträdesdagar för kommunfullmäktige 2027 presenteras.
 
 **Skola och utbildning (rader med belopp)**
 
@@ -109,16 +116,13 @@ senast innan sammanträdet börjar.
 Magnusson, Kerstin Blom Johansson samt Sandra Olsson
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 11 Information om driftbudget och budgetramar 2027, plan X
+
 **Beslut och förslag**
 
-- s. 1: vid sammanträde med Kommunfullmäktige
-- s. 1: Samling vid Ringvägen 5 för fotografering av nya fullmäktige kl 17.30
-- s. 1: Nr Ärendemening Beslut Info
-- s. 1: 3 Godkännande av dagordning
-- s. 1: Meddelande: Varje parti utser två förslag var till
-- s. 1: valberedningen. Förslagen ska inlämnas till KF:s sekreterare
-- s. 1: 8 Val av kommunfullmäktiges ordförande 2026-2030 X
-- s. 1: 9 Val av kommunfullmäktiges förste vice ordförande 2026- X
+- s. 2: 15 Sammanträdesdatum 2027 för kommunfullmäktige X
 
 **Skola och utbildning (rader med belopp)**
 
@@ -168,16 +172,15 @@ pedagogisk omsorg 2027
 anslutningsbidrag läsåret 27/28
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 17 KU.2026.323 Låne- och borgensramar 2027 B
+- s. 2: 21 KU.2026.272 Investeringsbudget 2027–2029 B
+- s. 2: 22 KU.2026.217 Budgetförslag 2027 och verksamhetsplan B
+
 **Beslut och förslag**
 
-- s. 1: vid sammanträde med Kommunstyrelsen
-- s. 1: I= Informationsärende B=Beslutsärende
-- s. 1: 2 KU.2026.11 Godkännande av dagordning
 - s. 2: 22 KU.2026.217 Budgetförslag 2027 och verksamhetsplan B
-- s. 2: kommunstyrelsen
-- s. 2: 34 KU.2026.261 Förfrågan om förslag till B
-- s. 2: 36 KU.2026.48 Redovisning av delegationsbeslut utskott B
-- s. 3: 37 UU.2026.8 Delegationsbeslut inom utbildningsutskottet B
 
 **Skola och utbildning (rader med belopp)**
 

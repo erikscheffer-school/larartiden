@@ -1,5 +1,232 @@
 [
  {
+  "url": "https://www.torsas.se/nyheter/eftervalet/",
+  "titel": "Valet är genomfört – detta händer härnäst i Torsås kommun - Torsås kommun",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "bdcbd16090dcf7bc1f3274c17e55df3f454985d4b904d707aa3dc46a7d3e4ce5",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollau170426.pdf",
+  "titel": "Protokollau170426",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "e166ffab720d4548559ec568b8abe6a736db4bef0d14d854b230b1788729c3a8",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 16,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "samlad, kunna utnyttja kompetensen på bästa sätt, kunskapsutbyte. e Schematekniska vinster vid personalens planeringstid och raster. 0 Samordningsvinster morgon och kväll, utökat samarbete mellan och med fritidshem och förskola.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1,
+  "ocr": true
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/auprotokoll170328.pdf",
+  "titel": "Auprotokoll170328",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "2db383682065ae50fca1f7ec8e562427044316c5f5acb6d45fab391d7dcd703e",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "all personal samlad, kunna utnyttja kompetensen på bästa sätt, kunskapsutbyte. e Schematekniska vinster vid personalens planeringstid och raster. e Samordningsvinster morgon och kväll, utökat samarbete mellan och med fritidshem och förskola.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "miljönämndens beslut genom delegation 2015-11-06, dnr 2015/BMN635). Länsstyrelsen avskriver ärendet. Statsbidrag för undervisning under skollov för 2017 Skolverket beslutar att delvis bevilja bildningsförvaltningens ansökan, med 8",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2,
+  "ocr": true
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollau170228.pdf",
+  "titel": "Protokollau170228",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "4127e6cde1939d3263c7bd3e45e3b1972141277bd4d892449978540a531d7fe1",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollau170206.pdf",
+  "titel": "Protokollau170206",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5dd8eafa2b0b28dd85b224c0b445664998bb69f07f828d3ba0033e49409d1ed8",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokollau170124.pdf",
+  "titel": "Protokollau170124",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "278c423aee2b46815df55ba0f1e89f1c3ff9bd6e414d7ea155739e46293326d7",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokoll_au_20161122.pdf",
+  "titel": "Au 20161122",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "31058f3f2b766f674ff9d3942617fab8e65f41c204984dade2095d654c2649df",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokoll-au-2016-04-19.pdf",
+  "titel": "Au 20160419",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "64ca8543f26c5e648f21593128568fc80cec0a804bd9af0774b60f19f0897a1a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "anmärkning": "Ingen text i PDF:en, troligen inskannad. Behöver OCR (OCRmyPDF -l swe)."
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/protokoll-arbetsutskott-2016-02-19-pdf.pdf",
+  "titel": "Au 20160219",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0f3e35f4076fc58f4a6290e05e89043f6a0d392171a4395074f6044ebddf3ecc",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "att också förse en del av fritidsbehovet. I tjänsten ingår också att samarbeta med asylboendet, ordna modersmålsundervisning, söka statsbidrag etc. Det innebär att arbetet med att organisera och samordna detta uppdrag tar allt mer tid i anspråk.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 12,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "samlad, kunna utnyttja kompetensen på bästa sätt, kunskapsutbyte.  Schematekniska vinster vid personalens planeringstid och raster.  Samordningsvinster morgon och kväll, utökat samarbete mellan och med fritidshemmen.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 28,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "uppdrag att utreda frågan om I-pads till samtliga ordinarie ledamöter i nämnden. 13.2 Rutiner vid sökning av statsbidrag. Bildningschefen återkommer. 13.3 . Omställning skola-kostnader. Bildningschefen redovisar nämnden 2016- 03-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.torsas.se/wp-content/uploads/binau_protokoll_160119.pdf",
+  "titel": "Au 20160119",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "110769b6d3ac30cd9e46effe123a869ab689b3159fe446b09e236437d9a2d895",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "ersonal samlad, kunna utnyttja kompetensen på bästa sätt, kunskapsutbyte.  Schematekniska vinster vid personalens planeringstid och raster.  Samordningsvinster morgon och kväll, utökat samarbete mellan och med fritidshemmen.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 16,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skottets behandling 2015-08-11: Skolverket har antagit nya avgiftsnivåer för maxtaxa utifrån förordning (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet. De nya avgiftsnivåerna, som skall tillämpas från",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
   "url": "https://www.torsas.se/utbildning-och-forskola/lasarstider-2026-2027/",
   "titel": "Läsårstider 2026/2027 - Torsås kommun",
   "typ": "html",

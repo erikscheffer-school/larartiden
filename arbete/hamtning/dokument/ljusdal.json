@@ -32,6 +32,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.ljusdalsposten.se/opinion/insandare/m-sa-vill-vi-mota-forandringen-i-ljusdal",
+  "titel": "M: Så vill vi möta förändringen i Ljusdal – Ljusdals-Posten",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "8fd2213a272925918790eb17acaa56e10386a5b69294e6bb0ed1af48f58034d7",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ljusdalsposten.se/ljusdal/nu-kan-ljusdalingarna-kan-fa-satta-sin-egen-budget",
   "titel": "Nu kan ljusdalingarna få sätta sin egen budget – Ljusdals-Posten",
   "typ": "html",

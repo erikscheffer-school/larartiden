@@ -2,7 +2,7 @@
 
 Webbplats: https://www.hjo.se/
 Portal: ingen känd
-Hämtade dokument: 19, hämtfel: 0
+Hämtade dokument: 29, hämtfel: 0
 Nuvarande sammanfattning: KF beslutar om Budget- och verksamhetsplan 2027–2029 den 2026-11-12; KS föreslog 2026-10-28 att KF antar Alliansens budgetförslag. Kommunens sammanfattning av förslaget (2026-11-04) nämner bland annat ökade kostnader för gymnasieplatser och lagkrav kring skolbibliotek, men inte lärares undervisningstid eller lärarreformen. Själva budgetdokumentet är inte publicerat.
 Luckor: Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade.
 
@@ -47,16 +47,22 @@ Ansvarig politiker: 990 000 kronor till kommunrevisionen för år 2027.
 Kommunfullmäktiges ordförande
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: Budget- och verksamhetsplan 2027–2029 för Hjo kommun
+- s. 2: 7. Revisionens budget för 2027 Kommunfullmäktige föreslås besluta att anslå
+- s. 2: - Driftbudget för 2027 fastställs på
+- s. 2: - Investeringsbudget 2027 samt investeringsplan
+- s. 2: - Resultatbudget för 2027 samt preliminär
+- s. 2: - Kassaﬂödesbudget 2027 samt preliminär
+- s. 2: - Balansbudget 2027 samt preliminär
+- s. 2: verksamhetsplan 2027-2029.
+
 **Beslut och förslag**
 
-- s. 1: Kommunfullmäktiges sammanträde
-- s. 1: Ärende Kommunstyrelsens förslag till beslut
-- s. 1: fastställande av tid för justering tillsammans med ordföranden justera protokollet.
-- s. 1: 3. Fastställande av dagordning
 - s. 2: 7. Revisionens budget för 2027 Kommunfullmäktige föreslås besluta att anslå
-- s. 2: Kommunfullmäktiges ordförande
-- s. 2: 8. Budget- och verksamhetsplan Kommunstyrelsen föreslår kommunfullmäktige att:
 - s. 2: - Driftbudget för 2027 fastställs på
+- s. 2: - Kommunstyrelsen har under år 2027 rätt att
 
 **Skola och utbildning (rader med belopp)**
 

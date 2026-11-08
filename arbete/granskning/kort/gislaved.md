@@ -47,16 +47,17 @@ Elma Lindberg, enhetschef
 Sanije Shala, samordnare
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: $ 80 Verksamhetsplan 2027-2029 ÖFN.2026.32 5
+- s. 4: Verksamhetsplan 2027-2029
+- s. 4: att anta verksamhetsplanen 2027-2029, samt
+- s. 4: verksamhetsplan 2027-2029 för överförmyndarnämnden.
+- s. 4: att anta verksamhetsplanen 2027-2029, samt
+- s. 4: - Verksamhetsplan 2027-2029
+
 **Beslut och förslag**
 
-- s. 1: $ 76 Fastställande av föredragningslista 2
-- s. 1: $ 81 Redovisning av delegationsbeslut Sekretess
-- s. 2: Beslutande: Liisa Sveningsson, ordförande
-- s. 3: Fastställande av föredragningslista
-- s. 3: Beslut
-- s. 3: Overförmyndarnämnden GGVV beslutar
-- s. 3: att fastställa den utskickade föredragningslistan.
-- s. 3: Denutskickade föredragningslistan/dagordningenskafastställas.
 
 **Skola och utbildning (rader med belopp)**
 

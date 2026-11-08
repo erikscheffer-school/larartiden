@@ -16,6 +16,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.kt-kuriren.se/degerfors/sankt-skatt-nar-nya-styret-presenterar-sin-budget",
+  "titel": "Sänkt skatt när nya styret presenterar sin budget – KT-Kuriren",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "32949194fce48d138c9ee8a308654008a1d169a242aadcb24b98975bbf561cf6",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://degerfors.se/download/18.5aeb199c16914b889fa7051/1571648429317/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige.pdf",
   "titel": "Arbetsordning kommunfullmäktige\nPdf, 160.5 kB, öppnas i nytt fönster.",
   "typ": "pdf",

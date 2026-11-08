@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ljusdal.se/
 Portal: ingen känd
-Hämtade dokument: 14, hämtfel: 2
+Hämtade dokument: 15, hämtfel: 2
 Nuvarande sammanfattning: Tjänstemannaunderlaget EVP 2027 publicerades 2026-08-03 i fyra delar, men PDF-filerna gick inte att öppna (URL_NOT_ON_ALLOWLIST). Själva webbsidan nämner inte reformen. Inget budgetbeslut för 2027 hittades.
 Luckor: EVP 2027 Del 1 (Sammanfattning) och Del 3 (Ledningsgruppens underlag: fördjupningar och planeringsförutsättningar) vägrades (URL_NOT_ON_ALLOWLIST) och kan nämna reformen: https://www.ljusdal.se/download/18.6c474fc619ed469a19a336eb/1782465260534/Del1_Sammanfattning_EVP2027_v5.pdf och https://www.ljusdal.se/download/18.6c474fc619ed469a19a33be9/1782467491464/Ledningsgruppens%20underlag%20till%20EVP%202027_v6.pdf. Budgetsidan säger att KF normalt beslutar i juni året före, men 2027 publicerades underlaget först i augusti 2026, så beslutet ligger troligen hösten 2026. KF-datum för budget 2027 är inte verifierat. Utbildningsnämndens underlag och ev. remissvar på SOU 2025:26 hittades inte.
 

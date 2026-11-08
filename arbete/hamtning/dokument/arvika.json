@@ -1,5 +1,45 @@
 [
  {
+  "url": "https://www.arvikapartiet.se/2026/10/18/ett-maktskifte-i-arvika-kommun-och-en-sjalvstandig-roll-for-arvikapartiet/",
+  "titel": "Ett maktskifte i Arvika kommun – och en självständig roll för Arvikapartiet - Arvikapartiet",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "f790632ef2364a213183ca41787431d7d64a43246576888ce21c93d44cda1525",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "är tydlig från början. Några medier som skriver om maktskiftet: Arvika Nyheter: https://www.arvikanyheter.se/arvika/nya-styret-klart-det-hander-nu-behover-viss-planeringstid/ Arvika kommuns hemsida: https://www.arvika.se/nyheter/nyhetsarkiv/nyttpolitisktstyreiarvika.9055.html VF: Nytt styre i väst – med Arvikapartiet som passivt st",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.arvikanyheter.se/arvika/moderaterna-bjuder-in-partier-for-forhandlingar-om-budget-och-nytt-styre/",
+  "titel": "Moderaterna bjuder in partier för förhandlingar om budget och nytt styre – Arvika Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "3699cd4440f3b3961ad56a5855465d97a935deae103be6d58890e92e9dc47601",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.arvika.se/download/18.72dba78719b2bf3befc782ae/1768212928858/Verksamhetsst%C3%B6d%20verksamhetsplan%202026-2028.pdf",
   "titel": "1 Verksamhetsplan 2026–2028 Budget 2026 Verksamhetsstöd Arvika kommun",
   "typ": "pdf",

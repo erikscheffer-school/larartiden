@@ -32,6 +32,224 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.bt.se/boras/kritiken-infor-budgetdebatten-leder-till-skattehojning/",
+  "titel": "Kritiken inför budgetdebatten: ”Leder till skattehöjning” – Borås Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "b5e205dc25264c2ecd30dcec78ecf799c38eb5a4a64b5a3fbd57c38c3af99846",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://boras.screen9.tv/media/mKvTyGkGrWE2vsZzV0gVvQ/Kommunfullm%C3%A4ktige%2017%20juni%202026",
+  "titel": "Kommunfullmäktige 17 juni 2026 - Borås Stad play",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "f57b774cbc9f549ee2b7650344e1c021ca77d02532ce6da11a16d3194d1d497d",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bt.se/vargarda/oro-over-ny-budget-dodsstoten-for-vard-och-omsorg/",
+  "titel": "Oro över ny budget: ”Dödsstöten för vård och omsorg” – Borås Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "f8629a90fc9b36c137829d9cd0bf12eb6a6862445cd240f73ae7b5507b0a29b4",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.bt.se/debatt/sank-toppolitikernas-arvoden-i-boras-stad/",
+  "titel": "Sänk toppolitikernas arvoden i Borås stad – Borås Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "039cd9063e15539545421e4da510c98a1b4d2b1d3db544a1aaa9c09c6e688704",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.435ee6851a187856979140/1793275853006/Kallelse%20och%20handlingar%20f%C3%B6r%20m%C3%B6te%20Grundskolen%C3%A4mnden%20den%202026-11-10.pdf",
+  "titel": "Kallelse och handlingar för möte Grundskolenämnden den 2026-11-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "1f0bf2f2953bfb59fef62fc836abfffd135bf2c8e0c2f94e10c20ba9c1e76427",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1748,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "lem på flera fronter. Att frångå en gemensam kalender krockar med de strama regelverken kring antalet elevdagar och tidsramen för lärarnas arbetstid. För personal som undervisar i båda skolformerna, exempelvis modersmålslärare, skapar förslaget problem då de riskerar att få fle",
+    "belopp_nara": false
+   },
+   {
+    "sida": 27,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "Konsekvenser för personalens arbetstid Att skilja skolformernas läsårstider åt skulle få omedelbara och negativa konsekvenser för lärarnas arbetstid. Flera lärare undervisar elever inom både grundskolan och gymnasieskolan. Den grupp som främst skulle drabbas av osynkroniserade avsl",
+    "belopp_nara": false
+   },
+   {
+    "sida": 32,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "lem på flera fronter. Att frångå en gemensam kalender krockar med de strama regelverken kring antalet elevdagar och tidsramen för lärarnas arbetstid. För personal som undervisar i båda skolformerna, exempelvis modersmålslärare, skapar förslaget problem då de riskerar att få fle",
+    "belopp_nara": false
+   },
+   {
+    "sida": 34,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "Konsekvenser för personalens arbetstid Att skilja skolformernas läsårstider åt skulle få omedelbara och negativa konsekvenser för lärarnas arbetstid. Flera lärare undervisar elever inom både grundskolan och gymnasieskolan. Den grupp som främst skulle drabbas av osynkroniserade avsl",
+    "belopp_nara": false
+   },
+   {
+    "sida": 95,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "tet och uppföljningen har utvecklats. Trots positiv utveckling kvarstår brister när det gäller likvärdig- heten i skolornas arbetssätt och förutsättningar. Undervisningstid, frånvarohantering och ämnesutbud skiljer sig åt mellan skolorna. Här spelar tillgången till ändamålsenliga lokaler en central roll. Det finns också en skillna",
+    "belopp_nara": false
+   },
+   {
+    "sida": 255,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ska, med utgångspunkt i Skolinspektionens gransk- ning Skola inom statlig tvångsvård2 analysera och föreslå åtgärder för att stärka likvärdigheten, säkerställa undervisningstiden, ytter- ligare höja utbildningens kvalitet och skapa kontinuitet i elevernas skolgång. Utredningen ska analysera och föreslå åtgärder för att säkerställa en",
+    "belopp_nara": false
+   },
+   {
+    "sida": 431,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "gare inspektio- ner 2015 och 2016. Satsningar på skolan hade gjorts och utbildningen hade utvecklats. Flera områden som rör skolverksamhetens status, elevernas undervisningstid och frånvaro bedömdes dock vara områ- den som behövde fortsatt prioritet.95 Skolinspektionens sammanfattning av granskningen visade att: – Förbättringar ha",
+    "belopp_nara": false
+   },
+   {
+    "sida": 432,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "tatliga barn- och ungdomsvården SOU 2026:52 – Varierande förväntningar på elevernas förmåga till utbildning. Undervisningstiden varierade för eleverna. Det fanns också varia- tioner i hur undervisningstid beräknas, det vill säga hur lång en undervisningst",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 25
+ },
+ {
+  "url": "https://www.boras.se/download/18.6b7bd7751a1a19e79271c723/1793884667401/Samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-11-12%20%C3%A4rendelista.pdf",
+  "titel": "Samhällsbyggnadsnämnden 2026-11-12 ärendelista\npdf, 157.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "2f595497dcaee9a74b24b42f2a1a4230636382eb4c57144e3d1497b2c387325d",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.26487ea71a0addbf96983850/1790351777341/Servicen%C3%A4mndens%20sammantr%C3%A4de%202026-09-22%20Protokoll.pdf",
+  "titel": "Servicenämndens sammanträde 2026-09-22 Protokoll.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "3a191f9f0900b982a38aa62aa5913d48b8f87402ec702c9255fc38d23af28d47",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.392f0ceb1a0ad9c7f93298b/1789634286527/Servicen%C3%A4mndens%20sammantr%C3%A4de%202026-09-22%20Kallelse%20samt%20handlingar.pdf",
+  "titel": "Servicenämndens sammanträde 2026-09-22 Kallelse samt handlingar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "3c783b838a0254119b0d6e288f21fbfcace108dfd4d35914d256e376e19285d7",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 154,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 99,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "s budget inklusive buffert. Nämndens buffert under året är 9,5 mnkr och förväntas nyttjas under året. De största positiva avvikelserna mot periodens budget rör statsbidrag och personalkostnader. Under perioden januari - april har antalet inskrivna barn i Borås Stads egna förskolor varit 200 färre än under motsvarande period förra",
+    "belopp_nara": true
+   },
+   {
+    "sida": 100,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "planerar för ett nollresultat 2026. Det finns vissa osäkerheter som kan påverka årets utfall exempelvis prognosen för köpta och sålda platser, osäkerhet kring statsbidrag, elevinflödet till introduktionsprogrammet och anpassad gymnasieskola samt ofinansierade statliga reformer i skolan. I det fall som ökade kostnader kopplade ti",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.boras.se/download/18.5d453dda19bd471859d462b4/1769192721949/Servicen%C3%A4mnden%202026-01-20%20Protokoll.pdf",
+  "titel": "Servicenämnden 2026-01-20 Protokoll.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "56e8fd9c37f60810417fbd353552e2ddfff2355b68d374f2eaef36029f98178a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.boras.se/download/18.37014ff19dd248e44a579f8/1777882400252/Redovisning%20av%20anm%C3%A4lnings%C3%A4renden%202026-05-11.pdf",
   "titel": "Redovisning av anmälningsärenden 2026-05-11.pdf",
   "typ": "pdf",

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.trosa.se/
 Portal: ingen känd
-Hämtade dokument: 2, hämtfel: 10
+Hämtade dokument: 2, hämtfel: 20
 Nuvarande sammanfattning: Budget 2027 hittades inte. Budget 2026 (vårversion) nämner inte undervisningstid. Humanistiska nämndens handlingar 2025-11-24 (bl.a. läsårsplan 2027/28) nämner inte reformen.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Varken vår- eller höstbudget 2027 hittades. Trosa beslutar budget i två steg: vårbudget i juni (KF 2025-06-18) och höstbudget i nov–dec. Datumen 2026 är inte verifierade. Beslutsdatum för budget 2026 (vår) framgår inte av dokumentet.
 

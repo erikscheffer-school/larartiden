@@ -2,19 +2,156 @@
 
 Webbplats: https://www.gnesta.se/
 Portal: ingen känd
-Hämtade dokument: 14, hämtfel: 0
+Hämtade dokument: 25, hämtfel: 0
 Nuvarande sammanfattning: Ingen Framtidsplan 2027–2029 hittades. Kallelsen till KS 2026-06-09 innehöll bara ett näringslivsprogram och hänvisade till Framtidsplan 2026–2028.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens kallelser 2026-02-13 och 2026-09-03 (information om reformen och resursfördelningsmodellen), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### Läs hela dagordningen och beslutsunderlagen pdf, 8 MB.
 
-Senast daterade hämtade dokument:
+https://www.gnesta.se/download/18.426205411a0adc22e8d2bcb2/1789999542611/Kallelse%20kommunfullm%C3%A4ktige%202026-09-28.pdf
 
-- Kallelse barn- och utbildningsnämnden 2026-10-01.pdf Pdf, 4.2 MB. – https://www.gnesta.se/download/18.323cf7981a0adb1190d559d3/1790257468714/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-10-01.pdf
-- Kallelse barn- och utbildningsnämnden 2026-10-01 komplettering.pdf Pdf, 4 MB. – https://www.gnesta.se/download/18.4d29998c1a0e7539ef981a3/1790684866530/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-10-01%20komplettering.pdf
-- Kallelse barn- och utbildningsnämnden 2026-09-03.pdf Pdf, 1.4 MB. – https://www.gnesta.se/download/18.4c9c1fff1a01f730ced302a0/1788269769972/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-09-03.pdf
-- Kallelse barn- och utbildningsnämnden 2026-06-15.pdf Pdf, 3 MB. – https://www.gnesta.se/download/18.67f18ed19ea56f5bfaef0/1780903865098/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-06-15.pdf
-- Kallelse barn- och utbildningsnämnden 2026-05-11.pdf Pdf, 7.9 MB. – https://www.gnesta.se/download/18.7e34ed9719dcdc04dc63fb62/1777876721403/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-05-11.pdf
-- Sammanträde i samhällsbyggnadsnämnden – https://www.gnesta.se/download/18.2ae41c3019dcdb0d5bb12097/1777460547554/Kallelse%20samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-05-06.pdf
-- Samhällsbyggnadsnämnden Protokoll Utdragsbestyrkande – https://www.gnesta.se/download/18.feb27ae19dcda0de3372d0a/1778143005790/Protokoll%20samh%C3%A4llsbyggnadsn%C3%A4mnden%202026-05-06.pdf
-- Kallelse barn- och utbildningsnämnden 2026-03-23.pdf Pdf, 5.1 MB. – https://www.gnesta.se/download/18.5e05fa1519cf59d963c13ee/1773666442062/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202026-03-23.pdf
+Sidor: 108. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Kommunfullmäktige Kallelse - Kungörelse
+Sammanträde i kommunfullmäktige
+Tid och plats för sammanträde
+Måndagen den 28 september 2026, kl. 19.00. B-salen, Västra Storgatan 15, Gnesta
+Gruppmöten
+Majoriteten (S, M); kl. 18.00. Lokal, B-salen Elektron.
+Oppositionen (C, L, KD); kl. 18.00. Lokal, Frösjön, Elektron.
+Oppositionen (V, MP); kl. 18.00. Lokal, Lockvattnet Elektron.
+Oppositionen (SD); kl. 18.00. Lokal, Björken, Elektron
+Förslag till justerare
+Ordinarie: Pernilla Lövström (M) och Andreas Andersson (C)
+Ersättare: Diana Lundberger (KD) och Petra Lindström (S)
+Tid och plats för justering
+Fredagen den 2 oktober 2026, kl. 09:00. Kommunledningskontoret Västra Storgatan
+15, Gnesta
+Allmänheten
+Allmänheten är välkommen att närvara vid sammanträdet.
+Beslutsunderlag till ärendena i kallelsen finns på www.gnesta.se samt för läsning
+digitalt på servicecenter.
+Frågor om kallelsen och ärendena besvaras av sekreteraren, tel: 0158-275 000.
+Dagordning
+Sammanträdets öppnande samt upprop
+Val av justerare och tid för justering
+Godkännande av dagordningen
+Av allmänheten i förväg inskickade frågor
+Gnesta kommun, Västra Storgatan 15, 646 80 Gnesta, organisationsnummer: 212000-2965
+telefon: 0158 – 275 000, e-post: gnesta.kommun@gnesta.se, webbadress: www.gnesta.se
+Kommunfullmäktige Kallelse - Kungörelse
+Nr Diarienummer Ärende
+Interpellation - Upprustning av gångvägar i
+```
+
+**Rader om budget och 2027**
+
+- s. 2: Hemställan om budget för 2027 -
+- s. 23: Hemställan om budget för 2027 - Beviljande
+- s. 23: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 23: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 23: 2. Hemställan om budget 2027
+- s. 23: 3. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 23: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 25: Hemställan om budget för 2027 - Beviljande
+- s. 25: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 25: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 25: eller motsvarande organ att fastställa budget för år 2027 till 16 000 000 kronor, vilket
+- s. 26: 2. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+
+**Beslut och förslag**
+
+- s. 23: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 23: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 23: 3. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 23: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 25: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 25: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: 6 KS.2025.313 Motion - Skydda skolbarnen i Björnlunda
+- s. 42: Utöver dessa har 15 mindre utbildningstillfällen och workshops hållits inför särskilda
+- s. 56: Utbildning (676)
+- s. 67: Utbildning (676)
+- s. 76: 2. Motion - Skydda skolbarnen i Björnlunda Johan Lexell (MP) 2025-07-17
+- s. 80: 2. Motion - Skydda skolbarnen i Björnlunda Johan Lexell (MP) 2025-07-17
+- s. 107: 2. Välja xx (C) till ledamot i barn- och utbildningsnämnden från 28 september - 31
+
+**Reformorden**
+
+- Inga reformord i hela texten (108 sidor).
+
+### Läs hela protokollet från kommunfullmäktige den 28 september. Länk till annan webbplats.
+
+https://www.gnesta.se/download/18.657c7d5c1a0fb81faf9d5a/1790943296676/Protokoll%20kommunfullm%C3%A4ktige%202026-09-28%20(nr%202).pdf
+
+Sidor: 33. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Kommunfullmäktige Protokoll
+Protokoll från kommunfullmäktige
+Tid och plats Måndagen den 28 september 2026, kl 19.00 - 20.15, B-salen
+Västra Storgatan 15, Gnesta
+Ajournering 19:40 -19:55
+Beslutande Enligt bilagd närvaroförteckning.
+Övriga deltagare Anders Axelsson, tf. Samhällsbyggnadschef, Jenny Johansson,
+kommunsekreterare
+Justerare Andreas Andersson (ordinarie) Pernilla Lövström (ordinarie)
+Diana Lundberger (ersättare) Linda Lundin (ersättare)
+Justering Fredagen den 2 oktober 2026, kl. 09.00
+Kommunhuset, Västra Storgatan 15, Gnesta
+Underskrifter
+Sekreterare Jenny Johansson Paragrafer: 80 - 89
+Ordförande Sven Anderson
+Justerare Andreas Andersson Pernilla Lövström
+Anslag/Bevis
+Protokollet är justerat. Justeringen tillkännages genom detta anslag.
+Organ: Kommunfullmäktige
+Datum för anslagets uppsättande: 2026-10-02
+Datum för anslagets nedtagande: 2026 -10-24
+Förvaringsplats för protokollet: Kommunstyrelseförvaltningen
+Jenny Johansson, sekreterare Paragrafer: 80 - 89
+Utdragsbestyrkande
+Kommunfullmäktige Protokoll
+Innehållsförteckning
+KF § 80 Interpellation - Upprustning av gångvägar i Thuleparken 5-6
+KF § 81 Interpellation angående ekonomiska oegentligheter och 7-9
+interkontroll kopplat till projektet för det nya
+vattenverket
+```
+
+**Rader om budget och 2027**
+
+- s. 2: KF § 84 Hemställan om budget för 2027 - Samordningsförbundet 15 - 16
+- s. 15: Hemställan om budget för 2027 -Beviljande av
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet Sörmland i Sörmland för 2027
+- s. 15: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 15: 3. Hemställan om budget 2027
+- s. 15: 4. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+
+**Beslut och förslag**
+
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet Sörmland i Sörmland för 2027
+- s. 15: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 15: 4. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: KF § 85 Motion - Skydda skolbarnen i Björnlunda 17 - 18
+- s. 11: klassrum. Detta innebär en total kapacitet om cirka 160 elever på skolan. Om
+- s. 12: utrymme för 28 elever per klass (196 elever totalt på skolan). Detta kräver dock
+- s. 12: Inför läsåret 2026/27 beräknas 128 elever vara inskrivna på skolan, vilket
+- s. 12: lokalresursplan 2025–2030 att det finns behov av en samlad översyn av skolans
+- s. 17: 3. Motion - Skydda skolbarnen i Björnlunda Johan Lexell (MP) 2025-07-17
+
+**Reformorden**
+
+- Inga reformord i hela texten (33 sidor).

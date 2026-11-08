@@ -2,7 +2,7 @@
 
 Webbplats: https://www.varberg.se/
 Portal: Mötesportal
-Hämtade dokument: 16, hämtfel: 3
+Hämtade dokument: 27, hämtfel: 3
 Nuvarande sammanfattning: Fempartimajoritetens (S, V, KD, C, MP) budgetförslag 2027 presenterades 12 oktober 2026 med 70 öres skattehöjning, varav 10 öre till förskola och skola. Det framgår av en nyhetsartikel; själva budgetdokumentet hittades inte. Budget 2026 (KF 2025-11-11) nämner inte undervisningstid.
 Luckor: Majoritetens budgetförslag 2027, oppositionens förslag och BUN/UAN-underlag hittades inte. KF-datumet kommer från en sekundärkälla. Remissvar ej granskat.
 
@@ -46,16 +46,25 @@ Nämndernas driftsbudget........................................................
 2 Planeringsförutsättningar 2027 | Varbergs kommun
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: inför Budget 2027 och
+- s. 2: Planeringsförutsättningar inför Budget 2027 och plan 2028–2031 ................................ 6
+- s. 2: Budgeterat resultat 2027 och avstämning mot finansiella mål ............................................................ 13
+- s. 3: arbetet med Budget 2027 och plan 2028-2031.
+- s. 4: Finansiella mål för kommunkoncernen i Budget 2026, plan 2027-2030:
+- s. 4: Finansiella mål för kommunen i Budget 2026, plan 2027-2030:
+- s. 6: Budget 2027 och plan 2028–2031
+- s. 13: Budgeterat resultat 2027 och avstämning mot
+- s. 15: bifogas till Planeringsförutsättningar inför Budget 2027, plan 2028-2031. I denna
+- s. 16: 2027–2030, jämfört med Budget 2026. Liksom förra året är det framför allt
+- s. 17: Budget 2026 och plan 2027-2030 bygger på en genomsnittlig investeringsnivå på
+- s. 19: Nämndernas driftsramar för 2027 beslutades genom Budget 2026 och plan 2027–
+
 **Beslut och förslag**
 
-- s. 3: budgetbeslut och förbereda budgetberedningen inför höstens budgetarbete.
-- s. 3: för kommunkoncernen som beslutas av fullmäktige i november.
-- s. 4: styrmodellen förtydligas att det är fullmäktiges strategiska målområden och
-- s. 4: prioriterade mål som tillsammans med fullmäktiges finansiella mål utgör ramverket
-- s. 5: Vid varje ny mandatperiod beslutar kommunfullmäktige om strategiska
-- s. 5: kreativa mittpunkt. På varberg.se/mal finns en beskrivning av kommunfullmäktiges
-- s. 6: Sammantaget innebär utvecklingen att kommunsektorn går in i en period av
-- s. 7: Sammantaget innebär detta att den återhämtning som beskrivs i SKR:s prognos
+- s. 16: Servicenämndens verksamhet kommer från 2027 att ingå i kommunstyrelsens
+- s. 19: Nämndernas driftsramar för 2027 beslutades genom Budget 2026 och plan 2027–
 
 **Skola och utbildning (rader med belopp)**
 
@@ -115,16 +124,20 @@ SAMMANFATTNING .................................................................
 TAXOR OCH AVGIFTER ...................................................................................................................... 10
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: Underlag till budget 2027 och plan 2028-2031
+- s. 2: Underlag till budget 2027 och plan
+- s. 2: UNDERLAG TILL BUDGET 2027 OCH PLAN 2028-2031 .................................................................... 1
+- s. 5: Vid beräkning av budgetram 2027-2031 har utgångspunkten varit den överenskommelse om
+- s. 5: uppräkning av budgetramen med PKV (prisindex för kommunal verksamhet). För 2027
+- s. 5: budgetåret, för 2027 får nämnden 44 tkr i demografisk kompensation. Utöver
+- s. 5: 2027 finns även ett budgettillskott på 330 tkr som avser ökade resurser för en
+- s. 6: investeringsbudget för 2026 2027 2028 2029 2030 2031
+- s. 6: inför budget 2027, mnkr
+
 **Beslut och förslag**
 
-- s. 2: Nämndens politiska uppdrag enligt kommunfullmäktiges budget ................................................... 7
-- s. 3: förändrad lagstiftning där överförmyndaren övertar beslutanderätt från tingsrätterna
-- s. 4: Riksdagen beslutade under april månad om ändrad lagstiftning av överförmyndarnämndens
-- s. 4: Lagändringarna medför nya arbetsuppgifter för nämnden i form av beslutanderätt i otvistiga
-- s. 4: Kommunstyrelsen i Varberg beslutade den 28 april om planeringsförutsättningar för budget
-- s. 4: överförmyndarnämndens beslutade budgetram utifrån planeringsförutsättningarna.
-- s. 4: Nämndens arbete styrs primärt av Varbergs kommunfullmäktiges beslutade mål och
-- s. 5: kommunfullmäktiges fyra målområden; Ett samhälle för alla och En effektiv, hållbar och
 
 **Skola och utbildning (rader med belopp)**
 
@@ -171,16 +184,17 @@ TAXOR OCH AVGIFTER..............................................................
 1
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: Underlag till budget 2027 och plan 2028-2031
+- s. 2: Underlag till budget 2027 och plan
+- s. 8: inför budget 2027, mnkr
+- s. 8: Nämndens ramfinansierade del av driftsbudgeten för 2027 är satt till 33,3 miljoner kronor
+
 **Beslut och förslag**
 
-- s. 2: Nämndens politiska uppdrag enligt kommunfullmäktiges budget ..................................................8
-- s. 3: utvecklingen. En övergång till ökad ramfinansiering föreslås för att öka nyttan, främja
-- s. 4: påverkas av beslut och förändringar på statlig nivå.
-- s. 5: vattenförsörjning konkurrerar. Detta ökar behovet av väl underbyggda beslut, riskanalyser
-- s. 5: Samtidigt ökar kraven i områden som är särskilt värdefulla. Sammantaget ger detta fler
-- s. 5: Sammantaget innebär utvecklingen ökade krav på prioritering, samordning och transparens.
-- s. 7: enligt plan- och bygglagen, bortsett från översiktlig planering. Nämnden tar beslut om hur
-- s. 7: kommunfullmäktige beslutade målområdena tillsammans.
+- s. 9: system för lantmäteri som behöver införas år 2027 samt år 2028 på grund av statliga beslut.
+- s. 19: Inför 2027 föreslås inga justeringar av lantmäteritaxan då det inte finns någon planerad
 
 **Skola och utbildning (rader med belopp)**
 

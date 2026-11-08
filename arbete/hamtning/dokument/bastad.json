@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.bastad.se/nyheter/nyheter/2026-03-27-nytt-fran-kommunfullmaktige---mars-2026.html",
+  "titel": "Nytt från kommunfullmäktige - mars 2026 - Båstads kommun",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "d3d7df4d663b1a8c965b0f841e674a9298df3e52a76f3566ee737c127180af4a",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.bastad.se/download/18.4b7ef5a19d8be814cd146b6/1776409805940/3.Planbeskrivning.pdf",
   "titel": "Detaljplan för Torekov 98:146 m. fl. Bostadsutveckling öster om Fabriken",
   "typ": "pdf",

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.surahammar.se/
 Portal: Netpublicator
-Hämtade dokument: 13, hämtfel: 0
+Hämtade dokument: 20, hämtfel: 3
 Nuvarande sammanfattning: Tre sökningar, varav en utökad, gav inga handlingar för budget 2027 från Surahammars kommun. Den SVT-artikel som hittades gäller budget 2024 (publicerad 2023-12-21) och är inte relevant.
 Luckor: Kommunens budgetsida och mötesportal syntes inte i sökträffarna och kunde därför inte följas. Budget 2027, BUN:s underlag och datum för KF-beslutet är okända.
 
@@ -10,11 +10,11 @@ Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
 
 Senast daterade hämtade dokument:
 
+- Protokoll Kf 2026-10-26.pdf – https://surahammar.se/download/18.45fada431a16334321ecfe1/1793352888102/Protokoll%20Kf%202026-10-26.pdf
 - Kallelse KF 2026-10-16.pdf – https://surahammar.se/download/18.5c4d7af51a12f7b655287b9/1792351992534/Kallelse%20KF%202026-10-16.pdf
+- Protokoll Kf 2026-10-15.pdf – https://surahammar.se/download/18.4f2784091a12f65479fabef/1792423323504/Protokoll%20Kf%202026-10-15.pdf
+- Protokoll Ks 2026-10-12.pdf – https://surahammar.se/download/18.5c4d7af51a12f7b65522f3c/1791983382043/Protokoll%20Ks%202026-10-12.pdf
+- Kallelse KS 2026-10-05.pdf – https://surahammar.se/download/18.e04a3a31a115817f672824/1791535114134/Kallelse%20KS%202026-10-05.pdf
 - Kallelse KF 2026-10-05.pdf – https://surahammar.se/download/18.7506cf931a0fb7ed5043983/1791209781404/Kallelse%20KF%202026-10-05.pdf
-- Kallelse KF 2026-09-04.pdf – https://surahammar.se/download/18.2b140851a0421fce23bd07/1788443559783/Kallelse%20KF%202026-09-04.pdf
-- Kallelse KF 2026-06-05.pdf – https://surahammar.se/download/18.403466d319e6350ea30daee/1780652476623/Kallelse%20KF%202026-06-05.pdf
-- Kallelse KF 2026-04-30.pdf – https://surahammar.se/download/18.716c1f5719ddcda984b6ae/1777549687987/Kallelse%20KF%202026-04-30.pdf
-- Kallelse KF 2026-03-27.pdf – https://surahammar.se/download/18.23855c0719d24bb93ba2812/1774603699479/Kallelse%20KF%202026-03-27.pdf
-- Kallelse KF 2026-02-06.pdf – https://surahammar.se/download/18.3c94a5a619c2c626145be5/1770306778048/Kallelse%20KF%202026-02-06.pdf
-- DELEGATIONSORDNING - VIDAREDELGERING KOMMUNSTYRELSEN – https://surahammar.se/download/18.2d42f23319b3549eecc25e74/1770133665316/Delegationsordning%20Kommunstyrelsen%20vidaredelegering%20rev%202026-02-03.pdf
+- Protokoll BoB 2026-09-21.pdf – https://surahammar.se/download/18.37dfe2e81a0adc9019b7f1f/1790167039056/Protokoll%20BoB%202026-09-21.pdf
+- Protokoll Kf 2026-09-14.pdf – https://surahammar.se/download/18.27b3c8ec1a0adb6db4c18c9/1789725968757/Protokoll%20Kf%202026-09-14.pdf

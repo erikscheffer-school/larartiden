@@ -1,5 +1,232 @@
 [
  {
+  "url": "https://www.falkoping.se/download/18.4933f3551a04786e30419134/1788525716726/Kallelse%20och%20handlingar%20-%20Kommunfullm%C3%A4ktige%202026-09-07.pdf",
+  "titel": "Kallelse och handlingar - Kommunfullmäktige 2026-09-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "080694d86de7660e6eb4ee066abbebd445cf70c9aebcd05f02dd604c67f975d3",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 396,
+  "nämner_reformen": true,
+  "ord": [
+   "lärartäthet"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 376,
+    "ord": "lärartäthet",
+    "reform": true,
+    "utdrag": "n uppstå oro för de skolorna som tidigare systematiska kvalitetsarbete med målet att närmare kopplas till det nationella kompenserats med högre lärartäthet. kvalitetssystemet, samt att ta fram indikatorer för alla skolenheter att analysera. Åtgärden har som mål att ge rektorerna stöd i sitt systematiska kvalitetsa",
+    "belopp_nara": false
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "överskott om cirka 2,2 miljoner kronor. kostnader för tilläggsbelopp. Överskottet förklaras främst av statsbidrag för skolsociala team och personalförstärkningar som Gymnasium redan fanns budgeterade. Under hösten planeras",
+    "belopp_nara": true
+   },
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "om tidsbegränsad sfi förutsättningarna framåt. I skolan påverkas kommunen av ökade Inom socialtjänstens område skapar statsbidrag tilläggsbelopp, fler barn med uppskjuten skolplikt möjligheter att förstärka förebyggande och riktade och ett växande behov inom anpassad g",
+    "belopp_nara": false
+   },
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ill skatteintäkter och generella statsbidrag ligga på över 2 procent sett över en längre tidsperiod. Resultatet i förhållande till skatteintäkter och generella statsbidrag prognostiseras att minska för år 2026 till 0,4 procent eftersom en del engångsposter förväntas belasta resultatet, såsom rivningar och ersättningen för avbrute",
+    "belopp_nara": false
+   },
+   {
+    "sida": 170,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ntervjuerna nämns bland annat projekt i skolan, kulturduschar, stråkfritidsinsatser och kulturpedagogisk verksamhet med större närvaro före och efter ordinarie undervisningstid. Dessa erfarenheter visar att det finns delar i den befintliga verksamheten som kan användas som utgångspunkt för fortsatt utveckling efter överflyttningen.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 180,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Intervjuerna visar exempel på kulturduschar, projekt i skolan, stråkfritidsinsatser och kulturpedagogisk verksamhet med större närvaro före och efter ordinarie undervisningstid. Dessa exempel visar att utvecklingen kan bygga vidare på befintliga erfarenheter, snarare än att börja om från början. En samlad bedömning är att Kulturskola",
+    "belopp_nara": false
+   },
+   {
+    "sida": 369,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "esurser inom enheten efter barnens och elevernas olika förutsättningar och vilken skola barnet väljer. Principen kring likvärdig skola finansieras av statsbidrag. behov. Av Barn- och Utbildningsnämndens verksamhetsplan för år 2025 – 2027 framgår att Av nämndens resursfördelningsmodell framgår att litenhet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 370,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "stillägg i kommunal verksamhet (PKV). De skolor som utifrån socioekonomi fördelas extra resurser resursfördelningsmodellen. kompenseras även utifrån statsbidraget likvärdig skola, enligt dokumentet Huvudmannens analys av kunskapsutvecklingen. Enligt resursfördelningsmodellen Av intervjuerna framgår a",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.700538821a1a0d40ccca1e/1793777802593/Protokoll%20-%20Kommunfullm%C3%A4ktige%202026-10-26,%20med%20signaturer.pdf",
+  "titel": "Protokoll - Kommunfullmäktige 2026-10-26, med signaturer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "1f971cda0518e3f67028f884ee55414997cd6487a8323ed5f7dae94b2eb40b25",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.4933f3551a04786e3042f975/1789553278319/Protokoll%20-%20Kommunfullm%C3%A4ktige%202026-09-07,%20med%20signaturer.pdf",
+  "titel": "Protokoll - Kommunfullmäktige 2026-09-07, med signaturer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0d127c0c9ec82e0a32676e0519fbbf1f8ac6dff661d95d727ecdf66b0eeb8a71",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa2381d/1791471054486/Kallelse%20och%20handlingar%20-%20Kommunstyrelsen%202026-10-14.pdf",
+  "titel": "Kallelse och handlingar - Kommunstyrelsen 2026-10-14.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "a8405704a66c9aac44cb8e9f03aa6bfc483e3ef628d9b93accc8e1197bd21151",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 77,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa278f0/1792152119488/Protokoll%20-%20Kommunstyrelsen%202026-10-14,%20med%20signaturer.pdf",
+  "titel": "Protokoll - Kommunstyrelsen 2026-10-14, med signaturer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "f189966b09243fe6a62fc112a05cd4563c6eac0b8cf2a6c5721122a02949a20f",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 59,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.36cd77281a0d38c3dd958b/1790317195271/Kallelse%20-%20Kommunstyrelsens%20arbetsutskott%202026-09-30.pdf",
+  "titel": "Kallelse - Kommunstyrelsens arbetsutskott 2026-09-30.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "e2cc5d12a83ea5650c265f9e7d7ca562014f8f598b58e770075a9e5cc60c9c22",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa248b/1790922749633/Protokoll%20-%20Kommunstyrelsens%20arbetsutskott%202026-09-30,%20med%20signaturer.pdf",
+  "titel": "Protokoll - Kommunstyrelsens arbetsutskott 2026-09-30, med signaturer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "7bb8863d0850d56b4be804280f606ccd1ddb743b2bd2b602903b4792c77bb7b8",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa22b79/1791353464992/Protokoll%20kommunstyrelsens%20utskott%20f%C3%B6r%20social%20h%C3%A5llbarhet%202026-10-01%20med%20signaturer.pdf",
+  "titel": "Protokoll kommunstyrelsens utskott för social hållbarhet 2026-10-01 med signaturer.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "b9365420fe360ea3f3b9da8ff97d9758b2a4adb09c7d6d8f8447673fcdcb7ac4",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa22b7a/1791353503501/Protokoll%20kommunstyrelsens%20utskott%20f%C3%B6r%20st%C3%B6d%20och%20service%202026-10-01.pdf",
+  "titel": "Protokoll kommunstyrelsens utskott för stöd och service 2026-10-01.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "89607c5b17898762c0dab0a5a1b2dc948dadd1dde97edf7d67b0050e74b91863",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.falkoping.se/download/18.548bc4b21a0f7ce8aa2ba87/1792749026647/Protokoll%20-%20Barn-%20och%20utbildningsn%C3%A4mnden%202025-10-20.pdf",
+  "titel": "Protokoll - Barn- och utbildningsnämnden 2025-10-20.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "615f933c0d393119192cc87b99ae5d97c3b369c1b542f345a5f9e8782a13ed98",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "psutveckling, trygghet och studiero. Elevantalet har ökat samtidigt som lärartätheten kunnat bibehållas och andelen personal med pedagogisk högskoleexamen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.falkoping.se/download/18.420f2d5419bd9f90ceefe1/1769511121302/Verksamhetsplan%20f%C3%B6r%20%C3%A5r%20%202026-2028%20-%20Kommunstyrelsen.pdf",
   "titel": "Verksamhetsplan för år 2026–2028 - Kommunstyrelsen",
   "typ": "pdf",

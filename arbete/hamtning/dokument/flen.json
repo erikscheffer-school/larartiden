@@ -16,6 +16,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://kommunmannen.se/flen/mote/okant/2026-09-07/",
+  "titel": "Valberedningen 7 september 2026, Flen kommun | Kommunmannen",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "36a8523342ee3722da4f410411399ca8ab07a73a8f64e7b8442d3f38d4c3ae7c",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://flen.se/download/18.39483a381a0862d2b163074/1789046575828/Kallelse%202026-04-22.pdf",
   "titel": "Postadress Besöksadress Telefon Bankgiro E-post 642 81 FLEN Sveavägen 1",
   "typ": "pdf",

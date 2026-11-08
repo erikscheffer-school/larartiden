@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.ht.se/hudiksvall/det-vill-partierna-satsa-pa-i-hudiksvall",
+  "titel": "Det vill partierna satsa på i Hudiksvall – Hudiksvalls Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "d8fa42b9d73f4f8926858efe4a0f3ef65c604822f83975c61e011d7b054631fb",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ht.se/opinion/insandare/100-miljoner-till-skolan-men-hur-ska-det-finansieras",
   "titel": "100 miljoner till skolan – men hur ska det finansieras? – Hudiksvalls Tidning",
   "typ": "html",

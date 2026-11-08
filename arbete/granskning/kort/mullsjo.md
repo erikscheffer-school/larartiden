@@ -2,7 +2,7 @@
 
 Webbplats: https://www.mullsjo.se/
 Portal: ingen känd
-Hämtade dokument: 6, hämtfel: 0
+Hämtade dokument: 8, hämtfel: 0
 Nuvarande sammanfattning: Bara Strategisk plan 2026–2029 med budget 2026 granskades. Den nämner inte reformen. BUN:s planram för 2027 är -256,4 mnkr, och fler medel ska fördelas i "budgetprocessen 2027-2029". Inga budgethandlingar för 2027 från 2026 hittades.
 Luckor: Strategisk plan 2027–2030, KF:s beslutsdatum för budget 2027 och BUN:s underlag hittades inte på tre sökningar. Kommunens budgetsida och mötesportal dök inte upp i sökresultaten, så de är inte granskade. Strategisk plan 2026–2029 anger inget beslutsdatum.
 
@@ -10,6 +10,8 @@ Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
 
 Senast daterade hämtade dokument:
 
+- Yttrande om Avfallsplan 2027–2030 | Mullsjö 2026 – https://www.kommunkartan.se/karta/mullsjo-kommun/417570/
+- Granskning av socialnämndens och barn- och utbildningsnämndens styrning och uppföljning samt kommunstyrelsens uppsiktspl – https://www.mullsjo.se/download/18.1c2b0b0f1762683c56beaef/1606991454494/Ansvarsut%C3%B6vande%20granskning.pdf
 - Planeringsagenda för 2026 för kommunfullmäktige, kommunstyrelsen samt utskott (pdf) pdf, 100.7 kB. – https://www.mullsjo.se/download/18.7d5e747b19b2bdcc10443d93/1766995461756/Planeringsagenda%202026%20-%20kommunfullm%C3%A4ktige,%20kommunstyrelsen,%20utskott.pdf
 - Inkallelseordning i nämnder och styrelser – https://www.mullsjo.se/appresource/4.3dcd35ec18419bc63832786f/12.269eb38f1a18c6e9e3d5bdd5/file/4c97d514-d9b0-464f-aa3b-3e3ce406148f
 - Ansökan till vuxenutbildningen(PDF). pdf, 1.5 MB. – https://www.mullsjo.se/download/18.2ea53a53175efcd83377df6b/1762414859724/ans%C3%B6kan%20till%20vuxenutbildningen.pdf

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.finspang.se/
 Portal: ingen känd
-Hämtade dokument: 15, hämtfel: 1
+Hämtade dokument: 25, hämtfel: 1
 Nuvarande sammanfattning: Inga handlingar om strategisk plan och budget 2027 hittades. Enligt årsredovisningen i KF-kallelsen 2026-04-23 beslutar KF strategisk plan och budget i november inför varje verksamhetsår. Reformen nämns inte.
 Luckor: Budgetsidan (ekonomi-budget-och-resultat) gick inte att hämta, eftersom URL:en inte fanns på allowlist. Majoritetens och oppositionens förslag 2027, nämndunderlag och KF-datum i nov 2026 är inte granskade.
 
@@ -47,16 +47,20 @@ Vistinge 6:24 m fl
 1
 ```
 
+**Rader om budget och 2027**
+
+- s. 494: hänsyn till i budget 2027.
+- s. 535: hänsyn till i budget 2027.
+- s. 536: hänsyn till i budget 2027.
+
 **Beslut och förslag**
 
-- s. 1: Kommunfullmäktige (2026-09-23) - KS.2026.0138-27 Kallelse Kommunfullmäktige 2026-09-23 : Kallelse Kommunfullmäktige 2026-09-23
-- s. 1: Kommunfullmäktige Kallelse/föredragningslista 1 (3)
-- s. 1: Kommunfullmäktige kallas till sammanträde
-- s. 1: Val av justerare och fastställande av tid för justering
-- s. 1: 1. Fastställande av föredragningslistans innehåll
-- s. 1: 5. Redovisning av årets fullmäktigeenkät
-- s. 1: Beslutsärenden
-- s. 1: 8. Antagande av detaljplan för Vistinge Strand, fastigheterna 4
+- s. 138: kommunfullmäktige innan januari 2027. Beslutet om förlängd tid ska fattas av både
+- s. 141: kommunfullmäktige innan januari 2027. Beslutet om förlängd tid ska fattas av både
+- s. 272: 10. Att kommunstyrelsen senast till kommunfullmäktige i juni 2027 återrapporterar
+- s. 295: 10. Att kommunstyrelsen senast till kommunfullmäktige i juni 2027
+- s. 340: ersyn av politisk organisation perioden 2027-2030 : Protokollsutdrag från Kommunstyrelsens sammanträde den 17 juni 2026 - Slutrapport av uppdrag till politisk sammansatt 
+- s. 340: 10. Att kommunstyrelsen senast till kommunfullmäktige i juni 2027 återrapporterar
 
 **Skola och utbildning (rader med belopp)**
 

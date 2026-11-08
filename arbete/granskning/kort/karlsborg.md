@@ -2,7 +2,7 @@
 
 Webbplats: https://www.karlsborg.se/
 Portal: ingen känd
-Hämtade dokument: 18, hämtfel: 0
+Hämtade dokument: 28, hämtfel: 0
 Nuvarande sammanfattning: Inga handlingar för budget och verksamhetsplan 2027–2029 hittades vid omkörningen heller. Sökträffarna gällde äldre budgetar, bland annat 2025–2027, en folkhälsoplan 2026–2028 och en biblioteksplan 2024–2027.
 Luckor: Inget budgetdokument för 2027, inga nämndunderlag och inget KF-datum hittades. Enligt förra körningen visar karlsborg.se:s sidor för protokoll och ekonomi bara menyer, eftersom innehållet laddas med JavaScript. Budget och verksamhetsplan 2025–2027 granskades inte. Tre sökningar är gjorda.
 

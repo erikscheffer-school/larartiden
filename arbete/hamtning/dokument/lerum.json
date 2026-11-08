@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://lerum.vansterpartiet.se/var-politik/",
+  "titel": "Vår politik - Vänsterpartiet Lerum",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "90e6998c6c0a3ad1f91310c78102289a2c09ea8ee295b21adb70d81dc90882a9",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://lerum.se/download/18.73d2ae6219c79ad6673e7ff5/1771831366100/Planbeskrivning%20Dp%20Aspen%20Strand.pdf",
   "titel": "1 Diarienummer: SBN23.242 Detaljplan för Aspen strand, del av fastigheten",
   "typ": "pdf",

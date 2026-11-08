@@ -1,5 +1,221 @@
 [
  {
+  "url": "https://www.ydre.se/download/18.7cb052ad182e93dee7ed67e/1664787044437/Kallelse%20Kf%202022-09-26.pdf",
+  "titel": "Kallelse Kf 2022-09-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "70513c5c2f8fba19f76894ce7e1766eea3f7ea39bdca9852acb93ddddf30cc20",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.64386d0f18388dc8652c3d1/1666103002219/Kallelse%20Kf%202022-10-24.docx.pdf",
+  "titel": "Kallelse Kf 2022-10-24.docx",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "54a2a233fe8847fc4b8c890ede62d3228d0b51cc499bc7e393a1916c1ccbe718",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.6d6aee7184189f9ec4996c/1668759101494/Kallelse%20Kf%202022-11-28.pdf",
+  "titel": "Kallelse Kf 2022-11-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "10527e22aaa612986976b13acc316e3b8a2e8a36ab082dbb7edde9b477ae5c47",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.30ffa27d18b37a74555480/1697465626861/Kalellse%20och%20handlingar%20Kf%202023-10-23.pdf",
+  "titel": "Kalellse och handlingar Kf 2023-10-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "fe799ef417c24201833a7262b71faeb10fd10ec81399d31e2ae6296679d5b68b",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 117,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.740defdc18a9303d97912e6/1694782903979/Kallelse%20och%20handlingar%20Kf%202023-09-25.pdf",
+  "titel": "Kallelse och handlingar Kf 2023-09-25",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5747d19cb12d6e6236ae3242f6d368ec4f507a5007ba0093202becea5026d15b",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 43,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "l ett nationellt program i gymnasieskolan, 2. ett av de ämnen som avses i 1 är idrott och hälsa, och 3. eleven ges minst den totala undervisningstid som återstår för övriga elever i den årskursen hos huvudmannen under den kvarvarande skoltiden. Lag (2018:1303). Stud",
+    "belopp_nara": false
+   },
+   {
+    "sida": 42,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "dömning av behov av studiehandledning på modersmålet enligt 12 i § samt vid övrig planering av undervisningen och vid fördelning av undervisningstiden. Lag (2018:1303). Placering i årskurs och undervisningsgrupp 12 e § En nyanländ elev och en elev, vars kunskaper ha",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ydre.se/download/18.37e22e7c18a9317b4ea9fd4/1695649953726/Kallelse%20och%20handlingar%20till%20Kf%202023-09-25.pdf",
+  "titel": "Kallelse och handlingar till Kf 2023-09-25",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "3a7e610af0b99d253af296edd45588e6874d1272ea005005949178b1960d15d3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 41,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "l ett nationellt program i gymnasieskolan, 2. ett av de ämnen som avses i 1 är idrott och hälsa, och 3. eleven ges minst den totala undervisningstid som återstår för övriga elever i den årskursen hos huvudmannen under den kvarvarande skoltiden. Lag (2018:1303). Stud",
+    "belopp_nara": false
+   },
+   {
+    "sida": 40,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "dömning av behov av studiehandledning på modersmålet enligt 12 i § samt vid övrig planering av undervisningen och vid fördelning av undervisningstiden. Lag (2018:1303). Placering i årskurs och undervisningsgrupp 12 e § En nyanländ elev och en elev, vars kunskaper ha",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ydre.se/download/18.68844d4b18bcc47ae18410c/1700233374536/Kallelse%20och%20handlingar%20till%20Kf%202023-11-27.pdf",
+  "titel": "Kallelse och handlingar till Kf 2023-11-27",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "b5087a2d6e626f1e63f6d81f7bbd1f509195e736d52b9ef7a7b7a55cf4fff8db",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.16494ae918bfb352f358b06/1701435275662/Kallelse%20och%20handlingar%20till%20Kf%202023-12-11.pdf",
+  "titel": "Kallelse och handlingar till Kf 2023-12-11",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "8502d2b37948c4301693bd39c63778f9e77b5f2621161a53f7526c440f0d8959",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 421,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 62,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ch alla former av teknik som används för att kommunicera någonting. )tidigare och BOU har under hösten kunnat anställa en person på uppdraget genom ett statsbidrag. Detta bidrag heter likvärdig skola och måste användas till verksamheten på annat sätt kommande år, det är också osäkert hur länge bidraget finns kvar.",
+    "belopp_nara": false
+   },
+   {
+    "sida": 68,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "vernas närvaro i skolan. Genom deltagande i skolsociala team ges socialtjänsten förutsättningar att i ett tidigt skede arbeta tillitsskapande och förebyggande. Statsbidrag lämnas för personalkostnader i skolsociala team. Det skolsociala teamet måste bestå av minst två årsarbetskrafter. Minst en årsarbetskraft ska bestå av persona",
+    "belopp_nara": false
+   },
+   {
+    "sida": 354,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ggr/månad till skolfrånvaro (missad frånvaro. skolchef undervisningstid) Uppföljningsdialoger, genom att Fyra",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.ydre.se/download/18.3913be3118d873f40f4b8a6/1708353136750/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-02-26.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-02-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "7d9871b8e47245d895fafac62cc7b888d3433186faf2acbf9e88c3a8805510e3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 118,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.d04533418f0fdc3011224a/1714141551126/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-05-06.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-05-06",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "e0e28297942d2fdec8920045c33f567dafbd45f6997ce5c45d3861164f9b3704",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 410,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ydre.se/download/18.6b5a53e019c4795fa8cb732/1771859807956/Protokoll%20vn%202026-02-16.pdf",
   "titel": "Protokoll vn 2026-02-16",
   "typ": "pdf",

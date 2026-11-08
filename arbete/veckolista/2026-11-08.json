@@ -20,7 +20,110 @@
    "https://varberg.se/download/18.46da13211a0be6c4285d9af1/1790149902457/SVN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20084419.pdf",
    "https://varberg.se/download/18.46da13211a0be6c4285d9af3/1790149902531/%C3%96F%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
    "https://varberg.se/download/18.46da13211a0be6c4285d9af4/1790149902557/BN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
-   "https://varberg.se/download/18.46da13211a0be6c4285d9af6/1790149902622/HGN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf"
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af6/1790149902622/HGN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031.pdf",
+   "https://varberg.se/download/18.46da13211a0be6c4285d9af7/1790149902651/KFN%20-%20Underlag%20till%20budget%202027%20och%20plan%202028-2031%202026-08-26%20090038.pdf",
+   "https://varberg.se/download/18.39ccb8bd1a12f6b789f2f82/1791810400383/Kommunfullm%C3%A4ktige%20kallelse%20261020%20-%20webb.pdf",
+   "https://varberg.se/download/18.39ccb8bd1a12f6b789f9fdb4/1792500544109/Utbildnings-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%202026-10-19.pdf",
+   "https://varberg.se/download/18.81c1b21a1a18a903e25bcd/1793869833253/Kommunstyrelsens%20arbetsutskott%20protokoll%20261103.pdf",
+   "https://varberg.se/download/18.58163c621a18c7f602d4a1f2/1793689144636/Kommunstyrelsens%20personalutskott%20protokoll%20261029.pdf",
+   "https://varberg.se/download/18.4ef404891a1632d76726a7db/1793108601271/Kommunfullm%C3%A4ktige%20protokoll%20261020.pdf",
+   "https://varberg.se/download/18.9ce7e961a1631b58974e1e9/1793000619312/Kommunstyrelsen%20protokoll%20261023.pdf",
+   "https://varberg.se/download/18.542c4f241a161e45bc2d12/1792647786864/Kommunstyrelsens%20arbetsutskott%20protokoll%20261020.pdf",
+   "https://varberg.se/download/18.4b8c8691a1a19f136a15997/1793802265682/KFN%20AU%2020261102.pdf",
+   "https://varberg.se/download/18.2e1886f51a1630625f2692cd/1793121887363/Hamn-%20och%20gatun%C3%A4mnden%20protokoll%202026-10-26.pdf",
+   "https://varberg.se/download/18.9ce7e961a1631b589753b4d/1793024054185/Socialn%C3%A4mndens%20protokoll%202026-10-22.pdf"
+  ]
+ },
+ {
+  "id": "botkyrka",
+  "kommun": "Botkyrka",
+  "lan": "Stockholms län",
+  "status": 5,
+  "poang": 13,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://github.com/erikscheffer-school/larartiden/issues/5",
+   "https://github.com/erikscheffer-school/larartiden/issues/6",
+   "https://www.botkyrka.se/download/18.4b4928d418529a086ba2a986/1674030965798/M%C3%A5l%20och%20budget%202023%20med%20fler%C3%A5rsplan%202024%20-%202026.pdf",
+   "https://www.botkyrka.se/download/18.1c5ae1bb193903f87252d4af/1733918657116/M%C3%A5l%20och%20budget%202025%20med%20fler%C3%A5rsplan%202026-2028%20.pdf",
+   "https://www.mitti.se/nyheter/maktskifte-i-botkyrka--har-ar-partierna-som-tar-over-6.3.386357.0650ea781a",
+   "https://www.botkyrka.se/download/18.6636c9461a12f530dfde219/1792506348248/Protokoll%20Kommunstyrelsen%202026-10-12%20signed.pdf",
+   "https://www.botkyrka.se/download/18.4e34c5811850f8285a412e1/1671180641965/Budget%202023%20Botkyrka.pdf",
+   "https://www.botkyrka.se/download/18.2da8969c19a7e8be9c54db3b/1764162428422/Genomf%C3%B6rande%20av%20budgetdagen%202025%20ver%202.pdf",
+   "https://www.botkyrka.se/download/18.437d255c192705445d733d30/1729249855352/Sammanst%C3%A4llning%20budget%20Tullinge%20kommundelsn%C3%A4mnd%20reviderad%202024-10-06.PDF",
+   "https://www.botkyrka.se/download/18.2309366617e906be33a3189/1643729943744/2022-02-07%20Kommunstyrelsen%20-%20handlingar%20-%20del%202%20%C2%A7%C2%A7%2026-31.pdf",
+   "https://www.botkyrka.se/download/18.3c29846118529de0a7b1eb86/1674723897382/Kommunfullm%C3%A4ktige%202023-01-26.pdf",
+   "https://www.botkyrka.se/download/18.3fa636f318631535f7f7e26/1676980378280/Kommunfullm%C3%A4ktige%202023-02-23.pdf"
+  ]
+ },
+ {
+  "id": "mariestad",
+  "kommun": "Mariestad",
+  "lan": "Västra Götalands län",
+  "status": 5,
+  "poang": 13,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
+   "https://mariestad.se/download/18.11f23c5819271685cbd2faa/1729242338595/Handlingar%20Kommunfullm%C3%A4ktige%202024-10-28.pdf",
+   "https://mariestad.se/download/18.54eaee3118f379fe2fdecc2/1716214862077/Handlingar%20Kommunfullm%C3%A4ktige%202024-05-27.pdf",
+   "https://mariestad.se/download/18.3de4ad6818fe7c3a2b214d/1718015240951/Handlingar%20Kommunfullm%C3%A4ktige%202024-06-17.pdf",
+   "https://mariestad.se/download/18.1e0c18e4191e4f6d2e03e12/1727077780362/Handlingar%20Kommunfullm%C3%A4ktige%202024-09-30.pdf",
+   "https://mariestad.se/download/18.71e414019329aaba427b5/1731918094748/Handlingar%20Kommunfullm%C3%A4ktige%202024-11-25.pdf",
+   "https://mariestad.se/download/18.49c025a2193955bf6cdb57/1733754224497/Handlingar%20Kommunfullm%C3%A4ktige%202024-12-16.pdf",
+   "https://mariestad.se/download/18.4aee9a2b1946375fe552426/1737110752152/Handlingar%20Kommunfullm%C3%A4ktige%202025-01-27.pdf"
+  ]
+ },
+ {
+  "id": "toreboda",
+  "kommun": "Töreboda",
+  "lan": "Västra Götalands län",
+  "status": 5,
+  "poang": 12,
+  "skal": [
+   "2 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://toreboda.se/download/18.72d624081a12f58e8dd724f/1792404476734/Handlingar%20Kommunfullm%C3%A4ktige%202026-10-26.pdf",
+   "https://toreboda.se/download/18.36469e4d19e6343f4edf9d1/1780995426530/Handlingar%20kommunfullm%C3%A4ktige%202026-06-15.pdf",
+   "https://toreboda.se/download/18.60bf6c831a0adc228da435a/1789986066542/Handlingar%20kommunfullm%C3%A4ktige%202026-09-28.pdf",
+   "https://toreboda.se/download/18.156debe21a12f6c2ace119/1791803930157/Handlingar%20Kommunfullm%C3%A4ktige%202026-10-20.pdf",
+   "https://toreboda.se/download/18.2e87ec9919b2bd177392158c/1769162961730/Handlingar%20f%C3%B6r%20m%C3%B6te%20kommunfullm%C3%A4ktige%202025-10-30.pdf",
+   "https://toreboda.se/download/18.7efef0b7194d85be7c77dc3/1739791086894/Handlingar%20kommunfullm%C3%A4ktige%202025-02-26.pdf",
+   "https://toreboda.se/download/18.788fec98195b2693d4e5a32/1742924076859/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202025-03-31%20(1).pdf"
+  ]
+ },
+ {
+  "id": "vaxholm",
+  "kommun": "Vaxholm",
+  "lan": "Stockholms län",
+  "status": 5,
+  "poang": 12,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://github.com/erikscheffer-school/larartiden/issues/3",
+   "https://www.vaxholm.se/download/18.42acf5741a16301672732609/1793348394278/Kallelse%20%20KF%202026-11-09.pdf",
+   "https://www.vaxholm.se/download/18.15ca352d1a163285c596827/1792750911683/Protokoll%20KF%202026-10-19.pdf",
+   "https://www.vaxholm.se/download/18.5bf53eda1a0e765a5703fd/1790591737268/Protokoll%20KF%202026-09-21.pdf",
+   "https://www.vaxholm.se/download/18.464e82e11a115aa5813cb51/1791544297481/Kallelse%20KF%202026-10-19.pdf",
+   "https://www.vaxholm.se/download/18.50295a751a0865aa6c6d199/1789113499454/Kallelse%20f%C3%B6redragninglista%20KF%202026-09-21.pdf",
+   "https://www.vaxholm.se/download/18.15ca352d1a163285c591eade/1793084233125/Protokoll%20KS%202026-10-22.pdf",
+   "https://www.vaxholm.se/download/18.15ca352d1a163285c596838/1792750928833/Bilagor%20till%20KF%20protokoll%202026-10-19.pdf",
+   "https://www.vaxholm.se/download/18.5bf53eda1a0e765a5703fc/1790591737208/Bilagor%20till%20KF%20protokoll%202026-09-21.pdf",
+   "https://www.vaxholm.se/download/18.15ca352d1a163285c591eadd/1793084233094/Bilagor%20till%20KS%20protokoll%202026-10-22.pdf",
+   "https://www.vaxholm.se/download/18.488cd2621a15445a100115f7/1792650073520/Protokoll%20extra%20sammantr%C3%A4de%20KS%202026-10-21.pdf"
   ]
  },
  {
@@ -28,14 +131,95 @@
   "kommun": "Katrineholm",
   "lan": "Södermanlands län",
   "status": 5,
-  "poang": 8,
+  "poang": 11,
+  "skal": [
+   "1 nytt/nya dokument nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
+  ],
+  "dokument": [
+   "https://www.katrineholm.se/download/18.940b8dd1a0a86956cf49a5/1789563531574/BIN%202026-09-22%20-%20F%C3%96R%20PUBLICERING.pdf",
+   "https://www.katrineholm.se/download/18.5db90bff19ed42aeafd5368a/1782207342898/Protokoll%20VAN%202026-06-15.pdf",
+   "https://www.katrineholm.se/download/18.6f1e98c919e024cd6053da69/1778501985343/Planeringsdirektiv%202027-2029,%20inklusive%20nya%20tabeller%20efter%20ny%20skatteprognos.pdf",
+   "https://www.katrineholm.se/download/18.7ef553fc1a0f15a7749b70c/1790846330235/KS%20kallelse%202026-10-07.pdf",
+   "https://www.katrineholm.se/download/18.742311da1a0adb902c664ed8/1790843094051/KS%20kallelse%202026-09-30.pdf",
+   "https://www.katrineholm.se/download/18.66a6a5981a0fcaaca8743430/1791349941478/Kommunstyrelsens%20protokoll%202026-09-30.pdf",
+   "https://www.katrineholm.se/download/18.bc81db21a042195ac4706c9/1788413923638/Kommunstyrelsens%20protokoll%202026-08-26.pdf",
+   "https://www.katrineholm.se/download/18.66e3b1da1a1180af5c37398/1792153591500/KF%20kallelse%202026-10-19.pdf",
+   "https://www.katrineholm.se/download/18.3b54a8541a08628092b52a9/1789715832550/KF%20kallelse%202026-09-21.pdf",
+   "https://www.katrineholm.se/download/18.7f2b93d61a0ad9794b6ce1/1789625044811/Kallelse%20VAN%202026-09-21%20ny.pdf",
+   "https://www.katrineholm.se/download/18.66a6a5981a0fcaaca8749044/1791379913626/Kommunstyrelens%20protokoll%202026-10-07.pdf"
+  ]
+ },
+ {
+  "id": "koping",
+  "kommun": "Köping",
+  "lan": "Västmanlands län",
+  "status": 5,
+  "poang": 11,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://koping.se/download/18.3826d5321a0adb78fac13b8/1789624754500/Kallelse%20UN%20260923.pdf",
+   "https://koping.se/nyheter/2026-10-23-fyra-partier-ska-styra-koping-kommande-mandatperiod.html",
+   "https://koping.se/download/18.49cf0b3f1a0f10a81971be02/1790831940083/Protokoll%20UN%20260923.pdf",
+   "https://koping.se/download/18.6e13d5d51a162ec569897aae/1793111177760/Protokoll%20UN%20261022.pdf",
+   "https://koping.se/download/18.4c7242851a18c402ee74b442/1793633990740/Kallelse%20KF%202026-11-09.pdf",
+   "https://koping.se/download/18.772a98af1a08628709dd9978/1789466354761/Protokoll%20KS%202026-08-25.pdf",
+   "https://koping.se/download/18.20100c361a0d280bb3719a0/1790242117367/Protokoll%20KS%202026-09-22%20omedelbart%20justerat%20%C2%A7200.pdf",
+   "https://koping.se/download/18.4fad0f611a0d180fb972f901/1790340145307/Protokoll%20KS%202026-09-22%20eftermiddag.pdf",
+   "https://koping.se/download/18.6bb204521a0d1a883b49753a/1790602799976/Protokoll%20KS%202026-09-22%20f%C3%B6rmiddag.pdf",
+   "https://koping.se/download/18.4af8a1e61a1631d724d946d5/1793110999341/Protokoll%20KS%202026-10-21.pdf"
+  ]
+ },
+ {
+  "id": "almhult",
+  "kommun": "Älmhult",
+  "lan": "Kronobergs län",
+  "status": 5,
+  "poang": 11,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+  ],
+  "dokument": [
+   "https://www.almhult.se/download/18.43b6f6da1a161f4cb1b379e/1792657862065/Utbildningsn%C3%A4mndens%20sammantr%C3%A4desprotokoll%202026-10-21.pdf",
+   "https://www.almhult.se/download/18.35b654231a0d0c8586c35f81/1790338181778/Utbildningsn%C3%A4mndens%20sammantr%C3%A4desprotokoll%202026-09-23.pdf",
+   "https://www.mp.se/almhult/politik/kommunpolitiskt-handlingsprogram-2027-2030/",
+   "https://www.almhult.se/download/18.73e3f2281a1a183b6613ec18/1793969447322/Utbildningsn%C3%A4mnden%20kallelse%20med%20handlingar%202026-11-11.pdf",
+   "https://www.almhult.se/download/18.515f200f1a0adad2ac42c0c3/1789741102875/Tekniska%20n%C3%A4mnden%20sammantr%C3%A4deshandlingar%202026-09-24.pdf",
+   "https://www.almhult.se/download/18.5376419c1a06a03405cb17cf/1788864978853/Kommunfullm%C3%A4ktiges%20sammantr%C3%A4desprotokoll%202026-08-31.pdf",
+   "https://www.almhult.se/download/18.dedd4261a115a113762d33/1791373599204/Kommunfullm%C3%A4ktiges%20sammantr%C3%A4desprotokoll%202026-09-28.pdf",
+   "https://www.almhult.se/download/18.7fe6ac921a1a19543f9ef37/1793780401695/Kommunfullm%C3%A4ktiges%20sammantr%C3%A4desprotokoll%202026-10-26.pdf",
+   "https://www.almhult.se/download/18.65c780211a0adcd46dd763d/1789643425931/Kommunstyrelsens%20sammantr%C3%A4desprotokoll%202026-09-15.pdf",
+   "https://www.almhult.se/download/18.19326c8b1a1302ccbfb7c277/1792141922930/Kommunstyrelsens%20sammantr%C3%A4desprotokoll%202026-10-13.pdf",
+   "https://www.almhult.se/download/18.65c780211a0adcd46dd3caa/1789633405520/Utbildningsn%C3%A4mnden%20kallelse%20med%20handlingar%202026-09-23.pdf"
+  ]
+ },
+ {
+  "id": "gavle",
+  "kommun": "Gävle",
+  "lan": "Gävleborgs län",
+  "status": 5,
+  "poang": 10,
   "skal": [
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
    "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
   ],
   "dokument": [
-   "https://www.katrineholm.se/download/18.5db90bff19ed42aeafd5368a/1782207342898/Protokoll%20VAN%202026-06-15.pdf",
-   "https://www.katrineholm.se/download/18.6f1e98c919e024cd6053da69/1778501985343/Planeringsdirektiv%202027-2029,%20inklusive%20nya%20tabeller%20efter%20ny%20skatteprognos.pdf"
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/bilaga-2-investeringsbudget-2027-2030pdf?downloadMode=open",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/bilaga-2-investeringsbudget-2027-2030pdf?downloadMode=download",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/bilaga-3-exploateringsbudget-i-detalj-2027-2030-pagaende-projektpdf?downloadMode=open",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunfullmaktige/mote-2026-06-15/agenda/bilaga-3-exploateringsbudget-i-detalj-2027-2030-pagaende-projektpdf?downloadMode=download",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/agenda/budget-och-ekonomiska-plan-2027-2030-gastrike-ekogas-abpdf?downloadMode=open",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/agenda/budget-och-ekonomiska-plan-2027-2030-gastrike-ekogas-abpdf?downloadMode=download",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/agenda/budget-och-ekonomisk-plan-ar-2027-2030-gastrike-atervinnarepdf?downloadMode=open",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/agenda/budget-och-ekonomisk-plan-ar-2027-2030-gastrike-atervinnarepdf?downloadMode=download",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/protocol/budget-och-ekonomisk-plan-ar-2027-2030-gastrike-atervinnarepdf?downloadMode=open",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/protocol/budget-och-ekonomisk-plan-ar-2027-2030-gastrike-atervinnarepdf?downloadMode=download",
+   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/protocol/budget-och-ekonomiska-plan-2027-2030-gastrike-ekogas-abpdf?downloadMode=open"
   ]
  },
  {
@@ -43,68 +227,23 @@
   "kommun": "Vindeln",
   "lan": "Västerbottens län",
   "status": 5,
-  "poang": 8,
+  "poang": 10,
   "skal": [
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
    "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
   ],
   "dokument": [
-   "https://www.vindeln.se/download/18.20a8b3891a1a75bdc9171/1793869936526/Vindelns%20kommuns%20verksamhetsplan%20med%20budget%202027-2030.pdf"
-  ]
- },
- {
-  "id": "boden",
-  "kommun": "Boden",
-  "lan": "Norrbottens län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://boden.se/download/18.49110930198e5734aa66e3/1756199729621/2025-2027%20Strategisk%20plan.pdf"
-  ]
- },
- {
-  "id": "boras",
-  "kommun": "Borås",
-  "lan": "Västra Götalands län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.boras.se/kommunochpolitik/kommunensorganisation/kommunstyrelsen/kommunstyrelsen/kommunstyrelsensammantrade202606151400.5.345c9d6b19a05133abccccb0.html",
-   "https://via.tt.se/pressmeddelande/4434358/nytt-avtal-ska-starka-hallbart-resande-i-boras-del-av-regional-satsning-i-stad-och-land?publisherId=3237184&lang=sv"
-  ]
- },
- {
-  "id": "vaggeryd",
-  "kommun": "Vaggeryd",
-  "lan": "Jönköpings län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://medborgare.vaggeryd.se/committees/kommunstyrelsen-ks/mote-2026-06-03",
-   "https://skillingaryd.nu/vaggeryd/nyheter/narmare-10-miljoner-i-resultat-vid-april-manads-slut/",
-   "https://skillingaryd.nu/vaggeryd/nyheter/skolgarden-vid-fagelfors-ska-fraschas-upp/"
-  ]
- },
- {
-  "id": "ockero",
-  "kommun": "Öckerö",
-  "lan": "Västra Götalands län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.ockero.se/download/18.14729c511a01f4c69f07c/1787232394789/%C3%96cker%C3%B6alliansen%20-%20Budget%20och%20uppdrag%202027.pdf"
+   "https://www.vindeln.se/download/18.20a8b3891a1a75bdc9171/1793869936526/Vindelns%20kommuns%20verksamhetsplan%20med%20budget%202027-2030.pdf",
+   "https://www.vindeln.se/download/18.161977621a087da18d74bf/1790585118696/Protokoll%20kommunstyrelsen%20den%2022%20september%202026.pdf",
+   "https://www.vindeln.se/download/18.32d751f1a141417a70a9/1792765892010/Protokoll%20kommunstyrelsen%20den%2020%20oktober%202026.pdf",
+   "https://www.vindeln.se/download/18.4831799719ff7a277e8450/1788771694347/Protokoll%20barn-%20och%20utbildningsutskottet%20den%2031%20augusti%202026.pdf",
+   "https://www.vindeln.se/download/18.161977621a087da18d7884/1791529867410/Protokoll%20Barn-%20och%20utbildningsutskottet,%20den%205%20oktober%202026.pdf",
+   "https://www.vindeln.se/download/18.3d20be61a124a2091649/1791803455798/Protokoll%20Milj%C3%B6-%20och%20byggnadsn%C3%A4mnden%20den%205%20oktober%202026.pdf",
+   "https://www.vindeln.se/download/18.4831799719ff7a277e83c2/1788694891194/Protokoll%20allm%C3%A4nna%20utskottet%20den%201%20september%202026.pdf",
+   "https://www.vindeln.se/download/18.3d20be61a124a209166c/1791805669188/Protokoll%20allm%C3%A4nna%20utskottet%20den%206%20oktober%202026.pdf",
+   "https://www.vindeln.se/download/18.4831799719ff7a277e840d/1788771530141/Protokoll%20Sociala%20utskottet%20den%201%20september%202026.pdf",
+   "https://www.vindeln.se/download/18.32d751f1a141417a708a/1792743651791/%C3%96FN%202026-10-14%20protokoll.pdf",
+   "https://www.vindeln.se/download/18.4831799719ff7a277e8351/1788357293032/Protokoll%20Milj%C3%B6-%20och%20Byggnadsn%C3%A4mnden%2031%20augusti.pdf"
   ]
  }
 ]

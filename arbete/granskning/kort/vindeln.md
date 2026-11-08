@@ -2,7 +2,7 @@
 
 Webbplats: https://www.vindeln.se/
 Portal: Politikerportal
-Hämtade dokument: 12, hämtfel: 1
+Hämtade dokument: 22, hämtfel: 1
 Nuvarande sammanfattning: Endast verksamhetsplan med budget 2025–2028 (KF 2024-06-13 § 60) hittades; den nämner inte reformen. Inga handlingar för budget 2027 hittades.
 Luckor: Budget 2027-handlingar och KF-datum ej funna (budget 2025 beslutades i juni, så juni 2026 är troligt men ej verifierat). Remissvar SOU 2025:26 ej sökt.
 
@@ -45,16 +45,27 @@ Investeringsprioriteringar Kommunstyrelsen .....................................
 Driftsprioriteringar ................................................................................................................................ 25
 ```
 
+**Rader om budget och 2027**
+
+- s. 1: Verksamhetsplan med budget 2027-
+- s. 2: med budget 2027-2030
+- s. 3: med budget 2027-2030
+- s. 4: med budget 2027-2030
+- s. 5: med budget 2027-2030
+- s. 6: med budget 2027-2030
+- s. 7: med budget 2027-2030
+- s. 8: med budget 2027-2030
+- s. 9: med budget 2027-2030
+- s. 10: med budget 2027-2030
+- s. 11: med budget 2027-2030
+- s. 12: med budget 2027-2030
+
 **Beslut och förslag**
 
-- s. 1: Fastställd av Kommunfullmäktige § K2026/0572 2026-06-15
-- s. 2: Kommunfullmäktiges mål ..................................................................................................................... 18
-- s. 2: Investeringsprioriteringar Kommunstyrelsen ..................................................................................... 24
-- s. 3: (Beslutad av kommunfullmäktige 2022-06-14, § 59, Dnr K-2022-239)
-- s. 4: lokaltrafik/skolskjuts och kostnader inom IFO. Inom utbildningssektorn föreslås att medel tillförs för
-- s. 4: Kommunstyrelsens ordförande
-- s. 6: Kommunfullmäktige och
-- s. 6: Kommunstyrelsen 37,5 -200,1 -162,7 -159,6 -3,0 -460,8 -460,2 0,6
+- s. 21: *Beslut KS 2026-09-22 Dnr K2026/0739 § 116 Omfördelning budget 2027-2030 Kommunstyrelsen
+- s. 22: *Beslut KS 2026-09-22 Dnr K2026/0739 § 116 Omfördelning budget 2027-2030 Kommunstyrelsen
+- s. 23: *Beslut KS 2026-09-22 K2026/2026 § 115 Omfördelning investeringsvolymer 2027-2030 Kommunstyrelsen
+- s. 26: *Beslut KS 2026-09-22 Dnr K2026/0739 § 116 Omfördelning budget 2027-2030 Kommunstyrelsen
 
 **Skola och utbildning (rader med belopp)**
 
@@ -73,135 +84,147 @@ Driftsprioriteringar ...........................................................
 
 - Inga reformord i hela texten (32 sidor).
 
-### Protokoll kommunstyrelsen den 24 februari 2026.pdf Pdf, 1.2 MB.
+### Protokoll kommunstyrelsen den 22 september 2026.pdf Pdf, 868.5 kB.
 
-https://www.vindeln.se/download/18.121c541d19c4e93ef372c1/1772203603063/Protokoll%20kommunstyrelsen%20den%2024%20februari%202026.pdf
+https://www.vindeln.se/download/18.161977621a087da18d74bf/1790585118696/Protokoll%20kommunstyrelsen%20den%2022%20september%202026.pdf
 
 Sidor: 36. Budget 2027 enligt titeln: oklart.
 
 **Förstasidorna**
 
 ```
-Protokoll
-Sammanträdesdatum Sida
-2026-02-24 1(33)
-Kommunstyrelsen
-Plats och tid Saln kommunhuset Vindeln, tisdag den 24 februari 2026, kl. 09.00-09.22, 09.27-10.34, 10.40-11.35.
-Ajournering kl. 09.22-09.27 och 10.34-10.40.
-Beslutande Mathias Haglund (S), ordf Tomas Nilsson (M)
-Linda Lövgren (S) Åsa Ahlberg-Jonsson (M)
-Dan Oskarsson (S) Anders Forsman (M), tj ers
-Micael Andersson (S), tj ers Jan Olophsson (C)
-Daniel Jaede (KD) Caroline Winter (C)
-Tommy Hägglund (KD)
-Övriga Therese Berg, kommundirektör Katarina Häggström, HR-chef, § 11-12
-deltagande Malin Gotthardsson, nämndssekreterare Lenitha Hansson, ekonomichef, digitalt § 4
-Krystyna Felczak (KD), ej tj ers
-Utses att Tomas Nilsson (M)
-justera
-Plats och tid Digitalt, fredag den 27 februari 2026 kl. 10.00.
-…………………………………………………
-Sekreterare Malin Gotthardsson Paragrafer 1-27
-…………………………………………………
-Ordförande Mathias Haglund (S)
-…………………………………………………
-Justerande Tomas Nilsson (M)
-Justeringen tillkännages på anslagstavlan som visas på kommunens hemsida och på en bildskärm i kommunkontoret
-Anslag sätts 2026-02-27
-upp
-Anslag tas ner 2026-03-23
-Anslagsansvarig …………………………………………………
-Protokollet förvaras i kommunkontoret
-```
-
-**Beslut och förslag**
-
-- s. 1: Kommunstyrelsen
-- s. 1: Beslutande Mathias Haglund (S), ordf Tomas Nilsson (M)
-- s. 2: Kommunstyrelsen
-- s. 2: Budget 2027-2030: Prioriteringsunderlag kommunstyrelsen ........................... 9
-- s. 2: Revidering Beslutsattestanter kommunstyrelsen .............................................. 12
-- s. 2: Redovisning av delegeringsbeslut ...................................................................... 31
-- s. 3: Kommunstyrelsen
-- s. 3: Dagordning fastställs.
-
-**Skola och utbildning (rader med belopp)**
-
-- s. 4: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 5: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 7: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 9: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 12: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 18: lovskola att ansöka om ferielön under denna period. Under 2025 var det 12
-- s. 19: - Protokollsutdrag Barn- och utbildningsutskottet, den 9 februari 2026, §
-- s. 31: - Protokoll barn- och utbildningsutskottet den 9 februari 2026, sociala
-
-**Reformorden**
-
-- Inga reformord i hela texten (36 sidor).
-
-### Protokoll kommunstyrelsen den 2 juni 2026.pdf Pdf, 1.6 MB.
-
-https://www.vindeln.se/download/18.11ff4e2719e2a9c6ecf411/1780668162076/Protokoll%20kommunstyrelsen%20den%202%20juni%202026.pdf
-
-Sidor: 88. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-Protokoll Sida 1 (86)
-2026-06-02
+Protokoll Sida 1 (34)
+2026-09-22
 Kommunstyrelsen protokoll tisdagen
-den 2 juni 2026
-Plats och tid: Saln, klockan 08:00-12:13, ajournering: kl. 08:55-09:00, och
-kl. 09:55-10:00.
-Paragrafer: 56§ - 112§
-Utses att justera: Tomas Nilsson (M) §§ 56-103, 105-112, och Daniel
-Jaede (KD) § 104.
+den 22 september 2026
+Plats och tid: Saln, klockan 09:00-11.49, ajournering: kl. 10.16-10.23
+Paragrafer: 113§ - 136§
+Utses att justera: Tomas Nilsson (M)
 Protokollet har justerats digitalt.
 Justeringen tillkännages på anslagstavlan som visas på kommunens
 hemsida och på en bildskärm i kommunkontoret
-Anslag sätts upp: 2026-06-05
-Anslag tas ner: 2026-06-29
-Ordföranden
-Mathias Haglund (S), ordf, §§ 56-103, 105-112
-Tomas Nilsson (M), ordf. § 104
+Anslag sätts upp: 2026-09-25
+Anslag tas ner: 2026-10-19
+Ordförande
+Mathias Haglund (S)
 Beslutande
-Mathias Haglund (S), §§ 56-103, 105-112
-Linda Lövgren (S), §§ 56-103, 105-112
-Dan Oskarsson (S), §§ 56-82, 84-96, 98-103 och 105-112
-Britt-Louise Eriksson (S), §§ 56-103, 105-111
+Linda Lövgren (S)
+Dan Oskarsson (S)
+Britt-Louise Eriksson (S)
 Daniel Jaede (KD)
 Tommy Hägglund (KD)
-Krystyna Felczak (KD), tj ers, §§ 83, 97 och 104
 Tomas Nilsson (M)
 Åsa Ahlberg-Jonsson (M)
 Anders Forsman (M), tj ers
 Jan Olophsson (C)
 Caroline Winter (C)
+Nämndsekreterare
+Malin Gotthardsson
+Postadress ● Postnummer ● Telefonnummer
+Mailadress
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert ● Hemsida
 ```
+
+**Rader om budget och 2027**
+
+- s. 3: Omfördelning budget 2027-2030 Kommunstyrelsen, s. 8
+- s. 8: § 116 Omfördelning budget 2027-2030
+- s. 8: Under våren har budgetramar för 2027-2030 hanterats och beslut om
+- s. 9: Tabell Justering driftsprioritering och budgetramar 2027-2030 Vindelns
 
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen protokoll tisdagen
-- s. 1: Beslutande
-- s. 3: Revidering av delegeringsordning för kommunstyrelsen, s. 9
-- s. 3: Omfördelning budget kommunstyrelsen 2026, s. 10
-- s. 3: Omfördelning investeringsbudget kommunstyrelsen 2026, s. 11
-- s. 3: Verksamhetsplan med driftsbudget 2027-2030 kommunfullmäktige och
-- s. 3: Revidering Beslutsattestanter Kommunstyrelsen 2026 – Maj, s. 21
-- s. 3: Yttrande gällande Grundläggande granskning kommunstyrelsen, s. 24
+- s. 3: Omfördelning investeringsvolymer 2027-2030 Kommunstyrelsen,
+- s. 3: Omfördelning budget 2027-2030 Kommunstyrelsen, s. 8
+- s. 6: 2027-2030 Kommunstyrelsen
+- s. 6: Kommunstyrelsen antar förslag till revidering investeringsvolymer 2027-
+- s. 6: Kommunstyrelsen antar förslag till revidering investeringsvolymer 2027-
+- s. 6: Under våren har investeringsvolymer för 2027-2030 hanterats och beslut
 
 **Skola och utbildning (rader med belopp)**
 
-- s. 8: - Protokollsutdrag barn- och utbildningsutskottet, § 22, den 18 maj
-- s. 10: - Protokollsutdrag barn- och utbildningsutskottet, § 21, den 18 maj
-- s. 11: - Protokollsutdrag barn- och utbildningssektorn, § 23, den 18 maj
-- s. 40: § 82 Revidering av skolskjutsregler
-- s. 40: Gällande riktlinjer för skolskjuts antogs av utbildningsnämnden år 2022.
-- s. 41: § 83 Nybyggnation förskola Tvärålund
-- s. 81: - Protokoll barn- och utbildningsutskottet den 18 maj 2026, sociala
+- s. 7: • Minskad volym 2027 och ökad volym 2028 för Barn & utbildning
+- s. 7: tidigarelagts till 2026 och reinvestering i befintlig skola Tvärålund
+- s. 7: Protokollsutdrag barn- och utbildningsutskottet, den 31 augusti 2026
+- s. 14: Protokollsutdrag barn- och utbildningsutskottet, den 31 augusti 2026
+- s. 16: Protokollsutdrag barn- och utbildningsutskottet, den 31 augusti 2026
+- s. 17: § 122 Nybyggnation förskola Tvärålund
+- s. 18: Protokollsutdrag barn- och utbildningsutskottet, den 31 augusti 2026
+- s. 22: kostnadsfria och näringsriktiga skolmåltider. Enligt 10 kap. 10 § skollagen
+- s. 23: Protokollsutdrag barn- och utbildningsutskottet, den 31 augusti 2026
+- s. 32: Protokoll barn- och utbildningsutskottet den 31 augusti 2026, sociala
 
 **Reformorden**
 
-- Inga reformord i hela texten (88 sidor).
+- Inga reformord i hela texten (36 sidor).
+
+### Protokoll Barn- och utbildningsutskottet, den 5 oktober 2026.pdf Pdf, 825.9 kB.
+
+https://www.vindeln.se/download/18.161977621a087da18d7884/1791529867410/Protokoll%20Barn-%20och%20utbildningsutskottet,%20den%205%20oktober%202026.pdf
+
+Sidor: 14. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Protokoll Sida 1 (12)
+2026-10-05
+Barn- och utbildningsutskottet
+protokoll måndagen den 5 oktober
+2026
+Plats och tid: Saln, klockan 13:06-15:15
+Paragrafer: 42 § - 50 §
+Utses att justera: Cecilia Rudolfsson (M)
+Protokollet har justerats digitalt.
+Justeringen tillkännages på anslagstavlan som visas på kommunens
+hemsida och på en bildskärm i kommunkontoret.
+Anslag sätts upp: 2026-10-09
+Anslag tas ner: 2026-10-31
+Beslutande
+Britt-Louise Eriksson (S), ordf.
+Krystyna Felczak (KD), vice ordf.
+Cecilia Rudolfsson (M)
+Michael Andersson (S), tj ers.
+Nämndsekreterare
+Emelie Hägglund
+Övriga närvarande
+Pernilla Lindberg, sektorchef barn- och utbildning
+Vindelns kommun ● 922 81 ● 0933-140 00
+Vindelns.kommun@vindeln.se ● www.vindeln.se
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
+https://sign.visma.net/sv/document-check/d08b2b9c-d2e7-4560-8bf4-8820f74ae581 www.vismasign.com
+Protokoll Sida 2 (12)
+2026-10-05
+Innehållsförteckning
+1. Mötesformalia barn- och utbildningsutskottet, den 5 oktober 2026
+```
+
+**Rader om budget och 2027**
+
+- s. 2: 2. Verksamhetsplan med driftsbudget 2027–2030 KS
+- s. 4: Kommunstyrelsen antar Verksamhetsplan med driftsbudget år 2027–2030
+- s. 4: Kommunstyrelsen antar Verksamhetsplan med driftsbudget år 2027–2030
+- s. 4: Verksamhetsplan med driftsbudget år 2027–2030 Kommunstyrelsen
+
+**Beslut och förslag**
+
+- s. 4: Kommunstyrelsen antar Verksamhetsplan med driftsbudget år 2027–2030
+- s. 4: Kommunstyrelsen antar Verksamhetsplan med driftsbudget år 2027–2030
+- s. 4: Verksamhetsplan med driftsbudget år 2027–2030 Kommunstyrelsen
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: 1. Mötesformalia barn- och utbildningsutskottet, den 5 oktober 2026
+- s. 2: 8. Meddelanden barn- och utbildningsutskottet, den 5 oktober 2026
+- s. 3: § 42 Mötesformalia barn- och
+- s. 3: utbildningsutskottet, den 5 oktober 2026
+- s. 7: § 46 Revidering av regler för förskola,
+- s. 11: § 49 Meddelanden barn- och
+- s. 11: utbildningsutskottet, den 5 oktober 2026
+- s. 11: På barn- och utbildningsutskottets sammanträde den 5 oktober 2026
+- s. 11: Minnesanteckningar Delegationen för utbildning, den 10 september 2026
+- s. 12: § 50 Information till barn- och
+
+**Reformorden**
+
+- Inga reformord i hela texten (14 sidor).

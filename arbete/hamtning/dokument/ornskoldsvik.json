@@ -16,6 +16,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/de-tar-makten-i-ornskoldsvik-blir-inga-latta-ar",
+  "titel": "De tar makten i Örnsköldsvik: ”Blir inga lätta år” | SVT Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "070429575f6991e432f4ae493fd5d6dfedeeb3525c152581d761ef1860645f20",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.allehanda.se/asikter/vi-prioriterar-stark-valfard-och-utveckling-i-o-vik/",
   "titel": "Vi prioriterar stark välfärd och utveckling i Ö-vik – Allehanda.se",
   "typ": "html",

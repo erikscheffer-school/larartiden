@@ -16,6 +16,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.vimmerbytidning.se/nyheter/kalmar-lan/artikel/ny-rodgron-budget-i-region-kalmar-lan-utan-offensiv/jdq24nvr",
+  "titel": "Ny rödgrön budget i Region Kalmar län utan offensiv",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "1f1d80cf38f18ee4c0cd0579464e571df641cdc64bbeb63143afda3980779507",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.barometern.se/kalmar/fri-parkering-egen-lakare-och-slopat-klimatmal-i-sd-s-budget",
   "titel": "Fri parkering, egen läkare och slopat klimatmål i SD:s budget – Barometern-OT",
   "typ": "html",

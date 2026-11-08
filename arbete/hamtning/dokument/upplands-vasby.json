@@ -16,6 +16,22 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.vasbyvanstern.se/darfor-vansterpartiet-i-upplands-vasby/",
+  "titel": "Därför Vänsterpartiet i Upplands Väsby – VäsbyVänstern | För ett mer solidariskt Väsby för alla",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "c7c758e58729d3ebe33556168641a8517ae7232f8a2cff7eb54da3f188c30d05",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.upplandsvasby.se/download/18.52f7529019cfe7f2e39cc6/1776166797503/%C3%85rsredovisning%202025.pdf",
   "titel": "Upplands Väsby kommun, Årsredovisning 2025 1(85) Årsredovisning 2025",
   "typ": "pdf",

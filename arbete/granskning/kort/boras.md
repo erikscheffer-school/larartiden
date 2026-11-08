@@ -2,7 +2,7 @@
 
 Webbplats: https://www.boras.se/
 Portal: ingen känd
-Hämtade dokument: 23, hämtfel: 1
+Hämtade dokument: 32, hämtfel: 1
 Nuvarande sammanfattning: Borås Stads budget 2027 har inte hittats. Kommunstyrelsen föreslog i september att fullmäktige håller budgetsammanträde 14–15 december 2026. Enligt Borås Tidning har det nya styret bjudit in oppositionen att lämna förslag till budget 2027.
 Luckor: Inga handlingar för budget 2027 har hittats (KS-version, nämndernas budgetförslag). Kommunstyrelsens handlingar 2026-09-21 och gymnasie- och vuxenutbildningsnämndens handlingar 2026-01-27 innehåller inget budgetunderlag för 2027 som nämner reformen. Borås Tidnings artikel om budgeten ligger bakom betalvägg. Remissvar på SOU 2025:26 hittades inte.
 
@@ -47,16 +47,29 @@ DA Digitaliseringsavdelningen
 M Mark och exploatering
 ```
 
+**Rader om budget och 2027**
+
+- s. 53: Flera projekt som budgeterats under 2026 har blivit försenade och kommer istället att belasta 2027 eller
+- s. 272: satserna för 2026 i stället för med skattesatserna för 2027.
+- s. 283: budgetar som upprättas 2027 och fastställs för budgetåret 2028 och
+- s. 483: om de skattesatser som fastställs i budgetbesluten under 2027.
+- s. 483: med de skattesatser som gäller 2026 i stället för de som gäller 2027,
+- s. 483: i besluten om skattesats som tas under 2027, men de kommer inte ha
+- s. 489: 2027 och fastställs för budgetåret 2028 och kommunal verksam-
+- s. 501: 2027. Ett ikraftträdande den tidpunkten skulle innebära att de budget-
+- s. 501: rättas under 2027 och fastställs för budgetåret 2028 kommer omfattas
+- s. 501: budgetåret 2027 och den verksamhet som bedrivs när lagen träder i
+- s. 559: för 2026 i stället för med skattesatserna för 2027.
+- s. 560: ställs i budgetbeslut efter lagens ikraftträdande under 2027.
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: Kommunstyrelsens ledamöter och ersättare kallas härmed till sammanträde i
-- s. 1: Kommunstyrelsens sessionssal, Stadshuset, måndagen den 1 juni 2026 kl.
-- s. 1: Kommunstyrelsens sammanträde är öppet för allmänheten (utom vid ärenden
-- s. 1: Kommunstyrelsens ordförande Kommunsekreterare
-- s. 3: 6. Kc3 Tertialrapport 1 2026 Kommunstyrelsen
-- s. 5: Kommunstyrelsen
-- s. 5: BESLUTSFÖRSLAG
+- s. 84: kommunanställda i Borås Stad erhållit under år 2027 med undantag för särskilda satsningar.
+- s. 101: kommunanställda i Borås Stad erhållit under år 2027 med undantag för särskilda satsningar.
+- s. 106: Därmed fastställs GN till 72 280 kronor för år 2027.
+- s. 283: budgetar som upprättas 2027 och fastställs för budgetåret 2028 och
+- s. 483: om de skattesatser som fastställs i budgetbesluten under 2027.
+- s. 483: i besluten om skattesats som tas under 2027, men de kommer inte ha
 
 **Skola och utbildning (rader med belopp)**
 

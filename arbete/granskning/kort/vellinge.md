@@ -2,7 +2,7 @@
 
 Webbplats: https://www.vellinge.se/
 Portal: ingen känd
-Hämtade dokument: 1, hämtfel: 3
+Hämtade dokument: 1, hämtfel: 8
 Nuvarande sammanfattning: Senaste budget som hittades är Budget 2026 med ekonomisk plan 2027–2028 (KF 2025-11-24). Den nämner inte reformen. Ingen budget 2027 hittades. Vellinge beslutar normalt budget i KF i november.
 Luckor: Förslaget till budget 2027 och KF-datum (troligen november/december 2026) hittades inte. Sidan Styrning och uppföljning ger inga datum. Moderaternas nyhetssida (augusti 2026) tar upp skola men inte budget 2027 eller undervisningstid. Sidan "Ekonomi, budget och kommunal skattesats" kunde inte hämtas (URL:en fanns inte i sökresultaten).
 

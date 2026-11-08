@@ -2,7 +2,7 @@
 
 Webbplats: https://www.bracke.se/
 Portal: ingen känd
-Hämtade dokument: 3, hämtfel: 4
+Hämtade dokument: 3, hämtfel: 6
 Nuvarande sammanfattning: Kommunplan 2026–2028 är beslutad av KF (§ 229/2025) och nämner inte reformen. Den anger att KF beslutar kommunplanen i december. Inga budgethandlingar för 2027 hittades.
 Luckor: Kommunplan 2027–2029 och budgetunderlag från skol- och barnomsorg för 2027 hittades inte. Det maximala antalet sökningar (3) är använt. Datum för KF § 229/2025 framgår inte.
 

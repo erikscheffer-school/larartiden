@@ -2,19 +2,119 @@
 
 Webbplats: https://www.grums.se/
 Portal: ingen känd
-Hämtade dokument: 16, hämtfel: 0
+Hämtade dokument: 27, hämtfel: 0
 Nuvarande sammanfattning: Sökningarna gav inga relevanta handlingar från Grums kommun.
 Luckor: Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). grums.se:s dokument indexerades inte i sökresultaten.
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### 21 oktober pdf, 148.9 kB, öppnas i nytt fönster.
 
-Senast daterade hämtade dokument:
+https://www.grums.se/download/18.4b8a85d81a12f64e11cc54b/1791983812318/Kallelse%20KS%202026-10-21.pdf
 
-- Ks 24 mars 2026, Grums kommun | Kommunmannen – https://kommunmannen.se/grums/mote/kommunstyrelsen/2026-03-24/
-- Budget 2026 plan 2027–2029 Beslutad av kommunfullmäktige juni 2025 – https://www.grums.se/download/18.2535bfc719b353d604d601e9/1768285540925/Budget%202026%20plan%202027-2029.pdf
-- Nollbudget väntar under det tuffaste året på länge – Värmlands Folkblad – https://www.vf.se/nyheter/nollbudget-vantar-under-det-tuffaste-aret-pa-lange
-- Här kan två förskoleavdelningar stängas – Nya Wermlands-Tidningen – https://www.nwt.se/grums/har-kan-tva-forskoleavdelningar-stangas
-- Budget 2025 samt plan 2026-2028 pdf, 19.5 MB, öppnas i nytt fönster. – https://www.grums.se/download/18.367f25c3193ded7cd4c36f0/1765276364467/Budget%202025%20plan%202026-2028.pdf
-- Bilaga till § 50 kf 16 juni Budgetförslag (M) och (C) pdf, 142.6 kB, öppnas i nytt fönster. – https://www.grums.se/download/18.6679637817245a8738917dc2/1594893890960/Bilaga%201%20%C2%A7%2050%20Budgetf%C3%B6rslag%20M%20och%20C.pdf
-- Bilaga till § 50 kf 16 juni Budgetförslag (SD) pdf, 148.5 kB, öppnas i nytt fönster. – https://www.grums.se/download/18.6679637817245a8738917dc6/1594893995909/Bilaga%202%20%C2%A7%2050%20Budgef%C3%B6rslag%20SD.pdf
-- 21 februari §§ 1-10 pdf, 165.5 kB, öppnas i nytt fönster. – https://www.grums.se/download/18.67eb62ee16db20b5fc5428/1570782276304/21%20februari%20%C2%A7%C2%A7%201-10.pdf
+Sidor: 4. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+KALLELSE 1(3)
+Datum
+2026-10-21
+Kommunstyrelsens ledamöter
+Ersättare för kännedom
+Kommunstyrelsen kallas till sammanträde
+Plats: Biosalongen Gruvan
+Datum: 2026-10-21
+Tid: 09:00
+Observera att bibliotekshuset inte kan användas för sammanträden. Partier
+som önskar hålla gruppmöte behöver själva ordna lokal och bokar via
+kontaktcenter.
+Förhinder anmäls till kommunstyrelse@grums.se
+Tider för information och föredragningar
+09:00-09:20 Delårsbokslut 31 augusti 2026 Stiftelsen Grums kommuns
+hyresbostäder och Grums kommuns hyresbostäder AB, samt
+Förvärv av fastighet, Henrik Westlund
+09:20-09:40 Begäran planuppdrag norra Nyängen, Magnus Ådén
+09:40-10:00 Begäran om uppdrag att förvärva mark, Magnus Ådén
+10:00-10:15 Investering för anläggning av väg – Lindövägen, Magnus Ådén
+10:15-10:30 Avveckla två avdelningar inom förskolan, Gustav Hagerskog
+10:30-10:40 Paus
+10:40-10:50 Ekonomisk uppföljning IFO, Maria Jörnmyr
+10:50-11:05 Mål och indikatorer 2027, Erica Andrén
+11:05-11:20 Delårsrapport 31 augusti 2026 Grums kommun,
+Erica Andrén/Anna Bratt
+11:20 Frågor inför beslutsärenden
+Ärende
+1. Förvaltningsledningen informerar
+```
+
+**Rader om budget och 2027**
+
+- s. 2: 6. Revidering investeringsbudget 2027, plan 2028-2030
+- s. 2: 9. Revidering driftbudget för verksamhetsåret 2027
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 1: 10:15-10:30 Avveckla två avdelningar inom förskolan, Gustav Hagerskog
+
+**Reformorden**
+
+- Inga reformord i hela texten (4 sidor).
+
+### 12 november pdf, 174.9 kB, öppnas i nytt fönster.
+
+https://www.grums.se/download/18.128221711a1a16ed6bec56a/1793946193383/Kallelse%20KF%202026-11-12.pdf
+
+Sidor: 5. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+KALLELSE 1(4)
+Datum
+2026-11-12
+Kommunfullmäktiges ledamöter
+Ersättare för kännedom
+Kommunfullmäktige kallas till sammanträde
+Plats: A-salen Gruvan
+Datum: 2026-11-12
+Tid: 09:00
+Förhinder anmäls till kommunstyrelse@grums.se
+Lokaler för gruppmöten bokas via kontaktcenter.
+Grums kommuns medverkan i val av ombud till Sveriges Kommuner
+och Regioners kongress 2027
+Föredragning & information
+09:00-09:15 Information angående revidering av driftbudget, Anna
+Bratt/Erica Andrén
+Ärende
+1. Val av justerare
+2. Avsägelse av uppdrag som ersättare i kommunfullmäktige, Peter
+Öhman (SD)
+Dnr GKS/2026:844
+3. Avsägelse av politiskt uppdrag som nämndeman i Värmlands
+Tingsrätt, Ulrika Jacobs (M)
+Dnr GKS/2026:880
+4. Avsägelse av uppdrag som ersättare i beredningsgruppen för
+Grumsinitiativ, Matti Nordenström (MP)
+Dnr GKS/2026:799
+5. Valteknisk samverkan 2027-2030
+Dnr GKS/2026:753
+```
+
+**Rader om budget och 2027**
+
+- s. 1: 6. Revidering investeringsbudget 2027, plan 2028-2030
+- s. 2: 9. Revidering driftbudget för verksamhetsåret 2027
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (5 sidor).

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.robertsfors.se/
 Portal: Ciceron
-Hämtade dokument: 11, hämtfel: 0
+Hämtade dokument: 21, hämtfel: 0
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. Träffarna gällde bara äldre dokument: Plan och budget 2023–2025 och verksamhetsplan 2024.
 Luckor: Tre sökningar gav inga KF-protokoll eller budgethandlingar för 2027. Inget relevant har granskats.
 

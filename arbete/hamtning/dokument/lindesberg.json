@@ -1,5 +1,102 @@
 [
  {
+  "url": "https://www.lindesberg.se/download/18.156262aa1a162fd1a88db68/1793026181425/KF%20protokoll%202026-10-19.pdf",
+  "titel": "Protokoll Kommunfullmäktige 2026-10-19\npdf, 365 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "8e3ab20ec5e19118a55bac52e103946c8df876e0fffec88ddd6ab8cea66356dc",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.2c14d28a1a0a877e430351/1789542002352/KF%20protokoll%202026-09-07.pdf",
+  "titel": "KF protokoll 2026-09-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "030e5055cf12300acb6be52bdfa9dead68db8b5027732ee4d0636f87818693d9",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.45f327c1a1630e4cb1b0/1792665888715/Protokoll%20BUN%202026-10-19.pdf",
+  "titel": "Protokoll Barn- och utbildningsnämnden 2026-10-19\npdf, 371.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "3377e73ac3404d2bbb34c0d77bed81ff580eca39f62d382023f22b047b80e623",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "* Nya läroplaner och kursplaner. * Ett nytt och mer likvärdigt betygssystem. * Reglering av tid för undervisningsuppdraget. * Införandet av en tioårig grundskola. Förslag till beslut",
+    "belopp_nara": false
+   },
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Signerade KOPIA Delegationsbeslut - BUN-2026-00131 Ansökningar statsbidrag - 2026-10-08 - Signerade Delegationsbeslut - BUN-2026-00009",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.58e091e51a18c5109696739/1793624811800/Protokoll%20Kommunstyrelsen%202026-10-27.pdf",
+  "titel": "Protokoll Kommunstyrelsen 2026-10-27\npdf, 468.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0164f06b20d5768c87ce5061e919f1c7d9719b029870f7c2c56559c6179469c1",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lindesberg.se/download/18.441e594b1a162ec6c8093ea/1793116498403/Protokoll%20Kommunstyrelsen%20omedelbar%20justering%20%C2%A7%20184%202026-10-27.pdf",
+  "titel": "Protokoll Kommunstyrelsen omedelbar justering § 184 2026-10-27\npdf, 248.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "d929c33f1de6dd1a5ccf4dbd933c7b536a55b78677f18775d9e51d41f48f110d",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.na.se/lindesberg/oppositionens-budget-gick-igenom-efter-omrostning",
   "titel": "Oppositionens budget gick igenom - efter omröstning – Nerikes Allehanda",
   "typ": "html",

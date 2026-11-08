@@ -1,5 +1,211 @@
 [
  {
+  "url": "https://www.ulricehamn.se/download/18.4306cd981a1a1aa711c18c2b/1793785217174/%C3%84rende%2013%20Budget%202027%20och%20ekonomisk%20plan%202028-2029.pdf",
+  "titel": "Ärende 13 Budget 2027 och ekonomisk plan 2028-2029 (pdf) pdf, 7.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "f06d14d7a3e118541d76517f4c2ff55d69705ab838b80f1a1a4a9a4a3567cd60",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 198,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5d02f9bd1a1a16bbb5b4136a/1793888372757/Budgetf%C3%B6rslag%20Sverigedemokraterna%202027.pdf",
+  "titel": "Budgetförslag Sverigedemokraterna 2027 (pdf) pdf, 68.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "1fcc32847792868f8fdaf98d1b2fb0e529fac8b2374eccfaa8483a1321c2dfbe",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5d02f9bd1a1a16bbb5b4136c/1793888426534/Budgetf%C3%B6rslag%20Nya%20Ulricehamn%202027.pdf",
+  "titel": "Budgetförslag Nya Ulricehamn 2027 (pdf) pdf, 2.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "f9085e98fb7be2c65e878a1b4962cb734f6b625579dfd26bbf5f34ef6348316f",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5e9f02991a0d78d5f8d7c2ec/1790677797873/%C3%84rende%207%20Budget%20och%20verksamhetsuppf%C3%B6ljning%20augusti%202026.pdf",
+  "titel": "Ärende 7: Budget- och verksamhetsuppföljning augusti 2026 (pdf) pdf, 6.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "b8d9992dea4f6a021b31d1306defaae619dbde05b3f5c5be122b1db30d0b5442",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 195,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 112,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "rna ska stärka elevernas kunskaper och lärarens roll i klassrummet, och bidra till en tryggare skola. Nya läroplaner och förändrat betygsystem införs. Lärarnas undervisningstid, både i skola och förskola, fastställs. Reformerna, 25 stycken till antalet, kräver ett omfattande arbete av huvudman, rektorer, lärare och stabsfunktioner. De",
+    "belopp_nara": false
+   },
+   {
+    "sida": 70,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "budgetavvikelse om 0,7 mnkr. Enheterna visar en avvikelse på 0 mnkr. Ett överskott finns centralt kopplat till bland annat avstämningen av barnantalet 15 mars, statsbidrag samt familjecentralen. Grundskolan har en positiv budgetavvikelse om 9,1 mnkr. Enheterna visar en avvikelse på 5,9 mnkr och resterande ligger centralt. Kostna",
+    "belopp_nara": true
+   },
+   {
+    "sida": 109,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". Skolskjutsar prognosticeras med ett mindre underskott (- 0,6 mnkr). Medel för medicinska behov (0,4 mnkr) finns för eventuella uppkommande behov till hösten. Statsbidrag för personalförstärkning för specialpedagoger (0,6 mnkr) kom i juni och påverkar resultatet positivt. Enheterna visar en prognos på 1,2 mnkr. 3 enheter progno",
+    "belopp_nara": true
+   },
+   {
+    "sida": 111,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n är 3,5 mnkr. Övergripande: 1,7 överskott handlar om IKE och skolskjutsar/elevtransporter. Vuxenutbildningen: 0,3 kopplat till personalkostnader och inkomna statsbidrag. Nationella programmen: -0,7 kopplat till personalkostnader. IM/modersmål: 0,5 kopplat till personalkostnader och inkomna statsbidrag Anpassad skola: 1,5 vi",
+    "belopp_nara": true
+   },
+   {
+    "sida": 113,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och elevhälsan börjar efterträdaren till höstterminen och det gjorde att det blev en lucka på två månader. Skolpsykolog är rekryterad och började i augusti. Statsbidrag för personalförstärkning inom elevhälsa för 2025 fick vi ett mer positivt beslut (0,4 mnkr) än vad vi förväntade oss. Barn- och elevhälsan har sökt och blivit",
+    "belopp_nara": true
+   },
+   {
+    "sida": 15,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "en av insatserna.  Att prioritera matematik, där flera kurser uppvisar hög andel F och låg genomsnittlig betygspoäng.  Att behålla 100 undervisningstimmar i matematikkurser om 100 poäng och överväga utökad undervisningstid i matematik nivå 1a och 1b.  Att utveckla ett skolövergripande arbete med",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.3ec771981a1630fc8cddb029/1793264713582/%C3%84rendelista%20och%20handlingar%20kommunstyrelsen%202026-11-05.pdf",
+  "titel": "Ärendelista och handlingar 5 november 2026 (pdf) pdf, 8.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "97bbbdd42cf7abb6fa4581bdf59342d9ca32af20b970dd909a9013b8b221f760",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 136,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 59,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "för kränkande behandling av någon i personalen. Ändringen omfattar all personal. Orden lärare och förskollärare har strukits. Enligt Proposition 2025/26:196, Tid för undervisningsuppdraget, bedömer regeringen att det inte alltid måste finnas skriftlig dokumentation för att omständigheterna kring en händelse ska kunna utredas. Det viktiga är att r",
+    "belopp_nara": false
+   },
+   {
+    "sida": 50,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "t finns också pedagogiska hänsyn att beakta. Antalet sökande till naturvetenskapsprogrammet är vanligtvis färre än 16. Om elevantalet överskrider 16 krävs att undervisningstiden i kemi, fysik och biologi utökas för att genom gruppdelningar garantera säkerheten vid laborationer. Det är förenat med kostnader som skolan kan undvika geno",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5d02f9bd1a1a16bbb5b1a100/1793782201987/Protokoll%20kommunfullm%C3%A4ktige%202026-10-29.pdf",
+  "titel": "Protokoll (pdf) pdf, 628.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "2d03fd1bfeb607c70314033b78d8aa83ca155a11eb87969a68d2729d30b12904",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 42,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.3ec771981a1630fc8cdb8492/1793171527914/Protokoll%20kommunfullm%C3%A4ktige%202026-10-22.pdf",
+  "titel": "Protokoll (pdf) pdf, 529.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "dca2d4e56c0406688fa63b2500a40d5b5db9095a9ec974e9086a15c34cc53f55",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.5d1f31c21a163242f961a6c6/1792741613252/Protokoll%20kommunstyrelsen%202026-10-21.pdf",
+  "titel": "Protokoll 21 oktober 2026 (pdf) pdf, 197.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0c762dc57beed5c7ecbd0715615e1c927c79823758c5942020b98b33ebe88bf8",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ulricehamn.se/download/18.3b8ea2411a161fafdc92cd9/1793025059795/Protokoll%20kommunstyrelsen%202026-10-15.pdf",
+  "titel": "Protokoll 15 oktober 2026 (pdf) pdf, 640.2 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "c6debee4ba6d1625e9e85416088515df4bbd4a5463bb2f6e3fe6860a9793aa5f",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 49,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ulricehamn.se/download/18.2c7e3f0319c6ccd4d2cb8044/1771831980863/Planbeskrivning%20samr%C3%A5d%20detaljplan%20f%C3%B6r%20Vegby%204.74%20m.fl.pdf",
   "titel": "PLANBESKRIVNING DETALJPLAN FÖR VEGBY 4:74 m.fl",
   "typ": "pdf",

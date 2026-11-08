@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.hallandsposten.se/asikter/debatt/europa-brinner-men-i-hylte-ar-klimatet-en-ickefraga.3cf30b0b-3e4c-46cf-993e-3fc3b4454a98",
+  "titel": "Europa brinner – men i Hylte är klimatet en ickefråga | Hallandsposten",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "9fa791de83ff32f1ac7026a50953685a68e07ed161f00c9a63c7aa1754c57ff7",
+  "sökning": 6,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.hallandsposten.se/asikter/ledare/nar-ekonomin-vander-upp-kan-de-morka-molnen-over-hylte-skingras.e582e3bd-cac1-570b-b0df-869f640beb23",
   "titel": "När ekonomin vänder upp kan de mörka molnen över Hylte skingras | Hallandsposten",
   "typ": "html",

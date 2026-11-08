@@ -1,5 +1,22 @@
 [
  {
+  "url": "https://www.are.se/download/18.19e18a4a1a12f89aa05165ab/1792525172474/2026-10-20%20Anslag%20kommunstyrelsens%20arbetsutskott.pdf",
+  "titel": "2026-10-20 Anslag kommunstyrelsens arbetsutskott.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "c5803fe016f15c969e32be3964aee791234a8fb54305e708bf43408cf385d251",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "ocr": true
+ },
+ {
   "url": "https://are.se/download/18.4c73110e19d8af8a2d173b/1776178087141/2026-04-14.pdf",
   "titel": "ÅRE KOMMUN SAMMANTRÄDESPROTOKOLL Barn- och utbildningsnämnden Sammanträdesdatum",
   "typ": "pdf",

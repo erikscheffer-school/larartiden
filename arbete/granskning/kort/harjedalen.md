@@ -2,7 +2,7 @@
 
 Webbplats: https://www.herjedalen.se/
 Portal: ingen känd
-Hämtade dokument: 11, hämtfel: 0
+Hämtade dokument: 22, hämtfel: 0
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. SVT rapporterade i februari 2026 att skolorna överskred budget 2026 med 14 mnkr, vilket motsvarar 20–30 tjänster. Artikeln nämner inte reformen.
 Luckor: Kommunens budgetsida och mötesportal hittades inte via sökningarna, så budgethandlingar 2027 och KF-datum saknas. Det maximala antalet sökningar (3) är använt.
 
@@ -47,16 +47,22 @@ Martin Wåhlin-Kämpedal, ekonomichef Vatten och Miljöresurs Mitt AB § 92
 Linda Widegren, Sweco § 94
 ```
 
+**Rader om budget och 2027**
+
+- s. 23: kronor. Medel anslås i kommunens budget 2027.
+- s. 32: Finansiering hanteras i budget 2027.
+- s. 34: och ersätts med formuleringen ”finansiering hanteras i budget 2027”.
+- s. 45: Ljusnan-Voxnan vattenvårdsförbund, Förslag budget 2027
+- s. 45: Ljusnan-Voxnan vattenvårdsförbund, Förslag verksamhetsplan 2027
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: Beslutande Ledamöter
-- s. 1: Åke Remén, kost- och servicechef § 95 (ej vid beslut)
-- s. 1: Anneli Stenberg, socialt ansvarig samordnare § 95 (ej vid beslut)
-- s. 1: vid beslut)
-- s. 1: vid beslut), 98
-- s. 2: Kommunstyrelsen
-- s. 2: § 96 Antagande av detaljplan Funäsdalen 8:112, 2026/50
+- s. 6: Fastighetsnära insamling (FNI) blir obligatoriskt från 2027, enligt beslut
+- s. 21: Kommunfullmäktige beslutar att kommunstyrelsen under åren 2026–2027
+- s. 21: kommunstyrelsen rätt att under åren 2025–2027 nyupplåna 1 200 miljoner
+- s. 21: kommunstyrelsen under åren 2026–2027 har rätt att omsätta de lån som
+- s. 23: Kommunfullmäktige antar ägardirektiv 2027 för Jämtlands
+- s. 23: Ett förslag till ägardirektiv 2027 för Jämtlands räddningstjänstförbund har
 
 **Skola och utbildning (rader med belopp)**
 
@@ -111,16 +117,16 @@ Kristina Pålsson, kommunarkivarie § 12
 Tony Lööw, förvaltningschef bildningsförvaltningen § 16
 ```
 
+**Rader om budget och 2027**
+
+- s. 3: § 40 Budgetprocess 2027–2030, information
+- s. 45: förutsättningar och äskande för budget 2027
+- s. 64: Budgetprocess 2027–2030, information
+- s. 64: tänker sig processen att ta fram förslag till budgetar för åren 2027–2030
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: Beslutande Ledamöter
-- s. 1: Josef Rundström, planarkitekt §§ 6–7 (ej vid besluten)
-- s. 1: Kristoffer Saengsee-Eskilsson, planarkitekt §§ 6–7 (ej vid besluten)
-- s. 2: Kommunstyrelsen
-- s. 2: § 15 Kommunstyrelsens delegationsordning 2026/125
-- s. 3: Kommunstyrelsen
-- s. 3: § 28 Delegationsbeslut
+- s. 64: tänker sig processen att ta fram förslag till budgetar för åren 2027–2030
 
 **Skola och utbildning (rader med belopp)**
 
@@ -176,16 +182,20 @@ Barbro Eriksdotter (C) §§ 52–53, 56–57,
 59
 ```
 
+**Rader om budget och 2027**
+
+- s. 12: kronor. Medel anslås i kommunens budget 2027.
+- s. 22: kostnadsökningar som hanteras i beredningen av budget 2027.
+- s. 24: kostnader för arvoden. Detta hanteras i beredningen av budget 2027.
+
 **Beslut och förslag**
 
-- s. 1: Kommunfullmäktige
-- s. 1: Beslutande Ledamöter
-- s. 2: Kommunfullmäktige
-- s. 2: § 42 Antagande av detaljplan Funäsdalen 8:112, 2026/50
-- s. 3: Kommunfullmäktige
-- s. 3: 2025, kommunstyrelsen
-- s. 3: § 64 Ej verkställda beslut 2025 2025/88
-- s. 3: § 65 Handläggningsläge härjedalsförslag
+- s. 12: Kommunfullmäktige antar ägardirektiv 2027 för Jämtlands
+- s. 12: Ett förslag till ägardirektiv 2027 för Jämtlands räddningstjänstförbund har
+- s. 12: Kommunfullmäktige antar ägardirektiv 2027 för Jämtlands
+- s. 18: Kommunstyrelsen har under åren 2026–2027 rätt att omsätta de lån som
+- s. 18: kommunstyrelsen rätt att under åren 2025–2027 nyupplåna 1 200 miljoner
+- s. 18: Kommunfullmäktige beslutar att kommunstyrelsen under åren 2026–2027 har
 
 **Skola och utbildning (rader med belopp)**
 

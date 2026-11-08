@@ -2,7 +2,7 @@
 
 Webbplats: https://www.gnosjo.se/
 Portal: ingen känd
-Hämtade dokument: 17, hämtfel: 1
+Hämtade dokument: 28, hämtfel: 1
 Nuvarande sammanfattning: Inga budgetdokument 2027 hittades. I KS-protokollet 2026-03-10 nämns budget 2027 bara i en fråga om markundersökning (§ 72), och reformen nämns inte. Mötessidan listar KF-sammanträden 2026 (bl.a. 06-25, 08-27, 09-24, 10-29) med protokoll, men dessa PDF:er gick inte att hämta.
 Luckor: KF-protokollen och föredragningslistorna 2026 (06-25, 08-27, 09-24, 10-29) är länkade på mötessidan, men hämtningen vägrades (inte tillåten URL). Därför är det okänt om och när budget 2027 beslutades. Inget KF-sammanträde i november–december 2026 är listat. Kultur- och utbildningsnämndens underlag har inte granskats.
 
@@ -47,15 +47,13 @@ KS/2026:193
 KS/2026:194
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 23. Förslag till verksamhetsbudget 2027 samt investeringsplan 2027-2029 för SÅM
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: 1. Godkännande av dagordning och val av justerare
-- s. 1: 7. Medborgarförslag gällande 15 timmars regeln på förskolan
-- s. 2: 14. Information från kommunstyrelsens ordförande
-- s. 2: 21. Medborgarförslag gällande simundervisningen i Töllstorpshallen
 - s. 2: 23. Förslag till verksamhetsbudget 2027 samt investeringsplan 2027-2029 för SÅM
-- s. 2: 26. Delegationsbeslut 2026
 
 **Skola och utbildning (rader med belopp)**
 
@@ -108,16 +106,12 @@ KS/2026:247
 (Kl.14.00)
 ```
 
+**Rader om budget och 2027**
+
+- s. 2: 17. Budgetramar 2027-2029
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: 1. Godkännande av dagordning och val av justerare
-- s. 1: 3. Medborgarförslag angående öppettider för kommunens gym
-- s. 1: 4. Medborgarförslag gällande hundpark i Gnosjö tätort
-- s. 2: 13. Information från kommunstyrelsens ordförande
-- s. 2: 20. Revidering av kommunstyrelsens delegationsordning
-- s. 2: 22. Förslag på förändringar efter översyn av kommunens stöd till bolag och stiftelser
-- s. 2: 23. Förslag på nya stadgar för Gnosjöregionens Näringslivsråd
 
 **Skola och utbildning (rader med belopp)**
 
@@ -168,16 +162,19 @@ Anna Andersson, verksamhetschef, §§ 171-177
 Annika Åkerlund, socialsekreterare, § 171
 ```
 
+**Rader om budget och 2027**
+
+- s. 3: § 183 Budgetramar 2027-2029
+- s. 31: Budgetramar 2027-2029
+- s. 31: att godkänna majoritetens förslag till budgetramar för 2027-2029 med
+- s. 31: Budgetramar 2027-2029 C+KD+M.
+
 **Beslut och förslag**
 
-- s. 1: Kommunstyrelsen
-- s. 1: Beslutande:
-- s. 2: Kommunstyrelsen
-- s. 3: Kommunstyrelsen
-- s. 3: § 167 Godkännande av dagordning och val av justerare
-- s. 3: § 169 Medborgarförslag angående öppettider för kommunens gym
-- s. 3: § 170 Medborgarförslag gällande hundpark i Gnosjö tätort
-- s. 3: § 179 Information från kommunstyrelsens ordförande
+- s. 31: att godkänna majoritetens förslag till budgetramar för 2027-2029 med
+- s. 31: kommunstyrelsen under år 2027 har rätt att nyupplåna, dvs, öka kommunens
+- s. 43: att anse räddningsnämndens beslut om planeringsunderlag för 2027 som
+- s. 43: planeringsunderlag för 2027. Beslutet har översänts till respektive
 
 **Skola och utbildning (rader med belopp)**
 

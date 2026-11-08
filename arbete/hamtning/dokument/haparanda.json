@@ -1,5 +1,273 @@
 [
  {
+  "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381",
+  "titel": "föräldrabalken .\nLänk till annan webbplats.",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "ecb2d478e87a9cf09296c084b8da8e0f096fb4be5e344531805fab2478198cb0",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf4f/1734685228461/Protokoll%20BUN%202023-12-13.pdf",
+  "titel": "Barn- och ungdomsnämnden 2023-12-13\npdf, 482.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "d1f8b6e9f4118451ea1f42f3df8b91df339b9cbabba1eb9d9969a184e6abf0ca",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf78/1734685434399/Barn-%20och%20ungdomsn%C3%A4mnden%202024-02-15%20Omedelbart%20justerat%20signerat.pdf",
+  "titel": "Barn- och ungdomsnämnden 2024-02-15 \npdf, 272.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "300894eb610368c6d6a5a6ba9885075c4e0a03c965bc40c122e94dae0819ea2a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Handledaren ska vara en för detta ändamål lämplig person. Undervisningen i moderna språk för årskurs 6 har totala undervisningstiden min/vecka 1355 varav fjärrundervisning 25 min/vecka. Fjärrundervisningens omfattning: 25/1355 blir 1,85% av tot",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf7a/1734685445777/Protokoll%20-%20Barn-%20och%20ungdomsn%C3%A4mnden%202024-02-15%20signerat.pdf",
+  "titel": "Barn- och ungdomsnämnden 2024-02-15\npdf, 626.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "3cf58f1aef0269e30088e587a66fbb7818ac76000abf22c433cb54a0b50bc958",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 35,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 33,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Barn- och ungdomsnämnden tar del av periodens delgivningar. Beslutsunderlag • Cirkluär, Statsbidrag till Ibn Rushd studieförbund inkl. bilaga • Informationsbrev till huvudmän och samordnare för nyanländas",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf7c/1734685460604/Protokoll%20-%20Barn-%20och%20ungdomsn%C3%A4mnden%202024-04-11%20signerat.pdf",
+  "titel": "Barn- och ungdomsnämnden 2024-04-11\npdf, 415.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "721fe884d58dcd4baf9170ba57bb3c136eb074a617305797f4cfe4ddcf6a6599",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "m och förvaltningschef föredrar information om förvaltningens ekonomiska läge. Information ges särskilt gällande statsbidrag för akutskola samt livsmedel där kostnadsutvecklingen är osäker. Förvaltningen budgeterar för perioden ett under",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf7e/1734685474495/Protokoll%20-%20Barn-%20och%20ungdomsn%C3%A4mnden%202024-05-16%20signerat.pdf",
+  "titel": "Barn- och ungdomsnämnden 2024-05-16\npdf, 524.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0f1f9300ffba6ba533a078ebb007a00ee918d0d5703bad9461bdbf5b40a3313a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 16,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Skolutvecklaren presenterar förslag till reviderad timplan för grundskolan. Timplanen ger utökad tid utöver den garanterade undervisningstiden med 129 minuter i lågstadiet, 38 minuter i mellanstadier och 45 minuter i högstadiet. Utökad tid i lågstadiet h",
+    "belopp_nara": false
+   },
+   {
+    "sida": 17,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "till reviderad timplan för tvåspråkig undervisning i grundskolan. Timplanen ger utökad tid utöver den garanterade undervisningstiden med 129 minuter i lågstadiet, 38 minuter i mellanstadier och 45 minuter i högstadiet. Utökad tid i lågstadiet har främst",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ingen presenterar förslag till reviderad timplan för Språkskolan. Timplanen ger utökad tid utöver den garanterade undervisningstiden med 147 minuter i lågstadiet, 82 minuter i mellanstadier och 45 minuter i högstadiet. Föreslagen timplan föres",
+    "belopp_nara": false
+   },
+   {
+    "sida": 19,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "implan för anpassad grundskola. Timplanen för ämnen ger utökad tid utöver den garanterade undervisningstiden med 18 minuter i lågstadiet, 14 minuter i mellanstadier och 20 minuter i högstadiet. Timplanen för ämnesområde",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf80/1734685491362/Protokoll%20-%20Barn-%20och%20ungdomsn%C3%A4mnden%202024-06-13%20signerat.pdf",
+  "titel": "Barn- och ungdomsnämnden 2024-06-13\npdf, 784.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "b6b49646f880aa39e2ff13362de0cb04ff2e4c531eeeae340a770541c3bad366",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "v ärendet Förskolornas rektorer och förskoleutvecklare informerar nämnden om verksamheten. Information ges om förskolans undervisningsuppdrag som regleras i läroplan samt hur verksamheten är organiserad i kommunen. Inom förskolan i Haparanda finns idag färre än 300 barn insk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 3,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "n ................................................................................. 16 § 76 Motionssvar - Ge möjlighet till fler undervisningstimmar efter skoldagens slut,........................................................................................... 19 § 77",
+    "belopp_nara": false
+   },
+   {
+    "sida": 19,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "Mötesdatum 2024-06-13 § 76 Motionssvar - Ge möjlighet till fler undervisningstimmar efter skoldagens slut, Barn- och ungdomsnämndens beslut Barn- och ungdomsnämnden beslutar att; • före",
+    "belopp_nara": false
+   },
+   {
+    "sida": 20,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ed 38 timmar svenska/svenska som andraspråk och 28 timmar matematik utöver vad som är reglerad som garanterad undervisningstid. 3. Resurser till utökad undervisning efter skoldagens slut Utökad undervisning efter skoldagens slut kräver behör",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf93/1734685749039/E-signerat%20Omedelbart%20justerat%20sammantr%C3%A4desprotokoll%20kommunstyrelsen%202023-01-16%202%C2%A7.pdf",
+  "titel": "Kommunstyrelsen 2023-01-16\npdf, 270.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "0682d05bf4f65449b0af57267a55c9993d3429234298f6ef6ecfbed2fc8534e1",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdf9f/1734685771990/E-signerat%20Sammantr%C3%A4desprotokoll%20kommunstyrelsen%202023-01-16.pdf",
+  "titel": "Kommunstyrelsen 2023-01-16\npdf, 826.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9219faf4aa740e6dc814550e7cd8c922a28e1c650cd029ac7428077d615a9d19",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 59,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 35,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "driften prognostiserar BUN ett underskott på 1,5 mkr (ökad sjukfrånvaro och stigande priser pga. inflation). Posten skatter/statsbidrag avviker positivt mot budget då SKR:s prognoser förbättrats kraftfullt, framför allt när det gäller skatteintäkter",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdff1/1734686279671/E-signerat%20Sammantr%C3%A4desprotokoll%20kommunstyrelsne%202023-02-13.pdf",
+  "titel": "Kommunstyrelsen 2023-02-13\npdf, 1.1 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "5690021bd23d16346272addb2f5e645bca0f211a1fb20e609b91758931e617ba",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.haparanda.se/download/18.13c210f1193dec8a1fdfb5/1734685879660/E-signerat%20Sammantr%C3%A4desprotokoll%20extra%20kommunstyrelsen%202023-03-07.pdf",
+  "titel": "Kommunstyrelsen extrainsatt sammanträde 2023-03-07\npdf, 364.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "f25033a092ca0d0576730ff9493efd5a4d145505830997c0f5648ca60cb95bba",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.haparanda.se/download/18.206eb4e18fe7aa6afb8d8f6/1718176999638/M%C3%A5l%20och%20strategi%20-%20kommunfullm%C3%A4ktiges%20inriktning.pdf",
   "titel": "Läs hela mål och straregi- kommunfullmäktiges inriktningar  pdf, 441.3 kB.",
   "typ": "pdf",

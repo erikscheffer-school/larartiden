@@ -1,5 +1,242 @@
 [
  {
+  "url": "https://www.hultsfred.se/artikel/sa-ar-platserna-i-kommunfullmaktige-fordelade-ar-2027-2030/",
+  "titel": "Så är platserna i kommunfullmäktige fördelade år 2027-2030 | Hultsfreds kommun",
+  "typ": "html",
+  "hämtad": "2026-11-08",
+  "sha256": "09c9c2f1ce752595330f36da82e26ba01eeceec1f263e06b8735a53bac66724c",
+  "sökning": 6,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/08/Protokoll_BUN_20260826_webb.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "1dcc5827613c49a879a9f4338fbff2293f5fb02bf7d3a5659a79c16ae3149908",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ningsnämnden. 2026-06-22, §113/2026, Förslag till taxor för förskola och fritidshem 2026. 3. Skolverket Beslut om statsbidrag för höjda löner till lärare och vissa andra personalkategorier för 2025/2026. Beslut om statsbidrag för personalförstärkning 2026.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2026/06/Kallelse-BUN-2026-05-24.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "cf998b6b0ad351d921c922255e0423655ccf7f7e6eefabdf6a9397a90eeff528",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2022/03/Protokoll-BUN-2026-06-24-dig-sign.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "08485da39cae333107b2827c3b02228cbef2fbce5ece25a1a4120f15eca0d5e1",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "ocr": true
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2022/03/Protokoll-BUN-26-05-27.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "c04a40fa4a9f8c39ed9e7f3a624947b9058fe258fa118d6a6f28e4be3a145739",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "§ 46 Ekonomi månadsuppföljning 2026 7 § 47 Förslag taxor för förskola och fritidshem 8-9 2026 § 48 Statsbidrag 2025-2026 10 § 49 Presentation av sammanställning årlig 11 uppföljning SAM avser BUN 2025 § 50",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r månad för det första, andra respektive tredje barnet i förskolan respektive fritidshemmet från den 1 juli 2026. Ärendebeskrivning Statsbidrag för maxtaxa utbetalas till kommuner som kompensation för att de har maxtaxa för bland annat förskola och fritidshem. För att få statsbidrag f",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/11/Kallelse-till-extra-barn-och-utbildningsnamnd-2025-12-04.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "1803e3b3de6aeeaf3d7f732b5eabf959fab08cda8effbdc7024acb7ccf345933",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/12/Protokoll-fran-barn-och-utbildningsnamndens-extra-sammantrade-2025-12-04.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "d2f9949debf10c0502fabf8c8e65e473e687a7afa36fca59979cf09bc26d07a0",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/12/Kallelse-till-barn-och-utbildningsnamnden-2025-12-10.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "ac27cafd06d1b03c13f6db7d8aae207504011e950b84fe8d91170e80b9d3ce51",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/12/Protokoll-fran-barn-och-utbildningsnamnden-2025-12-10.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "a123441eb8a445abeba4454488a809774229b4d4bdddb26019a292eded5ecc38",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "atser som erbjuds med minst 30 timmar per månad. Barnen behöver inte utnyttja hela tiden, utan bidraget utgår från antalet erbjudna platser. Under 2025 uppgick statsbidraget till 121 370kr. För närvarande finns ingen separat lokalkostnad för omsorgen eftersom den bedrivs i samma lokaler som Örtagårdens förskola. Barnkonsekvensana",
+    "belopp_nara": true
+   },
+   {
+    "sida": 40,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nat skolarbete utanför ordinarie undervisningstid 2024. Skolverket beslutar godkänna redovisningen utan återkrav. Beslut om statsbidrag för undervisning under skollov för 2025. Skolverket beviljar Hultsfreds kommun 43 200 kronor för 2025. Beslut om statsbidrag för inköp",
+    "belopp_nara": true
+   },
+   {
+    "sida": 24,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "debeskrivning Taxor för förskola, fritidshem, musikskola samt uthyrning av skollokaler uppräknas enligt budgetdirektiv inför 2027 års budget. Statsbidrag för maxtaxa utbetalas till kommuner som kompensation för att de har maxtaxa för bland annat förskola och fritidshem. För att få statsbidrag f",
+    "belopp_nara": false
+   },
+   {
+    "sida": 41,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "taskyddspolicy” 5. Kommunstyrelsen 2025-11-18, § 141/2025, Svar på rapport Granskning av bisysslor 6. Barn- och utbildningsförvaltningen Rekvisition av statsbidrag för omsorg under kvällar, nätter och helger HT 2025 Rekvisition av statsbidrag för lärarassistenter 2025. Rekvisition av statsbidrag för lärarlönelyft",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 20
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/10/Kallelse-till-barn-och-utbildningsnamnden-2025-11-06.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9ed7c91ef2b02c266e632a70eb19cc06ff390c1c44f68c2c8e18073224f2f194",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hultsfred.se/files/2025/11/Protokoll-fran-barn-och-utbildningsnamnden-2025-11-06.pdf",
+  "titel": "",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "75c4a4cb53bb3795eb7c5ff38829462266178e3065f02cb08349d038fe7058b0",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 18,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "82/2025, Presidiemöte med barn- och utbildningsnämnden och socialnämnden 4. Barn- och utbildningsförvaltningen Rekvisition av statsbidrag för läromedel och lärarhandledning 2025 Ansökan om statsbidrag för icke-folkbokförda 2025 Rekvisition av statsbidrag för karriärtjänste",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
   "url": "https://www.vimmerbytidning.se/nyheter/hultsfred/artikel/kd-och-m-fick-nej-till-budgetyrkanden-i-hultsfred/jo509q8l",
   "titel": "KD och M fick nej till budgetyrkanden i Hultsfred",
   "typ": "html",

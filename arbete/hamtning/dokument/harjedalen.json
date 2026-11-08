@@ -1,5 +1,264 @@
 [
  {
+  "url": "https://www.herjedalen.se/download/18.2bed2f941a0fb94223512b93/1791192493698/Protokoll%20%20bildningsutskott%2029%20september%202026.pdf",
+  "titel": "Bu 29 september pdf, 1.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "838c51b094a38e391c784b18f6c0a970ee4ff352db52b54ecdb0fb57b3c42e12",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lsens bildningsutskott 2026-09-29 Bu § 39 Meddelanden Skolverket – Beslut om beviljad ansökan. Statsbidrag för fortbildning av lärare och förskollärare för 2026, 2026-05-22. Dnr 8.1.2-2026:0004829 Dnr: KS 2026/188 Skolverket – Beslut om beviljad ansö",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.4bc117f71a0adb12db87512/1789712423468/Protokoll%20valn%C3%A4mnden%202026-09-16%20%20webbversion.pdf",
+  "titel": "Valnämnden 16 september pdf, 443.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "a07c15638f526eb3d13301fd2ed06efadaa36c2d7d1b2e2c2c288f8ffa83edc4",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.fdc03691a12f8cc08a2b887/1792400475739/N%C3%A4mndsprotokoll%20MBN%202026-10-15%20-%20bevissida%20och%20justering.pdf",
+  "titel": "2026-10-15 pdf, 379.6 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "ecfb28ad6cb9824271001895c25c7693730e130c827076ae20cb2b652c2a1b3b",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.719f41c319e44ae9d35104ce/1779460708070/Protokoll%20%20bildningsutskott%2019%20maj%202026.pdf",
+  "titel": "Bu 19 maj pdf, 1.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "7fabe25e73c34c5cbaaf6df7e89efaab558703fbfb58a52316869cfe3d573b35",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ar ekonomisk uppföljning efter utgången av april. Utfallet visar ett underskott på 4 845 000 kronor från fastställd budget. En återbetalning av statsbidrag för personalförstärkning för 2025 på drygt 1,4 miljoner kronor belastar grundskolans budget. Bildningsutskottet för en allmän diskussion om statsbid",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nummer § 29 Fastställande av dagordningen § 30 SSPF - skola, socialtjänst, polis och fritid § 31 Statsbidrag nya socialtjänstlagen § 32 Meddelanden § 33 Information om verksamheten § 34 Information om ekonomi 2025/9",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "KUR 2026/93 Dnr: KS 2026/176 Skolverket – Beslut om avslag på ansökan. Statsbidrag för hjälp med läxor eller annat skolarbete utanför ordinarie undervisningstid för 2026, 2026-04- 24. Dnr 2026:0004619 Dnr: KS 2026/177 Skolverket – Beslut om återbetalning. Statsbidrag för personalförstärkning för 20",
+    "belopp_nara": false
+   },
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ngen med Tävlingsidrott ishockey, LIP , är att ge ishockeyspelande gymnasieelever möjligheten att kombinera gymnasiestudier innehållande schemalagd undervisningstid i ämnet Tävlingsidrott ishockey på skoltid med ishockeyträning och matchspel i föreningsverksamhet under hela gymnasietiden. En grundförutsä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 9
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.2d96cce319dcdc0ad93db4b/1777441866955/Protokoll%20%20bildningsutskott%2027%20april%202026.pdf",
+  "titel": "Bu 27 april pdf, 1.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "ef9232f79eb46d1ca832c0ddfc9f042958ec8e142232fe611b226f73c4773ee5",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.3a2843a519d24bbe8832496c/1774874661114/Protokoll%20%20bildningsutskott%2026%20mars%202026.pdf",
+  "titel": "Bu 26 mars pdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "840864d98cd634de4147b83c79a5b7ab7f540d139b85400ac62e31772d5fd030",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "olan med barn och elever i Härjeåsjön och Olingdal § 24 Övrig fråga, Skolverkets utredning av hanteringen av statsbidraget lärarlönelyftet Sida 2 av 20",
+    "belopp_nara": false
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026-03-26 Bu § 12 Meddelanden Ärende Bildningsutskottet delges följande meddelanden: Skolverket – Ändring av beslut om rekvisition. Statsbidrag för inköp av litteratur 2025, 2026-02-24. Dnr 2026:0002649 Dnr: KS 2025/872 Skolverket – Beslut om beviljad rekvisition. Statsbidrag för kvalit",
+    "belopp_nara": false
+   },
+   {
+    "sida": 20,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "yrelsens bildningsutskott 2026-03-26 Bu § 24 Övrig fråga, Skolverkets utredning av hanteringen av statsbidraget lärarlönelyftet Ärende Karin Holmin (VH) undrar om Skolverkets utredning av kommunens hantering av statsbidraget lärarlönelyftet är avslutad.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.40a6a04219c88fbf42427d6/1771858946244/Protokoll%20%20bildningsutskott%2019%20februari%202026.pdf",
+  "titel": "Bu 19 februari pdf, 1.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "fcb2ba9bc29c497476613b095ed89743d2445c8adad6da7c98a1e7a33d664068",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "en, Tony Lööw presenterar de reformer skolverksamheten står inför. Under de kommande åren genomförs ett antal reformer med fokus på undervisningsuppdraget, stärkt elevhälsa, ökad trygghet och studiero samt förändringar i betygssystemet. Syftet är att renodla lärarnas kunskaps- och undervisning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "g av budgetåret 2025. Preliminärt resultat för bildningsförvaltningen är minus 9 355 000 kronor. Där 2,7 miljoner kronor är återbetalning av statsbidrag för det så kallade lärarlönelyftet. Utskottet diskuterar det preliminära resultatet och åtgärder för att förvaltningen ska hålla si",
+    "belopp_nara": true
+   },
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2026-02-19 Bu § 3 Meddelanden Ärende Kulturrådet – Beslut om godkänd redovisning. Statsbidrag, skapande skola läsåret 2024–2025, 2025-11-27. KUR 2024/1125 Dnr: KS 2024/376 Skolverket – Beslut om återbetalning. Statsbidrag för",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 10
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.4d08143819ea58cac7633de2/1781531703685/Protokoll%20valn%C3%A4mnden%202026-06-12%20%20webbversion.pdf",
+  "titel": "Valnämnd 12 juni pdf, 13.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "2ab533cef2ea6e5291fd2a561400c68378c87db51bd8dd38ecd9bc7dc506daae",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.40a6a04219c88fbf4247e23d/1773319912326/Protokoll%20valn%C3%A4mnden%2010%20mars%202026%20%20webbversion.pdf",
+  "titel": "Valnämnd 10 mars pdf, 1.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "6e6cdab6a07515acfa37dec2d4f51223b415a5715f06f57ec83df1bf53609a7b",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.65f6f1b419c47a6784d392f0/1771427643286/N%C3%A4mndsprotokoll%20MBN%202026-01-22%20-%20%20Bevissida%20och%20justering.pdf",
+  "titel": "22 januari 2026-01-22 pdf, 501 kB.2026-01-22 pdf, 165.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "6963c4e886c03bcdbd23b2c82fe043cef0fd4b30e1e5189e80c4cbf350e1784c",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.herjedalen.se/download/18.29d9515d19c890af9f531774/1772443481851/N%C3%A4mndsprotokoll%20MBN%202026-02-26%20-%20bevissida%20och%20justering.pdf",
+  "titel": "2026-02-26 pdf, 504.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-08",
+  "sha256": "9d24be3679c9cadcafb64b10d8b0c791a8c656e657ddc06a390e5b7a22d603e8",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.herjedalen.se/download/18.3ca98e381a1a188b3ad137cf/1793977565601/Protokoll%20kommunfullm%C3%A4ktige%202026-10-29%20%20webbversion.pdf",
   "titel": "Kommunfullmäktige 29 oktober\npdf, 3.7 MB.",
   "typ": "pdf",
