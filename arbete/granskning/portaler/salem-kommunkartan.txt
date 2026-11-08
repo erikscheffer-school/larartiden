@@ -1,0 +1,639 @@
+Kommun: Salem  nyckel: kommunkartan
+
+######## SIDA: https://kommunkartan.se/karta/salems-kommun/459335/
+Titel: Nämndplan och budget 2027 för barn- och utbildningsnämnden | Salem 2026
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://kommunkartan.se/karta/salems-kommun/459335/
+POST 204 fetch text/plain https://www.google-analytics.com/g/collect?v=2&tid=G-F0DZ80TC0Q&gtm=45je6b41v9198943882za208zd9198943882xf1&_p=1794126907883&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1755831766.1794126908&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1280x720&uaa=x86&uab=64&uafvl=Not%25
+      POST: 
+POST 204 fetch text/plain https://www.google-analytics.com/g/collect?v=2&tid=G-F0DZ80TC0Q&gtm=45je6b41v9198943882za200zd9198943882xf1&_p=1794126907883&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1755831766.1794126908&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1280x720&uaa=x86&uab=64&
+      POST: 
+GET 200 xhr application/json; charset=UTF-8 https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+      {}
+
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["obliques",[[59.888936896765834,17.2265625],[60.064840460104506,17.9296875]]],["obliques",[[59.71209717332291,17.2265625],[59.888936896765834,17.9296875]]],["obliques",[[59.355596110016315,16.171875],[59.5343180010956,16.875]]],["obliques",[[59.355596110016315,17.9296875],[59.5343180010956,18.28125]]],["obliques",[[59.175928249271372,15.1171875],[59.355596110016315,15.468749999999998]]],["obliques",[[59.175928249271372,16.171875],[59.355596110016315,16.875]]],["obliques",[[59.175928249271372,17.9296875],[59.355596110016315,18.28125]]],["report_map_issue",[[60.413852350464914,14.765625],[60.586967342258674,20.7421875]]],["report_map_issue",[[60.239811169998916,14.765625],[60.413852350464914,20.7421875]]],["report_map_issue",[[60.064840460104506,14.765625],[60.239811169998916,20.7421875]]],["report_map_issue",[[59.888936896765834,14.765625],[60.064840460104506,20.7421875]]],["report_map_issue",[[59.71209717332291,14.765625],[59.888936896765834,20.7421875]]],["report_map_issue",[[59.5343180010956,14.765625],[59.71209717332291,20.7421875]]],["report_map_issue",[[59.355596110016315,14.765625],[59.5343180010956,20.7421875]]],["report_map_issue",[[59.175928249271372,14.765625],[59.355596110016315,19.6875]]],["report_map_issue",[[58.995311187950939,14.765625],[59.175928249271372,19.6875]]],["report_map_issue",[[58.81374171570782,14.765625],[58.995311187950939,19.6875]]],["report_map_issue",[[58.631216643424779,14.765625],[58.81374171570782,19.6875]]],["repo
+      POST: [[[57.85495742306822,14.902034487759996],[60.57238724142446,20.512212177269642]],9,null,"sv",0,"m@802000000",0,0,null,null,null,1,"https://kommunkartan.se/karta/salems-kommun/459335/",1,null,null,"C8B37864-2510-4682-A211-9BB69D25A485"]
+GET 200 fetch application/json https://kommunkartan.se/api/map-item-locations/?published_from_date=2024-11-06&published_to_date=2026-11-08&municipality=salems-kommun
+      [{"id":480091,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.76293156,59.20065346]}},{"id":480081,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78496821,59.20193967]}},{"id":480058,"item_id":301354,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7481348,59.1990393]}},{"id":480061,"item_id":301357,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7694429,59.2040504]}},{"id":480066,"item_id":301361,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7650058,59.2033858]}},{"id":480070,"item_id":301363,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7165672,59.2024205]}},{"id":480077,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7876334,59.20318316]}},{"id":480087,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7818128,59.1990286]}},{"id":480102,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.76306361,59.20059674]}},{"id":480100,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7820542,59.19937802]}},{"id":480098,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78502657,59.2019725]}},{"id":480097,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78747873,59.20309113]}},{"id":466954,"item_id":294960,"source_type_id":3,"geometry":{"type":"Point","coordinates":[17.73
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["report_map_issue",[[59.220934076150449,17.578125],[59.265880628258081,17.75390625]]],["report_map_issue",[[59.175928249271372,17.578125],[59.220934076150449,17.75390625]]],["traffic",[[59.260265549110279,17.64404296875],[59.263073204362868,17.7374267578125]]],["traffic",[[59.257457662487973,17.64404296875],[59.260265549110279,17.7374267578125]]],["traffic",[[59.254649544483662,17.64404296875],[59.257457662487973,17.7374267578125]]],["traffic",[[59.251841195085014,17.64404296875],[59.254649544483662,17.7374267578125]]],["traffic",[[59.249032614279677,17.64404296875],[59.251841195085014,17.7374267578125]]],["traffic",[[59.246223802055376,17.64404296875],[59.249032614279677,17.7374267578125]]],["traffic",[[59.243414758399773,17.64404296875],[59.246223802055376,17.7374267578125]]],["traffic",[[59.240605483300556,17.64404296875],[59.243414758399773,17.7374267578125]]],["traffic",[[59.237795976745389,17.64404296875],[59.240605483300556,17.7374267578125]]],["traffic",[[59.234986238722,17.64404296875],[59.237795976745389,17.7374267578125]]],["traffic",[[59.232176269218044,17.64404296875],[59.234986238722,17.7374267578125]]],["traffic",[[59.229366068221225,17.64404296875],[59.232176269218044,17.7374267578125]]],["traffic",[[59.226555635719215,17.64404296875],[59.229366068221225,17.7374267578125]]],["traffic",[[59.223744971699738,17.64404296875],[59.226555635719215,17.7374267578125]]],["traffic",[[59.220934076150449,17.64404296875],[59.223744971699738,17.737
+      POST: [[[59.21809864352362,17.645174503296207],[59.260557729885655,17.732831971914614]],15,null,"sv",0,"m@802000000",0,0,null,null,null,2]
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["report_map_issue",[[59.175928249271372,17.666015625],[59.220934076150449,17.841796875]]],["report_map_issue",[[59.130863097255904,17.666015625],[59.175928249271372,17.841796875]]],["traffic",[[59.209688178409237,17.6934814453125],[59.212500000200762,17.786865234375]]],["traffic",[[59.206876125026405,17.6934814453125],[59.209688178409237,17.786865234375]]],["traffic",[[59.204063840039964,17.6934814453125],[59.206876125026405,17.786865234375]]],["traffic",[[59.201251323437596,17.6934814453125],[59.204063840039964,17.786865234375]]],["traffic",[[59.198438575207021,17.6934814453125],[59.201251323437596,17.786865234375]]],["traffic",[[59.195625595335933,17.6934814453125],[59.198438575207021,17.786865234375]]],["traffic",[[59.192812383812033,17.6934814453125],[59.195625595335933,17.786865234375]]],["traffic",[[59.189998940623042,17.6934814453125],[59.192812383812033,17.786865234375]]],["traffic",[[59.187185265756661,17.6934814453125],[59.189998940623042,17.786865234375]]],["traffic",[[59.18437135920059,17.6934814453125],[59.187185265756661,17.786865234375]]],["traffic",[[59.181557220942544,17.6934814453125],[59.18437135920059,17.786865234375]]],["traffic",[[59.178742850970224,17.6934814453125],[59.181557220942544,17.786865234375]]],["traffic",[[59.175928249271372,17.6934814453125],[59.178742850970224,17.786865234375]]],["traffic",[[59.173113415833662,17.6934814453125],[59.175928249271372,17.786865234375]]],["traffic",[[59.170298350644821,17.6934814453125
+      POST: [[[59.167909889025125,17.698524232615245],[59.21043133761933,17.786310449067805]],15,null,"sv",0,"m@802000000",0,0,null,null,null,2]
+GET 200 fetch application/json https://kommunkartan.se/api/map-item-locations/459335/
+      {"id":459335,"item_id":291029,"title":"Nämndplan och budget 2027 för barn- och utbildningsnämnden","description":"Barn- och utbildningsnämnden fastställer nämndplan och budget för 2027 med en total ram om cirka 594 miljoner kronor och en investeringsbudget om cirka 4 miljoner kronor. Beslutet omfattar förskola, grundskola, gymnasium, vuxenutbildning, SFI och kulturskola samt betonar god ekonomisk hushållning, löpande uppföljning av kostnadsutveckling och att nödvändiga åtgärder kan behöva vidtas vid förändrade förutsättningar. Fokus ligger på att genomföra nämndens grunduppdrag med god kvalitet och att bidra till kommunprogrammets fokusområden Ett grönt, tryggt och levande Salem, bland annat genom satsningar på trygghet och studiero, mobilförbud i skolan och fortsatt socioekonomisk resursfördelning.","published_date":"2026-10-06T00:00:00Z","start_date":"2027-01-01T00:00:00Z","end_date":"2027-12-31T00:00:00Z","source_name":"Salem","source_type":"kommun_protokoll","source_category":"Kommuner","source_data":{"committee":"Barn- och utbildningsnämnden","protocol_nr":null,"diarienummer":["BUN-2026-00152"],"topic_labels":["förskola","skola","kultur","övrigt"],"topic_number":82,"decision_type":"godkännande","protocol_date":"2026-10-06","public_body_name":"Salem","public_body_type":"municipality","protocol_page_url":"https://salem-sok.ciceron.cloud/#!/search/","aggregated_locations":[{"latitude":59.19566259999999,"longitude":17.754040850000003}]},"labels":["kultur och fritid","utbildn
+POST 200 fetch application/json https://kommunkartan.se/api/map-item-cards/
+      [{"id":480091,"item_id":301366,"title":"Försäljning av fyra kommunalt ägda bostadsrätter","description":"Kommunstyrelsen beslutar att sälja fyra bostadsrätter som ägs av Salems kommun på adresserna Söderby Torg 2B, Söderby torgs allé 14, Trädgårdsmästarstigen 4 och Bergsvägen 1C. Socialförvaltningens analys visar att lägenheterna inte behövs i kommunens framtida bostadsbestånd och att hyresrätter ska prioriteras framför bostadsrätter. Miljö- och samhällsbyggnadsförvaltningen får i uppdrag att genomföra försäljningen på marknadsmässiga villkor.","published_date":"2026-10-26","municipality":"Salems kommun","source_category":"Kommuner","image_path":"/static/logos/public_body/salem.png","committee":"Kommunstyrelsen","path":"/karta/salems-kommun/480091/"},{"id":480058,"item_id":301354,"title":"Förslag till avfallstaxa 2027","description":"Kommunstyrelsen föreslår att kommunfullmäktige fastställer en ny avfallstaxa för 2027, framtagen av SRV återvinning enligt Avfall Sveriges modell. Taxan anpassas till nya lagkrav om bland annat fastighetsnära insamling av förpackningar, obligatorisk matavfallsinsamling samt förändrad ansvarsfördelning för verksamhetsavfall. Avgifterna delas upp i grundavgift och hämtningsavgifter för olika boendeformer, fritidshus och verksamheter, med justeringar utifrån ökade kostnader för behandling, miljökrav och nya tjänster.","published_date":"2026-10-26","municipality":"Salems kommun","source_category":"Kommuner","image_path":"/static/logos/public_body/sal
+      POST: {"ids":[480091,480081,480058,480061,480066,480070,480077,480087,480102,480100,480098,480097,466954,468669,468665,464013,464015,463923,463926,463454]}
+POST 204 fetch text/plain https://www.google-analytics.com/g/collect?v=2&tid=G-F0DZ80TC0Q&gtm=45je6b41v9198943882za200zd9198943882xf1&_p=1794126907883&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=1755831766.1794126908&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1280x720&uaa=x86&ua
+      POST: 
+
+## Länkar (href | text | sammanhang)
+https://kommunkartan.se/ | Kommunkartan | Kommunkartan
+https://kommunkartan.se/karta | Karta | Karta
+https://kommunkartan.se/karta/salems-kommun/459335/# | Salems kommun | Salems kommun
+https://kommunkartan.se/karta/ | Hela Sverige | Hela Sverige Ale Alingsås Alvesta
+https://kommunkartan.se/karta/ale-kommun/ | Ale | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alingsas-kommun/ | Alingsås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alvesta-kommun/ | Alvesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/aneby-kommun/ | Aneby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arboga-kommun/ | Arboga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arjeplogs-kommun/ | Arjeplog | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvidsjaurs-kommun/ | Arvidsjaur | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvika-kommun/ | Arvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/askersunds-kommun/ | Askersund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/avesta-kommun/ | Avesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bengtsfors-kommun/ | Bengtsfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bergs-kommun/ | Berg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjurholms-kommun/ | Bjurholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjuvs-kommun/ | Bjuv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bodens-kommun/ | Boden | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollebygds-kommun/ | Bollebygd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollnas-kommun/ | Bollnäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borgholms-kommun/ | Borgholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borlange-kommun/ | Borlänge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boras-stad/ | Borås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/botkyrka-kommun/ | Botkyrka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boxholms-kommun/ | Boxholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bromolla-kommun/ | Bromölla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bracke-kommun/ | Bräcke | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/burlovs-kommun/ | Burlöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bastads-kommun/ | Båstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dals-eds-kommun/ | Dals-Ed | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/danderyds-kommun/ | Danderyd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/degerfors-kommun/ | Degerfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dorotea-kommun/ | Dorotea | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eda-kommun/ | Eda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ekero-kommun/ | Ekerö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eksjo-kommun/ | Eksjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/emmaboda-kommun/ | Emmaboda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/enkopings-kommun/ | Enköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eskilstuna-kommun/ | Eskilstuna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eslovs-kommun/ | Eslöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/essunga-kommun/ | Essunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fagersta-kommun/ | Fagersta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkenbergs-kommun/ | Falkenberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkopings-kommun/ | Falköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falu-kommun/ | Falun | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/filipstads-kommun/ | Filipstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/finspangs-kommun/ | Finspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/flens-kommun/ | Flen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/forshaga-kommun/ | Forshaga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fargelanda-kommun/ | Färgelanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gagnefs-kommun/ | Gagnef | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gislaveds-kommun/ | Gislaved | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnesta-kommun/ | Gnesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnosjo-kommun/ | Gnosjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotlands-kommun/ | Gotland | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grums-kommun/ | Grums | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grastorps-kommun/ | Grästorp | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gullspangs-kommun/ | Gullspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gallivare-kommun/ | Gällivare | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gavle-kommun/ | Gävle | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/goteborgs-stad/ | Göteborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotene-kommun/ | Götene | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/habo-kommun/ | Habo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hagfors-kommun/ | Hagfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallsbergs-kommun/ | Hallsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallstahammars-kommun/ | Hallstahammar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/halmstads-kommun/ | Halmstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hammaro-kommun/ | Hammarö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haninge-kommun/ | Haninge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haparanda-stad/ | Haparanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/heby-kommun/ | Heby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hedemora-kommun/ | Hedemora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/helsingborgs-stad/ | Helsingborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/herrljunga-kommun/ | Herrljunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hjo-kommun/ | Hjo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hofors-kommun/ | Hofors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/huddinge-kommun/ | Huddinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hudiksvalls-kommun/ | Hudiksvall | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hultsfreds-kommun/ | Hultsfred | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hylte-kommun/ | Hylte | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haabo-kommun/ | Håbo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallefors-kommun/ | Hällefors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harjedalens-kommun/ | Härjedalen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harnosands-kommun/ | Härnösand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harryda-kommun/ | Härryda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hassleholms-kommun/ | Hässleholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoganas-kommun/ | Höganäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hogsby-kommun/ | Högsby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/horby-kommun/ | Hörby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoors-kommun/ | Höör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jokkmokks-kommun/ | Jokkmokk | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jarfalla-kommun/ | Järfälla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jonkopings-kommun/ | Jönköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalix-kommun/ | Kalix | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalmar-kommun/ | Kalmar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlsborgs-kommun/ | Karlsborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlshamns-kommun/ | Karlshamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskoga-kommun/ | Karlskoga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskrona-kommun/ | Karlskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlstads-kommun/ | Karlstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/katrineholms-kommun/ | Katrineholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kils-kommun/ | Kil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kinda-kommun/ | Kinda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kiruna-kommun/ | Kiruna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/klippans-kommun/ | Klippan | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/knivsta-kommun/ | Knivsta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kramfors-kommun/ | Kramfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristianstads-kommun/ | Kristianstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristinehamns-kommun/ | Kristinehamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/krokoms-kommun/ | Krokom | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kumla-kommun/ | Kumla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsbacka-kommun/ | Kungsbacka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsors-kommun/ | Kungsör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungalvs-kommun/ | Kungälv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kavlinge-kommun/ | Kävlinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kopings-kommun/ | Köping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laholms-kommun/ | Laholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/landskrona-stad/ | Landskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laxa-kommun/ | Laxå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lekebergs-kommun/ | Lekeberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/leksands-kommun/ | Leksand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lerums-kommun/ | Lerum | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lessebo-kommun/ | Lessebo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidingo-stad/ | Lidingö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidkopings-kommun/ | Lidköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lilla-edets-kommun/ | Lilla Edet | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lindesbergs-kommun/ | Lindesberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/linkopings-kommun/ | Linköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljungby-kommun/ | Ljungby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusdals-kommun/ | Ljusdal | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusnarsbergs-kommun/ | Ljusnarsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lomma-kommun/ | Lomma | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ludvika-kommun/ | Ludvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lulea-kommun/ | Luleå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lunds-kommun/ | Lund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lycksele-kommun/ | Lycksele | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lysekils-kommun/ | Lysekil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malmo-stad/ | Malmö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malung-salens-kommun/ | Malung-Sälen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mala-kommun/ | Malå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mariestads-kommun/ | Mariestad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/markaryds-kommun/ | Markaryd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/marks-kommun/ | Mark | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/melleruds-kommun/ | Mellerud | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mjolby-kommun/ | Mjölby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mora-kommun/ | Mora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/motala-kommun/ | Motala | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mullsjo-kommun/ | Mullsjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/munkedals-kommun/ | Munkedal | Ale Alingsås Alvesta Aneby
+
+## Knappar
+Salems kommun
+Källor
+Skapa konto
+Stäng
+Visa filter & lista
+Kortkommandon
+Aktivera och inaktivera helskärmsvy
+Kartförklaring
+Byt karttyp
+Min plats
+Helskärm
+Zooma in
+Zooma ut
+Kortkommandon
+Kartdata
+100 m Klicka för att växla mellan meter och miles/fot
+×
+×
+‹
+›
+Läs mer
+Dela
+Avbryt
+Skicka
+Visa filter
+Visa karta
+Källor
+Kategorier
+Salems kommun
+Alla län
+Länk till resultat
+Filtrera
+Återställ filter
+
+## HTML (början av body)
+<body> <!-- Inserting header --> <link rel="stylesheet" href="/static/css/header.b7fc7aa00f42.css"> <script src="/static/js/services/notifications.42bbd7d2b7b2.js" type="module" defer=""></script> <!-- ========== HEADER ========== --> <header id="header" style="background-color: white;"> <div class="container bg-white"> <nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-between align-items-center"> <!-- Logo and Toggle + Collapsible Menu --> <div class="d-flex align-items-center"> <!-- Toggler --> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Växla navigering" style="border: none;"> <span class="navbar-toggler-default" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-list"></i> </span> <span class="navbar-toggler-toggled" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-x"></i> </span> </button> <!-- Logo --> <a class="navbar-brand ms-2 d-flex align-items-center" href="/" aria-label="Kommunkartan"> <img class="navbar-brand-logo" src="/static/brand/kommunkartan-192x192.7a948d8add7d.png" alt="Kommunkartan"> <span class="navbar-brand-text ms-2 fw-bold text-primary">Kommunkartan</span> </a> </div> <!-- Collapsible Menu --> <div class="collapse navbar-collapse" id="navbarNavDropdown"> <ul class="navbar-nav me-auto"> <li class="nav-item"> <a class="nav-link" style="font-size: 0.95rem;" href="/karta" data-ga-function-group="navigation" data-ga-function="map">Karta</a> </li> <!-- Kommuner Dropdown --> <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" style="font-size: 0.95rem;" href="#" id="navbarHeightDropdownSubMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Salems kommun </a> <div class="dropdown-menu" aria-labelledby="navbarHeightDropdownSubMenu" style="min-width: 230px; max-height: 400px; overflow-y: auto;"> <input type="text" class="dropdown-item dropdown-search-input border-0 border-bottom rounded-0 shadow-none text-muted" style="background-color: transparent;" placeholder="Sök kommun..." onkeyup="filterDropdown(this)"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/"> Hela Sverige </a> <div class="dropdown-divider"></div> <div class="dropdown-items-container"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/ale-kommun/"> Ale </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alingsas-kommun/"> Alingsås </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alvesta-kommun/"> Alvesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/aneby-kommun/"> Aneby </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arboga-kommun/"> Arboga </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arjeplogs-kommun/"> Arjeplog </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvidsjaurs-kommun/"> Arvidsjaur </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvika-kommun/"> Arvika </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/askersunds-kommun/"> Askersund </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/avesta-kommun/"> Avesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/bengtsfors-kommun/"> Bengtsfors </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/
+
+######## SIDA: https://kommunkartan.se/karta/salems-kommun/480091/
+Titel: Försäljning av fyra kommunalt ägda bostadsrätter | Salem 2026
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://kommunkartan.se/karta/salems-kommun/480091/
+POST 204 fetch text/plain https://www.google-analytics.com/g/collect?v=2&tid=G-F0DZ80TC0Q&gtm=45je6b41v9198943882za208zd9198943882xf1&_p=1794126912791&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1755831766.1794126908&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&
+      POST: 
+GET 200 xhr application/json; charset=UTF-8 https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+      {}
+
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["obliques",[[59.888936896765834,17.2265625],[60.064840460104506,17.9296875]]],["obliques",[[59.71209717332291,17.2265625],[59.888936896765834,17.9296875]]],["obliques",[[59.355596110016315,16.171875],[59.5343180010956,16.875]]],["obliques",[[59.355596110016315,17.9296875],[59.5343180010956,18.28125]]],["obliques",[[59.175928249271372,15.1171875],[59.355596110016315,15.468749999999998]]],["obliques",[[59.175928249271372,16.171875],[59.355596110016315,16.875]]],["obliques",[[59.175928249271372,17.9296875],[59.355596110016315,18.28125]]],["report_map_issue",[[60.413852350464914,14.765625],[60.586967342258674,20.7421875]]],["report_map_issue",[[60.239811169998916,14.765625],[60.413852350464914,20.7421875]]],["report_map_issue",[[60.064840460104506,14.765625],[60.239811169998916,20.7421875]]],["report_map_issue",[[59.888936896765834,14.765625],[60.064840460104506,20.7421875]]],["report_map_issue",[[59.71209717332291,14.765625],[59.888936896765834,20.7421875]]],["report_map_issue",[[59.5343180010956,14.765625],[59.71209717332291,20.7421875]]],["report_map_issue",[[59.355596110016315,14.765625],[59.5343180010956,20.7421875]]],["report_map_issue",[[59.175928249271372,14.765625],[59.355596110016315,19.6875]]],["report_map_issue",[[58.995311187950939,14.765625],[59.175928249271372,19.6875]]],["report_map_issue",[[58.81374171570782,14.765625],[58.995311187950939,19.6875]]],["report_map_issue",[[58.631216643424779,14.765625],[58.81374171570782,19.6875]]],["repo
+      POST: [[[57.85495742306822,14.902034487759996],[60.57238724142446,20.512212177269642]],9,null,"sv",0,"m@802000000",0,0,null,null,null,1,"https://kommunkartan.se/karta/salems-kommun/480091/",1,null,null,"30FAB9D1-0BC0-4AD7-95AF-0C77D1701749"]
+GET 200 fetch application/json https://kommunkartan.se/api/map-item-locations/?published_from_date=2024-11-06&published_to_date=2026-11-08&municipality=salems-kommun
+      [{"id":480091,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.76293156,59.20065346]}},{"id":480081,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78496821,59.20193967]}},{"id":480058,"item_id":301354,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7481348,59.1990393]}},{"id":480061,"item_id":301357,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7694429,59.2040504]}},{"id":480066,"item_id":301361,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7650058,59.2033858]}},{"id":480070,"item_id":301363,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7165672,59.2024205]}},{"id":480077,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7876334,59.20318316]}},{"id":480087,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7818128,59.1990286]}},{"id":480102,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.76306361,59.20059674]}},{"id":480100,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.7820542,59.19937802]}},{"id":480098,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78502657,59.2019725]}},{"id":480097,"item_id":301366,"source_type_id":1,"geometry":{"type":"Point","coordinates":[17.78747873,59.20309113]}},{"id":466954,"item_id":294960,"source_type_id":3,"geometry":{"type":"Point","coordinates":[17.73
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["report_map_issue",[[59.220934076150449,17.578125],[59.265880628258081,17.75390625]]],["report_map_issue",[[59.175928249271372,17.578125],[59.220934076150449,17.75390625]]],["traffic",[[59.260265549110279,17.64404296875],[59.263073204362868,17.7374267578125]]],["traffic",[[59.257457662487973,17.64404296875],[59.260265549110279,17.7374267578125]]],["traffic",[[59.254649544483662,17.64404296875],[59.257457662487973,17.7374267578125]]],["traffic",[[59.251841195085014,17.64404296875],[59.254649544483662,17.7374267578125]]],["traffic",[[59.249032614279677,17.64404296875],[59.251841195085014,17.7374267578125]]],["traffic",[[59.246223802055376,17.64404296875],[59.249032614279677,17.7374267578125]]],["traffic",[[59.243414758399773,17.64404296875],[59.246223802055376,17.7374267578125]]],["traffic",[[59.240605483300556,17.64404296875],[59.243414758399773,17.7374267578125]]],["traffic",[[59.237795976745389,17.64404296875],[59.240605483300556,17.7374267578125]]],["traffic",[[59.234986238722,17.64404296875],[59.237795976745389,17.7374267578125]]],["traffic",[[59.232176269218044,17.64404296875],[59.234986238722,17.7374267578125]]],["traffic",[[59.229366068221225,17.64404296875],[59.232176269218044,17.7374267578125]]],["traffic",[[59.226555635719215,17.64404296875],[59.229366068221225,17.7374267578125]]],["traffic",[[59.223744971699738,17.64404296875],[59.226555635719215,17.7374267578125]]],["traffic",[[59.220934076150449,17.64404296875],[59.223744971699738,17.737
+      POST: [[[59.21809864352362,17.645174503296207],[59.260557729885655,17.732831971914614]],15,null,"sv",0,"m@802000000",0,0,null,null,null,2]
+GET 200 fetch application/json https://kommunkartan.se/api/map-item-locations/480091/
+      {"id":480091,"item_id":301366,"title":"Försäljning av fyra kommunalt ägda bostadsrätter","description":"Kommunstyrelsen beslutar att sälja fyra bostadsrätter som ägs av Salems kommun på adresserna Söderby Torg 2B, Söderby torgs allé 14, Trädgårdsmästarstigen 4 och Bergsvägen 1C. Socialförvaltningens analys visar att lägenheterna inte behövs i kommunens framtida bostadsbestånd och att hyresrätter ska prioriteras framför bostadsrätter. Miljö- och samhällsbyggnadsförvaltningen får i uppdrag att genomföra försäljningen på marknadsmässiga villkor.","published_date":"2026-10-26T00:00:00Z","start_date":"2026-10-26T00:00:00Z","end_date":null,"source_name":"Salem","source_type":"kommun_protokoll","source_category":"Kommuner","source_data":{"committee":"Kommunstyrelsen","protocol_nr":null,"diarienummer":["KS-2026-00322","TN-2026-00135"],"topic_labels":["övrigt"],"topic_number":107,"decision_type":"godkännande","protocol_date":"2026-10-26","public_body_name":"Salem","public_body_type":"municipality","protocol_page_url":"https://salem-sok.ciceron.cloud/#!/search/","aggregated_locations":[{"latitude":59.201447382941055,"longitude":17.780289164231686}]},"labels":["övrigt"],"geometry":{"type":"Point","coordinates":[17.762931555103957,59.20065346278503]},"location_type":"property","location_description":"Brf Högvreten, bostadsrätt som ska säljas","address":null,"intersection":null,"property":{"id":154376,"centrum_coordinates":{"type":"MultiPoint","coordinates":[[17.762931555103957,59.2006534
+POST 200 fetch application/json https://kommunkartan.se/api/map-item-cards/
+      [{"id":480091,"item_id":301366,"title":"Försäljning av fyra kommunalt ägda bostadsrätter","description":"Kommunstyrelsen beslutar att sälja fyra bostadsrätter som ägs av Salems kommun på adresserna Söderby Torg 2B, Söderby torgs allé 14, Trädgårdsmästarstigen 4 och Bergsvägen 1C. Socialförvaltningens analys visar att lägenheterna inte behövs i kommunens framtida bostadsbestånd och att hyresrätter ska prioriteras framför bostadsrätter. Miljö- och samhällsbyggnadsförvaltningen får i uppdrag att genomföra försäljningen på marknadsmässiga villkor.","published_date":"2026-10-26","municipality":"Salems kommun","source_category":"Kommuner","image_path":"/static/logos/public_body/salem.png","committee":"Kommunstyrelsen","path":"/karta/salems-kommun/480091/"},{"id":480058,"item_id":301354,"title":"Förslag till avfallstaxa 2027","description":"Kommunstyrelsen föreslår att kommunfullmäktige fastställer en ny avfallstaxa för 2027, framtagen av SRV återvinning enligt Avfall Sveriges modell. Taxan anpassas till nya lagkrav om bland annat fastighetsnära insamling av förpackningar, obligatorisk matavfallsinsamling samt förändrad ansvarsfördelning för verksamhetsavfall. Avgifterna delas upp i grundavgift och hämtningsavgifter för olika boendeformer, fritidshus och verksamheter, med justeringar utifrån ökade kostnader för behandling, miljökrav och nya tjänster.","published_date":"2026-10-26","municipality":"Salems kommun","source_category":"Kommuner","image_path":"/static/logos/public_body/sal
+      POST: {"ids":[480091,480081,480058,480061,480066,480070,480077,480087,480102,480100,480098,480097,466954,468669,468665,464013,464015,463923,463926,463454]}
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+      ["Kartdata ©2026 Google",[["report_map_issue",[[59.220934076150449,17.666015625],[59.265880628258081,17.841796875]]],["report_map_issue",[[59.175928249271372,17.666015625],[59.220934076150449,17.841796875]]],["traffic",[[59.220934076150449,17.7154541015625],[59.223744971699738,17.808837890625]]],["traffic",[[59.218122949059065,17.7154541015625],[59.220934076150449,17.808837890625]]],["traffic",[[59.215311590413279,17.7154541015625],[59.218122949059065,17.808837890625]]],["traffic",[[59.212500000200762,17.7154541015625],[59.215311590413279,17.808837890625]]],["traffic",[[59.209688178409237,17.7154541015625],[59.212500000200762,17.808837890625]]],["traffic",[[59.206876125026405,17.7154541015625],[59.209688178409237,17.808837890625]]],["traffic",[[59.204063840039964,17.7154541015625],[59.206876125026405,17.808837890625]]],["traffic",[[59.201251323437596,17.7154541015625],[59.204063840039964,17.808837890625]]],["traffic",[[59.198438575207021,17.7154541015625],[59.201251323437596,17.808837890625]]],["traffic",[[59.195625595335933,17.7154541015625],[59.198438575207021,17.808837890625]]],["traffic",[[59.192812383812033,17.7154541015625],[59.195625595335933,17.808837890625]]],["traffic",[[59.189998940623042,17.7154541015625],[59.192812383812033,17.808837890625]]],["traffic",[[59.187185265756661,17.7154541015625],[59.189998940623042,17.808837890625]]],["traffic",[[59.18437135920059,17.7154541015625],[59.187185265756661,17.808837890625]]],["traffic",[[59.181557220942544,17.715454101562
+      POST: [[[59.178857330857774,17.719788996192566],[59.22136398247752,17.806173481742373]],15,null,"sv",0,"m@802000000",0,0,null,null,null,2]
+
+## Länkar (href | text | sammanhang)
+https://kommunkartan.se/ | Kommunkartan | Kommunkartan
+https://kommunkartan.se/karta | Karta | Karta
+https://kommunkartan.se/karta/salems-kommun/480091/# | Salems kommun | Salems kommun
+https://kommunkartan.se/karta/ | Hela Sverige | Hela Sverige Ale Alingsås Alvesta
+https://kommunkartan.se/karta/ale-kommun/ | Ale | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alingsas-kommun/ | Alingsås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alvesta-kommun/ | Alvesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/aneby-kommun/ | Aneby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arboga-kommun/ | Arboga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arjeplogs-kommun/ | Arjeplog | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvidsjaurs-kommun/ | Arvidsjaur | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvika-kommun/ | Arvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/askersunds-kommun/ | Askersund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/avesta-kommun/ | Avesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bengtsfors-kommun/ | Bengtsfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bergs-kommun/ | Berg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjurholms-kommun/ | Bjurholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjuvs-kommun/ | Bjuv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bodens-kommun/ | Boden | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollebygds-kommun/ | Bollebygd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollnas-kommun/ | Bollnäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borgholms-kommun/ | Borgholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borlange-kommun/ | Borlänge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boras-stad/ | Borås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/botkyrka-kommun/ | Botkyrka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boxholms-kommun/ | Boxholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bromolla-kommun/ | Bromölla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bracke-kommun/ | Bräcke | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/burlovs-kommun/ | Burlöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bastads-kommun/ | Båstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dals-eds-kommun/ | Dals-Ed | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/danderyds-kommun/ | Danderyd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/degerfors-kommun/ | Degerfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dorotea-kommun/ | Dorotea | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eda-kommun/ | Eda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ekero-kommun/ | Ekerö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eksjo-kommun/ | Eksjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/emmaboda-kommun/ | Emmaboda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/enkopings-kommun/ | Enköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eskilstuna-kommun/ | Eskilstuna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eslovs-kommun/ | Eslöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/essunga-kommun/ | Essunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fagersta-kommun/ | Fagersta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkenbergs-kommun/ | Falkenberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkopings-kommun/ | Falköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falu-kommun/ | Falun | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/filipstads-kommun/ | Filipstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/finspangs-kommun/ | Finspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/flens-kommun/ | Flen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/forshaga-kommun/ | Forshaga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fargelanda-kommun/ | Färgelanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gagnefs-kommun/ | Gagnef | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gislaveds-kommun/ | Gislaved | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnesta-kommun/ | Gnesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnosjo-kommun/ | Gnosjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotlands-kommun/ | Gotland | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grums-kommun/ | Grums | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grastorps-kommun/ | Grästorp | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gullspangs-kommun/ | Gullspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gallivare-kommun/ | Gällivare | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gavle-kommun/ | Gävle | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/goteborgs-stad/ | Göteborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotene-kommun/ | Götene | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/habo-kommun/ | Habo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hagfors-kommun/ | Hagfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallsbergs-kommun/ | Hallsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallstahammars-kommun/ | Hallstahammar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/halmstads-kommun/ | Halmstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hammaro-kommun/ | Hammarö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haninge-kommun/ | Haninge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haparanda-stad/ | Haparanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/heby-kommun/ | Heby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hedemora-kommun/ | Hedemora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/helsingborgs-stad/ | Helsingborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/herrljunga-kommun/ | Herrljunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hjo-kommun/ | Hjo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hofors-kommun/ | Hofors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/huddinge-kommun/ | Huddinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hudiksvalls-kommun/ | Hudiksvall | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hultsfreds-kommun/ | Hultsfred | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hylte-kommun/ | Hylte | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haabo-kommun/ | Håbo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallefors-kommun/ | Hällefors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harjedalens-kommun/ | Härjedalen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harnosands-kommun/ | Härnösand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harryda-kommun/ | Härryda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hassleholms-kommun/ | Hässleholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoganas-kommun/ | Höganäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hogsby-kommun/ | Högsby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/horby-kommun/ | Hörby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoors-kommun/ | Höör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jokkmokks-kommun/ | Jokkmokk | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jarfalla-kommun/ | Järfälla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jonkopings-kommun/ | Jönköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalix-kommun/ | Kalix | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalmar-kommun/ | Kalmar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlsborgs-kommun/ | Karlsborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlshamns-kommun/ | Karlshamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskoga-kommun/ | Karlskoga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskrona-kommun/ | Karlskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlstads-kommun/ | Karlstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/katrineholms-kommun/ | Katrineholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kils-kommun/ | Kil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kinda-kommun/ | Kinda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kiruna-kommun/ | Kiruna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/klippans-kommun/ | Klippan | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/knivsta-kommun/ | Knivsta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kramfors-kommun/ | Kramfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristianstads-kommun/ | Kristianstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristinehamns-kommun/ | Kristinehamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/krokoms-kommun/ | Krokom | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kumla-kommun/ | Kumla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsbacka-kommun/ | Kungsbacka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsors-kommun/ | Kungsör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungalvs-kommun/ | Kungälv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kavlinge-kommun/ | Kävlinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kopings-kommun/ | Köping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laholms-kommun/ | Laholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/landskrona-stad/ | Landskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laxa-kommun/ | Laxå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lekebergs-kommun/ | Lekeberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/leksands-kommun/ | Leksand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lerums-kommun/ | Lerum | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lessebo-kommun/ | Lessebo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidingo-stad/ | Lidingö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidkopings-kommun/ | Lidköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lilla-edets-kommun/ | Lilla Edet | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lindesbergs-kommun/ | Lindesberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/linkopings-kommun/ | Linköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljungby-kommun/ | Ljungby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusdals-kommun/ | Ljusdal | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusnarsbergs-kommun/ | Ljusnarsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lomma-kommun/ | Lomma | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ludvika-kommun/ | Ludvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lulea-kommun/ | Luleå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lunds-kommun/ | Lund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lycksele-kommun/ | Lycksele | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lysekils-kommun/ | Lysekil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malmo-stad/ | Malmö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malung-salens-kommun/ | Malung-Sälen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mala-kommun/ | Malå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mariestads-kommun/ | Mariestad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/markaryds-kommun/ | Markaryd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/marks-kommun/ | Mark | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/melleruds-kommun/ | Mellerud | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mjolby-kommun/ | Mjölby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mora-kommun/ | Mora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/motala-kommun/ | Motala | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mullsjo-kommun/ | Mullsjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/munkedals-kommun/ | Munkedal | Ale Alingsås Alvesta Aneby
+
+## Knappar
+Salems kommun
+Källor
+Skapa konto
+Stäng
+Visa filter & lista
+Kortkommandon
+Ångra senaste ändring
+Aktivera och inaktivera helskärmsvy
+Kartförklaring
+Byt karttyp
+Min plats
+Helskärm
+Zooma in
+Zooma ut
+Kortkommandon
+Kartdata
+100 m Klicka för att växla mellan meter och miles/fot
+×
+×
+‹
+›
+Läs mer
+Dela
+Avbryt
+Skicka
+Visa filter
+Visa karta
+Källor
+Kategorier
+Salems kommun
+Alla län
+Länk till resultat
+Filtrera
+Återställ filter
+
+## HTML (början av body)
+<body> <!-- Inserting header --> <link rel="stylesheet" href="/static/css/header.b7fc7aa00f42.css"> <script src="/static/js/services/notifications.42bbd7d2b7b2.js" type="module" defer=""></script> <!-- ========== HEADER ========== --> <header id="header" style="background-color: white;"> <div class="container bg-white"> <nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-between align-items-center"> <!-- Logo and Toggle + Collapsible Menu --> <div class="d-flex align-items-center"> <!-- Toggler --> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Växla navigering" style="border: none;"> <span class="navbar-toggler-default" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-list"></i> </span> <span class="navbar-toggler-toggled" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-x"></i> </span> </button> <!-- Logo --> <a class="navbar-brand ms-2 d-flex align-items-center" href="/" aria-label="Kommunkartan"> <img class="navbar-brand-logo" src="/static/brand/kommunkartan-192x192.7a948d8add7d.png" alt="Kommunkartan"> <span class="navbar-brand-text ms-2 fw-bold text-primary">Kommunkartan</span> </a> </div> <!-- Collapsible Menu --> <div class="collapse navbar-collapse" id="navbarNavDropdown"> <ul class="navbar-nav me-auto"> <li class="nav-item"> <a class="nav-link" style="font-size: 0.95rem;" href="/karta" data-ga-function-group="navigation" data-ga-function="map">Karta</a> </li> <!-- Kommuner Dropdown --> <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" style="font-size: 0.95rem;" href="#" id="navbarHeightDropdownSubMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Salems kommun </a> <div class="dropdown-menu" aria-labelledby="navbarHeightDropdownSubMenu" style="min-width: 230px; max-height: 400px; overflow-y: auto;"> <input type="text" class="dropdown-item dropdown-search-input border-0 border-bottom rounded-0 shadow-none text-muted" style="background-color: transparent;" placeholder="Sök kommun..." onkeyup="filterDropdown(this)"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/"> Hela Sverige </a> <div class="dropdown-divider"></div> <div class="dropdown-items-container"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/ale-kommun/"> Ale </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alingsas-kommun/"> Alingsås </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alvesta-kommun/"> Alvesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/aneby-kommun/"> Aneby </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arboga-kommun/"> Arboga </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arjeplogs-kommun/"> Arjeplog </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvidsjaurs-kommun/"> Arvidsjaur </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvika-kommun/"> Arvika </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/askersunds-kommun/"> Askersund </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/avesta-kommun/"> Avesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/bengtsfors-kommun/"> Bengtsfors </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/
+
+######## SIDA: https://kommunkartan.se/karta/salems-kommun/480091/#
+Titel: Försäljning av fyra kommunalt ägda bostadsrätter | Salem 2026
+
+## Dataanrop
+POST 204 fetch text/plain https://www.google-analytics.com/g/collect?v=2&tid=G-F0DZ80TC0Q&gtm=45je6b41v9198943882za200zd9198943882xf1&_p=1794126912791&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1755831766.1794126908&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=1280x720&uaa=x86&uab=64&
+      POST: en=page_visit&_ee=1&epn.is_logged_in=0&epn.has_premium=0&ep.page_id=map&_et=1
+en=open_item_location_details&_ee=1&epn.is_logged_in=0&epn.has_premium=0&ep.page_type=map&ep.source_type=kommun_protokoll&ep.municipality_slug=salems-kommun&ep.function_group=map_detail&ep.function_id=open_location&_et=52
+
+## Länkar (href | text | sammanhang)
+https://kommunkartan.se/ | Kommunkartan | Kommunkartan
+https://kommunkartan.se/karta | Karta | Karta
+https://kommunkartan.se/karta/salems-kommun/480091/# | Salems kommun | Salems kommun
+https://kommunkartan.se/karta/ | Hela Sverige | Hela Sverige Ale Alingsås Alvesta
+https://kommunkartan.se/karta/ale-kommun/ | Ale | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alingsas-kommun/ | Alingsås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/alvesta-kommun/ | Alvesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/aneby-kommun/ | Aneby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arboga-kommun/ | Arboga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arjeplogs-kommun/ | Arjeplog | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvidsjaurs-kommun/ | Arvidsjaur | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/arvika-kommun/ | Arvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/askersunds-kommun/ | Askersund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/avesta-kommun/ | Avesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bengtsfors-kommun/ | Bengtsfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bergs-kommun/ | Berg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjurholms-kommun/ | Bjurholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bjuvs-kommun/ | Bjuv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bodens-kommun/ | Boden | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollebygds-kommun/ | Bollebygd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bollnas-kommun/ | Bollnäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borgholms-kommun/ | Borgholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/borlange-kommun/ | Borlänge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boras-stad/ | Borås | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/botkyrka-kommun/ | Botkyrka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/boxholms-kommun/ | Boxholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bromolla-kommun/ | Bromölla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bracke-kommun/ | Bräcke | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/burlovs-kommun/ | Burlöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/bastads-kommun/ | Båstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dals-eds-kommun/ | Dals-Ed | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/danderyds-kommun/ | Danderyd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/degerfors-kommun/ | Degerfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/dorotea-kommun/ | Dorotea | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eda-kommun/ | Eda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ekero-kommun/ | Ekerö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eksjo-kommun/ | Eksjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/emmaboda-kommun/ | Emmaboda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/enkopings-kommun/ | Enköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eskilstuna-kommun/ | Eskilstuna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/eslovs-kommun/ | Eslöv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/essunga-kommun/ | Essunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fagersta-kommun/ | Fagersta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkenbergs-kommun/ | Falkenberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falkopings-kommun/ | Falköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/falu-kommun/ | Falun | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/filipstads-kommun/ | Filipstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/finspangs-kommun/ | Finspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/flens-kommun/ | Flen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/forshaga-kommun/ | Forshaga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/fargelanda-kommun/ | Färgelanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gagnefs-kommun/ | Gagnef | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gislaveds-kommun/ | Gislaved | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnesta-kommun/ | Gnesta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gnosjo-kommun/ | Gnosjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotlands-kommun/ | Gotland | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grums-kommun/ | Grums | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/grastorps-kommun/ | Grästorp | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gullspangs-kommun/ | Gullspång | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gallivare-kommun/ | Gällivare | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gavle-kommun/ | Gävle | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/goteborgs-stad/ | Göteborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/gotene-kommun/ | Götene | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/habo-kommun/ | Habo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hagfors-kommun/ | Hagfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallsbergs-kommun/ | Hallsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallstahammars-kommun/ | Hallstahammar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/halmstads-kommun/ | Halmstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hammaro-kommun/ | Hammarö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haninge-kommun/ | Haninge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haparanda-stad/ | Haparanda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/heby-kommun/ | Heby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hedemora-kommun/ | Hedemora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/helsingborgs-stad/ | Helsingborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/herrljunga-kommun/ | Herrljunga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hjo-kommun/ | Hjo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hofors-kommun/ | Hofors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/huddinge-kommun/ | Huddinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hudiksvalls-kommun/ | Hudiksvall | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hultsfreds-kommun/ | Hultsfred | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hylte-kommun/ | Hylte | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/haabo-kommun/ | Håbo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hallefors-kommun/ | Hällefors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harjedalens-kommun/ | Härjedalen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harnosands-kommun/ | Härnösand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/harryda-kommun/ | Härryda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hassleholms-kommun/ | Hässleholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoganas-kommun/ | Höganäs | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hogsby-kommun/ | Högsby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/horby-kommun/ | Hörby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/hoors-kommun/ | Höör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jokkmokks-kommun/ | Jokkmokk | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jarfalla-kommun/ | Järfälla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/jonkopings-kommun/ | Jönköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalix-kommun/ | Kalix | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kalmar-kommun/ | Kalmar | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlsborgs-kommun/ | Karlsborg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlshamns-kommun/ | Karlshamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskoga-kommun/ | Karlskoga | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlskrona-kommun/ | Karlskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/karlstads-kommun/ | Karlstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/katrineholms-kommun/ | Katrineholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kils-kommun/ | Kil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kinda-kommun/ | Kinda | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kiruna-kommun/ | Kiruna | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/klippans-kommun/ | Klippan | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/knivsta-kommun/ | Knivsta | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kramfors-kommun/ | Kramfors | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristianstads-kommun/ | Kristianstad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kristinehamns-kommun/ | Kristinehamn | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/krokoms-kommun/ | Krokom | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kumla-kommun/ | Kumla | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsbacka-kommun/ | Kungsbacka | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungsors-kommun/ | Kungsör | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kungalvs-kommun/ | Kungälv | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kavlinge-kommun/ | Kävlinge | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/kopings-kommun/ | Köping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laholms-kommun/ | Laholm | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/landskrona-stad/ | Landskrona | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/laxa-kommun/ | Laxå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lekebergs-kommun/ | Lekeberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/leksands-kommun/ | Leksand | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lerums-kommun/ | Lerum | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lessebo-kommun/ | Lessebo | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidingo-stad/ | Lidingö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lidkopings-kommun/ | Lidköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lilla-edets-kommun/ | Lilla Edet | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lindesbergs-kommun/ | Lindesberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/linkopings-kommun/ | Linköping | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljungby-kommun/ | Ljungby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusdals-kommun/ | Ljusdal | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ljusnarsbergs-kommun/ | Ljusnarsberg | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lomma-kommun/ | Lomma | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/ludvika-kommun/ | Ludvika | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lulea-kommun/ | Luleå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lunds-kommun/ | Lund | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lycksele-kommun/ | Lycksele | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/lysekils-kommun/ | Lysekil | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malmo-stad/ | Malmö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/malung-salens-kommun/ | Malung-Sälen | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mala-kommun/ | Malå | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mariestads-kommun/ | Mariestad | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/markaryds-kommun/ | Markaryd | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/marks-kommun/ | Mark | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/melleruds-kommun/ | Mellerud | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mjolby-kommun/ | Mjölby | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mora-kommun/ | Mora | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/motala-kommun/ | Motala | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/mullsjo-kommun/ | Mullsjö | Ale Alingsås Alvesta Aneby
+https://kommunkartan.se/karta/munkedals-kommun/ | Munkedal | Ale Alingsås Alvesta Aneby
+
+## Knappar
+Salems kommun
+Källor
+Skapa konto
+Stäng
+Visa filter & lista
+Kortkommandon
+Ångra senaste ändring
+Aktivera och inaktivera helskärmsvy
+Kartförklaring
+Byt karttyp
+Min plats
+Helskärm
+Zooma in
+Zooma ut
+Kortkommandon
+Kartdata
+100 m Klicka för att växla mellan meter och miles/fot
+×
+×
+‹
+›
+Läs mer
+Dela
+Avbryt
+Skicka
+Visa filter
+Visa karta
+Källor
+Kategorier
+Salems kommun
+Alla län
+Länk till resultat
+Filtrera
+Återställ filter
+
+## HTML (början av body)
+<body> <!-- Inserting header --> <link rel="stylesheet" href="/static/css/header.b7fc7aa00f42.css"> <script src="/static/js/services/notifications.42bbd7d2b7b2.js" type="module" defer=""></script> <!-- ========== HEADER ========== --> <header id="header" style="background-color: white;"> <div class="container bg-white"> <nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-between align-items-center"> <!-- Logo and Toggle + Collapsible Menu --> <div class="d-flex align-items-center"> <!-- Toggler --> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Växla navigering" style="border: none;"> <span class="navbar-toggler-default" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-list"></i> </span> <span class="navbar-toggler-toggled" style="color: #198754; font-size: 1.5rem;"> <i class="bi bi-x"></i> </span> </button> <!-- Logo --> <a class="navbar-brand ms-2 d-flex align-items-center" href="/" aria-label="Kommunkartan"> <img class="navbar-brand-logo" src="/static/brand/kommunkartan-192x192.7a948d8add7d.png" alt="Kommunkartan"> <span class="navbar-brand-text ms-2 fw-bold text-primary">Kommunkartan</span> </a> </div> <!-- Collapsible Menu --> <div class="collapse navbar-collapse" id="navbarNavDropdown"> <ul class="navbar-nav me-auto"> <li class="nav-item"> <a class="nav-link" style="font-size: 0.95rem;" href="/karta" data-ga-function-group="navigation" data-ga-function="map">Karta</a> </li> <!-- Kommuner Dropdown --> <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" style="font-size: 0.95rem;" href="#" id="navbarHeightDropdownSubMenu" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Salems kommun </a> <div class="dropdown-menu" aria-labelledby="navbarHeightDropdownSubMenu" style="min-width: 230px; max-height: 400px; overflow-y: auto;"> <input type="text" class="dropdown-item dropdown-search-input border-0 border-bottom rounded-0 shadow-none text-muted" style="background-color: transparent;" placeholder="Sök kommun..." onkeyup="filterDropdown(this)"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/"> Hela Sverige </a> <div class="dropdown-divider"></div> <div class="dropdown-items-container"> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/ale-kommun/"> Ale </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alingsas-kommun/"> Alingsås </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/alvesta-kommun/"> Alvesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/aneby-kommun/"> Aneby </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arboga-kommun/"> Arboga </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arjeplogs-kommun/"> Arjeplog </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvidsjaurs-kommun/"> Arvidsjaur </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/arvika-kommun/"> Arvika </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/askersunds-kommun/"> Askersund </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/avesta-kommun/"> Avesta </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/karta/bengtsfors-kommun/"> Bengtsfors </a> <a class="dropdown-item " data-ga-function-group="navigation" data-ga-function="municipality" href="/
