@@ -1,0 +1,35 @@
+# Prov av steg 1d (motessidor.py) för kommunerna i arbete/granskning/motessidor-kommuner.txt.
+# Sparar mötessidor och datum i arbete/hamtning/motessidor.json och en logg per kommun
+# i arbete/granskning/motessidor/.
+name: Testa mötessidorna
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["arbete/granskning/motessidor-kommuner.txt"]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installera webbläsaren
+        run: pip install -q playwright && python -m playwright install --with-deps chromium
+      - name: Sök mötessidor
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          MOTESSIDOR_DEBUG: "1"
+        run: python3 verktyg/hamta/motessidor.py --kommuner "$(tr -d ' \n' < arbete/granskning/motessidor-kommuner.txt)" --max-sok 110
+      - name: Spara resultatet i repot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add arbete/granskning/motessidor arbete/hamtning/motessidor.json
+          git commit -q -m "Prov av mötessidorna $(date +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

@@ -32,6 +32,7 @@ from gemensamt import (DOKUMENT, HAMTNING, SOKRESULTAT, VECKOLISTA, kanda_urler,
                        kommunhandling, las_json, normalisera_url, skriv_json)
 
 GRANSKADE = HAMTNING / "granskade.json"  # dokument som redan granskats för hand, per kommun
+MOTESSIDOR = las_json(HAMTNING / "motessidor.json", {})  # mötesdatum från motessidor.py
 
 STATUS = ["Pengar beslutade", "Pengar föreslagna", "Kostnad beräknad",
           "Nämnt utan belopp", "Ej nämnt", "Ej bedömbart än"]
@@ -60,7 +61,7 @@ def bedom(k, nya, korning):
     poang, skal = 0, []
     # Kommunens egna handlingar. Dokument där kommunnamnet saknas i början (till exempel regionens
     # eller en grannkommuns portal) räknas inte.
-    nya = [d for d in nya if (kommunhandling(d["url"], k) or d.get("sökning") == 4)
+    nya = [d for d in nya if (kommunhandling(d["url"], k) or d.get("sökning") in (4, 7))
            and d.get("kommunnamn_i_text") is not False]
     reform27 = [d for d in nya if d["nämner_reformen"] and d["budget2027"]]
     reform = [d for d in nya if d["nämner_reformen"] and not d["budget2027"]]
@@ -86,10 +87,11 @@ def bedom(k, nya, korning):
             skal.append("titeln anger budget eller plan för 2027")
     if len(budget27) > 1:
         poang += min(2, len(budget27) - 1)
-    kf = kf_datum(k.get("kf"))
+    # Datum ur kommunens data, annars senaste KF-mötet enligt mötessidan.
+    kf = kf_datum(k.get("kf")) or kf_datum((MOTESSIDOR.get(k["id"]) or {}).get("senaste_kf"))
     if kf and korning - timedelta(days=21) <= kf <= korning and k["s"] != 0:
         poang += 2
-        skal.append(f"fullmäktige planerade budgetbeslut {kf.isoformat()}")
+        skal.append(f"fullmäktige sammanträdde eller planerade budgetbeslut {kf.isoformat()}")
     if k["s"] == 5 and poang:
         poang += 1
     return poang, skal

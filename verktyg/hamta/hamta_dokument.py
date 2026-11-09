@@ -162,7 +162,7 @@ def rang(t):
     budget = bool(re.search(r"budget|ramar|mål och|resursplan|flerårsplan|verksamhetsplan|kommunplan|mrp|evp|direktiv", text))
     mote = bool(re.search(r"fullmäktige|kommunstyrelse|\bkf\b|\bks\b|utbildning|bildning|barn- och|skolnämnd", text)) \
         and bool(re.search(r"2026-(0[4-9]|1[0-2])|2026", text))
-    riktad = t.get("sokning") in (5, 6)  # funnen av den riktade budgetsökningen
+    riktad = t.get("sokning") in (5, 6, 7)  # funnen av budgetsökningen eller på mötessidan
     up = uppladdad(t["url"])
     ny = (up or "") >= "2026-09"  # uppladdad i höst: aktuella kallelser och budgetförslag
     gammal = bool(up) and up < "2026"
@@ -185,7 +185,7 @@ def ska_hamtas(t):
     u = t["url"].lower()
     text = f"{t.get('titel') or ''} {t.get('beskrivning') or ''} {u}"
     # Dokumentlänkar från mötesportalerna (sökning 3) saknar ofta .pdf i adressen.
-    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") in (3, 4, 5, 6)
+    return u.split("?")[0].endswith(".pdf") or "2027" in text or t.get("sokning") in (3, 4, 5, 6, 7)
 
 
 def main():

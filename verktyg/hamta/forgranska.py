@@ -68,7 +68,7 @@ def datum_i(d):
 
 def kandidater(k, docs, granskade):
     egna = [d for d in docs if d["url"] not in granskade
-            and (kommunhandling(d["url"], k) or d.get("sökning") in (4, 5))
+            and (kommunhandling(d["url"], k) or d.get("sökning") in (4, 5, 7))
             and d.get("kommunnamn_i_text") is not False and d.get("typ") == "pdf"]
     # Äldre budgetar ("Budget 2025–2027", "Budget 2026 med plan 2027") räknas inte.
     # Dokument som laddades upp före 2026 kan inte vara budget 2027.
@@ -76,7 +76,7 @@ def kandidater(k, docs, granskade):
     viktade = [d for d in egna if titel_budget2027(d) or (
         d.get("budget2027") and not TIDIGARE.search(f"{d.get('titel') or ''} {d['url']}".replace("%20", " ")))]
     return sorted(viktade, key=lambda d: (not titel_budget2027(d), not d.get("budget2027"),
-                                          d.get("sökning") not in (5, 6), datum_i(d)), reverse=False)[:8]
+                                          d.get("sökning") not in (5, 6, 7), datum_i(d)), reverse=False)[:8]
 
 
 HAMTARE = Hamtare()
@@ -149,6 +149,7 @@ def main():
     granskade = las_json(GRANSKADE, {})
     tillst = las_json(HAMTNING / "tillstand.json", {"dokument": {}})["dokument"]
     portaler = las_json(HAMTNING / "portaler.json", {})
+    motes = las_json(HAMTNING / "motessidor.json", {})
     KORT.mkdir(parents=True, exist_ok=True)
     for f in KORT.glob("*.md"):
         f.unlink()
@@ -168,6 +169,9 @@ def main():
                  f"Portal: {', '.join(portaler.get(k['id'], {}).get('portaler') or ['ingen känd'])}",
                  f"Hämtade dokument: {len(docs)}, hämtfel: "
                  f"{sum(1 for v in tillst.values() if v.get('kommun') == k['id'] and v.get('fel'))}",
+                 f"Mötessida: {(motes.get(k['id']) or {}).get('url') or 'inte hittad'}",
+                 f"KF-möten: {', '.join((motes.get(k['id']) or {}).get('kf') or []) or 'okända'}; "
+                 f"KS-möten: {', '.join((motes.get(k['id']) or {}).get('ks') or []) or 'okända'}",
                  f"Nuvarande sammanfattning: {k.get('sum') or ''}", f"Luckor: {k.get('lu') or ''}", ""]
         if kand:
             med.append(k["k"])
