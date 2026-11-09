@@ -4,7 +4,7 @@ Här finns de instruktioner jag har gett AI-assistenten Claude, ordagrant och i 
 
 ### 5 november 2026: första versionen
 
-Den första versionen av sidan och den första genomgången av alla 290 kommuner gjordes i en tidigare chatt. Instruktionerna från den chatten finns inte med här ännu. *Erik fyller i dem.*
+Den första versionen av sidan och den första genomgången av alla 290 kommuner gjordes i en tidigare chatt. Instruktionerna från den chatten finns inte med här.
 
 Resultatet blev versionen [f770d18](https://github.com/erikscheffer-school/larartiden/commit/f770d18) med sidans struktur, data för alla kommuner och analystexter. Därefter lades en arbetslista och instruktioner för fortsatt granskning till ([b9682a2](https://github.com/erikscheffer-school/larartiden/commit/b9682a2)): `arbete/INSTRUKTIONER.md`, `arbete/att_granska.json` och Excel-filen `arbete/Kommuner_utan_dokument.xlsx`.
 
