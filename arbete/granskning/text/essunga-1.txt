@@ -1,0 +1,150 @@
+URL: https://docs.netpublicator.com/api/public/r14723333/document/fd3b440b712e2ab77fc8-8d2d-4656-97ab-4af3777277c2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251
+Titel: 
+Sidor: 23
+
+== INNEHÅLL (första raden per sida) ==
+1: Verksamhetsplan
+2: Innehållsförteckning
+3: Förord
+4: Verksamhetsplan med budget
+5: Vision 2040
+6: Utfall eller
+7: Fokusområde: Kommunens tjänster och service uppfattas som tillitsfull, smart, enkel
+8: Utfall eller
+9: Övergripande mål: Kommunen ska ha en god ekonomisk hushållning i all
+10: Ekonomiska planeringsförutsättningar
+11: Budgetförutsättningar
+12: Budgetramar
+13: av servicepool som inrättas under kommunstyrelsen 2027.
+14: Resultat och kapacitet
+15: Soliditet
+16: Risk och kontroll
+17: Finansiella rapporter och ekonomisk plan 2025–2027
+18: Investeringsbudget
+19: Resultatbudget/plan
+20: Kassaflödesanalys/plan
+21: Kommunens utmaningar
+22: över ett bredare fält vilket kan vara svårt att matcha till specialiserade roller och möjligheterna
+23: 
+
+===== SIDA 1 =====
+Verksamhetsplan
+     med budget
+      2027–2029
+
+  Essunga Kommun
+
+===== SIDA 9 =====
+Övergripande mål: Kommunen ska ha en god ekonomisk hushållning i all
+sin verksamhet
+
+Beskrivning av målet:
+Essunga kommun ska effektivt hushålla med de resurser som finns utan att äventyra kommande
+generations möjligheter.
+
+Fokusområde: Kommunen ska arbeta för att skapa förutsättningar för nytänkande och
+utveckling i syfte att utveckla verksamheter och öka effektiviteten.
+
+                                                                                 Utfall eller
+           Indikatorer               Utfall 2024            Utfall 2025                            Målvärde
+                                                                                 nuläge 2026
+ Digital mognad (självskattning        57,6 %                 62,4 %                                  48 %
+ DIMIOS)
+ Avvikelse från referenskostnad              4                     -6                                högst 0
+ (miljoner kronor) för
+ äldreomsorg, individ- och
+ familjeomsorg och LSS
+ sammantaget. Kolada
+ Kostnad per invånare för                  9 363               8 959                               högst 9 701
+ infrastruktur, skydd, kultur,
+ fritid och politisk verksamhet.
+
+
+
+Övergripande mål: Resultatet ska utgöra 3 procent, +/- 1 procent, av de
+samlande intäkterna för skatt, statsbidrag och utjämningssystem under
+en rullande fyraårsperiod.
+
+                                       Prognos                                                         Medel
+                                                             2027            2028           2029
+                                        2026                                                          2026-2029
+ Årets resultat, mnkr                       0,5              9,6              13,1          15,2         9,6
+ Årets resultat i relation till
+ skatteintäkter och generella              0,1 %            2,0 %            2,6 %         2,9 %        2,0 %
+ statsbidrag, %
+
+Essunga kommun har en svag resultatnivå 2026, bland annat på grund av lågkonjunktur, färre
+invånare och engångskostnader för rivning och nedskrivning av gamla skolan i Jonslund.
+Budget inför 2027 inklusive skattehöjning medför att resultatet som andel av skatter och bidrag
+förstärks och budgeteras under fyraårsperioden 2026 – 2029 uppnå Kommunfullmäktiges
+finansiella mål för perioden.
+
+Övergripande mål: Skattefinansierade nettoinvesteringar ska under den
+tid då skolinvesteringarna pågår finansieras till lägst 60 procent av egna
+medel
+                                   Prognos
+                                                   Budget 2027          Plan 2028     Plan 2029     Medel 4 år
+                                    2026
+ Nettoinvesteringar mnkr            44,6               34                 27,8           30,1           34,1
+ Självfinansiering av
+                                    52 %              99 %               137 %          134 %          97 %
+ investeringar %
+
+Under 2026 slutförs byggnationen av Jonslunds nya skola och under 2026 - 2027 renoveras
+Stallaholms förskola. Investeringstakten kommer minskas under perioden 2027–2029. Detta
+tillsammans med ett starkare resultat medför att investeringskostnaderna 2026 – 2029 uppfyller
+Kommunfullmäktiges finansiella mål och nästan når upp till 100 procent självfinansiering.
+
+===== SIDA 12 =====
+Budgetramar
+
+                                 Budget 2027 (miljoner kronor)
+
+
+                                    155.3                            134.1
+
+
+
+
+                                                                       0.6
+
+
+
+
+                                                             182.3
+
+                   Kommunstyrelse         Byggnadsnämnd     Socialnämnd      Utbildningsnämnd
+
+Ramar per nämnd inkluderar förändringar enligt tabell inför verksamhetsår 2027:
+ Miljoner kronor                                     KS         UN            SN       BN       Totalt
+ Budget 2026                                        129,1       148,1        175,7     0,6      453,5
+ Uppräkning 2,8 procent                              3,6         4,1          4,9      0,0      12,7
+ Kompensation ökade kapitalkostnader                 1,5                                         1,5
+ Ta bort rivning av Jonslunds gamla skola            -2,5                                        -2,5
+ Effektivisering Byggnadsnämnd                                                         -0,2      -0,2
+ Strategisk samhällsplanering                        0,8                                         0,8
+ Digitalisering / IT                                 0,2         0,3          0,3                0,8
+ Ökade gymnasiekostnader                                         1,5                             1,5
+ Civil beredskap                                     0,8                                         0,8
+ Budgetbeslut KF i juni 2026                        133,5       154,0        180,9     0,5      468,9
+ Volymökning Äldreomsorgen                                                    2,0                2,0
+ Borttagande av effektivisering Byggnadsnämnd                                          0,2       0,2
+ Kompensation ändrad undervisningstid lärare                     1,3                             1,3
+ Justering för införande av servicepool              0,6                     -0,6                0,0
+ Budgetförslag 2027 inför KF i november             134,1       155,3        182,3     0,6      472,3
+
+Budgetförslag till nämnderna inkluderar en uppräkning med 2,8 procent till samtliga nämnder
+för pris- och löneökningar, övriga förändringar inför 2027 uppgår till 6,2 miljoner och består av:
+    •    Kommunstyrelsen tilldelas en kompensation för ökade kapitalkostnader för Jonslunds
+         nya skola och Stallaholms förskola. Samtidigt tas budget bort för rivning av Jonslunds
+         gamla skola utifrån att rivning planeras att ske under 2026. Till kommunstyrelsen
+         återförs också 0,8 miljoner för planarbete inom strategisk samhällsplanering som togs
+         bort inför 2026, därtill förstärks budgeten för ökade kostnader inom digitalisering/IT
+         och för utökade krav och ambitioner inom civil beredskap och räddningstjänst.
+    •    Utbildningsnämnden tilldelas enligt budgetförslag kompensation för ökade IT-
+         kostnader, för ökade gymnasiekostnader och för minskad undervisningstid för att
+         lärarnas undervisningstid minskas enligt beslut av Sveriges riksdag från halvårsskiftet
+         2027.
+    •    Social sektor tilldelas enligt budgetförslag en kompensation för ökade IT-kostnader och
+         för att fler äldre invånare medför ökade kostnader inom äldreomsorgen.
+    •    Vidare flyttas 0,6 miljoner från Socialnämnd till Kommunstyrelse för medfinansiering
