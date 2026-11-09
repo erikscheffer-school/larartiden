@@ -1,158 +1,435 @@
 [
  {
-  "kommun": "solvesborg",
-  "url": "https://solvesborg.se/download/18.175c4d3f1a1a18a322c1e2a/1793801101185/Kallelse%20KS%20261110.pdf"
- },
- {
-  "kommun": "hedemora",
-  "url": "https://hedemora.se/wp-content/uploads/2026/05/protokoll-bn-2026-05-25-56-70.pdf",
+  "kommun": "hoganas",
+  "url": "https://www.hoganas.se/download/18.52b1391b1a1a19d6c1e5f52/1793950625969/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%202026-11-12.pdf",
   "sidor": [
-   22,
-   23,
-   24,
-   25
+   2,
+   3,
+   11,
+   21,
+   54
   ],
   "endast": true
  },
  {
-  "kommun": "hedemora",
-  "url": "https://hedemora.se/wp-content/uploads/2026/09/protokoll-bn-2026-09-28-93-115.pdf",
+  "kommun": "kavlinge",
+  "url": "https://docs.netpublicator.com/api/public/r06297353/document/984f58d1be24f43e5eb9-8133-478b-bb75-89bbb10800e5?hash=26939bdf50b7157-6db5698472cb4588149-c85e4d53131410075133-49858e56e80b10075730",
   "sidor": [
-   12,
-   13,
-   14
-  ],
-  "endast": true
- },
- {
-  "kommun": "orkelljunga",
-  "url": "https://www.orkelljunga.se/download/18.659742711a12f71150782db/1792070279544/Kommunstyrelsens%20arbetsutskott%202026-10-14.pdf",
-  "sidor": [
-   4,
-   5,
+   1,
    6,
-   7
-  ],
-  "endast": true
- },
- {
-  "kommun": "vaxholm",
-  "url": "https://www.vaxholm.se/download/18.42acf5741a16301672732609/1793348394278/Kallelse%20%20KF%202026-11-09.pdf",
-  "sidor": [
-   186,
-   187,
-   188,
-   189,
-   190,
-   191,
-   192,
-   193,
-   194,
-   195,
-   196,
-   197,
-   198,
-   199,
-   200
-  ],
-  "endast": true
- },
- {
-  "kommun": "munkfors",
-  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-boh-2026-10-13.pdf",
-  "sidor": [
-   16,
-   17,
-   18,
-   19
-  ],
-  "endast": true
- },
- {
-  "kommun": "munkfors",
-  "url": "https://www.munkfors.se/wp-content/uploads/2026/10/protokoll-ks-2026-10-19.pdf",
-  "sidor": [
-   29,
-   30,
-   31,
+   15,
    32
   ],
   "endast": true
  },
  {
-  "kommun": "koping",
-  "url": "https://koping.se/download/18.3826d5321a0adb78fac13b8/1789624754500/Kallelse%20UN%20260923.pdf",
+  "kommun": "kavlinge",
+  "url": "https://docs.netpublicator.com/api/public/r06297353/document/23f1277578e0826cdefd-7977-4ccd-9840-56491a821e1f?hash=26939bdf50b7157-6db5698472cb4588149-c85e4d53131410075133-49858e56e80b10075730",
   "sidor": [
-   64,
-   65,
-   66,
-   67,
-   68,
-   69,
-   70,
-   71,
-   72
+   1,
+   2
   ],
   "endast": true
  },
  {
-  "kommun": "mariestad",
-  "url": "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
+  "kommun": "lomma",
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/39916805b325c4bcb232-e250-4e02-bef2-5c1afad2bed7?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "sidor": [
+   1,
+   17,
+   45
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lomma",
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/c99a01721cfd130515fe-c355-48d9-99d8-02a7e1fcb214?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "astorp",
+  "url": "https://docs.netpublicator.com/api/public/r26057471/document/58030e30e241b6564bc1-09a1-492c-9651-f10a14e7f935?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+  "sidor": [
+   1,
+   11,
+   14
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "astorp",
+  "url": "https://docs.netpublicator.com/api/public/r26057471/document/615ff542cb3bfe3cbc62-eb8e-46b4-9532-d5802cc9786a?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "orkelljunga",
+  "url": "https://www.orkelljunga.se/download/18.54f5ca0e1a16333a360e731/1793275182139/Kommunstyrelsen%202026-11-04.pdf",
+  "sidor": [
+   1,
+   14,
+   15,
+   28,
+   65
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lidingo",
+  "url": "https://docs.netpublicator.com/api/public/r68645812/document/71f020a8a6530f8d9fa6-f3be-4a26-b104-7970c36c9140?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-7c48f3aa55d410102586-adcb40b38fea10143369",
+  "sidor": [
+   1,
+   29
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lidingo",
+  "url": "https://docs.netpublicator.com/api/public/r68645812/document/449f5815d4aba3552595-977a-4afa-ae1c-b081c8ebbc1d?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-7c48f3aa55d410102586-adcb40b38fea10143369",
+  "sidor": [
+   1
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "essunga",
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/fd3b440b712e2ab77fc8-8d2d-4656-97ab-4af3777277c2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "sidor": [
+   1,
+   9,
+   12
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "essunga",
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/fd3046d554df7d6c8864-2e06-4d57-8616-cfdfb04d7d0e?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "sidor": [
+   1
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lilla-edet",
+  "url": "https://lillaedet.se/download/18.61de8ac81a1a170a3bb124c/1793817544025/Kallelse%20KS%202026-11-11.pdf",
+  "sidor": [
+   1,
+   3,
+   44,
+   47
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "fagersta",
+  "url": "https://docs.netpublicator.com/api/public/r72030401/document/ed01bd64ebb40b034695-794c-4c67-84f3-5e26a15b52fd?hash=fbe00a3f5f36102-c96dbedeced19824633-a88e272ee72110103915-71729872d58b10103922",
+  "sidor": [
+   1,
+   4,
+   22
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "fagersta",
+  "url": "https://docs.netpublicator.com/api/public/r72030401/document/c9b5bc6ad552723eab1a-dada-4b8f-8b24-3b886ac5a877?hash=fbe00a3f5f36102-c96dbedeced19824633-a88e272ee72110103915-71729872d58b10103922",
+  "sidor": [
+   1
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ydre",
+  "url": "https://www.ydre.se/download/18.8843c631a0adcd52c6488/1789647854024/Kallelse%20kf%202026-09-28.pdf",
+  "sidor": [
+   1,
+   12,
+   25,
+   57
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ydre",
+  "url": "https://www.ydre.se/download/18.18e8da601a0fb8de9f62021/1791183406319/Protokoll%20kf%202026-09-28.pdf",
+  "sidor": [
+   10,
+   11
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "orsa",
+  "url": "https://www.orsa.se/download/18.13cfde781a162ff0a539e4c/1792742674474/Protokoll%20kommunstyrelsen%202026-10-19.pdf",
+  "sidor": [
+   3,
+   20,
+   21,
+   22
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "alvdalen",
+  "url": "https://www.alvdalen.se/download/18.3f92ebaf1a1a1981faa22eea/1793950922745/Kommunstyrelsen%202026-11-03%20signerat.pdf",
+  "sidor": [
+   3,
+   8,
+   9,
+   10
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "hofors",
+  "url": "https://www.hofors.se/download/18.e16a2871a13db2c89bdbd/1793606004269/Protokoll%20Kommunstyrelsen%202026-11-02.pdf",
+  "sidor": [
+   3,
+   5,
+   6
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "hultsfred",
+  "url": "https://www.hultsfred.se/files/2026/11/Protokoll_ks_20261027_webb.pdf",
+  "sidor": [
+   3
+  ]
+ },
+ {
+  "kommun": "gallivare",
+  "url": "https://gallivare.se/download/18.1ccfe6fe19be291c73b2ae76/1769158383580/Protokoll%20kommunstyrelsen%202026-01-19.pdf",
+  "sidor": [
+   3,
+   10,
+   11
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "jonkoping",
+  "url": "https://docs.netpublicator.com/api/public/r86707370/document/2854ec9fdea93f6f2802-6f54-4ec9-9550-444879bc757a?hash=622e742871d759-8a8c0d7a6c6270365-2d42d5e3dd8a9494525-3501b21f9f4c9494564",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "gislaved",
+  "url": "https://www.gislaved.se/download/18.120d26c51a1ac5d17993a/1793894680135/Ks%20kallelse%202026-11-11,%20allm%C3%A4nna%20handlingar.pdf",
+  "sidor": [
+   2,
+   326,
+   327
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "tomelilla",
+  "url": "https://tomelilla.se/download/18.2585a1eb1a1a1a6c57331b49/1794169444339/Protokoll%202026-11-04%20Kommunstyrelsens%20arbetsutskott%20%C2%A7%C2%A7%20298-320,%20signerat.pdf",
+  "sidor": [
+   2
+  ]
+ },
+ {
+  "kommun": "ystad",
+  "url": "https://docs.netpublicator.com/api/public/r02201692/document/353ce8c48fff94437c08-9def-41fc-8276-b57052a41b73?hash=3d8258f8eadf383-8fb3cf2de49b4617168-0d786ef1f46510141500-802eac704dc510141509",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "jarfalla",
+  "url": "https://docs.netpublicator.com/api/public/r07740183/document/e9a7a49829d18571fa01-5170-4620-91c5-12679c96073b?hash=b6e4bd6130b840-aed17614b72c5667425-02785810cd4d9539558-7392f87b3d449567257",
+  "sidor": [
+   1,
+   2,
+   4,
+   31
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "upplands-vasby",
+  "url": "https://docs.netpublicator.com/api/public/upplandsvasby/document/10d7c6b9d809798fda2e-96be-4bfd-b606-10b6c7bf3640?hash=1661ea5127a0201-71cfafa3327710108430-8126007f2c379175037-1023b90750ce9305123",
+  "sidor": [
+   1,
+   11
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "kristinehamn",
+  "url": "https://docs.netpublicator.com/api/public/r49739170/document/725fa585b601af76047a-6108-4d1c-be23-3355a332b658?hash=a01dfefc25f443-488cdd08c2d89788-c85c6fc2e1b19783005-1f5abf95f6939783008",
+  "sidor": [
+   1,
+   2,
+   47
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "kristinehamn",
+  "url": "https://docs.netpublicator.com/api/public/r49739170/document/33e491e65ecb1de538f5-49f2-442a-8d5f-80e11513054b?hash=a01dfefc25f443-488cdd08c2d89788-c85c6fc2e1b19783005-1f5abf95f6939783008",
+  "sidor": [
+   1
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "storuman",
+  "url": "https://www.storuman.se/contentassets/bfd48347e1e7458fb9ae9138cab5502a/protokoll-ksau_2026-10-20-for-publ.pdf",
+  "sidor": [
+   2,
+   3,
+   4
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "kramfors",
+  "url": "https://www.kramfors.se/download/18.34a4288319eafde554e8b9e/1781188113781/Protokoll%20Kommunstyrelsen%209%20juni.pdf",
+  "sidor": [
+   61,
+   62
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ornskoldsvik",
+  "url": "https://docs.netpublicator.com/api/public/ornskoldsvik/document/08b6a5dcfbc4e4f9539e-0ab6-4455-b18b-a5805139e685?hash=25e1ed6a85b733-2140e6cbc1ac25345-4a2ca5dca0a013716-55a87ea94fb810180098-3fab52faf4c810180113",
+  "sidor": [
+   2,
+   5
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ornskoldsvik",
+  "url": "https://docs.netpublicator.com/api/public/ornskoldsvik/document/7ea02b487da5ae8f4bc1-1ff7-440c-a3b8-fdfc9f2aa1b8?hash=25e1ed6a85b733-2140e6cbc1ac25345-4a2ca5dca0a013716-55a87ea94fb810180098-3fab52faf4c810180113",
   "sidor": [
    44,
-   45,
-   46,
-   47,
-   48,
-   49
+   45
   ],
   "endast": true
  },
  {
-  "kommun": "sotenas",
-  "url": "https://www.sotenas.se/download/18.7432d7d11a1a188b0c06b6/1793803970206/Kallelse%20KF%202026-11-11%20inkl%20handlingar.pdf"
- },
- {
-  "kommun": "toreboda",
-  "url": "https://toreboda.se/download/18.36469e4d19e6343f4edf9d1/1780995426530/Handlingar%20kommunfullm%C3%A4ktige%202026-06-15.pdf",
+  "kommun": "ornskoldsvik",
+  "url": "https://docs.netpublicator.com/api/public/ornskoldsvik/document/f82c455f48afcdd2e815-160d-4a96-a294-aa7d5a130b1d?hash=25e1ed6a85b733-2140e6cbc1ac25345-4a2ca5dca0a013716-55a87ea94fb810180098-3fab52faf4c810180113",
   "sidor": [
-   9,
-   10,
-   11,
-   12,
-   13,
-   160,
-   161,
-   162,
-   163,
-   164,
-   165,
-   166,
-   167
+   2
   ],
   "endast": true
  },
  {
-  "kommun": "toreboda",
-  "url": "https://toreboda.se/download/18.72d624081a12f58e8dd724f/1792404476734/Handlingar%20Kommunfullm%C3%A4ktige%202026-10-26.pdf",
+  "kommun": "koping",
+  "url": "https://koping.se/download/18.777bdeb1a12f453e327781e/1792134228040/Kallelse%20UN%20261022.pdf",
   "sidor": [
    1,
    2,
    3,
    4,
-   5,
-   6,
-   7,
-   8,
-   9,
+   5
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lerum",
+  "url": "https://docs.netpublicator.com/api/public/r83615685/document/8562aafd6988e857b2de-9e3e-4e8d-aab7-a38161a17507?hash=8a16947f55a063-2989acf3bd5a98576-a08cf367db8f10206611-3cf00155141910206659",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ulricehamn",
+  "url": "https://www.ulricehamn.se/download/18.5d02f9bd1a1a16bbb5b4136c/1793888426534/Budgetf%C3%B6rslag%20Nya%20Ulricehamn%202027.pdf",
+  "sidor": [
+   1,
+   3,
+   5
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "ulricehamn",
+  "url": "https://www.ulricehamn.se/download/18.5d02f9bd1a1a16bbb5b4136a/1793888372757/Budgetf%C3%B6rslag%20Sverigedemokraterna%202027.pdf",
+  "sidor": [
+   1,
+   2
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "laxa",
+  "url": "https://www.laxa.se/download/18.1ccccf451a16318572a267c0/1793120937184/Protokoll%20KS%202026-10-27.pdf",
+  "sidor": [
+   3,
    10,
    11,
-   12,
-   272,
-   273,
-   274,
-   275,
-   276
+   12
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "lindesberg",
+  "url": "https://www.lindesberg.se/download/18.3f3ad57a19ed42af71f2fba/1781794049080/KF%20protokoll%202026-06-15.pdf",
+  "sidor": [
+   3,
+   7,
+   8
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "atvidaberg",
+  "url": "https://docs.netpublicator.com/api/public/r15196469/document/994da6b5c17b10e482f8-4589-4efe-8a66-d3129e81880b?hash=be0f29eb34c5302-658981f891c33884865-4ffb6ec0ef1810135044-297d0e84761310135137",
+  "sidor": [
+   1,
+   3,
+   11,
+   37
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "atvidaberg",
+  "url": "https://docs.netpublicator.com/api/public/r15196469/document/6a4352cf2c612d067549-eda8-4999-8a0b-fcd5ccefd0d5?hash=be0f29eb34c5302-658981f891c33884865-4ffb6ec0ef1810135044-297d0e84761310135137",
+  "sidor": [
+   1
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "overkalix",
+  "url": "https://www.overkalix.se/media/oa4hr2wu/bu-2026-10-12-102-118.pdf",
+  "sidor": [
+   2,
+   14,
+   15,
+   19
+  ],
+  "endast": true
+ },
+ {
+  "kommun": "avesta",
+  "url": "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-bs-261104.pdf",
+  "sidor": [
+   2,
+   20,
+   21
   ],
   "endast": true
  }
