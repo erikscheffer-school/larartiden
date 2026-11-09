@@ -117,10 +117,21 @@ class Netpublicator:
         rotniva = await self.las(rid, rot, rot=True)
         self.logg(f"    Netpublicator {rid}: rotnivån har {len(rotniva)} mappar: "
                   + "; ".join(text(i.get("text")) for i in rotniva[:8]))
+        traffade = False
         for it in rotniva:
             t = text(it.get("text"))
             if it.get("type") == "channel" and ORGAN.search(t) and not GAMMAL.search(t):
+                traffade = True
                 await kanal(f"{rot}-{it['id']}", t, 0)
+        if not traffade:
+            # Rotnivån har samlingsmappar ("Politiken", "Nämnder"): gå ett steg ner och leta där.
+            for it in rotniva:
+                t = text(it.get("text"))
+                if it.get("type") == "channel" and re.search(r"politik|nämnd|organ|sammanträd|möten|handlingar", t, re.I):
+                    for under in await self.las(rid, f"{rot}-{it['id']}"):
+                        u = text(under.get("text"))
+                        if under.get("type") == "channel" and ORGAN.search(u) and not GAMMAL.search(u):
+                            await kanal(f"{rot}-{it['id']}-{under['id']}", u, 0)
         self.logg(f"    Netpublicator {rid}: {self.anrop} anrop, {len(ut)} dokument")
         return ut
 

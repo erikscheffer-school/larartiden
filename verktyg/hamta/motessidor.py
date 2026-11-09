@@ -188,6 +188,9 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
             if slut != url and portaltyp(slut):
                 tillatna.add(doman(slut))
             p = sidpoang(text, lankar)
+            if re.search(r"webbs[äa]nd|webbradio|webb-tv|valresultat|mandatf|motioner|/nyheter|/nyheterna/|ledamöter",
+                         f"{urllib.parse.unquote(slut)} {titel}", re.I):
+                p -= 20  # sidor om möten men utan handlingar
             sidor.append({"url": slut, "titel": " ".join(titel.split())[:150], "poang": p,
                           "lankar": [(h, " ".join(t.split())[:100]) for h, t, _ in lankar
                                      if h.startswith("http") and not UNDVIK.search(h)][:300]})
