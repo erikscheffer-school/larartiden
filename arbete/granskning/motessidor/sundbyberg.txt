@@ -1,17 +1,12 @@
 Startadresser från Brave: inga
+Portaladresser: inga
 
 Sidor (poäng):
  53  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/anslagstavla  Anslagstavla | Sundbybergs stad
- 14  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige  Webbsändning av kommunfullmäktige | Sundbybergs stad
- 13  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati-  Demokrati | Sundbybergs stad
- 13  https://www.sundbyberg.se/kommun-och-politik/sammantraden-och-handlingar  Sammanträden och handlingar | Sundbybergs stad
- 13  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige  Kommunfullmäktige | Sundbybergs stad
- 13  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/overklaga-beslut  Överklaga beslut | Sundbybergs stad
  12  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-30-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--154-156-173-175-176-178-185-tillkannagivande-av-justering---  Kommunstyrelsens protokoll för sammanträdet måndagen den 26 oktober 2026, §§ 154, 156-173, 175, 176, 178-185, tillkännagivande av justering | Sundbybe
  12  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-27-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--155-174-177-tillkannagivande-av-justering---  Kommunstyrelsens protokoll för sammanträdet måndagen den 26 oktober 2026, §§ 155, 174, 177, tillkännagivande av justering | Sundbybergs stad
  12  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-20-kommunfullmaktiges-protokoll-for-sammantradet-mandagen-den-19-oktober-2026-tillkannagivande-av-justering---  Kommunfullmäktiges protokoll för sammanträdet måndagen den 19 oktober 2026, tillkännagivande av justering | Sundbybergs stad
  12  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-30-kommunfullmaktige-sammantrader-mandagen-den-9-november-2026-tillkannagivande---  Kommunfullmäktige sammanträder måndagen den 9 november 2026, tillkännagivande | Sundbybergs stad
- 12  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunstyrelsen  Kommunstyrelsen | Sundbybergs stad
  11  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-04-13-kommunstyrelsens-protokoll-for-sammantradet-13-april-2026-88-94-tillkannagivande-av-justering  Kommunstyrelsens protokoll för sammanträdet 13 april 2026, §§88, 94, tillkännagivande av justering | Sundbybergs stad
  11  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-03-27-kommunfullmaktiges-protokoll-for-sammantradet-den-23-mars-2026-tillkannagivande-av-justering  Kommunfullmäktiges protokoll för sammanträdet den 23 mars 2026, tillkännagivande av justering | Sundbybergs stad
   6  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-28-social--och-arbetsmarknadsnamndens-protokoll-for-sammantradet-den-27-oktober-2026-tillkannagivande-av-justering  Social- och arbetsmarknadsnämndens protokoll för sammanträdet den 27 oktober 2026, tillkännagivande av justering | Sundbybergs stad
@@ -22,7 +17,6 @@ Sidor (poäng):
   5  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-23-grundskole--och-gymnasienamndens-protokoll-for-sammantradet-den-22-oktober-2026-tillkannagivande-av-justering  Grundskole- och gymnasienämndens protokoll för sammanträdet den 22 oktober 2026, tillkännagivande av justering | Sundbybergs stad
   5  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-21-stadsmiljo--och-trafiknamndens-protokoll-for-sammantradet-den-20-oktober-2026-tillkannagivande-av-justering  Stadsmiljö- och trafiknämndens protokoll för sammanträdet den 20 oktober 2026, tillkännagivande av justering | Sundbybergs stad
   5  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-21-valnamndens-protokoll-for-sammantradet-den-20-oktober-2026-tillkannagivande-av-justering  Valnämndens protokoll för sammanträdet den 20 oktober 2026, tillkännagivande av justering | Sundbybergs stad
-  5  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-06-16-aldrenamndens-protokoll-for-sammantradet-den-11-juni-2026-tillkannagivande-av-justering  Äldrenämndens protokoll för sammanträdet den 11 juni 2026, tillkännagivande av justering | Sundbybergs stad
   4  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-29-aldrenamndens-protokoll-for-sammantradet-den-29-oktober-2026-tillkannagivande-av-justering  Äldrenämndens protokoll för sammanträdet den 29 oktober 2026, tillkännagivande av justering | Sundbybergs stad
   4  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-21-overformyndarnamndens-protokoll-for-sammantradet-den-20-oktober-2026-tillkannagivande-av-justering  Överförmyndarnämndens protokoll för sammanträdet den 20 oktober 2026, tillkännagivande av justering | Sundbybergs stad
   3  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-27-social--och-arbetsmarknadsnamndens-utskotts-protokoll-for-sammantradet-den-27-oktober-2026-tillkannagivande-av-justering  Social- och arbetsmarknadsnämndens utskotts protokoll för sammanträdet den 27 oktober 2026, tillkännagivande av justering | Sundbybergs stad
@@ -122,9 +116,8 @@ Länkar på https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/a
   https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
   https://intranat.sundbyberg.se/ | Intranätet (öppnas i nytt fönster)
 
-Länkar på https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige:
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige#page_content | Gå till innehåll
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige#submenu | Gå till undermeny
+Länkar på https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-30-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--154-156-173-175-176-178-185-tillkannagivande-av-justering---:
+  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-30-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--154-156-173-175-176-178-185-tillkannagivande-av-justering---#page_content | Gå till innehåll
   https://service.sundbyberg.se/ | E-tjänster (öppnas i nytt fönster)
   https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakt
   https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/translate | Translate
@@ -143,51 +136,9 @@ Länkar på https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organ
   https://www.sundbyberg.se/trafik-och-gator | Trafik och gator
   https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
   https://www.sundbyberg.se/ | Startsida
-  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation | Sundbybergs stads organisation
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige | Kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige | Webbsändning av kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige#page_content | Gå till innehåll
-  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
-  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
-  https://www.sundbyberg.se/kommun-och-politik/kommunfakta | Kommunfakta
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation | Sundbybergs stads organisation
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/hur-fungerar-en-kommun | Hur fungerar en kommun?
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunalrad-och-oppositionsrad | Kommunalråd och oppositionsråd
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige | Kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige | Webbsändning av kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunstyrelsen | Kommunstyrelsen
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/sektorer-och-avdelningar-i-forvaltningen | Sektorer och avdelningar i förvaltningen
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/revision-och-revisorer | Revision och revisorer
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/radgivande-organ | Rådgivande organ
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/bolag-och-forbund | Bolag och förbund
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/namnder | Nämnder
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/notarius-publicus | Notarius publicus
-  https://www.sundbyberg.se/kommun-och-politik/sammantraden-och-handlingar | Sammanträden och handlingar
-  https://www.sundbyberg.se/kommun-och-politik/hitta-och-jamfor-service | Hitta och jämför service
-  https://www.sundbyberg.se/kommun-och-politik/service-och-kvalitetsarbete | Service och kvalitetsarbete
-  https://www.sundbyberg.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel
-  https://www.sundbyberg.se/kommun-och-politik/hallonbergslyftet | Hallonbergslyftet
-  https://www.sundbyberg.se/kommun-och-politik/hallbarhetsarbete-i-kommunen | Hållbarhetsarbete i kommunen
-  https://www.sundbyberg.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap
-  https://www.sundbyberg.se/kommun-och-politik/manskliga-rattigheter | Mänskliga rättigheter
-  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
-  https://www.sundbyberg.se/kommun-och-politik/personuppgifter-och-dataskydd | Personuppgifter och dataskydd
-  https://www.sundbyberg.se/kommun-och-politik/press | Press
-  https://www.sundbyberg.se/kommun-och-politik/bidrag-stod-och-stipendier | Bidrag, stöd och stipendier
-  https://www.sundbyberg.se/kommun-och-politik/priser-och-utmarkelser | Priser och utmärkelser
-  https://www.sundbyberg.se/kommun-och-politik/for-anstallda-och-fortroendevalda | För anställda och förtroendevalda
-  https://sundbyberg.kommunetv.se/ | Se kommunfullmäktiges webbsändningar – kommunetv.se (Länk till annan webbplats, öppnas i nytt fönste
-  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317692 | Se datum, möteshandlingar och protokoll – opengov.com (Länk till annan webbplats, öppnas i nytt föns
-  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317692 | Möteshandlingar och protokoll – opengov.com (Länk till annan webbplats, öppnas i nytt fönster)
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige | Läs mer om kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige | Kommunfullmäktige
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunstyrelsen | Kommunstyrelsen
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/radgivande-organ | Rådgivande organ
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/bolag-och-forbund | Bolag och förbund
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/namnder | Nämnder
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/sektorer-och-avdelningar-i-forvaltningen | Sektorer och avdelningar i förvaltningen
+  https://www.sundbyberg.se/arkiv/anslagstavla | Anslagstavla
+  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-30-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--154-156-173-175-176-178-185-tillkannagivande-av-justering--- | Kommunstyrelsens protokoll för sammanträdet måndagen den 26 oktober 2026, §§ 154, 156-173, 175, 176,
+  https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1139022.PDF?fileName=Protokoll%20f%C3%B6r%20kommunstyrelsens%20sammantr%C3%A4de%20den%2026%20oktober%202026%2C%20%C2%A7%C2%A7%20154%2C%20156-173%2C%20175%2C%20176%2C%20178-185&fileSize=215991 | Protokoll för kommunstyrelsens sammanträde den 26 oktober 2026, §§ 154, 156-173, 175, 176, 178-185
   https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
   https://www.sundbyberg.se/kommun-och-politik/press | Press
   https://www.sundbyberg.se/arkiv/nyheter | Nyheter
@@ -196,9 +147,8 @@ Länkar på https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organ
   https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
   https://intranat.sundbyberg.se/ | Intranätet (öppnas i nytt fönster)
 
-Länkar på https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati-:
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati-#page_content | Gå till innehåll
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati-#submenu | Gå till undermeny
+Länkar på https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-27-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--155-174-177-tillkannagivande-av-justering---:
+  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-27-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--155-174-177-tillkannagivande-av-justering---#page_content | Gå till innehåll
   https://service.sundbyberg.se/ | E-tjänster (öppnas i nytt fönster)
   https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakt
   https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/translate | Translate
@@ -217,42 +167,9 @@ Länkar på https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/d
   https://www.sundbyberg.se/trafik-och-gator | Trafik och gator
   https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
   https://www.sundbyberg.se/ | Startsida
-  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati- | Demokrati
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati-#page_content | Gå till innehåll
-  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter | Dialog och synpunkter
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/anslagstavla | Anslagstavla
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/vision-2030 | Vision 2030
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/hur-fungerar-en-kommun | Hur fungerar en kommun?
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/demokrati- | Demokrati
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/val-2026 | Val 2026
-  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
-  https://www.sundbyberg.se/kommun-och-politik/kommunfakta | Kommunfakta
-  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation | Sundbybergs stads organisation
-  https://www.sundbyberg.se/kommun-och-politik/sammantraden-och-handlingar | Sammanträden och handlingar
-  https://www.sundbyberg.se/kommun-och-politik/hitta-och-jamfor-service | Hitta och jämför service
-  https://www.sundbyberg.se/kommun-och-politik/service-och-kvalitetsarbete | Service och kvalitetsarbete
-  https://www.sundbyberg.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel
-  https://www.sundbyberg.se/kommun-och-politik/hallonbergslyftet | Hallonbergslyftet
-  https://www.sundbyberg.se/kommun-och-politik/hallbarhetsarbete-i-kommunen | Hållbarhetsarbete i kommunen
-  https://www.sundbyberg.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap
-  https://www.sundbyberg.se/kommun-och-politik/manskliga-rattigheter | Mänskliga rättigheter
-  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
-  https://www.sundbyberg.se/kommun-och-politik/personuppgifter-och-dataskydd | Personuppgifter och dataskydd
-  https://www.sundbyberg.se/kommun-och-politik/press | Press
-  https://www.sundbyberg.se/kommun-och-politik/bidrag-stod-och-stipendier | Bidrag, stöd och stipendier
-  https://www.sundbyberg.se/kommun-och-politik/priser-och-utmarkelser | Priser och utmärkelser
-  https://www.sundbyberg.se/kommun-och-politik/for-anstallda-och-fortroendevalda | För anställda och förtroendevalda
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/val-2026 | Val 2026
-  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss/kontakta-politiker | Kontakta politiker
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/e-forslag | E-förslag
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/dialog-och-samrad | Dialog och samråd
-  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter | Dialog och synpunkter
-  https://www.sundbyberg.se/kommun-och-politik/sammantraden-och-handlingar | Sammanträden och handlingar
-  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
+  https://www.sundbyberg.se/arkiv/anslagstavla | Anslagstavla
+  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-10-27-kommunstyrelsens-protokoll-for-sammantradet-mandagen-den-26-oktober-2026--155-174-177-tillkannagivande-av-justering--- | Kommunstyrelsens protokoll för sammanträdet måndagen den 26 oktober 2026, §§ 155, 174, 177, tillkänn
+  https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1138537.PDF?fileName=Protokoll%20f%C3%B6r%20kommunstyrelsens%20sammantr%C3%A4de%20den%2026%20oktober%202026%2C%20%C2%A7%C2%A7%20155%2C%20174%20och%20177&fileSize=102687 | Protokoll för kommunstyrelsens sammanträde den 26 oktober 2026, §§ 155, 174, 177
   https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
   https://www.sundbyberg.se/kommun-och-politik/press | Press
   https://www.sundbyberg.se/arkiv/nyheter | Nyheter
@@ -265,3 +182,8 @@ KF: 2026-03-23, 2026-03-27, 2026-09-07, 2026-09-13, 2026-10-19, 2026-10-20, 2026
 KS: 2026-04-13, 2026-05-06, 2026-10-26, 2026-10-27, 2026-10-30, 2026-11-03, 2026-11-17, 2026-11-20
 
 Aktuella handlingar:
+- Kommunfullmäktige sammanträder måndagen den 9 november 2026, tillkännagivande | Sundbybergs stad – Föredragningslista | https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1139485.PDF?fileName=Kallelse%20med%20f%C3%B6redragningslista%20f%C3%B6r%20kommunfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%209%20november%202026&fileSize=126691
+- Protokoll för kommunstyrelsens sammanträde den 26 oktober 2026, §§ 154, 156-173, 175, 176, 178-185 | https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1139022.PDF?fileName=Protokoll%20f%C3%B6r%20kommunstyrelsens%20sammantr%C3%A4de%20den%2026%20oktober%202026%2C%20%C2%A7%C2%A7%20154%2C%20156-173%2C%20175%2C%20176%2C%20178-185&fileSize=215991
+- Protokoll för kommunstyrelsens sammanträde den 26 oktober 2026, §§ 155, 174, 177 | https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1138537.PDF?fileName=Protokoll%20f%C3%B6r%20kommunstyrelsens%20sammantr%C3%A4de%20den%2026%20oktober%202026%2C%20%C2%A7%C2%A7%20155%2C%20174%20och%20177&fileSize=102687
+- Protokoll för kommunfullmäktiges sammanträde den 19 oktober 2026 | https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1137675.PDF?fileName=Protokoll%20f%C3%B6r%20kommunfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2019%20oktober%202026&fileSize=123057
+- Social- och arbetsmarknadsnämndens justerade den 27 oktober 2026 | https://opengov.360online.com/Meetings/Sundbyberg/File/Details/1138829.PDF?fileName=Social-%20och%20arbetsmarknadsn%C3%A4mndens%20protokoll%20den%2027%20oktober%202026&fileSize=144019

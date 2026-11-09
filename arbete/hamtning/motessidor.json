@@ -51,7 +51,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-11-06",
   "nasta_ks": "2026-11-10",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 150,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r95515467"
+  ]
  },
  "asele": {
   "kommun": "Åsele",
@@ -67,7 +70,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-09-13",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "astorp": {
   "kommun": "Åstorp",
@@ -102,7 +106,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-09-13",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 160,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r15196469"
+  ]
  },
  "boden": {
   "kommun": "Boden",
@@ -118,7 +125,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-09-13",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "bracke": {
   "kommun": "Bräcke",
@@ -128,16 +136,18 @@
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
-   "2026-03-10",
    "2026-04-15",
+   "2026-05-11",
    "2026-06-10",
+   "2026-08-31",
    "2026-10-15",
    "2026-10-21",
    "2026-10-23",
    "2026-10-30",
    "2026-11-02",
    "2026-11-11",
-   "2026-11-16"
+   "2026-11-16",
+   "2026-12-09"
   ],
   "ks": [
    "2026-04-23"
@@ -145,7 +155,8 @@
   "nasta_kf": "2026-11-11",
   "senaste_kf": "2026-11-02",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 1,
+  "portaladresser": []
  },
  "degerfors": {
   "kommun": "Degerfors",
@@ -163,7 +174,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-20",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "dorotea": {
   "kommun": "Dorotea",
@@ -180,7 +192,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-20",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "enkoping": {
   "kommun": "Enköping",
@@ -243,7 +256,8 @@
   "nasta_kf": "2026-11-27",
   "senaste_kf": "2026-11-05",
   "nasta_ks": "2026-11-15",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "goteborg": {
   "kommun": "Göteborg",
@@ -332,7 +346,7 @@
   "kommun": "Hofors",
   "url": "https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html",
   "titel": "Kommunstyrelsen - Hofors kommun",
-  "poang": 75,
+  "poang": 74,
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
@@ -358,7 +372,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-11-02",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "hylte": {
   "kommun": "Hylte",
@@ -412,7 +427,10 @@
   "nasta_kf": "2027-01-01",
   "senaste_kf": "2026-11-03",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 146,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r07740183"
+  ]
  },
  "karlsborg": {
   "kommun": "Karlsborg",
@@ -483,7 +501,8 @@
   "nasta_kf": "2026-11-09",
   "senaste_kf": "2026-10-22",
   "nasta_ks": "2026-11-09",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "klippan": {
   "kommun": "Klippan",
@@ -499,7 +518,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-19",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "kumla": {
   "kommun": "Kumla",
@@ -513,7 +533,8 @@
   "nasta_kf": null,
   "senaste_kf": null,
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "lekeberg": {
   "kommun": "Lekeberg",
@@ -556,7 +577,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-27",
   "nasta_ks": "2026-11-26",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 401,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r83615685"
+  ]
  },
  "lidingo": {
   "kommun": "Lidingö",
@@ -576,7 +600,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-09-21",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r68645812"
+  ]
  },
  "lidkoping": {
   "kommun": "Lidköping",
@@ -615,7 +642,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-04-27",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "ljusdal": {
   "kommun": "Ljusdal",
@@ -722,7 +750,8 @@
   "nasta_kf": "2026-11-09",
   "senaste_kf": "2026-11-02",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "norrtalje": {
   "kommun": "Norrtälje",
@@ -756,7 +785,8 @@
   "nasta_kf": "2026-12-01",
   "senaste_kf": "2026-10-20",
   "nasta_ks": "2026-12-01",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "olofstrom": {
   "kommun": "Olofström",
@@ -814,7 +844,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-22",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "sigtuna": {
   "kommun": "Sigtuna",
@@ -832,7 +863,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-23",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 190,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r23934199"
+  ]
  },
  "sjobo": {
   "kommun": "Sjöbo",
@@ -888,7 +922,8 @@
   "nasta_kf": null,
   "senaste_kf": null,
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "sollentuna": {
   "kommun": "Sollentuna",
@@ -912,7 +947,8 @@
   "nasta_kf": "2026-12-10",
   "senaste_kf": "2026-10-23",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "sundbyberg": {
   "kommun": "Sundbyberg",
@@ -947,7 +983,8 @@
   "nasta_kf": "2026-11-09",
   "senaste_kf": "2026-10-30",
   "nasta_ks": "2026-11-17",
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 5,
+  "portaladresser": []
  },
  "tomelilla": {
   "kommun": "Tomelilla",
@@ -1003,7 +1040,8 @@
   "nasta_kf": null,
   "senaste_kf": "2026-11-05",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 0,
+  "portaladresser": []
  },
  "trollhattan": {
   "kommun": "Trollhättan",
@@ -1182,6 +1220,9 @@
   "nasta_kf": null,
   "senaste_kf": "2026-10-29",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 345,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r02201692"
+  ]
  }
 }

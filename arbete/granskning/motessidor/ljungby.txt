@@ -1,12 +1,13 @@
 Startadresser från Brave: inga
+Portaladresser: inga
 
 Sidor (poäng):
  14  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll  Dagordningar och protokoll | Ljungby kommun
  14  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunstyrelsen/dagordningar-och-protokoll  Dagordningar och protokoll | Ljungby kommun
  13  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter  Dialog och synpunkter | Ljungby kommun
- 12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/namnder/val--och-demokratinamnden  Val- och demokratinämnden | Ljungby kommun
  12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige  Kommunfullmäktige | Ljungby kommun
  12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunstyrelsen  Kommunstyrelsen | Ljungby kommun
+ 12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/namnder/val--och-demokratinamnden  Val- och demokratinämnden | Ljungby kommun
  12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/namnder/miljo--och-byggnamnden  Miljö- och byggnämnden | Ljungby kommun
  12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/namnder/barn--och-utbildningsnamnden  Barn- och utbildningsnämnden | Ljungby kommun
  12  https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/namnder/gemensamma-overformyndarnamnden  Gemensamma överförmyndarnämnden | Ljungby kommun

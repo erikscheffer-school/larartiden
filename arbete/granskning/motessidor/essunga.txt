@@ -1,4 +1,5 @@
 Startadresser från Brave: inga
+Portaladresser: inga
 
 Sidor (poäng):
  47  https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html  Anslagstavla - Essunga kommun
@@ -105,7 +106,7 @@ Länkar på https://www.essunga.se/kommun--politik/politik-och-demokrati/anslags
   https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-02-18-kungorelse---beviljat-bygglov.html | Läs mer
   https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-02-18-kungorelse---beviljat-forhandsbesked.html | Läs mer
   http://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html
-  https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html;jsessionid=933B7DD8613328882737FD35149E4D47?contactUserId=247.8e670571172cb440a778854423105423&sv.url=12.4d092e01759507d7515700&state=showSendMessage#Kontakt | Kristin Lindblom
+  https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html;jsessionid=4C53A69D161853E3DD9A9BB3444070C8?contactUserId=247.8e670571172cb440a778854423105423&sv.url=12.4d092e01759507d7515700&state=showSendMessage#Kontakt | Kristin Lindblom
   https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Ställ en fråga
   https://www.essunga.se/om-webbplatsen/synpunkter.html | Lämna en synpunkt
   https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html# | Till toppen av sidan

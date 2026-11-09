@@ -1,31 +1,12 @@
 Startadresser från Brave: inga
+Portaladresser: inga
 
 Sidor (poäng):
  26  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige  Webbsändning av kommunfullmäktige - Bräcke kommun
- 17  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla  Anslagstavla - Bräcke kommun
+ 24  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892  Kommunfullmäktige | MeetingPlus [sv]
  15  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige  Kommunfullmäktige - Bräcke kommun
- 14  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunstyrelsen  Kommunstyrelsen - Bräcke kommun
  13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/sammantradesdagar-kallelser-och-protokoll  Sammanträdesdagar, kallelser och protokoll - Bräcke kommun
- 13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda  Politik och förtroendevalda - Bräcke kommun
- 11  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-kommunfullmaktige  Justerat protokoll från kommunfullmäktige - Bräcke kommun
- 10  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-30-tillkannagivande-kommunfullmaktige-sammantrader-den-11-november-2026  Tillkännagivande: Kommunfullmäktige sammanträder den 11 november 2026 - Bräcke kommun
-  9  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/bygg--och-miljonamnden  Bygg- och miljönämnden - Bräcke kommun
-  9  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/valnamnden  Valnämnden - Bräcke kommun
-  8  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/allmanna-handlingar-och-arkiv  Allmänna handlingar och arkiv - Bräcke kommun
-  8  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/demokratiberedningen  Demokratiberedningen - Bräcke kommun
-  5  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-revisorerna  Justerat protokoll från revisorerna - Bräcke kommun
-  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-29-justerat-protokoll-fran-bygg--och-miljonamnden  Justerat protokoll från bygg- och miljönämnden - Bräcke kommun
-  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-30-beslut-om-bygglov  Beslut om bygglov - Bräcke kommun
-  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-29-ansokan-om-bygglov  Ansökan om bygglov - Bräcke kommun
-  4  https://www.bracke.se/kommunochdemokrati/beslutinsynochrattssakerhet/anslagstavla/nyhetsarkivspeciallagstiftning/beslutombygglov.5.5bf52f9d1a157840cc035a.html  Beslut om bygglov - Bräcke kommun
-  4  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/overformyndarnamnden  Överförmyndarnämnden - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-20-beslut-om-bygglov  Beslut om bygglov - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet  Beslut, insyn och rättssäkerhet - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/kommunalforbund-och-gemensamma-namnder  Kommunalförbund och gemensamma nämnder - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion  Visselblåsarfunktion - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter  Hantering av personuppgifter - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/overklaga  Överklaga - Bräcke kommun
-  2  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder  Nämnder - Bräcke kommun
+ 13  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige  Kommunfullmäktige | MeetingPlus [sv]
 
 Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige:
   https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige#Rubrik | Hoppa till sidans innehåll
@@ -93,58 +74,215 @@ Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendeva
   https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
   https://play.mediaflow.com/ovp/11/58PBV8N5IM | inbäddad portal kallelser protokoll
 
-Länkar på https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla:
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla#Rubrik | Hoppa till sidans innehåll
-  https://www.bracke.se/ | 
-  https://e-tjanster.bracke.se/ | E-tjänster , länk till annan webbplats.
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
-  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/language | Language
-  https://www.bracke.se/ | Startsida
-  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-30-tillkannagivande-kommunfullmaktige-sammantrader-den-11-november-2026 | Tillkännagivande: Kommunfullmäktige sammanträder den 11 november 2026
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-29-justerat-protokoll-fran-bygg--och-miljonamnden | Justerat protokoll från bygg- och miljönämnden
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-revisorerna | Justerat protokoll från revisorerna
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-kommunfullmaktige | Justerat protokoll från kommunfullmäktige
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-30-beslut-om-bygglov | Beslut om bygglov
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-29-ansokan-om-bygglov | Ansökan om bygglov
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-20-beslut-om-bygglov | Beslut om bygglov
-  https://www.bracke.se/kommunochdemokrati/beslutinsynochrattssakerhet/anslagstavla/nyhetsarkivspeciallagstiftning/beslutombygglov.5.5bf52f9d1a157840cc035a.html | Beslut om bygglov
-  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt?nodeid=4.2bed32d019a7ba0d704d2d7 | Lämna synpunkt
-  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/rapportera-fel-pa-sidan?nodeid=4.2bed32d019a7ba0d704d2d7 | Rapportera fel på sidan
-  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Fler kontaktuppgifter
-  https://www.bracke.se/bygga-bo--och-miljo/kontakt-och-felanmalan-bygga-bo-och-miljo | Felanmälan
-  https://brackekommun.ondemand.formpipe.com/ | Möten, handlingar och protokoll , länk till annan webbplats.
-  https://e-tjanster.bracke.se/ | E-tjänster och blanketter , länk till annan webbplats.
-  http://www.brackenasta.se/ | bräckenästa.se , länk till annan webbplats.
-  https://www.vattenmiljoresurs.se/bracke | vattenmiljoresurs.se , länk till annan webbplats.
-  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
-  https://maps.app.goo.gl/QGBXtw9Pj5bWe1M26 | Kommunen på kartan , länk till annan webbplats.
-  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen | Om webbplatsen
-  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
-  https://zporten.sharepoint.com/sites/Communis | Intranät Communis
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla#page-top | Till toppen av sidan
-  https://www.bracke.se/bygga-bo--och-miljo | Bygga, bo och miljö
-  https://www.bracke.se/barn-och-utbildning | Barn och utbildning
-  https://www.bracke.se/stod-och--omsorg | Stöd och omsorg
-  https://www.bracke.se/kultur-fritid-och-turism | Kultur, fritid och turism
-  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/allmanna-handlingar-och-arkiv | Allmänna handlingar och arkiv
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
-  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/overklaga | Överklaga
-  https://www.bracke.se/kommun--och-demokrati/ekonomi-mal-och-styrdokument | Ekonomi, mål och styrdokument
-  https://www.bracke.se/kommun--och-demokrati/e-tjanster-och-blanketter | E-tjänster och blanketter
-  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Kontakta oss
-  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
-  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt | Organisation och projekt
-  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
-  https://www.bracke.se/kommun--och-demokrati/press-media-och-information | Press, media och information
-  https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
+Länkar på https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892:
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#main | Hoppa över navigering
+  https://brackekommun.ondemand.formpipe.com/ | 
+  https://brackekommun.ondemand.formpipe.com/overview | ÖVERSIKT
+  https://brackekommun.ondemand.formpipe.com/committees | NÄMNDER & STYRELSER
+  https://brackekommun.ondemand.formpipe.com/committees | Nämnder & Styrelser
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige | Kommunfullmäktige
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-87030 | 2026-12-09
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-44332 | 2026-10-21
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-32803 | 2026-06-10
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-21512 | 2026-04-15
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-77964 | 2026-03-10
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-26675 | 2025-12-10
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-57692 | 2025-11-12
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-41691 | 2025-10-01
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-80556 | 2025-06-11
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-32459 | 2025-04-15
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-74077 | 2024-12-11
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-14798 | 2024-11-13
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-45518 | 2024-10-02
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-47246 | 2024-06-12
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-84680 | 2024-04-17
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-23546 | 2024-03-19
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-96495 | 2023-12-13
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-79226 | 2023-11-15
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-68232 | 2023-10-04
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige | 2023-04-18
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-15885 | 2023-03-20
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#agendaTabContent | Kallelse
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#protocolTabContent | Protokoll
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892/agenda/kallelsepdf?downloadMode=open | Kallelse.pdf
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892/agenda/kallelse-gruppmote-2026-11-11pdf?downloadMode=open | Kallelse gruppmöte 2026-11-11.pdf
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/Agenda?downloadMode=download | LADDA NER ALLT
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20474 | 1 Upprop, protokollets justering samt fastställande av dagordningen
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20474 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kallelse-upprop-justering-samt-faststallande-av-dagordningenpdf-47092?downloadMode=open | Kallelse - upprop, justering samt fastställande av dagordningen.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kallelse-upprop-justering-samt-faststallande-av-dagordningenpdf-47092?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20477 | 2 Godkännande av avsägelser samt meddelanden om nya ledamöter och ersättare i kommunfullmäktige
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20477 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/avsagelse-lisa-bystrom-spdf?downloadMode=open | Avsägelse, Lisa Byström (S).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/avsagelse-lisa-bystrom-spdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/avsagelse-av-uppdrag-som-ledamot-i-kommunfullmaktigepdf?downloadMode=open | Avsägelse av uppdrag som ledamot i kommunfullmäktige.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/avsagelse-av-uppdrag-som-ledamot-i-kommunfullmaktigepdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20482 | 3 Informationer
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20482 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kallelse-informationerpdf?downloadMode=open | Kallelse - informationer.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kallelse-informationerpdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20617 | 5 Delårsrapport per 31 augusti 2026 med prognos för 2026
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20617 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-162pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 162).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-162pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/delarsrapport-31-augusti-2026-och-prognos-for-2026pdf?downloadMode=open | Delårsrapport 31 augusti 2026 och prognos för 2026.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/delarsrapport-31-augusti-2026-och-prognos-for-2026pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/ekonomiutskottet-2026-09-24-ss-25pdf?downloadMode=open | Ekonomiutskottet (2026-09-24, § 25).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/ekonomiutskottet-2026-09-24-ss-25pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-36055?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-36055?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20467 | 6 Skattesats 2027
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20467 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-163pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 163).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-163pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/ekonomiutskottet-2026-09-24-ss-26pdf?downloadMode=open | Ekonomiutskottet (2026-09-24 § 26).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/ekonomiutskottet-2026-09-24-ss-26pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-43947?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-43947?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20491 | 7 MidSweden365 AB - redovisning 2026-01-01 -- 2026-05-11
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20491 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-164pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 164).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-164pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-71042?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-71042?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/styrelsens-redovisning-20260101-20260511pdf?downloadMode=open | Styrelsens redovisning 20260101-20260511.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/styrelsens-redovisning-20260101-20260511pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/revisionsberattelse-2026-01-01-2026-05-11pdf?downloadMode=open | Revisionsberättelse 2026-01-01 - 2026-05-11.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/revisionsberattelse-2026-01-01-2026-05-11pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunfullmaktige-2026-04-15-ss-38pdf?downloadMode=open | Kommunfullmäktige (2026-04-15 § 38).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunfullmaktige-2026-04-15-ss-38pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20502 | 8 Medborgarförslag: Införande av formell rättelse- och kompletteringsrutin före beslut i barn- och f
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20502 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-167pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 167).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-167pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-145pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06, § 145).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-145pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-52301?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-52301?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-inforande-av-formell-rattelse-och-kompletteringsrutin-fore-beslut-i-barn-och-familjearendenpdf-76447?downloadMode=open | GDPR Medborgarförslag - införande av formell rättelse- och kompletteringsrutin före beslut i barn- o
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-inforande-av-formell-rattelse-och-kompletteringsrutin-fore-beslut-i-barn-och-familjearendenpdf-76447?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20511 | 9 Medborgarförslag: Säkerställande av dokumenterad delaktighet för barn och vårdnadshavare i barn- o
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20511 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-168pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 168).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-168pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-146pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06 § 146).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-146pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-53286?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-53286?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-sakerstallande-av-dokumenterad-delaktigthet-for-barn-och-vardnadshaare-i-barn-och-familjerattenpdf-77432?downloadMode=open | GDPR Medborgarförslag - säkerställande av dokumenterad delaktigthet för barn och vårdnadshaare i bar
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-sakerstallande-av-dokumenterad-delaktigthet-for-barn-och-vardnadshaare-i-barn-och-familjerattenpdf-77432?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20520 | 10 Medborgarförslag: Systematisk uppföljning av bemötande och förhållningssätt inom socialtjänstens 
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20520 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-169pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 169).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-169pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-147pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06 § 147).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-147pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-systematisk-uppfoljning-av-bemotande-och-forhallningssatt-inom-socialtjanstens-myndighetsutovningpdf-84991?downloadMode=open | GDPR Medborgarförslag - systematisk uppföljning av bemötande och förhållningssätt inom socialtjänste
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-systematisk-uppfoljning-av-bemotande-och-forhallningssatt-inom-socialtjanstens-myndighetsutovningpdf-84991?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-53974?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-53974?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20529 | 11 Medborgarförslag: Säkerställande av att delegationsordningen följs inom Vård- och socialutskottet
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20529 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-170pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 170).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-170pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-148pdf?downloadMode=open | Vård- och socialutskottet 2026-10-06, § 148.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-148pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-10405?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-10405?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-sakerstallande-av-att-delegationsordningen-foljs-inom-vsupdf-27675?downloadMode=open | GDPR Medborgarförslag - säkerställande av att delegationsordningen följs inom VSU.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-sakerstallande-av-att-delegationsordningen-foljs-inom-vsupdf-27675?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20538 | 12 Medborgarförslag: Årlig och öppen kvalitetsgranskning av Vård- och socialutskottet (VSU)
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20538 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-171pdf?downloadMode=open | Kommunstyrelsen 2026-10-13, § 171.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-171pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-149pdf?downloadMode=open | Vård- och socialutskottet 2026-10-06, § 149.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-149pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-51531?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-51531?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-arlig-och-oppen-kvatlitetsgranskning-av-vsupdf-60952?downloadMode=open | GDPR Medborgarförslag - årlig och öppen kvatlitetsgranskning av VSU.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-arlig-och-oppen-kvatlitetsgranskning-av-vsupdf-60952?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20547 | 13 Medborgarförslag: Standardiserade och rättssäkra utredningsrutiner inom Vård- och socialutskottet
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20547 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-172pdf?downloadMode=open | Kommunstyrelsen 2026-10-13, § 172.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-172pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-150pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06, § 150).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-150pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-33080?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-33080?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-standardiserade-och-rattssakra-utredningsrutinerpdf-24934?downloadMode=open | GDPR Medborgarförslag - standardiserade och rättssäkra utredningsrutiner.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-standardiserade-och-rattssakra-utredningsrutinerpdf-24934?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20556 | 14 Medborgarförslag: Oberoende genomlysning av handläggningen inom Vård- och socialutskottet (VSU)
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20556 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-173pdf?downloadMode=open | Kommunstyrelsen 2026-10-13, § 173.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-173pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-151pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06, § 151).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-151pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-87062?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-87062?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-oberoende-genomlysning-av-handlaggningen-inom-vsupdf-21209?downloadMode=open | GDPR Medborgarförslag - oberoende genomlysning av handläggningen inom VSU.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-oberoende-genomlysning-av-handlaggningen-inom-vsupdf-21209?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20565 | 15 Medborgarförslag: Obligatorisk och återkommande utbildning för politiker i Vård- och socialutskot
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20565 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-174pdf?downloadMode=open | Kommunstyrelsen 2026-10-13, § 174.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-174pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-152pdf?downloadMode=open | Vård- och socialutskottet 2026-10-06, § 152.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-152pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-78329?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-78329?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-obligatorisk-och-aterkommande-utbildning-for-politiker-i-vsupdf-47609?downloadMode=open | GDPR Medborgarförslag - obligatorisk och återkommande utbildning för politiker i VSU.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-obligatorisk-och-aterkommande-utbildning-for-politiker-i-vsupdf-47609?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20574 | 16 Medborgarförslag - Prövning av 35 timmars arbetsvecka inom vård och omsorg
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20574 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-175pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 175).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-175pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-153pdf?downloadMode=open | Vård- och socialutskottet 2026-10-06, § 153.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-153pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-39174?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-39174?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-provning-av-35-timmars-arbetsvecka-inom-vard-och-omsorgpdf-63023?downloadMode=open | GDPR Medborgarförslag - Prövning av 35 timmars arbetsvecka inom vård och omsorg.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-provning-av-35-timmars-arbetsvecka-inom-vard-och-omsorgpdf-63023?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20583 | 17 Medborgarförslag - behovsanpassad bemanning inom vård och omsorg
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20583 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-176pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 176).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-176pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-154pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06, § 154).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-154pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-44572?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-44572?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-behovsanpassad-bemanning-inom-vard-och-omsorgpdf-20433?downloadMode=open | GDPR Medborgarförslag - Behovsanpassad bemanning inom vård och omsorg.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-behovsanpassad-bemanning-inom-vard-och-omsorgpdf-20433?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20592 | 18 Medborgarförslag - införa riktlinjer för hållbar schemaläggning inom vård och omsorg
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20592 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-177pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 177).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-177pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-155pdf?downloadMode=open | Vård- och socialutskottet (2026-10-06, § 155).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/vard-och-socialutskottet-2026-10-06-ss-155pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-16707?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-16707?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-riktlinjer-for-hallbar-schemalaggning-inom-vard-och-omsorgpdf-48405?downloadMode=open | GDPR Medborgarförslag - Riktlinjer för hållbar schemaläggning inom vård och omsorg.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/gdpr-medborgarforslag-riktlinjer-for-hallbar-schemalaggning-inom-vard-och-omsorgpdf-48405?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20601 | 19 Uppföljning av intern kontroll 2026
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20601 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-178pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 178).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-178pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-74654?downloadMode=open | Tjänsteskrivelse.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/tjansteskrivelsepdf-74654?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-2026-kommunstyrelsenpdf?downloadMode=open | Internkontrollplan 2026 kommunstyrelsen.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-2026-kommunstyrelsenpdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-2026-ofnpdf?downloadMode=open | Internkontrollplan 2026 ÖFN.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-2026-ofnpdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-bygg-och-miljonamnden-2026pdf?downloadMode=open | Internkontrollplan Bygg- och miljönämnden 2026.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/internkontrollplan-bygg-och-miljonamnden-2026pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20612 | 20 Initaitvärende: behålla och utveckla utskottsorganisationen
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20612 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-189pdf?downloadMode=open | Kommunstyrelsen (2026-10-13, § 189).pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/kommunstyrelsen-2026-10-13-ss-189pdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/initiativarende-behalla-och-utveckla-utskottsorganisationenpdf?downloadMode=open | Initiativärende - behålla och utveckla utskottsorganisationen.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/initiativarende-behalla-och-utveckla-utskottsorganisationenpdf?downloadMode=download | Ladda ner dokument
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892#id_20486 | 54 Meddelanden
+  https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20486 | Ladda ner alla filer under punkten
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/inbjudan-till-nominering-till-kief-efter-valet-2026pdf-11709?downloadMode=open | Inbjudan till nominering till KIEF efter valet 2026.pdf
+  https://brackekommun.ondemand.formpipe.com/welcome-sv/namnder-styrelser/kommunfullmaktige/kommunfullmaktige/agenda/inbjudan-till-nominering-till-kief-efter-valet-2026pdf-11709?downloadMode=download | Ladda ner dokument
 
 Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige:
   https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige#Rubrik | Hoppa till sidans innehåll
@@ -200,7 +338,8 @@ Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendeva
   https://www.bracke.se/kommun--och-demokrati/press-media-och-information | Press, media och information
   https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
 
-KF: 2026-03-10, 2026-04-15, 2026-06-10, 2026-10-15, 2026-10-21, 2026-10-23, 2026-10-30, 2026-11-02, 2026-11-11, 2026-11-16
+KF: 2026-01-01, 2026-03-10, 2026-04-15, 2026-05-11, 2026-06-10, 2026-08-31, 2026-10-15, 2026-10-21, 2026-10-23, 2026-10-30, 2026-11-02, 2026-11-11, 2026-11-16, 2026-12-09
 KS: 2026-04-23
 
 Aktuella handlingar:
+- Ladda ner alla filer under punkten | https://brackekommun.ondemand.formpipe.com/api/v2.0/meetings/19826/download/items/20467

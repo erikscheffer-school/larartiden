@@ -1,8 +1,9 @@
 Startadresser från Brave: inga
+Portaladresser: inga
 
 Sidor (poäng):
  16  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html  Kommunfullmäktige - Degerfors kommun
- 16  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage  Kommunfullmäktige - Degerfors kommun
+ 16  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage  Kommunfullmäktige - Degerfors kommun
  16  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage  Kommunfullmäktige - Degerfors kommun
  14  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunstyrelse.html  Kommunstyrelse - Degerfors kommun
  14  https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html  Protokoll och kallelser - Degerfors kommun
@@ -59,7 +60,7 @@ Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommu
   https://degerfors.se/kommun-och-politik/politik-och-demokrati/stall-en-fraga.html | STÄLL EN FRÅGA
   https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | LÄMNA EN SYNPUNKT
   https://www.degerfors.se/kommun-och-politik/felanmalan.html | FELANMÄLAN LÄNK TILL ANNAN WEBBPLATS.
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Kontakt | Evelina Holmkvist
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Kontakt | Evelina Holmkvist
   https://degerfors.se/barn-och-utbildning.html | Barn och utbildning
   https://degerfors.se/barn-och-utbildning/forskola.html | Förskola
   https://degerfors.se/barn-och-utbildning/framtida-skolstruktur-i-degerfors-kommun.html | Framtida skolstruktur i Degerfors kommun
@@ -181,18 +182,18 @@ Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommu
   https://degerforspweb.aspenterprise.visma.se/PMobile/#!/home | Självservice extern
   https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Alla kontaktuppgifter
 
-Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage:
+Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage:
   https://degerfors.se/om-webbplatsen.html | Läs mer om våra cookies
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Mittenspalt | Hoppa till innehåll
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Hoppa till meny
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Hoppa till meny
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Mittenspalt | Hoppa till innehåll
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Hoppa till meny
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Hoppa till meny
   https://degerfors.se/ | 
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Meny
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#listen | Lyssna
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#menu | Meny
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#listen | Lyssna
   http://etjanster.degerfors.se/ | E-tjänster
   https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakt
   https://degerfors.se/suomi.html | Suomeksi
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage# | Välj språk​▼
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage# | Välj språk​▼
   https://app.readspeaker.com/cgi-bin/rsent?customerid=9468&lang=sv&readid=svid94_2b562a0f15e574ebc2eca7&url=https%3A//degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html | Lyssna
   https://degerfors.se/barn-och-utbildning.html | Barn och utbildning
   https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd
@@ -204,8 +205,8 @@ Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommu
   https://degerfors.se/ | Degerfors kommun
   https://degerfors.se/kommun-och-politik.html | Kommun och politik
   https://degerfors.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#sharepage | Dela
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#contact | Kontakt
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#sharepage | Dela
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#contact | Kontakt
   https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och kallelser
   https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och handlingar
   https://degerfors.se/download/18.5aeb199c16914b889fa7051/1571648429317/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige.pdf | Arbetsordning kommunfullmäktige Pdf, 160.5 kB, öppnas i nytt fönster.
@@ -318,7 +319,7 @@ Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommu
   https://degerfors.se/sakerhet-och-beredskap/trygghet.html | Trygghet
   https://degerfors.se/sakerhet-och-beredskap/var-kan-jag-hitta-bra-information.html | Var kan jag hitta bra information?
   https://degerfors.se/sakerhet-och-beredskap/vma---viktigt-meddelande-till-allmanheten.html | VMA - viktigt meddelande till allmänheten
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=6A8184C064349164A0D70F708D219181?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage# | Till toppen av sidan
+  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=3F998BD4D1A1C89FA3981C653F1BC2AB?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage# | Till toppen av sidan
   https://degerfors.se/barn-och-utbildning.html | Barn och utbildning
   https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd
   https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö
@@ -345,7 +346,6 @@ Länkar på https://degerfors.se/kommun-och-politik/kommunens-organisation/kommu
   http://etjanster.degerfors.se/ | E-tjänster
   https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakt
   https://degerfors.se/suomi.html | Suomeksi
-  https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage# | Välj språk​▼
   https://app.readspeaker.com/cgi-bin/rsent?customerid=9468&lang=sv&readid=svid94_2b562a0f15e574ebc2eca7&url=https%3A//degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html | Lyssna
   https://degerfors.se/barn-och-utbildning.html | Barn och utbildning
   https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd
