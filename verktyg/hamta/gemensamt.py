@@ -38,7 +38,8 @@ REFORMKONTEXT = re.compile(r"regler|reform|nationell|lagförslag|lagändring|pro
 INTE_REFORM = re.compile(r"garanterad\W+undervisningstid|erbjuden\W+undervisningstid|förskollär|barnskötar", re.I)
 # Mötesportaler där kommunens handlingar ofta ligger på en annan domän.
 PORTALER = ["netpublicator", "meetingsplus", "ciceron", "lexkommun", "edok", "dokument.", "handlingar.",
-            "politik.", "sammantraden", "insynsverige", "kommunkartan.se/handling"]
+            "politik.", "sammantraden", "insynsverige", "kommunkartan.se/handling", "enamnd.se", "formpipe.com", "360online.com",
+            "docs.netpublicator.com"]
 # Statsbidrag räknas bara som träff i närheten av lärare/undervisning.
 STATSBIDRAG = re.compile(r"statsbidrag", re.I)
 STATSBIDRAG_KONTEXT = re.compile(r"lärar|undervisn|skol", re.I)

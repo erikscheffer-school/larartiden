@@ -1,1 +1,1 @@
-arjang,asele,astorp,atvidaberg,boden,bracke,degerfors,dorotea,essunga,hassleholm,hofors,jarfalla,karlstad,klippan,kumla,lerum,lidingo,ljungby,lomma,norberg,norrtalje,rattvik,sigtuna,solleftea,sollentuna,sundbyberg,trelleborg,ystad
+arjang,asele,atvidaberg,boden,bracke,degerfors,dorotea,essunga,hofors,jarfalla,karlstad,klippan,kumla,lerum,lidingo,ljungby,norberg,norrtalje,rattvik,sigtuna,solleftea,sollentuna,sundbyberg,trelleborg,ystad

@@ -43,7 +43,8 @@ PORTALTYPER = {
     "netpublicator": "Netpublicator", "meetingsplus": "MeetingsPlus", "ciceron": "Ciceron",
     "insynsverige": "Insyn Sverige", "lexkommun": "Lex", "edokmeetings": "eDok", "w3d3": "W3D3",
     "platina": "Platina", "evolution": "Evolution", "kommunkartan": "Kommunkartan",
-    "public360": "Public 360", "p360": "Public 360", "politikerportal": "Politikerportal",
+    "public360": "Public 360", "360online": "Public 360 OpenGov", "enamnd": "eNämnd",
+    "ondemand.formpipe": "Formpipe Platina", "p360": "Public 360", "politikerportal": "Politikerportal",
     "moten.": "Mötesportal", "sammantraden.": "Mötesportal", "handlingar.": "Mötesportal",
     "politik.": "Mötesportal", "dokument.": "Mötesportal",
 }

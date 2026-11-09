@@ -152,6 +152,8 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
     ky = {"kf": set(), "ks": set()}
     raknare = len(start)
     page = await context.new_page()
+    anrop = []  # nätverksanrop: inbäddade portaler (Netpublicator-widgetar) syns bara här
+    page.on("request", lambda req: anrop.append(req.url) if len(anrop) < 3000 else None)
     try:
         while ko and len(besokta) < max_sidor:
             _, _, url = heapq.heappop(ko)
@@ -198,7 +200,8 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
                 h = doman(href)
                 if NP_LASARE.search(href) or "meetingsplus" in h:
                     adresser.add(href)
-                egen = samma_doman(href, dom) or h in tillatna or (portaltyp(href) and namn_finns(k["k"], f"{href} {ltext}"))
+                egen = samma_doman(href, dom) or h in tillatna or (portaltyp(href) and (
+                    namn_finns(k["k"], f"{href} {ltext}") or dom.split(".")[0] in h))
                 if DOKLANK.search(href):
                     if not (egen or portaltyp(href)):
                         continue
@@ -224,6 +227,12 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
                     heapq.heappush(ko, (-lp, raknare, href))
     finally:
         await page.close()
+    for a in anrop:
+        m = re.search(r"netpublicator\.com/(?:api/public|reader)/(r\d+)", a)
+        if m:
+            adresser.add(f"https://www.netpublicator.com/reader/{m.group(1)}")
+        elif "meetingsplus" in a:
+            adresser.add(a)
     return sidor, dokument, ky, adresser, len(besokta)
 
 
@@ -290,6 +299,7 @@ async def kor(valda, sparat, max_sok, parallellt, max_sidor_upptack, max_sidor_k
                     except asyncio.TimeoutError:
                         pass
                 dok = sorted(dok.values(), key=dokrang)
+                adr |= set(gammal.get("portaladresser") or [])
                 for rid in sorted({m.group(1) for a in adr for m in [NP_LASARE.search(a)] if m})[:2]:
                     try:
                         dok += sorted(await asyncio.wait_for(Netpublicator(context.request).genomsok(context, rid), 600), key=dokrang)
@@ -300,7 +310,8 @@ async def kor(valda, sparat, max_sok, parallellt, max_sidor_upptack, max_sidor_k
                         dok += await asyncio.wait_for(meetingsplus(context, bas), 600)
                     except Exception:
                         pass
-                res[k["id"]] = {"sidor": sidor, "dok": dok, "ky": ky, "n": n, "upptack": upptack, "brave": bu}
+                res[k["id"]] = {"sidor": sidor, "dok": dok, "ky": ky, "n": n, "upptack": upptack, "brave": bu,
+                               "portaler": sorted(adr)[:10]}
                 bast = max(sidor, key=lambda s: s["poang"], default=None)
                 print(f"  {k['k']}: {n} sidor, bästa {bast['poang'] if bast else 0} p "
                       f"({(bast or {}).get('url', '–')[:90]}), {len(dok)} aktuella handlingar, "
@@ -354,7 +365,8 @@ def main():
                 "nasta_kf": next((d for d in kf if d >= idag_s), None),
                 "senaste_kf": next((d for d in reversed(kf) if d < idag_s), None),
                 "nasta_ks": next((d for d in ks if d >= idag_s), None),
-                "aktuella_handlingar": len(r["dok"])}
+                "aktuella_handlingar": len(r["dok"]),
+                "portaladresser": sorted(set(gammal.get("portaladresser") or []) | set(r["portaler"]))[:10]}
         sparat[k["id"]] = post
         if poang < 15:
             utan.append(k["k"])
@@ -370,7 +382,8 @@ def main():
             sedda[d["url"]] = sp["traffar"][-1]
             nya_totalt += 1
         if DEBUG:
-            rader = [f"Startadresser från Brave: {', '.join(r['brave']) or 'inga'}", "", "Sidor (poäng):"]
+            rader = [f"Startadresser från Brave: {', '.join(r['brave']) or 'inga'}",
+                     f"Portaladresser: {', '.join(r['portaler']) or 'inga'}", "", "Sidor (poäng):"]
             rader += [f"{s['poang']:3d}  {s['url']}  {s['titel']}" for s in sorted(r["sidor"], key=lambda s: -s["poang"])]
             for s in sorted(r["sidor"], key=lambda s: -s["poang"])[:3]:
                 rader += ["", f"Länkar på {s['url']}:"] + [f"  {h} | {t}" for h, t in s["lankar"]]
