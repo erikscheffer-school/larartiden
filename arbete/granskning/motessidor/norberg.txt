@@ -1,10 +1,11 @@
 Startadresser från Brave: inga
-Portaladresser: inga
+Portaladresser: https://opengov.360online.com/Meetings/NORBERG, https://opengov.360online.com/Meetings/norberg
 
 Sidor (poäng):
  66  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html  Protokoll och handlingar - Norbergs kommun
  32  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html  Sammanträden - Norbergs kommun
- 17  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html  Motioner och medborgarförslag - Norbergs kommun
+ 26  https://norberg.se/  Norbergs kommun - Norbergs kommun
+ 26  https://norberg.se/  Norbergs kommun - Norbergs kommun
  16  https://norberg.se/kommun--politik/insyn-och-paverkan/hur-gar-det-till-att-fatta-beslut.html  Hur går det till att fatta beslut? - Norbergs kommun
  16  https://norberg.se/kommun--politik/insyn-och-paverkan.html  Insyn och påverkan - Norbergs kommun
  15  https://norberg.se/kommun--politik/politik-och-fortroendevalda.html  Politik och förtroendevalda - Norbergs kommun
@@ -12,15 +13,22 @@ Sidor (poäng):
  14  https://norberg.se/kommun--politik/insyn-och-paverkan/overklaga-beslut.html  Överklaga beslut - Norbergs kommun
  14  https://norberg.se/kommun--politik/politik-och-fortroendevalda/namnder-och-utskott.html  Nämnder och utskott - Norbergs kommun
  14  https://norberg.se/kommun--politik/insyn-och-paverkan/lamna-in-medborgarforslag.html  Lämna in medborgarförslag - Norbergs kommun
+ 12  https://norberg.se/kommun--politik/insyn-och-paverkan/webbtv.html  Webbtv - Norbergs kommun
  11  https://norberg.se/kommun--politik.html  Kommun & politik - Norbergs kommun
  10  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunal-anslagstavla.html  Kommunal anslagstavla - Norbergs kommun
-  5  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunarkiv.html  Kommunarkiv - Norbergs kommun
+ 10  https://norberg.se/kommun--politik/politik-och-fortroendevalda/valet-2026.html  Valet 2026 - Norbergs kommun
+  9  https://norberg.se/kommun--politik/insyn-och-paverkan/visselblasning.html  Visselblåsning - Norbergs kommun
+  9  https://norberg.se/kommun--politik/politik-och-fortroendevalda/forbund.html  Förbund - Norbergs kommun
+  9  https://norberg.se/kommun--politik/politik-och-fortroendevalda/politiska-partier.html  Politiska partier - Norbergs kommun
   5  https://norberg.se/kommun--politik/insyn-och-paverkan/sa-hanterar-vi-dina-personuppgifter.html  Så hanterar vi dina personuppgifter - Norbergs kommun
   5  https://norberg.se/kommun--politik/insyn-och-paverkan/utveckling-av-kommunhuset.html  Utveckling av kommunhuset - Norbergs kommun
+  5  https://norberg.se/kommun--politik/politik-och-fortroendevalda/fortroendevalda-i-kommunen.html  Förtroendevalda i kommunen - Norbergs kommun
   4  https://norberg.se/naringsliv--arbete/foretagande/frukostmoten.html  Frukostmöten - Norbergs kommun
+  4  https://norberg.se/kommun--politik/insyn-och-paverkan/offentlighetsprincipen.html  Offentlighetsprincipen - Norbergs kommun
+  4  https://norberg.se/kommun--politik/insyn-och-paverkan/press-media-och-information.html  Press, media och information - Norbergs kommun
   4  https://norberg.se/kommun--politik/insyn-och-paverkan/synpunkter-klagomal-och-felanmalan.html  Synpunkter, klagomål och felanmälan - Norbergs kommun
-  3  https://norberg.se/kommun--politik/insyn-och-paverkan/offentlighetsprincipen.html  Offentlighetsprincipen - Norbergs kommun
-  3  https://norberg.se/kommun--politik/insyn-och-paverkan/press-media-och-information.html  Press, media och information - Norbergs kommun
+ -3  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-11-02-kungorelse---kommunfullmaktiges-sammantrade.html  Kungörelse – kommunfullmäktiges sammanträde - Norbergs kommun
+ -3  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html  Motioner och medborgarförslag - Norbergs kommun
 
 Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html:
   https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-35 | 
@@ -626,43 +634,41 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.h
   https://norberg.se/stod--omsorg/stod-for-aldre/hemtjanst---stod-i-vardagen.html | Hemtjänst - stöd i vardagen
   https://norberg.se/stod--omsorg/stod-for-aldre/matlada.html | Matlåda
 
-Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html:
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-35 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-35 | Insyn och påverkan
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#svid10_6460a04e16e59225b3d494c | Close menu
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Öppna undermeny (Barn & utbildning)
+Länkar på https://norberg.se/:
+  https://norberg.se/#svid10_6460a04e16e59225b3d494c | Close menu
+  https://norberg.se/#mm-0 | 
+  https://norberg.se/#mm-1 | Öppna undermeny (Barn & utbildning)
   https://norberg.se/barn--utbildning.html | Barn & utbildning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Öppna undermeny (Boende & miljö)
+  https://norberg.se/#mm-10 | Öppna undermeny (Boende & miljö)
   https://norberg.se/boende--miljo.html | Boende & miljö
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Öppna undermeny (Stöd & omsorg)
+  https://norberg.se/#mm-17 | Öppna undermeny (Stöd & omsorg)
   https://norberg.se/stod--omsorg.html | Stöd & omsorg
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-29 | Öppna undermeny (Näringsliv & arbete)
+  https://norberg.se/#mm-29 | Öppna undermeny (Näringsliv & arbete)
   https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-35 | Öppna undermeny (Kommun & politik)
+  https://norberg.se/#mm-35 | Öppna undermeny (Kommun & politik)
   https://norberg.se/kommun--politik.html | Kommun & politik
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-44 | Öppna undermeny (Kultur & fritid)
+  https://norberg.se/#mm-44 | Öppna undermeny (Kultur & fritid)
   https://norberg.se/kultur--fritid.html | Kultur & fritid
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Close submenu (Barn & utbildning)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Barn & utbildning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Öppna undermeny (Allmän information)
+  https://norberg.se/#mm-1 | 
+  https://norberg.se/#mm-0 | Close submenu (Barn & utbildning)
+  https://norberg.se/#mm-0 | Barn & utbildning
+  https://norberg.se/#mm-2 | Öppna undermeny (Allmän information)
   https://norberg.se/barn--utbildning/allman-information.html | Allmän information
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-4 | Öppna undermeny (E-tjänster och blanketter)
+  https://norberg.se/#mm-4 | Öppna undermeny (E-tjänster och blanketter)
   https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-5 | Öppna undermeny (Förskola)
+  https://norberg.se/#mm-5 | Öppna undermeny (Förskola)
   https://norberg.se/barn--utbildning/forskola.html | Förskola
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-6 | Öppna undermeny (Grundskola och fritidshem)
+  https://norberg.se/#mm-6 | Öppna undermeny (Grundskola och fritidshem)
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-7 | Öppna undermeny (Gymnasieutbildning)
+  https://norberg.se/#mm-7 | Öppna undermeny (Gymnasieutbildning)
   https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-8 | Öppna undermeny (Vuxenutbildning)
+  https://norberg.se/#mm-8 | Öppna undermeny (Vuxenutbildning)
   https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-9 | Öppna undermeny (Övriga fristående verksamheter)
+  https://norberg.se/#mm-9 | Öppna undermeny (Övriga fristående verksamheter)
   https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Allmän information)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Allmän information
+  https://norberg.se/#mm-2 | 
+  https://norberg.se/#mm-1 | Close submenu (Allmän information)
+  https://norberg.se/#mm-1 | Allmän information
   https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll
   https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar
   https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering
@@ -672,21 +678,21 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet
   https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola
   https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | Öppna undermeny (Skolskjuts)
+  https://norberg.se/#mm-3 | Öppna undermeny (Skolskjuts)
   https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts
   https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Skolskjuts)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Skolskjuts
+  https://norberg.se/#mm-3 | 
+  https://norberg.se/#mm-2 | Close submenu (Skolskjuts)
+  https://norberg.se/#mm-2 | Skolskjuts
   https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-4 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (E-tjänster och blanketter)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | E-tjänster och blanketter
+  https://norberg.se/#mm-4 | 
+  https://norberg.se/#mm-1 | Close submenu (E-tjänster och blanketter)
+  https://norberg.se/#mm-1 | E-tjänster och blanketter
   https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter
   https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats.
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-5 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Förskola)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Förskola
+  https://norberg.se/#mm-5 | 
+  https://norberg.se/#mm-1 | Close submenu (Förskola)
+  https://norberg.se/#mm-1 | Förskola
   https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola
   https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor
   https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan
@@ -697,9 +703,9 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
   https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet
   https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-6 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Grundskola och fritidshem)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Grundskola och fritidshem
+  https://norberg.se/#mm-6 | 
+  https://norberg.se/#mm-1 | Close submenu (Grundskola och fritidshem)
+  https://norberg.se/#mm-1 | Grundskola och fritidshem
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9
@@ -713,53 +719,53 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola
   https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-7 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Gymnasieutbildning)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Gymnasieutbildning
+  https://norberg.se/#mm-7 | 
+  https://norberg.se/#mm-1 | Close submenu (Gymnasieutbildning)
+  https://norberg.se/#mm-1 | Gymnasieutbildning
   https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium
   https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium
   https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd
   https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-8 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Vuxenutbildning)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Vuxenutbildning
+  https://norberg.se/#mm-8 | 
+  https://norberg.se/#mm-1 | Close submenu (Vuxenutbildning)
+  https://norberg.se/#mm-1 | Vuxenutbildning
   https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren
   https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning
   https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-9 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Övriga fristående verksamheter)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Övriga fristående verksamheter
+  https://norberg.se/#mm-9 | 
+  https://norberg.se/#mm-1 | Close submenu (Övriga fristående verksamheter)
+  https://norberg.se/#mm-1 | Övriga fristående verksamheter
   https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter
   https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan
   https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Close submenu (Boende & miljö)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Boende & miljö
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Öppna undermeny (Avfall och återvinning)
+  https://norberg.se/#mm-10 | 
+  https://norberg.se/#mm-0 | Close submenu (Boende & miljö)
+  https://norberg.se/#mm-0 | Boende & miljö
+  https://norberg.se/#mm-11 | Öppna undermeny (Avfall och återvinning)
   https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-12 | Öppna undermeny (Bostäder)
+  https://norberg.se/#mm-12 | Öppna undermeny (Bostäder)
   https://norberg.se/boende--miljo/bostader.html | Bostäder
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-13 | Öppna undermeny (Bygga)
+  https://norberg.se/#mm-13 | Öppna undermeny (Bygga)
   https://norberg.se/boende--miljo/bygga.html | Bygga
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-14 | Öppna undermeny (Naturvård och miljö)
+  https://norberg.se/#mm-14 | Öppna undermeny (Naturvård och miljö)
   https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-15 | Öppna undermeny (Stadsutveckling)
+  https://norberg.se/#mm-15 | Öppna undermeny (Stadsutveckling)
   https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-16 | Öppna undermeny (Vatten och avlopp)
+  https://norberg.se/#mm-16 | Öppna undermeny (Vatten och avlopp)
   https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Avfall och återvinning)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Avfall och återvinning
+  https://norberg.se/#mm-11 | 
+  https://norberg.se/#mm-10 | Close submenu (Avfall och återvinning)
+  https://norberg.se/#mm-10 | Avfall och återvinning
   https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-12 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Bostäder)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Bostäder
+  https://norberg.se/#mm-12 | 
+  https://norberg.se/#mm-10 | Close submenu (Bostäder)
+  https://norberg.se/#mm-10 | Bostäder
   https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte
   https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter
   https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-13 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Bygga)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Bygga
+  https://norberg.se/#mm-13 | 
+  https://norberg.se/#mm-10 | Close submenu (Bygga)
+  https://norberg.se/#mm-10 | Bygga
   https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
   https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
   https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
@@ -767,9 +773,9 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
   https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
   https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-14 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Naturvård och miljö)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Naturvård och miljö
+  https://norberg.se/#mm-14 | 
+  https://norberg.se/#mm-10 | Close submenu (Naturvård och miljö)
+  https://norberg.se/#mm-10 | Naturvård och miljö
   https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster.
   https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor
   https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
@@ -779,9 +785,9 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://vdmb.se/djur-natur-lantbruk/naturvard/ | Naturvård Länk till annan webbplats, öppnas i nytt fönster.
   https://nvk.se/bygga-bo--miljo/naturvard-och-skogsforvaltning/skogsforvaltning.html | Skogsförvaltning Länk till annan webbplats, öppnas i nytt fönster.
   https://vdmb.se/samhallsbyggnad-planering/vindkraft/ | Vindkraft Länk till annan webbplats, öppnas i nytt fönster.
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-15 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Stadsutveckling)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Stadsutveckling
+  https://norberg.se/#mm-15 | 
+  https://norberg.se/#mm-10 | Close submenu (Stadsutveckling)
+  https://norberg.se/#mm-10 | Stadsutveckling
   https://norberg.se/boende--miljo/stadsutveckling/bredband-och-it.html | Bredband och IT
   https://nvk.se/gator--trafik.html | Gator och trafik Länk till annan webbplats, öppnas i nytt fönster.
   https://vdmb.se/samhallsbyggnad-planering/gruvutredningar-i-norberg/ | Gruvutredningar Länk till annan webbplats, öppnas i nytt fönster.
@@ -793,65 +799,65 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://vdmb.se/samhallsbyggnad-planering/ | Samhällsbyggnad och planering Länk till annan webbplats, öppnas i nytt fönster.
   https://norberg.se/boende--miljo/stadsutveckling/webbkamera.html | Webbkamera
   https://norberg.se/boende--miljo/stadsutveckling/oversiktplanering.html | Översiktplanering
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-16 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Close submenu (Vatten och avlopp)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Vatten och avlopp
+  https://norberg.se/#mm-16 | 
+  https://norberg.se/#mm-10 | Close submenu (Vatten och avlopp)
+  https://norberg.se/#mm-10 | Vatten och avlopp
   https://norberg.se/boende--miljo/vatten-och-avlopp/teknisk-forvaltning.html | Teknisk förvaltning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Close submenu (Stöd & omsorg)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Stöd & omsorg
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Öppna undermeny (Ekonomi, bistånd och avgifter)
+  https://norberg.se/#mm-17 | 
+  https://norberg.se/#mm-0 | Close submenu (Stöd & omsorg)
+  https://norberg.se/#mm-0 | Stöd & omsorg
+  https://norberg.se/#mm-18 | Öppna undermeny (Ekonomi, bistånd och avgifter)
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter.html | Ekonomi, bistånd och avgifter
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-20 | Öppna undermeny (För dig som vill hjälpa andra)
+  https://norberg.se/#mm-20 | Öppna undermeny (För dig som vill hjälpa andra)
   https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra.html | För dig som vill hjälpa andra
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-21 | Öppna undermeny (Ny socialtjänstlag 2025)
+  https://norberg.se/#mm-21 | Öppna undermeny (Ny socialtjänstlag 2025)
   https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-22 | Öppna undermeny (Stöd för anhöriga)
+  https://norberg.se/#mm-22 | Öppna undermeny (Stöd för anhöriga)
   https://norberg.se/stod--omsorg/stod-for-anhoriga.html | Stöd för anhöriga
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-23 | Öppna undermeny (Stöd för barn och unga)
+  https://norberg.se/#mm-23 | Öppna undermeny (Stöd för barn och unga)
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga.html | Stöd för barn och unga
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-24 | Öppna undermeny (Stöd för nyanlända)
+  https://norberg.se/#mm-24 | Öppna undermeny (Stöd för nyanlända)
   https://norberg.se/stod--omsorg/stod-for-nyanlanda.html | Stöd för nyanlända
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-25 | Öppna undermeny (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/#mm-25 | Öppna undermeny (Stöd för personer med funktionsnedsättning)
   https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning.html | Stöd för personer med funktionsnedsättning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-26 | Öppna undermeny (Stöd för vuxna och familjer)
+  https://norberg.se/#mm-26 | Öppna undermeny (Stöd för vuxna och familjer)
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer.html | Stöd för vuxna och familjer
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-27 | Öppna undermeny (Stöd för äldre)
+  https://norberg.se/#mm-27 | Öppna undermeny (Stöd för äldre)
   https://norberg.se/stod--omsorg/stod-for-aldre.html | Stöd för äldre
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Ekonomi, bistånd och avgifter)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Ekonomi, bistånd och avgifter
+  https://norberg.se/#mm-18 | 
+  https://norberg.se/#mm-17 | Close submenu (Ekonomi, bistånd och avgifter)
+  https://norberg.se/#mm-17 | Ekonomi, bistånd och avgifter
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/avgifter-for-vard-och-omsorg.html | Avgifter för vård och omsorg
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/ekonomiskt-bistand.html | Ekonomiskt bistånd
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | Öppna undermeny (God man, förvaltare och förmyndare)
+  https://norberg.se/#mm-19 | Öppna undermeny (God man, förvaltare och förmyndare)
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare.html | God man, förvaltare och förmyndare
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/konsumentradgivning.html | Konsumentrådgivning
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (God man, förvaltare och förmyndare)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | God man, förvaltare och förmyndare
+  https://norberg.se/#mm-19 | 
+  https://norberg.se/#mm-18 | Close submenu (God man, förvaltare och förmyndare)
+  https://norberg.se/#mm-18 | God man, förvaltare och förmyndare
   https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare/till-dig-som-behover-hjalp.html | Till dig som behöver hjälp
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-20 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (För dig som vill hjälpa andra)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | För dig som vill hjälpa andra
+  https://norberg.se/#mm-20 | 
+  https://norberg.se/#mm-17 | Close submenu (För dig som vill hjälpa andra)
+  https://norberg.se/#mm-17 | För dig som vill hjälpa andra
   https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-familjehem.html | Bli familjehem
   https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktfamilj.html | Bli kontaktfamilj
   https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktperson.html | Bli kontaktperson
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-21 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Ny socialtjänstlag 2025)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Ny socialtjänstlag 2025
+  https://norberg.se/#mm-21 | 
+  https://norberg.se/#mm-17 | Close submenu (Ny socialtjänstlag 2025)
+  https://norberg.se/#mm-17 | Ny socialtjänstlag 2025
   https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-22 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för anhöriga)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för anhöriga
+  https://norberg.se/#mm-22 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för anhöriga)
+  https://norberg.se/#mm-17 | Stöd för anhöriga
   https://norberg.se/stod--omsorg/stod-for-anhoriga/anhorigstod.html | Anhörigstöd
   https://norberg.se/stod--omsorg/stod-for-anhoriga/avlosarservice.html | Avlösarservice
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
   https://norberg.se/stod--omsorg/stod-for-anhoriga/korttidsplats-for-aldre.html | Korttidsplats för äldre
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-23 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för barn och unga)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för barn och unga
+  https://norberg.se/#mm-23 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för barn och unga)
+  https://norberg.se/#mm-17 | Stöd för barn och unga
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/alkohol-och-droger.html | Alkohol och droger
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/anmalan-om-barn-som-far-illa.html | Anmälan om barn som far illa
@@ -865,15 +871,15 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ungdomsmottagningen.html | Ungdomsmottagningen
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ung-och-mar-daligt.html | Ung och mår dåligt
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-24 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för nyanlända)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för nyanlända
+  https://norberg.se/#mm-24 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för nyanlända)
+  https://norberg.se/#mm-17 | Stöd för nyanlända
   https://norberg.se/stod--omsorg/stod-for-nyanlanda/information-om-integration-och-flyktingmottagning.html | Information om integration och flyktingmottagning
   https://norberg.se/stod--omsorg/stod-for-nyanlanda/stod-och-information-for-nyanlanda.html | Stöd och information för nyanlända
   https://norberg.se/stod--omsorg/stod-for-nyanlanda/vill-du-hjalpa-andra-i-norberg.html | Vill du hjälpa andra i Norberg?
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-25 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för personer med funktionsnedsättning)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för personer med funktionsnedsättning
+  https://norberg.se/#mm-25 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/#mm-17 | Stöd för personer med funktionsnedsättning
   https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/avlosarservice-i-hemmet.html | Avlösarservice i hemmet
   https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/boendestod.html | Boendestöd
   https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-barn-och-ungdom.html | Bostad med särskild service för barn och ungdom
@@ -893,9 +899,9 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
   https://norberg.se/stod--omsorg/stod-for-aldre/syn-och-horsel.html | Syn och hörsel
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-26 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för vuxna och familjer)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för vuxna och familjer
+  https://norberg.se/#mm-26 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för vuxna och familjer)
+  https://norberg.se/#mm-17 | Stöd för vuxna och familjer
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/adoption.html | Adoption
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Anmälan om barn som far illa
@@ -914,9 +920,9 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
   https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-27 | 
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Close submenu (Stöd för äldre)
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Stöd för äldre
+  https://norberg.se/#mm-27 | 
+  https://norberg.se/#mm-17 | Close submenu (Stöd för äldre)
+  https://norberg.se/#mm-17 | Stöd för äldre
   https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
   https://norberg.se/stod--omsorg/stod-for-aldre/bostadstillagg.html | Bostadstillägg
   https://norberg.se/stod--omsorg/stod-for-aldre/dagverksamhet-for-aldre.html | Dagverksamhet för äldre
@@ -924,11 +930,92 @@ Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-m
   https://norberg.se/stod--omsorg/stod-for-aldre/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
   https://norberg.se/stod--omsorg/stod-for-aldre/forebyggande-hembesok.html | Förebyggande hembesök
   https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
-  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-28 | Öppna undermeny (Hemtjänst - stöd i vardagen)
+  https://norberg.se/#mm-28 | Öppna undermeny (Hemtjänst - stöd i vardagen)
   https://norberg.se/stod--omsorg/stod-for-aldre/hemtjanst---stod-i-vardagen.html | Hemtjänst - stöd i vardagen
   https://norberg.se/stod--omsorg/stod-for-aldre/matlada.html | Matlåda
+  https://norberg.se/stod--omsorg/stod-for-aldre/mat-och-maltider-till-vard-och-omsorg.html | Mat och måltider till vård och omsorg
+  https://norberg.se/stod--omsorg/stod-for-aldre/medicinskt-ansvarig-sjukskoterska---mas.html | Medicinskt ansvarig sjuksköterska - MAS
 
 KF: 2026-02-23, 2026-05-11, 2026-06-15, 2026-09-13, 2026-11-02, 2026-11-09
 KS: 
 
 Aktuella handlingar:
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Kallelse Kommunfullmäktige 2026-11-09 106KB | https://opengov.360online.com/Meetings/norberg/File/Details/314843.PDF?fileName=Kallelse%20Kommunfullm%C3%A4ktige%202026-11-09&fileSize=108156
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – KS 2026-10-19 § 154 Budget 2027 med plan 2028-2029 Norbergs kommun Protokollsutdrag - X 3 MB | https://opengov.360online.com/Meetings/norberg/File/Details/314862.PDF?fileName=KS%202026-10-19%20%C2%A7%20154%20Budget%202027%20med%20plan%202028-2029%20Norbergs%20kommun&fileSize=3069985
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Tjänsteutlåtande - Budget 2027 med plan 2028-2029 Norbergs kommun Tjänsteutlåtande - X 99 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313059.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Budget%202027%20med%20plan%202028-2029%20Norbergs%20kommun&fileSize=101596
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Budget 2027 med plan för 2028–2029 Norbergs kommun Bilaga 924 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314591.PDF?fileName=Budget%202027%20med%20plan%20f%C3%B6r%202028%E2%80%932029%20Norbergs%20kommun&fileSize=945893
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – KS 2026-10-19 § 158 Yttrande - Ny taxa för plan- och byggenheten 2027 Protokollsutdrag - X 575 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314851.PDF?fileName=KS%202026-10-19%20%C2%A7%20158%20Yttrande%20-%20Ny%20taxa%20f%C3%B6r%20plan-%20och%20byggenheten%202027&fileSize=588656
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Yttrande - Ny taxa för plan- och byggenheten 2027 Tjänsteutlåtande - X 70 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313565.PDF?fileName=Yttrande%20-%20%20Ny%20taxa%20f%C3%B6r%20plan-%20och%20byggenheten%202027&fileSize=71427
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – VDMB 2026-09-08 § 35 Ny taxa för plan- och byggenheten 2027 Bilaga 1 MB | https://opengov.360online.com/Meetings/norberg/File/Details/312977.PDF?fileName=VDMB%202026-09-08%20%C2%A7%2035%20Ny%20taxa%20f%C3%B6r%20plan-%20och%20byggenheten%202027&fileSize=1475779
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Bilaga 1 Taxa 2027 för Plan och byggenheten Bilaga 375 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312973.PDF?fileName=Bilaga%201%20Taxa%202027%20f%C3%B6r%20Plan%20och%20byggenheten&fileSize=383729
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Redovisning över förändringar - info Bilaga 70 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312974.PDF?fileName=Redovisning%20%C3%B6ver%20f%C3%B6r%C3%A4ndringar%20-%20info&fileSize=71840
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Taxa 2026 - info Bilaga 303 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312975.PDF?fileName=Taxa%202026%20-%20info&fileSize=309771
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – Taxa 2027 - info Bilaga 296 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312976.PDF?fileName=Taxa%202027%20-%20info&fileSize=303397
+- Kommunfullmäktige (2026-11-09) 2026-11-09 16:00 – KS 2026-10-19 § 158 Yttrande - Ny taxa för plan- och byggenheten 2027 Protokollsutdrag - X 575 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314851.PDF?fileName=314851_3_1.PDF&fileSize=588656
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – Kallelse Kommunfullmäktige 2026-10-26 91KB | https://opengov.360online.com/Meetings/norberg/File/Details/314510.PDF?fileName=Kallelse%20Kommunfullm%C3%A4ktige%202026-10-26&fileSize=92891
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – Protokoll Kommunfullmäktige 2026-10-26 2MB | https://opengov.360online.com/Meetings/norberg/File/Details/314752.PDF?fileName=Protokoll%20Kommunfullm%C3%A4ktige%202026-10-26&fileSize=1753025
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – KS 2026-10-19 § 153 Skattesats år 2027 Protokollsutdrag - X 498 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314850.PDF?fileName=KS%202026-10-19%20%C2%A7%20153%20Skattesats%20%C3%A5r%202027&fileSize=509942
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – Tjänsteutlåtande - Skattesats år 2027 Tjänsteutlåtande - X 64 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312878.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Skattesats%20%C3%A5r%202027&fileSize=65568
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – KS 2026-10-19 § 153 Skattesats år 2027 Protokollsutdrag - X 498 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314850.PDF?fileName=314850_2_1.PDF&fileSize=509942
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – NAU 2026-10-05 § 101 Skattesats år 2027 Protokollsutdrag - X 497 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314196.PDF?fileName=314196_2_1.PDF&fileSize=509150
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – KF 2026-10-26, § 165 Val av ledamöter, ersättare och presidium till kommunstyrelsen för mandatperioden 2027–2030 Protokollsutdrag - X 184 KB | https://opengov.360online.com/Meetings/norberg/File/Details/315426.PDF?fileName=KF%202026-10-26%2C%20%C2%A7%20165%20Val%20av%20ledam%C3%B6ter%2C%20ers%C3%A4ttare%20och%20presidium%20till%20kommunstyrelsen%20f%C3%B6r%20mandatperioden%202027%E2%80%932030&fileSize=188572
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – Val av ledamöter, ersättare och presidium till kommunstyrelsen för mandatperioden 2027–2030 Tjänsteutlåtande - X 70 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314040.PDF?fileName=Val%20av%20ledam%C3%B6ter%2C%20ers%C3%A4ttare%20och%20presidium%20till%20kommunstyrelsen%20f%C3%B6r%20mandatperioden%202027%E2%80%932030&fileSize=71857
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – KF 2026-10-26, § 166 Val av revisorer för mandatperioden 2027–2030 Protokollsutdrag - X 181 KB | https://opengov.360online.com/Meetings/norberg/File/Details/315427.PDF?fileName=KF%202026-10-26%2C%20%C2%A7%20166%20Val%20av%20revisorer%20f%C3%B6r%20mandatperioden%202027%E2%80%932030&fileSize=185083
+- Kommunfullmäktige (2026-10-26) 2026-10-26 16:00 – Val av revisorer för mandatperioden 2027–2030 Tjänsteutlåtande - X 66 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314038.PDF?fileName=Val%20av%20revisorer%20f%C3%B6r%20mandatperioden%202027%E2%80%932030&fileSize=67911
+- Kommunfullmäktige (2026-10-19) 2026-10-19 16:00 – Kallelse Kommunfullmäktige 2026-10-19 91KB | https://opengov.360online.com/Meetings/norberg/File/Details/313649.PDF?fileName=Kallelse%20Kommunfullm%C3%A4ktige%202026-10-19&fileSize=93598
+- Kommunfullmäktige (2026-10-19) 2026-10-19 16:00 – Protokoll Kommunfullmäktige 2026-10-19 2MB | https://opengov.360online.com/Meetings/norberg/File/Details/314430.PDF?fileName=Protokoll%20Kommunfullm%C3%A4ktige%202026-10-19&fileSize=1858390
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Kallelse Kommunstyrelsen 2026-10-19 97KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/313758.PDF?fileName=Kallelse%20Kommunstyrelsen%202026-10-19&fileSize=99022
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Protokoll Kommunstyrelsen 2026-10-19 §§ 143-144, 146-167 1MB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314463.PDF?fileName=Protokoll%20Kommunstyrelsen%202026-10-19%20%C2%A7%C2%A7%20143-144%2C%20146-167&fileSize=1367287
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Protokoll Kommunstyrelsen 2026-10-19 direktjustering § 145 1016KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314607.PDF?fileName=Protokoll%20Kommunstyrelsen%202026-10-19%20direktjustering%20%C2%A7%20145&fileSize=1040162
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – KS 2026-10-19 § 149 Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026 Protokollsutdrag - X 652 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314846.PDF?fileName=KS%202026-10-19%20%C2%A7%20149%20Rapportering%20av%20f%C3%B6rvaltningens%20verksamhetsplan%20per%2031%20augusti%202026&fileSize=667178
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – NAU 2026-10-05 § 98 Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026 Protokollsutdrag - X 637 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314193.PDF?fileName=NAU%202026-10-05%20%C2%A7%2098%20Rapportering%20av%20f%C3%B6rvaltningens%20verksamhetsplan%20per%2031%20augusti%202026&fileSize=651927
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Tjänsteutlåtande - Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026 Tjänsteutlåtande - X 67 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312882.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Rapportering%20av%20f%C3%B6rvaltningens%20verksamhetsplan%20per%2031%20augusti%202026&fileSize=68217
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Rapport förvalningens verksamhetsplan per 31 augusti 2026 Bilaga 615 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/313226.PDF?fileName=Rapport%20f%C3%B6rvalningens%20verksamhetsplan%20per%2031%20augusti%202026&fileSize=629742
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – NAU 2026-10-05 § 98 Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026 Protokollsutdrag - X 637 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314193.PDF?fileName=314193_2_1.PDF&fileSize=651927
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – KS 2026-10-19 § 153 Skattesats år 2027 Protokollsutdrag - X 498 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314850.PDF?fileName=KS%202026-10-19%20%C2%A7%20153%20Skattesats%20%C3%A5r%202027&fileSize=509942
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – NAU 2026-10-05 § 101 Skattesats år 2027 Protokollsutdrag - X 497 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314196.PDF?fileName=NAU%202026-10-05%20%C2%A7%20101%20Skattesats%20%C3%A5r%202027&fileSize=509150
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Tjänsteutlåtande - Skattesats år 2027 Tjänsteutlåtande - X 64 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312878.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Skattesats%20%C3%A5r%202027&fileSize=65568
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – NAU 2026-10-05 § 101 Skattesats år 2027 Protokollsutdrag - X 497 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314196.PDF?fileName=314196_2_1.PDF&fileSize=509150
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – KS 2026-10-19 § 154 Budget 2027 med plan 2028-2029 Norbergs kommun Protokollsutdrag - X 3 MB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314862.PDF?fileName=KS%202026-10-19%20%C2%A7%20154%20Budget%202027%20med%20plan%202028-2029%20Norbergs%20kommun&fileSize=3069985
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Tjänsteutlåtande - Budget 2027 med plan 2028-2029 Norbergs kommun Tjänsteutlåtande - X 99 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/313059.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Budget%202027%20med%20plan%202028-2029%20Norbergs%20kommun&fileSize=101596
+- Kommunstyrelsen (2026-10-19) 2026-10-19 13:15 – Budget 2027 med plan för 2028–2029 Norbergs kommun Bilaga 924 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/314591.PDF?fileName=Budget%202027%20med%20plan%20f%C3%B6r%202028%E2%80%932029%20Norbergs%20kommun&fileSize=945893
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Kallelse Barn- och utbildningsnämnden 2026-10-08 127KB | https://opengov.360online.com/Meetings/norberg/File/Details/313323.PDF?fileName=Kallelse%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-10-08&fileSize=129746
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Protokoll Barn- och utbildningsnämnden 2026-10-08 1MB | https://opengov.360online.com/Meetings/norberg/File/Details/313773.PDF?fileName=Protokoll%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-10-08&fileSize=1208620
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – BUN 2026-10-08, § 75 Genomförandeplan för åtgärder – budget i balans 2026–2029 Protokollsutdrag - X 153 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314319.PDF?fileName=BUN%202026-10-08%2C%20%C2%A7%2075%20Genomf%C3%B6randeplan%20f%C3%B6r%20%C3%A5tg%C3%A4rder%20%E2%80%93%20budget%20i%20balans%202026%E2%80%932029&fileSize=156638
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Tjänsteutlåtande - Genomförandeplan för åtgärder – budget i balans 2026–2029 Tjänsteutlåtande - X 65 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313270.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Genomf%C3%B6randeplan%20f%C3%B6r%20%C3%A5tg%C3%A4rder%20%E2%80%93%20budget%20i%20balans%202026%E2%80%932029&fileSize=66468
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – BUN 2026-06-17, § 48 Åtgärdsplan för budget i balans år 2026 Bilaga 180 KB | https://opengov.360online.com/Meetings/norberg/File/Details/310397.PDF?fileName=BUN%202026-06-17%2C%20%C2%A7%2048%20%C3%85tg%C3%A4rdsplan%20f%C3%B6r%20budget%20i%20balans%20%C3%A5r%202026&fileSize=184078
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – BUN 2026-10-08, § 79 Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026, barn- och utbildningsnämnden Protokollsutdrag - X 151 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314333.PDF?fileName=BUN%202026-10-08%2C%20%C2%A7%2079%20Rapportering%20av%20f%C3%B6rvaltningens%20verksamhetsplan%20per%2031%20augusti%202026%2C%20barn-%20och%20utbildningsn%C3%A4mnden&fileSize=154661
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Rapportering av förvaltningens verksamhetsplan per 31 augusti 2026, barn- och utbildningsnämnden Tjänsteutlåtande - X 66 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313326.PDF?fileName=Rapportering%20av%20f%C3%B6rvaltningens%20verksamhetsplan%20per%2031%20augusti%202026%2C%20barn-%20och%20utbildningsn%C3%A4mnden&fileSize=68032
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Rapport förvalningens verksamhetsplan per 31 augusti 2026 Bilaga 615 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313226.PDF?fileName=Rapport%20f%C3%B6rvalningens%20verksamhetsplan%20per%2031%20augusti%202026&fileSize=629742
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – BUN 2026-10-08, § 83 Plan mot kränkande behandling trakasserier och diskriminering 2026-2027 Protokollsutdrag - X 153 KB | https://opengov.360online.com/Meetings/norberg/File/Details/314327.PDF?fileName=BUN%202026-10-08%2C%20%C2%A7%2083%20Plan%20mot%20kr%C3%A4nkande%20behandling%20trakasserier%20och%20diskriminering%202026-2027&fileSize=157035
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Tjänsteutlåtande - Plan mot kränkande behandling trakasserier och diskriminering 2026/2027 Tjänsteutlåtande - X 68 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313232.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Plan%20mot%20kr%C3%A4nkande%20behandling%20trakasserier%20och%20diskriminering%202026%2F2027&fileSize=69727
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Plan mot kränkande behandling Engelbrektsskolan F-3, anpassad grundskola och fritids 2026 2027 Bilaga 270 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313234.PDF?fileName=Plan%20mot%20kr%C3%A4nkande%20behandling%20Engelbrektsskolan%20F-3%2C%20anpassad%20grundskola%20och%20fritids%202026%202027&fileSize=276177
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Plan mot kränkande behandling Engelbrektsskolan 4-9, anpassad grundskola och fritids 2026-2027 Bilaga 233 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313241.PDF?fileName=Plan%20mot%20kr%C3%A4nkande%20behandling%20Engelbrektsskolan%204-9%2C%20anpassad%20grundskola%20och%20fritids%202026-2027&fileSize=239031
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Treklövern 2026-2027, Plan mot kränkande behandling, trakasserier och diskriminering 2 Bilaga 249 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313477.PDF?fileName=Trekl%C3%B6vern%202026-2027%2C%20Plan%20mot%20kr%C3%A4nkande%20behandling%2C%20trakasserier%20och%20diskriminering%202&fileSize=255115
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Blåsippan 2026-2027, Plan mot kränkande behandling, trakasserier och diskriminering (1) (1)2 Bilaga 262 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313474.PDF?fileName=Bl%C3%A5sippan%202026-2027%2C%20Plan%20mot%20kr%C3%A4nkande%20behandling%2C%20trakasserier%20och%20diskriminering%20(1)%20(1)2&fileSize=268288
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Tallen 2026-2027, Plan mot kränkande behandling, trakasserier och diskriminering (1) (1) Bilaga 266 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313476.PDF?fileName=Tallen%202026-2027%2C%20Plan%20mot%20kr%C3%A4nkande%20behandling%2C%20trakasserier%20och%20diskriminering%20(1)%20(1)&fileSize=272747
+- Barn- och utbildningsnämnden (2026-10-08) 2026-10-08 09:00 – Skogsgläntan 2026-2027, Plan mot kränkande behandling, trakasserier och diskriminering (1) (1) Bilaga 252 KB | https://opengov.360online.com/Meetings/norberg/File/Details/313475.PDF?fileName=Skogsgl%C3%A4ntan%202026-2027%2C%20Plan%20mot%20kr%C3%A4nkande%20behandling%2C%20trakasserier%20och%20diskriminering%20(1)%20(1)&fileSize=258052
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – Kallelse Kommunstyrelsen 2026-09-21 122KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312694.PDF?fileName=Kallelse%20Kommunstyrelsen%202026-09-21&fileSize=124448
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – Protokoll Kommunstyrelsen 2026-09-21 1MB | https://opengov.360online.com/Meetings/NORBERG/File/Details/313174.PDF?fileName=Protokoll%20Kommunstyrelsen%202026-09-21&fileSize=1457192
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – KS 2026-09-21 § 119 Kommunstyrelsens konsekvensbeskrivning av planeringsförutsättningar inför budget 2027 med plan 2028-2029 Protokollsutdrag - X 102 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/313598.PDF?fileName=KS%202026-09-21%20%C2%A7%20119%20Kommunstyrelsens%20konsekvensbeskrivning%20av%20planeringsf%C3%B6ruts%C3%A4ttningar%20inf%C3%B6r%20budget%202027%20med%20plan%202028-2029&fileSize=104323
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – NAU 2026-08-31 § 79 Kommunstyrelsens konsekvensbeskrivning av planeringsförutsättningar inför budget 2027 med plan 2028-2029 Protokollsutdrag - X 936 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312765.PDF?fileName=NAU%202026-08-31%20%C2%A7%2079%20Kommunstyrelsens%20konsekvensbeskrivning%20av%20planeringsf%C3%B6ruts%C3%A4ttningar%20inf%C3%B6r%20budget%202027%20med%20plan%202028-2029&fileSize=958681
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – Tjänsteutlåtande - Kommunstyrelsens konsekvensbeskrivning av planeringsförutsättningar inför budget 2027 med plan 2028-2029 Tjänsteutlåtande - X 68 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312059.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Kommunstyrelsens%20konsekvensbeskrivning%20av%20planeringsf%C3%B6ruts%C3%A4ttningar%20inf%C3%B6r%20budget%202027%20med%20plan%202028-2029&fileSize=69290
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – Kommunstyrelsens konsekvensbeskrivning av planeringsförutsättningar inför budget 2027 med plan 2028-2029 Bilaga 390 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312070.PDF?fileName=Kommunstyrelsens%20konsekvensbeskrivning%20av%20planeringsf%C3%B6ruts%C3%A4ttningar%20inf%C3%B6r%20budget%202027%20med%20plan%202028-2029&fileSize=399234
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – NAU 2026-08-31 § 79 Kommunstyrelsens konsekvensbeskrivning av planeringsförutsättningar inför budget 2027 med plan 2028-2029 Protokollsutdrag - X 936 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/312765.PDF?fileName=312765_2_1.PDF&fileSize=958681
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – NVK 2026-06-17 § 69 Budgetuppföljning per maj 2026 med helårsprognos.pdf Bilaga 226 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/310234.PDF?fileName=NVK%202026-06-17%20%C2%A7%2069%20Budgetuppf%C3%B6ljning%20per%20maj%202026%20med%20hel%C3%A5rsprognos.pdf&fileSize=231366
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – Tjänsteskrivelse Budgetuppföljning per 2026-05-31 med prognos till årets slut.pdf Bilaga 335 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/310235.PDF?fileName=Tj%C3%A4nsteskrivelse%20Budgetuppf%C3%B6ljning%20per%202026-05-31%20med%20prognos%20till%20%C3%A5rets%20slut.pdf&fileSize=342718
+- Kommunstyrelsen (2026-09-21) 2026-09-21 13:15 – LN 2026-06-05 § 18 Lönenämndens konsekvensbeskrivningar av planeringsförutsättningarna inför budget 2027 med plan 2028-2029 Protokollsutdrag - X 808 KB | https://opengov.360online.com/Meetings/NORBERG/File/Details/309925.PDF?fileName=LN%202026-06-05%20%C2%A7%2018%20L%C3%B6nen%C3%A4mndens%20konsekvensbeskrivningar%20av%20planeringsf%C3%B6ruts%C3%A4ttningarna%20inf%C3%B6r%20budget%202027%20med%20plan%202028-2029&fileSize=827116
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Kallelse Barn- och utbildningsnämnden 2026-08-27 100KB | https://opengov.360online.com/Meetings/norberg/File/Details/312045.PDF?fileName=Kallelse%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-08-27&fileSize=102284
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Protokoll Barn- och utbildningsnämnden 2026-08-27 1MB | https://opengov.360online.com/Meetings/norberg/File/Details/312353.PDF?fileName=Protokoll%20Barn-%20och%20utbildningsn%C3%A4mnden%202026-08-27&fileSize=1310496
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – BUN 2026-08-27, § 62 Verksamhetsplanering för läsåret 2026-2027, barn- och utbildning Protokollsutdrag - X 152 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312600.PDF?fileName=BUN%202026-08-27%2C%20%C2%A7%2062%20Verksamhetsplanering%20f%C3%B6r%20l%C3%A4s%C3%A5ret%202026-2027%2C%20barn-%20och%20utbildning&fileSize=155197
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Verksamhetsplanering för läsåret 2026-2027, barn- och utbildning Tjänsteutlåtande - X 66 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312103.PDF?fileName=Verksamhetsplanering%20f%C3%B6r%20l%C3%A4s%C3%A5ret%202026-2027%2C%20barn-%20och%20utbildning&fileSize=67922
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Verksamhetsplanering 2026-2027 anpassad grundskola Bilaga 587 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312337.PDF?fileName=Verksamhetsplanering%202026-2027%20anpassad%20grundskola&fileSize=601373
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Verksamhetsplanering 2026-2027 skola Bilaga 475 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312339.PDF?fileName=Verksamhetsplanering%202026-2027%20skola&fileSize=486511
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Verksamhetsplanering 2026-2027 förskola Bilaga 399 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312335.PDF?fileName=Verksamhetsplanering%202026-2027%20f%C3%B6rskola&fileSize=408638
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – BUN 2026-08-27, § 64 Svar på medborgarförslag – Klimatprogram för förskolor och skolor Protokollsutdrag - X 167 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312602.PDF?fileName=BUN%202026-08-27%2C%20%C2%A7%2064%20Svar%20p%C3%A5%20medborgarf%C3%B6rslag%20%E2%80%93%20Klimatprogram%20f%C3%B6r%20f%C3%B6rskolor%20och%20skolor&fileSize=170883
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Svar på medborgarförslag – Klimatprogram för förskolor och skolor Tjänsteutlåtande - X 79 KB | https://opengov.360online.com/Meetings/norberg/File/Details/312106.PDF?fileName=Svar%20p%C3%A5%20medborgarf%C3%B6rslag%20%E2%80%93%20Klimatprogram%20f%C3%B6r%20f%C3%B6rskolor%20och%20skolor&fileSize=80501
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – KF 2026-02-23, § 10 Medborgarförslag – Klimatprogram för förskolor och skolor Bilaga 114 KB | https://opengov.360online.com/Meetings/norberg/File/Details/304335.PDF?fileName=KF%202026-02-23%2C%20%C2%A7%2010%20Medborgarf%C3%B6rslag%20%E2%80%93%20Klimatprogram%20f%C3%B6r%20f%C3%B6rskolor%20och%20skolor&fileSize=116283
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – KS 2026_0057-2 Medborgarförslag – Klimatprogram för förskolor och skolor (Publik) 303669_1_1 Bilaga 1 MB | https://opengov.360online.com/Meetings/norberg/File/Details/304338.PDF?fileName=KS%202026_0057-2%20Medborgarf%C3%B6rslag%20%E2%80%93%20Klimatprogram%20f%C3%B6r%20f%C3%B6rskolor%20och%20skolor%20(Publik)%20303669_1_1&fileSize=1279700
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Energi- och klimatstrategi för Norbergs kommun 2022-2030 - Antagen av KF 2022-11-14 § 179 Bilaga 2 MB | https://opengov.360online.com/Meetings/norberg/File/Details/261760.PDF?fileName=Energi-%20och%20klimatstrategi%20f%C3%B6r%20Norbergs%20kommun%202022-2030%20-%20Antagen%20av%20KF%202022-11-14%20%C2%A7%20179&fileSize=1858538
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Handlingsplan för energi och klimat Norbergs kommun 2024 (KS 2024-04-15 § 68) Bilaga 138 KB | https://opengov.360online.com/Meetings/norberg/File/Details/286708.PDF?fileName=Handlingsplan%20f%C3%B6r%20energi%20och%20klimat%20Norbergs%20kommun%202024%20(KS%202024-04-15%20%C2%A7%2068)&fileSize=140939
+- Barn- och utbildningsnämnden (2026-08-27) 2026-08-27 09:00 – Beslut_karriärstjänster_vt26 Beslut - I 97 KB | https://opengov.360online.com/Meetings/norberg/File/Details/311889.PDF?fileName=Beslut_karri%C3%A4rstj%C3%A4nster_vt26&fileSize=99781

@@ -13,20 +13,35 @@ Sidor (poäng):
  22  https://www.asele.se/kommun-och-politik/politisk-organisation/kommunstyrelsens-utskott/personalutskottet/  Personalutskottet | Åsele Kommun
  22  https://www.asele.se/kommun-och-politik/sammantradesdatum-2026/  Sammanträdesdatum 2026 | Åsele Kommun
  22  https://www.asele.se/kommun-och-politik/politisk-organisation/  Politisk organisation | Åsele Kommun
+ 22  https://www.asele.se/kommun-och-politik/politisk-organisation/miljo-och-byggnadsnamnden/  Miljö- och byggnadsnämnden | Åsele Kommun
+ 22  https://www.asele.se/kommun-och-politik/politisk-organisation/valnamnden/  Valnämnden | Åsele Kommun
+ 22  https://www.asele.se/kommun-och-politik/politisk-organisation/lyst-namnden/  LYST-nämnden | Åsele Kommun
+ 22  https://www.asele.se/kommun-och-politik/politisk-organisation/revision/  Revision | Åsele Kommun
  20  https://www.asele.se/kommun-och-politik/  Kommun och politik | Åsele Kommun
  18  https://www.asele.se/kommun-och-politik/val-2026/  Val 2026 | Åsele Kommun
- 17  https://www.asele.se/kommun-och-politik/arkiv-och-diarium/  Arkiv och diarium | Åsele Kommun
  17  https://www.asele.se/kommun-och-politik/att-overklaga-ett-beslut/  Att överklaga ett beslut | Åsele Kommun
  17  https://www.asele.se/kommun-och-politik/kontaktuppgifter-kommun-och-politik/  Kontaktuppgifter kommun och politik | Åsele Kommun
+ 15  https://www.asele.se/  Åsele kommun | Åsele Kommun
  14  https://www.asele.se/kommun-och-politik/protokoll-och-dokument/information-policys-och-planer/  Information, policys och planer | Åsele Kommun
  14  https://www.asele.se/kommun-och-politik/protokoll-och-dokument/blanketter/  Blanketter | Åsele Kommun
- 13  https://www.asele.se/kommun-och-politik/arkiv-och-diarium/offentliga-handlingar/  Offentliga handlingar | Åsele Kommun
  13  https://www.asele.se/kommun-och-politik/protokoll-och-dokument/  Protokoll och dokument | Åsele Kommun
- 12  https://www.asele.se/nyheter/lansstyrelsen-soker-nya-begravningsombud/  Länsstyrelsen söker nya begravningsombud | Åsele Kommun
- 12  https://www.asele.se/kommun-och-politik/arkiv-och-diarium/sekretess/  Sekretess | Åsele Kommun
- 12  https://www.asele.se/kommun-och-politik/arkiv-och-diarium/kommunens-arkiv/  Kommunens arkiv | Åsele Kommun
-  7  https://www.asele.se/nyheter/beredskapsveckan-v-39-2026/  Beredskapsveckan v.39 2026 | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/  Säkerhet och beredskap | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/krisinformation/  Krisinformation | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/krisinformation/kommunens-kanaler-for-krisinformation/  Kommunens kanaler för krisinformation | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/krisinformation/andra-kanaler-for-krisinformation/  Andra kanaler för krisinformation | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/  Din beredskap | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/hemberedskap/  Hemberedskap | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/informationspaverkan/  Informationspåverkan | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/cybersakerhet/  Cybersäkerhet | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/hur-du-ar-en-del-av-totalforsvaret/  Hur du är en del av totalförsvaret | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/hlr-och-forsta-hjalpen/  HLR och första hjälpen | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/ice-nummer/  ICE-nummer | Åsele Kommun
+ 12  https://www.asele.se/kommun-och-politik/sakerhet-och-beredskap/din-beredskap/beredskapsveckan/  Beredskapsveckan | Åsele Kommun
   6  https://www.asele.se/boende-och-miljo/vatten-avlopp-avfall-och-renhallning/dricksvatten/vattenskyddsomrade/vem-beslutar-om-vattenskyddsomrade/  Vem beslutar om vattenskyddsområde? | Åsele Kommun
+ -3  https://www.asele.se/kommun-och-politik/aktuellt-valresultat/  Aktuellt valresultat | Åsele Kommun
+ -8  https://www.asele.se/nyheter/lansstyrelsen-soker-nya-begravningsombud/  Länsstyrelsen söker nya begravningsombud | Åsele Kommun
+-13  https://www.asele.se/nyheter/beredskapsveckan-v-39-2026/  Beredskapsveckan v.39 2026 | Åsele Kommun
+-14  https://www.asele.se/nyheter/infor-vintern/  Inför vintern | Åsele Kommun
 
 Länkar på https://www.asele.se/anslagstavla/:
   https://www.asele.se/anslagstavla/#main | Till innehåll

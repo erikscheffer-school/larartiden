@@ -61,7 +61,7 @@
   "url": "https://www.asele.se/anslagstavla/",
   "titel": "Anslagstavla | Åsele Kommun",
   "poang": 34,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-09-13"
@@ -116,7 +116,7 @@
   "url": "https://boden.se/kommun-och-politik/politik/politikerportal",
   "titel": "Politikerportal - boden.se",
   "poang": 19,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-09-13"
@@ -163,7 +163,7 @@
   "url": "https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html",
   "titel": "Kommunfullmäktige - Degerfors kommun",
   "poang": 16,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-10-20"
@@ -179,10 +179,10 @@
  },
  "dorotea": {
   "kommun": "Dorotea",
-  "url": "https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/",
-  "titel": "Kommunstyrelse | Dorotea Kommun",
-  "poang": 30,
-  "upptackt": "2000-01-01",
+  "url": "https://www.dorotea.se/anslagstavla/",
+  "titel": "Anslagstavla | Dorotea Kommun",
+  "poang": 34,
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-10-19",
@@ -239,7 +239,7 @@
   "url": "https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html",
   "titel": "Anslagstavla - Essunga kommun",
   "poang": 47,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-10-19",
@@ -256,8 +256,10 @@
   "nasta_kf": "2026-11-27",
   "senaste_kf": "2026-11-05",
   "nasta_ks": "2026-11-15",
-  "aktuella_handlingar": 0,
-  "portaladresser": []
+  "aktuella_handlingar": 146,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/r14723333#rot=d9deec027878352"
+  ]
  },
  "goteborg": {
   "kommun": "Göteborg",
@@ -344,35 +346,43 @@
  },
  "hofors": {
   "kommun": "Hofors",
-  "url": "https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html",
-  "titel": "Kommunstyrelsen - Hofors kommun",
-  "poang": 74,
-  "upptackt": "2000-01-01",
+  "url": "https://www.hofors.se/kommun--politik/politik/kallelser.html",
+  "titel": "Kallelser - Hofors kommun",
+  "poang": 100,
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
-   "2026-01-15",
-   "2026-01-20",
+   "2026-05-19",
+   "2026-06-16",
    "2026-09-13",
+   "2026-09-22",
    "2026-10-19",
+   "2026-10-20",
    "2026-10-22",
    "2026-10-23",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-10",
+   "2026-11-14"
   ],
   "ks": [
-   "2026-01-15",
-   "2026-01-20",
+   "2026-05-05",
+   "2026-06-02",
    "2026-06-08",
    "2026-06-23",
+   "2026-09-08",
+   "2026-09-29",
+   "2026-10-21",
    "2026-10-22",
    "2026-10-23",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-24"
   ],
-  "nasta_kf": null,
+  "nasta_kf": "2026-11-10",
   "senaste_kf": "2026-11-02",
-  "nasta_ks": null,
-  "aktuella_handlingar": 0,
+  "nasta_ks": "2026-11-24",
+  "aktuella_handlingar": 22,
   "portaladresser": []
  },
  "hylte": {
@@ -468,8 +478,8 @@
   "kommun": "Karlstad",
   "url": "https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige",
   "titel": "Kommunfullmäktige | Karlstads kommun",
-  "poang": 41,
-  "upptackt": "2000-01-01",
+  "poang": 40,
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-01-22",
@@ -501,15 +511,17 @@
   "nasta_kf": "2026-11-09",
   "senaste_kf": "2026-10-22",
   "nasta_ks": "2026-11-09",
-  "aktuella_handlingar": 0,
-  "portaladresser": []
+  "aktuella_handlingar": 277,
+  "portaladresser": [
+   "https://www.netpublicator.com/reader/karlstad#rot=f8dd7bc30e0b31"
+  ]
  },
  "klippan": {
   "kommun": "Klippan",
   "url": "https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll",
   "titel": "Kallelser och protokoll | Klippans kommun",
   "poang": 27,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-10-19"
@@ -519,14 +531,18 @@
   "senaste_kf": "2026-10-19",
   "nasta_ks": null,
   "aktuella_handlingar": 0,
-  "portaladresser": []
+  "portaladresser": [
+   "https://documentweb.klippan.se/?folderId=8131df07-eaca-426f-8780-759c13da79c1",
+   "https://documentweb.klippan.se/?folderId=960740ec-056e-482c-a253-101e6930aa96",
+   "https://documentweb.klippan.se/?folderId=9e3cb028-78a2-4826-8390-c98e49219221"
+  ]
  },
  "kumla": {
   "kommun": "Kumla",
   "url": "https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html",
   "titel": "Möten, handlingar och protokoll - Kumla kommun",
   "poang": 21,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [],
   "ks": [],
@@ -587,7 +603,7 @@
   "url": "https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/",
   "titel": "Sammanträdesdagar",
   "poang": 25,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-04-22",
@@ -600,9 +616,10 @@
   "nasta_kf": null,
   "senaste_kf": "2026-09-21",
   "nasta_ks": null,
-  "aktuella_handlingar": 0,
+  "aktuella_handlingar": 204,
   "portaladresser": [
-   "https://www.netpublicator.com/reader/r68645812"
+   "https://www.netpublicator.com/reader/r68645812",
+   "https://www.netpublicator.com/reader/r68645812#rot=7792f61afd7357"
   ]
  },
  "lidkoping": {
@@ -631,16 +648,19 @@
   "url": "https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll",
   "titel": "Dagordningar och protokoll | Ljungby kommun",
   "poang": 14,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
-   "2026-04-27"
+   "2026-04-27",
+   "2026-10-26",
+   "2026-10-29"
   ],
   "ks": [
-   "2026-04-27"
+   "2026-04-27",
+   "2026-10-07"
   ],
   "nasta_kf": null,
-  "senaste_kf": "2026-04-27",
+  "senaste_kf": "2026-10-29",
   "nasta_ks": null,
   "aktuella_handlingar": 0,
   "portaladresser": []
@@ -736,7 +756,7 @@
   "url": "https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html",
   "titel": "Protokoll och handlingar - Norbergs kommun",
   "poang": 66,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-02-23",
@@ -750,15 +770,18 @@
   "nasta_kf": "2026-11-09",
   "senaste_kf": "2026-11-02",
   "nasta_ks": null,
-  "aktuella_handlingar": 0,
-  "portaladresser": []
+  "aktuella_handlingar": 79,
+  "portaladresser": [
+   "https://opengov.360online.com/Meetings/NORBERG",
+   "https://opengov.360online.com/Meetings/norberg"
+  ]
  },
  "norrtalje": {
   "kommun": "Norrtälje",
-  "url": "https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/",
-  "titel": "Kommunfullmäktiges webbsändning - Kommun & politik | Norrtälje kommun",
-  "poang": 32,
-  "upptackt": "2000-01-01",
+  "url": "https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/",
+  "titel": "Politiska sammanträden | Norrtälje kommun",
+  "poang": 31,
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-05-25",
@@ -785,7 +808,7 @@
   "nasta_kf": "2026-12-01",
   "senaste_kf": "2026-10-20",
   "nasta_ks": "2026-12-01",
-  "aktuella_handlingar": 0,
+  "aktuella_handlingar": 1,
   "portaladresser": []
  },
  "olofstrom": {
@@ -829,20 +852,23 @@
  },
  "rattvik": {
   "kommun": "Rättvik",
-  "url": "https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html",
-  "titel": "22 oktober 2026 - Rättviks kommun",
+  "url": "https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet/anslagstavla-officiell.html",
+  "titel": "Anslagstavla, officiell - Rättviks kommun",
   "poang": 22,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-03-05",
    "2026-05-07",
    "2026-06-11",
-   "2026-10-22"
+   "2026-10-22",
+   "2026-11-03"
   ],
-  "ks": [],
+  "ks": [
+   "2026-10-20"
+  ],
   "nasta_kf": null,
-  "senaste_kf": "2026-10-22",
+  "senaste_kf": "2026-11-03",
   "nasta_ks": null,
   "aktuella_handlingar": 0,
   "portaladresser": []
@@ -915,7 +941,7 @@
   "url": null,
   "titel": null,
   "poang": 0,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [],
   "ks": [],
@@ -930,7 +956,7 @@
   "url": "https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/",
   "titel": "Sammanträden i Sollentuna kommun",
   "poang": 34,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-01-13",
@@ -1020,7 +1046,7 @@
   "url": "https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/",
   "titel": "Kommunfullmäktige - Trelleborgs kommun",
   "poang": 29,
-  "upptackt": "2000-01-01",
+  "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
    "2026-01-19",

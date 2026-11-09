@@ -2,6 +2,7 @@ Startadresser från Brave: inga
 Portaladresser: inga
 
 Sidor (poäng):
+ 34  https://www.dorotea.se/anslagstavla/  Anslagstavla | Dorotea Kommun
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/  Kommunstyrelse | Dorotea Kommun
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunfullmaktige/  Kommunfullmäktige | Dorotea Kommun
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelsens-au/  Kommunstyrelsens au | Dorotea Kommun
@@ -9,6 +10,15 @@ Sidor (poäng):
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/vard-och-stodutskottet/  Vård- och stödutskottet | Dorotea Kommun
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradesdatum-2026/  Sammanträdesdatum 2026 | Dorotea Kommun
  30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/miljo-och-byggnadsnamnden/  Miljö- och byggnadsnämnden | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/valnamnd/  Valnämnd | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunala-pensionars-och-tillganglighetsradet/  Kommunala pensionärs- och tillgänglighetsrådet | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/overformyndarnamnd/  Överförmyndarnämnd | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/samordningsforbundet-sodra-lappland/  Samordningsförbundet Södra Lappland | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/krangliga-ord/  Krångliga ord | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/socialnamnden/  Socialnämnden | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/socialnamndens-au/  Socialnämndens au | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kultur-och-utbildningsnamnden/  Kultur- och utbildningsnämnden | Dorotea Kommun
+ 30  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kultur-och-utbildningsnamndens-au/  Kultur- och utbildningsnämndens au | Dorotea Kommun
  28  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/  Möten, handlingar och protokoll | Dorotea Kommun
  28  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/  Kommunfullmäktige | Dorotea Kommun
  28  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/  Kommunstyrelsen | Dorotea Kommun
@@ -24,9 +34,315 @@ Sidor (poäng):
  28  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/forvaltningar-och-enheter/kommunstyrelsens-forvaltning/kostenheten/specialkost-och-anpassade-maltider/  Specialkost och anpassade måltider | Dorotea Kommun
  28  https://www.dorotea.se/kommun-och-politik/beslut-insyn-och-rattssakerhet/hur-gar-det-till-att-fatta-beslut/  Hur går det till att fatta beslut? | Dorotea Kommun
  28  https://www.dorotea.se/kommun-och-politik/beslut-insyn-och-rattssakerhet/overklaga-beslut/  Överklaga beslut | Dorotea Kommun
+ 28  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/namnder/  Nämnder | Dorotea Kommun
  25  https://www.dorotea.se/kommun-och-politik/beslut-insyn-och-rattssakerhet/  Beslut, insyn och rättssäkerhet | Dorotea Kommun
  18  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/forvaltningar-och-enheter/kommunstyrelsens-forvaltning/naringsliv/  Driva företag eller arbeta i Dorotea | Dorotea Kommun
+ 16  https://www.dorotea.se/  Start | Dorotea Kommun
  12  https://www.dorotea.se/kommun-och-politik/kommunens-organisation/forvaltningar-och-enheter/kommunstyrelsens-forvaltning/raddningstjansten/  Räddningstjänst | Dorotea Kommun
+ -7  https://www.dorotea.se/nyheter/anhorigenkaten-2026/  Anhörigenkäten 2026 | Dorotea Kommun
+ -8  https://www.dorotea.se/nyheter/dialogmote-hantverkstjanster/  Dialogmöte hantverkstjänster | Dorotea Kommun
+
+Länkar på https://www.dorotea.se/anslagstavla/:
+  https://www.dorotea.se/anslagstavla/#main | Till innehåll
+  https://www.dorotea.se/ | Till Startsidan
+  https://www.dorotea.se/anslagstavla/ | Anslagstavla
+  https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ | Förskola och pedagogisk barnomsorg
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/ | Förskola - Aarhskuvle
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/ | Avgiftsregler förskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/ | Regler förskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/ | Ansök eller säg upp plats
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ | Familjedaghem, pedagogisk omsorg
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ravlyan/ | Rävlyan
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/mat-lunch/ | Mat, lunch
+  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/starta-fristaende-verksamhet/ | Starta fristående verksamhet
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/ | Grundskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/ | Grundskolor
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/strandenskolan/ | Strandenskolan
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/risbacks-fjallskola/ | Risbäcks fjällskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/vara-fritidshem/ | Våra fritidshem
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/bedomning-och-betyg/ | Bedömning och betyg
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/mat-lunch/ | Mat, lunch
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/terminer-lov-och-ledigheter/ | Terminer, lov och ledigheter
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/ | Skolskjuts
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/vantis-i-vantan-pa-skolskjuts/ | Väntis - I väntan på skolskjuts
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/infomentor/ | Infomentor
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/prao/ | PRAO
+  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/inackorderingsbidrag/ | Inackorderingsbidrag
+  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/ | Anpassad grundskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/anpassad-grundskola/ | Anpassad grundskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/traningsskola/ | Träningsskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/ | Gymnasium
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/anpassad-gymnasieskola/ | Anpassad gymnasieskola
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/val-och-antagning/ | Val och antagning
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/betyg-individuell-utvecklingsplan-iup/ | Betyg, individuell utvecklingsplan, IUP
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/byta-skola-eller-program/ | Byta skola eller program
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/lov-och-ledigheter/ | Lov och ledigheter
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/ | Studiehjälp
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/studiebidrag/ | Studiebidrag
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/extra-tillagg/ | Extra tillägg
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg
+  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/resor/ | Resor
+  https://www.dorotea.se/utbildning-och-barnomsorg/kommunala-aktivitetsansvaret/ | Kommunala aktivitetsansvaret
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/ | Vuxenutbildning
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/information-och-ansokan/ | Information och ansökan
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/grundlaggande-och-gymnasial-vuxenutbildning/ | Grundläggande och gymnasial vuxenutbildning
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/info-till-studerande-csn/ | Info till studerande / CSN
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/flyktingmottagning/ | Flyktingmottagning
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sfi-svenska-for-invandrare/ | SFI, Svenska för invandrare
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/studievagledning/ | Studievägledning
+  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sarvux/ | Särvux
+  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/ | Särskilda behov, extra stöd
+  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/atgardsprogram-och-utvecklingsplan/ | Åtgärdsprogram och utvecklingsplan
+  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/specialpedagogik/ | Specialpedagogik
+  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/ | Elevhälsa, Hälsovård
+  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/skoterska-och-lakare/ | Sköterska och läkare
+  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/kurator-och-psykolog/ | Kurator och psykolog
+  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/halsobesok-och-vaccinationer/ | Hälsobesök och vaccinationer
+  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/framjande-och-forebyggande-arbete/ | Främjande och förebyggande arbete
+  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/ | Likabehandling, trygghet och studiero
+  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/likabehandling/ | Likabehandling
+  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/tillganglighet-i-skolan/ | Tillgänglighet i skolan
+  https://www.dorotea.se/utbildning-och-barnomsorg/studie-och-yrkesvagledning/ | Studie- och yrkesvägledning
+  https://www.dorotea.se/utbildning-och-barnomsorg/forsakringar/ | Försäkringar
+  https://www.dorotea.se/utbildning-och-barnomsorg/modersmal/ | Modersmål
+  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/ | Miljö i skolan
+  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/buller-i-skolmiljon/ | Buller i skolmiljön
+  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/luft-och-ventilation/ | Luft och ventilation
+  https://www.dorotea.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.dorotea.se/utbildning-och-barnomsorg/fragor-och-svar/ | Frågor och svar
+  https://www.dorotea.se/omsorg-och-stod/ | Omsorg och stöd
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/akuta-psykiska-problem/ | Akuta psykiska problem
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/ | Kristeam och krisberedskap
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/krishjalp-fran-posom/ | Krishjälp från POSOM
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kvinnojour-och-mansjour/ | Kvinnojour och mansjour
+  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/orostelefonen/ | Orostelefonen
+  https://www.dorotea.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa
+  https://www.dorotea.se/omsorg-och-stod/anhoriga/ | Anhöriga
+  https://www.dorotea.se/omsorg-och-stod/anhoriga/anhorigstod/ | Anhörigstöd
+  https://www.dorotea.se/omsorg-och-stod/anhoriga/frivilligt-arbete-och-organisationer/ | Frivilligt arbete och organisationer
+  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning
+  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravning/ | Begravning
+  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravningshjalp/ | Begravningshjälp
+  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/bouppteckning/ | Bouppteckning
+  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ | Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/bidragsnorm/ | Bidragsnorm
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/eu-ees-medborgare/ | EU/EES-medborgare
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ansokan-om-forsorjningsstod/ | Ansökan om försörjningsstöd
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/socialregister-och-tystnadsplikt/ | Socialregister och tystnadsplikt
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/studerande-med-sommaruppehall/ | Studerande med sommaruppehåll
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/juridisk-hjalp/ | Juridisk hjälp
+  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/arbetsloshet/ | Arbetslöshet
+  https://www.dorotea.se/omsorg-och-stod/god-man-forvaltare-formyndare/ | God man, förvaltare, förmyndare
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/ | Familj, barn och ungdom
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/elever-med-sarskilda-behov/ | Elever med särskilda behov
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/misstanke-om-barn-som-far-illa/ | Misstanke om barn som far illa
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ | Stöd till barn och ungdom
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/brister-i-foraldraskap/ | Brister i föräldraskap
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ekonomiska-problem/ | Ekonomiska problem
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/elevhalsan/ | Elevhälsan
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/skaffa-en-mentor/ | Skaffa en mentor
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/ | Stöd till familjen
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/min-digitala-socialtjanst/ | Min digitala socialtjänst
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjeradgivning/ | Familjerådgivning
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjehem/ | Familjehem
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ | Vårdnad, boende, umgänge
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/samarbetsavtal/ | Samarbetsavtal
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/namnarende/ | Namnärende
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ordforklaringar/ | Ordförklaringar
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/separation-skilsmassa/ | Separation, skilsmässa
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/adoption/ | Adoption
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/faderskap-och-foraldraskap/ | Faderskap och föräldraskap
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/kontaktfamilj-kontaktperson/ | Kontaktfamilj, kontaktperson
+  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/behandlingshem-hvb/ | Behandlingshem, HVB
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/ | Hjälp till barn och unga
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/akut-hjalp-for-barn-och-unga/ | Akut hjälp för barn och unga
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ | Länktips
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/adhd/ | ADHD
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/alkohol-och-droger/ | Alkohol och droger
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/anorexi/ | Anorexi
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/aspergers-syndrom/ | Aspergers syndrom
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/autism/ | Autism
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bipolar-sjukdom/ | Bipolär sjukdom
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/blyghet-och-social-fobi/ | Blyghet och social fobi
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/brister-i-foraldraskap/ | Brister i föräldraskap
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bulimi/ | Bulimi
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/depression/ | Depression
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dyslexi-las-och-skrivsvarigheter/ | Dyslexi (läs- och skrivsvårigheter)
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dodsfall-och-sorg/ | Dödsfall och sorg
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ekonomiska-problem/ | Ekonomiska problem
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/fobier/ | Fobier
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/funktionsnedsattning/ | Funktionsnedsättning
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/heder/ | Heder
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ilska-och-utbrott/ | Ilska och utbrott
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/koncentrationssvarigheter/ | Koncentrationssvårigheter
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kriminalitet/ | Kriminalitet
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kris-i-livet/ | Kris i livet
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/konsinkongruens-nar-kropp-och-kon-inte-stammer-overens/ | Könsinkongruens (när kropp och kön inte stämmer överens)
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ledsen-och-nedstamd/ | Ledsen och nedstämd
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/mobbing-och-krankande-behandling/ | Mobbing och kränkande behandling
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/oro/ | Oro
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/problem-i-skolan/ | Problem i skolan
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/psykos/ | Psykos
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/riskbruk-och-missbruk/ | Riskbruk och missbruk
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sexuella-overgrepp/ | Sexuella övergrepp
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvmordstankar/ | Självmordstankar
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvskadebeteende/ | Självskadebeteende
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/skilsmassa/ | Skilsmässa
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/skolfranvaro/ | Skolfrånvaro
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/stress/ | Stress
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/somnsvarigheter/ | Sömnsvårigheter
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/tourettes-syndrom/ | Tourettes syndrom
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/tvangssyndrom/ | Tvångssyndrom
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/vald-och-overgrepp/ | Våld och övergrepp
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/angest/ | Ångest
+  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/atstorningar/ | Ätstörningar
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/ | Funktionsnedsättning
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/lss-stod-och-service/ | LSS, stöd och service
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/lss-stod-och-service/ansokan-om-bistand-insatser/ | Ansökan om bistånd/insatser
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/ | Daglig verksamhet, arbete och sysselsättning
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/valkommen-till-traffpunkten/ | Välkommen till Träffpunkten
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/bostad-med-sarskild-service/ | Bostad med särskild service
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/bostad-med-sarskild-service/gruppboende/ | Gruppboende
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/korttidsverksamhet/ | Korttidsverksamhet
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/avlosarservice-i-hemmet/ | Avlösarservice i hemmet
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/kontaktperson/ | Kontaktperson
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/ledsagarservice/ | Ledsagarservice
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/personlig-assistans/ | Personlig assistans
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/ | Psykisk funktionsnedsättning
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/boendestod/ | Boendestöd
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/ | Daglig verksamhet, arbete och sysselsättning
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/personligt-ombud/ | Personligt ombud
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/syn-och-horselnedsattning/ | Syn- och hörselnedsättning
+  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/tolk-for-syn-och-horselnedsattning/ | Tolk för syn- och hörselnedsättning
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/ | Äldre och andra i behov av stöd
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/voereshokse-aldreomsorg/ | Voereshokse - Äldreomsorg
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/voereshokse-aldreomsorg/voereshokse/ | Voereshokse
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/ansokan-och-avgifter/ | Ansökan och avgifter
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/demens/ | Demens
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/ | Boenden
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/bergvattengarden/ | Bergvattengården
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/korttidsboende/ | Korttidsboende
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/fardtjanst/ | Färdtjänst
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/fardtjanst/riksfardtjanst/ | Riksfärdtjänst
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/ | Hemtjänst, hjälp i hemmet
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/mat/ | Mat
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/trygghetslarm/ | Trygghetslarm
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/trygghetskamera/ | Trygghetskamera
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemsjukvard/ | Hemsjukvård
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/mat-for-aldre/ | Mat för äldre
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/bostadsbidrag-for-pensionarer/ | Bostadsbidrag för pensionärer
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/klagomal-och-synpunkter/ | Klagomål och synpunkter
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/motesplatsen-en-verksamhet-for-aldre/ | Mötesplatsen en verksamhet för äldre
+  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/digitala-valfardstekniska-losningar-inom-vard-och-omsorgstjanster/ | Digitala välfärdstekniska lösningar inom vård- och omsorgstjänster
+  https://www.dorotea.se/omsorg-och-stod/avgifter-for-aldreomsorg/ | Avgifter för äldreomsorg
+  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/ | Hjälpmedel och bostadsanpassning
+  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/hjalpmedel/ | Hjälpmedel
+  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/bostadsanpassning/ | Bostadsanpassning
+  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/ | Resor, transporter och besök
+  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/fardtjanst/ | Färdtjänst
+  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/fardtjanst/riksfardtjanst/ | Riksfärdtjänst
+  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/sjukresor/ | Sjukresor
+  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/parkeringstillstand/ | Parkeringstillstånd
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/ | Sjukvård och tandvård
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/ansvarsfordelning-kommun-och-region/ | Ansvarsfördelning kommun och Region
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/rehabilitering/ | Rehabilitering
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/tandvard/ | Tandvård
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/medicinskt-ansvarig-sjukskoterska-mas/ | Medicinskt ansvarig sjuksköterska, MAS
+  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/patientforsakring/ | Patientförsäkring
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/ | Invandring och integration
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/flyktingmottagning/ | Flyktingmottagning
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/tolk/ | Tolk
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/arbete/ | Arbete
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/sfi-svenska-for-invandrare/ | Sfi, Svenska för invandrare
+  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/ensamkommande-barn-och-ungdomar/ | Ensamkommande barn och ungdomar
+  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/ | Missbruk och beroende
+  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/akut-hjalp-missbruk/ | Akut hjälp - Missbruk
+  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/alkohol-droger-och-spel/ | Alkohol, droger och spel
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/ | Säkerhet och beredskap
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/ | Krisinformation
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/kommunens-kanaler-och-myndigheter/ | Kommunens kanaler och myndigheter
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/informationspunkter/ | Informationspunkter
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/vma-viktigt-meddelande-till-allmanheten/ | VMA - Viktigt meddelande till allmänheten
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/myndighetsmeddelande/ | Myndighetsmeddelande
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/ | Din beredskap
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hemberedskap/ | Hemberedskap
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/informationspaverkan/ | Informationspåverkan
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/cybersakerhet/ | Cybersäkerhet
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hur-du-ar-en-del-av-totalforsvaret/ | Hur du är en del av totalförsvaret
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hlr-och-forsta-hjalpen/ | HLR och första hjälpen
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/ice-nummer/ | ICE-nummer
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/beredskapsveckan/ | Beredskapsveckan
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hur-kan-jag-engagera-mig/ | Hur kan jag engagera mig?
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/ | Kommunens beredskap
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/kommunens-krisorganisation/ | Kommunens krisorganisation
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/nodvatten-och-nodvattenplan/ | Nödvatten och nödvattenplan
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/trygghetspunkter/ | Trygghetspunkter
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/risker-i-kommunen/ | Risker i kommunen
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/vad-ar-totalforsvaret/ | Vad är totalförsvaret?
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/frg/ | FRG
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/posom/ | POSOM
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/ | Räddningstjänst
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/arbeta-som-brandman/ | Arbeta som brandman
+  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/utbildningar/ | Utbildningar
+  https://www.dorotea.se/omsorg-och-stod/brottsforebyggande-arbete/ | Brottsförebyggande arbete
+  https://www.dorotea.se/omsorg-och-stod/vald-och-hot/ | Våld och hot
+  https://www.dorotea.se/omsorg-och-stod/centrum-mot-vald/ | Centrum mot våld
+  https://www.dorotea.se/omsorg-och-stod/en-kommun-fri-fran-vald/ | En kommun fri från våld
+  https://www.dorotea.se/omsorg-och-stod/folkhalsoarbete/ | Folkhälsoarbete
+  https://www.dorotea.se/omsorg-och-stod/konsumentvagledning/ | Konsumentvägledning
+  https://www.dorotea.se/omsorg-och-stod/patientnamnden/ | Patientnämnden
+  https://www.dorotea.se/omsorg-och-stod/fragor-och-svar/ | Frågor och svar
+  https://www.dorotea.se/uppleva-och-gora/ | Uppleva och göra
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/ | Aktiviteter, anläggningar och öppettider
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/medborgarhuset/ | Medborgarhuset
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/medborgarhuset/bokningsforfragan/ | Bokningsförfrågan
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/ | Simhall
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/sakerhet/ | Säkerhet
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/hyra-simhallen/ | Hyra simhallen
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/styrketraning/ | Styrketräning
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/styrketraning/aldersgrans-i-gymmet/ | Åldersgräns i gymmet
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/grupptraningar/ | Gruppträningar
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/grupptraningar/boka-grupptraning/ | Boka gruppträning
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/fotbollsplaner/ | Fotbollsplaner
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/skid-och-elljusspar/ | Skid- och elljusspår
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/slalombackar/ | Slalombackar
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/ungdomsgard/ | Ungdomsgård
+  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/sporthall/ | Sporthall
+  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/ | Friluftsliv och motion
+  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/lekplatser/ | Lekplatser
+  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/vandringsleder-och-strovomraden/ | Vandringsleder och strövområden
+  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/fiske/ | Fiske
+  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/skoterakning/ | Skoteråkning
+  https://www.dorotea.se/uppleva-och-gora/kultur/ | Kultur
+  https://www.dorotea.se/uppleva-och-gora/kultur/bibliotek/ | Bibliotek
+  https://www.dorotea.se/uppleva-och-gora/kultur/biograf/ | Biograf
+  https://www.dorotea.se/uppleva-och-gora/kultur/konst-musik-och-teater/ | Konst, musik och teater
+  https://www.dorotea.se/uppleva-och-gora/kultur/dr-stromboms-tradgard/ | Dr Strömboms trädgård
+  https://www.dorotea.se/uppleva-och-gora/kultur/kulturskola/ | Kulturskola
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/ | Föreningar och föreningsliv
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ | Föreningsstöd
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ansok-om-bidrag/ | Ansök om bidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/kommunalt-aktivitetsstod/ | Kommunalt aktivitetsstöd
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/allmanna-arvsfonden/ | Allmänna arvsfonden
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/anlaggningsbidrag/ | Anläggningsbidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/statligt-aktivitetsstod/ | Statligt aktivitetsstöd
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/kulturbidrag/ | Kulturbidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ledarutbildningsbidrag/ | Ledarutbildningsbidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/lokalbidrag/ | Lokalbidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/sarskilda-bidrag/ | Särskilda bidrag
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/ | Bygdemedel
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/attraktivitetshojande-utvecklingsinsatser/ | Attraktivitetshöjande utvecklingsinsatser
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/handlingsplan/ | Handlingsplan
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/ansoka-om-bygdemedel/ | Ansöka om bygdemedel
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/rekvirera-medel/ | Rekvirera medel
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/fordelning-av-bygdemedel/ | Fördelning av bygdemedel
+  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/bilda-forening/ | Bilda förening
 
 Länkar på https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/:
   https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/#main | Till innehåll
@@ -332,308 +648,6 @@ Länkar på https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-proto
 
 Länkar på https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunfullmaktige/:
   https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunfullmaktige/#main | Till innehåll
-  https://www.dorotea.se/ | Till Startsidan
-  https://www.dorotea.se/anslagstavla/ | Anslagstavla
-  https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ | Förskola och pedagogisk barnomsorg
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/ | Förskola - Aarhskuvle
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/ | Avgiftsregler förskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/ | Regler förskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/ | Ansök eller säg upp plats
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ | Familjedaghem, pedagogisk omsorg
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ravlyan/ | Rävlyan
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/mat-lunch/ | Mat, lunch
-  https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/starta-fristaende-verksamhet/ | Starta fristående verksamhet
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/ | Grundskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/ | Grundskolor
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/strandenskolan/ | Strandenskolan
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/risbacks-fjallskola/ | Risbäcks fjällskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/vara-fritidshem/ | Våra fritidshem
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/bedomning-och-betyg/ | Bedömning och betyg
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/mat-lunch/ | Mat, lunch
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/terminer-lov-och-ledigheter/ | Terminer, lov och ledigheter
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/ | Skolskjuts
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/vantis-i-vantan-pa-skolskjuts/ | Väntis - I väntan på skolskjuts
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/infomentor/ | Infomentor
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/prao/ | PRAO
-  https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/inackorderingsbidrag/ | Inackorderingsbidrag
-  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/ | Anpassad grundskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/anpassad-grundskola/ | Anpassad grundskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/traningsskola/ | Träningsskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/ | Gymnasium
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/anpassad-gymnasieskola/ | Anpassad gymnasieskola
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/val-och-antagning/ | Val och antagning
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/betyg-individuell-utvecklingsplan-iup/ | Betyg, individuell utvecklingsplan, IUP
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/byta-skola-eller-program/ | Byta skola eller program
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/lov-och-ledigheter/ | Lov och ledigheter
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/ | Studiehjälp
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/studiebidrag/ | Studiebidrag
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/extra-tillagg/ | Extra tillägg
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg
-  https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/resor/ | Resor
-  https://www.dorotea.se/utbildning-och-barnomsorg/kommunala-aktivitetsansvaret/ | Kommunala aktivitetsansvaret
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/ | Vuxenutbildning
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/information-och-ansokan/ | Information och ansökan
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/grundlaggande-och-gymnasial-vuxenutbildning/ | Grundläggande och gymnasial vuxenutbildning
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/info-till-studerande-csn/ | Info till studerande / CSN
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/flyktingmottagning/ | Flyktingmottagning
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sfi-svenska-for-invandrare/ | SFI, Svenska för invandrare
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/studievagledning/ | Studievägledning
-  https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sarvux/ | Särvux
-  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/ | Särskilda behov, extra stöd
-  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/atgardsprogram-och-utvecklingsplan/ | Åtgärdsprogram och utvecklingsplan
-  https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/specialpedagogik/ | Specialpedagogik
-  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/ | Elevhälsa, Hälsovård
-  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/skoterska-och-lakare/ | Sköterska och läkare
-  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/kurator-och-psykolog/ | Kurator och psykolog
-  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/halsobesok-och-vaccinationer/ | Hälsobesök och vaccinationer
-  https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/framjande-och-forebyggande-arbete/ | Främjande och förebyggande arbete
-  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/ | Likabehandling, trygghet och studiero
-  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/likabehandling/ | Likabehandling
-  https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/tillganglighet-i-skolan/ | Tillgänglighet i skolan
-  https://www.dorotea.se/utbildning-och-barnomsorg/studie-och-yrkesvagledning/ | Studie- och yrkesvägledning
-  https://www.dorotea.se/utbildning-och-barnomsorg/forsakringar/ | Försäkringar
-  https://www.dorotea.se/utbildning-och-barnomsorg/modersmal/ | Modersmål
-  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/ | Miljö i skolan
-  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/buller-i-skolmiljon/ | Buller i skolmiljön
-  https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/luft-och-ventilation/ | Luft och ventilation
-  https://www.dorotea.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål
-  https://www.dorotea.se/utbildning-och-barnomsorg/fragor-och-svar/ | Frågor och svar
-  https://www.dorotea.se/omsorg-och-stod/ | Omsorg och stöd
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/akuta-psykiska-problem/ | Akuta psykiska problem
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/ | Kristeam och krisberedskap
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/krishjalp-fran-posom/ | Krishjälp från POSOM
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kvinnojour-och-mansjour/ | Kvinnojour och mansjour
-  https://www.dorotea.se/omsorg-och-stod/akut-hjalp/orostelefonen/ | Orostelefonen
-  https://www.dorotea.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa
-  https://www.dorotea.se/omsorg-och-stod/anhoriga/ | Anhöriga
-  https://www.dorotea.se/omsorg-och-stod/anhoriga/anhorigstod/ | Anhörigstöd
-  https://www.dorotea.se/omsorg-och-stod/anhoriga/frivilligt-arbete-och-organisationer/ | Frivilligt arbete och organisationer
-  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning
-  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravning/ | Begravning
-  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravningshjalp/ | Begravningshjälp
-  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/bouppteckning/ | Bouppteckning
-  https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ | Ekonomi, försörjningsstöd och budget- och skuldrådgivning
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/bidragsnorm/ | Bidragsnorm
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/eu-ees-medborgare/ | EU/EES-medborgare
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ansokan-om-forsorjningsstod/ | Ansökan om försörjningsstöd
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/socialregister-och-tystnadsplikt/ | Socialregister och tystnadsplikt
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/studerande-med-sommaruppehall/ | Studerande med sommaruppehåll
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/juridisk-hjalp/ | Juridisk hjälp
-  https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/arbetsloshet/ | Arbetslöshet
-  https://www.dorotea.se/omsorg-och-stod/god-man-forvaltare-formyndare/ | God man, förvaltare, förmyndare
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/ | Familj, barn och ungdom
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/elever-med-sarskilda-behov/ | Elever med särskilda behov
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/misstanke-om-barn-som-far-illa/ | Misstanke om barn som far illa
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ | Stöd till barn och ungdom
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/brister-i-foraldraskap/ | Brister i föräldraskap
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ekonomiska-problem/ | Ekonomiska problem
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/elevhalsan/ | Elevhälsan
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/skaffa-en-mentor/ | Skaffa en mentor
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/ | Stöd till familjen
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/min-digitala-socialtjanst/ | Min digitala socialtjänst
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjeradgivning/ | Familjerådgivning
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjehem/ | Familjehem
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ | Vårdnad, boende, umgänge
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/samarbetsavtal/ | Samarbetsavtal
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/namnarende/ | Namnärende
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ordforklaringar/ | Ordförklaringar
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/separation-skilsmassa/ | Separation, skilsmässa
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/adoption/ | Adoption
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/faderskap-och-foraldraskap/ | Faderskap och föräldraskap
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/kontaktfamilj-kontaktperson/ | Kontaktfamilj, kontaktperson
-  https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/behandlingshem-hvb/ | Behandlingshem, HVB
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/ | Hjälp till barn och unga
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/akut-hjalp-for-barn-och-unga/ | Akut hjälp för barn och unga
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ | Länktips
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/adhd/ | ADHD
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/alkohol-och-droger/ | Alkohol och droger
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/anorexi/ | Anorexi
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/aspergers-syndrom/ | Aspergers syndrom
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/autism/ | Autism
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bipolar-sjukdom/ | Bipolär sjukdom
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/blyghet-och-social-fobi/ | Blyghet och social fobi
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/brister-i-foraldraskap/ | Brister i föräldraskap
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bulimi/ | Bulimi
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/depression/ | Depression
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dyslexi-las-och-skrivsvarigheter/ | Dyslexi (läs- och skrivsvårigheter)
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dodsfall-och-sorg/ | Dödsfall och sorg
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ekonomiska-problem/ | Ekonomiska problem
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/fobier/ | Fobier
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/funktionsnedsattning/ | Funktionsnedsättning
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/heder/ | Heder
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ilska-och-utbrott/ | Ilska och utbrott
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/koncentrationssvarigheter/ | Koncentrationssvårigheter
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kriminalitet/ | Kriminalitet
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kris-i-livet/ | Kris i livet
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/konsinkongruens-nar-kropp-och-kon-inte-stammer-overens/ | Könsinkongruens (när kropp och kön inte stämmer överens)
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ledsen-och-nedstamd/ | Ledsen och nedstämd
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/mobbing-och-krankande-behandling/ | Mobbing och kränkande behandling
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/oro/ | Oro
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/problem-i-skolan/ | Problem i skolan
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/psykos/ | Psykos
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/riskbruk-och-missbruk/ | Riskbruk och missbruk
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sexuella-overgrepp/ | Sexuella övergrepp
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvmordstankar/ | Självmordstankar
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvskadebeteende/ | Självskadebeteende
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/skilsmassa/ | Skilsmässa
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/skolfranvaro/ | Skolfrånvaro
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/stress/ | Stress
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/somnsvarigheter/ | Sömnsvårigheter
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/tourettes-syndrom/ | Tourettes syndrom
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/tvangssyndrom/ | Tvångssyndrom
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/vald-och-overgrepp/ | Våld och övergrepp
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/angest/ | Ångest
-  https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/atstorningar/ | Ätstörningar
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/ | Funktionsnedsättning
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/lss-stod-och-service/ | LSS, stöd och service
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/lss-stod-och-service/ansokan-om-bistand-insatser/ | Ansökan om bistånd/insatser
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/ | Daglig verksamhet, arbete och sysselsättning
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/valkommen-till-traffpunkten/ | Välkommen till Träffpunkten
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/bostad-med-sarskild-service/ | Bostad med särskild service
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/bostad-med-sarskild-service/gruppboende/ | Gruppboende
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/korttidsverksamhet/ | Korttidsverksamhet
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/avlosarservice-i-hemmet/ | Avlösarservice i hemmet
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/kontaktperson/ | Kontaktperson
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/ledsagarservice/ | Ledsagarservice
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/personlig-assistans/ | Personlig assistans
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/ | Psykisk funktionsnedsättning
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/boendestod/ | Boendestöd
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/daglig-verksamhet-arbete-och-sysselsattning/ | Daglig verksamhet, arbete och sysselsättning
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/psykisk-funktionsnedsattning/personligt-ombud/ | Personligt ombud
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/syn-och-horselnedsattning/ | Syn- och hörselnedsättning
-  https://www.dorotea.se/omsorg-och-stod/funktionsnedsattning/tolk-for-syn-och-horselnedsattning/ | Tolk för syn- och hörselnedsättning
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/ | Äldre och andra i behov av stöd
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/voereshokse-aldreomsorg/ | Voereshokse - Äldreomsorg
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/voereshokse-aldreomsorg/voereshokse/ | Voereshokse
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/ansokan-och-avgifter/ | Ansökan och avgifter
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/demens/ | Demens
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/ | Boenden
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/bergvattengarden/ | Bergvattengården
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/boenden/korttidsboende/ | Korttidsboende
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/fardtjanst/ | Färdtjänst
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/fardtjanst/riksfardtjanst/ | Riksfärdtjänst
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/ | Hemtjänst, hjälp i hemmet
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/mat/ | Mat
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/trygghetslarm/ | Trygghetslarm
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemtjanst-hjalp-i-hemmet/trygghetskamera/ | Trygghetskamera
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/hemsjukvard/ | Hemsjukvård
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/mat-for-aldre/ | Mat för äldre
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/bostadsbidrag-for-pensionarer/ | Bostadsbidrag för pensionärer
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/klagomal-och-synpunkter/ | Klagomål och synpunkter
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/motesplatsen-en-verksamhet-for-aldre/ | Mötesplatsen en verksamhet för äldre
-  https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/digitala-valfardstekniska-losningar-inom-vard-och-omsorgstjanster/ | Digitala välfärdstekniska lösningar inom vård- och omsorgstjänster
-  https://www.dorotea.se/omsorg-och-stod/avgifter-for-aldreomsorg/ | Avgifter för äldreomsorg
-  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/ | Hjälpmedel och bostadsanpassning
-  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/hjalpmedel/ | Hjälpmedel
-  https://www.dorotea.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning/bostadsanpassning/ | Bostadsanpassning
-  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/ | Resor, transporter och besök
-  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/fardtjanst/ | Färdtjänst
-  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/fardtjanst/riksfardtjanst/ | Riksfärdtjänst
-  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/sjukresor/ | Sjukresor
-  https://www.dorotea.se/omsorg-och-stod/resor-transporter-och-besok/parkeringstillstand/ | Parkeringstillstånd
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/ | Sjukvård och tandvård
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/ansvarsfordelning-kommun-och-region/ | Ansvarsfördelning kommun och Region
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/rehabilitering/ | Rehabilitering
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/tandvard/ | Tandvård
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/medicinskt-ansvarig-sjukskoterska-mas/ | Medicinskt ansvarig sjuksköterska, MAS
-  https://www.dorotea.se/omsorg-och-stod/sjukvard-och-tandvard/patientforsakring/ | Patientförsäkring
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/ | Invandring och integration
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/flyktingmottagning/ | Flyktingmottagning
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/tolk/ | Tolk
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/arbete/ | Arbete
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/sfi-svenska-for-invandrare/ | Sfi, Svenska för invandrare
-  https://www.dorotea.se/omsorg-och-stod/invandring-och-integration/ensamkommande-barn-och-ungdomar/ | Ensamkommande barn och ungdomar
-  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/ | Missbruk och beroende
-  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/akut-hjalp-missbruk/ | Akut hjälp - Missbruk
-  https://www.dorotea.se/omsorg-och-stod/missbruk-och-beroende/alkohol-droger-och-spel/ | Alkohol, droger och spel
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/ | Säkerhet och beredskap
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/ | Krisinformation
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/kommunens-kanaler-och-myndigheter/ | Kommunens kanaler och myndigheter
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/informationspunkter/ | Informationspunkter
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/vma-viktigt-meddelande-till-allmanheten/ | VMA - Viktigt meddelande till allmänheten
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/krisinformation/myndighetsmeddelande/ | Myndighetsmeddelande
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/ | Din beredskap
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hemberedskap/ | Hemberedskap
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/informationspaverkan/ | Informationspåverkan
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/cybersakerhet/ | Cybersäkerhet
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hur-du-ar-en-del-av-totalforsvaret/ | Hur du är en del av totalförsvaret
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hlr-och-forsta-hjalpen/ | HLR och första hjälpen
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/ice-nummer/ | ICE-nummer
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/beredskapsveckan/ | Beredskapsveckan
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/din-beredskap/hur-kan-jag-engagera-mig/ | Hur kan jag engagera mig?
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/ | Kommunens beredskap
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/kommunens-krisorganisation/ | Kommunens krisorganisation
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/nodvatten-och-nodvattenplan/ | Nödvatten och nödvattenplan
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/trygghetspunkter/ | Trygghetspunkter
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/risker-i-kommunen/ | Risker i kommunen
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/vad-ar-totalforsvaret/ | Vad är totalförsvaret?
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/frg/ | FRG
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/kommunens-beredskap/posom/ | POSOM
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/ | Räddningstjänst
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/arbeta-som-brandman/ | Arbeta som brandman
-  https://www.dorotea.se/omsorg-och-stod/sakerhet-och-beredskap/raddningstjanst/utbildningar/ | Utbildningar
-  https://www.dorotea.se/omsorg-och-stod/brottsforebyggande-arbete/ | Brottsförebyggande arbete
-  https://www.dorotea.se/omsorg-och-stod/vald-och-hot/ | Våld och hot
-  https://www.dorotea.se/omsorg-och-stod/centrum-mot-vald/ | Centrum mot våld
-  https://www.dorotea.se/omsorg-och-stod/en-kommun-fri-fran-vald/ | En kommun fri från våld
-  https://www.dorotea.se/omsorg-och-stod/folkhalsoarbete/ | Folkhälsoarbete
-  https://www.dorotea.se/omsorg-och-stod/konsumentvagledning/ | Konsumentvägledning
-  https://www.dorotea.se/omsorg-och-stod/patientnamnden/ | Patientnämnden
-  https://www.dorotea.se/omsorg-och-stod/fragor-och-svar/ | Frågor och svar
-  https://www.dorotea.se/uppleva-och-gora/ | Uppleva och göra
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/ | Aktiviteter, anläggningar och öppettider
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/medborgarhuset/ | Medborgarhuset
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/medborgarhuset/bokningsforfragan/ | Bokningsförfrågan
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/ | Simhall
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/sakerhet/ | Säkerhet
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/simhall/hyra-simhallen/ | Hyra simhallen
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/styrketraning/ | Styrketräning
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/styrketraning/aldersgrans-i-gymmet/ | Åldersgräns i gymmet
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/grupptraningar/ | Gruppträningar
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/grupptraningar/boka-grupptraning/ | Boka gruppträning
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/fotbollsplaner/ | Fotbollsplaner
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/skid-och-elljusspar/ | Skid- och elljusspår
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/slalombackar/ | Slalombackar
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/ungdomsgard/ | Ungdomsgård
-  https://www.dorotea.se/uppleva-och-gora/aktiviteter-anlaggningar-och-oppettider/sporthall/ | Sporthall
-  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/ | Friluftsliv och motion
-  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/lekplatser/ | Lekplatser
-  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/vandringsleder-och-strovomraden/ | Vandringsleder och strövområden
-  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/fiske/ | Fiske
-  https://www.dorotea.se/uppleva-och-gora/friluftsliv-och-motion/skoterakning/ | Skoteråkning
-  https://www.dorotea.se/uppleva-och-gora/kultur/ | Kultur
-  https://www.dorotea.se/uppleva-och-gora/kultur/bibliotek/ | Bibliotek
-  https://www.dorotea.se/uppleva-och-gora/kultur/biograf/ | Biograf
-  https://www.dorotea.se/uppleva-och-gora/kultur/konst-musik-och-teater/ | Konst, musik och teater
-  https://www.dorotea.se/uppleva-och-gora/kultur/dr-stromboms-tradgard/ | Dr Strömboms trädgård
-  https://www.dorotea.se/uppleva-och-gora/kultur/kulturskola/ | Kulturskola
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/ | Föreningar och föreningsliv
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ | Föreningsstöd
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ansok-om-bidrag/ | Ansök om bidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/kommunalt-aktivitetsstod/ | Kommunalt aktivitetsstöd
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/allmanna-arvsfonden/ | Allmänna arvsfonden
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/anlaggningsbidrag/ | Anläggningsbidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/statligt-aktivitetsstod/ | Statligt aktivitetsstöd
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/kulturbidrag/ | Kulturbidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/ledarutbildningsbidrag/ | Ledarutbildningsbidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/lokalbidrag/ | Lokalbidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/sarskilda-bidrag/ | Särskilda bidrag
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/ | Bygdemedel
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/attraktivitetshojande-utvecklingsinsatser/ | Attraktivitetshöjande utvecklingsinsatser
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/handlingsplan/ | Handlingsplan
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/ansoka-om-bygdemedel/ | Ansöka om bygdemedel
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/rekvirera-medel/ | Rekvirera medel
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/foreningsstod/bygdemedel/fordelning-av-bygdemedel/ | Fördelning av bygdemedel
-  https://www.dorotea.se/uppleva-och-gora/foreningar-och-foreningsliv/bilda-forening/ | Bilda förening
-
-Länkar på https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelsens-au/:
-  https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelsens-au/#main | Till innehåll
   https://www.dorotea.se/ | Till Startsidan
   https://www.dorotea.se/anslagstavla/ | Anslagstavla
   https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg

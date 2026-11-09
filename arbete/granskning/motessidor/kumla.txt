@@ -13,6 +13,8 @@ Sidor (poäng):
  16  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html  Socialnämnden - Kumla kommun
  16  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html  Valnämnden - Kumla kommun
  14  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html  Sammanträdestider - Kumla kommun
+ 11  https://www.kumla.se/kommun-och-politik/kommunal-anslagstavla.html  Kommunal anslagstavla - Kumla kommun
+ 11  https://www.kumla.se/kommunalanslagstavla  Kommunal anslagstavla - Kumla kommun
  10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html  Diarium - Kumla kommun
  10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html  Politiker, sök - Kumla kommun
  10  https://etjanst.kumla.se/oversikt/overview/452  Titta på kommunfullmäktiges möten - Kumla kommun
@@ -24,9 +26,18 @@ Sidor (poäng):
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium/regler-for-sekretess.html  Regler för sekretess - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html  Synpunkter, medborgarinitiativ och klagomål - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal/synpunkter.html  Synpunkter - Kumla kommun
+  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal/medborgarinitiativ.html  Medborgarinitiativ - Kumla kommun
+  8  https://www.kumla.se/kommun-och-politik.html  Kommun och politik - Kumla kommun
+  6  https://www.kumla.se/kommun-och-politik/kommunal-anslagstavla/kungorelser-om-beslut-enligt-plan--och-bygglagen.html  Kungörelser om beslut enligt plan- och bygglagen - Kumla kommun
+  4  https://www.kumla.se/  Kumla kommun - Startsida
   3  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/visselblasarfunktion.html  Visselblåsarfunktion - Kumla kommun
+  2  https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html  Google Workspace Updates: New community features for Google Chat and an update on Currents
   1  https://www.kumla.se/kommun-och-politik/politikerportal.html  Politikerportal - Kumla kommun
   1  https://www.kumla.se/kommun-och-politik/agenda-2030.html  Agenda 2030 - Kumla kommun
+-13  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-05-vi-sager-grattis-till-arets-ungdomsledarstipendiater.html  Vi säger grattis till årets ungdomsledar­stipendiater! - Kumla kommun
+-18  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-09-flaggning-pa-halv-stang.html  Flaggning på halv stång - Kumla kommun
+-18  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-04-bluffsamtal-om-avloppsspolning.html  Bluffsamtal om avloppsspolning - Kumla kommun
+-18  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-04-badhusgatan-fortsatt-avstangd.html  Badhusgatan fortsatt avstängd - Kumla kommun
 
 Länkar på https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html:
   https://kumla.humany.net/kumlachatt | 

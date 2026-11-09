@@ -8,22 +8,37 @@ Sidor (poäng):
  26  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar/  Kommunfullmäktiges livesändningar - Trelleborgs kommun
  14  https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/overklagade-kommunala-beslut/  Överklagade kommunala beslut - Trelleborgs kommun
  12  https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/anslagstavla/  Anslagstavla, officiell - Trelleborgs kommun
- 11  https://www.trelleborg.se/nyheter/dags-for-mandatperiodens-forsta-kommunfullmaktige/  Dags för mandatperiodens första kommunfullmäktige - Trelleborgs kommun
  11  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund  Allmänhetens frågestund - Trelleborgs kommun
- 11  https://www.trelleborg.se/nyheter/upphandling-av-nytt-badhus-avbryts/  Upphandling av nytt badhus avbryts - Trelleborgs kommun
  11  https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/  Nämnder - Trelleborgs kommun
  11  https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/namndernas-reglementen/  Nämndernas reglementen och delegationsordningar - Trelleborgs kommun
- 10  https://www.trelleborg.se/nyheter/valresultatet-for-kommunvalet-ar-klart/  Valresultatet för kommunvalet är klart - Trelleborgs kommun
+ 11  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund/  Allmänhetens frågestund - Trelleborgs kommun
  10  https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/kommunstyrelsen/  Kommunstyrelsen - Trelleborgs kommun
+ 10  https://www.trelleborg.se/kommun-politik/politikerhandbok/politiker-i-namnd/  Politiker i nämnd - Trelleborgs kommun
   9  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/ungdomsfullmaktige/  Ungdomsfullmäktige - Trelleborgs kommun
+  9  https://www.trelleborg.se/kommun-politik/politikerhandbok/politiker-i-kommunfullmaktige/  Politiker i kommunfullmäktige - Trelleborgs kommun
+  8  https://www.trelleborg.se/  Trelleborgs kommun - Trelleborgs kommuns officiella webbplats
+  8  https://www.trelleborg.se/kommun-politik/politikerhandbok/politikers-personuppgifter/  Politikers personuppgifter - Trelleborgs kommun
   7  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/  Sammanträdestider, protokoll och kallelser - Trelleborgs kommun
-  7  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/mandatfordelning-kommunfullmaktige/  Mandatfördelning i kommunfullmäktige - Trelleborgs kommun
+  7  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/folkomrostning/  Folkomröstning om infart till Trelleborgs Hamn - Trelleborgs kommun
+  7  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/vision-trelleborg-och-fardplan-2040/  Vision Trelleborg och färdplan 2040 - Trelleborgs kommun
   6  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/  Partier i fullmäktige - Trelleborgs kommun
   6  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/  Kommunfullmäktiges arbetsordningar - Trelleborgs kommun
   6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/  Politik och demokrati - Trelleborgs kommun
   6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgarforslag  Medborgarförslag - Trelleborgs kommun
+  6  https://www.trelleborg.se/kommun-politik/  Kommun och politik - Trelleborgs kommun
+  6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanna-val/  Allmänna val - Trelleborgs kommun
+  6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/elevinflytande/  Elevinflytande - Trelleborgs kommun
+  6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgarforslag/  Medborgarförslag - Trelleborgs kommun
+  6  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgardialog/  Medborgardialog - Trelleborgs kommun
   5  https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/  Beslut, insyn och rättssäkerhet - Trelleborgs kommun
   5  https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/sa-har-overklagar-du-ett-kommunalt-beslut/  Så här överklagar du ett kommunalt beslut - Trelleborgs kommun
+ -9  https://www.trelleborg.se/nyheter/dags-for-mandatperiodens-forsta-kommunfullmaktige/  Dags för mandatperiodens första kommunfullmäktige - Trelleborgs kommun
+ -9  https://www.trelleborg.se/nyheter/upphandling-av-nytt-badhus-avbryts/  Upphandling av nytt badhus avbryts - Trelleborgs kommun
+-10  https://www.trelleborg.se/nyheter/valresultatet-for-kommunvalet-ar-klart/  Valresultatet för kommunvalet är klart - Trelleborgs kommun
+-11  https://www.trelleborg.se/nyheter/forstarkt-busstrafik-mellan-trelleborg-och-skateholm/  Förstärkt busstrafik mellan Trelleborg och Skateholm - Trelleborgs kommun
+-11  https://www.trelleborg.se/nyheter/har-ar-allt-som-hander-pa-hostlovet/  Här är allt som händer på höstlovet! - Trelleborgs kommun
+-12  https://www.trelleborg.se/nyheter/logistik-mobilitet-och-resiliens-i-fokus-nar-kompetensfonden-oppnar-ny-utlysning/  Logistik, mobilitet och resiliens i fokus när Kompetensfonden öppnar ny utlysning - Trelleborgs kommun
+-13  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/mandatfordelning-kommunfullmaktige/  Mandatfördelning i kommunfullmäktige - Trelleborgs kommun
 
 Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/:
   https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#article | Gå till innehåll
@@ -45,13 +60,13 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ | Kommunfullmäktiges arbetsordningar
   https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
   https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund | Allmänhetens frågestund
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af16e8819e6f | Tidigare sammanträden 2026
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af175db48d37 | Tidigare sammanträden 2026
   https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026
   https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026
   https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026
   https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026
   https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af16e881a096 | Tidigare sammanträden 2025
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af175db48f47 | Tidigare sammanträden 2025
   https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025
   https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025
   https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025
@@ -63,7 +78,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025
   https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025
   https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af16e881a1c3 | Tidigare sammanträden 2024
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af175db49072 | Tidigare sammanträden 2024
   https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024
   https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024
   https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024
@@ -73,7 +88,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024
   https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024
   https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af16e881a2ee | Tidigare sammanträden 2023
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af175db4919c | Tidigare sammanträden 2023
   https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023
   https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023
   https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023
@@ -85,7 +100,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023
   https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023
   https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af16e881a40d | Tidigare sammanträden 2022
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af175db492a7 | Tidigare sammanträden 2022
   https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022
   https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022
   https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022
@@ -179,13 +194,13 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ | Kommunfullmäktiges arbetsordningar
   https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
   https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund | Allmänhetens frågestund
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af16f1f77a36 | Tidigare sammanträden 2026
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af176321a3e6 | Tidigare sammanträden 2026
   https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026
   https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026
   https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026
   https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026
   https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af16f1f77c59 | Tidigare sammanträden 2025
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af176321a5ed | Tidigare sammanträden 2025
   https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025
   https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025
   https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025
@@ -197,7 +212,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025
   https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025
   https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af16f1f77d8b | Tidigare sammanträden 2024
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af176321a71f | Tidigare sammanträden 2024
   https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024
   https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024
   https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024
@@ -207,7 +222,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024
   https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024
   https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af16f1f77eab | Tidigare sammanträden 2023
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af176321a849 | Tidigare sammanträden 2023
   https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023
   https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023
   https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023
@@ -219,7 +234,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/kommunens-organisation/komm
   https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023
   https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023
   https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023
-  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af16f1f77fc1 | Tidigare sammanträden 2022
+  https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige#6af176321a970 | Tidigare sammanträden 2022
   https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022
   https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022
   https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022
@@ -311,13 +326,13 @@ Länkar på https://www.trelleborg.se/kommun-politik/politik-och-demokrati/samma
   https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/ | Sammanträdestider, protokoll och kallelser
   https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar# | Skriv ut
   https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
-  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af16e8acfbab | Tidigare sammanträden 2026
+  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af175e07bb34 | Tidigare sammanträden 2026
   https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026
   https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026
   https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026
   https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026
   https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026
-  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af16e8acfdc5 | Tidigare sammanträden 2025
+  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af175e07bd58 | Tidigare sammanträden 2025
   https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025
   https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025
   https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025
@@ -329,7 +344,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/politik-och-demokrati/samma
   https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025
   https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025
   https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025
-  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af16e8acfefb | Tidigare sammanträden 2024
+  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af175e07bea9 | Tidigare sammanträden 2024
   https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024
   https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024
   https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024
@@ -339,7 +354,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/politik-och-demokrati/samma
   https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024
   https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024
   https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024
-  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af16e8ad0012 | Tidigare sammanträden 2023
+  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af175e07bfc2 | Tidigare sammanträden 2023
   https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023
   https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023
   https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023
@@ -351,7 +366,7 @@ Länkar på https://www.trelleborg.se/kommun-politik/politik-och-demokrati/samma
   https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023
   https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023
   https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023
-  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af16e8ad0130 | Tidigare sammanträden 2022
+  https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar#6af175e07c0d2 | Tidigare sammanträden 2022
   https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022
   https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022
   https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022

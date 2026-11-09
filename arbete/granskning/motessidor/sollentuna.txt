@@ -4,31 +4,45 @@ Portaladresser: inga
 Sidor (poäng):
  34  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/  Sammanträden i Sollentuna kommun
  34  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun  Sammanträden i Sollentuna kommun
- 32  https://www.sollentuna.se/kf_18-22  Ledamöter och ersättare i kommunstyrelsen
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/  Dagordningar och handlingar
  31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige/  Sändning från kommunfullmäktige 2020
  31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunstyrelsen/  Kommunstyrelsen och kommunstyrelsens utskott
- 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige  Sändning från kommunfullmäktige 2020
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/  Politik och demokrati
  31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/kommunstyrelsen  Kommunstyrelsen och kommunstyrelsens utskott
  31  https://www.sollentuna.se/kommun--politik/offentlighet-och-sekretess/anslagstavla-officiell/  Officiell anslagstavla för Sollentuna kommun
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/  Allmänna val 2026
- 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/  Partier och mandatfördelning i kommunfullmäktige
- 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/paverkasollentunasutveckling/  Påverka Sollentunas utveckling
- 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/partier-och-mandatfordelning  Partier och mandatfördelning i kommunfullmäktige
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati  Politik och demokrati
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/paverkasollentunasutveckling/  Påverka Sollentunas utveckling
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026  Allmänna val 2026
+ 31  https://www.sollentuna.se/kommun--politik/offentlighet-och-sekretess/anslagstavla-officiell  Officiell anslagstavla för Sollentuna kommun
+ 31  https://www.sollentuna.se/politik  Politik och demokrati
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/Overformyndarnamnden/  Överförmyndarnämnden
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/samhallsbyggnadsnamnden/  Samhällsbyggnadsnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/Socialnamnden/  Socialnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/utbildningsnamnden/  Utbildningsnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/Kultur--och-fritidsnamnden/  Kultur- och fritidsnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/Vard--och-omsorgsnamnden/  Vård- och omsorgsnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/Miljo--och-klimatnamnden/  Miljö- och klimatnämnden i Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige  Sändning från kommunfullmäktige 2020
  30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/  Kommunfullmäktige i Sollentuna kommun
  30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/kommunfullmaktige  Kommunfullmäktige i Sollentuna kommun
  30  https://www.sollentuna.se/kf  Sändning från kommunfullmäktige 2020
  30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/  Sollentuna kommuns nämnder
+ 28  https://www.sollentuna.se/kommun--politik/  Kommun och politik - Sollentuna kommun
  26  https://www.sollentuna.se/kommun--politik/kommunfakta/forfattningssamling/sfsf1/  Kommunfullmäktige i Sollentuna kommun
  26  https://www.sollentuna.se/kommun--politik/kommunfakta/forfattningssamling/sfsf1  Kommunfullmäktige i Sollentuna kommun
  26  https://www.sollentuna.se/arbetsordningkf  Kommunfullmäktige i Sollentuna kommun
  26  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/politisk-inriktning/  Politisk inriktning
- 24  https://www.sollentuna.se/nyheter--press/nyhet-kommun--politik/ordforandeposter-i-kommunfullmaktige-och-kommunstyrelsen-beslutade/  Ordförande i kommunfullmäktige och kommunstyrelsen beslutade
  22  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/information-till-partier/  Information till partier
- 20  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/politiska-sekreterare/  Politiska sekreterare
+ 22  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/information-till-partier  Information till partier
+ 18  https://www.sollentuna.se/  Sollentuna kommun
+ 13  https://www.sollentuna.se/uppleva--gora/boka-lokal/lokaler-for-moten-och-event/  Boka lokal för möte och event
+ 12  https://www.sollentuna.se/kf_18-22  Ledamöter och ersättare i kommunstyrelsen
+ 11  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/  Partier och mandatfördelning i kommunfullmäktige
+ 11  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/partier-och-mandatfordelning  Partier och mandatfördelning i kommunfullmäktige
+  4  https://www.sollentuna.se/nyheter--press/nyhet-kommun--politik/ordforandeposter-i-kommunfullmaktige-och-kommunstyrelsen-beslutade/  Ordförande i kommunfullmäktige och kommunstyrelsen beslutade
+  0  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/politiska-sekreterare/  Politiska sekreterare
+  0  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/politiska-sekreterare  Politiska sekreterare
 
 Länkar på https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/:
   https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation | Till navigation
@@ -634,19 +648,19 @@ Länkar på https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dago
   https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/marksanering/ | Sanering av mark
   https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/oversiktsplan/ | Översiktsplan
 
-Länkar på https://www.sollentuna.se/kf_18-22:
-  https://www.sollentuna.se/kf_18-22#navigation | Till navigation
-  https://www.sollentuna.se/kf_18-22#content | Till innehåll (s)
+Länkar på https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/:
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/#navigation | Till navigation
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/#content | Till innehåll (s)
   https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar
   https://www.sollentuna.se/portal/foretag/ | Företagsportalen
   https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
   https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
-  https://www.sollentuna.se/kf_18-22# | Lyssna
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/# | Lyssna
   https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
   https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan
   https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
   https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
-  https://www.sollentuna.se/kf_18-22# | Lyssna
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/# | Lyssna
   https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
   https://www.sollentuna.se/forskola--skola/ | Förskola & skola
   https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
