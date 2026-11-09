@@ -1,0 +1,641 @@
+Kommun: Sollentuna  nyckel: sollentuna.se
+
+######## SIDA: https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/
+Titel: Sammanträden i Sollentuna kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/
+GET 200 document text/html https://widget-launcher.imbox.io/index.de84cbe.html
+GET 200 document text/html https://widget.imbox.io/index.de84cbe.html
+GET 200 fetch application/json https://triggers-v3.imbox.io/trigger?user_id=2643&currentURL=https%3A%2F%2Fwww.sollentuna.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fdagordningar-och-handlingar%2Fsammantraden-i-sollentuna-kommun%2F&channel=null&imboxuid=&deviceType=2&reqCount=1&
+      {"apiVersion":3,"qUserId":"2643","shouldPoll":true,"launcherImage":"https://cdn.imbox.io/flow/default/images/launcher-icon.svg","launcherImageSize":36,"launcherTitle":"Fråga oss!","hideLauncherIcon":false,"useAgentPictureLauncherIcon":false,"widgetPosition":"right","outsideCss":"div#imbox-container2643 .imbox-frame,div#imbox-launcher-container2643 .imbox-frame iframe,div#imbox-launcher-container2643 .zoid-outlet{right:10px!important}#imbox-container2643 .imbox-frame{max-height:calc(100% - 20px - 75px - 20px);bottom:calc(15px + 78px)}#imbox-launcher-container2643 .imbox-frame .zoid-outlet,#imbox-launcher-container2643 .imbox-frame iframe{bottom:10px}#imbox-wrapper-2643 .imbox-frame.imbox-notification{bottom:calc(15px + 62px)}@media only screen and (max-device-width:667px),screen and (max-width:450px){#imbox-wrapper-2643 #imbox-container2643,#imbox-wrapper-2643 #imbox-container2643 .zoid-outlet{right:0!important;left:0!important}}.imbox-frame{border-radius:16px!important}","outsideCssContentHash":"1bdd0da96e908fb5c31392351b5df863","insideCss":"@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);.imbox,.imbox-launch .launcher-text{--legacy-main-font:\"Inter\", Roboto, 'Helvetica Neue', Helvetica, Arial,\n      sans
+GET 200 xhr application/json; charset=utf-8 https://predict.rekai.se/predict?mb=-1&vt=1&v30=1&dlv=30&bp=41497021&p=12251323&ubl=sv-SE&nr=5&srek=6214c12f&pl=sv&tabs=kommun--politik&currentp=%2Fkommun--politik%2Fpolitik-och-demokrati%2Fdagordningar-och-handlingar%2Fsammantraden-i-sollentuna-komm
+      {"predictions":[{"title":"Sändning från kommunfullmäktige","url":"/kf","percent":0,"pageid":"_kf","type":"page","alwaysfirst":false,"similarity":0.781},{"title":"Pensionärsrådet","url":"/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Pensionarsradet","percent":0,"pageid":"_kommun--politik_sa-styrs-sollentuna_kommunens-organisation_pensionarsradet","type":"page","alwaysfirst":false,"similarity":0.782},{"title":"Kommun & politik","url":"/kommun--politik","percent":0,"pageid":"_kommun--politik","type":"page","alwaysfirst":false,"similarity":0.798},{"title":"Ledamöter och ersättare i kommunfullmäktige","url":"/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/kommunfullmaktige/ledamoter-och-ersattare","percent":0,"pageid":"_kommun--politik_sa-styrs-sollentuna_kommunens-organisation_kommunfullmaktige_ledamoter-och-ersattare","type":"page","alwaysfirst":false,"similarity":0.802},{"title":"Detaljplaner","url":"/bygga-bo--miljo/stadsutveckling/Om-detaljplaner","percent":0.188268780708313,"pageid":"/bygga-bo--miljo/stadsutveckling/Om-detaljplaner","type":"page","alwaysfirst":false}]}
+GET 200 xhr application/json; charset=UTF-8 https://wss.imbox.io/primus/info?instanceId=2&_primuscb=Q6_8EMP&t=1794207966620
+      {"websocket":true,"cookie_needed":false,"entropy":283089347}
+GET 200 document text/html; charset=utf-8 https://eu.frcapi.com/api/v2/captcha/widget?origin=https%3A%2F%2Fwww.sollentuna.se&sess_id=92svZPiTx3rG&sess_c=2&comm_id=w_m0hpLQM35l6P&sdk_v=0.1.19&v=1&agent_id=a_5aQkciDUSwLl&lang=sv&sitekey=FCMSOKLG6DMELKP6&ts=1794207966496
+GET 200 document text/html; charset=utf-8 https://eu.frcapi.com/api/v2/captcha/agent?origin=https%3A%2F%2Fwww.sollentuna.se&sess_id=92svZPiTx3rG&sess_c=1&comm_id=a_5aQkciDUSwLl&sdk_v=0.1.19&v=1&agent_id=a_5aQkciDUSwLl&ts=1794207966494
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Sammanträden i Sollentuna kommun","pid":"/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun
+GET 200 fetch  https://eu.frcapi.com/api/v2/captcha/ping
+GET 200 xhr application/json https://www.vizzit.se/myvizzit/api/tag?pbk=5a38764a4d6f744255312f50583979306a4e79544b33784454445158766b6c4c566f78364e6b6b694941493d&host=www.sollentuna.se&path=%2Fkommun--politik%2Fpolitik-och-demokrati%2Fdagordningar-och-handlingar%2Fsammantraden-i-
+      {"page": {"id": "24420"}, "tag": []}
+POST 200 xhr application/json; charset=utf-8 https://dc.services.visualstudio.com/v2/track
+      {"itemsReceived":3,"itemsAccepted":3,"appId":"60efae66-773f-4728-b75a-ef6112da04bc","errors":[]}
+      POST: [{"time":"2026-11-09T07:06:07.045Z","iKey":"71100cee-0b90-46e3-a5e8-3e7739158a56","name":"Microsoft.ApplicationInsights.71100cee0b9046e3a5e83e7739158a56.RemoteDependency","tags":{"ai.session.id":"YrsNu","ai.session.isFirst":"true","ai.device.id":"browser","ai.device.type":"Browser","ai.internal.sdkV
+
+## Länkar (href | text | sammanhang)
+https://www.sollentuna.se/om-webbplatsen/Kakor-cookies-pa-webbplatsen/ | Så här använder vi kakor | Kakor på sollentuna.se Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och f
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation | Till navigation | Till navigation Till innehåll (s)
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#content | Till innehåll (s) | Till navigation Till innehåll (s)
+https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar | För föräldrar
+https://www.sollentuna.se/portal/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.sollentuna.se/portal/foretag/ | Företagsportalen | Företagsportalen
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+        Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan | 
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd
+https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra | Uppleva & göra
+https://www.sollentuna.se/jobb--foretagande/ | Jobb & företagande | Jobb & företagande
+https://www.sollentuna.se/kommun--politik/ | Kommun & politik | Kommun & politik
+https://www.sollentuna.se/trafik--gator/ | Trafik & gator | Trafik & gator
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola Undermeny för Förskola & skola Anpassade skolformer
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer | Anpassade skolformer Undermeny för Anpassade skolformer Anpassade grundskolan An
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan | Anpassade grundskolan
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan | Anpassade gymnasieskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola | Förskola Undermeny för Förskola Ansök, ändra eller säg upp plats
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats | Ansök, ändra eller säg upp plats Undermeny för Ansök, ändra eller säg upp plats Avgifter för barnomsorg
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg | Avgifter för barnomsorg Undermeny för Avgifter för barnomsorg Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften | Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan | Regler för plats i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter | Barnomsorg på kvällar och nätter
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor | Specialförskolor
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem | Familjedaghem
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor | Förskolor Undermeny för Förskolor Bagarbyvägens förskola Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola | Bagarbyvägens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola | Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola | Brage språkförskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola | Bygatans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola | Ebbas Förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola | Fågelsångens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten | Igelkotten
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola | Linnés förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola | Mallas förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola | Regnbågens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola | Rösjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola | Sjörövarens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola | Skälby förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola | Smultronställets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola | Sofielunds förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola | Tegelhagens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola | Vaxmora förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola | Väsjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola | Äpplets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan | Kränkande behandling i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan | Mat i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola | Skolskjuts i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola | Särskilt stöd i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor | Öppna förskolor
+https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola | Grundskola Undermeny för Grundskola Ansök, hitta och ändra plats
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats | Ansök, hitta och ändra plats Undermeny för Ansök, hitta och ändra plats Hitta och jämför skolor
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor | Hitta och jämför skolor Undermeny för Hitta och jämför skolor Profilklasser Skol
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser | Profilklasser
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg | Skolor i Edsberg, Vaxmora och Sjöberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund | Skolor i Helenelund
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby | Skolor i Häggvik, Norrviken och Viby
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro | Skolor i Rotebro
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg | Skolor i Tureberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan | Skolansökan
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan | Information på flera språk om skolansökan Undermeny för Information på flera språk om skolansökan Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska | Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari | Dari
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska | Somaliska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska | Persiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska | Arabiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna | Så här fördelas platserna
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun | Söka skola i en annan kommun
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner | Elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig | Du är viktig Undermeny för Du är viktig با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important | Hello custodial parent - you are important
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید | سلام سرپرستان - شما مهم هستید
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan | Elevhälsan i skolan Undermeny för Elevhälsan i skolan Medicinsk elevhälsa Egenvå
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa | Medicinsk elevhälsa
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan | Egenvård i skolan
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal | Elevhälsans webbportal
+https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd | Extra anpassning, särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem | Fritidshem
+https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling | Kränkande behandling
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider | Läsårstider Undermeny för Läsårstider Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan | Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål | Modersmål
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden | Skolan och omvärlden Undermeny för Skolan och omvärlden Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten | Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+ | Erasmus+
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering | Arbetslivsorientering
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet | PRAO i högstadiet
+https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro | Skolplikt och frånvaro
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor | Skolskjuts, skolresor Undermeny för Skolskjuts, skolresor För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts | För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd | Skolskjuts för elever i behov av särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan | Specialskolan
+https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk | Svenska som andraspråk
+https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola | Synpunkter och klagomål på skola
+https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola | Gymnasieskola Undermeny för Gymnasieskola Fri kvot Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot | Fri kvot
+https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor | Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar | Idrottsutbildningar
+https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor | Skolresor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans | Studera på annan ort eller på distans
+https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på  gymnasiet | Utan plats på gymnasiet
+https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar | Försäkringar
+https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande | Nyanlända och asylsökande
+https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor | Skolplattformen Infomentor
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris | Sollentuna lärarpris Undermeny för Sollentuna lärarpris Pristagare 2025 Tidigare
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025 | Pristagare 2025
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater | Tidigare stipendiater
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd | Utförare skola – verktyg och stöd Undermeny för Utförare skola – verktyg och stöd Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner | Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare | Blanketter för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor | För gymnasieskolor Undermeny för För gymnasieskolor Programinriktat val (IMV) Fö
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV) | Programinriktat val (IMV)
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning | Förlängd undervisning
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg | Lämna in slutbetyg
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd | Pedagogiskt stöd Undermeny för Pedagogiskt stöd Lokala utvecklingscentra Lärarco
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra | Lokala utvecklingscentra
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher | Lärarcoacher
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande | STL - Skriva sig till lärande
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare | Skolfrånvaro för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner | Stödfunktioner Undermeny för Stödfunktioner Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram | Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd | Förskolestöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd | Skolstöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan | Särskilt stöd i förskolan
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola | Ytterligare år i skola
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp | Tilläggsbelopp Undermeny för Tilläggsbelopp Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål | Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU | Vuxenutbildning och VFU Undermeny för Vuxenutbildning och VFU VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter | VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd Undermeny för Omsorg & stöd Akut social hjälp och jourer Borgerlig
+https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer | Akut social hjälp och jourer
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel | Borgerlig vigsel Undermeny för Borgerlig vigsel Vigselalternativ Vigselförrättar
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ | Vigselalternativ
+
+## Knappar
+Inställningar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Spara och godkänn
+Lyssna
+Sök
+Meny
+Lyssna
+Undermeny för Förskola & skola
+Undermeny för Anpassade skolformer
+Undermeny för Förskola
+Undermeny för Ansök, ändra eller säg upp plats
+Undermeny för Avgifter för barnomsorg
+Undermeny för Förskolor
+Undermeny för Grundskola
+Undermeny för Ansök, hitta och ändra plats
+Undermeny för Hitta och jämför skolor
+Undermeny för Information på flera språk om skolansökan
+Undermeny för Du är viktig
+Undermeny för Elevhälsan i skolan
+Undermeny för Läsårstider
+Undermeny för Skolan och omvärlden
+Undermeny för Skolskjuts, skolresor
+Undermeny för Gymnasieskola
+Undermeny för Sollentuna lärarpris
+Undermeny för Utförare skola – verktyg och stöd
+Undermeny för För gymnasieskolor
+Undermeny för Pedagogiskt stöd
+Undermeny för Stödfunktioner
+Undermeny för Tilläggsbelopp
+Undermeny för Vuxenutbildning och VFU
+Undermeny för Omsorg & stöd
+Undermeny för Borgerlig vigsel
+Undermeny för Äldre
+Undermeny för Hemtjänst för dig som är äldre
+Undermeny för Hjälp i hemmet
+Undermeny för Avgifter inom äldreomsorg
+Undermeny för Anhörigstöd
+Undermeny för Aktiviteter
+Undermeny för Demens
+
+## HTML (början av body)
+<body class=""> <!--[if IE]> <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p> <![endif]--> <div class="l-default"> <div class="c-banners" role="region" aria-label="banners"> <div id="CookieConsent" class="cookieModal " role="dialog" aria-modal="true" aria-live="polite" tabindex="0" style="display: flex;"> <div class="dialog"> <div class="content consent show"> <div class="text_wrapper"> <div class="text"> <h2 class="heading">Kakor på sollentuna.se</h2> <p><span style="font-size: inherit;">Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och för att viss nödvändig funktionalitet ska fungera på webbplatsen.</span></p> <p><a href="/om-webbplatsen/Kakor-cookies-pa-webbplatsen/">Så här använder vi kakor</a></p> </div> </div> <div class="buttons"> <button class="btn whiteBtn cookieSettings" type="submit"><i class="fa-light fa-gear"></i> Inställningar</button> <button class="btn declineAll blueBtn" type="submit">Godkänn nödvändiga kakor</button> <button class="btn acceptAll show blueBtn" type="submit">Godkänn alla kakor</button> </div> </div> <div class="content settings"> <div class="heading_wrapper"> <h2 class="heading">Hantera dina kakor</h2> </div> <div class="text_wrapper settings"> <div class="option_wrapper"> <div class="cookie-form-control"> <input class="input-checkbox" id="cookie-option-1" name="cookie-option-1" type="checkbox" checked="" disabled=""> <label class="label cookie-label" for="cookie-option-1">Nödvändiga kakor</label> <p class="cookie-p"> Nödvändiga för sidans funktionalitet och säkerhet, går därför inte att inaktivera. </p> </div> <div class="cookie-form-control "> <input class="input-checkbox" id="cookie-option-2" name="cookie-option-2" type="checkbox"> <label class="label cookie-label" for="cookie-option-2">Statistiska kakor</label> <p class="cookie-p"> Statistiska kakor samlar in och rapporterar information om hur våra besökare använder webbplatsen. Informationen som samlas in är anonymiserad och kan inte kopplas till dig som användare. Dessa kakor hjälper oss att förstå hur vi kan förbättra vår webbplats, bland annat genom att vi kan se vilka sidor som läses mest och hur besökare går mellan sidorna. </p> </div> <div class="cookie-form-control hidden"> <input class="input-checkbox" id="cookie-option-3" name="cookie-option-3" type="checkbox"> <label class="label cookie-label" for="cookie-option-3">Funktionella cookies</label> <p class="cookie-p"> </p> </div> </div> </div> <div class="buttons"> <button class="btn saveSettings blueBtn">Spara och godkänn</button> </div> </div> <div class="content policy"> </div> </div> </div> </div> <div class="c-accessibility-content"> <a href="#navigation" tabindex="0"> <span aria-label="Till navigation"> Till navigation </span> </a> <a accesskey="S" href="#content" tabindex="0" aria-label="Till innehåll (s)"> <span> Till innehåll (s) </span> </a> </div> <header class="g-header"> <div class="g-topbar"> <div class="g-topbar__outer"> <div class="g-topbar__inner"> <div class="g-topbar__content"> <nav class="c-nav-portals" aria-label="Portalingångar"> <ul class="c-nav-portals__list"> <li class="c-nav-portals__item"> <a href="/portal/for-foraldrar/" class="c-nav-portals__link"> <span>För föräldrar</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/jobba-hos-oss/" class="c-nav-portals__link"> <span>Jobba hos oss</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/foretag/" class="c-nav-portals__link"> <span>Företagsportalen</span> </a> </li> </ul> </nav> </div> </div> </div> </div> <div class="g-header__outer"> <div class="g-header__inner"> <div class="g-header__col g-header__col--links g-header__col--mobileShortcuts"> <nav class="c-nav-quicklinks" aria-label="Snabblänkar"> <ul class="c-nav-quicklinks__list"> <li class="c-block-grid c-nav-quicklinks__item iconlinkblock siteheader"> 
+
+######## SIDA: https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation
+Titel: Sammanträden i Sollentuna kommun
+
+## Dataanrop
+GET 200 fetch application/json https://triggers-v3.imbox.io/trigger?user_id=2643&currentURL=https%3A%2F%2Fwww.sollentuna.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fdagordningar-och-handlingar%2Fsammantraden-i-sollentuna-kommun%2F%23navigation&channel=null&imboxuid=3LrMvo2JKURR
+      {"apiVersion":3,"qUserId":"2643","shouldPoll":true,"launcherImage":"https://cdn.imbox.io/flow/default/images/launcher-icon.svg","launcherImageSize":36,"launcherTitle":"Fråga oss!","hideLauncherIcon":false,"useAgentPictureLauncherIcon":false,"widgetPosition":"right","outsideCss":"div#imbox-container2643 .imbox-frame,div#imbox-launcher-container2643 .imbox-frame iframe,div#imbox-launcher-container2643 .zoid-outlet{right:10px!important}#imbox-container2643 .imbox-frame{max-height:calc(100% - 20px - 75px - 20px);bottom:calc(15px + 78px)}#imbox-launcher-container2643 .imbox-frame .zoid-outlet,#imbox-launcher-container2643 .imbox-frame iframe{bottom:10px}#imbox-wrapper-2643 .imbox-frame.imbox-notification{bottom:calc(15px + 62px)}@media only screen and (max-device-width:667px),screen and (max-width:450px){#imbox-wrapper-2643 #imbox-container2643,#imbox-wrapper-2643 #imbox-container2643 .zoid-outlet{right:0!important;left:0!important}}.imbox-frame{border-radius:16px!important}","outsideCssContentHash":"1bdd0da96e908fb5c31392351b5df863","insideCss":"@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);.imbox,.imbox-launch .launcher-text{--legacy-main-font:\"Inter\", Roboto, 'Helvetica Neue', Helvetica, Arial,\n      sans
+GET 200 xhr application/json; charset=UTF-8 https://wss.imbox.io/primus/info?instanceId=2&_primuscb=Q6_8FSa&t=1794207971108
+      {"websocket":true,"cookie_needed":false,"entropy":411374066}
+
+## Länkar (href | text | sammanhang)
+https://www.sollentuna.se/om-webbplatsen/Kakor-cookies-pa-webbplatsen/ | Så här använder vi kakor | Kakor på sollentuna.se Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och f
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation | Till navigation | Till navigation Till innehåll (s)
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#content | Till innehåll (s) | Till navigation Till innehåll (s)
+https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar | För föräldrar
+https://www.sollentuna.se/portal/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.sollentuna.se/portal/foretag/ | Företagsportalen | Företagsportalen
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+        Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan | 
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd
+https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra | Uppleva & göra
+https://www.sollentuna.se/jobb--foretagande/ | Jobb & företagande | Jobb & företagande
+https://www.sollentuna.se/kommun--politik/ | Kommun & politik | Kommun & politik
+https://www.sollentuna.se/trafik--gator/ | Trafik & gator | Trafik & gator
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola Undermeny för Förskola & skola Anpassade skolformer
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer | Anpassade skolformer Undermeny för Anpassade skolformer Anpassade grundskolan An
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan | Anpassade grundskolan
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan | Anpassade gymnasieskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola | Förskola Undermeny för Förskola Ansök, ändra eller säg upp plats
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats | Ansök, ändra eller säg upp plats Undermeny för Ansök, ändra eller säg upp plats Avgifter för barnomsorg
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg | Avgifter för barnomsorg Undermeny för Avgifter för barnomsorg Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften | Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan | Regler för plats i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter | Barnomsorg på kvällar och nätter
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor | Specialförskolor
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem | Familjedaghem
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor | Förskolor Undermeny för Förskolor Bagarbyvägens förskola Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola | Bagarbyvägens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola | Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola | Brage språkförskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola | Bygatans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola | Ebbas Förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola | Fågelsångens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten | Igelkotten
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola | Linnés förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola | Mallas förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola | Regnbågens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola | Rösjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola | Sjörövarens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola | Skälby förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola | Smultronställets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola | Sofielunds förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola | Tegelhagens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola | Vaxmora förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola | Väsjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola | Äpplets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan | Kränkande behandling i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan | Mat i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola | Skolskjuts i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola | Särskilt stöd i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor | Öppna förskolor
+https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola | Grundskola Undermeny för Grundskola Ansök, hitta och ändra plats
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats | Ansök, hitta och ändra plats Undermeny för Ansök, hitta och ändra plats Hitta och jämför skolor
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor | Hitta och jämför skolor Undermeny för Hitta och jämför skolor Profilklasser Skol
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser | Profilklasser
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg | Skolor i Edsberg, Vaxmora och Sjöberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund | Skolor i Helenelund
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby | Skolor i Häggvik, Norrviken och Viby
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro | Skolor i Rotebro
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg | Skolor i Tureberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan | Skolansökan
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan | Information på flera språk om skolansökan Undermeny för Information på flera språk om skolansökan Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska | Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari | Dari
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska | Somaliska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska | Persiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska | Arabiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna | Så här fördelas platserna
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun | Söka skola i en annan kommun
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner | Elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig | Du är viktig Undermeny för Du är viktig با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important | Hello custodial parent - you are important
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید | سلام سرپرستان - شما مهم هستید
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan | Elevhälsan i skolan Undermeny för Elevhälsan i skolan Medicinsk elevhälsa Egenvå
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa | Medicinsk elevhälsa
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan | Egenvård i skolan
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal | Elevhälsans webbportal
+https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd | Extra anpassning, särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem | Fritidshem
+https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling | Kränkande behandling
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider | Läsårstider Undermeny för Läsårstider Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan | Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål | Modersmål
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden | Skolan och omvärlden Undermeny för Skolan och omvärlden Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten | Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+ | Erasmus+
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering | Arbetslivsorientering
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet | PRAO i högstadiet
+https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro | Skolplikt och frånvaro
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor | Skolskjuts, skolresor Undermeny för Skolskjuts, skolresor För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts | För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd | Skolskjuts för elever i behov av särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan | Specialskolan
+https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk | Svenska som andraspråk
+https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola | Synpunkter och klagomål på skola
+https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola | Gymnasieskola Undermeny för Gymnasieskola Fri kvot Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot | Fri kvot
+https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor | Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar | Idrottsutbildningar
+https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor | Skolresor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans | Studera på annan ort eller på distans
+https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på  gymnasiet | Utan plats på gymnasiet
+https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar | Försäkringar
+https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande | Nyanlända och asylsökande
+https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor | Skolplattformen Infomentor
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris | Sollentuna lärarpris Undermeny för Sollentuna lärarpris Pristagare 2025 Tidigare
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025 | Pristagare 2025
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater | Tidigare stipendiater
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd | Utförare skola – verktyg och stöd Undermeny för Utförare skola – verktyg och stöd Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner | Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare | Blanketter för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor | För gymnasieskolor Undermeny för För gymnasieskolor Programinriktat val (IMV) Fö
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV) | Programinriktat val (IMV)
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning | Förlängd undervisning
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg | Lämna in slutbetyg
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd | Pedagogiskt stöd Undermeny för Pedagogiskt stöd Lokala utvecklingscentra Lärarco
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra | Lokala utvecklingscentra
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher | Lärarcoacher
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande | STL - Skriva sig till lärande
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare | Skolfrånvaro för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner | Stödfunktioner Undermeny för Stödfunktioner Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram | Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd | Förskolestöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd | Skolstöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan | Särskilt stöd i förskolan
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola | Ytterligare år i skola
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp | Tilläggsbelopp Undermeny för Tilläggsbelopp Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål | Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU | Vuxenutbildning och VFU Undermeny för Vuxenutbildning och VFU VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter | VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd Undermeny för Omsorg & stöd Akut social hjälp och jourer Borgerlig
+https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer | Akut social hjälp och jourer
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel | Borgerlig vigsel Undermeny för Borgerlig vigsel Vigselalternativ Vigselförrättar
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ | Vigselalternativ
+
+## Knappar
+Inställningar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Spara och godkänn
+Lyssna
+Sök
+Meny
+Lyssna
+Undermeny för Förskola & skola
+Undermeny för Anpassade skolformer
+Undermeny för Förskola
+Undermeny för Ansök, ändra eller säg upp plats
+Undermeny för Avgifter för barnomsorg
+Undermeny för Förskolor
+Undermeny för Grundskola
+Undermeny för Ansök, hitta och ändra plats
+Undermeny för Hitta och jämför skolor
+Undermeny för Information på flera språk om skolansökan
+Undermeny för Du är viktig
+Undermeny för Elevhälsan i skolan
+Undermeny för Läsårstider
+Undermeny för Skolan och omvärlden
+Undermeny för Skolskjuts, skolresor
+Undermeny för Gymnasieskola
+Undermeny för Sollentuna lärarpris
+Undermeny för Utförare skola – verktyg och stöd
+Undermeny för För gymnasieskolor
+Undermeny för Pedagogiskt stöd
+Undermeny för Stödfunktioner
+Undermeny för Tilläggsbelopp
+Undermeny för Vuxenutbildning och VFU
+Undermeny för Omsorg & stöd
+Undermeny för Borgerlig vigsel
+Undermeny för Äldre
+Undermeny för Hemtjänst för dig som är äldre
+Undermeny för Hjälp i hemmet
+Undermeny för Avgifter inom äldreomsorg
+Undermeny för Anhörigstöd
+Undermeny för Aktiviteter
+Undermeny för Demens
+
+## HTML (början av body)
+<body class=""> <!--[if IE]> <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p> <![endif]--> <div class="l-default"> <div class="c-banners" role="region" aria-label="banners"> <div id="CookieConsent" class="cookieModal " role="dialog" aria-modal="true" aria-live="polite" tabindex="0" style="display: flex;"> <div class="dialog"> <div class="content consent show"> <div class="text_wrapper"> <div class="text"> <h2 class="heading">Kakor på sollentuna.se</h2> <p><span style="font-size: inherit;">Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och för att viss nödvändig funktionalitet ska fungera på webbplatsen.</span></p> <p><a href="/om-webbplatsen/Kakor-cookies-pa-webbplatsen/">Så här använder vi kakor</a></p> </div> </div> <div class="buttons"> <button class="btn whiteBtn cookieSettings" type="submit"><i class="fa-light fa-gear"></i> Inställningar</button> <button class="btn declineAll blueBtn" type="submit">Godkänn nödvändiga kakor</button> <button class="btn acceptAll show blueBtn" type="submit">Godkänn alla kakor</button> </div> </div> <div class="content settings"> <div class="heading_wrapper"> <h2 class="heading">Hantera dina kakor</h2> </div> <div class="text_wrapper settings"> <div class="option_wrapper"> <div class="cookie-form-control"> <input class="input-checkbox" id="cookie-option-1" name="cookie-option-1" type="checkbox" checked="" disabled=""> <label class="label cookie-label" for="cookie-option-1">Nödvändiga kakor</label> <p class="cookie-p"> Nödvändiga för sidans funktionalitet och säkerhet, går därför inte att inaktivera. </p> </div> <div class="cookie-form-control "> <input class="input-checkbox" id="cookie-option-2" name="cookie-option-2" type="checkbox"> <label class="label cookie-label" for="cookie-option-2">Statistiska kakor</label> <p class="cookie-p"> Statistiska kakor samlar in och rapporterar information om hur våra besökare använder webbplatsen. Informationen som samlas in är anonymiserad och kan inte kopplas till dig som användare. Dessa kakor hjälper oss att förstå hur vi kan förbättra vår webbplats, bland annat genom att vi kan se vilka sidor som läses mest och hur besökare går mellan sidorna. </p> </div> <div class="cookie-form-control hidden"> <input class="input-checkbox" id="cookie-option-3" name="cookie-option-3" type="checkbox"> <label class="label cookie-label" for="cookie-option-3">Funktionella cookies</label> <p class="cookie-p"> </p> </div> </div> </div> <div class="buttons"> <button class="btn saveSettings blueBtn">Spara och godkänn</button> </div> </div> <div class="content policy"> </div> </div> </div> </div> <div class="c-accessibility-content"> <a href="#navigation" tabindex="0"> <span aria-label="Till navigation"> Till navigation </span> </a> <a accesskey="S" href="#content" tabindex="0" aria-label="Till innehåll (s)"> <span> Till innehåll (s) </span> </a> </div> <header class="g-header"> <div class="g-topbar"> <div class="g-topbar__outer"> <div class="g-topbar__inner"> <div class="g-topbar__content"> <nav class="c-nav-portals" aria-label="Portalingångar"> <ul class="c-nav-portals__list"> <li class="c-nav-portals__item"> <a href="/portal/for-foraldrar/" class="c-nav-portals__link"> <span>För föräldrar</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/jobba-hos-oss/" class="c-nav-portals__link"> <span>Jobba hos oss</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/foretag/" class="c-nav-portals__link"> <span>Företagsportalen</span> </a> </li> </ul> </nav> </div> </div> </div> </div> <div class="g-header__outer"> <div class="g-header__inner"> <div class="g-header__col g-header__col--links g-header__col--mobileShortcuts"> <nav class="c-nav-quicklinks" aria-label="Snabblänkar"> <ul class="c-nav-quicklinks__list"> <li class="c-block-grid c-nav-quicklinks__item iconlinkblock siteheader"> 
+
+######## SIDA: https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#content
+Titel: Sammanträden i Sollentuna kommun
+
+## Dataanrop
+GET 200 fetch application/json https://triggers-v3.imbox.io/trigger?user_id=2643&currentURL=https%3A%2F%2Fwww.sollentuna.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fdagordningar-och-handlingar%2Fsammantraden-i-sollentuna-kommun%2F%23content&channel=null&imboxuid=3LrMvo2JKURR96i
+      {"apiVersion":3,"qUserId":"2643","shouldPoll":true,"launcherImage":"https://cdn.imbox.io/flow/default/images/launcher-icon.svg","launcherImageSize":36,"launcherTitle":"Fråga oss!","hideLauncherIcon":false,"useAgentPictureLauncherIcon":false,"widgetPosition":"right","outsideCss":"div#imbox-container2643 .imbox-frame,div#imbox-launcher-container2643 .imbox-frame iframe,div#imbox-launcher-container2643 .zoid-outlet{right:10px!important}#imbox-container2643 .imbox-frame{max-height:calc(100% - 20px - 75px - 20px);bottom:calc(15px + 78px)}#imbox-launcher-container2643 .imbox-frame .zoid-outlet,#imbox-launcher-container2643 .imbox-frame iframe{bottom:10px}#imbox-wrapper-2643 .imbox-frame.imbox-notification{bottom:calc(15px + 62px)}@media only screen and (max-device-width:667px),screen and (max-width:450px){#imbox-wrapper-2643 #imbox-container2643,#imbox-wrapper-2643 #imbox-container2643 .zoid-outlet{right:0!important;left:0!important}}.imbox-frame{border-radius:16px!important}","outsideCssContentHash":"1bdd0da96e908fb5c31392351b5df863","insideCss":"@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);@import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900\u0026display=swap);.imbox,.imbox-launch .launcher-text{--legacy-main-font:\"Inter\", Roboto, 'Helvetica Neue', Helvetica, Arial,\n      sans
+GET 200 xhr application/json; charset=UTF-8 https://wss.imbox.io/primus/info?instanceId=2&_primuscb=Q6_8G8o&t=1794207973938
+      {"websocket":true,"cookie_needed":false,"entropy":1865932828}
+
+## Länkar (href | text | sammanhang)
+https://www.sollentuna.se/om-webbplatsen/Kakor-cookies-pa-webbplatsen/ | Så här använder vi kakor | Kakor på sollentuna.se Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och f
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation | Till navigation | Till navigation Till innehåll (s)
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#content | Till innehåll (s) | Till navigation Till innehåll (s)
+https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar | För föräldrar
+https://www.sollentuna.se/portal/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.sollentuna.se/portal/foretag/ | Företagsportalen | Företagsportalen
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+        Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan | 
+https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt | Kontakt
+https://sjalvservice.sollentuna.se/ | Självservice
+Öppnas i nytt fönster | Självservice Öppnas i nytt fönster
+https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna | Lyssna
+https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate | Translate
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd
+https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra | Uppleva & göra
+https://www.sollentuna.se/jobb--foretagande/ | Jobb & företagande | Jobb & företagande
+https://www.sollentuna.se/kommun--politik/ | Kommun & politik | Kommun & politik
+https://www.sollentuna.se/trafik--gator/ | Trafik & gator | Trafik & gator
+https://www.sollentuna.se/forskola--skola/ | Förskola & skola | Förskola & skola Undermeny för Förskola & skola Anpassade skolformer
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer | Anpassade skolformer Undermeny för Anpassade skolformer Anpassade grundskolan An
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan | Anpassade grundskolan
+https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan | Anpassade gymnasieskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola | Förskola Undermeny för Förskola Ansök, ändra eller säg upp plats
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats | Ansök, ändra eller säg upp plats Undermeny för Ansök, ändra eller säg upp plats Avgifter för barnomsorg
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg | Avgifter för barnomsorg Undermeny för Avgifter för barnomsorg Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften | Kontroll av barnomsorgsavgiften
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan | Regler för plats i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter | Barnomsorg på kvällar och nätter
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor | Specialförskolor
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem | Familjedaghem
+https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor | Förskolor Undermeny för Förskolor Bagarbyvägens förskola Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola | Bagarbyvägens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola | Bikupans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola | Brage språkförskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola | Bygatans förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola | Ebbas Förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola | Fågelsångens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten | Igelkotten
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola | Linnés förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola | Mallas förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola | Regnbågens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola | Rösjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola | Sjörövarens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola | Skälby förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola | Smultronställets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola | Sofielunds förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola | Tegelhagens förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola | Vaxmora förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola | Väsjö förskola
+https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola | Äpplets förskola
+https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan | Kränkande behandling i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan | Mat i förskolan
+https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola | Skolskjuts i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola | Särskilt stöd i förskola
+https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor | Öppna förskolor
+https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola | Grundskola Undermeny för Grundskola Ansök, hitta och ändra plats
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats | Ansök, hitta och ändra plats Undermeny för Ansök, hitta och ändra plats Hitta och jämför skolor
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor | Hitta och jämför skolor Undermeny för Hitta och jämför skolor Profilklasser Skol
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser | Profilklasser
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg | Skolor i Edsberg, Vaxmora och Sjöberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund | Skolor i Helenelund
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby | Skolor i Häggvik, Norrviken och Viby
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro | Skolor i Rotebro
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg | Skolor i Tureberg
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan | Skolansökan
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan | Information på flera språk om skolansökan Undermeny för Information på flera språk om skolansökan Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska | Engelska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari | Dari
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska | Somaliska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska | Persiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska | Arabiska
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna | Så här fördelas platserna
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun | Söka skola i en annan kommun
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner | Elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster | Blanketter och e-tjänster
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig | Du är viktig Undermeny för Du är viktig با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important | Hello custodial parent - you are important
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید | سلام سرپرستان - شما مهم هستید
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan | Elevhälsan i skolan Undermeny för Elevhälsan i skolan Medicinsk elevhälsa Egenvå
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa | Medicinsk elevhälsa
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan | Egenvård i skolan
+https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal | Elevhälsans webbportal
+https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd | Extra anpassning, särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem | Fritidshem
+https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling | Kränkande behandling
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider | Läsårstider Undermeny för Läsårstider Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan | Lovskolan
+https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål | Modersmål
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden | Skolan och omvärlden Undermeny för Skolan och omvärlden Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten | Internationella utbyten
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+ | Erasmus+
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering | Arbetslivsorientering
+https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet | PRAO i högstadiet
+https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro | Skolplikt och frånvaro
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor | Skolskjuts, skolresor Undermeny för Skolskjuts, skolresor För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts | För dig som har beviljats skolskjuts
+https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd | Skolskjuts för elever i behov av särskilt stöd
+https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan | Specialskolan
+https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk | Svenska som andraspråk
+https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola | Synpunkter och klagomål på skola
+https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola | Gymnasieskola Undermeny för Gymnasieskola Fri kvot Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot | Fri kvot
+https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor | Gymnasieskolor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar | Idrottsutbildningar
+https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor | Skolresor
+https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans | Studera på annan ort eller på distans
+https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på  gymnasiet | Utan plats på gymnasiet
+https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar | Försäkringar
+https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande | Nyanlända och asylsökande
+https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor | Skolplattformen Infomentor
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris | Sollentuna lärarpris Undermeny för Sollentuna lärarpris Pristagare 2025 Tidigare
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025 | Pristagare 2025
+https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater | Tidigare stipendiater
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd | Utförare skola – verktyg och stöd Undermeny för Utförare skola – verktyg och stöd Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner | Barn och elever från andra kommuner
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare | Blanketter för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor | För gymnasieskolor Undermeny för För gymnasieskolor Programinriktat val (IMV) Fö
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV) | Programinriktat val (IMV)
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning | Förlängd undervisning
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg | Lämna in slutbetyg
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd | Pedagogiskt stöd Undermeny för Pedagogiskt stöd Lokala utvecklingscentra Lärarco
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra | Lokala utvecklingscentra
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher | Lärarcoacher
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande | STL - Skriva sig till lärande
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare | Skolfrånvaro för utförare
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner | Stödfunktioner Undermeny för Stödfunktioner Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram | Anpassningar, stöd och åtgärdsprogram
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd | Förskolestöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd | Skolstöd
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan | Särskilt stöd i förskolan
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola | Ytterligare år i skola
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp | Tilläggsbelopp Undermeny för Tilläggsbelopp Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål | Tilläggsbelopp för modersmål
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU | Vuxenutbildning och VFU Undermeny för Vuxenutbildning och VFU VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter | VFU - Praktik för lärarstudenter
+https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd | Omsorg & stöd Undermeny för Omsorg & stöd Akut social hjälp och jourer Borgerlig
+https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer | Akut social hjälp och jourer
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel | Borgerlig vigsel Undermeny för Borgerlig vigsel Vigselalternativ Vigselförrättar
+https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ | Vigselalternativ
+
+## Knappar
+Inställningar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Spara och godkänn
+Lyssna
+Sök
+Meny
+Lyssna
+Undermeny för Förskola & skola
+Undermeny för Anpassade skolformer
+Undermeny för Förskola
+Undermeny för Ansök, ändra eller säg upp plats
+Undermeny för Avgifter för barnomsorg
+Undermeny för Förskolor
+Undermeny för Grundskola
+Undermeny för Ansök, hitta och ändra plats
+Undermeny för Hitta och jämför skolor
+Undermeny för Information på flera språk om skolansökan
+Undermeny för Du är viktig
+Undermeny för Elevhälsan i skolan
+Undermeny för Läsårstider
+Undermeny för Skolan och omvärlden
+Undermeny för Skolskjuts, skolresor
+Undermeny för Gymnasieskola
+Undermeny för Sollentuna lärarpris
+Undermeny för Utförare skola – verktyg och stöd
+Undermeny för För gymnasieskolor
+Undermeny för Pedagogiskt stöd
+Undermeny för Stödfunktioner
+Undermeny för Tilläggsbelopp
+Undermeny för Vuxenutbildning och VFU
+Undermeny för Omsorg & stöd
+Undermeny för Borgerlig vigsel
+Undermeny för Äldre
+Undermeny för Hemtjänst för dig som är äldre
+Undermeny för Hjälp i hemmet
+Undermeny för Avgifter inom äldreomsorg
+Undermeny för Anhörigstöd
+Undermeny för Aktiviteter
+Undermeny för Demens
+
+## HTML (början av body)
+<body class=""> <!--[if IE]> <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p> <![endif]--> <div class="l-default"> <div class="c-banners" role="region" aria-label="banners"> <div id="CookieConsent" class="cookieModal " role="dialog" aria-modal="true" aria-live="polite" tabindex="0" style="display: flex;"> <div class="dialog"> <div class="content consent show"> <div class="text_wrapper"> <div class="text"> <h2 class="heading">Kakor på sollentuna.se</h2> <p><span style="font-size: inherit;">Vi använder kakor, cookies, för att ge dig en förbättrad upplevelse, sammanställa statistik och för att viss nödvändig funktionalitet ska fungera på webbplatsen.</span></p> <p><a href="/om-webbplatsen/Kakor-cookies-pa-webbplatsen/">Så här använder vi kakor</a></p> </div> </div> <div class="buttons"> <button class="btn whiteBtn cookieSettings" type="submit"><i class="fa-light fa-gear"></i> Inställningar</button> <button class="btn declineAll blueBtn" type="submit">Godkänn nödvändiga kakor</button> <button class="btn acceptAll show blueBtn" type="submit">Godkänn alla kakor</button> </div> </div> <div class="content settings"> <div class="heading_wrapper"> <h2 class="heading">Hantera dina kakor</h2> </div> <div class="text_wrapper settings"> <div class="option_wrapper"> <div class="cookie-form-control"> <input class="input-checkbox" id="cookie-option-1" name="cookie-option-1" type="checkbox" checked="" disabled=""> <label class="label cookie-label" for="cookie-option-1">Nödvändiga kakor</label> <p class="cookie-p"> Nödvändiga för sidans funktionalitet och säkerhet, går därför inte att inaktivera. </p> </div> <div class="cookie-form-control "> <input class="input-checkbox" id="cookie-option-2" name="cookie-option-2" type="checkbox"> <label class="label cookie-label" for="cookie-option-2">Statistiska kakor</label> <p class="cookie-p"> Statistiska kakor samlar in och rapporterar information om hur våra besökare använder webbplatsen. Informationen som samlas in är anonymiserad och kan inte kopplas till dig som användare. Dessa kakor hjälper oss att förstå hur vi kan förbättra vår webbplats, bland annat genom att vi kan se vilka sidor som läses mest och hur besökare går mellan sidorna. </p> </div> <div class="cookie-form-control hidden"> <input class="input-checkbox" id="cookie-option-3" name="cookie-option-3" type="checkbox"> <label class="label cookie-label" for="cookie-option-3">Funktionella cookies</label> <p class="cookie-p"> </p> </div> </div> </div> <div class="buttons"> <button class="btn saveSettings blueBtn">Spara och godkänn</button> </div> </div> <div class="content policy"> </div> </div> </div> </div> <div class="c-accessibility-content"> <a href="#navigation" tabindex="0"> <span aria-label="Till navigation"> Till navigation </span> </a> <a accesskey="S" href="#content" tabindex="0" aria-label="Till innehåll (s)"> <span> Till innehåll (s) </span> </a> </div> <header class="g-header"> <div class="g-topbar"> <div class="g-topbar__outer"> <div class="g-topbar__inner"> <div class="g-topbar__content"> <nav class="c-nav-portals" aria-label="Portalingångar"> <ul class="c-nav-portals__list"> <li class="c-nav-portals__item"> <a href="/portal/for-foraldrar/" class="c-nav-portals__link"> <span>För föräldrar</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/jobba-hos-oss/" class="c-nav-portals__link"> <span>Jobba hos oss</span> </a> </li> <li class="c-nav-portals__item"> <a href="/portal/foretag/" class="c-nav-portals__link"> <span>Företagsportalen</span> </a> </li> </ul> </nav> </div> </div> </div> </div> <div class="g-header__outer"> <div class="g-header__inner"> <div class="g-header__col g-header__col--links g-header__col--mobileShortcuts"> <nav class="c-nav-quicklinks" aria-label="Snabblänkar"> <ul class="c-nav-quicklinks__list"> <li class="c-block-grid c-nav-quicklinks__item iconlinkblock siteheader"> 

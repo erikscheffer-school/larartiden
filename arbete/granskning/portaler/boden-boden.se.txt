@@ -1,0 +1,620 @@
+Kommun: Boden  nyckel: boden.se
+
+######## SIDA: https://boden.se/kommun-och-politik/politik/politikerportal
+Titel: Politikerportal - boden.se
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://boden.se/kommun-och-politik/politik/politikerportal
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/YUIW-jNF.json
+      [{"targetBanner":3431429,"condition":"all"}]
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/config/Keg1K9Oa.json
+      {"reloadOnAccept":false,"dataShortCodes":[{"key":"cky_show_desc","content":{"button":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\">[cky_showmore_text]</button>"},"uiTag":"show-desc-button","type":"data","customTag":"","attributes":{},"processedHTML":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\" style=\"color: #1863dc;\">[cky_showmore_text]</button>"},{"key":"cky_hide_desc","content":{"button":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\">[cky_showless_text]</button>"},"uiTag":"hide-desc-button","type":"data","customTag":"","attributes":{},"processedHTML":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\" style=\"color: #1863dc;\">[cky_showless_text]</button>"},{"key":"cky_readmore","content":{"link":"<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_readmore_text]\" target=\"_blank\" rel=\"noopener\">[cky_readmore_text]</a>","button":"<button class=\"cky-policy\" aria-label=\"[cky_readmore_text]\">[cky_readmore_text]</button>"},"uiTag":"readmore-button","type":"data","customTag":"","attributes":{"data-cky-tag":"readmore-button"},"processedHTML":"<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_readmore_text]\" target=\"_blank\" rel=\"noopener\" s
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/translations/PfeAsYPs.json
+      {"cky_notice_title":"Vi värdesätter din integritet","cky_notice_description":"<p>Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vår trafik. Genom att klicka på \"Acceptera alla\" samtycker du till vår användning av cookies.</p>","cky_notice_close_label":"Stänga","cky_readmore_text":"Så använder vi cookies på boden.se","cky_readmore_privacyLink":"https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies","cky_revisit_title":"Inställningar för samtycke","cky_video_placeholder_title":"Acceptera cookies samtycke","cky_accept_text":"Acceptera alla","cky_reject_text":"Avvisa","cky_settings_text":"Anpassa","cky_preference_title":"Anpassa inställningar för samtycke","cky_preference_description":"<p>Vi använder cookies för att hjälpa dig att navigera effektivt och utföra vissa funktioner. Du hittar detaljerad information om alla cookies under respektive kategori för samtycke.</p><p>De cookies som kategoriseras som \"Nödvändiga\" lagras i din webbläsare eftersom de krävs för att möjliggöra webbplatsens grundläggande funktioner.</p><p>Vi använder också cookies från tredje part som hjälper oss att analysera hur du använder webbplatsen, lagra dina preferenser och visa innehåll och annonser som är relevanta för dig. Dessa cookies lagras endast i din webbläsare med ditt tidigare samtycke.</p><p>Du kan välja att aktivera eller inaktivera vissa av eller alla dessa cookies, men om du inaktiverar vissa 
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/audit-table/bl4Mzp4B.json
+      {"cookies":{"SiteVisionLTM":{"cookie_id":"SiteVisionLTM","duration":"session","description":"<p>Sitevision Cloud anv&auml;nder den unika cookien SiteVisionLTM f&ouml;r att h&aring;lla ordning p&aring; vilken bakomliggande server som klienten ska kommunicera med.</p>"},"JSESSIONID":{"cookie_id":"JSESSIONID","duration":"session","description":"New Relic använder denna cookie för att spara en sessionsidentifierare så att New Relic kan övervaka sessionsantalet för en applikation."},"datadome":{"cookie_id":"datadome","duration":"session","description":"<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Det h&auml;r &auml;r en s&auml;kerhetscookie som s&auml;tts av Force24 f&ouml;r att uppt&auml;cka botar och skadlig trafik.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"},"__cf_bm":{"cookie_id":"__cf_bm","duration":"1 timme","description":"Cloudflare sätter denna cookie för att stödja Cloudflare Bot Management."},"VISITOR_PRIVACY_METADATA":{"cookie_id":"VISITOR_PRIVACY_METADATA","duration":"6 månader","description":"<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p><strong>YouTube s&auml;tter denna cookie f&ouml;r att spara anv&auml;ndarens val f&ouml;r cookies p&aring; den aktuella dom&auml;nen.</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Politikerportal - boden.se","pid":"4.6df6e4371963481a0941f3c4","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["4.6df6e4371963481a0941f3c4"]},"cf":[],"csf":[],"p":"5f14684a","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:07:52.117Z","url":"/kommun-och-politik/politik/politikerportal","content":
+
+## Länkar (href | text | sammanhang)
+https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies | Så använder vi cookies på boden.se | Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vå
+https://boden.se/ |  | 
+https://boden.se/kommun-och-politik/politik/politikerportal |  | 
+https://boden.enamnd.se/ |  | 
+https://boden.enamnd.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/matsedel | Matsedlar > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/matsedel | Matsedel > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://anslagstavla.boden.se/#!/billboard/ | GÅ TILL ANSLAGSTAVLAN >>
+LÄNK TILL ANNAN WEBBPLATS. | GÅ TILL ANSLAGSTAVLAN >> LÄNK TILL ANNAN WEBBPLATS.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | 1. Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller proto | 1. Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokoll >>
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten | 2. Se nämnders ledamöter och deras profiler med kontaktuppgifter >> | 2. Se nämnders ledamöter och deras profiler med kontaktuppgifter >>
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | 3. Använd förstoringsglaset för att hitta tidigare ärenden och handlingar >> | 3. Använd förstoringsglaset för att hitta tidigare ärenden och handlingar >>
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | 4. Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att sign | 4. Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är klar >>
+https://boden.se/kommun-och-politik/politik/politikerportal/kalender-for-sammantraden | SAMMANTRÄDESKALENDER >> | SAMMANTRÄDESKALENDER >>
+https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar | ARVODE OCH ERSÄTTNINGAR >> | ARVODE OCH ERSÄTTNINGAR >>
+https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank | KUNSKAPSBANK >> | KUNSKAPSBANK >>
+https://boden.se/kommun-och-politik/politik/politikerportal/bestall-it-utrustning | BESTÄLL IT-UTRUSTNING >> | BESTÄLL IT-UTRUSTNING >>
+https://boden.se/kommun-och-politik/politik/politikerportal#Rubrikankare | SE FLER KATEGORIER | SE FLER KATEGORIER
+https://boden.se/kommun-och-politik/politik/sa-fungerar-de-allmanna-valen/jobba-som-rostmottagare#Vadinnebaruppdraget |  | Bli röstmottagare i valet 2026 Vi behöver röstmottagare till valet den 13 september 2026. Som röstmottagare bidrar du ti
+https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-02-10-ny-e-tjanst-for-ersattning-av-forlorad-arbetsinkomst | Läs… | Ny e-tjänst för ersättning av förlorad arbetsinkomst Det finns nu en ny e-tjänst för dig som är förtroendevald och ska a
+https://boden.se/driftinfo | DRIFTINFO | DRIFTINFO
+https://boden.se/driftinfo |  | 
+https://boden.se/nyheter/nyhet/2026-10-07-mitt-boden-har-fatt-ny-design-och-battre-prestanda | Mitt Boden har fått ny design och bättre prestanda | 7 oktober 2026 Mitt Boden har fått ny design och bättre prestanda Nu finns en ny version av appen Mitt Boden. Appen har 
+https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran | 7 oktober 2026 Hjälp oss hitta årets Boden-gran Har du en stor, tät och fin gran som du vill bli av med? Då kanske den k
+https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna | 4 september 2026 Tack till alla som höll Boden flytande under krisveckorna Magnus Åkerlund, kommunchef i Boden, sammanfa
+https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026 | 26 augusti 2026 Rösta i valet 2026 Den 13 september 2026 är det val till riksdag, region- och kommunfullmäktige. När du 
+https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | LÄS ALLT AKTUELLT INOM POLITIKEN | LÄS ALLT AKTUELLT INOM POLITIKEN
+https://boden.se/kommun-och-politik/politik/politikerportal/utbildningar | UTBILDNINGAR >> | UTBILDNINGAR >>
+https://boden.se/kommun-och-politik/politik/politikerportal/passerkort | PASSERKORT >> | PASSERKORT >>
+https://boden.se/kommun-och-politik/politik/politikerportal/nomineringar-och-avsagelser | NOMINERINGAR OCH AVSÄGELSER >> | NOMINERINGAR OCH AVSÄGELSER >>
+https://boden.se/kommun-och-politik/politik/politikerportal/fortroendevalda-i-kommunala-bolag | FÖRTROENDEVALDA I KOMMUNALA BOLAG >> | FÖRTROENDEVALDA I KOMMUNALA BOLAG >>
+https://boden.se/ |  | 
+
+## Knappar
+Inställningar för samtycke
+Anpassa
+Avvisa
+Acceptera alla
+Stänga
+Visa mer
+Nödvändig
+Funktionell
+Analytics
+Prestanda
+Annons
+Okategoriserad
+Avvisa
+Spara mina preferenser
+Acceptera alla
+Meny
+Sök
+Bygga och boende >
+Förskola och utbildning >
+Stöd och omsorg >
+Uppleva och göra >
+Tillstånd och avgifter >
+Gator och trafik >
+Samhälle och utveckling >
+Jobb och företagande >
+Kommun och politik >
+Akut hjälp >
+Matsedel >
+Driftinformation >
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0"><div class="cky-overlay"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left" data-cky-tag="revisit-consent" data-tooltip="Inställningar för samtycke" style="background-color: #707070;"><button aria-label="Inställningar för samtycke" class="cky-btn-revisit" aria-controls="ckyPreferenceCenter" aria-haspopup="dialog"><img alt="Revisit consent button" src="https://cdn-cookieyes.com/assets/images/revisit.svg"></button></div><div class="cky-consent-container cky-popup-center" tabindex="-1" aria-labelledby="ckyBannerTitle" aria-modal="true" role="dialog"><div class="cky-consent-bar" data-cky-tag="notice" style="border-color: #f4f4f4; background-color: #FFFFFF;"><div class="cky-notice"><p class="cky-title" aria-level="2" data-cky-tag="title" id="ckyBannerTitle" role="heading" style="color: #212121;">Vi värdesätter din integritet</p><div class="cky-notice-group"><div class="cky-notice-des" data-cky-tag="description" style="color: #212121;"><p>Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vår trafik. Genom att klicka på "Acceptera alla" samtycker du till vår användning av cookies.&nbsp;<a href="https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies" class="cky-policy" aria-label="Så använder vi cookies på boden.se" target="_blank" rel="noopener" style="color: #707070; border-color: transparent; background-color: transparent;" data-cky-tag="readmore-button">Så använder vi cookies på boden.se</a></p></div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons" role="group"><button class="cky-btn cky-btn-customize" aria-label="Anpassa" aria-haspopup="dialog" aria-controls="ckyPreferenceCenter" data-cky-tag="settings-button" style="color: #707070; border-color: #707070; background-color: transparent;">Anpassa</button> <button class="cky-btn cky-btn-reject" aria-label="Avvisa" data-cky-tag="reject-button" style="color: #707070; border-color: #707070; background-color: #ffffff;">Avvisa</button> <button class="cky-btn cky-btn-accept" aria-label="Acceptera alla" data-cky-tag="accept-button" style="color: #FFFFFF; border-color: #707070; background-color: #707070;">Acceptera alla</button></div></div></div></div></div><div class="cky-modal" tabindex="-1"><div class="cky-preference-center" data-cky-tag="detail" role="dialog" aria-labelledby="ckyPreferenceTitle" aria-modal="true" id="ckyPreferenceCenter" style="color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;"><div class="cky-preference-header"><span class="cky-preference-title" aria-level="2" data-cky-tag="detail-title" id="ckyPreferenceTitle" role="heading" style="color: #212121;">Anpassa inställningar för samtycke</span> <button aria-label="Stänga" class="cky-btn-close" data-cky-tag="detail-close"><img alt="" src="https://cdn-cookieyes.com/assets/images/close.svg"></button></div><div class="cky-preference-body-wrapper"><div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color: #212121;"><p>Vi använder cookies för att hjälpa dig att navigera effektivt och utföra vissa funktioner. Du hittar detaljerad information om alla cookies under respektive kategori för samtycke.</p><p>De cookies som kategoriseras som "Nödvändiga" lagras i din webbläsare eftersom de krävs för att möjliggöra webbplatsens grundläggande funktioner....&nbsp;<button class="cky-show-desc-btn" data-cky-tag="show-desc-button" aria-expanded="false" aria-label="Visa mer" style="color: #1863dc;">Visa mer</button></p></div><div class="cky-horizontal-separator"></div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"><div class="cky-accordion" id="ckyDetailCategorynecessary"><div class="cky-accordion-item"><div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div><div class="cky-accordion-header-wrapper"><div class="cky-accordion-header"><button class="cky-accordion-btn" aria-e
+
+######## SIDA: https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden
+Titel: Arbeta i Ciceron - boden.se
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/YUIW-jNF.json
+      [{"targetBanner":3431429,"condition":"all"}]
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/config/Keg1K9Oa.json
+      {"reloadOnAccept":false,"dataShortCodes":[{"key":"cky_show_desc","content":{"button":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\">[cky_showmore_text]</button>"},"uiTag":"show-desc-button","type":"data","customTag":"","attributes":{},"processedHTML":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\" style=\"color: #1863dc;\">[cky_showmore_text]</button>"},{"key":"cky_hide_desc","content":{"button":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\">[cky_showless_text]</button>"},"uiTag":"hide-desc-button","type":"data","customTag":"","attributes":{},"processedHTML":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\" style=\"color: #1863dc;\">[cky_showless_text]</button>"},{"key":"cky_readmore","content":{"link":"<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_readmore_text]\" target=\"_blank\" rel=\"noopener\">[cky_readmore_text]</a>","button":"<button class=\"cky-policy\" aria-label=\"[cky_readmore_text]\">[cky_readmore_text]</button>"},"uiTag":"readmore-button","type":"data","customTag":"","attributes":{"data-cky-tag":"readmore-button"},"processedHTML":"<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_readmore_text]\" target=\"_blank\" rel=\"noopener\" s
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/translations/PfeAsYPs.json
+      {"cky_notice_title":"Vi värdesätter din integritet","cky_notice_description":"<p>Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vår trafik. Genom att klicka på \"Acceptera alla\" samtycker du till vår användning av cookies.</p>","cky_notice_close_label":"Stänga","cky_readmore_text":"Så använder vi cookies på boden.se","cky_readmore_privacyLink":"https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies","cky_revisit_title":"Inställningar för samtycke","cky_video_placeholder_title":"Acceptera cookies samtycke","cky_accept_text":"Acceptera alla","cky_reject_text":"Avvisa","cky_settings_text":"Anpassa","cky_preference_title":"Anpassa inställningar för samtycke","cky_preference_description":"<p>Vi använder cookies för att hjälpa dig att navigera effektivt och utföra vissa funktioner. Du hittar detaljerad information om alla cookies under respektive kategori för samtycke.</p><p>De cookies som kategoriseras som \"Nödvändiga\" lagras i din webbläsare eftersom de krävs för att möjliggöra webbplatsens grundläggande funktioner.</p><p>Vi använder också cookies från tredje part som hjälper oss att analysera hur du använder webbplatsen, lagra dina preferenser och visa innehåll och annonser som är relevanta för dig. Dessa cookies lagras endast i din webbläsare med ditt tidigare samtycke.</p><p>Du kan välja att aktivera eller inaktivera vissa av eller alla dessa cookies, men om du inaktiverar vissa 
+GET 200 fetch application/json https://cdn-cookieyes.com/client_data/225cf5d22db0bb80fd87942e/audit-table/bl4Mzp4B.json
+      {"cookies":{"SiteVisionLTM":{"cookie_id":"SiteVisionLTM","duration":"session","description":"<p>Sitevision Cloud anv&auml;nder den unika cookien SiteVisionLTM f&ouml;r att h&aring;lla ordning p&aring; vilken bakomliggande server som klienten ska kommunicera med.</p>"},"JSESSIONID":{"cookie_id":"JSESSIONID","duration":"session","description":"New Relic använder denna cookie för att spara en sessionsidentifierare så att New Relic kan övervaka sessionsantalet för en applikation."},"datadome":{"cookie_id":"datadome","duration":"session","description":"<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Det h&auml;r &auml;r en s&auml;kerhetscookie som s&auml;tts av Force24 f&ouml;r att uppt&auml;cka botar och skadlig trafik.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"},"__cf_bm":{"cookie_id":"__cf_bm","duration":"1 timme","description":"Cloudflare sätter denna cookie för att stödja Cloudflare Bot Management."},"VISITOR_PRIVACY_METADATA":{"cookie_id":"VISITOR_PRIVACY_METADATA","duration":"6 månader","description":"<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p><strong>YouTube s&auml;tter denna cookie f&ouml;r att spara anv&auml;ndarens val f&ouml;r cookies p&aring; den aktuella dom&auml;nen.</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Arbeta i Ciceron - boden.se","pid":"4.483040da199a4a11c1bc3cd","mb":-1,"mv":{"vt":2,"v30":1,"dlv":30},"mp":{"p":["4.6df6e4371963481a0941f3c4","4.483040da199a4a11c1bc3cd"]},"cf":[],"csf":[],"p":"5f14684a","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:07:58.029Z","url":"/kommun-och-politik/politik
+
+## Länkar (href | text | sammanhang)
+https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies | Så använder vi cookies på boden.se | Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vå
+https://boden.se/ |  | 
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron |  | 
+https://boden.enamnd.se/ |  | 
+https://boden.enamnd.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/matsedel | Matsedlar > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/matsedel | Matsedel > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://assistent.boden.se/index.html | Logga in i Ciceron
+(länk till annan webbplats) | Logga in i Ciceron (länk till annan webbplats)
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | 1. Hitta och arbeta med sammanträden >> | 1. Hitta och arbeta med sammanträden >> Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol | 1. Hitta och arbeta med sammanträden >> Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten | 2. Hitta ledamöter i Assistenten >> | 2. Hitta ledamöter i Assistenten >> Se nämnders ledamöter och deras profiler med kontaktuppgifter.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten | Se nämnders ledamöter och deras profiler med kontaktuppgifter. | 2. Hitta ledamöter i Assistenten >> Se nämnders ledamöter och deras profiler med kontaktuppgifter.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | 3. Söka ärenden eller handlingar >> | 3. Söka ärenden eller handlingar >> Använd förstoringsglaset för att hitta tidigare ärenden och handlingar.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | Använd förstoringsglaset för att hitta tidigare ärenden och handlingar. | 3. Söka ärenden eller handlingar >> Använd förstoringsglaset för att hitta tidigare ärenden och handlingar.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | 4. Justera protokoll digitalt >> | 4. Justera protokoll digitalt >> Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeri | 4. Justera protokoll digitalt >> Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är
+https://boden.se/ | boden.se | boden.se
+https://boden.se/kommun-och-politik/politik | politik | /politik
+https://boden.se/kommun-och-politik/politik/politikerportal | politikerportal | /politikerportal
+https://assistent.boden.se/index.html | loggar in i Ciceron Assistent
+Länk till annan webbplats. | 1. HITTA OCH ARBETA MED SAMMANTRÄDEN När du loggar in i Ciceron Assistent Länk till annan webbplats. visas det möte som 
+https://kurser.boden.se/3486.guide | Guide för att arbeta i Ciceron Assistent
+(länk till annan webbplats) | Guide för att arbeta i Ciceron Assistent (länk till annan webbplats)
+https://assistent.boden.se/index.html | Ciceron Assistent
+Länk till annan webbplats. | 4. JUSTERA PROTOKOLL DIGITALT Justering av protokoll i Bodens kommuns fullmäktige, nämnder och styrelser sker digitalt i
+https://kurser.boden.se/3488.guide | Guide för att signera protokoll
+(länk till annan webbplats) | Guide för att signera protokoll (länk till annan webbplats)
+https://boden.se/kommun-och-politik/politik/politikerportal | POLITIKERPORTALENS STARTSIDA | POLITIKERPORTALENS STARTSIDA
+https://boden.se/kommun-och-politik/politik/politikerportal |  | 
+https://boden.se/ |  | 
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | Medborgarservice
+https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla
+Länk till annan webbplats. | Anslagstavla Länk till annan webbplats.
+https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan
+Länk till annan webbplats. | Felanmälan Länk till annan webbplats.
+https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter
+Länk till annan webbplats. | Felanmälan fastigheter Länk till annan webbplats.
+https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter | Synpunkter
+
+## Knappar
+Inställningar för samtycke
+Anpassa
+Avvisa
+Acceptera alla
+Stänga
+Visa mer
+Nödvändig
+Funktionell
+Analytics
+Prestanda
+Annons
+Okategoriserad
+Avvisa
+Spara mina preferenser
+Acceptera alla
+Meny
+Sök
+Bygga och boende >
+Förskola och utbildning >
+Stöd och omsorg >
+Uppleva och göra >
+Tillstånd och avgifter >
+Gator och trafik >
+Samhälle och utveckling >
+Jobb och företagande >
+Kommun och politik >
+Akut hjälp >
+Matsedel >
+Driftinformation >
+Till toppen
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0"><div class="cky-overlay"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left" data-cky-tag="revisit-consent" data-tooltip="Inställningar för samtycke" style="background-color: #707070;"><button aria-label="Inställningar för samtycke" class="cky-btn-revisit" aria-controls="ckyPreferenceCenter" aria-haspopup="dialog"><img alt="Revisit consent button" src="https://cdn-cookieyes.com/assets/images/revisit.svg"></button></div><div class="cky-consent-container cky-popup-center" tabindex="-1" aria-labelledby="ckyBannerTitle" aria-modal="true" role="dialog"><div class="cky-consent-bar" data-cky-tag="notice" style="border-color: #f4f4f4; background-color: #FFFFFF;"><div class="cky-notice"><p class="cky-title" aria-level="2" data-cky-tag="title" id="ckyBannerTitle" role="heading" style="color: #212121;">Vi värdesätter din integritet</p><div class="cky-notice-group"><div class="cky-notice-des" data-cky-tag="description" style="color: #212121;"><p>Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vår trafik. Genom att klicka på "Acceptera alla" samtycker du till vår användning av cookies.&nbsp;<a href="https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies" class="cky-policy" aria-label="Så använder vi cookies på boden.se" target="_blank" rel="noopener" style="color: #707070; border-color: transparent; background-color: transparent;" data-cky-tag="readmore-button">Så använder vi cookies på boden.se</a></p></div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons" role="group"><button class="cky-btn cky-btn-customize" aria-label="Anpassa" aria-haspopup="dialog" aria-controls="ckyPreferenceCenter" data-cky-tag="settings-button" style="color: #707070; border-color: #707070; background-color: transparent;">Anpassa</button> <button class="cky-btn cky-btn-reject" aria-label="Avvisa" data-cky-tag="reject-button" style="color: #707070; border-color: #707070; background-color: #ffffff;">Avvisa</button> <button class="cky-btn cky-btn-accept" aria-label="Acceptera alla" data-cky-tag="accept-button" style="color: #FFFFFF; border-color: #707070; background-color: #707070;">Acceptera alla</button></div></div></div></div></div><div class="cky-modal" tabindex="-1"><div class="cky-preference-center" data-cky-tag="detail" role="dialog" aria-labelledby="ckyPreferenceTitle" aria-modal="true" id="ckyPreferenceCenter" style="color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;"><div class="cky-preference-header"><span class="cky-preference-title" aria-level="2" data-cky-tag="detail-title" id="ckyPreferenceTitle" role="heading" style="color: #212121;">Anpassa inställningar för samtycke</span> <button aria-label="Stänga" class="cky-btn-close" data-cky-tag="detail-close"><img alt="" src="https://cdn-cookieyes.com/assets/images/close.svg"></button></div><div class="cky-preference-body-wrapper"><div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color: #212121;"><p>Vi använder cookies för att hjälpa dig att navigera effektivt och utföra vissa funktioner. Du hittar detaljerad information om alla cookies under respektive kategori för samtycke.</p><p>De cookies som kategoriseras som "Nödvändiga" lagras i din webbläsare eftersom de krävs för att möjliggöra webbplatsens grundläggande funktioner....&nbsp;<button class="cky-show-desc-btn" data-cky-tag="show-desc-button" aria-expanded="false" aria-label="Visa mer" style="color: #1863dc;">Visa mer</button></p></div><div class="cky-horizontal-separator"></div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"><div class="cky-accordion" id="ckyDetailCategorynecessary"><div class="cky-accordion-item"><div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div><div class="cky-accordion-header-wrapper"><div class="cky-accordion-header"><button class="cky-accordion-btn" aria-e
+
+######## SIDA: https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten
+Titel: Arbeta i Ciceron - boden.se
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies | Så använder vi cookies på boden.se | Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vå
+https://boden.se/ |  | 
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron |  | 
+https://boden.enamnd.se/ |  | 
+https://boden.enamnd.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/matsedel | Matsedlar > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedlar >Driftinformation >
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning | Avfall och återbrukVatten och avloppBygga och rivaBostäder och markMiljö och hälsoskyddEnergi och uppvärmning
+https://boden.se/forskola-och-utbildning/forskola | Förskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/grundskola | Grundskola | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/en/preschool-and-education/international-school | International school | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa | FörskolaGrundskolaGymnasiumInternational schoolVuxenutbildningElevhälsa
+https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration | Seniorer och äldreStöd vid ohälsaFamilj, barn och ungdomFunktionsnedsättningGod man och förvaltareInvandring och integra
+https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/evenemang | Evenemang | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan | Fritid och idrottEvenemangFöreningsliv och bidragKultur och besöksmålKulturskolanRestaurang Viljan
+https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/avgifter | Avgifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter | Tillsyn och kontrollerSynpunkter och överklaganFörsäkring och ersättningTillståndsansökanAvgifterLokala föreskrifter
+https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering | Cykel- och gångvägarSopning och snöröjningTorg och allmänna platserFärdtjänstKollektivtrafikGator och parkering
+https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta | SamhällsutvecklingKris och säkerhetRäddningstjänstenKartor och statistikHållbar utvecklingProjektkarta
+https://boden.se/jobb-och-foretagande/arbeta-i-bodens-kommun | Arbeta i Bodens kommun | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/jobbcenter | Jobbcenter | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats. | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/tillstandsguiden | Tillståndsguiden | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/brandskydd-i-verksamhet | Brandskydd i verksamhet | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/jobb-och-foretagande/kommunala-bolag | Kommunala bolag | Arbeta i Bodens kommunJobbcenterNäringsliv Länk till annan webbplats.TillståndsguidenBrandskydd i verksamhetKommunala bo
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/politik | Politik | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/ekonomi | Ekonomi | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning | MedborgarserviceBodens kommunPolitikEkonomiInköp och avtalBröllop och begravning
+https://boden.se/akut-hjalp | Akut hjälp > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/matsedel | Matsedel > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats. | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/driftinfo | Driftinformation > | Akut hjälp >Anslagstavlan > Länk till annan webbplats.Matsedel >E-tjänster > Länk till annan webbplats.Driftinformation 
+https://boden.se/nyheter | Se alla nyheter | Se alla nyheter
+https://boden.se/nyheter |  | 
+https://assistent.boden.se/index.html | Logga in i Ciceron
+(länk till annan webbplats) | Logga in i Ciceron (länk till annan webbplats)
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | 1. Hitta och arbeta med sammanträden >> | 1. Hitta och arbeta med sammanträden >> Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol | 1. Hitta och arbeta med sammanträden >> Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokol
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten | 2. Hitta ledamöter i Assistenten >> | 2. Hitta ledamöter i Assistenten >> Se nämnders ledamöter och deras profiler med kontaktuppgifter.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid2HittaledamoteriAssistenten | Se nämnders ledamöter och deras profiler med kontaktuppgifter. | 2. Hitta ledamöter i Assistenten >> Se nämnders ledamöter och deras profiler med kontaktuppgifter.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | 3. Söka ärenden eller handlingar >> | 3. Söka ärenden eller handlingar >> Använd förstoringsglaset för att hitta tidigare ärenden och handlingar.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | Använd förstoringsglaset för att hitta tidigare ärenden och handlingar. | 3. Söka ärenden eller handlingar >> Använd förstoringsglaset för att hitta tidigare ärenden och handlingar.
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | 4. Justera protokoll digitalt >> | 4. Justera protokoll digitalt >> Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är
+https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeri | 4. Justera protokoll digitalt >> Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är
+https://boden.se/ | boden.se | boden.se
+https://boden.se/kommun-och-politik/politik | politik | /politik
+https://boden.se/kommun-och-politik/politik/politikerportal | politikerportal | /politikerportal
+https://assistent.boden.se/index.html | loggar in i Ciceron Assistent
+Länk till annan webbplats. | 1. HITTA OCH ARBETA MED SAMMANTRÄDEN När du loggar in i Ciceron Assistent Länk till annan webbplats. visas det möte som 
+https://kurser.boden.se/3486.guide | Guide för att arbeta i Ciceron Assistent
+(länk till annan webbplats) | Guide för att arbeta i Ciceron Assistent (länk till annan webbplats)
+https://assistent.boden.se/index.html | Ciceron Assistent
+Länk till annan webbplats. | 4. JUSTERA PROTOKOLL DIGITALT Justering av protokoll i Bodens kommuns fullmäktige, nämnder och styrelser sker digitalt i
+https://kurser.boden.se/3488.guide | Guide för att signera protokoll
+(länk till annan webbplats) | Guide för att signera protokoll (länk till annan webbplats)
+https://boden.se/kommun-och-politik/politik/politikerportal | POLITIKERPORTALENS STARTSIDA | POLITIKERPORTALENS STARTSIDA
+https://boden.se/kommun-och-politik/politik/politikerportal |  | 
+https://boden.se/ |  | 
+https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice | Medborgarservice
+https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla
+Länk till annan webbplats. | Anslagstavla Länk till annan webbplats.
+https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan
+Länk till annan webbplats. | Felanmälan Länk till annan webbplats.
+https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter
+Länk till annan webbplats. | Felanmälan fastigheter Länk till annan webbplats.
+https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter | Synpunkter
+
+## Knappar
+Inställningar för samtycke
+Anpassa
+Avvisa
+Acceptera alla
+Stänga
+Visa mer
+Nödvändig
+Funktionell
+Analytics
+Prestanda
+Annons
+Okategoriserad
+Avvisa
+Spara mina preferenser
+Acceptera alla
+Meny
+Sök
+Bygga och boende >
+Förskola och utbildning >
+Stöd och omsorg >
+Uppleva och göra >
+Tillstånd och avgifter >
+Gator och trafik >
+Samhälle och utveckling >
+Jobb och företagande >
+Kommun och politik >
+Akut hjälp >
+Matsedel >
+Driftinformation >
+Till toppen
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0"><div class="cky-overlay"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left" data-cky-tag="revisit-consent" data-tooltip="Inställningar för samtycke" style="background-color: #707070;"><button aria-label="Inställningar för samtycke" class="cky-btn-revisit" aria-controls="ckyPreferenceCenter" aria-haspopup="dialog"><img alt="Revisit consent button" src="https://cdn-cookieyes.com/assets/images/revisit.svg"></button></div><div class="cky-consent-container cky-popup-center" tabindex="-1" aria-labelledby="ckyBannerTitle" aria-modal="true" role="dialog"><div class="cky-consent-bar" data-cky-tag="notice" style="border-color: #f4f4f4; background-color: #FFFFFF;"><div class="cky-notice"><p class="cky-title" aria-level="2" data-cky-tag="title" id="ckyBannerTitle" role="heading" style="color: #212121;">Vi värdesätter din integritet</p><div class="cky-notice-group"><div class="cky-notice-des" data-cky-tag="description" style="color: #212121;"><p>Vi använder cookies för att förbättra din upplevelse, visa personligt anpassade annonser eller innehåll och analysera vår trafik. Genom att klicka på "Acceptera alla" samtycker du till vår användning av cookies.&nbsp;<a href="https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/cookies" class="cky-policy" aria-label="Så använder vi cookies på boden.se" target="_blank" rel="noopener" style="color: #707070; border-color: transparent; background-color: transparent;" data-cky-tag="readmore-button">Så använder vi cookies på boden.se</a></p></div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons" role="group"><button class="cky-btn cky-btn-customize" aria-label="Anpassa" aria-haspopup="dialog" aria-controls="ckyPreferenceCenter" data-cky-tag="settings-button" style="color: #707070; border-color: #707070; background-color: transparent;">Anpassa</button> <button class="cky-btn cky-btn-reject" aria-label="Avvisa" data-cky-tag="reject-button" style="color: #707070; border-color: #707070; background-color: #ffffff;">Avvisa</button> <button class="cky-btn cky-btn-accept" aria-label="Acceptera alla" data-cky-tag="accept-button" style="color: #FFFFFF; border-color: #707070; background-color: #707070;">Acceptera alla</button></div></div></div></div></div><div class="cky-modal" tabindex="-1"><div class="cky-preference-center" data-cky-tag="detail" role="dialog" aria-labelledby="ckyPreferenceTitle" aria-modal="true" id="ckyPreferenceCenter" style="color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;"><div class="cky-preference-header"><span class="cky-preference-title" aria-level="2" data-cky-tag="detail-title" id="ckyPreferenceTitle" role="heading" style="color: #212121;">Anpassa inställningar för samtycke</span> <button aria-label="Stänga" class="cky-btn-close" data-cky-tag="detail-close"><img alt="" src="https://cdn-cookieyes.com/assets/images/close.svg"></button></div><div class="cky-preference-body-wrapper"><div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color: #212121;"><p>Vi använder cookies för att hjälpa dig att navigera effektivt och utföra vissa funktioner. Du hittar detaljerad information om alla cookies under respektive kategori för samtycke.</p><p>De cookies som kategoriseras som "Nödvändiga" lagras i din webbläsare eftersom de krävs för att möjliggöra webbplatsens grundläggande funktioner....&nbsp;<button class="cky-show-desc-btn" data-cky-tag="show-desc-button" aria-expanded="false" aria-label="Visa mer" style="color: #1863dc;">Visa mer</button></p></div><div class="cky-horizontal-separator"></div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"><div class="cky-accordion" id="ckyDetailCategorynecessary"><div class="cky-accordion-item"><div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div><div class="cky-accordion-header-wrapper"><div class="cky-accordion-header"><button class="cky-accordion-btn" aria-e

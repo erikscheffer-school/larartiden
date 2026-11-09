@@ -1,0 +1,540 @@
+Kommun: Norrtälje  nyckel: norrtalje.se
+
+######## SIDA: https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/
+Titel: Kommunfullmäktiges webbsändning - Kommun & politik | Norrtälje kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/
+GET 200 document text/html https://policy.app.cookieinformation.com/cookiesharingiframe.html
+GET 200 xhr application/json https://policy.app.cookieinformation.com/cookie-data/norrtalje.se/cabl.json
+      {"metadata":{"last_updated":"2026-11-06T04:32:02.638Z","autoblocking_enabled":false},"cookies":[{"name":"ASP.NET_SessionId","domain":"www.norrtalje.se","category":"cookie_cat_necessary"},{"name":"CookieInformationConsent","domain":"www.norrtalje.se","category":"cookie_cat_necessary"},{"name":"__RequestVerificationToken","domain":"www.norrtalje.se","category":"cookie_cat_necessary"},{"name":"__cf_bm","domain":".fonts.net","category":"cookie_cat_functional"},{"name":"monsido","domain":"www.norrtalje.se","category":"cookie_cat_statistic"},{"name":".EPiForm_VisitorIdentifier","domain":"www.norrtalje.se","category":"cookie_cat_marketing"},{"name":".EPiForm_BID","domain":"www.norrtalje.se","category":"cookie_cat_marketing"},{"name":"__epiXSRF","domain":"www.norrtalje.se","category":"cookie_cat_marketing"},{"name":"___vizzit","domain":"www.norrtalje.se","category":"cookie_cat_unclassified"},{"name":"imbox","domain":"www.norrtalje.se","category":"cookie_cat_unclassified"},{"name":"euconsent-v2","domain":"norrtalje.se","category":"cookie_cat_necessary"}]}
+GET 200 xhr application/json https://heatmaps.monsido.com/v1/settings/w9sd_AWnmye0P1FuteMZpA.json
+      {"customer_id":18451,"traffic_percentage":20,"rules":[{"url":"https://www.norrtalje.se/","map_type":["scroll","movement","click"]},{"url":"https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/","map_type":["scroll","movement","click"]},{"url":"https://www.norrtalje.se/info/kommun-och-politik/kontakt/","map_type":["scroll","movement","click"]}]}
+GET 200 xhr application/json https://www.vizzit.se/myvizzit/api/tag?pbk=6a637a3163446a392b5a6f303862397654544d6a55384b49684c494f6c695973567a50664647706a5872593d&host=www.norrtalje.se&path=%2Finfo%2Fkommun-och-politik%2Fpolitik-och-fortroendevalda%2Fkommunfullmaktige%2Fkommunfull
+      {"page": {"id": "52722"}, "tag": [{"id": 4, "criteria": [{"id": 4, "selector": "#HeaderNew .tabGroup .search-toggle-button.close-quick-search, #HeaderNew .tabGroup .desktopmenu", "event": [{"id": 5, "action": 0, "read": null}]}]}, {"id": 6, "criteria": [{"id": 6, "selector": ".searchform", "event": [{"id": 7, "action": 0, "read": null}]}]}, {"id": 7, "criteria": [{"id": 7, "selector": ".factsBox", "event": [{"id": 8, "action": 0, "read": null}]}]}, {"id": 8, "criteria": [{"id": 8, "selector": "a.calltoactionbutton", "event": [{"id": 9, "action": 0, "read": null}]}]}, {"id": 15, "criteria": [{"id": 15, "selector": "div.accordion-wrapper", "event": [{"id": 43, "action": 0, "read": null}]}]}, {"id": 16, "criteria": [{"id": 16, "selector": "input.customCheckbox ", "event": [{"id": 44, "action": 0, "read": null}]}]}, {"id": 17, "criteria": [{"id": 17, "selector": "div.listContainer", "event": [{"id": 45, "action": 0, "read": null}]}]}, {"id": 19, "criteria": [{"id": 19, "selector": "a.external-site", "event": [{"id": 51, "action": 0, "read": null}]}]}, {"id": 20, "criteria": [{"id": 20, "selector": "a.mailto", "event": [{"id": 52, "action": 0, "read": null}]}]}]}
+
+## Länkar (href | text | sammanhang)
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+javascript:TogglePage(this, 'coiPage-3'); | Läs mer om kakor | Vi och våra samarbetspartner använder tekniska lösningar, bland annat kakor, för att inhämta information om dig för olik
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://cookieinformation.com/cookie-and-privacy-policy/ | Cookie Information - Integritetspolicy | Integritetspolicy: Cookie Information - Integritetspolicy
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy | Integritetspolicy: Cloudflare - Integritetspolicy
+https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy | Integritetspolicy: Monsido - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11 | Internet Explorer | Internet Explorer
+https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies | Microsoft Edge | Microsoft Edge
+https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored | Mozilla Firefox | Mozilla Firefox
+https://support.google.com/chrome/answer/95647?hl=en | Google Chrome | Google Chrome
+https://help.opera.com/en/latest/web-preferences/#cookies | Opera | Opera
+https://support.apple.com/en-us/HT201265 | Safari | Safari
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html | Flash cookies | Flash cookies
+https://support.apple.com/en-us/HT1677 | Apple | Apple
+https://timeread.hubpages.com/hub/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device | Android | Android
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android | Chrome, Android
+javascript:CookieConsent.renew(); | Klicka här för att ändra ditt samtycke | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | Cookie Information | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | kontakta Cookie Information på deras webbplats | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Gå till innehåll | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#Navigation | Hoppa till snabblänkar | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/installningar/sok/ | Gå till söksida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/evenemang/ | Evenemang | Evenemang Självservice Kontakt
+https://www.norrtalje.se/sjalvservice/ | Självservice | Evenemang Självservice Kontakt
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt | Evenemang Självservice Kontakt
+https://www.norrtalje.se/ |  | 
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu | Meny | Meny MENY
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu |  | Meny
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+https://qcnl.tv/p/gn4z__yLC3XHHhGuvaiHaw | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv) | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/cF5nyFvENGe8jrZfsHdr0w | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv) | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/eceEo-3hEryX6_HiKH9c9g | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv) | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/-q85wIeN1GYZALapt1Xw-A | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv) | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/6WPABqAiMo_PbVadCV_SSQ | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv) | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/wjErf5ieHaFlkQkBSNxCwg | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv) | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/AtygD8aMmNbSB-CW7_OTQw | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv) | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/rTg-OcTO1r2iN9xvvvqc0w | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv) | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/5DTw8YL3tF9NxVB-Cr3GfQ | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv) | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/siwtgTg8SD0W4BcDZObIYA | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv) | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober | Kommunfullmäktige i korthet 19 oktober
+https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre | Fyra partier presenterar förslag till fortsatt politiskt styre
+https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september | Kommunfullmäktige i korthet 21 september
+https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/ | Kommunfullmäktige i korthet 10 juni | Kommunfullmäktige i korthet 10 juni
+https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/ | Kommunfullmäktige i korthet 25 maj | Kommunfullmäktige i korthet 25 maj
+https://www.norrtalje.se/nyheterna/2025-06/har-ar-budgeten-omrade-for-omrade/ | Styrets budget 2026–2028, område för område | Styrets budget 2026–2028, område för område
+https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/ | Idag är det Kommunfullmäktige | Idag är det Kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige | Fler nyheter om kommunfullmäktige
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+mailto:kontaktcenter@norrtalje.se | kontaktcenter@norrtalje.se | E-post: kontaktcenter@norrtalje.se
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar | Fler kontaktvägar
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid | Journummer utanför kontorstid
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://campusroslagen.se/ | Campus Roslagen | Campus Roslagen
+https://www.norrtaljeenergi.se/ | Norrtälje Energi | Norrtälje Energi
+https://www.nvaa.se/ | Norrtälje Vatten och Avfall | Norrtälje Vatten och Avfall
+https://www.roslagsbostader.se/ | Roslagsbostäder | Roslagsbostäder
+https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON) | Sjukvård och omsorg i Norrtälje (KSON)
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.norrtalje.se/sjalvservice/ | Självservice | Självservice
+https://www.norrtalje.se/evenemang/ | Evenemangskalender | Evenemangskalender
+https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi | Suomeksi
+https://www.norrtalje.se/info/jobb-och-foretag/jobba-hos-oss/ | Lediga jobb | Lediga jobb
+https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta | Karta
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Close menu | 
+https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter | Självservice – e-tjänster och blanketter
+https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter | Nyheter
+https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Open submenu | Visit Norrtälje
+https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Open submenu | Barn & skola
+https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-194 | Open submenu | Bygga, bo & miljö
+https://www.norrtalje.se/info/jobb-och-foretag/ | Jobb & företag | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-470 | Open submenu | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-488 | Open submenu | Kommun & politik
+https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid | Kultur & fritid
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-534 | Open submenu | Kultur & fritid
+https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg | Stöd, vård & omsorg
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-670 | Open submenu | Stöd, vård & omsorg
+https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker | Trafik, gator & parker
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-728 | Open submenu | Trafik, gator & parker
+https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet | Trygghet & säkerhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-754 | Open submenu | Trygghet & säkerhet
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Visit Norrtälje | Visit Norrtälje
+https://roslagen.se/mellersta-roslagen/ | Destination roslagen | Destination roslagen
+https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-4 | Open submenu | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur | Natur
+https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur | Kultur
+https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser | Äventyr och upplevelser
+https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors | For visitors
+https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation | Turistinformation
+https://www.norrtalje.se/evenemang/ | Evenemangskalendern | Evenemangskalendern
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Close submenu | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Skärgård | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar | Gästhamnar
+https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun | Platser Norrtälje kommun
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Open submenu | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem | Grundskola och fritidshem
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-82 | Open submenu | Grundskola och fritidshem
+https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola | Gymnasieskola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-148 | Open submenu | Gymnasieskola
+https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-178 | Open submenu | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola | Anpassad skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-188 | Open submenu | Anpassad skola
+https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända | Plats på skola och förskola för nyanlända
+https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser | Olyckor och kriser
+https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen | Lämna klagomål till barn- och utbildningsförvaltningen
+https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-190 | Open submenu | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-192 | Open submenu | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan | Skolgalan
+
+## Knappar
+NEKA ALLA
+Spara inställningar
+GODKÄNN ALLA
+Anpassa
+Dölj detaljer
+Nödvändiga
+Funktionella
+Statistiska
+Marketing
+Oklassificerade
+Inställningar
+Godkänn alla
+Hoppa till snabblänkar
+Sök på hela sajten på desktop
+Sök på hela sajten på mobilen
+
+## HTML (början av body)
+<body id="InfoPage" data-pageid="52722" data-sessionid="05tkhpw0qphmwsxo5lkkb0wc" class="mm-wrapper mm-wrapper--position-right-front" style=""><div id="cookie-information-template-wrapper" style="display: block;"><style>/** Template name: Overlay v2 URI: https://cookieinformation.com Version 1.0.4 **/ .noScroll,.noScroll body{ overflow:hidden !important; position: relative; height: 100%; } #coi-banner-wrapper * { -webkit-font-smoothing: antialiased; box-sizing: border-box; white-space: normal; text-align: left; line-height: normal; } #coi-banner-categories{ display:none !important; } /* Focus Ring Style */ #coi-banner-wrapper *:focus, .coi-checkboxes input:focus + .checkbox-toggle, #Coi-Renew:focus{ border:solid 2px white !important; outline-width:2px !important; outline-style:solid !important; outline-color:black; } .coi-checkboxes input:focus + .checkbox-toggle { box-sizing: content-box !important; } #coiConsentBannerCategoriesWrapper:focus { outline-offset: -2px !important; } .coi-banner__wrapper:focus { outline: none !important; } #Coi-Renew { display: none; box-sizing: border-box; position: fixed; left: 0; bottom: 0; width: 60px; height: 60px; background: #fff; z-index: 99999999999; padding: 10px; border:0; cursor: pointer; border-top-right-radius: 50%; transform: scale(.7); transform-origin: bottom left; transition: all .3s ease; } #Coi-Renew:hover { transform: scale(1); } #Coi-Renew svg { width: 100%; } #Coi-Renew .renew_path { fill: #2C622C !important; } #coiOverlay { background: rgba(0, 0, 0, .7); display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; justify-content: center; align-items: center; z-index: 99999999999; padding: 20px; box-sizing: border-box; } .coi-banner__wrapper { width: 600px; max-width: 100%; max-height: 100%; background: #fff; overflow-x: hidden; border-radius: 5px; } .coi-banner__wrapper::-webkit-scrollbar-thumb { background-color: #ccc !important; border-radius: 5px; z-index:11000; } .coi-banner__wrapper::-webkit-scrollbar-track { background-color: none; } .coi-banner__wrapper::-webkit-scrollbar { width: 6px; background-color: #f5f5f5; border-radius: 2px; } .coi-banner__wrapper ul,.coi-banner__wrapper ol{ padding:0; list-style-position: inside; } .coi-banner__page { background:#f6f6f6; flex: 1; flex-direction: column; align-items: flex-end; display:block; height:100%; color: #000000; font-size:15px; } .coi-banner__page p{ font-size:1em; } .cookiedeclaration_wrapper h2, .cookiedeclaration_wrapper h3, .cookiedeclaration_wrapper p{ margin-bottom:1em; } .cookiedeclaration_wrapper h2{ font-size:25px; } .cookiedeclaration_wrapper h3{ font-size:20px; } .coi-banner__summary, .coi-banner__cookiedeclaration, .cookiedeclaration_wrapper{ padding:40px; width: 100%; } .coi-banner__wrapper a[href]:not([disabled]){ text-decoration:underline; color:#234923; font-weight: 600; } .coi-banner__wrapper a[target="_blank"]{ text-decoration:underline !important; } .coi-banner__wrapper a[target="_blank"]:not(.coi-external-link):after{ margin: 0 3px 0 5px; content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==); } .coi-banner__header{ display: flex; width: 100%; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-direction: row; } .coi-banner__header img{ max-width:100%; } .coi-banner__maintext { line-height: 1.1 !important; font-size: 1em; font-weight: 400; white-space:pre-line !important; } .coi-banner__cookiedeclaration .coi-banner__maintext { white-space: normal !important; } .coi-banner__headline { display: block; font-size: 1.8em; line-height: 1.2em !important; font-weight: 500; margin-bottom: 20px; } .coi-banner__header .coi-banner__branding { font-size: 9px !important; color:#444444; } .coi-banner__header .coi-banner__branding a { display: block; text-decoration: none; color:#222222 !important; font-size: 10px; font-weight:bo
+
+######## SIDA: https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent
+Titel: Kommunfullmäktiges webbsändning - Kommun & politik | Norrtälje kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+javascript:TogglePage(this, 'coiPage-3'); | Läs mer om kakor | Vi och våra samarbetspartner använder tekniska lösningar, bland annat kakor, för att inhämta information om dig för olik
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://cookieinformation.com/cookie-and-privacy-policy/ | Cookie Information - Integritetspolicy | Integritetspolicy: Cookie Information - Integritetspolicy
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy | Integritetspolicy: Cloudflare - Integritetspolicy
+https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy | Integritetspolicy: Monsido - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11 | Internet Explorer | Internet Explorer
+https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies | Microsoft Edge | Microsoft Edge
+https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored | Mozilla Firefox | Mozilla Firefox
+https://support.google.com/chrome/answer/95647?hl=en | Google Chrome | Google Chrome
+https://help.opera.com/en/latest/web-preferences/#cookies | Opera | Opera
+https://support.apple.com/en-us/HT201265 | Safari | Safari
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html | Flash cookies | Flash cookies
+https://support.apple.com/en-us/HT1677 | Apple | Apple
+https://timeread.hubpages.com/hub/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device | Android | Android
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android | Chrome, Android
+javascript:CookieConsent.renew(); | Klicka här för att ändra ditt samtycke | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | Cookie Information | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | kontakta Cookie Information på deras webbplats | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Gå till innehåll | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#Navigation | Hoppa till snabblänkar | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/installningar/sok/ | Gå till söksida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/evenemang/ | Evenemang | Evenemang Självservice Kontakt
+https://www.norrtalje.se/sjalvservice/ | Självservice | Evenemang Självservice Kontakt
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt | Evenemang Självservice Kontakt
+https://www.norrtalje.se/ |  | 
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu | Meny | Meny MENY
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu |  | Meny
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+https://qcnl.tv/p/gn4z__yLC3XHHhGuvaiHaw | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv) | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/cF5nyFvENGe8jrZfsHdr0w | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv) | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/eceEo-3hEryX6_HiKH9c9g | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv) | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/-q85wIeN1GYZALapt1Xw-A | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv) | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/6WPABqAiMo_PbVadCV_SSQ | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv) | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/wjErf5ieHaFlkQkBSNxCwg | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv) | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/AtygD8aMmNbSB-CW7_OTQw | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv) | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/rTg-OcTO1r2iN9xvvvqc0w | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv) | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/5DTw8YL3tF9NxVB-Cr3GfQ | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv) | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/siwtgTg8SD0W4BcDZObIYA | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv) | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober | Kommunfullmäktige i korthet 19 oktober
+https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre | Fyra partier presenterar förslag till fortsatt politiskt styre
+https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september | Kommunfullmäktige i korthet 21 september
+https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/ | Kommunfullmäktige i korthet 10 juni | Kommunfullmäktige i korthet 10 juni
+https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/ | Kommunfullmäktige i korthet 25 maj | Kommunfullmäktige i korthet 25 maj
+https://www.norrtalje.se/nyheterna/2025-06/har-ar-budgeten-omrade-for-omrade/ | Styrets budget 2026–2028, område för område | Styrets budget 2026–2028, område för område
+https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/ | Idag är det Kommunfullmäktige | Idag är det Kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige | Fler nyheter om kommunfullmäktige
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+mailto:kontaktcenter@norrtalje.se | kontaktcenter@norrtalje.se | E-post: kontaktcenter@norrtalje.se
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar | Fler kontaktvägar
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid | Journummer utanför kontorstid
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://campusroslagen.se/ | Campus Roslagen | Campus Roslagen
+https://www.norrtaljeenergi.se/ | Norrtälje Energi | Norrtälje Energi
+https://www.nvaa.se/ | Norrtälje Vatten och Avfall | Norrtälje Vatten och Avfall
+https://www.roslagsbostader.se/ | Roslagsbostäder | Roslagsbostäder
+https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON) | Sjukvård och omsorg i Norrtälje (KSON)
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.norrtalje.se/sjalvservice/ | Självservice | Självservice
+https://www.norrtalje.se/evenemang/ | Evenemangskalender | Evenemangskalender
+https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi | Suomeksi
+https://www.norrtalje.se/info/jobb-och-foretag/jobba-hos-oss/ | Lediga jobb | Lediga jobb
+https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta | Karta
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Close menu | 
+https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter | Självservice – e-tjänster och blanketter
+https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter | Nyheter
+https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Open submenu | Visit Norrtälje
+https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Open submenu | Barn & skola
+https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-194 | Open submenu | Bygga, bo & miljö
+https://www.norrtalje.se/info/jobb-och-foretag/ | Jobb & företag | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-470 | Open submenu | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-488 | Open submenu | Kommun & politik
+https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid | Kultur & fritid
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-534 | Open submenu | Kultur & fritid
+https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg | Stöd, vård & omsorg
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-670 | Open submenu | Stöd, vård & omsorg
+https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker | Trafik, gator & parker
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-728 | Open submenu | Trafik, gator & parker
+https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet | Trygghet & säkerhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-754 | Open submenu | Trygghet & säkerhet
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Visit Norrtälje | Visit Norrtälje
+https://roslagen.se/mellersta-roslagen/ | Destination roslagen | Destination roslagen
+https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-4 | Open submenu | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur | Natur
+https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur | Kultur
+https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser | Äventyr och upplevelser
+https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors | For visitors
+https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation | Turistinformation
+https://www.norrtalje.se/evenemang/ | Evenemangskalendern | Evenemangskalendern
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Close submenu | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Skärgård | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar | Gästhamnar
+https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun | Platser Norrtälje kommun
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Open submenu | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem | Grundskola och fritidshem
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-82 | Open submenu | Grundskola och fritidshem
+https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola | Gymnasieskola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-148 | Open submenu | Gymnasieskola
+https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-178 | Open submenu | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola | Anpassad skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-188 | Open submenu | Anpassad skola
+https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända | Plats på skola och förskola för nyanlända
+https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser | Olyckor och kriser
+https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen | Lämna klagomål till barn- och utbildningsförvaltningen
+https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-190 | Open submenu | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-192 | Open submenu | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan | Skolgalan
+
+## Knappar
+NEKA ALLA
+Spara inställningar
+GODKÄNN ALLA
+Anpassa
+Dölj detaljer
+Nödvändiga
+Funktionella
+Statistiska
+Marketing
+Oklassificerade
+Inställningar
+Godkänn alla
+Hoppa till snabblänkar
+Sök på hela sajten på desktop
+Sök på hela sajten på mobilen
+
+## HTML (början av body)
+<body id="InfoPage" data-pageid="52722" data-sessionid="05tkhpw0qphmwsxo5lkkb0wc" class="mm-wrapper mm-wrapper--position-right-front" style=""><div id="cookie-information-template-wrapper" style="display: block;"><style>/** Template name: Overlay v2 URI: https://cookieinformation.com Version 1.0.4 **/ .noScroll,.noScroll body{ overflow:hidden !important; position: relative; height: 100%; } #coi-banner-wrapper * { -webkit-font-smoothing: antialiased; box-sizing: border-box; white-space: normal; text-align: left; line-height: normal; } #coi-banner-categories{ display:none !important; } /* Focus Ring Style */ #coi-banner-wrapper *:focus, .coi-checkboxes input:focus + .checkbox-toggle, #Coi-Renew:focus{ border:solid 2px white !important; outline-width:2px !important; outline-style:solid !important; outline-color:black; } .coi-checkboxes input:focus + .checkbox-toggle { box-sizing: content-box !important; } #coiConsentBannerCategoriesWrapper:focus { outline-offset: -2px !important; } .coi-banner__wrapper:focus { outline: none !important; } #Coi-Renew { display: none; box-sizing: border-box; position: fixed; left: 0; bottom: 0; width: 60px; height: 60px; background: #fff; z-index: 99999999999; padding: 10px; border:0; cursor: pointer; border-top-right-radius: 50%; transform: scale(.7); transform-origin: bottom left; transition: all .3s ease; } #Coi-Renew:hover { transform: scale(1); } #Coi-Renew svg { width: 100%; } #Coi-Renew .renew_path { fill: #2C622C !important; } #coiOverlay { background: rgba(0, 0, 0, .7); display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; justify-content: center; align-items: center; z-index: 99999999999; padding: 20px; box-sizing: border-box; } .coi-banner__wrapper { width: 600px; max-width: 100%; max-height: 100%; background: #fff; overflow-x: hidden; border-radius: 5px; } .coi-banner__wrapper::-webkit-scrollbar-thumb { background-color: #ccc !important; border-radius: 5px; z-index:11000; } .coi-banner__wrapper::-webkit-scrollbar-track { background-color: none; } .coi-banner__wrapper::-webkit-scrollbar { width: 6px; background-color: #f5f5f5; border-radius: 2px; } .coi-banner__wrapper ul,.coi-banner__wrapper ol{ padding:0; list-style-position: inside; } .coi-banner__page { background:#f6f6f6; flex: 1; flex-direction: column; align-items: flex-end; display:block; height:100%; color: #000000; font-size:15px; } .coi-banner__page p{ font-size:1em; } .cookiedeclaration_wrapper h2, .cookiedeclaration_wrapper h3, .cookiedeclaration_wrapper p{ margin-bottom:1em; } .cookiedeclaration_wrapper h2{ font-size:25px; } .cookiedeclaration_wrapper h3{ font-size:20px; } .coi-banner__summary, .coi-banner__cookiedeclaration, .cookiedeclaration_wrapper{ padding:40px; width: 100%; } .coi-banner__wrapper a[href]:not([disabled]){ text-decoration:underline; color:#234923; font-weight: 600; } .coi-banner__wrapper a[target="_blank"]{ text-decoration:underline !important; } .coi-banner__wrapper a[target="_blank"]:not(.coi-external-link):after{ margin: 0 3px 0 5px; content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==); } .coi-banner__header{ display: flex; width: 100%; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-direction: row; } .coi-banner__header img{ max-width:100%; } .coi-banner__maintext { line-height: 1.1 !important; font-size: 1em; font-weight: 400; white-space:pre-line !important; } .coi-banner__cookiedeclaration .coi-banner__maintext { white-space: normal !important; } .coi-banner__headline { display: block; font-size: 1.8em; line-height: 1.2em !important; font-weight: 500; margin-bottom: 20px; } .coi-banner__header .coi-banner__branding { font-size: 9px !important; color:#444444; } .coi-banner__header .coi-banner__branding a { display: block; text-decoration: none; color:#222222 !important; font-size: 10px; font-weight:bo
+
+######## SIDA: https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#Navigation
+Titel: Kommunfullmäktiges webbsändning - Kommun & politik | Norrtälje kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+javascript:TogglePage(this, 'coiPage-3'); | Läs mer om kakor | Vi och våra samarbetspartner använder tekniska lösningar, bland annat kakor, för att inhämta information om dig för olik
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://cookieinformation.com/cookie-and-privacy-policy/ | Cookie Information - Integritetspolicy | Integritetspolicy: Cookie Information - Integritetspolicy
+https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy | Integritetspolicy: Microsoft, ASP.NET - Integritetspolicy
+https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy | Integritetspolicy: Cloudflare - Integritetspolicy
+https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy | Integritetspolicy: Monsido - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy | Integritetspolicy: Episerver - Integritetspolicy
+https://cookieinformation.com/ | Cookie Information | powered by: Cookie Information
+https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11 | Internet Explorer | Internet Explorer
+https://support.microsoft.com/en-us/help/4027947/microsoft-edge-delete-cookies | Microsoft Edge | Microsoft Edge
+https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored | Mozilla Firefox | Mozilla Firefox
+https://support.google.com/chrome/answer/95647?hl=en | Google Chrome | Google Chrome
+https://help.opera.com/en/latest/web-preferences/#cookies | Opera | Opera
+https://support.apple.com/en-us/HT201265 | Safari | Safari
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html | Flash cookies | Flash cookies
+https://support.apple.com/en-us/HT1677 | Apple | Apple
+https://timeread.hubpages.com/hub/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device | Android | Android
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android | Chrome, Android
+javascript:CookieConsent.renew(); | Klicka här för att ändra ditt samtycke | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | Cookie Information | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://cookieinformation.com/ | kontakta Cookie Information på deras webbplats | Var är en kaka (cookie)? En kaka eller cookie är en liten datafil som lagras i din dator, surfplatta eller smartmobil. E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Gå till innehåll | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#Navigation | Hoppa till snabblänkar | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/installningar/sok/ | Gå till söksida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida | Gå till innehåll Hoppa till snabblänkar Gå till nyhetsarkiv Gå till Om webbplatsen Gå till söksida Gå till kontaktsida E
+https://www.norrtalje.se/evenemang/ | Evenemang | Evenemang Självservice Kontakt
+https://www.norrtalje.se/sjalvservice/ | Självservice | Evenemang Självservice Kontakt
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt | Evenemang Självservice Kontakt
+https://www.norrtalje.se/ |  | 
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu | Meny | Meny MENY
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu |  | Meny
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+https://qcnl.tv/p/gn4z__yLC3XHHhGuvaiHaw | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv) | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/cF5nyFvENGe8jrZfsHdr0w | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv) | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/eceEo-3hEryX6_HiKH9c9g | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv) | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/-q85wIeN1GYZALapt1Xw-A | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv) | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/6WPABqAiMo_PbVadCV_SSQ | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv) | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/wjErf5ieHaFlkQkBSNxCwg | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv) | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/AtygD8aMmNbSB-CW7_OTQw | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv) | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://qcnl.tv/p/rTg-OcTO1r2iN9xvvvqc0w | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv) | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/5DTw8YL3tF9NxVB-Cr3GfQ | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv) | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv)
+https://qcnl.tv/p/siwtgTg8SD0W4BcDZObIYA | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv) | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv)
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober | Kommunfullmäktige i korthet 19 oktober
+https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre | Fyra partier presenterar förslag till fortsatt politiskt styre
+https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september | Kommunfullmäktige i korthet 21 september
+https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/ | Kommunfullmäktige i korthet 10 juni | Kommunfullmäktige i korthet 10 juni
+https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/ | Kommunfullmäktige i korthet 25 maj | Kommunfullmäktige i korthet 25 maj
+https://www.norrtalje.se/nyheterna/2025-06/har-ar-budgeten-omrade-for-omrade/ | Styrets budget 2026–2028, område för område | Styrets budget 2026–2028, område för område
+https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/ | Idag är det Kommunfullmäktige | Idag är det Kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige | Fler nyheter om kommunfullmäktige
+https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se) | Ledamöter i kommunfullmäktige (tromanpublik.se)
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige | Dagordning inför kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige | Webb-tv från kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige | Nyhetsarkiv kommunfullmäktige
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider | Sammanträdelsetider
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll | Handlingar och protokoll
+https://www.norrtalje.se/ | Start | Start /
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda | Politik och förtroendevalda /
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige | Kommunfullmäktige /
+mailto:kontaktcenter@norrtalje.se | kontaktcenter@norrtalje.se | E-post: kontaktcenter@norrtalje.se
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar | Fler kontaktvägar
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid | Journummer utanför kontorstid
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website | Följ oss Norrtälje kommun i sociala medier Translate Translate Norrtälje kommun's website
+https://campusroslagen.se/ | Campus Roslagen | Campus Roslagen
+https://www.norrtaljeenergi.se/ | Norrtälje Energi | Norrtälje Energi
+https://www.nvaa.se/ | Norrtälje Vatten och Avfall | Norrtälje Vatten och Avfall
+https://www.roslagsbostader.se/ | Roslagsbostäder | Roslagsbostäder
+https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON) | Sjukvård och omsorg i Norrtälje (KSON)
+https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.norrtalje.se/sjalvservice/ | Självservice | Självservice
+https://www.norrtalje.se/evenemang/ | Evenemangskalender | Evenemangskalender
+https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi | Suomeksi
+https://www.norrtalje.se/info/jobb-och-foretag/jobba-hos-oss/ | Lediga jobb | Lediga jobb
+https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta | Karta
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Close menu | 
+https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter | Självservice – e-tjänster och blanketter
+https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter | Nyheter
+https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Open submenu | Visit Norrtälje
+https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Open submenu | Barn & skola
+https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-194 | Open submenu | Bygga, bo & miljö
+https://www.norrtalje.se/info/jobb-och-foretag/ | Jobb & företag | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-470 | Open submenu | Jobb & företag
+https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik | Kommun & politik
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-488 | Open submenu | Kommun & politik
+https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid | Kultur & fritid
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-534 | Open submenu | Kultur & fritid
+https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg | Stöd, vård & omsorg
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-670 | Open submenu | Stöd, vård & omsorg
+https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker | Trafik, gator & parker
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-728 | Open submenu | Trafik, gator & parker
+https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet | Trygghet & säkerhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-754 | Open submenu | Trygghet & säkerhet
+https://www.norrtalje.se/info/logga-in/ | Logga in som medarbetare | Logga in som medarbetare
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Visit Norrtälje
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Visit Norrtälje | Visit Norrtälje
+https://roslagen.se/mellersta-roslagen/ | Destination roslagen | Destination roslagen
+https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-4 | Open submenu | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur | Natur
+https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur | Kultur
+https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser | Äventyr och upplevelser
+https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors | For visitors
+https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation | Turistinformation
+https://www.norrtalje.se/evenemang/ | Evenemangskalendern | Evenemangskalendern
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Close submenu | Skärgård
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Skärgård | Skärgård
+https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar | Gästhamnar
+https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun | Platser Norrtälje kommun
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu | Barn & skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Barn & skola | Barn & skola
+https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Open submenu | Förskola och annan pedagogisk verksamhet
+https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem | Grundskola och fritidshem
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-82 | Open submenu | Grundskola och fritidshem
+https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola | Gymnasieskola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-148 | Open submenu | Gymnasieskola
+https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-178 | Open submenu | Norrtälje Kompetenscentrum
+https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola | Anpassad skola
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-188 | Open submenu | Anpassad skola
+https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända | Plats på skola och förskola för nyanlända
+https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser | Olyckor och kriser
+https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen | Lämna klagomål till barn- och utbildningsförvaltningen
+https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-190 | Open submenu | Måltider i förskolan och grundskolan
+https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-192 | Open submenu | Norrtälje kommuns lärplattform
+https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan | Skolgalan
+
+## Knappar
+NEKA ALLA
+Spara inställningar
+GODKÄNN ALLA
+Anpassa
+Dölj detaljer
+Nödvändiga
+Funktionella
+Statistiska
+Marketing
+Oklassificerade
+Inställningar
+Godkänn alla
+Hoppa till snabblänkar
+Sök på hela sajten på desktop
+Sök på hela sajten på mobilen
+
+## HTML (början av body)
+<body id="InfoPage" data-pageid="52722" data-sessionid="05tkhpw0qphmwsxo5lkkb0wc" class="mm-wrapper mm-wrapper--position-right-front" style=""><div id="cookie-information-template-wrapper" style="display: block;"><style>/** Template name: Overlay v2 URI: https://cookieinformation.com Version 1.0.4 **/ .noScroll,.noScroll body{ overflow:hidden !important; position: relative; height: 100%; } #coi-banner-wrapper * { -webkit-font-smoothing: antialiased; box-sizing: border-box; white-space: normal; text-align: left; line-height: normal; } #coi-banner-categories{ display:none !important; } /* Focus Ring Style */ #coi-banner-wrapper *:focus, .coi-checkboxes input:focus + .checkbox-toggle, #Coi-Renew:focus{ border:solid 2px white !important; outline-width:2px !important; outline-style:solid !important; outline-color:black; } .coi-checkboxes input:focus + .checkbox-toggle { box-sizing: content-box !important; } #coiConsentBannerCategoriesWrapper:focus { outline-offset: -2px !important; } .coi-banner__wrapper:focus { outline: none !important; } #Coi-Renew { display: none; box-sizing: border-box; position: fixed; left: 0; bottom: 0; width: 60px; height: 60px; background: #fff; z-index: 99999999999; padding: 10px; border:0; cursor: pointer; border-top-right-radius: 50%; transform: scale(.7); transform-origin: bottom left; transition: all .3s ease; } #Coi-Renew:hover { transform: scale(1); } #Coi-Renew svg { width: 100%; } #Coi-Renew .renew_path { fill: #2C622C !important; } #coiOverlay { background: rgba(0, 0, 0, .7); display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; justify-content: center; align-items: center; z-index: 99999999999; padding: 20px; box-sizing: border-box; } .coi-banner__wrapper { width: 600px; max-width: 100%; max-height: 100%; background: #fff; overflow-x: hidden; border-radius: 5px; } .coi-banner__wrapper::-webkit-scrollbar-thumb { background-color: #ccc !important; border-radius: 5px; z-index:11000; } .coi-banner__wrapper::-webkit-scrollbar-track { background-color: none; } .coi-banner__wrapper::-webkit-scrollbar { width: 6px; background-color: #f5f5f5; border-radius: 2px; } .coi-banner__wrapper ul,.coi-banner__wrapper ol{ padding:0; list-style-position: inside; } .coi-banner__page { background:#f6f6f6; flex: 1; flex-direction: column; align-items: flex-end; display:block; height:100%; color: #000000; font-size:15px; } .coi-banner__page p{ font-size:1em; } .cookiedeclaration_wrapper h2, .cookiedeclaration_wrapper h3, .cookiedeclaration_wrapper p{ margin-bottom:1em; } .cookiedeclaration_wrapper h2{ font-size:25px; } .cookiedeclaration_wrapper h3{ font-size:20px; } .coi-banner__summary, .coi-banner__cookiedeclaration, .cookiedeclaration_wrapper{ padding:40px; width: 100%; } .coi-banner__wrapper a[href]:not([disabled]){ text-decoration:underline; color:#234923; font-weight: 600; } .coi-banner__wrapper a[target="_blank"]{ text-decoration:underline !important; } .coi-banner__wrapper a[target="_blank"]:not(.coi-external-link):after{ margin: 0 3px 0 5px; content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==); } .coi-banner__header{ display: flex; width: 100%; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-direction: row; } .coi-banner__header img{ max-width:100%; } .coi-banner__maintext { line-height: 1.1 !important; font-size: 1em; font-weight: 400; white-space:pre-line !important; } .coi-banner__cookiedeclaration .coi-banner__maintext { white-space: normal !important; } .coi-banner__headline { display: block; font-size: 1.8em; line-height: 1.2em !important; font-weight: 500; margin-bottom: 20px; } .coi-banner__header .coi-banner__branding { font-size: 9px !important; color:#444444; } .coi-banner__header .coi-banner__branding a { display: block; text-decoration: none; color:#222222 !important; font-size: 10px; font-weight:bo

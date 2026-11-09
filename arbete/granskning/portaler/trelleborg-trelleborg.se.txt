@@ -1,0 +1,565 @@
+Kommun: Trelleborg  nyckel: trelleborg.se
+
+######## SIDA: https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/
+Titel: Kommunfullmäktige - Trelleborgs kommun
+
+## Dataanrop
+GET 200 document text/html; charset=UTF-8 https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/
+GET 200 fetch application/json; charset=UTF-8 https://www.trelleborg.se/wp-json/municipio/v1/view/render/partials/preloader?
+      "<!-- nav-useHbg.blade.php -->\n      <ul class=\"c-nav preloader c-nav--depth-1 unlist c-nav--vertical\" aria-orientation=\"vertical\" role=\"menu\" js-keep-in-viewport-after-resize=\"1\" id=\"6af170dc6060d\" data-uid=\"6af170dc6060d\">\n              <li id=\"6af170dc6060d-3349921177962392742-0__item\"\n          class=\"u-preloader u-preloader__opacity--9 c-nav__item c-nav__item--default c-nav__item--depth-1\" role=\"menuitem\" data-depth=\"1\" aria-label=\"\">\n\n          <div class=\"c-nav__item-wrapper\">\n            \n                          <!-- Hidden link: Both label and icon is missing -->\n            \n            \n                      <\/div>\n\n          \n          \n        <\/li>\n          <\/ul>\n  "
+
+## Länkar (href | text | sammanhang)
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#article | Gå till innehåll | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#menu-sidebar | Gå till sidomeny | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/ |  | E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk
+https://eservice.trelleborg.se/ | E-tjänster | E-tjänster
+https://www.trelleborg.se/other-languages/lattlast/ | Lättläst | Lättläst
+https://www.trelleborg.se/other-languages/suomeksi/ | Suomeksi | Suomeksi
+https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Engelska | Engelska
+https://translate.google.com/translate?sl=sv&tl=de&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Tyska | Tyska
+https://translate.google.com/translate?sl=sv&tl=ar&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Arabiska | Arabiska
+https://translate.google.com/translate?sl=sv&tl=fi&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Finska | Finska
+https://trelleborg-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Fler språk | Engelska Tyska
+https://www.trelleborg.se/ | Hem | Hem
+https://www.trelleborg.se/kommun-politik/ | Kommun och politik | Kommun och politik
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ | Kommunens organisation | Kommunens organisation
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/# | Skriv ut | Skriv ut
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ | Partier i fullmäktige | Partier i fullmäktige
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ | Kommunfullmäktiges arbetsordningar | Kommunfullmäktiges arbetsordningar
+https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober. | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund | Allmänhetens frågestund | Kommunfullmäktige Partier i fullmäktige Kommunfullmäktiges arbetsordningar Kommunfullmäktige är Trelleborgs motsvarighet
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f34e | Tidigare sammanträden 2026 | Tidigare sammanträden 2026
+https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f5c5 | Tidigare sammanträden 2025 | Tidigare sammanträden 2025
+https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/OFnxBr-P2PaaV8HOUR0hDg | Kommunfullmäktiges sammanträde 28 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/v-niA8Y4hCxpOAPO_bOMNg | Extrainsatt sammanträde 19 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/lSkjTcxkvtbtdr8wPVwuiQ | Kommunfullmäktiges sammanträde 26 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/vas7T1DBRnyEty31n6iXJw | Kommunfullmäktiges sammanträde 16 juni 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/O63s16Cr7Eu7jv_a1hn-YA | Kommunfullmäktiges sammanträde 22 september 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f70d | Tidigare sammanträden 2024 | Tidigare sammanträden 2024
+https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/p6ui982 | Kommunfullmäktiges sammanträde (extra) 13 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/vcz2002 | Kommunfullmäktiges sammanträde 20 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/y5ppv49 | Kommunfullmäktiges sammanträde 17 juni 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f834 | Tidigare sammanträden 2023 | Tidigare sammanträden 2023
+https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/5yiyjz9 | Kommunfullmäktiges sammanträde 20 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79xwxx | Kommunfullmäktiges sammanträde 17 april 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79zw31 | Kommunfullmäktiges sammanträde 22 maj 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/t23hpxv | Kommunfullmäktiges sammanträde 19 juni 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/8sssit6 | Kommunfullmäktiges sammanträde 25 september 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f9b7 | Tidigare sammanträden 2022 | Tidigare sammanträden 2022
+https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4usqujj | Kommunfullmäktiges sammanträde 14 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4uscj1c | Kommunfullmäktiges sammanträde 26 september 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220815 | Kommunfullmäktiges sammanträde 15 augusti 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220630 | Kommunfullmäktiges sammanträde 30 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220620 | Kommunfullmäktiges sammanträde 20 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220502 | Kommunfullmäktiges sammanträde 2 maj 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220321 | Kommunfullmäktiges sammanträde 21 mars 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220228 | Kommunfullmäktige sammanträde 28 februari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220131 | Kommunfullmäktiges sammanträde 31 januari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://moten.trelleborg.se/ | Kallelser och protokoll
+
+Kallelser till nämndernas sammanträden och protokoll fi | Kallelser och protokoll Kallelser till nämndernas sammanträden och protokoll finns i en egen portal, Meetings +. Här fin
+tel:0410-73%2030%2000%20(Kontaktcenter) | 0410-73 30 00 (Kontaktcenter) | 0410-73 30 00 (Kontaktcenter)
+mailto:trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se
+https://www.trelleborg.se/nyheter/upphandling-av-nytt-badhus-avbryts/ | Upphandling av nytt badhus avbryts
+20 oktober 2026 | Upphandling av nytt badhus avbryts 20 oktober 2026
+https://www.trelleborg.se/nyheter/dags-for-mandatperiodens-forsta-kommunfullmaktige/ | Dags för mandatperiodens första kommunfullmäktige
+16 oktober 2026 | Dags för mandatperiodens första kommunfullmäktige 16 oktober 2026
+https://www.trelleborg.se/nyheter/valresultatet-for-kommunvalet-ar-klart/ | Valresultatet för kommunvalet är klart
+28 september 2026 | Valresultatet för kommunvalet är klart 28 september 2026
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ | Kommunalråd och oppositionsråd | Kommunalråd och oppositionsråd
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ | Överförmyndaren | Överförmyndaren
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ | Revisionen | Revisionen
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ | Hur fungerar en kommun? | Hur fungerar en kommun?
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ | Förtroendevalda | Förtroendevalda
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ | Förvaltningar | Förvaltningar
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ | Kommunala bolag | Kommunala bolag
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ | Nämnder | Nämnder
+https://eservice.trelleborg.se/EServices/Common/BlockPage.aspx?eServiceName=TBG041&PageId=InfoPage | Fel­anmälan | Fel­anmälan
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/anslagstavla/ | Anslags­tavla | Anslags­tavla
+https://www.trelleborg.se/bygga-bo-miljo/avfall-och-atervinning/kallsortering-och-atervinning/atervinningscentraler/ | Återvinnings­centraler | Återvinnings­centraler
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/kartor/ | Kartor | Kartor
+https://www.trelleborg.se/naringsliv-arbete/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar | Fullmäktige live | Fullmäktige live
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgarforslag | Medborgarförslag | Medborgarförslag
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/sjalvbetjaning-e-tjanster-kundportaler-mina-sidor/ | Självbetjäning | Självbetjäning
+mailto:kontaktcenter@trelleborg.se | kontaktcenter@trelleborg.se | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ | Fler kontaktuppgifter | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.facebook.com/trelleborgskommun | Följ oss på Facebook | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.linkedin.com/company/trelleborgs-kommun/ | Följ oss på Linkedin | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.instagram.com/trelleborgs_kommun | Följ oss på Instagram | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.trelleborg.se/om-webbplatsen | Om webbplatsen | Om webbplatsen
+https://www.trelleborg.se/om-webbplatsen/cookies | Cookies | Cookies
+https://www.trelleborg.se/om-webbplatsen/creative-commons/ | Creative Commons | Creative Commons
+https://www.trelleborg.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.trelleborg.se/om-webbplatsen/personuppgifter/ | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.trelleborg.se/ |  | 
+https://www.trelleborg.se/barn-utbildning/ |  | 
+https://www.trelleborg.se/bygga-bo-miljo/ |  | 
+https://www.trelleborg.se/kommun-politik/ |  | 
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/ |  | 
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ |  | 
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/ |  | 
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/ |  | 
+https://www.trelleborg.se/kommun-politik/diarium-och-arkiv/ |  | 
+https://www.trelleborg.se/kommun-politik/nationella-minoriteter/ |  | 
+https://www.trelleborg.se/kommun-politik/internationellt-arbete-och-vanorter/ |  | 
+https://www.trelleborg.se/kommun-politik/en-miljon-ideer/ |  | 
+https://www.trelleborg.se/kommun-politik/politikerhandbok/ |  | 
+https://www.trelleborg.se/kommun-politik/hallbar-utveckling/ |  | 
+https://www.trelleborg.se/kommun-politik/platsvarumarket-trelleborg/ |  | 
+https://www.trelleborg.se/naringsliv-arbete/ |  | 
+https://www.trelleborg.se/omsorg-och-hjalp/ |  | 
+https://www.trelleborg.se/trafik-infrastruktur/ |  | 
+https://www.trelleborg.se/uppleva-gora/ |  | 
+https://www.trelleborg.se/turist/ |  | 
+https://www.trelleborg.se/press/ |  | 
+https://eservice.trelleborg.se/ |  | 
+https://www.trelleborg.se/other-languages/lattlast/ |  | 
+https://www.trelleborg.se/other-languages/suomeksi/ |  | 
+
+## Knappar
+Sök
+Språk
+Meny
+Sök
+Skriv ut
+Stäng
+Expandera: Barn och utbildning
+Expandera: Bygga, bo och miljö
+Expandera: Kommun och politik
+Expand: Fakta om kommunen
+Expand: Kontakta Trelleborgs kommun
+Expand: Kommunens organisation
+Expand: Kommunfullmäktige
+Expand: Nämnder
+Expand: Kommunala bolag
+Expand: Förvaltningar
+Expand: Hur fungerar en kommun?
+Expand: Revisionen
+Expand: Politik och demokrati
+Expand: Beslut, insyn och rättssäkerhet
+Expand: Diarium och arkiv
+Expand: Nationella minoriteter
+Expand: Internationellt arbete och vänorter
+Expand: En miljon idéer
+Expand: Politikerhandbok
+Expand: Hållbar utveckling
+Expandera: Näringsliv och arbete
+Expandera: Omsorg och hjälp
+Expandera: Trafik och resor
+Expandera: Uppleva och göra
+
+## HTML (början av body)
+<body class="layer-card wp-singular page-template-default page page-id-5638 page-parent page-child parent-pageid-5575 wp-theme-municipio no-js t-municipio-lts-2025" data-js-page-id="5638" data-js-post-type="page" style="--scrollbar: 0px"> <div class="site-wrapper"> <!-- header-business.blade.php --> <!-- header.blade.php --> <header class="c-header site-header c-header c-header--business" id="site-header" data-uid="6af17128ab677"> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#article" aria-label="Gå till innehåll" data-uid="6af17128ab448"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till innehåll </span> </span> </a> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#menu-sidebar" aria-label="Gå till sidomeny" data-uid="6af17128ab4f5"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till sidomeny </span> </span> </a> <div class="c-header__menu c-header__menu--primary"> <div class="o-container c-header__flex-content"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" id="" href="https://www.trelleborg.se" target="_top" data-uid="6af17128a2f55"> <!-- logotype.blade.php --> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af17128a2e72"> <img src="https://www.trelleborg.se/app/uploads/2021/06/tbg-kommun.svg" alt="Gå till startsidan" class="c-logotype__image"> </figure> </a> <div class=" c-header__tab-menu--standard "> <div class="c-header__inner-area tab-area u-display--none@xs u-display--none@sm"> <!-- nav-useHbg.blade.php --> <ul class="c-nav u-width--auto c-nav--height-sm c-nav--depth-1 unlist c-nav--horizontal" aria-orientation="horizontal" role="menu" js-keep-in-viewport-after-resize="1" id="tabs" data-uid="6af17128a30af"> <li id="tabs-2590-0__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="E-tjänster"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="E-tjänster" type="button" href="https://eservice.trelleborg.se/" id="tabs - 2590-0__label" data-uid="6af17128a31c2" data-js-original-link="https://eservice.trelleborg.se/"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> E-tjänster </span> </span> </a> </div> </li> <li id="tabs-2591-1__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Lättläst"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Lättläst" type="button" href="https://www.trelleborg.se/other-languages/lattlast/" id="tabs - 2591-1__label" data-uid="6af17128a329c"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Lättläst </span> </span> </a> </div> </li> <li id="tabs-277669-2__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Suomeksi"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Suomeksi" type="button" href="https://www.trelleborg.se/other-languages/suomeksi/" id="tabs - 277669-2__label" data-uid="6af17128a3366"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Suomeksi </span> </span> </a> </div> </li> </ul> </div> <div class="c-header__inner-area"> <!-- form.blade.php --> <form class="c-form search-form u-print-display--none u-display--flex@lg u-display--flex@xl u-display--none@xs u-display--none@sm u-display--none@md" id="header-search-form" data-uid="6af17128a4151" method="get" action="https://
+
+######## SIDA: https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#article
+Titel: Kommunfullmäktige - Trelleborgs kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#article | Gå till innehåll | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#menu-sidebar | Gå till sidomeny | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/ |  | E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk
+https://eservice.trelleborg.se/ | E-tjänster | E-tjänster
+https://www.trelleborg.se/other-languages/lattlast/ | Lättläst | Lättläst
+https://www.trelleborg.se/other-languages/suomeksi/ | Suomeksi | Suomeksi
+https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Engelska | Engelska
+https://translate.google.com/translate?sl=sv&tl=de&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Tyska | Tyska
+https://translate.google.com/translate?sl=sv&tl=ar&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Arabiska | Arabiska
+https://translate.google.com/translate?sl=sv&tl=fi&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Finska | Finska
+https://trelleborg-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Fler språk | Engelska Tyska
+https://www.trelleborg.se/ | Hem | Hem
+https://www.trelleborg.se/kommun-politik/ | Kommun och politik | Kommun och politik
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ | Kommunens organisation | Kommunens organisation
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/# | Skriv ut | Skriv ut
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ | Partier i fullmäktige | Partier i fullmäktige
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ | Kommunfullmäktiges arbetsordningar | Kommunfullmäktiges arbetsordningar
+https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober. | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund | Allmänhetens frågestund | Kommunfullmäktige Partier i fullmäktige Kommunfullmäktiges arbetsordningar Kommunfullmäktige är Trelleborgs motsvarighet
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f34e | Tidigare sammanträden 2026 | Tidigare sammanträden 2026
+https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f5c5 | Tidigare sammanträden 2025 | Tidigare sammanträden 2025
+https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/OFnxBr-P2PaaV8HOUR0hDg | Kommunfullmäktiges sammanträde 28 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/v-niA8Y4hCxpOAPO_bOMNg | Extrainsatt sammanträde 19 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/lSkjTcxkvtbtdr8wPVwuiQ | Kommunfullmäktiges sammanträde 26 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/vas7T1DBRnyEty31n6iXJw | Kommunfullmäktiges sammanträde 16 juni 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/O63s16Cr7Eu7jv_a1hn-YA | Kommunfullmäktiges sammanträde 22 september 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f70d | Tidigare sammanträden 2024 | Tidigare sammanträden 2024
+https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/p6ui982 | Kommunfullmäktiges sammanträde (extra) 13 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/vcz2002 | Kommunfullmäktiges sammanträde 20 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/y5ppv49 | Kommunfullmäktiges sammanträde 17 juni 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f834 | Tidigare sammanträden 2023 | Tidigare sammanträden 2023
+https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/5yiyjz9 | Kommunfullmäktiges sammanträde 20 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79xwxx | Kommunfullmäktiges sammanträde 17 april 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79zw31 | Kommunfullmäktiges sammanträde 22 maj 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/t23hpxv | Kommunfullmäktiges sammanträde 19 juni 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/8sssit6 | Kommunfullmäktiges sammanträde 25 september 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f9b7 | Tidigare sammanträden 2022 | Tidigare sammanträden 2022
+https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4usqujj | Kommunfullmäktiges sammanträde 14 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4uscj1c | Kommunfullmäktiges sammanträde 26 september 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220815 | Kommunfullmäktiges sammanträde 15 augusti 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220630 | Kommunfullmäktiges sammanträde 30 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220620 | Kommunfullmäktiges sammanträde 20 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220502 | Kommunfullmäktiges sammanträde 2 maj 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220321 | Kommunfullmäktiges sammanträde 21 mars 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220228 | Kommunfullmäktige sammanträde 28 februari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220131 | Kommunfullmäktiges sammanträde 31 januari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://moten.trelleborg.se/ | Kallelser och protokoll
+
+Kallelser till nämndernas sammanträden och protokoll fi | Kallelser och protokoll Kallelser till nämndernas sammanträden och protokoll finns i en egen portal, Meetings +. Här fin
+tel:0410-73%2030%2000%20(Kontaktcenter) | 0410-73 30 00 (Kontaktcenter) | 0410-73 30 00 (Kontaktcenter)
+mailto:trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se
+https://www.trelleborg.se/nyheter/upphandling-av-nytt-badhus-avbryts/ | Upphandling av nytt badhus avbryts
+20 oktober 2026 | Upphandling av nytt badhus avbryts 20 oktober 2026
+https://www.trelleborg.se/nyheter/dags-for-mandatperiodens-forsta-kommunfullmaktige/ | Dags för mandatperiodens första kommunfullmäktige
+16 oktober 2026 | Dags för mandatperiodens första kommunfullmäktige 16 oktober 2026
+https://www.trelleborg.se/nyheter/valresultatet-for-kommunvalet-ar-klart/ | Valresultatet för kommunvalet är klart
+28 september 2026 | Valresultatet för kommunvalet är klart 28 september 2026
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ | Kommunalråd och oppositionsråd | Kommunalråd och oppositionsråd
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ | Överförmyndaren | Överförmyndaren
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ | Revisionen | Revisionen
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ | Hur fungerar en kommun? | Hur fungerar en kommun?
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ | Förtroendevalda | Förtroendevalda
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ | Förvaltningar | Förvaltningar
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ | Kommunala bolag | Kommunala bolag
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ | Nämnder | Nämnder
+https://eservice.trelleborg.se/EServices/Common/BlockPage.aspx?eServiceName=TBG041&PageId=InfoPage | Fel­anmälan | Fel­anmälan
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/anslagstavla/ | Anslags­tavla | Anslags­tavla
+https://www.trelleborg.se/bygga-bo-miljo/avfall-och-atervinning/kallsortering-och-atervinning/atervinningscentraler/ | Återvinnings­centraler | Återvinnings­centraler
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/kartor/ | Kartor | Kartor
+https://www.trelleborg.se/naringsliv-arbete/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar | Fullmäktige live | Fullmäktige live
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgarforslag | Medborgarförslag | Medborgarförslag
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/sjalvbetjaning-e-tjanster-kundportaler-mina-sidor/ | Självbetjäning | Självbetjäning
+mailto:kontaktcenter@trelleborg.se | kontaktcenter@trelleborg.se | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ | Fler kontaktuppgifter | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.facebook.com/trelleborgskommun | Följ oss på Facebook | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.linkedin.com/company/trelleborgs-kommun/ | Följ oss på Linkedin | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.instagram.com/trelleborgs_kommun | Följ oss på Instagram | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.trelleborg.se/om-webbplatsen | Om webbplatsen | Om webbplatsen
+https://www.trelleborg.se/om-webbplatsen/cookies | Cookies | Cookies
+https://www.trelleborg.se/om-webbplatsen/creative-commons/ | Creative Commons | Creative Commons
+https://www.trelleborg.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.trelleborg.se/om-webbplatsen/personuppgifter/ | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.trelleborg.se/ |  | 
+https://www.trelleborg.se/barn-utbildning/ |  | 
+https://www.trelleborg.se/bygga-bo-miljo/ |  | 
+https://www.trelleborg.se/kommun-politik/ |  | 
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/ |  | 
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ |  | 
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/ |  | 
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/ |  | 
+https://www.trelleborg.se/kommun-politik/diarium-och-arkiv/ |  | 
+https://www.trelleborg.se/kommun-politik/nationella-minoriteter/ |  | 
+https://www.trelleborg.se/kommun-politik/internationellt-arbete-och-vanorter/ |  | 
+https://www.trelleborg.se/kommun-politik/en-miljon-ideer/ |  | 
+https://www.trelleborg.se/kommun-politik/politikerhandbok/ |  | 
+https://www.trelleborg.se/kommun-politik/hallbar-utveckling/ |  | 
+https://www.trelleborg.se/kommun-politik/platsvarumarket-trelleborg/ |  | 
+https://www.trelleborg.se/naringsliv-arbete/ |  | 
+https://www.trelleborg.se/omsorg-och-hjalp/ |  | 
+https://www.trelleborg.se/trafik-infrastruktur/ |  | 
+https://www.trelleborg.se/uppleva-gora/ |  | 
+https://www.trelleborg.se/turist/ |  | 
+https://www.trelleborg.se/press/ |  | 
+https://eservice.trelleborg.se/ |  | 
+https://www.trelleborg.se/other-languages/lattlast/ |  | 
+https://www.trelleborg.se/other-languages/suomeksi/ |  | 
+
+## Knappar
+Sök
+Språk
+Meny
+Sök
+Skriv ut
+Stäng
+Expandera: Barn och utbildning
+Expandera: Bygga, bo och miljö
+Expandera: Kommun och politik
+Expand: Fakta om kommunen
+Expand: Kontakta Trelleborgs kommun
+Expand: Kommunens organisation
+Expand: Kommunfullmäktige
+Expand: Nämnder
+Expand: Kommunala bolag
+Expand: Förvaltningar
+Expand: Hur fungerar en kommun?
+Expand: Revisionen
+Expand: Politik och demokrati
+Expand: Beslut, insyn och rättssäkerhet
+Expand: Diarium och arkiv
+Expand: Nationella minoriteter
+Expand: Internationellt arbete och vänorter
+Expand: En miljon idéer
+Expand: Politikerhandbok
+Expand: Hållbar utveckling
+Expandera: Näringsliv och arbete
+Expandera: Omsorg och hjälp
+Expandera: Trafik och resor
+Expandera: Uppleva och göra
+
+## HTML (början av body)
+<body class="layer-card wp-singular page-template-default page page-id-5638 page-parent page-child parent-pageid-5575 wp-theme-municipio no-js t-municipio-lts-2025" data-js-page-id="5638" data-js-post-type="page" style="--scrollbar: 0px"> <div class="site-wrapper"> <!-- header-business.blade.php --> <!-- header.blade.php --> <header class="c-header site-header c-header c-header--business" id="site-header" data-uid="6af17128ab677"> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#article" aria-label="Gå till innehåll" data-uid="6af17128ab448"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till innehåll </span> </span> </a> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#menu-sidebar" aria-label="Gå till sidomeny" data-uid="6af17128ab4f5"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till sidomeny </span> </span> </a> <div class="c-header__menu c-header__menu--primary"> <div class="o-container c-header__flex-content"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" id="" href="https://www.trelleborg.se" target="_top" data-uid="6af17128a2f55"> <!-- logotype.blade.php --> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af17128a2e72"> <img src="https://www.trelleborg.se/app/uploads/2021/06/tbg-kommun.svg" alt="Gå till startsidan" class="c-logotype__image"> </figure> </a> <div class=" c-header__tab-menu--standard "> <div class="c-header__inner-area tab-area u-display--none@xs u-display--none@sm"> <!-- nav-useHbg.blade.php --> <ul class="c-nav u-width--auto c-nav--height-sm c-nav--depth-1 unlist c-nav--horizontal" aria-orientation="horizontal" role="menu" js-keep-in-viewport-after-resize="1" id="tabs" data-uid="6af17128a30af"> <li id="tabs-2590-0__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="E-tjänster"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="E-tjänster" type="button" href="https://eservice.trelleborg.se/" id="tabs - 2590-0__label" data-uid="6af17128a31c2" data-js-original-link="https://eservice.trelleborg.se/"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> E-tjänster </span> </span> </a> </div> </li> <li id="tabs-2591-1__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Lättläst"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Lättläst" type="button" href="https://www.trelleborg.se/other-languages/lattlast/" id="tabs - 2591-1__label" data-uid="6af17128a329c"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Lättläst </span> </span> </a> </div> </li> <li id="tabs-277669-2__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Suomeksi"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Suomeksi" type="button" href="https://www.trelleborg.se/other-languages/suomeksi/" id="tabs - 277669-2__label" data-uid="6af17128a3366"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Suomeksi </span> </span> </a> </div> </li> </ul> </div> <div class="c-header__inner-area"> <!-- form.blade.php --> <form class="c-form search-form u-print-display--none u-display--flex@lg u-display--flex@xl u-display--none@xs u-display--none@sm u-display--none@md" id="header-search-form" data-uid="6af17128a4151" method="get" action="https://
+
+######## SIDA: https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#menu-sidebar
+Titel: Kommunfullmäktige - Trelleborgs kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#article | Gå till innehåll | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#menu-sidebar | Gå till sidomeny | Gå till innehåll Gå till sidomeny E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk Du är här: Hem Kommun och p
+https://www.trelleborg.se/ |  | E-tjänster Lättläst Suomeksi VAD LETAR DU EFTER? Sök Språk
+https://eservice.trelleborg.se/ | E-tjänster | E-tjänster
+https://www.trelleborg.se/other-languages/lattlast/ | Lättläst | Lättläst
+https://www.trelleborg.se/other-languages/suomeksi/ | Suomeksi | Suomeksi
+https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Engelska | Engelska
+https://translate.google.com/translate?sl=sv&tl=de&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Tyska | Tyska
+https://translate.google.com/translate?sl=sv&tl=ar&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Arabiska | Arabiska
+https://translate.google.com/translate?sl=sv&tl=fi&u=https%3A%2F%2Fwww.trelleborg.se%2Fkommun-politik%2Fkommunens-organisation%2Fkommunfullmaktige%2F | Finska | Finska
+https://trelleborg-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Fler språk | Engelska Tyska
+https://www.trelleborg.se/ | Hem | Hem
+https://www.trelleborg.se/kommun-politik/ | Kommun och politik | Kommun och politik
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ | Kommunens organisation | Kommunens organisation
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/# | Skriv ut | Skriv ut
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ | Partier i fullmäktige | Partier i fullmäktige
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ | Kommunfullmäktiges arbetsordningar | Kommunfullmäktiges arbetsordningar
+https://qcnl.tv/p/oUkh1OwGFpaiExjyy_QSGg | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober. | Kommunfullmäktiges nästa sammanträde är måndagen den 19 oktober.
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/allmanhetens-fragestund | Allmänhetens frågestund | Kommunfullmäktige Partier i fullmäktige Kommunfullmäktiges arbetsordningar Kommunfullmäktige är Trelleborgs motsvarighet
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f34e | Tidigare sammanträden 2026 | Tidigare sammanträden 2026
+https://qcnl.tv/p/HgHFJo_eiDuLR6BgbfOB6g | Kommunfullmäktiges sammanträde 23 februari 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/25AW-jQu6rDRoKi-N8UDzQ | Kommunfullmäktiges sammanträde 20 april 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/Hm7AbnYmkyvkwSJv4LQZJQ | Kommunfullmäktiges sammanträde 18 maj 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/r9rRnpF6949PlXwHno6omA | Kommunfullmäktiges sammanträde 8 juni 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://qcnl.tv/p/U6nWRrvzRr0o1t6Og-FSAg | Kommunfullmäktiges sammanträde 21 september 2026 | Kommunfullmäktiges sammanträde 23 februari 2026 Kommunfullmäktiges sammanträde 20 april 2026 Kommunfullmäktiges sammantr
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f5c5 | Tidigare sammanträden 2025 | Tidigare sammanträden 2025
+https://api.screen9.com/preview/-gfxIrjiGyZ_9GLrgbrvxnr6ixESQOSMqjnzrWfE8G1oIBJ3DzVwmU2PSgDPkiyE | Kommunfullmäktiges sammanträde 24 februari 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://api.screen9.com/preview/cNaRWdX8Gc3wleV31TbCXyqp_iexpcJEFbCBJya4CCa63vJUHaauEr9Pe8P_SH5K | Kommunfullmäktiges sammanträde 24 mars 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/b-VIxvuieufPvM6bvQr9zQ | Extrainsatt sammanträde 22 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/OFnxBr-P2PaaV8HOUR0hDg | Kommunfullmäktiges sammanträde 28 april 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/v-niA8Y4hCxpOAPO_bOMNg | Extrainsatt sammanträde 19 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/lSkjTcxkvtbtdr8wPVwuiQ | Kommunfullmäktiges sammanträde 26 maj 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/vas7T1DBRnyEty31n6iXJw | Kommunfullmäktiges sammanträde 16 juni 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/O63s16Cr7Eu7jv_a1hn-YA | Kommunfullmäktiges sammanträde 22 september 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/Qz9lgRbIcU26h7zvVSbXGA | Kommunfullmäktiges sammanträde 20 oktober 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/ZSM-ovIMTvzwnnW81QPgtQ | Kommunfullmäktiges sammanträde 24 november 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://qcnl.tv/p/24_sr0f95-_b3N75ncX_Jg | Kommunfullmäktiges sammanträde 15 december 2025 | Kommunfullmäktiges sammanträde 24 februari 2025 Kommunfullmäktiges sammanträde 24 mars 2025 Extrainsatt sammanträde 22 a
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f70d | Tidigare sammanträden 2024 | Tidigare sammanträden 2024
+https://play.quickchannel.com/play/s87w8ww | Kommunfullmäktiges sammanträde 22 januari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/jkha292 | Kommunfullmäktiges sammanträde 26 februari 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/r3w2v5x | Kommunfullmäktiges sammanträde 22 april 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/p6ui982 | Kommunfullmäktiges sammanträde (extra) 13 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/vcz2002 | Kommunfullmäktiges sammanträde 20 maj 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://play.quickchannel.com/play/y5ppv49 | Kommunfullmäktiges sammanträde 17 juni 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/3iloOY6OGWrmE8qOpONERZbG8p1_Z1kFSXX3u28DeS6lwadFfmgTsXsA05Og1xwg | Kommunfullmäktiges sammanträde 21 oktober 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/PS-9JO32uwl_jDBNO1m5n5kZfxc_0KnUhtdCrOpPYR5JuNHG6YQyBUbWURhE11Im | Kommunfullmäktiges sammanträde 25 november 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://api.screen9.com/preview/6LuXm1DE2lhLHJTy6AuNoR1fTeByi59_cfil_BZm7J0GHp4xABnhIlQLpciHCdQ_ | Kommunfullmäktiges sammanträde 16 december 2024 | Kommunfullmäktiges sammanträde 22 januari 2024 Kommunfullmäktiges sammanträde 26 februari 2024 Kommunfullmäktiges samman
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f834 | Tidigare sammanträden 2023 | Tidigare sammanträden 2023
+https://play.quickchannel.com/play/5y8b6c3 | Kommunfullmäktiges sammanträde 30 januari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/3ryuicz | Kommunfullmäktige sammanträde 27 februari 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/p66u030 | Kommunfullmäktiges sammanträde 13 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/5yiyjz9 | Kommunfullmäktiges sammanträde 20 mars 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79xwxx | Kommunfullmäktiges sammanträde 17 april 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/d79zw31 | Kommunfullmäktiges sammanträde 22 maj 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/t23hpxv | Kommunfullmäktiges sammanträde 19 juni 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/8sssit6 | Kommunfullmäktiges sammanträde 25 september 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/q11231z | Kommunfullmäktiges sammanträde 16 oktober 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/vcc5w0w | Kommunfullmäktiges sammanträde 27 november 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://play.quickchannel.com/play/0ff0zje | Kommunfullmäktiges sammanträde 18 december 2023 | Kommunfullmäktiges sammanträde 30 januari 2023 Kommunfullmäktige sammanträde 27 februari 2023 Kommunfullmäktiges sammant
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/#6af171288f9b7 | Tidigare sammanträden 2022 | Tidigare sammanträden 2022
+https://play.quickchannel.com/play/hz3sbby | Kommunfullmäktiges sammanträde 19 december 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/jkrx54v | Kommunfullmäktiges sammanträde 21 november 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/0fi0eue | Kommunfullmäktiges sammanträde 24 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4usqujj | Kommunfullmäktiges sammanträde 14 oktober 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://play.quickchannel.com/play/4uscj1c | Kommunfullmäktiges sammanträde 26 september 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220815 | Kommunfullmäktiges sammanträde 15 augusti 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220630 | Kommunfullmäktiges sammanträde 30 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220620 | Kommunfullmäktiges sammanträde 20 juni 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220502 | Kommunfullmäktiges sammanträde 2 maj 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220321 | Kommunfullmäktiges sammanträde 21 mars 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220228 | Kommunfullmäktige sammanträde 28 februari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://trelleborg.webbtvkf.se/?220131 | Kommunfullmäktiges sammanträde 31 januari 2022 | Kommunfullmäktiges sammanträde 19 december 2022 Kommunfullmäktiges sammanträde 21 november 2022 Kommunfullmäktiges samma
+https://moten.trelleborg.se/ | Kallelser och protokoll
+
+Kallelser till nämndernas sammanträden och protokoll fi | Kallelser och protokoll Kallelser till nämndernas sammanträden och protokoll finns i en egen portal, Meetings +. Här fin
+tel:0410-73%2030%2000%20(Kontaktcenter) | 0410-73 30 00 (Kontaktcenter) | 0410-73 30 00 (Kontaktcenter)
+mailto:trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se | trelleborgs.kommun@trelleborg.se
+https://www.trelleborg.se/nyheter/upphandling-av-nytt-badhus-avbryts/ | Upphandling av nytt badhus avbryts
+20 oktober 2026 | Upphandling av nytt badhus avbryts 20 oktober 2026
+https://www.trelleborg.se/nyheter/dags-for-mandatperiodens-forsta-kommunfullmaktige/ | Dags för mandatperiodens första kommunfullmäktige
+16 oktober 2026 | Dags för mandatperiodens första kommunfullmäktige 16 oktober 2026
+https://www.trelleborg.se/nyheter/valresultatet-for-kommunvalet-ar-klart/ | Valresultatet för kommunvalet är klart
+28 september 2026 | Valresultatet för kommunvalet är klart 28 september 2026
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ | Kommunalråd och oppositionsråd | Kommunalråd och oppositionsråd
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ | Överförmyndaren | Överförmyndaren
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ | Revisionen | Revisionen
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ | Hur fungerar en kommun? | Hur fungerar en kommun?
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ | Förtroendevalda | Förtroendevalda
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ | Förvaltningar | Förvaltningar
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ | Kommunala bolag | Kommunala bolag
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ | Nämnder | Nämnder
+https://eservice.trelleborg.se/EServices/Common/BlockPage.aspx?eServiceName=TBG041&PageId=InfoPage | Fel­anmälan | Fel­anmälan
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/anslagstavla/ | Anslags­tavla | Anslags­tavla
+https://www.trelleborg.se/bygga-bo-miljo/avfall-och-atervinning/kallsortering-och-atervinning/atervinningscentraler/ | Återvinnings­centraler | Återvinnings­centraler
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/kartor/ | Kartor | Kartor
+https://www.trelleborg.se/naringsliv-arbete/jobba-hos-oss/ | Jobba hos oss | Jobba hos oss
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/sammantradestider-protokoll-och-kallelser/kommunfullmaktiges-livesandningar | Fullmäktige live | Fullmäktige live
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/medborgarforslag | Medborgarförslag | Medborgarförslag
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/sjalvbetjaning-e-tjanster-kundportaler-mina-sidor/ | Självbetjäning | Självbetjäning
+mailto:kontaktcenter@trelleborg.se | kontaktcenter@trelleborg.se | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ | Fler kontaktuppgifter | Telefon: 0410-73 30 00 E-post: kontaktcenter@trelleborg.se Fler kontaktuppgifter
+https://www.facebook.com/trelleborgskommun | Följ oss på Facebook | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.linkedin.com/company/trelleborgs-kommun/ | Följ oss på Linkedin | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.instagram.com/trelleborgs_kommun | Följ oss på Instagram | Följ oss på Facebook Följ oss på Linkedin Följ oss på Instagram
+https://www.trelleborg.se/om-webbplatsen | Om webbplatsen | Om webbplatsen
+https://www.trelleborg.se/om-webbplatsen/cookies | Cookies | Cookies
+https://www.trelleborg.se/om-webbplatsen/creative-commons/ | Creative Commons | Creative Commons
+https://www.trelleborg.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.trelleborg.se/om-webbplatsen/personuppgifter/ | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.trelleborg.se/ |  | 
+https://www.trelleborg.se/barn-utbildning/ |  | 
+https://www.trelleborg.se/bygga-bo-miljo/ |  | 
+https://www.trelleborg.se/kommun-politik/ |  | 
+https://www.trelleborg.se/kommun-politik/fakta-om-kommunen/ |  | 
+https://www.trelleborg.se/kommun-politik/kontakta-trelleborgs-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/partier-i-fullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/arbetsordning-for-kommunfullmaktige/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/namnder/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunala-bolag/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/forvaltningar/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/fortroendevalda/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/hur-fungerar-en-kommun/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/revisionen/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/overformyndaren/ |  | 
+https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunalrad-och-oppositionsrad/ |  | 
+https://www.trelleborg.se/kommun-politik/politik-och-demokrati/ |  | 
+https://www.trelleborg.se/kommun-politik/beslut-insyn-och-rattssakerhet/ |  | 
+https://www.trelleborg.se/kommun-politik/diarium-och-arkiv/ |  | 
+https://www.trelleborg.se/kommun-politik/nationella-minoriteter/ |  | 
+https://www.trelleborg.se/kommun-politik/internationellt-arbete-och-vanorter/ |  | 
+https://www.trelleborg.se/kommun-politik/en-miljon-ideer/ |  | 
+https://www.trelleborg.se/kommun-politik/politikerhandbok/ |  | 
+https://www.trelleborg.se/kommun-politik/hallbar-utveckling/ |  | 
+https://www.trelleborg.se/kommun-politik/platsvarumarket-trelleborg/ |  | 
+https://www.trelleborg.se/naringsliv-arbete/ |  | 
+https://www.trelleborg.se/omsorg-och-hjalp/ |  | 
+https://www.trelleborg.se/trafik-infrastruktur/ |  | 
+https://www.trelleborg.se/uppleva-gora/ |  | 
+https://www.trelleborg.se/turist/ |  | 
+https://www.trelleborg.se/press/ |  | 
+https://eservice.trelleborg.se/ |  | 
+https://www.trelleborg.se/other-languages/lattlast/ |  | 
+https://www.trelleborg.se/other-languages/suomeksi/ |  | 
+
+## Knappar
+Sök
+Språk
+Meny
+Sök
+Skriv ut
+Stäng
+Expandera: Barn och utbildning
+Expandera: Bygga, bo och miljö
+Expandera: Kommun och politik
+Expand: Fakta om kommunen
+Expand: Kontakta Trelleborgs kommun
+Expand: Kommunens organisation
+Expand: Kommunfullmäktige
+Expand: Nämnder
+Expand: Kommunala bolag
+Expand: Förvaltningar
+Expand: Hur fungerar en kommun?
+Expand: Revisionen
+Expand: Politik och demokrati
+Expand: Beslut, insyn och rättssäkerhet
+Expand: Diarium och arkiv
+Expand: Nationella minoriteter
+Expand: Internationellt arbete och vänorter
+Expand: En miljon idéer
+Expand: Politikerhandbok
+Expand: Hållbar utveckling
+Expandera: Näringsliv och arbete
+Expandera: Omsorg och hjälp
+Expandera: Trafik och resor
+Expandera: Uppleva och göra
+
+## HTML (början av body)
+<body class="layer-card wp-singular page-template-default page page-id-5638 page-parent page-child parent-pageid-5575 wp-theme-municipio no-js t-municipio-lts-2025" data-js-page-id="5638" data-js-post-type="page" style="--scrollbar: 0px"> <div class="site-wrapper"> <!-- header-business.blade.php --> <!-- header.blade.php --> <header class="c-header site-header c-header c-header--business" id="site-header" data-uid="6af17128ab677"> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#article" aria-label="Gå till innehåll" data-uid="6af17128ab448"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till innehåll </span> </span> </a> <a class="c-button screen-reader-text u-margin--1 c-button__filled c-button__filled--default c-button--md" target="_top" type="button" href="#menu-sidebar" aria-label="Gå till sidomeny" data-uid="6af17128ab4f5"> <span class="c-button__label"> <span class="c-button__label-text "> Gå till sidomeny </span> </span> </a> <div class="c-header__menu c-header__menu--primary"> <div class="o-container c-header__flex-content"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" id="" href="https://www.trelleborg.se" target="_top" data-uid="6af17128a2f55"> <!-- logotype.blade.php --> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af17128a2e72"> <img src="https://www.trelleborg.se/app/uploads/2021/06/tbg-kommun.svg" alt="Gå till startsidan" class="c-logotype__image"> </figure> </a> <div class=" c-header__tab-menu--standard "> <div class="c-header__inner-area tab-area u-display--none@xs u-display--none@sm"> <!-- nav-useHbg.blade.php --> <ul class="c-nav u-width--auto c-nav--height-sm c-nav--depth-1 unlist c-nav--horizontal" aria-orientation="horizontal" role="menu" js-keep-in-viewport-after-resize="1" id="tabs" data-uid="6af17128a30af"> <li id="tabs-2590-0__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="E-tjänster"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="E-tjänster" type="button" href="https://eservice.trelleborg.se/" id="tabs - 2590-0__label" data-uid="6af17128a31c2" data-js-original-link="https://eservice.trelleborg.se/"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> E-tjänster </span> </span> </a> </div> </li> <li id="tabs-2591-1__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Lättläst"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Lättläst" type="button" href="https://www.trelleborg.se/other-languages/lattlast/" id="tabs - 2591-1__label" data-uid="6af17128a329c"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Lättläst </span> </span> </a> </div> </li> <li id="tabs-277669-2__item" class="c-nav__item c-nav__item--button c-nav__item--depth-1" role="menuitem" data-depth="1" aria-label="Suomeksi"> <div class="c-nav__item-wrapper"> <a class="c-button c-nav__button c-button__filled c-button__filled--default c-button--md" target="_top" aria-label="Suomeksi" type="button" href="https://www.trelleborg.se/other-languages/suomeksi/" id="tabs - 277669-2__label" data-uid="6af17128a3366"> <span class="c-button__label"> <span class="c-button__label-text c-button__label-text--reverse"> Suomeksi </span> </span> </a> </div> </li> </ul> </div> <div class="c-header__inner-area"> <!-- form.blade.php --> <form class="c-form search-form u-print-display--none u-display--flex@lg u-display--flex@xl u-display--none@xs u-display--none@sm u-display--none@md" id="header-search-form" data-uid="6af17128a4151" method="get" action="https://

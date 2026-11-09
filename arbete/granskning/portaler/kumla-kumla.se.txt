@@ -1,0 +1,619 @@
+Kommun: Kumla  nyckel: kumla.se
+
+######## SIDA: https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html
+Titel: Möten, handlingar och protokoll - Kumla kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html
+POST 200 xhr application/json; charset=utf-8 https://chat.ace.teliacompany.net/29/langDetect
+      {"reply": "ok", "AcceptLanguage": "sv-SE"}
+      POST: 
+GET 200 fetch application/json; charset=utf-8 https://askersund.humany.net/default/config.json
+      {"implementation":{"name":"default","bindings":["askersund.humany.net"],"widgets":{"kontakta_oss":{"type":"@humany/grid-widget","settings":{"activate":null,"data":{"projection":"https://askersund.humany.net/kontakta_oss","widgetAriaLabel":"Widget","accessibility":{"disableInactiveLink":true}},"components":{"root-area":{"type":"area","children":[["widget-header",{"breakpoints":["desktop","tablet"],"properties":{"actions":{"minimize":null}}}],"view-area","copyright"],"context":{"cardinal":3,"fonts":{"type":"Lato","huge":"1.4em","medium":"1.1em","large":"1.1em"},"colors":{"accent":"#FAFAFA","link":"#0092cf","primary":"#0092cf","text":"#333333","warning":"#CC0000"},"accessibility":{"border":"2px dashed #0092cf","colors":{"inactiveText":"#333333","activeText":"#333333"}},"inputBorder":"1px solid #000000"},"properties":{"role":"contentinfo","animation":"slide-up","css-display":"flex","css-flex-direction":"column","css-position":"fixed","css-top":"0","css-bottom":"0","css-right":"0","css-left":"0","css-background-color":"#FAFAFA","css-z-index":6,"css-overflow":"hidden"}},"view-area":{"type":"area","children":[["view",{"context":{"gap":"15px"},"properties":{"animation":"slide","css-height":"100%"}}]],"properties":{"css-display":"flex","css-flex":"1 0 auto","scrollable":true},"context":{"borderRadius":"5px","border":"1px solid #E7E7E7","boxShadow":"0px 0px 10px rgba(0, 0, 0, 0.1)"}},"index-area":{"type":"area","children":["conversation-return-button",["search",{"breakpoints":["desktop
+GET 200 fetch application/json; charset=utf-8 https://askersund.humany.net/default/config.json
+      {"implementation":{"name":"default","bindings":["askersund.humany.net"],"widgets":{"kontakta_oss":{"type":"@humany/grid-widget","settings":{"activate":null,"data":{"projection":"https://askersund.humany.net/kontakta_oss","widgetAriaLabel":"Widget","accessibility":{"disableInactiveLink":true}},"components":{"root-area":{"type":"area","children":[["widget-header",{"breakpoints":["desktop","tablet"],"properties":{"actions":{"minimize":null}}}],"view-area","copyright"],"context":{"cardinal":3,"fonts":{"type":"Lato","huge":"1.4em","medium":"1.1em","large":"1.1em"},"colors":{"accent":"#FAFAFA","link":"#0092cf","primary":"#0092cf","text":"#333333","warning":"#CC0000"},"accessibility":{"border":"2px dashed #0092cf","colors":{"inactiveText":"#333333","activeText":"#333333"}},"inputBorder":"1px solid #000000"},"properties":{"role":"contentinfo","animation":"slide-up","css-display":"flex","css-flex-direction":"column","css-position":"fixed","css-top":"0","css-bottom":"0","css-right":"0","css-left":"0","css-background-color":"#FAFAFA","css-z-index":6,"css-overflow":"hidden"}},"view-area":{"type":"area","children":[["view",{"context":{"gap":"15px"},"properties":{"animation":"slide","css-height":"100%"}}]],"properties":{"css-display":"flex","css-flex":"1 0 auto","scrollable":true},"context":{"borderRadius":"5px","border":"1px solid #E7E7E7","boxShadow":"0px 0px 10px rgba(0, 0, 0, 0.1)"}},"index-area":{"type":"area","children":["conversation-return-button",["search",{"breakpoints":["desktop
+GET 200 fetch application/json; charset=utf-8 https://kumla.humany.net/default/config.json
+      {"implementation":{"name":"default","bindings":["kumla.humany.net"],"widgets":{"kumlachatt":{"type":"@humany/grid-widget","settings":{"activate":null,"data":{"projection":"https://kumla.humany.net/kumlachatt"},"components":{"root-area":{"type":"area","children":[["widget-header",{"breakpoints":["desktop","tablet"],"properties":{"actions":{"minimize":null}}}],"view-area","copyright"],"context":{"cardinal":3,"fonts":{"type":"Lato","huge":"1.4em","medium":"1.1em","large":"1.1em"},"colors":{"accent":"#FAFAFA","link":"#007481","primary":"#007481","text":"#333333","warning":"#CC0000"},"accessibility":{"border":"2px dashed #007481","colors":{"inactiveText":"#007481","activeText":"#FFFFFF"}},"inputBorder":"1px solid #000000"},"properties":{"role":"contentinfo","animation":"slide-up","css-display":"flex","css-flex-direction":"column","css-position":"fixed","css-top":"0","css-bottom":"0","css-right":"0","css-left":"0","css-background-color":"#FAFAFA","css-z-index":6,"css-overflow":"hidden"}},"view-area":{"type":"area","children":[["view",{"context":{"gap":"15px"},"properties":{"animation":"slide","css-height":"100%"}}]],"properties":{"css-display":"flex","css-flex":"1 0 auto","scrollable":true},"context":{"borderRadius":"5px","border":"1px solid #E7E7E7","boxShadow":"0px 0px 10px rgba(0, 0, 0, 0.1)"}},"index-area":{"type":"area","children":["conversation-return-button",["search",{"breakpoints":["desktop"],"properties":{"incremental":true,"autoFocus":true}}],"guide-category-tree","guide
+GET 200 fetch application/json; charset=utf-8 https://kumla.humany.net/default/config.json
+      {"implementation":{"name":"default","bindings":["kumla.humany.net"],"widgets":{"kumlachatt":{"type":"@humany/grid-widget","settings":{"activate":null,"data":{"projection":"https://kumla.humany.net/kumlachatt"},"components":{"root-area":{"type":"area","children":[["widget-header",{"breakpoints":["desktop","tablet"],"properties":{"actions":{"minimize":null}}}],"view-area","copyright"],"context":{"cardinal":3,"fonts":{"type":"Lato","huge":"1.4em","medium":"1.1em","large":"1.1em"},"colors":{"accent":"#FAFAFA","link":"#007481","primary":"#007481","text":"#333333","warning":"#CC0000"},"accessibility":{"border":"2px dashed #007481","colors":{"inactiveText":"#007481","activeText":"#FFFFFF"}},"inputBorder":"1px solid #000000"},"properties":{"role":"contentinfo","animation":"slide-up","css-display":"flex","css-flex-direction":"column","css-position":"fixed","css-top":"0","css-bottom":"0","css-right":"0","css-left":"0","css-background-color":"#FAFAFA","css-z-index":6,"css-overflow":"hidden"}},"view-area":{"type":"area","children":[["view",{"context":{"gap":"15px"},"properties":{"animation":"slide","css-height":"100%"}}]],"properties":{"css-display":"flex","css-flex":"1 0 auto","scrollable":true},"context":{"borderRadius":"5px","border":"1px solid #E7E7E7","boxShadow":"0px 0px 10px rgba(0, 0, 0, 0.1)"}},"index-area":{"type":"area","children":["conversation-return-button",["search",{"breakpoints":["desktop"],"properties":{"incremental":true,"autoFocus":true}}],"guide-category-tree","guide
+
+## Länkar (href | text | sammanhang)
+https://www.kumla.se/om-webbplatsen/kakor-cookies.html | Läs mer i vår cookiepolicy | Läs mer i vår cookiepolicy
+https://kumla.humany.net/kumlachatt | Öppna | 
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#sidans-innehall | Hoppa till innehåll | Hoppa till innehåll
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | Hoppa till undermeny
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | 
+https://www.kumla.se/ |  | 
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt | Kontakt
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Meny | 
+https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster. | Driftstörningar Öppnas i nytt fönster.
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastruktur
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknad
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla | Kommunal anslagstavla
+https://www.kumla.se/ | Startsida | Startsida
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Facebook | Facebook
+https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Twitter | Twitter
+https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | LinkedIn | LinkedIn
+https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Google + | Google +
+mailto:?subject=M%C3%B6ten%2C%20handlingar%20och%20protokoll&body=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | E-post | E-post
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_f36d14315437bafd792509&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html&voice=Maja | Lyssna | Lyssna
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorgÖppna/Stäng Anpassad grundskola Elevhälsa Familjens HusÖppna/Stäng Förskola och Pe
+https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa | Elevhälsa
+https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg | Förskola och Pedagogisk omsorgÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar | Försäkringar
+https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan | Föräldrasamverkan
+https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola | GrundskolaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla | Gymnasieskola för ungdomar bosatta i KumlaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering | Inneboende, inackordering
+https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål | Klagomål
+https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar | Kommunens aktivitetsansvar
+https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus | Kunskap i fokus
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan | Miljön i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk | Modersmål, minoritetsspråk
+https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan | NaturskolanÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor | Om InfoMentor
+https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset | Pedagogiska priset
+https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan | Praktik i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet | Starta enskild verksamhet
+https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd | Särskilda behov, extra stödÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning | VuxenutbildningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/Stäng Akut hjälpÖppna/Stäng Anhörigstöd Demens Digital fixare
+https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp | Akut hjälpÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://www.kumla.se/omsorg-och-stod/demens.html | Demens | Demens
+https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare | Digital fixare
+https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd | Ekonomiskt stödÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom | Familj, barn och ungdomÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa | Folkhälsa
+https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare | God man, förvaltare, förmyndareÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst | HemtjänstÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning | Hjälpmedel och bostadsanpassning
+https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete | Hälsofrämjande arbete
+https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration | Invandring och integrationÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning | Konsumentvägledning
+https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk | Missbruk
+https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa | Psykisk ohälsaÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering | RehabiliteringÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots | Seniorlots
+https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård | Sjukvård och tandvårdÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning | Stöd vid funktionsnedsättningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg | Taxor och avgifter för vård och omsorg
+https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer | Tillvaron för seniorerÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation | Våld och hot i nära relation
+https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende | Vård- och omsorgsboendeÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/Stäng BibliotekÖppna/Stäng Digital infartsskylt Djupadalsbadet Länk till annan webbplats, öppnas i
+https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt | Digital infartsskylt
+https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster. | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken | Fritidsbanken
+https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar | FöreningarÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler | Idrottsanläggningar och lokalerÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser | MötesplatserÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv | Natur och friluftslivÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden | Parker och grönområdenÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla | Senior i KumlaÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter | SevärdheterÖppna/Stäng
+https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster. | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla | Ung i KumlaÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljöÖppna/Stäng Avfall och återvinningÖppna/Stäng Bostäder och offentliga lokalerÖppna/Stäng Brandskydd o
+https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler | Bostäder och offentliga lokalerÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov | BygglovÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur | DjurÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag | Kartor och mätuppdragÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier | KemikalierÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö | Klimatförändringar och miljöÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter | Kommunala tomterÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö | Kulturmiljö
+https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer | Kumla växer
+https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel | LivsmedelÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård | NaturvårdÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete | PlanarbeteÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg | Samarbete Kumla - Hallsberg
+https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastrukturÖppna/Stäng Bredband och IT Buss och tåg Trafik och gatorÖppna/Stäng Torg och allmä
+https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT | Bredband och IT
+https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg | Buss och tåg
+https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator | Trafik och gatorÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser | Torg och allmänna platserÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning | Renhållning och snöröjningÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering | Samhällsutveckling och planeringÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling | Cykling
+https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering | ParkeringÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknadÖppna/Stäng Arbetsmarknadsenheten Ett blomstrande näringsliv FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten | Arbetsmarknadsenheten
+https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv | Ett blomstrande näringsliv
+https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton | FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/jobba-hos-oss.html | Jobba hos oss | Jobba hos ossÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev | NyhetsbrevÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice | NäringslivsserviceÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn | Tillstånd, regler och tillsynÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp | Upphandling, e-handel och inköp
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare | Årets företagare
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kontakta oss Behandling av personuppgifter Öppna/Stäng Ekonomi, Mål och resultat Öppna/Stäng Allmänna
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter | Behandling av personuppgifter Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat | Ekonomi, Mål och resultat Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val | Allmänna val
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn Öppna/Stäng Aktförvaring Annonsredovisning Beslut, insyn och rättssäkerhet Öppna/Stäng Diarium Öppna
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring | Aktförvaring
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning | Annonsredovisning
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet | Beslut, insyn och rättssäkerhet Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium | Diarium Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll | Möten, handlingar och protokoll Öppna/Stäng Kommunfullmäktige och kommunstyrelsen Kultur- och fritidsnämnden Myndighetsn
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | Kommunfullmäktige och kommunstyrelsen | Kommunfullmäktige och kommunstyrelsen
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kultur--och-fritidsnamnden.html | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/myndighetsnamnden.html | Myndighetsnämnden | Myndighetsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/namnd-for-livslangt-larande.html | Nämnd för livslångt lärande | Nämnd för livslångt lärande
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html | Socialnämnden | Socialnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html | Valnämnden | Valnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök | Politiker, sök
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar | Revisionens granskningar
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider | Sammanträdestider
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål | Synpunkter, medborgarinitiativ och klagomål
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Kontakt och hjälp
+Sök
+Sök
+Dela
+Lyssna
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karibien env-m-around--0" data-rsevent-id="rs_406474" style="padding-top: 128px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div id="sv_rwDn4gwWe_OdIK_0f8QTK" lang="sv-SE"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_PxdNwQ05yZ7_iP5QqFnMw"><h2 class="env-ui-text-subheading" id="sv_PxdNwQ05yZ7_iP5QqFnMw">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen/kakor-cookies.html" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.3e5d3eb218df28ca6b02f01&amp;sv.12.3e5d3eb218df28ca6b02f01.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div><a href="//kumla.humany.net/kumlachatt" data-monitored="true" aria-controls="humany_widget_kumlachatt" aria-expanded="false" role="button" class="humany-trigger humany_kumlachatt humany-rendered" aria-label="Kontakt och hjälp" tabindex="0" title="Öppna"><i class="humany-icon fa fa-comments-o"></i> <span class="humany-close"> <svg width="18" height="9" viewBox="0 0 18 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9 9C8.81794 9.00045 8.63759 8.96634 8.46939 8.89965C8.3012 8.83295 8.14851 8.735 8.02015 8.61145L0.194523 1.12367C0.068294 0.99862 -0.00155266 0.831133 2.61958e-05 0.657285C0.00160506 0.483436 0.0744832 0.317136 0.202964 0.194202C0.331445 0.0712675 0.505249 0.00153576 0.686941 2.50649e-05C0.868634 -0.00148563 1.04368 0.0653456 1.17437 0.186125L9 7.6739L16.8256 0.186125C16.9563 0.0653456 17.1314 -0.00148563 17.3131 2.50649e-05C17.4948 0.00153576 17.6686 0.0712675 17.797 0.194202C17.9255 0.317136 17.9984 0.483436 18 0.657285C18.0016 0.831133 17.9317 0.99862 17.8055 1.12367L9.97985 8.61145C9.85149 8.735 9.6988 8.83295 9.53061 8.89965C9.36241 8.96634 9.18206 9.00045 9 9Z" fill="white"></path> </svg> </span> <span class="humany-loader"> <svg viewBox="25 25 50 50"> <circle cx="50" cy="50" r="20" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"></circle> </svg> </span> </a> <meta name="google-site-verification" content="1E7yrZmxF5WOKygBGgC0ml6qrQL-8m0aTfE2x5E82bE"> <script nonce="1d0a2b40-dc0c-11f1-9fd0-953797660826"> window.sv = window.sv || {}; sv.UNSAFE_MAY_CHANGE_AT_ANY_GIVEN_TIME_webAppExternals = {}; sv.PageContext = { pageId: '4.f36d14315437bafd792502', siteId: '2.2ed0f55c151ce2c16f01b2', userIdentityId: '', userIdentityReadTimeout: 0, userLocale: 'sv_SE', dev: fals
+
+######## SIDA: https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#sidans-innehall
+Titel: Möten, handlingar och protokoll - Kumla kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.kumla.se/om-webbplatsen/kakor-cookies.html | Läs mer i vår cookiepolicy | Läs mer i vår cookiepolicy
+https://kumla.humany.net/kumlachatt | Öppna | 
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#sidans-innehall | Hoppa till innehåll | Hoppa till innehåll
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | Hoppa till undermeny
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | 
+https://www.kumla.se/ |  | 
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt | Kontakt
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Meny | 
+https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster. | Driftstörningar Öppnas i nytt fönster.
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastruktur
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknad
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla | Kommunal anslagstavla
+https://www.kumla.se/ | Startsida | Startsida
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Facebook | Facebook
+https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Twitter | Twitter
+https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | LinkedIn | LinkedIn
+https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Google + | Google +
+mailto:?subject=M%C3%B6ten%2C%20handlingar%20och%20protokoll&body=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | E-post | E-post
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_f36d14315437bafd792509&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html&voice=Maja | Lyssna | Lyssna
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorgÖppna/Stäng Anpassad grundskola Elevhälsa Familjens HusÖppna/Stäng Förskola och Pe
+https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa | Elevhälsa
+https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg | Förskola och Pedagogisk omsorgÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar | Försäkringar
+https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan | Föräldrasamverkan
+https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola | GrundskolaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla | Gymnasieskola för ungdomar bosatta i KumlaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering | Inneboende, inackordering
+https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål | Klagomål
+https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar | Kommunens aktivitetsansvar
+https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus | Kunskap i fokus
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan | Miljön i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk | Modersmål, minoritetsspråk
+https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan | NaturskolanÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor | Om InfoMentor
+https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset | Pedagogiska priset
+https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan | Praktik i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet | Starta enskild verksamhet
+https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd | Särskilda behov, extra stödÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning | VuxenutbildningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/Stäng Akut hjälpÖppna/Stäng Anhörigstöd Demens Digital fixare
+https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp | Akut hjälpÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://www.kumla.se/omsorg-och-stod/demens.html | Demens | Demens
+https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare | Digital fixare
+https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd | Ekonomiskt stödÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom | Familj, barn och ungdomÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa | Folkhälsa
+https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare | God man, förvaltare, förmyndareÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst | HemtjänstÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning | Hjälpmedel och bostadsanpassning
+https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete | Hälsofrämjande arbete
+https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration | Invandring och integrationÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning | Konsumentvägledning
+https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk | Missbruk
+https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa | Psykisk ohälsaÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering | RehabiliteringÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots | Seniorlots
+https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård | Sjukvård och tandvårdÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning | Stöd vid funktionsnedsättningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg | Taxor och avgifter för vård och omsorg
+https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer | Tillvaron för seniorerÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation | Våld och hot i nära relation
+https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende | Vård- och omsorgsboendeÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/Stäng BibliotekÖppna/Stäng Digital infartsskylt Djupadalsbadet Länk till annan webbplats, öppnas i
+https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt | Digital infartsskylt
+https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster. | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken | Fritidsbanken
+https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar | FöreningarÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler | Idrottsanläggningar och lokalerÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser | MötesplatserÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv | Natur och friluftslivÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden | Parker och grönområdenÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla | Senior i KumlaÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter | SevärdheterÖppna/Stäng
+https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster. | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla | Ung i KumlaÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljöÖppna/Stäng Avfall och återvinningÖppna/Stäng Bostäder och offentliga lokalerÖppna/Stäng Brandskydd o
+https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler | Bostäder och offentliga lokalerÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov | BygglovÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur | DjurÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag | Kartor och mätuppdragÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier | KemikalierÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö | Klimatförändringar och miljöÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter | Kommunala tomterÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö | Kulturmiljö
+https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer | Kumla växer
+https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel | LivsmedelÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård | NaturvårdÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete | PlanarbeteÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg | Samarbete Kumla - Hallsberg
+https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastrukturÖppna/Stäng Bredband och IT Buss och tåg Trafik och gatorÖppna/Stäng Torg och allmä
+https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT | Bredband och IT
+https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg | Buss och tåg
+https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator | Trafik och gatorÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser | Torg och allmänna platserÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning | Renhållning och snöröjningÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering | Samhällsutveckling och planeringÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling | Cykling
+https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering | ParkeringÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknadÖppna/Stäng Arbetsmarknadsenheten Ett blomstrande näringsliv FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten | Arbetsmarknadsenheten
+https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv | Ett blomstrande näringsliv
+https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton | FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/jobba-hos-oss.html | Jobba hos oss | Jobba hos ossÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev | NyhetsbrevÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice | NäringslivsserviceÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn | Tillstånd, regler och tillsynÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp | Upphandling, e-handel och inköp
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare | Årets företagare
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kontakta oss Behandling av personuppgifter Öppna/Stäng Ekonomi, Mål och resultat Öppna/Stäng Allmänna
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter | Behandling av personuppgifter Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat | Ekonomi, Mål och resultat Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val | Allmänna val
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn Öppna/Stäng Aktförvaring Annonsredovisning Beslut, insyn och rättssäkerhet Öppna/Stäng Diarium Öppna
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring | Aktförvaring
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning | Annonsredovisning
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet | Beslut, insyn och rättssäkerhet Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium | Diarium Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll | Möten, handlingar och protokoll Öppna/Stäng Kommunfullmäktige och kommunstyrelsen Kultur- och fritidsnämnden Myndighetsn
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | Kommunfullmäktige och kommunstyrelsen | Kommunfullmäktige och kommunstyrelsen
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kultur--och-fritidsnamnden.html | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/myndighetsnamnden.html | Myndighetsnämnden | Myndighetsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/namnd-for-livslangt-larande.html | Nämnd för livslångt lärande | Nämnd för livslångt lärande
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html | Socialnämnden | Socialnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html | Valnämnden | Valnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök | Politiker, sök
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar | Revisionens granskningar
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider | Sammanträdestider
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål | Synpunkter, medborgarinitiativ och klagomål
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Kontakt och hjälp
+Sök
+Sök
+Dela
+Lyssna
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karibien env-m-around--0" data-rsevent-id="rs_406474" style="padding-top: 128px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div id="sv_rwDn4gwWe_OdIK_0f8QTK" lang="sv-SE"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_PxdNwQ05yZ7_iP5QqFnMw"><h2 class="env-ui-text-subheading" id="sv_PxdNwQ05yZ7_iP5QqFnMw">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen/kakor-cookies.html" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.3e5d3eb218df28ca6b02f01&amp;sv.12.3e5d3eb218df28ca6b02f01.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div><a href="//kumla.humany.net/kumlachatt" data-monitored="true" aria-controls="humany_widget_kumlachatt" aria-expanded="false" role="button" class="humany-trigger humany_kumlachatt humany-rendered" aria-label="Kontakt och hjälp" tabindex="0" title="Öppna"><i class="humany-icon fa fa-comments-o"></i> <span class="humany-close"> <svg width="18" height="9" viewBox="0 0 18 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9 9C8.81794 9.00045 8.63759 8.96634 8.46939 8.89965C8.3012 8.83295 8.14851 8.735 8.02015 8.61145L0.194523 1.12367C0.068294 0.99862 -0.00155266 0.831133 2.61958e-05 0.657285C0.00160506 0.483436 0.0744832 0.317136 0.202964 0.194202C0.331445 0.0712675 0.505249 0.00153576 0.686941 2.50649e-05C0.868634 -0.00148563 1.04368 0.0653456 1.17437 0.186125L9 7.6739L16.8256 0.186125C16.9563 0.0653456 17.1314 -0.00148563 17.3131 2.50649e-05C17.4948 0.00153576 17.6686 0.0712675 17.797 0.194202C17.9255 0.317136 17.9984 0.483436 18 0.657285C18.0016 0.831133 17.9317 0.99862 17.8055 1.12367L9.97985 8.61145C9.85149 8.735 9.6988 8.83295 9.53061 8.89965C9.36241 8.96634 9.18206 9.00045 9 9Z" fill="white"></path> </svg> </span> <span class="humany-loader"> <svg viewBox="25 25 50 50"> <circle cx="50" cy="50" r="20" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"></circle> </svg> </span> </a> <meta name="google-site-verification" content="1E7yrZmxF5WOKygBGgC0ml6qrQL-8m0aTfE2x5E82bE"> <script nonce="1d0a2b40-dc0c-11f1-9fd0-953797660826"> window.sv = window.sv || {}; sv.UNSAFE_MAY_CHANGE_AT_ANY_GIVEN_TIME_webAppExternals = {}; sv.PageContext = { pageId: '4.f36d14315437bafd792502', siteId: '2.2ed0f55c151ce2c16f01b2', userIdentityId: '', userIdentityReadTimeout: 0, userLocale: 'sv_SE', dev: fals
+
+######## SIDA: https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu
+Titel: Möten, handlingar och protokoll - Kumla kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.kumla.se/om-webbplatsen/kakor-cookies.html | Läs mer i vår cookiepolicy | Läs mer i vår cookiepolicy
+https://kumla.humany.net/kumlachatt | Öppna | 
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#sidans-innehall | Hoppa till innehåll | Hoppa till innehåll
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | Hoppa till undermeny
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny | 
+https://www.kumla.se/ |  | 
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt | Kontakt
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Meny | 
+https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster. | Driftstörningar Öppnas i nytt fönster.
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastruktur
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknad
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla | Kommunal anslagstavla
+https://www.kumla.se/ | Startsida | Startsida
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Facebook | Facebook
+https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Twitter | Twitter
+https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | LinkedIn | LinkedIn
+https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Google + | Google +
+mailto:?subject=M%C3%B6ten%2C%20handlingar%20och%20protokoll&body=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | E-post | E-post
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_f36d14315437bafd792509&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html&voice=Maja | Lyssna | Lyssna
+https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg | Utbildning och barnomsorgÖppna/Stäng Anpassad grundskola Elevhälsa Familjens HusÖppna/Stäng Förskola och Pe
+https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa | Elevhälsa
+https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg | Förskola och Pedagogisk omsorgÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar | Försäkringar
+https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan | Föräldrasamverkan
+https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola | GrundskolaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla | Gymnasieskola för ungdomar bosatta i KumlaÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering | Inneboende, inackordering
+https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål | Klagomål
+https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar | Kommunens aktivitetsansvar
+https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus | Kunskap i fokus
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan | Miljön i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk | Modersmål, minoritetsspråk
+https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan | NaturskolanÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor | Om InfoMentor
+https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset | Pedagogiska priset
+https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan | Praktik i skolan
+https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet | Starta enskild verksamhet
+https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd | Särskilda behov, extra stödÖppna/Stäng
+https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning | VuxenutbildningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/Stäng Akut hjälpÖppna/Stäng Anhörigstöd Demens Digital fixare
+https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp | Akut hjälpÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://www.kumla.se/omsorg-och-stod/demens.html | Demens | Demens
+https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare | Digital fixare
+https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd | Ekonomiskt stödÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom | Familj, barn och ungdomÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus | Familjens HusÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa | Folkhälsa
+https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare | God man, förvaltare, förmyndareÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst | HemtjänstÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning | Hjälpmedel och bostadsanpassning
+https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete | Hälsofrämjande arbete
+https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration | Invandring och integrationÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning | Konsumentvägledning
+https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk | Missbruk
+https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa | Psykisk ohälsaÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering | RehabiliteringÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots | Seniorlots
+https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård | Sjukvård och tandvårdÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning | Stöd vid funktionsnedsättningÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg | Taxor och avgifter för vård och omsorg
+https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer | Tillvaron för seniorerÖppna/Stäng
+https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation | Våld och hot i nära relation
+https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende | Vård- och omsorgsboendeÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/Stäng BibliotekÖppna/Stäng Digital infartsskylt Djupadalsbadet Länk till annan webbplats, öppnas i
+https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt | Digital infartsskylt
+https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster. | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken | Fritidsbanken
+https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar | FöreningarÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler | Idrottsanläggningar och lokalerÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan | Läsresan
+https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser | MötesplatserÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv | Natur och friluftslivÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden | Parker och grönområdenÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla | Senior i KumlaÖppna/Stäng
+https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter | SevärdheterÖppna/Stäng
+https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster. | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla | Ung i KumlaÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljöÖppna/Stäng Avfall och återvinningÖppna/Stäng Bostäder och offentliga lokalerÖppna/Stäng Brandskydd o
+https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler | Bostäder och offentliga lokalerÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov | BygglovÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur | DjurÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag | Kartor och mätuppdragÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier | KemikalierÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö | Klimatförändringar och miljöÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter | Kommunala tomterÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö | Kulturmiljö
+https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer | Kumla växer
+https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel | LivsmedelÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård | NaturvårdÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete | PlanarbeteÖppna/Stäng
+https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg | Samarbete Kumla - Hallsberg
+https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur | Trafik och infrastrukturÖppna/Stäng Bredband och IT Buss och tåg Trafik och gatorÖppna/Stäng Torg och allmä
+https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT | Bredband och IT
+https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg | Buss och tåg
+https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator | Trafik och gatorÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser | Torg och allmänna platserÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning | Renhållning och snöröjningÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering | Samhällsutveckling och planeringÖppna/Stäng
+https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling | Cykling
+https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering | ParkeringÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad | Näringsliv och arbetsmarknadÖppna/Stäng Arbetsmarknadsenheten Ett blomstrande näringsliv FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten | Arbetsmarknadsenheten
+https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv | Ett blomstrande näringsliv
+https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton | FöretagsmaratonÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/jobba-hos-oss.html | Jobba hos oss | Jobba hos ossÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev | NyhetsbrevÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice | NäringslivsserviceÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn | Tillstånd, regler och tillsynÖppna/Stäng
+https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp | Upphandling, e-handel och inköp
+https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare | Årets företagare
+https://www.kumla.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kontakta oss Behandling av personuppgifter Öppna/Stäng Ekonomi, Mål och resultat Öppna/Stäng Allmänna
+https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter | Behandling av personuppgifter Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat | Ekonomi, Mål och resultat Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val | Allmänna val
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn | Demokrati och insyn Öppna/Stäng Aktförvaring Annonsredovisning Beslut, insyn och rättssäkerhet Öppna/Stäng Diarium Öppna
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring | Aktförvaring
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning | Annonsredovisning
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet | Beslut, insyn och rättssäkerhet Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium | Diarium Öppna/Stäng
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll | Möten, handlingar och protokoll Öppna/Stäng Kommunfullmäktige och kommunstyrelsen Kultur- och fritidsnämnden Myndighetsn
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | Kommunfullmäktige och kommunstyrelsen | Kommunfullmäktige och kommunstyrelsen
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kultur--och-fritidsnamnden.html | Kultur- och fritidsnämnden | Kultur- och fritidsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/myndighetsnamnden.html | Myndighetsnämnden | Myndighetsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/namnd-for-livslangt-larande.html | Nämnd för livslångt lärande | Nämnd för livslångt lärande
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html | Samhällsbyggnadsnämnden | Samhällsbyggnadsnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html | Socialnämnden | Socialnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html | Valnämnden | Valnämnden
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök | Politiker, sök
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar | Revisionens granskningar
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider | Sammanträdestider
+https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål | Synpunkter, medborgarinitiativ och klagomål
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Kontakt och hjälp
+Sök
+Sök
+Dela
+Lyssna
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karibien env-m-around--0" data-rsevent-id="rs_406474" style="padding-top: 128px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div id="sv_rwDn4gwWe_OdIK_0f8QTK" lang="sv-SE"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_PxdNwQ05yZ7_iP5QqFnMw"><h2 class="env-ui-text-subheading" id="sv_PxdNwQ05yZ7_iP5QqFnMw">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen/kakor-cookies.html" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.3e5d3eb218df28ca6b02f01&amp;sv.12.3e5d3eb218df28ca6b02f01.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div><a href="//kumla.humany.net/kumlachatt" data-monitored="true" aria-controls="humany_widget_kumlachatt" aria-expanded="false" role="button" class="humany-trigger humany_kumlachatt humany-rendered" aria-label="Kontakt och hjälp" tabindex="0" title="Öppna"><i class="humany-icon fa fa-comments-o"></i> <span class="humany-close"> <svg width="18" height="9" viewBox="0 0 18 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9 9C8.81794 9.00045 8.63759 8.96634 8.46939 8.89965C8.3012 8.83295 8.14851 8.735 8.02015 8.61145L0.194523 1.12367C0.068294 0.99862 -0.00155266 0.831133 2.61958e-05 0.657285C0.00160506 0.483436 0.0744832 0.317136 0.202964 0.194202C0.331445 0.0712675 0.505249 0.00153576 0.686941 2.50649e-05C0.868634 -0.00148563 1.04368 0.0653456 1.17437 0.186125L9 7.6739L16.8256 0.186125C16.9563 0.0653456 17.1314 -0.00148563 17.3131 2.50649e-05C17.4948 0.00153576 17.6686 0.0712675 17.797 0.194202C17.9255 0.317136 17.9984 0.483436 18 0.657285C18.0016 0.831133 17.9317 0.99862 17.8055 1.12367L9.97985 8.61145C9.85149 8.735 9.6988 8.83295 9.53061 8.89965C9.36241 8.96634 9.18206 9.00045 9 9Z" fill="white"></path> </svg> </span> <span class="humany-loader"> <svg viewBox="25 25 50 50"> <circle cx="50" cy="50" r="20" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"></circle> </svg> </span> </a> <meta name="google-site-verification" content="1E7yrZmxF5WOKygBGgC0ml6qrQL-8m0aTfE2x5E82bE"> <script nonce="1d0a2b40-dc0c-11f1-9fd0-953797660826"> window.sv = window.sv || {}; sv.UNSAFE_MAY_CHANGE_AT_ANY_GIVEN_TIME_webAppExternals = {}; sv.PageContext = { pageId: '4.f36d14315437bafd792502', siteId: '2.2ed0f55c151ce2c16f01b2', userIdentityId: '', userIdentityReadTimeout: 0, userLocale: 'sv_SE', dev: fals

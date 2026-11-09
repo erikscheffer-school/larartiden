@@ -1,0 +1,616 @@
+Kommun: Degerfors  nyckel: degerfors.se
+
+######## SIDA: https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html
+Titel: Kommunfullmäktige - Degerfors kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html
+
+## Länkar (href | text | sammanhang)
+https://degerfors.se/om-webbplatsen.html | Läs mer om våra cookies | På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna 
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#Mittenspalt | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/ |  | 
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#menu | Meny | 
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#listen | Lyssna | Lyssna
+http://etjanster.degerfors.se/ | E-tjänster | E-tjänster
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakt | Kontakt
+https://degerfors.se/suomi.html | Suomeksi | Suomeksi
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html# | Välj språk​▼ | Välj språk​▼
+https://app.readspeaker.com/cgi-bin/rsent?customerid=9468&lang=sv&readid=svid94_2b562a0f15e574ebc2eca7&url=https%3A//degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html | Lyssna | Lyssna
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskap
+https://degerfors.se/ | Degerfors kommun | Degerfors kommun
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | /Kommun och politik
+https://degerfors.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | /Kommunens organisation
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#sharepage | Dela | Dela
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html#contact | Kontakt | Kontakt
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och kallelser | Kommunfullmäktige består av 31 ledamöter och 20 ersättare som sammanträder 10 gånger per år. Det här gör kommunfullmäkti
+https://youtube.com/playlist?list=PL-53j1Xs5nzJxsSu7M0IiuLCRnjuazI2O&si=U7RFc2tgm0UY-tIB | Lyssna på kommunfullmäktige på Youtube (öppnas i nytt fönster)
+Länk till annan w | Sändningar från kommunfullmäktige Det går att se och lyssna på sammanträdena i efterhand i 14 dagar. Lyssna på kommunful
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och handlingar | Protokoll och handlingar
+https://degerfors.se/download/18.5aeb199c16914b889fa7051/1571648429317/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige.pdf | Arbetsordning kommunfullmäktige
+Pdf, 160.5 kB, öppnas i nytt fönster. | Arbetsordning kommunfullmäktige Pdf, 160.5 kB, öppnas i nytt fönster.
+mailto:kommun@degerfors.se | E-post: Kommun och politik | E-post: Kommun och politik
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Fler kontaktuppgifter | Fler kontaktuppgifter
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/stall-en-fraga.html | STÄLL EN FRÅGA | STÄLL EN FRÅGA
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | LÄMNA EN SYNPUNKT | LÄMNA EN SYNPUNKT
+https://www.degerfors.se/kommun-och-politik/felanmalan.html | FELANMÄLAN
+LÄNK TILL ANNAN WEBBPLATS. | FELANMÄLAN LÄNK TILL ANNAN WEBBPLATS.
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html;jsessionid=8A93A0E4763F7260175A0FF03262FECF?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Kontakt | Evelina Holmkvist | Evelina Holmkvist
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildningÖppna/StängFörskolaÖppna/StängFramtida skolstruktur i Degerfors kommunÖppna/StängGrundskola och försk
+https://degerfors.se/barn-och-utbildning/forskola.html | Förskola | FörskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/framtida-skolstruktur-i-degerfors-kommun.html | Framtida skolstruktur i Degerfors kommun | Framtida skolstruktur i Degerfors kommunÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/grundskola-och-forskoleklass.html | Grundskola och förskoleklass | Grundskola och förskoleklassÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/anpassad-grundskola-och-gymnasieskola.html | Anpassad grundskola och gymnasieskola | Anpassad grundskola och gymnasieskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/vuxnas-larande.html | Vuxnas lärande | Vuxnas lärandeÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/elevhalsa.html | Elevhälsa | ElevhälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/barn-och-utbildning/lasarstider-och-lov.html | Läsårstider och lov | Läsårstider och lov
+https://degerfors.se/barn-och-utbildning/fritidsgard.html | Fritidsgård | Fritidsgård
+https://degerfors.se/barn-och-utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://degerfors.se/barn-och-utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://degerfors.se/barn-och-utbildning/maten-i-skolan-och-forskolan.html | Maten i skolan och förskolan | Maten i skolan och förskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/specialskola.html | Specialskola | Specialskola
+https://www.degerforsgymnasiet.se/ | Degerforsgymnasiet Länk till annan webbplats. | Degerforsgymnasiet Länk till annan webbplats.
+https://degerfors.se/barn-och-utbildning/resor-och-inackorderingstillagg-for-gymnasieelever.html | Resor och inackorderingstillägg för gymnasieelever | Resor och inackorderingstillägg för gymnasieelever
+https://degerfors.se/uppleva-och-gora/bibliotek/hela-degerfors-laser.html | Hela Degerfors läser | Hela Degerfors läser
+https://degerfors.se/barn-och-utbildning/kvalitet-och-utveckling.html | Kvalitet och utveckling | Kvalitet och utveckling
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj/backa-barnet.html | Backa barnet | Backa barnet
+https://degerfors.se/barn-och-utbildning/interkommunal-ersattning.html | Interkommunal ersättning | Interkommunal ersättning
+https://degerfors.se/barn-och-utbildning/medborgardialoger.html | Medborgardialoger | MedborgardialogerÖppna/Stäng
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/StängStöd till barn, unga och familjÖppna/StängEkonomi och försörjningBeroende och missbrukFunktion
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj.html | Stöd till barn, unga och familj | Stöd till barn, unga och familjÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ekonomi-och-forsorjning.html | Ekonomi och försörjning | Ekonomi och försörjning
+https://degerfors.se/omsorg-och-stod/beroende-och-missbruk.html | Beroende och missbruk | Beroende och missbruk
+https://degerfors.se/omsorg-och-stod/funktionsnedsattning.html | Funktionsnedsättning | FunktionsnedsättningÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/aldreomsorg.html | Äldreomsorg | ÄldreomsorgÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/maten-i-omsorgen.html | Maten i omsorgen | Maten i omsorgenÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ansok-om-stod-och-hjalp.html | Ansök om stöd och hjälp | Ansök om stöd och hjälp
+https://degerfors.se/omsorg-och-stod/stod-vid-vald-i-nara-relation.html | Stöd vid våld i nära relation | Stöd vid våld i nära relationÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://degerfors.se/omsorg-och-stod/hemsjukvard-och-rehabilitering.html | Hemsjukvård och rehabilitering | Hemsjukvård och rehabilitering
+https://degerfors.se/omsorg-och-stod/sekretess-anmalan-overklagande.html | Sekretess, anmälan, överklagande | Sekretess, anmälan, överklagande
+https://degerfors.se/omsorg-och-stod/avgifter-och-taxor.html | Avgifter och taxor | Avgifter och taxor
+https://degerfors.se/omsorg-och-stod/vigsel-och-begravning.html | Vigsel och begravning | Vigsel och begravning
+https://degerfors.se/omsorg-och-stod/konsument.html | Konsument | KonsumentÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/jobba-som-vikarie.html | Jobba som vikarie | Jobba som vikarie
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/omsorg-och-stod/psykisk-halsa.html | Psykisk hälsa | Psykisk hälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ny-socialtjanstlag-2025.html | Ny Socialtjänstlag 2025 | Ny Socialtjänstlag 2025
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljöÖppna/StängVatten och avloppÖppna/StängVattenmätare och avläsningÖppna/StängAvfall och återvi
+https://degerfors.se/bo-bygga-trafik-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/vattenmatare-och-avlasning.html | Vattenmätare och avläsning | Vattenmätare och avläsningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bygga-nytt-riva-eller-andra.html | Bygga nytt, riva eller ändra | Bygga nytt, riva eller ändraÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bostader-och-tomter.html | Bostäder och tomter | Bostäder och tomterÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskyddÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/gata-park-och-trafik.html | Gata, park och trafik | Gata, park och trafikÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/oversiktsplan-och-detaljplan.html | Översiktsplan och detaljplan | Översiktsplan och detaljplanÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/driftinformation.html | Driftinformation | Driftinformation
+https://degerfors.se/bo-bygga-trafik-och-miljo/kulturmiljoprogram.html | Kulturmiljöprogram | Kulturmiljöprogram
+https://degerfors.se/bo-bygga-trafik-och-miljo/luftkvalitet.html | Luftkvalitet | Luftkvalitet
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbeteÖppna/StängNyhetsbrevIntresseanmälan företagsbesökEvenemangFöretagsregisterStarta eget företagMark 
+https://degerfors.se/naringsliv-och-arbete/nyhetsbrev.html | Nyhetsbrev | Nyhetsbrev
+https://degerfors.se/naringsliv-och-arbete/intresseanmalan-foretagsbesok.html | Intresseanmälan företagsbesök | Intresseanmälan företagsbesök
+https://degerfors.se/naringsliv-och-arbete/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/naringsliv-och-arbete/foretagsregister.html | Företagsregister | Företagsregister
+https://degerfors.se/naringsliv-och-arbete/starta-eget-foretag.html | Starta eget företag | Starta eget företag
+https://degerfors.se/naringsliv-och-arbete/mark-och-lokaler.html | Mark och lokaler | Mark och lokaler
+https://degerfors.se/naringsliv-och-arbete/foretagsstod.html | Företagsstöd | Företagsstöd
+https://degerfors.se/naringsliv-och-arbete/upphandlingar-och-inkop.html | Upphandlingar och inköp | Upphandlingar och inköp
+https://degerfors.se/naringsliv-och-arbete/sok-tillstand.html | Sök tillstånd | Sök tillstånd
+https://degerfors.se/naringsliv-och-arbete/lediga-jobb.html | Lediga jobb | Lediga jobb
+https://degerfors.se/naringsliv-och-arbete/nyheter.html | Nyheter | Nyheter
+https://degerfors.se/naringsliv-och-arbete/naringslivsstrategi.html | Näringslivsstrategi | Näringslivsstrategi
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kommunens organisation Öppna/Stäng Kontakta oss Öppna/Stäng Ekonomi Öppna/Stäng Så fungerar kommunen 
+https://degerfors.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Öppna/Stäng Kontakta oss Öppna/Stäng Ekonomi Öppna/Stäng Så fungerar kommunen Kommunfullmäktige F
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakta oss | Kontakta oss Öppna/Stäng
+https://degerfors.se/kommun-och-politik/kommunens-organisation/ekonomi.html | Ekonomi | Ekonomi Öppna/Stäng
+https://degerfors.se/kommun-och-politik/kommunens-organisation/sa-fungerar-kommunen.html | Så fungerar kommunen | Så fungerar kommunen
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html | Kommunfullmäktige | Kommunfullmäktige
+https://degerfors.se/kommun-och-politik/kommunens-organisation/fortroendevalda-politiker.html | Förtroendevalda politiker | Förtroendevalda politiker Öppna/Stäng
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunstyrelse.html | Kommunstyrelse | Kommunstyrelse
+https://degerfors.se/kommun-och-politik/kommunens-organisation/namnder.html | Nämnder | Nämnder
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunala-bolag.html | Kommunala bolag | Kommunala bolag
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunrevision.html | Kommunrevision | Kommunrevision
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunala-rad.html | Kommunala råd | Kommunala råd
+https://degerfors.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta Öppna/Stäng
+https://degerfors.se/kommun-och-politik/finskt-forvaltningsomrade.html | Finskt förvaltningsområde | Finskt förvaltningsområde
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och kallelser | Protokoll och kallelser
+https://degerfors.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Öppna/Stäng
+https://degerfors.se/kommun-och-politik/arenden-rad-och-handlingar.html | Ärenden, råd och handlingar | Ärenden, råd och handlingar
+https://degerfors.se/kommun-och-politik/e-tjanster-och-blanketter.html | E-tjänster och blanketter | E-tjänster och blanketter
+https://degerfors.se/kommun-och-politik/sa-arbetar-vi-med....html | Så arbetar vi med... | Så arbetar vi med...
+https://degerfors.se/kommun-och-politik/folkhalsoarbete.html | Folkhälsoarbete | Folkhälsoarbete Öppna/Stäng
+https://degerfors.se/kommun-och-politik/minoritetssprak.html | Minoritetsspråk | Minoritetsspråk
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/StängEvenemangTuristinformationÖppna/StängBibliotekÖppna/StängKulturÖppna/StängIdrott, motion och 
+https://degerfors.se/uppleva-och-gora/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/uppleva-och-gora/turistinformation.html | Turistinformation | TuristinformationÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/kultur.html | Kultur | KulturÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/idrott-motion-och-friluftsliv.html | Idrott, motion och friluftsliv | Idrott, motion och friluftslivÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/centrum-och-shopping.html | Centrum och shopping | Centrum och shopping
+https://degerfors.se/uppleva-och-gora/foreningar-och-foreningsstod.html | Föreningar och föreningsstöd | Föreningar och föreningsstöd
+https://degerfors.se/uppleva-och-gora/folkets-hus.html | Folkets Hus | Folkets Hus
+https://degerfors.se/uppleva-och-gora/hostlov.html | Höstlov | Höstlov
+https://degerfors.se/uppleva-och-gora/anmal-en-aktivitet.html | Anmäl en aktivitet | Anmäl en aktivitet
+https://degerfors.se/uppleva-och-gora/aktiviteter-for-dig-som-ar-65-.html | Aktiviteter för dig som är 65+ | Aktiviteter för dig som är 65+
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskapÖppna/StängAtt komma till Sverige från Ukraina/Для прибулих до Швеції з УкраїниKrisberedskapÖppna/
+https://degerfors.se/sakerhet-och-beredskap/att-komma-till-sverige-fran-ukraina-dla-pribulih-do-svecii-z-ukraini.html | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України
+https://degerfors.se/sakerhet-och-beredskap/krisberedskap.html | Krisberedskap | KrisberedskapÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/sevesodirektiv.html | Sevesodirektiv | Sevesodirektiv
+https://degerfors.se/sakerhet-och-beredskap/skyddsrum.html | Skyddsrum | Skyddsrum
+https://degerfors.se/sakerhet-och-beredskap/trygghet.html | Trygghet | TrygghetÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/var-kan-jag-hitta-bra-information.html | Var kan jag hitta bra information? | Var kan jag hitta bra information?
+https://degerfors.se/sakerhet-och-beredskap/vma---viktigt-meddelande-till-allmanheten.html | VMA - viktigt meddelande till allmänheten | VMA - viktigt meddelande till allmänheten
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html# | Till toppen av sidan | Till toppen av sidan var jumpToPageLink = document.getElementsByClassName("lp-page-top"); var pageTop = document.getElem
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Meny
+Sök
+Lyssna
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="padding-top: 222px; position: relative; min-height: 100%; top: 0px;" data-rsevent-id="rs_910134"><div id="sv_i5svzOhjTV1fP9AhXGLKq" lang="sv"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_nkddn7jC30HeyQfyBjCJL"><h2 class="env-ui-text-subheading" id="sv_nkddn7jC30HeyQfyBjCJL">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna ger du samtycke till att vi använder dina cookies. degerfors.se använder cookies för att kunna följa webbtrafik och statistik för att göra hemsidan så användarvänlig som möjligt. </p><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen.html" rel="" target="_self">Läs mer om våra cookies</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn nödvändiga kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_2b562a0f15e574ebc2e3fe" class="sv-layout"><div id="svid94_2b562a0f15e574ebc2e354"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e39d"><div id="Hoppatillinnehall"><!-- Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#Mittenspalt">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#menu">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> <header class="sv-vertical sv-layout sv-template-layout" id="svid10_2b562a0f15e574ebc2e4fd"><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e731"><div id="Logotyp"><!-- Logotyp --></div><a href="/"><img alt="Degerfors kommun logotyp, länk till startsidan." class="sv-noborder c11762" width="320" height="100" srcset="/images/18.2b562a0f15e574ebc2e791/1505124828636/x160p/logo-x2.png 160w, /images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png 320w" sizes="100vw" src="/images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png"></a></div> <div 
+
+######## SIDA: https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html
+Titel: Protokoll och kallelser - Degerfors kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html
+
+## Länkar (href | text | sammanhang)
+https://degerfors.se/om-webbplatsen.html | Läs mer om våra cookies | På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#Mittenspalt | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/ |  | 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Meny | 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#listen | Lyssna | Lyssna
+http://etjanster.degerfors.se/ | E-tjänster | E-tjänster
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakt | Kontakt
+https://degerfors.se/suomi.html | Suomeksi | Suomeksi
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html# | Välj språk​▼ | Välj språk​▼
+https://app.readspeaker.com/cgi-bin/rsent?customerid=9468&lang=sv&readid=svid94_2b562a0f15e574ebc2ec7f&url=https%3A//degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Lyssna | Lyssna
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskap
+https://degerfors.se/ | Degerfors kommun | Degerfors kommun
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | /Kommun och politik
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#sharepage | Dela | Dela
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#contact | Kontakt | Kontakt
+tel:48100 | 48100 | Här kan du ta del av kommunfullmäktiges och nämndernas kallelser och protokoll. Protokoll från senaste sammanträdet pres
+mailto:kommun@degerfors.se | Degerfors kommun | Degerfors kommun
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Fler kontaktuppgifter | Fler kontaktuppgifter
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/stall-en-fraga.html | STÄLL EN FRÅGA | STÄLL EN FRÅGA
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | LÄMNA EN SYNPUNKT | LÄMNA EN SYNPUNKT
+https://www.degerfors.se/kommun-och-politik/felanmalan.html | FELANMÄLAN
+LÄNK TILL ANNAN WEBBPLATS. | FELANMÄLAN LÄNK TILL ANNAN WEBBPLATS.
+http://etjanster.degerfors.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Kontakt | Evelina Holmkvist | Evelina Holmkvist
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildningÖppna/StängFörskolaÖppna/StängFramtida skolstruktur i Degerfors kommunÖppna/StängGrundskola och försk
+https://degerfors.se/barn-och-utbildning/forskola.html | Förskola | FörskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/framtida-skolstruktur-i-degerfors-kommun.html | Framtida skolstruktur i Degerfors kommun | Framtida skolstruktur i Degerfors kommunÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/grundskola-och-forskoleklass.html | Grundskola och förskoleklass | Grundskola och förskoleklassÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/anpassad-grundskola-och-gymnasieskola.html | Anpassad grundskola och gymnasieskola | Anpassad grundskola och gymnasieskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/vuxnas-larande.html | Vuxnas lärande | Vuxnas lärandeÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/elevhalsa.html | Elevhälsa | ElevhälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/barn-och-utbildning/lasarstider-och-lov.html | Läsårstider och lov | Läsårstider och lov
+https://degerfors.se/barn-och-utbildning/fritidsgard.html | Fritidsgård | Fritidsgård
+https://degerfors.se/barn-och-utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://degerfors.se/barn-och-utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://degerfors.se/barn-och-utbildning/maten-i-skolan-och-forskolan.html | Maten i skolan och förskolan | Maten i skolan och förskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/specialskola.html | Specialskola | Specialskola
+https://www.degerforsgymnasiet.se/ | Degerforsgymnasiet Länk till annan webbplats. | Degerforsgymnasiet Länk till annan webbplats.
+https://degerfors.se/barn-och-utbildning/resor-och-inackorderingstillagg-for-gymnasieelever.html | Resor och inackorderingstillägg för gymnasieelever | Resor och inackorderingstillägg för gymnasieelever
+https://degerfors.se/uppleva-och-gora/bibliotek/hela-degerfors-laser.html | Hela Degerfors läser | Hela Degerfors läser
+https://degerfors.se/barn-och-utbildning/kvalitet-och-utveckling.html | Kvalitet och utveckling | Kvalitet och utveckling
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj/backa-barnet.html | Backa barnet | Backa barnet
+https://degerfors.se/barn-och-utbildning/interkommunal-ersattning.html | Interkommunal ersättning | Interkommunal ersättning
+https://degerfors.se/barn-och-utbildning/medborgardialoger.html | Medborgardialoger | MedborgardialogerÖppna/Stäng
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/StängStöd till barn, unga och familjÖppna/StängEkonomi och försörjningBeroende och missbrukFunktion
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj.html | Stöd till barn, unga och familj | Stöd till barn, unga och familjÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ekonomi-och-forsorjning.html | Ekonomi och försörjning | Ekonomi och försörjning
+https://degerfors.se/omsorg-och-stod/beroende-och-missbruk.html | Beroende och missbruk | Beroende och missbruk
+https://degerfors.se/omsorg-och-stod/funktionsnedsattning.html | Funktionsnedsättning | FunktionsnedsättningÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/aldreomsorg.html | Äldreomsorg | ÄldreomsorgÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/maten-i-omsorgen.html | Maten i omsorgen | Maten i omsorgenÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ansok-om-stod-och-hjalp.html | Ansök om stöd och hjälp | Ansök om stöd och hjälp
+https://degerfors.se/omsorg-och-stod/stod-vid-vald-i-nara-relation.html | Stöd vid våld i nära relation | Stöd vid våld i nära relationÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://degerfors.se/omsorg-och-stod/hemsjukvard-och-rehabilitering.html | Hemsjukvård och rehabilitering | Hemsjukvård och rehabilitering
+https://degerfors.se/omsorg-och-stod/sekretess-anmalan-overklagande.html | Sekretess, anmälan, överklagande | Sekretess, anmälan, överklagande
+https://degerfors.se/omsorg-och-stod/avgifter-och-taxor.html | Avgifter och taxor | Avgifter och taxor
+https://degerfors.se/omsorg-och-stod/vigsel-och-begravning.html | Vigsel och begravning | Vigsel och begravning
+https://degerfors.se/omsorg-och-stod/konsument.html | Konsument | KonsumentÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/jobba-som-vikarie.html | Jobba som vikarie | Jobba som vikarie
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/omsorg-och-stod/psykisk-halsa.html | Psykisk hälsa | Psykisk hälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ny-socialtjanstlag-2025.html | Ny Socialtjänstlag 2025 | Ny Socialtjänstlag 2025
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljöÖppna/StängVatten och avloppÖppna/StängVattenmätare och avläsningÖppna/StängAvfall och återvi
+https://degerfors.se/bo-bygga-trafik-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/vattenmatare-och-avlasning.html | Vattenmätare och avläsning | Vattenmätare och avläsningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bygga-nytt-riva-eller-andra.html | Bygga nytt, riva eller ändra | Bygga nytt, riva eller ändraÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bostader-och-tomter.html | Bostäder och tomter | Bostäder och tomterÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskyddÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/gata-park-och-trafik.html | Gata, park och trafik | Gata, park och trafikÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/oversiktsplan-och-detaljplan.html | Översiktsplan och detaljplan | Översiktsplan och detaljplanÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/driftinformation.html | Driftinformation | Driftinformation
+https://degerfors.se/bo-bygga-trafik-och-miljo/kulturmiljoprogram.html | Kulturmiljöprogram | Kulturmiljöprogram
+https://degerfors.se/bo-bygga-trafik-och-miljo/luftkvalitet.html | Luftkvalitet | Luftkvalitet
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbeteÖppna/StängNyhetsbrevIntresseanmälan företagsbesökEvenemangFöretagsregisterStarta eget företagMark 
+https://degerfors.se/naringsliv-och-arbete/nyhetsbrev.html | Nyhetsbrev | Nyhetsbrev
+https://degerfors.se/naringsliv-och-arbete/intresseanmalan-foretagsbesok.html | Intresseanmälan företagsbesök | Intresseanmälan företagsbesök
+https://degerfors.se/naringsliv-och-arbete/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/naringsliv-och-arbete/foretagsregister.html | Företagsregister | Företagsregister
+https://degerfors.se/naringsliv-och-arbete/starta-eget-foretag.html | Starta eget företag | Starta eget företag
+https://degerfors.se/naringsliv-och-arbete/mark-och-lokaler.html | Mark och lokaler | Mark och lokaler
+https://degerfors.se/naringsliv-och-arbete/foretagsstod.html | Företagsstöd | Företagsstöd
+https://degerfors.se/naringsliv-och-arbete/upphandlingar-och-inkop.html | Upphandlingar och inköp | Upphandlingar och inköp
+https://degerfors.se/naringsliv-och-arbete/sok-tillstand.html | Sök tillstånd | Sök tillstånd
+https://degerfors.se/naringsliv-och-arbete/lediga-jobb.html | Lediga jobb | Lediga jobb
+https://degerfors.se/naringsliv-och-arbete/nyheter.html | Nyheter | Nyheter
+https://degerfors.se/naringsliv-och-arbete/naringslivsstrategi.html | Näringslivsstrategi | Näringslivsstrategi
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kommunens organisation Öppna/Stäng Kommunfakta Öppna/Stäng Finskt förvaltningsområde Protokoll och ka
+https://degerfors.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Öppna/Stäng
+https://degerfors.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta Öppna/Stäng
+https://degerfors.se/kommun-och-politik/finskt-forvaltningsomrade.html | Finskt förvaltningsområde | Finskt förvaltningsområde
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och kallelser | Protokoll och kallelser
+https://degerfors.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Öppna/Stäng
+https://degerfors.se/kommun-och-politik/arenden-rad-och-handlingar.html | Ärenden, råd och handlingar | Ärenden, råd och handlingar
+https://degerfors.se/kommun-och-politik/e-tjanster-och-blanketter.html | E-tjänster och blanketter | E-tjänster och blanketter
+https://degerfors.se/kommun-och-politik/sa-arbetar-vi-med....html | Så arbetar vi med... | Så arbetar vi med...
+https://degerfors.se/kommun-och-politik/folkhalsoarbete.html | Folkhälsoarbete | Folkhälsoarbete Öppna/Stäng
+https://degerfors.se/kommun-och-politik/minoritetssprak.html | Minoritetsspråk | Minoritetsspråk
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/StängEvenemangTuristinformationÖppna/StängBibliotekÖppna/StängKulturÖppna/StängIdrott, motion och 
+https://degerfors.se/uppleva-och-gora/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/uppleva-och-gora/turistinformation.html | Turistinformation | TuristinformationÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/kultur.html | Kultur | KulturÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/idrott-motion-och-friluftsliv.html | Idrott, motion och friluftsliv | Idrott, motion och friluftslivÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/centrum-och-shopping.html | Centrum och shopping | Centrum och shopping
+https://degerfors.se/uppleva-och-gora/foreningar-och-foreningsstod.html | Föreningar och föreningsstöd | Föreningar och föreningsstöd
+https://degerfors.se/uppleva-och-gora/folkets-hus.html | Folkets Hus | Folkets Hus
+https://degerfors.se/uppleva-och-gora/hostlov.html | Höstlov | Höstlov
+https://degerfors.se/uppleva-och-gora/anmal-en-aktivitet.html | Anmäl en aktivitet | Anmäl en aktivitet
+https://degerfors.se/uppleva-och-gora/aktiviteter-for-dig-som-ar-65-.html | Aktiviteter för dig som är 65+ | Aktiviteter för dig som är 65+
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskapÖppna/StängAtt komma till Sverige från Ukraina/Для прибулих до Швеції з УкраїниKrisberedskapÖppna/
+https://degerfors.se/sakerhet-och-beredskap/att-komma-till-sverige-fran-ukraina-dla-pribulih-do-svecii-z-ukraini.html | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України
+https://degerfors.se/sakerhet-och-beredskap/krisberedskap.html | Krisberedskap | KrisberedskapÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/sevesodirektiv.html | Sevesodirektiv | Sevesodirektiv
+https://degerfors.se/sakerhet-och-beredskap/skyddsrum.html | Skyddsrum | Skyddsrum
+https://degerfors.se/sakerhet-och-beredskap/trygghet.html | Trygghet | TrygghetÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/var-kan-jag-hitta-bra-information.html | Var kan jag hitta bra information? | Var kan jag hitta bra information?
+https://degerfors.se/sakerhet-och-beredskap/vma---viktigt-meddelande-till-allmanheten.html | VMA - viktigt meddelande till allmänheten | VMA - viktigt meddelande till allmänheten
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html# | Till toppen av sidan | Till toppen av sidan var jumpToPageLink = document.getElementsByClassName("lp-page-top"); var pageTop = document.getElem
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskap
+javascript:void(window.open('/kommun-och-politik/kommunfakta/hantering-av-personuppgifter.html','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Behandling av personuppgifter | Behandling av personuppgifter
+https://degerfors.se/kommun-och-politik/felanmalan.html | Felanmälan | Felanmälan
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss/journummer.html | Journummer | Journummer
+https://degerfors.se/om-webbplatsen.html | Om webbplatsen | Om webbplatsen
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | Synpunkter, klagomål och beröm | Synpunkter, klagomål och beröm
+javascript:void(window.open('https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss/visselblasarfunktion','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Visselblåsarfunktion | Visselblåsarfunktion
+https://degerfors.se/funktioner/menyer/ovrig-information-i-sidfot/tillganglighet-for-degerfors.se.html | Tillgänglighet för degerfors.se | Tillgänglighet för degerfors.se
+javascript:void(window.open('http://portal.degerfors.se','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Degerfors kommuns Portal | Degerfors kommuns Portal
+javascript:void(window.open('https://intranet.degerfors.se','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Degerfors Kommun Intranät | Degerfors Kommun Intranät
+https://degerforspweb.aspenterprise.visma.se/PMobile/#!/home | Självservice extern | Självservice extern
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Alla kontaktuppgifter | Degerfors kommun, 693 80 Degerfors Organisationsnummer: 212000-1934 Telefon: 0586-481 00 E-post: kommun@degerfors.se All
+javascript:void(window.open('https://www.facebook.com/Degerfors-kommun-296298613030/','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Facebook | 
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Meny
+Sök
+Lyssna
+Kommunfullmäktige
+Kommunstyrelsen
+Kommunstyrelsens arbetsutskott
+Bygg- och miljönämnden
+Kultur- och utbildningsnämnden
+Kultur- och utbildningsnämndens utskott
+Kultur- och utbildningsnämndens arbetsutskott
+Servicenämnden
+Servicenämndens arbetsutskott
+Socialnämnden
+Socialnämndens utskott
+Valnämnden
+Krisledningsnämnden
+Kommunala rådet för funktionshinderfrågor
+Kommunala pensionärsrådet
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="padding-top: 222px; position: relative; min-height: 100%; top: 0px;" data-rsevent-id="rs_386620"><div id="sv_ze7PoPfG6dyLpN4hClLP9" lang="sv"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_YL30fOhMepN3aaWQ6inS3"><h2 class="env-ui-text-subheading" id="sv_YL30fOhMepN3aaWQ6inS3">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna ger du samtycke till att vi använder dina cookies. degerfors.se använder cookies för att kunna följa webbtrafik och statistik för att göra hemsidan så användarvänlig som möjligt. </p><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen.html" rel="" target="_self">Läs mer om våra cookies</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn nödvändiga kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_2b562a0f15e574ebc2e3fe" class="sv-layout"><div id="svid94_2b562a0f15e574ebc2e354"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e39d"><div id="Hoppatillinnehall"><!-- Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#Mittenspalt">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#menu">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> <header class="sv-vertical sv-layout sv-template-layout" id="svid10_2b562a0f15e574ebc2e4fd"><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e731"><div id="Logotyp"><!-- Logotyp --></div><a href="/"><img alt="Degerfors kommun logotyp, länk till startsidan." class="sv-noborder c11762" width="320" height="100" srcset="/images/18.2b562a0f15e574ebc2e791/1505124828636/x160p/logo-x2.png 160w, /images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png 320w" sizes="100vw" src="/images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png"></a></div> <div 
+
+######## SIDA: https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#Mittenspalt
+Titel: Protokoll och kallelser - Degerfors kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://degerfors.se/om-webbplatsen.html | Läs mer om våra cookies | På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#Mittenspalt | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://degerfors.se/ |  | 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#menu | Meny | 
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#listen | Lyssna | Lyssna
+http://etjanster.degerfors.se/ | E-tjänster | E-tjänster
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Kontakt | Kontakt
+https://degerfors.se/suomi.html | Suomeksi | Suomeksi
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html# | Välj språk​▼ | Välj språk​▼
+https://app.readspeaker.com/cgi-bin/rsent?customerid=9468&lang=sv&readid=svid94_2b562a0f15e574ebc2ec7f&url=https%3A//degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Lyssna | Lyssna
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskap
+https://degerfors.se/ | Degerfors kommun | Degerfors kommun
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | /Kommun och politik
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#sharepage | Dela | Dela
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html#contact | Kontakt | Kontakt
+tel:48100 | 48100 | Här kan du ta del av kommunfullmäktiges och nämndernas kallelser och protokoll. Protokoll från senaste sammanträdet pres
+mailto:kommun@degerfors.se | Degerfors kommun | Degerfors kommun
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Fler kontaktuppgifter | Fler kontaktuppgifter
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/stall-en-fraga.html | STÄLL EN FRÅGA | STÄLL EN FRÅGA
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | LÄMNA EN SYNPUNKT | LÄMNA EN SYNPUNKT
+https://www.degerfors.se/kommun-och-politik/felanmalan.html | FELANMÄLAN
+LÄNK TILL ANNAN WEBBPLATS. | FELANMÄLAN LÄNK TILL ANNAN WEBBPLATS.
+http://etjanster.degerfors.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html?contactUserId=247.de126b1381f42f4ca37837e907b22f4b&sv.url=12.19aeb83315f2f8905da251a&state=showSendMessage#Kontakt | Evelina Holmkvist | Evelina Holmkvist
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildningÖppna/StängFörskolaÖppna/StängFramtida skolstruktur i Degerfors kommunÖppna/StängGrundskola och försk
+https://degerfors.se/barn-och-utbildning/forskola.html | Förskola | FörskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/framtida-skolstruktur-i-degerfors-kommun.html | Framtida skolstruktur i Degerfors kommun | Framtida skolstruktur i Degerfors kommunÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/grundskola-och-forskoleklass.html | Grundskola och förskoleklass | Grundskola och förskoleklassÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/anpassad-grundskola-och-gymnasieskola.html | Anpassad grundskola och gymnasieskola | Anpassad grundskola och gymnasieskolaÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/vuxnas-larande.html | Vuxnas lärande | Vuxnas lärandeÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/kulturskolan.html | Kulturskolan | KulturskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/elevhalsa.html | Elevhälsa | ElevhälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/barn-och-utbildning/lasarstider-och-lov.html | Läsårstider och lov | Läsårstider och lov
+https://degerfors.se/barn-och-utbildning/fritidsgard.html | Fritidsgård | Fritidsgård
+https://degerfors.se/barn-och-utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://degerfors.se/barn-och-utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://degerfors.se/barn-och-utbildning/maten-i-skolan-och-forskolan.html | Maten i skolan och förskolan | Maten i skolan och förskolanÖppna/Stäng
+https://degerfors.se/barn-och-utbildning/specialskola.html | Specialskola | Specialskola
+https://www.degerforsgymnasiet.se/ | Degerforsgymnasiet Länk till annan webbplats. | Degerforsgymnasiet Länk till annan webbplats.
+https://degerfors.se/barn-och-utbildning/resor-och-inackorderingstillagg-for-gymnasieelever.html | Resor och inackorderingstillägg för gymnasieelever | Resor och inackorderingstillägg för gymnasieelever
+https://degerfors.se/uppleva-och-gora/bibliotek/hela-degerfors-laser.html | Hela Degerfors läser | Hela Degerfors läser
+https://degerfors.se/barn-och-utbildning/kvalitet-och-utveckling.html | Kvalitet och utveckling | Kvalitet och utveckling
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj/backa-barnet.html | Backa barnet | Backa barnet
+https://degerfors.se/barn-och-utbildning/interkommunal-ersattning.html | Interkommunal ersättning | Interkommunal ersättning
+https://degerfors.se/barn-och-utbildning/medborgardialoger.html | Medborgardialoger | MedborgardialogerÖppna/Stäng
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stödÖppna/StängStöd till barn, unga och familjÖppna/StängEkonomi och försörjningBeroende och missbrukFunktion
+https://degerfors.se/omsorg-och-stod/stod-till-barn-unga-och-familj.html | Stöd till barn, unga och familj | Stöd till barn, unga och familjÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ekonomi-och-forsorjning.html | Ekonomi och försörjning | Ekonomi och försörjning
+https://degerfors.se/omsorg-och-stod/beroende-och-missbruk.html | Beroende och missbruk | Beroende och missbruk
+https://degerfors.se/omsorg-och-stod/funktionsnedsattning.html | Funktionsnedsättning | FunktionsnedsättningÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/aldreomsorg.html | Äldreomsorg | ÄldreomsorgÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/maten-i-omsorgen.html | Maten i omsorgen | Maten i omsorgenÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ansok-om-stod-och-hjalp.html | Ansök om stöd och hjälp | Ansök om stöd och hjälp
+https://degerfors.se/omsorg-och-stod/stod-vid-vald-i-nara-relation.html | Stöd vid våld i nära relation | Stöd vid våld i nära relationÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd | Anhörigstöd
+https://degerfors.se/omsorg-och-stod/hemsjukvard-och-rehabilitering.html | Hemsjukvård och rehabilitering | Hemsjukvård och rehabilitering
+https://degerfors.se/omsorg-och-stod/sekretess-anmalan-overklagande.html | Sekretess, anmälan, överklagande | Sekretess, anmälan, överklagande
+https://degerfors.se/omsorg-och-stod/avgifter-och-taxor.html | Avgifter och taxor | Avgifter och taxor
+https://degerfors.se/omsorg-och-stod/vigsel-och-begravning.html | Vigsel och begravning | Vigsel och begravning
+https://degerfors.se/omsorg-och-stod/konsument.html | Konsument | KonsumentÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/jobba-som-vikarie.html | Jobba som vikarie | Jobba som vikarie
+https://degerfors.se/omsorg-och-stod/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://degerfors.se/omsorg-och-stod/psykisk-halsa.html | Psykisk hälsa | Psykisk hälsaÖppna/Stäng
+https://degerfors.se/omsorg-och-stod/ny-socialtjanstlag-2025.html | Ny Socialtjänstlag 2025 | Ny Socialtjänstlag 2025
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljöÖppna/StängVatten och avloppÖppna/StängVattenmätare och avläsningÖppna/StängAvfall och återvi
+https://degerfors.se/bo-bygga-trafik-och-miljo/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avloppÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/vattenmatare-och-avlasning.html | Vattenmätare och avläsning | Vattenmätare och avläsningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bygga-nytt-riva-eller-andra.html | Bygga nytt, riva eller ändra | Bygga nytt, riva eller ändraÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/bostader-och-tomter.html | Bostäder och tomter | Bostäder och tomterÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskyddÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/gata-park-och-trafik.html | Gata, park och trafik | Gata, park och trafikÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning | Energi och uppvärmningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning | Brandskydd och sotningÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/oversiktsplan-och-detaljplan.html | Översiktsplan och detaljplan | Översiktsplan och detaljplanÖppna/Stäng
+https://degerfors.se/bo-bygga-trafik-och-miljo/driftinformation.html | Driftinformation | Driftinformation
+https://degerfors.se/bo-bygga-trafik-och-miljo/kulturmiljoprogram.html | Kulturmiljöprogram | Kulturmiljöprogram
+https://degerfors.se/bo-bygga-trafik-och-miljo/luftkvalitet.html | Luftkvalitet | Luftkvalitet
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbeteÖppna/StängNyhetsbrevIntresseanmälan företagsbesökEvenemangFöretagsregisterStarta eget företagMark 
+https://degerfors.se/naringsliv-och-arbete/nyhetsbrev.html | Nyhetsbrev | Nyhetsbrev
+https://degerfors.se/naringsliv-och-arbete/intresseanmalan-foretagsbesok.html | Intresseanmälan företagsbesök | Intresseanmälan företagsbesök
+https://degerfors.se/naringsliv-och-arbete/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/naringsliv-och-arbete/foretagsregister.html | Företagsregister | Företagsregister
+https://degerfors.se/naringsliv-och-arbete/starta-eget-foretag.html | Starta eget företag | Starta eget företag
+https://degerfors.se/naringsliv-och-arbete/mark-och-lokaler.html | Mark och lokaler | Mark och lokaler
+https://degerfors.se/naringsliv-och-arbete/foretagsstod.html | Företagsstöd | Företagsstöd
+https://degerfors.se/naringsliv-och-arbete/upphandlingar-och-inkop.html | Upphandlingar och inköp | Upphandlingar och inköp
+https://degerfors.se/naringsliv-och-arbete/sok-tillstand.html | Sök tillstånd | Sök tillstånd
+https://degerfors.se/naringsliv-och-arbete/lediga-jobb.html | Lediga jobb | Lediga jobb
+https://degerfors.se/naringsliv-och-arbete/nyheter.html | Nyheter | Nyheter
+https://degerfors.se/naringsliv-och-arbete/naringslivsstrategi.html | Näringslivsstrategi | Näringslivsstrategi
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Kommunens organisation Öppna/Stäng Kommunfakta Öppna/Stäng Finskt förvaltningsområde Protokoll och ka
+https://degerfors.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Öppna/Stäng
+https://degerfors.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta Öppna/Stäng
+https://degerfors.se/kommun-och-politik/finskt-forvaltningsomrade.html | Finskt förvaltningsområde | Finskt förvaltningsområde
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html | Protokoll och kallelser | Protokoll och kallelser
+https://degerfors.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Öppna/Stäng
+https://degerfors.se/kommun-och-politik/arenden-rad-och-handlingar.html | Ärenden, råd och handlingar | Ärenden, råd och handlingar
+https://degerfors.se/kommun-och-politik/e-tjanster-och-blanketter.html | E-tjänster och blanketter | E-tjänster och blanketter
+https://degerfors.se/kommun-och-politik/sa-arbetar-vi-med....html | Så arbetar vi med... | Så arbetar vi med...
+https://degerfors.se/kommun-och-politik/folkhalsoarbete.html | Folkhälsoarbete | Folkhälsoarbete Öppna/Stäng
+https://degerfors.se/kommun-och-politik/minoritetssprak.html | Minoritetsspråk | Minoritetsspråk
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göraÖppna/StängEvenemangTuristinformationÖppna/StängBibliotekÖppna/StängKulturÖppna/StängIdrott, motion och 
+https://degerfors.se/uppleva-och-gora/evenemang.html | Evenemang | Evenemang
+https://degerfors.se/uppleva-och-gora/turistinformation.html | Turistinformation | TuristinformationÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/bibliotek.html | Bibliotek | BibliotekÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/kultur.html | Kultur | KulturÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/idrott-motion-och-friluftsliv.html | Idrott, motion och friluftsliv | Idrott, motion och friluftslivÖppna/Stäng
+https://degerfors.se/uppleva-och-gora/centrum-och-shopping.html | Centrum och shopping | Centrum och shopping
+https://degerfors.se/uppleva-och-gora/foreningar-och-foreningsstod.html | Föreningar och föreningsstöd | Föreningar och föreningsstöd
+https://degerfors.se/uppleva-och-gora/folkets-hus.html | Folkets Hus | Folkets Hus
+https://degerfors.se/uppleva-och-gora/hostlov.html | Höstlov | Höstlov
+https://degerfors.se/uppleva-och-gora/anmal-en-aktivitet.html | Anmäl en aktivitet | Anmäl en aktivitet
+https://degerfors.se/uppleva-och-gora/aktiviteter-for-dig-som-ar-65-.html | Aktiviteter för dig som är 65+ | Aktiviteter för dig som är 65+
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskapÖppna/StängAtt komma till Sverige från Ukraina/Для прибулих до Швеції з УкраїниKrisberedskapÖppna/
+https://degerfors.se/sakerhet-och-beredskap/att-komma-till-sverige-fran-ukraina-dla-pribulih-do-svecii-z-ukraini.html | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України | Att komma till Sverige från Ukraina/Для прибулих до Швеції з України
+https://degerfors.se/sakerhet-och-beredskap/krisberedskap.html | Krisberedskap | KrisberedskapÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/sevesodirektiv.html | Sevesodirektiv | Sevesodirektiv
+https://degerfors.se/sakerhet-och-beredskap/skyddsrum.html | Skyddsrum | Skyddsrum
+https://degerfors.se/sakerhet-och-beredskap/trygghet.html | Trygghet | TrygghetÖppna/Stäng
+https://degerfors.se/sakerhet-och-beredskap/var-kan-jag-hitta-bra-information.html | Var kan jag hitta bra information? | Var kan jag hitta bra information?
+https://degerfors.se/sakerhet-och-beredskap/vma---viktigt-meddelande-till-allmanheten.html | VMA - viktigt meddelande till allmänheten | VMA - viktigt meddelande till allmänheten
+https://degerfors.se/kommun-och-politik/protokoll-och-kallelser.html# | Till toppen av sidan | Till toppen av sidan var jumpToPageLink = document.getElementsByClassName("lp-page-top"); var pageTop = document.getElem
+https://degerfors.se/barn-och-utbildning.html | Barn och utbildning | Barn och utbildning
+https://degerfors.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://degerfors.se/bo-bygga-trafik-och-miljo.html | Bo, bygga, trafik och miljö | Bo, bygga, trafik och miljö
+https://degerfors.se/naringsliv-och-arbete.html | Näringsliv och arbete | Näringsliv och arbete
+https://degerfors.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://degerfors.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://degerfors.se/sakerhet-och-beredskap.html | Säkerhet och beredskap | Säkerhet och beredskap
+javascript:void(window.open('/kommun-och-politik/kommunfakta/hantering-av-personuppgifter.html','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Behandling av personuppgifter | Behandling av personuppgifter
+https://degerfors.se/kommun-och-politik/felanmalan.html | Felanmälan | Felanmälan
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss/journummer.html | Journummer | Journummer
+https://degerfors.se/om-webbplatsen.html | Om webbplatsen | Om webbplatsen
+https://degerfors.se/kommun-och-politik/politik-och-demokrati/synpunkter-klagomal-och-berom.html | Synpunkter, klagomål och beröm | Synpunkter, klagomål och beröm
+javascript:void(window.open('https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss/visselblasarfunktion','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Visselblåsarfunktion | Visselblåsarfunktion
+https://degerfors.se/funktioner/menyer/ovrig-information-i-sidfot/tillganglighet-for-degerfors.se.html | Tillgänglighet för degerfors.se | Tillgänglighet för degerfors.se
+javascript:void(window.open('http://portal.degerfors.se','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Degerfors kommuns Portal | Degerfors kommuns Portal
+javascript:void(window.open('https://intranet.degerfors.se','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Degerfors Kommun Intranät | Degerfors Kommun Intranät
+https://degerforspweb.aspenterprise.visma.se/PMobile/#!/home | Självservice extern | Självservice extern
+https://degerfors.se/kommun-och-politik/kommunens-organisation/kontakta-oss.html | Alla kontaktuppgifter | Degerfors kommun, 693 80 Degerfors Organisationsnummer: 212000-1934 Telefon: 0586-481 00 E-post: kommun@degerfors.se All
+javascript:void(window.open('https://www.facebook.com/Degerfors-kommun-296298613030/','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | Facebook | 
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Meny
+Sök
+Lyssna
+Kommunfullmäktige
+Kommunstyrelsen
+Kommunstyrelsens arbetsutskott
+Bygg- och miljönämnden
+Kultur- och utbildningsnämnden
+Kultur- och utbildningsnämndens utskott
+Kultur- och utbildningsnämndens arbetsutskott
+Servicenämnden
+Servicenämndens arbetsutskott
+Socialnämnden
+Socialnämndens utskott
+Valnämnden
+Krisledningsnämnden
+Kommunala rådet för funktionshinderfrågor
+Kommunala pensionärsrådet
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+Öppna/Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="padding-top: 222px; position: relative; min-height: 100%; top: 0px;" data-rsevent-id="rs_386620"><div id="sv_ze7PoPfG6dyLpN4hClLP9" lang="sv"><div class="sv-cookie-consent-banner env-ui-section Oh4zQe1d7Yd3p9H1HWsQ" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_YL30fOhMepN3aaWQ6inS3"><h2 class="env-ui-text-subheading" id="sv_YL30fOhMepN3aaWQ6inS3">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">På degerfors.se använder vi cookies (kakor) för att webbplatsen ska fungera på ett bra sätt för dig. Genom att godkänna ger du samtycke till att vi använder dina cookies. degerfors.se använder cookies för att kunna följa webbtrafik och statistik för att göra hemsidan så användarvänlig som möjligt. </p><p class="env-m-top--x-small env-text"><a class="env-link" href="/om-webbplatsen.html" rel="" target="_self">Läs mer om våra cookies</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn nödvändiga kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.607d387a17d560a7e9f1e3b&amp;sv.12.607d387a17d560a7e9f1e3b.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_2b562a0f15e574ebc2e3fe" class="sv-layout"><div id="svid94_2b562a0f15e574ebc2e354"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e39d"><div id="Hoppatillinnehall"><!-- Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#Mittenspalt">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#menu">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> <header class="sv-vertical sv-layout sv-template-layout" id="svid10_2b562a0f15e574ebc2e4fd"><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer sv-template-portlet " id="svid12_2b562a0f15e574ebc2e731"><div id="Logotyp"><!-- Logotyp --></div><a href="/"><img alt="Degerfors kommun logotyp, länk till startsidan." class="sv-noborder c11762" width="320" height="100" srcset="/images/18.2b562a0f15e574ebc2e791/1505124828636/x160p/logo-x2.png 160w, /images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png 320w" sizes="100vw" src="/images/18.2b562a0f15e574ebc2e791/1505124828636/logo-x2.png"></a></div> <div 

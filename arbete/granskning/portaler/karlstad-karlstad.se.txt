@@ -1,0 +1,411 @@
+Kommun: Karlstad  nyckel: karlstad.se
+
+######## SIDA: https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige
+Titel: Kommunfullmäktige | Karlstads kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/a93b204f-1e87-4ca6-96a0-903e9e96a815/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+GET 200 xhr application/json;charset=UTF-8 https://karlstad.se/appresource/4.6500f1531828622fe5011c/12.6eebe1819ab5dcb4a1564b/getEventsPerMonth?date=2026-11-09&svAjaxReqParam=ajax
+      {"results":[{"image":{"link":"","altText":""},"metadataOne":["Kommun och politik","Kommun och politik - Kommunfullmäktige"],"endDate":"2026-11-19T00:00:00","title":"Kommunfullmäktige den 19 november","eventDates":["2026-11-19 17:00-00:00"],"URI":"/kalender/kommun-och-politik/kommunfullmaktige/2025-12-01-kommunfullmaktige-den-19-november","sales_text":"Kommunfullmäktige sammanträder.","metadataTwo":null,"pageTags":null,"nextEvent":1.795104E12,"eventPlace":"","occasions":[{"endDate":1.7950428E12,"startDate":1.795104E12}],"id":"5.39b6148519ad87f5b9cc0b","startDate":"2026-11-19T17:00:00"}],"numberOfHits":1}
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Kommunfullmäktige | Karlstads kommun","pid":"4.6500f1531828622fe5011c","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["4.6500f1531828622fe5011c"]},"cf":[],"csf":[],"p":"7f4d23ca","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:05:03.199Z","url":"/kommun-och-politik/kommunens-organisation/kommun
+
+## Länkar (href | text | sammanhang)
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor | På karlstad.se använder vi kakor (cookies) för att webbplatsen ska fungera på ett bra sätt för dig. Lär mer om kakor
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#main-content | Hoppa till innehåll | Hoppa till innehåll
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd | Kokningsrekommendation i Vålberg hävd Karlstads kommun har hävt kokningsrekommendation för alla hushåll i området Åstorp
+https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster. | Alsters herrgård Öppnas i nytt fönster.
+https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster. | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+https://karlstad.se/jobba-hos-oss | Jobba hos oss Öppnas i nytt fönster. | Jobba hos oss Öppnas i nytt fönster.
+https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster. | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster. | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster. | Karlstads kommun Öppnas i nytt fönster.
+https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster. | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster. | Karlstads parkering Öppnas i nytt fönster.
+https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster. | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster. | Karlstad växer Öppnas i nytt fönster.
+https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster. | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster. | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande  Öppnas i nytt fönster. | Näringsliv och företagande Öppnas i nytt fönster.
+https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fön | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/smarta-karlstad | Smarta Karlstad | Smarta Karlstad
+https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster. | Sundstabadet Öppnas i nytt fönster.
+https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster. | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster. | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate | Öppna Våra webbplatser Translate
+https://karlstad.se/ | Länk till startsidan för Karlstad.se | 
+https://e-tjanster.karlstad.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+javascript:void(window.open('https://e-tjanster.karlstad.se/','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | E-tjänster | E-tjänster
+https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://karlstad.se/uppleva-och-gora | Uppleva och göra | Uppleva och göra
+https://karlstad.se/omsorg-och-stod | Omsorg och stöd | Omsorg och stöd
+https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart | Bygga, bo och leva hållbart
+https://karlstad.se/trafik-och-gator | Trafik och gator | Trafik och gator
+https://karlstad.se/kommun-och-politik | Kommun och politik | Kommun och politikKontakta Karlstads kommunMöten, kallelser och protokollKommunens organisationPolitiker och politiska s
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta Karlstads kommun | Kontakta Karlstads kommun
+https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll | Möten, kallelser och protokoll | Möten, kallelser och protokoll
+https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation | Kommunens organisationPolitiker och politiska sekreterareKommunfullmäktigeWebbsändningarSå går ett möte tillKommunstyrel
+https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare | Politiker och politiska sekreterare
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige | KommunfullmäktigeWebbsändningarSå går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Webbsändningar | Webbsändningar
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Så går ett möte till | Så går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder | Nämnder
+https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar | Förvaltningar
+https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag | Bolag
+https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer | Revisorer
+https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ | Rådgivande organ
+https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder | Stiftelser och fonder
+https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum | Samverkansforum
+https://karlstad.se/kommun-och-politik/delta-och-paverka | Delta och påverka | Delta och påverka
+https://karlstad.se/kommun-och-politik/val-och-folkomrostningar | Val och folkomröstningar | Val och folkomröstningar
+https://karlstad.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://karlstad.se/kommun-och-politik/lagar-och-regler | Lagar och regler | Lagar och regler
+https://karlstad.se/kommun-och-politik/kommunfakta | Kommunfakta | Kommunfakta
+https://karlstad.se/kommun-och-politik/karlstads-kommuns-kanaler | Karlstads kommuns kanaler | Karlstads kommuns kanaler
+https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press och kommunikationsmaterial | Press och kommunikationsmaterial
+https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med | Så arbetar vi med
+https://karlstad.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel | Borgerlig vigsel
+https://karlstad.se/kommun-och-politik/kartor-och-geografisk-information-gis | Kartor och geografisk information GIS | Kartor och geografisk information GIS
+https://karlstad.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap | Kris och beredskap
+https://karlstad.se/ | Karlstad.se | 
+https://karlstad.se/kommun-och-politik | Kommun och politik | Kommun och politik
+https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation | Kommunens organisation
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#ksMobileTocContent | Innehåll på sida | Innehåll på sida Kontakta kommunfullmäktigeOm kommunfullmäktigeDirektsända fullmäktigemötenLedamöterMöteskalenderKallels
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kontaktakommunfullmaktige | Kontakta kommunfullmäktige | Kontakta kommunfullmäktige
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Omkommunfullmaktige | Om kommunfullmäktige | Om kommunfullmäktige
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Direktsandafullmaktigemoten | Direktsända fullmäktigemöten | Direktsända fullmäktigemöten
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Ledamoter | Ledamöter | Ledamöter
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Moteskalender | Möteskalender | Möteskalender
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kallelserochprotokoll | Kallelser och protokoll | Kallelser och protokoll
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sagarettmotetill | Så går ett möte till | Så går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Mandatfordelning | Mandatfördelning | Mandatfördelning
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Valberedning | Valberedning | Valberedning
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kontaktakommunfullmaktige | Kontakta kommunfullmäktige | Kontakta kommunfullmäktige
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Omkommunfullmaktige | Om kommunfullmäktige | Om kommunfullmäktige
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Direktsandafullmaktigemoten | Direktsända fullmäktigemöten | Direktsända fullmäktigemöten
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Ledamoter | Ledamöter | Ledamöter
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Moteskalender | Möteskalender | Möteskalender
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kallelserochprotokoll | Kallelser och protokoll | Kallelser och protokoll
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sagarettmotetill | Så går ett möte till | Så går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Mandatfordelning | Mandatfördelning | Mandatfördelning
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Valberedning | Valberedning | Valberedning
+tel:054-5401083 | 054-540 10 83 | Kontakta kommunfullmäktigeRakel Salomonsson, sekreterareTelefon: 054-540 10 83E-post: rakel.salomonsson@karlstad.se
+mailto:rakel.salomonsson@karlstad.se | rakel.salomonsson@karlstad.se | Kontakta kommunfullmäktigeRakel Salomonsson, sekreterareTelefon: 054-540 10 83E-post: rakel.salomonsson@karlstad.se
+tel:054-5400000 | 054-540 00 00 | KontaktcenterArkaden, Östra Torggatan 9651 84 Karlstad054-540 00 00karlstadskommun@karlstad.seÖppettider telefon: Måndag
+mailto:karlstadskommun@karlstad.se | karlstadskommun@karlstad.se | KontaktcenterArkaden, Östra Torggatan 9651 84 Karlstad054-540 00 00karlstadskommun@karlstad.seÖppettider telefon: Måndag
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Se kommunfullmäktiges möten | Se kommunfullmäktiges möten
+https://karlstad.tromanpublik.se/viewOrganization.jsf?id=fd2ccc4c-120c-4baa-9f63-e13c4d9c7947 | Ledamöter i kommunfullmäktige | Ledamöter i kommunfullmäktige
+https://karlstad.se/kalender/kommun-och-politik/kommunfullmaktige/2025-12-01-kommunfullmaktige-den-19-november | 19 nov.
+Kommunfullmäktige den 19 november
+
+Kommunfullmäktige sammanträder.
+
+Näst | 19 nov. Kommunfullmäktige den 19 november Kommunfullmäktige sammanträder. Nästa tillfälle: 19 nov. 16.00
+https://karlstad.se/kalender/kommun-och-politik/kommunfullmaktige/2025-12-01-kommunfullmaktige-den-10-december | 10 dec.
+Kommunfullmäktige den 10 december
+
+Kommunfullmäktige sammanträder.
+
+Näst | 10 dec. Kommunfullmäktige den 10 december Kommunfullmäktige sammanträder. Nästa tillfälle: 10 dec. 16.00
+https://karlstad.se/kalender/kommun-och-politik/kommunfullmaktige/2026-11-04-kommunfullmaktige-den-21-januari | 21 jan.
+Kommunfullmäktige den 21 januari
+
+Kommunfullmäktige sammanträder.
+
+Nästa | 21 jan. Kommunfullmäktige den 21 januari Kommunfullmäktige sammanträder. Nästa tillfälle: 21 jan. 16.00
+https://karlstad.se/kalender/kommun-och-politik/kommunfullmaktige/2026-11-04-kommunfullmaktige-den-18-februari | 18 feb.
+Kommunfullmäktige den 18 februari
+
+Kommunfullmäktige sammanträder.
+
+Näst | 18 feb. Kommunfullmäktige den 18 februari Kommunfullmäktige sammanträder. Nästa tillfälle: 18 feb. 16.00
+https://karlstad.se/kalender/kommun-och-politik/kommunfullmaktige/2026-11-04-kommunfullmaktige-den-18-mars | 18 mars
+Kommunfullmäktige den 18 mars
+
+Kommunfullmäktige sammanträder.
+
+Nästa ti | 18 mars Kommunfullmäktige den 18 mars Kommunfullmäktige sammanträder. Nästa tillfälle: 18 mars 16.00
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#8f0270cf637a11600 | Klicka här | Ett fel har uppstått. Klicka här för att försöka igen.
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-0d0814496de710107236 | 2026-10-22 | 2026-10-22
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-dd2ae44cd9bf9974960 | 2026-09-24 | 2026-09-24
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-65111acf49cb9846290 | 2026-08-20 | 2026-08-20
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-b150589409339762536 | 2026-06-16 | 2026-06-16
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-954ffa60fdf19653609 | 2026-05-21 | 2026-05-21
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-743aeb4ca0399526118 | 2026-04-23 | 2026-04-23
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-dd2ca12b0ce99409223 | 2026-03-26 | 2026-03-26
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-f4349fd0756f9234083 | 2026-02-19 | 2026-02-19
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-aed680c1e5a59096167 | 2026-01-22 | 2026-01-22
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-94bc763e5cc79094850 | 2025 | 2025
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-7499d42a7af27732737 | 2024 | 2024
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-d386f20d81eb6420221 | 2023 | 2023
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-9c3e2b8b59565495975 | 2022 | 2022
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-17a2d36c381b3894861 | 2021 | 2021
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-190c82bba1f23030471 | 2020 | 2020
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-87d345ed43882297544 | 2019 | 2019
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Mötet steg för steg | Mötet steg för steg
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.printable | Skriv ut | Skriv ut
+https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation | Kommunens organisation Politiker och politiska sekreterare Kommunfullmäktige Webbsändningar Så går ett möte till Kommuns
+https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare | Politiker och politiska sekreterare
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige | Kommunfullmäktige Webbsändningar Så går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Webbsändningar | Webbsändningar
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Så går ett möte till | Så går ett möte till
+https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen | Kommunstyrelsen
+https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder | Nämnder
+https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar | Förvaltningar
+https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag | Bolag
+https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer | Revisorer
+https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ | Rådgivande organ
+https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder | Stiftelser och fonder
+https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum | Samverkansforum
+mailto:karlstadskommun@karlstad.se | karlstadskommun@karlstad.se | karlstadskommun@karlstad.se
+tel:0545400000 | 054-540 00 00 | 054-540 00 00
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter | Lämna synpunkter
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan | Gör en felanmälan
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider | Kontakta oss och öppettider
+https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press | Press
+https://karlstad.se/om-webbplatsen#Funktioner | Funktioner | Funktioner
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning | Språk och översättning
+https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd | Personuppgifter och dataskydd
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies | Hur vi använder cookies
+https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.facebook.com/karlstadskommun | Facebook | 
+http://instagram.com/karlstadskommun | Instagram | 
+https://www.linkedin.com/company/karlstadskommun/ | LinkedIn | 
+https://www.youtube.com/user/Karlstadskanalen | Youtube | 
+https://karlstad.se/storningar | 15
+Störningar | 15 Störningar
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Läs mer om [2026-11-04] Kokningsrekommendationen för vattnet i Vålberg är hävd
+Stäng
+Stäng
+Öppna
+Våra webbplatser
+Sök
+Meny
+Öppna menystruktur för  Förskola, skola och utbildning
+Öppna menystruktur för  Uppleva och göra
+Öppna menystruktur för  Omsorg och stöd
+Öppna menystruktur för  Bygga, bo och leva hållbart
+Öppna menystruktur för  Trafik och gator
+Stäng menystruktur för  Kommun och politik
+Öppna menystruktur för  Kontakta Karlstads kommun
+Stäng menystruktur för  Kommunens organisation
+Stäng menystruktur för  Kommunfullmäktige
+Öppna menystruktur för  Kommunstyrelsen
+Öppna menystruktur för  Nämnder
+Öppna menystruktur för  Förvaltningar
+Öppna menystruktur för  Rådgivande organ
+Öppna menystruktur för  Delta och påverka
+Öppna menystruktur för  Val och folkomröstningar
+Öppna menystruktur för  Diarium, arkiv och sekretess
+Öppna menystruktur för  Lagar och regler
+Öppna menystruktur för  Kommunfakta
+Öppna menystruktur för  Karlstads kommuns kanaler
+Öppna menystruktur för  Press och kommunikationsmaterial
+Öppna menystruktur för  Så arbetar vi med
+Lyssna
+Kontakt
+Föregående månad
+November 2026
+Nästa månad
+26
+27
+28
+29
+30
+31
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karlstad-kommun env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_505b06461843c189db043d" class="sv-layout"><div class="sv-custom-module sv-marketplace-reakai-rekai-webapp sv-skip-spacer sv-template-portlet " id="svid12_2f8fcd6a18f535a5119eb37"><div id="Rekai"><!-- Rek.ai --></div><div class="rekai-main" data-cid="2a83c572-db73-6fd5-a176-498dd4aafe1c"> <script nonce=""> window.__rekai = window.__rekai || {}; window.__rekai.appdata = window.__rekai.appdata || {}; window.__rekai.appdata.seed = '204599612e'; window.__rekai.appdata.viewclick = 'true'; </script> <script nonce=""> window.rek_viewclick = true; window.__rekai.addedby = 'sv-app'; </script> </div><script nonce="">AppRegistry.registerBootstrapData('12.2f8fcd6a18f535a5119eb37','2a83c572-db73-6fd5-a176-498dd4aafe1c','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.2f8fcd6a18f535a5119eb37',{"renderData":{"appContext":{"portletNS":"12_2f8fcd6a18f535a5119eb37","appNS":"rekai_12_2f8fcd6a18f535a5119eb37","viewMode":true,"editMode":false,"appMode":"gather","currentURI":"/kommun-och-politik/kommunens-organisation/kommunfullmaktige"},"uuid":"7f4d23ca","isProject":true,"seed":"204599612e","view":true,"rendertype":"list","filters":{"hits":"10","pagetype":"svpage","notpagetype":["svarticle"],"domain":[],"include":"all","includeSubtree":[],"includeSubtreeNodeId":null,"includeSubtreeNode":null,"includeLevel":"1","exclude":"none","excludeSubtree":[],"excludeSubtreeNodeId":null,"excludeSubtreeNode":null},"rendering":{"useHeader":null,"headerText":"Hitta direkt","headerFontNode":"13.2727e29417ee2988a50140f1","headerFontClass":"normal","headerFontHeadingLevel":0,"zebrastripes1":false,"zebrastripes2":false,"zebrastripes3":false,"zebraStripes1ColorNode":"35.2727e29417ee2988a5014108","zebraStripes2ColorNode":"35.2727e29417ee2988a5014108","zebraStripes3ColorNode":"35.2727e29417ee2988a5014108","cols":"1","useImg":true,"fallbackImgNode":null,"fallbackImgURI":"","titleFontNode":"13.2727e29417ee2988a50140f1","titleFontClass":"normal","titleFontHeadingLevel":0,"useIngress":true,"ingressFontNode":"13.2727e29417ee2988a50140f1","ingressFontClass":"normal","ingressHeadingLevel":0,"useIngressLimit":true,"ingressLimit":"80","zebraStripes1ColorHex":"#000000","zebraStripes2ColorHex":"#000000","zebraStripes3ColorHex":"#000000"},"customTags":"","customTagsRaw":"","customTagsArray":[{"key":"","value":""}],"useLegacySettings":false,"legacySettings":{"pagetype":null,"subtreeId":"","subtreePage":null},"nonce":"e0e522a0-dc0b-11f1-90c6-5bf6126f7a4f"},"rendering":"{\"useHeader\":null,\"headerText\":\"Hitta direkt\",\"headerFontNode\":\"13.2727e29417ee2988a50140f1\",\"headerFontClass\":\"normal\",\"headerFontHeadingLevel\":0,\"zebrastripes1\":false,\"zebrastripes2\":false,\"zebrastripes3\":false,\"zebraStripes1ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes2ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes3ColorNode\":\"35.2727e29417ee2988a5014108\",\"cols\":\"1\",\"useImg\":true,\"fallbackImgNode\":null,\"fallbackImgURI\":\"\",\"titleFontNode\":\"13.2727e29417ee2988a50140f1\",\"titleFontClass\":\"normal\",\"titleFontHeadingLevel\":0,\"useIngress\":true,\"ingressFontNode\":\"13.2727e29417ee2988a50140f1\",\"ingressFontClass\":\"normal\",\"ingressHeadingLevel\":0,\"useIngressLimit\":true,\"ingressLimit\":\"80\",\"zebraStripes1ColorHex\":\"#000000\",\"zebraStripes2ColorHex\":\"#000000\",\"zebraStripes3ColorHex\":\"#000000\"}","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'marketplace.reakai.rekai-webapp|1.6.5',htmlElementId:'svid12_2f8fcd6a18f535a5119eb37',route:'/',portletId:'12.2f8fcd6a18f535a5119eb37',locale:'sv',defaultLocale:'en',webAppId:'marketplace.reakai.rekai-webapp',webAppVersion:'1.6.5',webAppAopId:'360.4fd0e1f719d865dc54978d',webAppImportTime:'1776098745957',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></d
+
+######## SIDA: https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd
+Titel: Kokningsrekommendationen för vattnet i Vålberg är hävd | Karlstads kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/a93b204f-1e87-4ca6-96a0-903e9e96a815/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Kokningsrekommendationen för vattnet i Vålberg är hävd | Karlstads kommun","pid":"5.54fc94e91a1a1b299e91f1f","mb":-1,"mv":{"vt":2,"v30":1,"dlv":30},"mp":{"p":["4.6500f1531828622fe5011c","5.54fc94e91a1a1b299e91f1f"]},"cf":[],"csf":[],"p":"7f4d23ca","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:05
+
+## Länkar (href | text | sammanhang)
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor | På karlstad.se använder vi kakor (cookies) för att webbplatsen ska fungera på ett bra sätt för dig. Lär mer om kakor
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd#main-content | Hoppa till innehåll | Hoppa till innehåll
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd | Kokningsrekommendation i Vålberg hävd Karlstads kommun har hävt kokningsrekommendation för alla hushåll i området Åstorp
+https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster. | Alsters herrgård Öppnas i nytt fönster.
+https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster. | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+https://karlstad.se/jobba-hos-oss | Jobba hos oss Öppnas i nytt fönster. | Jobba hos oss Öppnas i nytt fönster.
+https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster. | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster. | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster. | Karlstads kommun Öppnas i nytt fönster.
+https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster. | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster. | Karlstads parkering Öppnas i nytt fönster.
+https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster. | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster. | Karlstad växer Öppnas i nytt fönster.
+https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster. | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster. | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande  Öppnas i nytt fönster. | Näringsliv och företagande Öppnas i nytt fönster.
+https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fön | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/smarta-karlstad | Smarta Karlstad | Smarta Karlstad
+https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster. | Sundstabadet Öppnas i nytt fönster.
+https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster. | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster. | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate | Öppna Våra webbplatser Translate
+https://karlstad.se/ | Länk till startsidan för Karlstad.se | 
+https://e-tjanster.karlstad.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+javascript:void(window.open('https://e-tjanster.karlstad.se/','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | E-tjänster | E-tjänster
+https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://karlstad.se/uppleva-och-gora | Uppleva och göra | Uppleva och göra
+https://karlstad.se/omsorg-och-stod | Omsorg och stöd | Omsorg och stöd
+https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart | Bygga, bo och leva hållbart
+https://karlstad.se/trafik-och-gator | Trafik och gator | Trafik och gator
+https://karlstad.se/kommun-och-politik | Kommun och politik | Kommun och politik
+https://karlstad.se/ | Karlstad.se | 
+https://karlstad.se/storningar | Störningar | Störningar
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd.printable | Skriv ut | Skriv ut
+mailto:karlstadskommun@karlstad.se | karlstadskommun@karlstad.se | karlstadskommun@karlstad.se
+tel:0545400000 | 054-540 00 00 | 054-540 00 00
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter | Lämna synpunkter
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan | Gör en felanmälan
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider | Kontakta oss och öppettider
+https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press | Press
+https://karlstad.se/om-webbplatsen#Funktioner | Funktioner | Funktioner
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning | Språk och översättning
+https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd | Personuppgifter och dataskydd
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies | Hur vi använder cookies
+https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.facebook.com/karlstadskommun | Facebook | 
+http://instagram.com/karlstadskommun | Instagram | 
+https://www.linkedin.com/company/karlstadskommun/ | LinkedIn | 
+https://www.youtube.com/user/Karlstadskanalen | Youtube | 
+https://karlstad.se/storningar | 15
+Störningar | 15 Störningar
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Läs mer om [2026-11-04] Kokningsrekommendationen för vattnet i Vålberg är hävd
+Stäng
+Stäng
+Öppna
+Våra webbplatser
+Sök
+Meny
+Öppna menystruktur för  Förskola, skola och utbildning
+Öppna menystruktur för  Uppleva och göra
+Öppna menystruktur för  Omsorg och stöd
+Öppna menystruktur för  Bygga, bo och leva hållbart
+Öppna menystruktur för  Trafik och gator
+Öppna menystruktur för  Kommun och politik
+Lyssna
+Dela
+Stäng
+Kopiera länk
+Ja
+Nej
+Till toppen
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karlstad-kommun env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_505b06461843c189db043d" class="sv-layout"><div class="sv-custom-module sv-marketplace-reakai-rekai-webapp sv-skip-spacer sv-template-portlet " id="svid12_2f8fcd6a18f535a5119eb37"><div id="Rekai"><!-- Rek.ai --></div><div class="rekai-main" data-cid="fdbe23e2-9155-0bd6-2532-1a360ffc5dc0"> <script nonce=""> window.__rekai = window.__rekai || {}; window.__rekai.appdata = window.__rekai.appdata || {}; window.__rekai.appdata.seed = '204599612e'; window.__rekai.appdata.viewclick = 'true'; </script> <script nonce=""> window.rek_viewclick = true; window.__rekai.addedby = 'sv-app'; </script> </div><script nonce="">AppRegistry.registerBootstrapData('12.2f8fcd6a18f535a5119eb37','fdbe23e2-9155-0bd6-2532-1a360ffc5dc0','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.2f8fcd6a18f535a5119eb37',{"renderData":{"appContext":{"portletNS":"12_2f8fcd6a18f535a5119eb37","appNS":"rekai_12_2f8fcd6a18f535a5119eb37","viewMode":true,"editMode":false,"appMode":"gather","currentURI":"/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd"},"uuid":"7f4d23ca","isProject":true,"seed":"204599612e","view":true,"rendertype":"list","filters":{"hits":"10","pagetype":"svpage","notpagetype":["svarticle"],"domain":[],"include":"all","includeSubtree":[],"includeSubtreeNodeId":null,"includeSubtreeNode":null,"includeLevel":"1","exclude":"none","excludeSubtree":[],"excludeSubtreeNodeId":null,"excludeSubtreeNode":null},"rendering":{"useHeader":null,"headerText":"Hitta direkt","headerFontNode":"13.2727e29417ee2988a50140f1","headerFontClass":"normal","headerFontHeadingLevel":0,"zebrastripes1":false,"zebrastripes2":false,"zebrastripes3":false,"zebraStripes1ColorNode":"35.2727e29417ee2988a5014108","zebraStripes2ColorNode":"35.2727e29417ee2988a5014108","zebraStripes3ColorNode":"35.2727e29417ee2988a5014108","cols":"1","useImg":true,"fallbackImgNode":null,"fallbackImgURI":"","titleFontNode":"13.2727e29417ee2988a50140f1","titleFontClass":"normal","titleFontHeadingLevel":0,"useIngress":true,"ingressFontNode":"13.2727e29417ee2988a50140f1","ingressFontClass":"normal","ingressHeadingLevel":0,"useIngressLimit":true,"ingressLimit":"80","zebraStripes1ColorHex":"#000000","zebraStripes2ColorHex":"#000000","zebraStripes3ColorHex":"#000000"},"customTags":"","customTagsRaw":"","customTagsArray":[{"key":"","value":""}],"useLegacySettings":false,"legacySettings":{"pagetype":null,"subtreeId":"","subtreePage":null},"nonce":"e4eca120-dc0b-11f1-90c6-5bf6126f7a4f"},"rendering":"{\"useHeader\":null,\"headerText\":\"Hitta direkt\",\"headerFontNode\":\"13.2727e29417ee2988a50140f1\",\"headerFontClass\":\"normal\",\"headerFontHeadingLevel\":0,\"zebrastripes1\":false,\"zebrastripes2\":false,\"zebrastripes3\":false,\"zebraStripes1ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes2ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes3ColorNode\":\"35.2727e29417ee2988a5014108\",\"cols\":\"1\",\"useImg\":true,\"fallbackImgNode\":null,\"fallbackImgURI\":\"\",\"titleFontNode\":\"13.2727e29417ee2988a50140f1\",\"titleFontClass\":\"normal\",\"titleFontHeadingLevel\":0,\"useIngress\":true,\"ingressFontNode\":\"13.2727e29417ee2988a50140f1\",\"ingressFontClass\":\"normal\",\"ingressHeadingLevel\":0,\"useIngressLimit\":true,\"ingressLimit\":\"80\",\"zebraStripes1ColorHex\":\"#000000\",\"zebraStripes2ColorHex\":\"#000000\",\"zebraStripes3ColorHex\":\"#000000\"}","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'marketplace.reakai.rekai-webapp|1.6.5',htmlElementId:'svid12_2f8fcd6a18f535a5119eb37',route:'/',portletId:'12.2f8fcd6a18f535a5119eb37',locale:'sv',defaultLocale:'en',webAppId:'marketplace.reakai.rekai-webapp',webAppVersion:'1.6.5',webAppAopId:'360.4fd0e1f719d865dc54978d',webAppImportTime:'1776098745957',requiredLibs:{},childComponentStateExtractionStr
+
+######## SIDA: https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd#main-content
+Titel: Kokningsrekommendationen för vattnet i Vålberg är hävd | Karlstads kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor | På karlstad.se använder vi kakor (cookies) för att webbplatsen ska fungera på ett bra sätt för dig. Lär mer om kakor
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd#main-content | Hoppa till innehåll | Hoppa till innehåll
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd | Kokningsrekommendation i Vålberg hävd Karlstads kommun har hävt kokningsrekommendation för alla hushåll i området Åstorp
+https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster. | Alsters herrgård Öppnas i nytt fönster.
+https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster. | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+https://karlstad.se/jobba-hos-oss | Jobba hos oss Öppnas i nytt fönster. | Jobba hos oss Öppnas i nytt fönster.
+https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster. | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster. | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster. | Karlstads kommun Öppnas i nytt fönster.
+https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster. | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster. | Karlstads parkering Öppnas i nytt fönster.
+https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster. | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster. | Karlstad växer Öppnas i nytt fönster.
+https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster. | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster. | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande  Öppnas i nytt fönster. | Näringsliv och företagande Öppnas i nytt fönster.
+https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fön | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/smarta-karlstad | Smarta Karlstad | Smarta Karlstad
+https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster. | Sundstabadet Öppnas i nytt fönster.
+https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster. | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster. | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate | Öppna Våra webbplatser Translate
+https://karlstad.se/ | Länk till startsidan för Karlstad.se | 
+https://e-tjanster.karlstad.se/ | E-tjänster
+Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt | Kontakt
+javascript:void(window.open('https://e-tjanster.karlstad.se/','_blank','toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1')); | E-tjänster | E-tjänster
+https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://karlstad.se/uppleva-och-gora | Uppleva och göra | Uppleva och göra
+https://karlstad.se/omsorg-och-stod | Omsorg och stöd | Omsorg och stöd
+https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart | Bygga, bo och leva hållbart
+https://karlstad.se/trafik-och-gator | Trafik och gator | Trafik och gator
+https://karlstad.se/kommun-och-politik | Kommun och politik | Kommun och politik
+https://karlstad.se/ | Karlstad.se | 
+https://karlstad.se/storningar | Störningar | Störningar
+https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd.printable | Skriv ut | Skriv ut
+mailto:karlstadskommun@karlstad.se | karlstadskommun@karlstad.se | karlstadskommun@karlstad.se
+tel:0545400000 | 054-540 00 00 | 054-540 00 00
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter | Lämna synpunkter
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan | Gör en felanmälan
+https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider | Kontakta oss och öppettider
+https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press | Press
+https://karlstad.se/om-webbplatsen#Funktioner | Funktioner | Funktioner
+https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning | Språk och översättning
+https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd | Personuppgifter och dataskydd
+https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies | Hur vi använder cookies
+https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.facebook.com/karlstadskommun | Facebook | 
+http://instagram.com/karlstadskommun | Instagram | 
+https://www.linkedin.com/company/karlstadskommun/ | LinkedIn | 
+https://www.youtube.com/user/Karlstadskanalen | Youtube | 
+https://karlstad.se/storningar | 15
+Störningar | 15 Störningar
+
+## Knappar
+Godkänn alla kakor
+Anpassa inställningar
+Läs mer om [2026-11-04] Kokningsrekommendationen för vattnet i Vålberg är hävd
+Stäng
+Stäng
+Öppna
+Våra webbplatser
+Sök
+Meny
+Öppna menystruktur för  Förskola, skola och utbildning
+Öppna menystruktur för  Uppleva och göra
+Öppna menystruktur för  Omsorg och stöd
+Öppna menystruktur för  Bygga, bo och leva hållbart
+Öppna menystruktur för  Trafik och gator
+Öppna menystruktur för  Kommun och politik
+Lyssna
+Dela
+Stäng
+Kopiera länk
+Ja
+Nej
+Till toppen
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-karlstad-kommun env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_505b06461843c189db043d" class="sv-layout"><div class="sv-custom-module sv-marketplace-reakai-rekai-webapp sv-skip-spacer sv-template-portlet " id="svid12_2f8fcd6a18f535a5119eb37"><div id="Rekai"><!-- Rek.ai --></div><div class="rekai-main" data-cid="fdbe23e2-9155-0bd6-2532-1a360ffc5dc0"> <script nonce=""> window.__rekai = window.__rekai || {}; window.__rekai.appdata = window.__rekai.appdata || {}; window.__rekai.appdata.seed = '204599612e'; window.__rekai.appdata.viewclick = 'true'; </script> <script nonce=""> window.rek_viewclick = true; window.__rekai.addedby = 'sv-app'; </script> </div><script nonce="">AppRegistry.registerBootstrapData('12.2f8fcd6a18f535a5119eb37','fdbe23e2-9155-0bd6-2532-1a360ffc5dc0','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.2f8fcd6a18f535a5119eb37',{"renderData":{"appContext":{"portletNS":"12_2f8fcd6a18f535a5119eb37","appNS":"rekai_12_2f8fcd6a18f535a5119eb37","viewMode":true,"editMode":false,"appMode":"gather","currentURI":"/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd"},"uuid":"7f4d23ca","isProject":true,"seed":"204599612e","view":true,"rendertype":"list","filters":{"hits":"10","pagetype":"svpage","notpagetype":["svarticle"],"domain":[],"include":"all","includeSubtree":[],"includeSubtreeNodeId":null,"includeSubtreeNode":null,"includeLevel":"1","exclude":"none","excludeSubtree":[],"excludeSubtreeNodeId":null,"excludeSubtreeNode":null},"rendering":{"useHeader":null,"headerText":"Hitta direkt","headerFontNode":"13.2727e29417ee2988a50140f1","headerFontClass":"normal","headerFontHeadingLevel":0,"zebrastripes1":false,"zebrastripes2":false,"zebrastripes3":false,"zebraStripes1ColorNode":"35.2727e29417ee2988a5014108","zebraStripes2ColorNode":"35.2727e29417ee2988a5014108","zebraStripes3ColorNode":"35.2727e29417ee2988a5014108","cols":"1","useImg":true,"fallbackImgNode":null,"fallbackImgURI":"","titleFontNode":"13.2727e29417ee2988a50140f1","titleFontClass":"normal","titleFontHeadingLevel":0,"useIngress":true,"ingressFontNode":"13.2727e29417ee2988a50140f1","ingressFontClass":"normal","ingressHeadingLevel":0,"useIngressLimit":true,"ingressLimit":"80","zebraStripes1ColorHex":"#000000","zebraStripes2ColorHex":"#000000","zebraStripes3ColorHex":"#000000"},"customTags":"","customTagsRaw":"","customTagsArray":[{"key":"","value":""}],"useLegacySettings":false,"legacySettings":{"pagetype":null,"subtreeId":"","subtreePage":null},"nonce":"e4eca120-dc0b-11f1-90c6-5bf6126f7a4f"},"rendering":"{\"useHeader\":null,\"headerText\":\"Hitta direkt\",\"headerFontNode\":\"13.2727e29417ee2988a50140f1\",\"headerFontClass\":\"normal\",\"headerFontHeadingLevel\":0,\"zebrastripes1\":false,\"zebrastripes2\":false,\"zebrastripes3\":false,\"zebraStripes1ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes2ColorNode\":\"35.2727e29417ee2988a5014108\",\"zebraStripes3ColorNode\":\"35.2727e29417ee2988a5014108\",\"cols\":\"1\",\"useImg\":true,\"fallbackImgNode\":null,\"fallbackImgURI\":\"\",\"titleFontNode\":\"13.2727e29417ee2988a50140f1\",\"titleFontClass\":\"normal\",\"titleFontHeadingLevel\":0,\"useIngress\":true,\"ingressFontNode\":\"13.2727e29417ee2988a50140f1\",\"ingressFontClass\":\"normal\",\"ingressHeadingLevel\":0,\"useIngressLimit\":true,\"ingressLimit\":\"80\",\"zebraStripes1ColorHex\":\"#000000\",\"zebraStripes2ColorHex\":\"#000000\",\"zebraStripes3ColorHex\":\"#000000\"}","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'marketplace.reakai.rekai-webapp|1.6.5',htmlElementId:'svid12_2f8fcd6a18f535a5119eb37',route:'/',portletId:'12.2f8fcd6a18f535a5119eb37',locale:'sv',defaultLocale:'en',webAppId:'marketplace.reakai.rekai-webapp',webAppVersion:'1.6.5',webAppAopId:'360.4fd0e1f719d865dc54978d',webAppImportTime:'1776098745957',requiredLibs:{},childComponentStateExtractionStr

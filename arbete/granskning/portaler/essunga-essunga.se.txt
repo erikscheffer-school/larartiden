@@ -1,0 +1,464 @@
+Kommun: Essunga  nyckel: essunga.se
+
+######## SIDA: https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html
+Titel: Anslagstavla - Essunga kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html
+GET 200 xhr application/json https://www.browsealoud.com/version.json
+      {"ie":"2.6.1","latest":"3.12.0"}
+GET 200 xhr application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json https://www.browsealoud.com/modules/3.12.0/sri.json
+      {"hashes":{}}
+GET 200 fetch application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/268ce86e-1815-4490-8f22-16fdf7b61142/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html#content | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html#Huvudmeny | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/ |  | 
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Läs mer | Aktivera talande webb Läs mer
+https://www.essunga.se/ | Startsida | Startsida
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html# | Skriv ut | Skriv ut
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html#sharepage | Dela | Dela
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html#contact | Kontaktinformation | Kontaktinformation
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg Undermeny: Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd Undermeny: Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra Undermeny: Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö Undermeny: Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor Undermeny: Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete Undermeny: Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik Kommunfakta Undermeny: Kommunfakta Kommunens organisation Undermeny: Kommunens organisation Politik och
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Undermeny: Kommunfakta
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Undermeny: Kommunens organisation
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Undermeny: Politik och demokrati Hur går det till att fatta beslut? Sammanträdesdagar för politike
+https://www.essunga.se/kommun--politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.essunga.se/kommun--politik/politik-och-demokrati/sammantradesdagar-for-politiken.html | Sammanträdesdagar för politiken | Sammanträdesdagar för politiken
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Kallelser och protokoll | Kallelser och protokoll
+https://www.essunga.se/kommun--politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter Undermeny: Dialog och synpunkter
+https://www.essunga.se/kommun--politik/politik-och-demokrati/vision-strategisk-plan-och-mal.html | Vision, strategisk plan och mål | Vision, strategisk plan och mål
+https://www.essunga.se/kommun--politik/politik-och-demokrati/val-till-riksdag-kommun-och-region-samt-europaparlamentet.html | Val till riksdag, kommun och region samt Europaparlamentet | Val till riksdag, kommun och region samt Europaparlamentet Undermeny: Val till riksdag, kommun och region samt Europapar
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kungorelser-om-bygglov-och-grannehoranden.html | Kungörelser om bygglov och grannehöranden | Kungörelser om bygglov och grannehöranden
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Undermeny: Överklaga beslut, rättssäkerhet
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Undermeny: Press- och informationsmaterial
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Ta del av kallelser och protokoll här | Ta del av kallelser och protokoll här. Den som vill överklaga något av besluten från ett visst möte kan göra det senast 
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Läs mer om hur du överklagar | Ta del av kallelser och protokoll här. Den som vill överklaga något av besluten från ett visst möte kan göra det senast 
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kungorelser-om-bygglov-och-grannehoranden.html | Här hittar du kungörelser om bygglov och grannehöranden | Här hittar du kungörelser om bygglov och grannehöranden
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-11-05-justerat-protokoll-fran-kommunfullmaktiges-mote-den-26-oktober-2026.html | Läs mer | 2026-11-05 Justerat protokoll från kommunfullmäktiges möte den 26 oktober 2026 Protokollet är justerat och tillkännagiva
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-11-04-underrattelse-om-antagande-av-detaljplan-for-del-av-bareberg-110-essunga-kommun.html | Läs mer | 2026-11-04 Underrättelse om antagande av detaljplan för del av Bäreberg 1:10, Essunga kommun Underrättelse om antagande 
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-11-04-justerat-protokoll-fran-socialnamndens-arbetsutskotts-mote-den-4-november-2026-omedelbar-justering--124.html | Läs mer | 2026-11-04 Justerat protokoll från socialnämndens arbetsutskotts möte den 4 november 2026, omedelbar justering § 124 Pro
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-11-04-justerat-protokoll-fran-socialnamndens-arbetsutskotts-mote-den-4-november-2026-omedelbar-justering--119-121.html | Läs mer | 2026-11-04 Justerat protokoll från socialnämndens arbetsutskotts möte den 4 november 2026, omedelbar justering §§ 119-12
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-29-justerat-protokoll-fran-byggnadsnamndens-mote-den-22-oktober-2026..html | Läs mer | 2026-10-29 Justerat protokoll från byggnadsnämndens möte den 22 oktober 2026. Protokollet är justerat och tillkännagivan
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-28-justerat-protokoll-fran-kommuns--tyrelsens-arbetsutskotts-mote-den-26-oktober-2026..html | Läs mer | 2026-10-28 Justerat protokoll från kommuns- tyrelsens arbetsutskotts möte den 26 oktober 2026. Protokollet är justerat o
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-28-justerat-protokoll-fran-socialnamndens-mote-den-21-oktober-2026..html | Läs mer | 2026-10-28 Justerat protokoll från socialnämndens möte den 21 oktober 2026. Protokollet är justerat och tillkännagivande
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-27-justerat-protokoll-fran-valberedningens-mote-den-2026-10-26.html | Läs mer | 2026-10-27 Justerat protokoll från valberedningens möte den 2026-10-26 Protokollet är justerat och tillkännagivandet ans
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-24-justerat-protokoll-fran-kommunstyrelsens-arbetsutskotts-mote-den-19-oktober-2026.html | Läs mer | 2026-10-24 Justerat protokoll från kommunstyrelsens arbetsutskotts möte den 19 oktober 2026 Protokollet är justerat och 
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-23-justerat-protokoll-fran-utbildningsnamndens-mote-den-20-oktober-2026.html | Läs mer | 2026-10-23 Justerat protokoll från utbildningsnämndens möte den 20 oktober 2026 Protokollet är justerat och tillkännagiv
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-10-22-justerat-protokoll-fran-revisionens-mote-den-16-oktober-2026..html | Läs mer | 2026-10-22 Justerat protokoll från Revisionens möte den 16 oktober 2026. Protokollet är justerat och tillkännagivandet a
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/tillkannagivanden/2026-10-19-kallelse-till-kommunfullmaktiges-mote-mandag-den-26-oktober-2026.html | Läs mer | 2026-10-19 Kallelse till kommunfullmäktiges möte måndag den 26 oktober 2026 Kungörelse kommunfullmäktiges sammanträde de
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-09-29-justerat-protokoll-fran-personalutskottets-mote-den-24-september-2026.html | Läs mer | 2026-09-29 Justerat protokoll från personalutskottets möte den 24 september 2026 Protokollet är justerat och tillkännagi
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-09-11-justerat-protokoll-fran-utbildningsnamndens-arbetsutskott-mote-den-8-september-2026.html | Läs mer | 2026-09-11 Justerat protokoll från utbildningsnämndens arbetsutskott möte den 8 september 2026 Protokollet är justerat o
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-09-01-justerat-protokoll-fran-revisionens-mote-den-21-augusti-2026.html | Läs mer | 2026-09-01 Justerat protokoll från revisionens möte den 21 augusti 2026 Protokollet är justerat och tillkännagivandet an
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-08-26-kungorelse---beviljat-bygglov.html | Läs mer | 2026-08-26 Kungörelse - Beviljat bygglov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-08-26-kungorelse---bygglov-beviljat.html | Läs mer | 2026-08-26 Kungörelse - Bygglov beviljat Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-08-04-kungorelse---beviljat-bygglov.html | Läs mer | 2026-08-04 Kungörelse - Beviljat bygglov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/tillkannagivanden/2026-05-06-kungorelse---granskning-av-fordjupad-oversiktsplan.html | Läs mer | 2026-05-06 Kungörelse - Granskning av fördjupad översiktsplan Essunga kommun ställer ut förslag till fördjupad översikts
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-04-01-kungorelse---beviljat-bygglov.html | Läs mer | 2026-04-01 Kungörelse - Beviljat Bygglov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-03-31-kungorelse---beviljat-rivningslov.html | Läs mer | 2026-03-31 Kungörelse - Beviljat rivningslov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-03-26-kungorelse---beviljat-bygglov.html | Läs mer | 2026-03-26 Kungörelse - Beviljat bygglov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-02-24-kungorelse---beviljat-rivningslov.html | Läs mer | 2026-02-24 Kungörelse - Beviljat rivningslov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-02-18-kungorelse---beviljat-bygglov.html | Läs mer | 2026-02-18 Kungörelse - Beviljat bygglov Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla/anslag/2026-02-18-kungorelse---beviljat-forhandsbesked.html | Läs mer | 2026-02-18 Kungörelse - Beviljat förhandsbesked Läs mer
+http://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | Jag samtycker till hur mina personuppgifter hanteras. Läs mer om hur vi hanterar personuppgifter på www.essunga.se/om-we
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html;jsessionid=570B37BEB3B6D95B928E1BB417535A59?contactUserId=247.8e670571172cb440a778854423105423&sv.url=12.4d092e01759507d7515700&state=showSendMessage#Kontakt | Kristin Lindblom | Kristin Lindblom
+tel:+4651257015 | Telefon: 0512-570 15 | Telefon: 0512-570 15
+mailto:kristin.lindblom@essunga.se | E-post: kristin.lindblom@essunga.se | E-post: kristin.lindblom@essunga.se
+https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Ställ en fråga | Ställ en fråga
+https://www.essunga.se/om-webbplatsen/synpunkter.html | Lämna en synpunkt | Lämna en synpunkt
+https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fanslagstavla.html | Facebook | Facebook
+https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fanslagstavla.html | Twitter | Twitter
+https://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fanslagstavla.html | LinkedIn | LinkedIn
+mailto:?subject=Anslagstavla&body=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fanslagstavla.html | E-post | E-post
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html# | Till toppen av sidan | Till toppen av sidan
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg Undermeny: Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd Undermeny: Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra Undermeny: Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö Undermeny: Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor Undermeny: Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete Undermeny: Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik Undermeny: Kommun & politik Kommunfakta Undermeny: Kommunfakta Kommunens organisation Undermeny: Kommun
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Undermeny: Kommunfakta
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Undermeny: Kommunens organisation
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Undermeny: Politik och demokrati Hur går det till att fatta beslut? Sammanträdesdagar för politike
+https://www.essunga.se/kommun--politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.essunga.se/kommun--politik/politik-och-demokrati/sammantradesdagar-for-politiken.html | Sammanträdesdagar för politiken | Sammanträdesdagar för politiken
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Kallelser och protokoll | Kallelser och protokoll
+https://www.essunga.se/kommun--politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter Undermeny: Dialog och synpunkter
+https://www.essunga.se/kommun--politik/politik-och-demokrati/vision-strategisk-plan-och-mal.html | Vision, strategisk plan och mål | Vision, strategisk plan och mål
+https://www.essunga.se/kommun--politik/politik-och-demokrati/val-till-riksdag-kommun-och-region-samt-europaparlamentet.html | Val till riksdag, kommun och region samt Europaparlamentet | Val till riksdag, kommun och region samt Europaparlamentet Undermeny: Val till riksdag, kommun och region samt Europapar
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kungorelser-om-bygglov-och-grannehoranden.html | Kungörelser om bygglov och grannehöranden | Kungörelser om bygglov och grannehöranden
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Undermeny: Överklaga beslut, rättssäkerhet
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Undermeny: Press- och informationsmaterial
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+mailto:kommun@essunga.se | kommun@essunga.se | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/kommun--politik/kommunfakta/ekonomi.html | Fakturauppgifter | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Öppettider | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/synpunkter.html | Synpunkt och felanmälan | Synpunkt och felanmälan
+https://www.essunga.se/om-webbplatsen/sociala-medier.html | Sociala medier | Sociala medier
+https://www.t-d.se/ | Tillgänglighetsdatabasen
+Länk till annan webbplats. | Tillgänglighetsdatabasen Länk till annan webbplats.
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | Personuppgiftsbehandling | Personuppgiftsbehandling
+https://www.essunga.se/om-webbplatsen/om-cookies.html | Om kakor (cookies) | Om kakor (cookies)
+https://www.funka.com/funka--tillg%C3%A4nglighet/om-webbplatsen/sa-fungerar-talande-webb/ | Talande webb (extern webbplats)
+Länk till annan webbplats. | Talande webb (extern webbplats) Länk till annan webbplats.
+https://intranat.essunga.se/ | Intranätet
+Länk till annan webbplats. | Intranätet Länk till annan webbplats.
+https://www.essunga.se/om-webbplatsen.html | Om webbplatsen | Om webbplatsen
+https://www.essunga.se/om-webbplatsen/webbkarta.html | Webbkarta | Webbkarta
+https://www.essunga.se/om-webbplatsen/tillganglighet-for-essunga.se.html | Tillgänglighet för essunga.se | Tillgänglighet för essunga.se
+https://press.essunga.se/ | Pressrum
+Länk till annan webbplats. | Pressrum Länk till annan webbplats.
+
+## Knappar
+Meny
+Aktivera talande webb
+Sök
+Undermeny: Utbildning & barnomsorg
+Undermeny: Omsorg & stöd
+Undermeny: Uppleva & göra
+Undermeny: Bygga, bo & miljö
+Undermeny: Trafik och resor
+Undermeny: Näringsliv & arbete
+Undermeny: Kommun & politik
+Undermeny: Kommunfakta
+Undermeny: Kommunens organisation
+Undermeny: Politik och demokrati
+Undermeny: Dialog och synpunkter
+Undermeny: Val till riksdag, kommun och region samt Europaparlamentet
+Undermeny: Överklaga beslut, rättssäkerhet
+Undermeny: Press- och informationsmaterial
+Ja
+Nej
+Undermeny: Utbildning & barnomsorg
+Undermeny: Omsorg & stöd
+Undermeny: Uppleva & göra
+Undermeny: Bygga, bo & miljö
+Undermeny: Trafik och resor
+Undermeny: Näringsliv & arbete
+Undermeny: Kommun & politik
+Undermeny: Kommunfakta
+Undermeny: Kommunens organisation
+Undermeny: Politik och demokrati
+Undermeny: Dialog och synpunkter
+Undermeny: Val till riksdag, kommun och region samt Europaparlamentet
+Undermeny: Överklaga beslut, rättssäkerhet
+Undermeny: Press- och informationsmaterial
+Stäng
+Lyssna på Talande Webb
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-essunga env-m-around--0"> <div id="svid10_4d092e01759507d7512daa" class="sv-layout lp-overlay-page" aria-hidden="false"><div id="svid94_4d092e01759507d751bab"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_38acf34217c9c38bce48b63"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_4d092e01759507d7512c7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4d092e01759507d75155b6"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_4d092e01759507d751570a"><div id="HTMLHoppatillinnehall"><!-- HTML - Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#content">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#Huvudmeny">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> </div> </div> <div class="sv-vertical sv-layout lp-header sv-template-layout" id="svid10_4d092e01759507d75123ce"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2574c7eb198740e872e12539"><div id="Skript"><!-- Skript --></div><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer"> <a href="/"><img src="/images/18.4d092e01759507d75172f8/1604589438952/logo_essunga.png" alt="Essunga kommun" width="414" height="80"></a> </div> </div> <div class="sv-custom-module sv-limepark-webapp-overlay-button sv-template-portlet " id="svid12_50f4186d1927ae3d6b93e2d" style="display: none;"><div id="Overtackningsknapp"><!-- Övertäckningsknapp --></div><div class="lp-overlay-button__wrapper" role="navigation" aria-label="Huvudnavigering" data-cid="774a6ac7-ca47-da64-f4de-ccd31e98d1b0"><button class="lp-overlay-button lp-button-menu small" aria-controls="svid12_50f4186d1927ae3d6b93e2d-container" aria-expanded="false"><svg class="lp-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/webdav/files/system/svg/lp-icons.svg#lp-menu"></use></svg><span>Meny</span></button></div><script nonce="159635c0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerBootstrapData('12.50f4186d1927ae3d6b93e2d','774a6ac7-ca47-da64-f4de-ccd31e98d1b0','main',[],undefined);</script><script nonce="159635c0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerInitialState('12.50f4186d1927ae3d6b93e2d',{"buttonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-menu\">\u003c/use>\u003c/svg>\u003cspan>Meny\u003c/span>","elements":[{"selector":"#svid12_6a13007819df71ee260a5ac","mediaQuery":" screen and (max-width: 667px)","breakpoints":[{"displayName":"Smartphone","selectorText":"sv-bp-smartphone","maxWidth":"667px","id":"650.4d092e01759507d7514f","mediaQuery":"only screen and (max-width: 667px)"}],"notQuery":"not screen and (max-width: 667px)"}],"breakpoints":" screen and (max-width: 667px)","useAdvancedAnimation":true,"animationIn":"slideInRight","animationOut":"slideOutRight","closeButtonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-close\">\u003c/use>\u003c/svg>\u003cspan>Stäng\u003c/span>","dialogLabel":"Meny","titleText":"","animationDuration":300,"containerClasses":"lp-fixed-menu","buttonClasses":"lp-button-menu small","ariaRole":"navigation","ariaLabel":"Huvudnavigering","usePageTransform":false,"pageTransformPercent":0.7,"route":"/"});</script> <script nonce="159635c0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerApp({applicationId:'limepark.webapp-overlay-button|2.1.1',htmlElementId:'svid12_50f4186d1927ae3d6b93e2d',route:'/',portletId:'12.50f4186d1927ae3d6b93e2d',locale:'sv',defaultLocale:'en'
+
+######## SIDA: https://www.essunga.se/kommun--politik.html
+Titel: Kommun & politik - Essunga kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.essunga.se/kommun--politik.html
+GET 200 xhr application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json https://www.browsealoud.com/version.json
+      {"ie":"2.6.1","latest":"3.12.0"}
+GET 200 xhr application/json https://www.browsealoud.com/modules/3.12.0/sri.json
+      {"hashes":{}}
+GET 200 fetch application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/268ce86e-1815-4490-8f22-16fdf7b61142/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://www.essunga.se/kommun--politik.html#content | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik.html#Huvudmeny | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/ |  | 
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Läs mer | Aktivera talande webb Läs mer
+https://www.essunga.se/kommun--politik/politik-och-demokrati/vision-strategisk-plan-och-mal.html | Vision, strategisk plan och mål | Vision, strategisk plan och mål
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Kallelser och protokoll | Kallelser och protokoll
+https://www.essunga.se/kommun--politik/kommunfakta/styrande-dokument.html#Text3 | Taxor och avgifter | Taxor och avgifter
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.livetiskaraborg.se/kommuner/essunga | Flytta till Essunga kommun | Flytta till Essunga kommun
+https://www.essunga.se/kommun--politik/kommunfakta/styrande-dokument.html | Styrande dokument | Styrande dokument
+https://www.essunga.se/kommun--politik/politik-och-demokrati/val-till-riksdag-kommun-och-region-samt-europaparlamentet.html | Val 2026 | Val 2026
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Essunga kommun har cirka 5 600 invånare och ligger i hjärtat av Västra Götalands län. Hälften av invånarna b
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Kommunen fattar ständigt beslut som påverkar dig. De kommunala besluten kan fattas av kommunfullmä
+https://www.essunga.se/kommun--politik/kommunfakta/styrande-dokument.html | Styrande dokument | Styrande dokument Styrdokumenten i kommunen ska skapa goda förutsättningar för styrning och uppföljning. Kommunfullmäkti
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Essunga kommun är en demokratiskt styrd organisation, som leds av kommunfullmäktige och kommunsty
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar Du som är invånare har rätt till insyn i kommunen. Det innebär att du på olika sätt kan ta del av
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030 Den 25 september 2015 antog FN:s medlemsländer Agenda 2030, en universell agenda för håll
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Ibland blir det inte som du vill. Du kanske anser att någon fattat ett felaktigt beslut.
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter Politikerna i Essunga kommun har tagit ett beslut om att skapa ett samhälle som är tillgängligt fö
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Här hittar du bland annat pressmeddelanden, pressbilder och vårt informationsblad Essinf
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+https://www.essunga.se/kommun--politik.html# | Till toppen av sidan | Till toppen av sidan
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg Undermeny: Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd Undermeny: Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra Undermeny: Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö Undermeny: Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor Undermeny: Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete Undermeny: Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik Undermeny: Kommun & politik Kommunfakta Undermeny: Kommunfakta Kommunens organisation Undermeny: Kommun
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Undermeny: Kommunfakta
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Undermeny: Kommunens organisation
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Undermeny: Politik och demokrati
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Undermeny: Överklaga beslut, rättssäkerhet
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Undermeny: Press- och informationsmaterial
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+mailto:kommun@essunga.se | kommun@essunga.se | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/kommun--politik/kommunfakta/ekonomi.html | Fakturauppgifter | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Öppettider | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/synpunkter.html | Synpunkt och felanmälan | Synpunkt och felanmälan
+https://www.essunga.se/om-webbplatsen/sociala-medier.html | Sociala medier | Sociala medier
+https://www.t-d.se/ | Tillgänglighetsdatabasen
+Länk till annan webbplats. | Tillgänglighetsdatabasen Länk till annan webbplats.
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | Personuppgiftsbehandling | Personuppgiftsbehandling
+https://www.essunga.se/om-webbplatsen/om-cookies.html | Om kakor (cookies) | Om kakor (cookies)
+https://www.funka.com/funka--tillg%C3%A4nglighet/om-webbplatsen/sa-fungerar-talande-webb/ | Talande webb (extern webbplats)
+Länk till annan webbplats. | Talande webb (extern webbplats) Länk till annan webbplats.
+https://intranat.essunga.se/ | Intranätet
+Länk till annan webbplats. | Intranätet Länk till annan webbplats.
+https://www.essunga.se/om-webbplatsen.html | Om webbplatsen | Om webbplatsen
+https://www.essunga.se/om-webbplatsen/webbkarta.html | Webbkarta | Webbkarta
+https://www.essunga.se/om-webbplatsen/tillganglighet-for-essunga.se.html | Tillgänglighet för essunga.se | Tillgänglighet för essunga.se
+https://press.essunga.se/ | Pressrum
+Länk till annan webbplats. | Pressrum Länk till annan webbplats.
+
+## Knappar
+Meny
+Aktivera talande webb
+Sök
+Undermeny: Utbildning & barnomsorg
+Undermeny: Omsorg & stöd
+Undermeny: Uppleva & göra
+Undermeny: Bygga, bo & miljö
+Undermeny: Trafik och resor
+Undermeny: Näringsliv & arbete
+Undermeny: Kommun & politik
+Undermeny: Kommunfakta
+Undermeny: Kommunens organisation
+Undermeny: Politik och demokrati
+Undermeny: Överklaga beslut, rättssäkerhet
+Undermeny: Press- och informationsmaterial
+Lyssna på Talande Webb
+Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-essunga env-m-around--0"> <div id="svid10_4d092e01759507d7512daa" class="sv-layout lp-overlay-page" aria-hidden="false"><div id="svid94_4d092e01759507d751bab"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_38acf34217c9c38bce48b63"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_4d092e01759507d7512c7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4d092e01759507d75155b6"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_4d092e01759507d751570a"><div id="HTMLHoppatillinnehall"><!-- HTML - Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#content">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#Huvudmeny">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> </div> </div> <div class="sv-vertical sv-layout lp-header sv-template-layout" id="svid10_4d092e01759507d75123ce"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2574c7eb198740e872e12539"><div id="Skript"><!-- Skript --></div><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer"> <a href="/"><img src="/images/18.4d092e01759507d75172f8/1604589438952/logo_essunga.png" alt="Essunga kommun" width="414" height="80"></a> </div> </div> <div class="sv-custom-module sv-limepark-webapp-overlay-button sv-template-portlet " id="svid12_50f4186d1927ae3d6b93e2d" style="display: none;"><div id="Overtackningsknapp"><!-- Övertäckningsknapp --></div><div class="lp-overlay-button__wrapper" role="navigation" aria-label="Huvudnavigering" data-cid="86336661-54ec-250b-6701-b55fb4daa855"><button class="lp-overlay-button lp-button-menu small" aria-controls="svid12_50f4186d1927ae3d6b93e2d-container" aria-expanded="false"><svg class="lp-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/webdav/files/system/svg/lp-icons.svg#lp-menu"></use></svg><span>Meny</span></button></div><script nonce="189d8250-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerBootstrapData('12.50f4186d1927ae3d6b93e2d','86336661-54ec-250b-6701-b55fb4daa855','main',[],undefined);</script><script nonce="189d8250-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerInitialState('12.50f4186d1927ae3d6b93e2d',{"buttonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-menu\">\u003c/use>\u003c/svg>\u003cspan>Meny\u003c/span>","elements":[{"selector":"#svid12_6a13007819df71ee260a5ac","mediaQuery":" screen and (max-width: 667px)","breakpoints":[{"displayName":"Smartphone","selectorText":"sv-bp-smartphone","maxWidth":"667px","id":"650.4d092e01759507d7514f","mediaQuery":"only screen and (max-width: 667px)"}],"notQuery":"not screen and (max-width: 667px)"}],"breakpoints":" screen and (max-width: 667px)","useAdvancedAnimation":true,"animationIn":"slideInRight","animationOut":"slideOutRight","closeButtonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-close\">\u003c/use>\u003c/svg>\u003cspan>Stäng\u003c/span>","dialogLabel":"Meny","titleText":"","animationDuration":300,"containerClasses":"lp-fixed-menu","buttonClasses":"lp-button-menu small","ariaRole":"navigation","ariaLabel":"Huvudnavigering","usePageTransform":false,"pageTransformPercent":0.7,"route":"/"});</script> <script nonce="189d8250-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerApp({applicationId:'limepark.webapp-overlay-button|2.1.1',htmlElementId:'svid12_50f4186d1927ae3d6b93e2d',route:'/',portletId:'12.50f4186d1927ae3d6b93e2d',locale:'sv',defaultLocale:'en'
+
+######## SIDA: https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html
+Titel: Kallelser och protokoll - Essunga kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html
+GET 200 xhr application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json https://www.browsealoud.com/version.json
+      {"ie":"2.6.1","latest":"3.12.0"}
+GET 200 xhr application/json https://www.browsealoud.com/modules/3.12.0/sri.json
+      {"hashes":{}}
+GET 200 fetch application/javascript https://plus.browsealoud.com/js/urlinfo/www.essunga.se.js
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/268ce86e-1815-4490-8f22-16fdf7b61142/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#content | Hoppa till innehåll | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#Huvudmeny | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#menu | Hoppa till meny | Hoppa till innehåll Hoppa till meny
+https://www.essunga.se/ |  | 
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik
+http://www.essunga.se/om-webbplatsen/sok.html | Sök | Sök
+http://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Kontakt | Kontakt
+http://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Lyssna | Lyssna
+https://www.essunga.se/om-webbplatsen/las-mer-om-talande-webb.html | Läs mer | Aktivera talande webb Läs mer
+https://www.essunga.se/ | Startsida | Startsida
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html# | Skriv ut | Skriv ut
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#sharepage | Dela | Dela
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#contact | Kontaktinformation | Kontaktinformation
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg Undermeny: Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd Undermeny: Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra Undermeny: Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö Undermeny: Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor Undermeny: Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete Undermeny: Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik Kommunfakta Undermeny: Kommunfakta Kommunens organisation Undermeny: Kommunens organisation Politik och
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Undermeny: Kommunfakta
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Undermeny: Kommunens organisation
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Undermeny: Politik och demokrati Hur går det till att fatta beslut? Sammanträdesdagar för politike
+https://www.essunga.se/kommun--politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.essunga.se/kommun--politik/politik-och-demokrati/sammantradesdagar-for-politiken.html | Sammanträdesdagar för politiken | Sammanträdesdagar för politiken
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Kallelser och protokoll | Kallelser och protokoll
+https://www.essunga.se/kommun--politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter Undermeny: Dialog och synpunkter
+https://www.essunga.se/kommun--politik/politik-och-demokrati/vision-strategisk-plan-och-mal.html | Vision, strategisk plan och mål | Vision, strategisk plan och mål
+https://www.essunga.se/kommun--politik/politik-och-demokrati/val-till-riksdag-kommun-och-region-samt-europaparlamentet.html | Val till riksdag, kommun och region samt Europaparlamentet | Val till riksdag, kommun och region samt Europaparlamentet Undermeny: Val till riksdag, kommun och region samt Europapar
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kungorelser-om-bygglov-och-grannehoranden.html | Kungörelser om bygglov och grannehöranden | Kungörelser om bygglov och grannehöranden
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Undermeny: Överklaga beslut, rättssäkerhet
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Undermeny: Press- och informationsmaterial
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | kommunens officiella anslagstavla. | Här hittar du kallelser och protokoll från kommunfullmäktige, kommunstyrelse och Essunga kommuns nämnder. För kommunfull
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#d9deec027878352 | Klicka här | Ett fel har uppstått. Klicka här för att försöka igen.
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-ef23745e9df78940839 | Byggnadsnämnden | Byggnadsnämnden
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-e3ae270a1b614394646 | Kommunfullmäktige | Kommunfullmäktige
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-23f6e66eb69f4394619 | Kommunstyrelsen | Kommunstyrelsen
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-692d0a614f0e8568473 | Socialnämnden | Socialnämnden
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-2285d09f58868568467 | Utbildningsnämnden | Utbildningsnämnden
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html#--chn-d9deec027878352-912644ad221c8941463 | Valnämnden | Valnämnden
+http://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | Jag samtycker till hur mina personuppgifter hanteras. Läs mer om hur vi hanterar personuppgifter på www.essunga.se/om-we
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html?contactUserId=247.069c590a0d29eb4bb98de8464ef0c991&sv.url=12.4d092e01759507d7515700&state=showSendMessage#Kontakt | Cecilia Trolin | Cecilia Trolin
+tel:+4651257025 | Telefon: 0512-570 25 | Telefon: 0512-570 25
+mailto:cecilia.trolin@essunga.se | E-post: cecilia.trolin@essunga.se | E-post: cecilia.trolin@essunga.se
+tel:+4651257020 | Telefon: 0512-570 20 | Telefon: 0512-570 20
+mailto:daniel.andersson@essunga.se | E-post: daniel.andersson@essunga.se | E-post: daniel.andersson@essunga.se
+https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Ställ en fråga | Ställ en fråga
+https://www.essunga.se/om-webbplatsen/synpunkter.html | Lämna en synpunkt | Lämna en synpunkt
+https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fkallelser-och-protokoll.html | Facebook | Facebook
+https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fkallelser-och-protokoll.html | Twitter | Twitter
+https://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fkallelser-och-protokoll.html | LinkedIn | LinkedIn
+mailto:?subject=Kallelser%20och%20protokoll&body=http%3A%2F%2Fwww.essunga.se%2Fkommun--politik%2Fpolitik-och-demokrati%2Fkallelser-och-protokoll.html | E-post | E-post
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html# | Till toppen av sidan | Till toppen av sidan
+https://www.essunga.se/utbildning--barnomsorg.html | Utbildning & barnomsorg | Utbildning & barnomsorg Undermeny: Utbildning & barnomsorg
+https://www.essunga.se/omsorg--stod.html | Omsorg & stöd | Omsorg & stöd Undermeny: Omsorg & stöd
+https://www.essunga.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra Undermeny: Uppleva & göra
+https://www.essunga.se/bygga-bo--miljo.html | Bygga, bo & miljö | Bygga, bo & miljö Undermeny: Bygga, bo & miljö
+https://www.essunga.se/trafik-och-resor.html | Trafik och resor | Trafik och resor Undermeny: Trafik och resor
+https://www.essunga.se/naringsliv--arbete.html | Näringsliv & arbete | Näringsliv & arbete Undermeny: Näringsliv & arbete
+https://www.essunga.se/kommun--politik.html | Kommun & politik | Kommun & politik Undermeny: Kommun & politik Kommunfakta Undermeny: Kommunfakta Kommunens organisation Undermeny: Kommun
+https://www.essunga.se/kommun--politik/kommunfakta.html | Kommunfakta | Kommunfakta Undermeny: Kommunfakta
+https://www.essunga.se/kommun--politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation Undermeny: Kommunens organisation
+https://www.essunga.se/kommun--politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Undermeny: Politik och demokrati Hur går det till att fatta beslut? Sammanträdesdagar för politike
+https://www.essunga.se/kommun--politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.essunga.se/kommun--politik/politik-och-demokrati/sammantradesdagar-for-politiken.html | Sammanträdesdagar för politiken | Sammanträdesdagar för politiken
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kallelser-och-protokoll.html | Kallelser och protokoll | Kallelser och protokoll
+https://www.essunga.se/kommun--politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter Undermeny: Dialog och synpunkter
+https://www.essunga.se/kommun--politik/politik-och-demokrati/vision-strategisk-plan-och-mal.html | Vision, strategisk plan och mål | Vision, strategisk plan och mål
+https://www.essunga.se/kommun--politik/politik-och-demokrati/val-till-riksdag-kommun-och-region-samt-europaparlamentet.html | Val till riksdag, kommun och region samt Europaparlamentet | Val till riksdag, kommun och region samt Europaparlamentet Undermeny: Val till riksdag, kommun och region samt Europapar
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/kommun--politik/politik-och-demokrati/kungorelser-om-bygglov-och-grannehoranden.html | Kungörelser om bygglov och grannehöranden | Kungörelser om bygglov och grannehöranden
+https://www.essunga.se/kommun--politik/arenden-och-handlingar.html | Ärenden och handlingar | Ärenden och handlingar
+https://www.essunga.se/kommun--politik/hallbar-utveckling-agenda-2030.html | Hållbar utveckling Agenda 2030 | Hållbar utveckling Agenda 2030
+https://www.essunga.se/kommun--politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet Undermeny: Överklaga beslut, rättssäkerhet
+https://www.essunga.se/kommun--politik/manskliga-rattigheter.html | Mänskliga rättigheter | Mänskliga rättigheter
+https://www.essunga.se/kommun--politik/press--och-informationsmaterial.html | Press- och informationsmaterial | Press- och informationsmaterial Undermeny: Press- och informationsmaterial
+https://www.essunga.se/kommun--politik/ung-i-essunga-kommun.html | Ung i Essunga kommun | Ung i Essunga kommun
+mailto:kommun@essunga.se | kommun@essunga.se | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/kommun--politik/kommunfakta/ekonomi.html | Fakturauppgifter | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/kontakt-stall-en-fraga.html | Öppettider | Telefon: 0512-570 00 E-post: kommun@essunga.se Besök: Sturegatan 4, Nossebro Postadress: 465 82 Nossebro Organisationsnu
+https://www.essunga.se/om-webbplatsen/synpunkter.html | Synpunkt och felanmälan | Synpunkt och felanmälan
+https://www.essunga.se/om-webbplatsen/sociala-medier.html | Sociala medier | Sociala medier
+https://www.t-d.se/ | Tillgänglighetsdatabasen
+Länk till annan webbplats. | Tillgänglighetsdatabasen Länk till annan webbplats.
+https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html | Anslagstavla | Anslagstavla
+https://www.essunga.se/om-webbplatsen/behandling-av-personuppgifter.html | Personuppgiftsbehandling | Personuppgiftsbehandling
+https://www.essunga.se/om-webbplatsen/om-cookies.html | Om kakor (cookies) | Om kakor (cookies)
+https://www.funka.com/funka--tillg%C3%A4nglighet/om-webbplatsen/sa-fungerar-talande-webb/ | Talande webb (extern webbplats)
+Länk till annan webbplats. | Talande webb (extern webbplats) Länk till annan webbplats.
+https://intranat.essunga.se/ | Intranätet
+Länk till annan webbplats. | Intranätet Länk till annan webbplats.
+https://www.essunga.se/om-webbplatsen.html | Om webbplatsen | Om webbplatsen
+https://www.essunga.se/om-webbplatsen/webbkarta.html | Webbkarta | Webbkarta
+https://www.essunga.se/om-webbplatsen/tillganglighet-for-essunga.se.html | Tillgänglighet för essunga.se | Tillgänglighet för essunga.se
+https://press.essunga.se/ | Pressrum
+Länk till annan webbplats. | Pressrum Länk till annan webbplats.
+
+## Knappar
+Meny
+Aktivera talande webb
+Sök
+Undermeny: Utbildning & barnomsorg
+Undermeny: Omsorg & stöd
+Undermeny: Uppleva & göra
+Undermeny: Bygga, bo & miljö
+Undermeny: Trafik och resor
+Undermeny: Näringsliv & arbete
+Undermeny: Kommun & politik
+Undermeny: Kommunfakta
+Undermeny: Kommunens organisation
+Undermeny: Politik och demokrati
+Undermeny: Dialog och synpunkter
+Undermeny: Val till riksdag, kommun och region samt Europaparlamentet
+Undermeny: Överklaga beslut, rättssäkerhet
+Undermeny: Press- och informationsmaterial
+Ja
+Nej
+Undermeny: Utbildning & barnomsorg
+Undermeny: Omsorg & stöd
+Undermeny: Uppleva & göra
+Undermeny: Bygga, bo & miljö
+Undermeny: Trafik och resor
+Undermeny: Näringsliv & arbete
+Undermeny: Kommun & politik
+Undermeny: Kommunfakta
+Undermeny: Kommunens organisation
+Undermeny: Politik och demokrati
+Undermeny: Dialog och synpunkter
+Undermeny: Val till riksdag, kommun och region samt Europaparlamentet
+Undermeny: Överklaga beslut, rättssäkerhet
+Undermeny: Press- och informationsmaterial
+Lyssna på Talande Webb
+Stäng
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-essunga env-m-around--0"> <div id="svid10_4d092e01759507d7512daa" class="sv-layout lp-overlay-page" aria-hidden="false"><div id="svid94_4d092e01759507d751bab"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_38acf34217c9c38bce48b63"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_4d092e01759507d7512c7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4d092e01759507d75155b6"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_4d092e01759507d751570a"><div id="HTMLHoppatillinnehall"><!-- HTML - Hoppa till innehåll --></div><a class="lp-skip-to-content" href="#content">Hoppa till innehåll</a> <a class="lp-skip-to-menu lp-skip-to-menu-desktop" href="#Huvudmeny">Hoppa till meny</a> <a class="lp-skip-to-menu lp-skip-to-menu-smartphone" href="#menu">Hoppa till meny</a></div> </div> </div> <div class="sv-vertical sv-layout lp-header sv-template-layout" id="svid10_4d092e01759507d75123ce"><div class="sv-script-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_2574c7eb198740e872e12539"><div id="Skript"><!-- Skript --></div><div class="sv-image-portlet sv-portlet lp-logo sv-skip-spacer"> <a href="/"><img src="/images/18.4d092e01759507d75172f8/1604589438952/logo_essunga.png" alt="Essunga kommun" width="414" height="80"></a> </div> </div> <div class="sv-custom-module sv-limepark-webapp-overlay-button sv-template-portlet " id="svid12_50f4186d1927ae3d6b93e2d" style="display: none;"><div id="Overtackningsknapp"><!-- Övertäckningsknapp --></div><div class="lp-overlay-button__wrapper" role="navigation" aria-label="Huvudnavigering" data-cid="9629e57e-0310-2570-cdfc-262c0dbbdb4b"><button class="lp-overlay-button lp-button-menu small" aria-controls="svid12_50f4186d1927ae3d6b93e2d-container" aria-expanded="false"><svg class="lp-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/webdav/files/system/svg/lp-icons.svg#lp-menu"></use></svg><span>Meny</span></button></div><script nonce="1a97a4a0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerBootstrapData('12.50f4186d1927ae3d6b93e2d','9629e57e-0310-2570-cdfc-262c0dbbdb4b','main',[],undefined);</script><script nonce="1a97a4a0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerInitialState('12.50f4186d1927ae3d6b93e2d',{"buttonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-menu\">\u003c/use>\u003c/svg>\u003cspan>Meny\u003c/span>","elements":[{"selector":"#svid12_6a13007819df71ee260a5ac","mediaQuery":" screen and (max-width: 667px)","breakpoints":[{"displayName":"Smartphone","selectorText":"sv-bp-smartphone","maxWidth":"667px","id":"650.4d092e01759507d7514f","mediaQuery":"only screen and (max-width: 667px)"}],"notQuery":"not screen and (max-width: 667px)"}],"breakpoints":" screen and (max-width: 667px)","useAdvancedAnimation":true,"animationIn":"slideInRight","animationOut":"slideOutRight","closeButtonText":"\u003csvg class=\"lp-icon\" aria-hidden=\"true\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\">\u003cuse xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/webdav/files/system/svg/lp-icons.svg#lp-close\">\u003c/use>\u003c/svg>\u003cspan>Stäng\u003c/span>","dialogLabel":"Meny","titleText":"","animationDuration":300,"containerClasses":"lp-fixed-menu","buttonClasses":"lp-button-menu small","ariaRole":"navigation","ariaLabel":"Huvudnavigering","usePageTransform":false,"pageTransformPercent":0.7,"route":"/"});</script> <script nonce="1a97a4a0-dc0c-11f1-ac3a-5fd887b795f0">AppRegistry.registerApp({applicationId:'limepark.webapp-overlay-button|2.1.1',htmlElementId:'svid12_50f4186d1927ae3d6b93e2d',route:'/',portletId:'12.50f4186d1927ae3d6b93e2d',locale:'sv',defaultLocale:'en'

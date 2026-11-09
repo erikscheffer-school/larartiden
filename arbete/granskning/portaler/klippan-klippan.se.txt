@@ -1,0 +1,532 @@
+Kommun: Klippan  nyckel: klippan.se
+
+######## SIDA: https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll
+Titel: Kallelser och protokoll | Klippans kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/5f470d76-2823-48de-ab72-2a38932e683d/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+GET 200 fetch application/json; charset=utf-8 https://api.cludo.com/api/v4/3506/experiences/settings?EngineID=14642
+      [{"experienceId":"a63d5d61-37d7-41f7-8ce6-012555037068","engineId":14642,"experienceType":"SupportAssistantQA","revisionStatus":"Published","configuration":"{\"activeStep\":\"suggestionModules\",\"generalConfig\":{\"language\":\"sv\",\"mainButton\":{\"shape\":\"Pill\",\"backgroundColor\":\"#0073BB\",\"textColor\":\"#FFFFFF\",\"outlineColor\":\"#FFFFFF\",\"label\":\"Fråga AI\",\"elements\":\"text\"},\"topBar\":{\"title\":\"Behöver du hjälp? Chatta med vår AI\",\"backgroundColor\":\"#0073BB\",\"textColor\":\"#FFFFFF\"},\"window\":{\"backgroundColor\":\"#ffffff\",\"showPoweredByCludo\":false,\"layout\":{\"defaultTabBackgroundColor\":\"#ffffff\",\"defaultTabTextColor\":\"#181818\",\"activeTabBackgroundColor\":\"#ffffff\",\"activeTabTextColor\":\"#2A8CFF\",\"defaultView\":\"search\",\"searchTabTitle\":\"Search\",\"aiChatTabTitle\":\"AI Chat\"}}},\"searchConfig\":{\"enableSearch\":false,\"searchHeader\":\"\",\"categories\":{\"categoriesHeader\":\"\"},\"form\":{\"buttonOutlineColor\":\"#FFFFFF\"},\"results\":{\"resultLayout\":[{\"type\":\"title\",\"field\":\"Title\",\"valueType\":\"value\"},{\"type\":\"path\",\"field\":\"Url\",\"valueType\":\"value\"},{\"type\":\"description\",\"field\":\"Description\",\"valueType\":\"highlights\"}]},\"autocomplete\":{},\"preSearch\":{\"recentSearches\":{\"displayLocation\":\"search\",\"maxRecentSearches\":null},\"suggestions\":{\"displayLocation\":\"search\",\"searchTerms\":[]}}},\"qaConfig\":{\"enableQA\":true,\"chatHistoryMaxItems\":100,\"answerL
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Kallelser och protokoll | Klippans kommun","pid":"4.6975dca21809397c704144e0","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["4.6975dca21809397c704144e0"]},"cf":[],"csf":[],"p":"9d51fe64","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:08:06.029Z","url":"/kommun--politik/moten-handlingar--proto
+GET 200 xhr application/json; charset=utf-8 https://api.cludo.com/api/v3/3506/14642/websites/publicsettings
+      {"enableGoogleAnalyticsIntegration":false,"enableGoogleTagManagerIntegration":false,"enableSiteimproveAnalyticsIntegration":false,"optOutCookieTracking":false,"enableAnonymousTracking":false,"Engines":["14642"],"quicklinks":[],"customEngineSettings":null,"subscriptionDigest":{"features":["advanced insights","device analytics","geo analytics","intelligent autocomplete","whitelabel","search in pdf/word/excel files","analytics filters","dynamic re-ranking","categories","voice search","web content highlighter","mfa","unlimited requests","unlimited indexed documents","intelligent rankings (ml)","related searches","basic insights","basic 404","advanced 404 analytics","intelligent 404","actionable recommendations","experience suggestion","data masking","banner statistics","instant suggestions","time-scheduled banners","granular permissions","engine permissions","audiences","page rankings","banners","quicklinks","search as you type","sayt","feedback module","premium experience","ai summary","ai chat","content field","canned responses"],"quotas":{"one hybrid engine":999,"one engine":999}},"instantSuggestionsConfiguration":null,"configurations":null,"chatWhitelisted":true,"summaryWhitelisted":true}
+GET 200 fetch application/json; charset=utf-8 https://api.cludo.com/api/v4/3506/experiences/a63d5d61-37d7-41f7-8ce6-012555037068/settings
+      {"enableGoogleAnalyticsIntegration":false,"enableGoogleTagManagerIntegration":false,"enableSiteimproveAnalyticsIntegration":false,"optOutCookieTracking":false,"enableAnonymousTracking":false,"Engines":["14642"],"quicklinks":[],"customEngineSettings":null,"subscriptionDigest":{"features":["advanced insights","device analytics","geo analytics","intelligent autocomplete","whitelabel","search in pdf/word/excel files","analytics filters","dynamic re-ranking","categories","voice search","web content highlighter","mfa","unlimited requests","unlimited indexed documents","intelligent rankings (ml)","related searches","basic insights","basic 404","advanced 404 analytics","intelligent 404","actionable recommendations","experience suggestion","data masking","banner statistics","instant suggestions","time-scheduled banners","granular permissions","engine permissions","audiences","page rankings","banners","quicklinks","search as you type","sayt","feedback module","premium experience","ai summary","ai chat","content field","canned responses"],"quotas":{"one hybrid engine":999,"one engine":999}},"instantSuggestionsConfiguration":null,"configurations":{"supportAssistant":{"activeStep":"suggestionModules","generalConfig":{"language":"sv","mainButton":{"shape":"Pill","backgroundColor":"#0073BB","textColor":"#FFFFFF","outlineColor":"#FFFFFF","label":"Fråga AI","elements":"text"},"topBar":{"title":"Behöver du hjälp? Chatta med vår AI","backgroundColor":"#0073BB","textColor":"#FFFFFF"},"window":{"
+
+## Länkar (href | text | sammanhang)
+https://www.klippan.se/ovrigt/om-kakor | Läs mer i vår cookiepolicy | Här står information om vilka kakor som sparas Läs mer i vår cookiepolicy
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#page_content | Gå till innehåll | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#submenu | Gå till undermeny | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/ovrigt/mina-sidor | Mina sidor | Mina sidor
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ovrigt/lattlast | Lättläst | Lättläst Translate
+https://www.klippan.se/ovrigt/translate | Translate | Lättläst Translate
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar
+5 | Driftstörningar 5
+https://www.klippan.se/utbildning--barnomsorg | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.klippan.se/omsorg--stod | Omsorg & stöd | Omsorg & stöd
+https://www.klippan.se/bygga-bo--miljo | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.klippan.se/uppleva--gora | Uppleva & göra | Uppleva & göra
+https://www.klippan.se/trafik--infrastruktur | Trafik & infrastruktur | Trafik & infrastruktur
+https://www.klippan.se/naringsliv--arbete | Näringsliv & arbete | Näringsliv & arbete
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/ovrigt/lattlast | Lättläst
+            
+            Lättläst (länk till annan webbplats, öppnas i  | Lättläst Lättläst (länk till annan webbplats, öppnas i nytt fönster)
+https://www.klippan.se/ovrigt/translate | Translate
+            
+            Translate (länk till annan webbplats, öppnas  | Translate Translate (länk till annan webbplats, öppnas i nytt fönster)
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | window.rsDocReaderConf = {lang: 'sv_se', img_alt: 'Öppna detta dokument med ReadSpeaker docReader'}; Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar 5 | Driftstörningar 5
+https://www.klippan.se/ | Startsida | Startsida /
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/kommun--politik/behandling-av-personuppgifter | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter Undersidor för E-tjänster & blanketter
+https://www.klippan.se/kommun--politik/gifta-sig-partnerskap | Gifta sig, partnerskap | Gifta sig, partnerskap Undersidor för Gifta sig, partnerskap
+https://www.klippan.se/kommun--politik/insyn--paverkan | Insyn & påverkan | Insyn & påverkan Undersidor för Insyn & påverkan
+https://www.klippan.se/kommun--politik/kommunens-organisation | Kommunens organisation | Kommunens organisation Undersidor för Kommunens organisation
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen Undersidor för Kontakta kommunen
+https://www.klippan.se/kommun--politik/krisberedskap--civilt-forsvar | Krisberedskap & civilt försvar | Krisberedskap & civilt försvar Undersidor för Krisberedskap & civilt försvar
+https://www.klippan.se/kommun--politik/kvalitet--resultat | Kvalitet & resultat | Kvalitet & resultat
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll Undersidor för Möten, handlingar & protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll Undersidor för Kallelser och protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/sammantradestider | Sammanträdestider | Sammanträdestider
+https://www.klippan.se/kommun--politik/press--media | Press & media | Press & media Undersidor för Press & media
+https://www.klippan.se/kommun--politik/samarbete | Samarbete | Samarbete
+https://www.klippan.se/kommun--politik/val-2026 | Val 2026 | Val 2026 Undersidor för Val 2026
+https://www.klippan.se/kommun--politik/vision--mal | Vision & mål | Vision & mål
+https://www.klippan.se/kommun--politik/valkommen-till-klippans-kommun | Välkommen till Klippans kommun | Välkommen till Klippans kommun Undersidor för Välkommen till Klippans kommun
+https://www.klippan.se/kommun--politik/insyn--paverkan/offentlighet--sekretess | offentlighetsprincipen | Du har, enligt offentlighetsprincipen, rätt att ta del av de beslutsunderlag som legat till grund för beslut. Läs mer om
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt Välkommen att höra av dig till kundtjänst på telefon 0435-280 00 eller e-post kommun@klippan.se om du vill ta de
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e310 | Kommunfullmäktige | Kommunfullmäktige
+https://documentweb.klippan.se/?folderId=9e3cb028-78a2-4826-8390-c98e49219221 | Kommunfullmäktiges protokoll & kallelser
+  (Länk till annan webbplats, öppnas i  | Kommunfullmäktiges protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({app
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige AppRegistry.registerApp({applicationId:'se.soleilit.actionLink|3.1.0',htmlElementId:'svid
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e384 | Kommunstyrelsen | Kommunstyrelsen
+https://documentweb.klippan.se/?folderId=8131df07-eaca-426f-8780-759c13da79c1 | Kommunstyrelsens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i ny | Kommunstyrelsens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({appli
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e3a2 | Kommunstyrelsens arbetsutskott | Kommunstyrelsens arbetsutskott
+https://documentweb.klippan.se/?folderId=960740ec-056e-482c-a253-101e6930aa96 | Kommunstyrelsens arbetsutskotts protokoll & kallelser
+  (Länk till annan webbpla | Kommunstyrelsens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.reg
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e410 | Barn- & utbildningsnämnden | Barn- & utbildningsnämnden
+https://documentweb.klippan.se/?folderId=b03bde32-109c-484c-aa64-9c149a071690 | Barn- & utbildningsnämndens protokoll & kallelser
+  (Länk till annan webbplats,  | Barn- & utbildningsnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registe
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e47a | Barn- & utbildningsnämndens arbetsutskott | Barn- & utbildningsnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=04aab467-d66e-473b-b185-39df61632f97 | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser
+  (Länk till an | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppR
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e725 | Kommunala bolag | Kommunala bolag
+mailto:kommun@klippan.se | kommun@klippan.se | Klippans kommun är delägare i ett antal kommunala bolag, däribland bostadsbolaget Treklövern och renhållningsbolaget Når
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e49d | Kultur- & fritidsnämnden | Kultur- & fritidsnämnden
+https://documentweb.klippan.se/?folderId=5576435d-b323-4c24-b8ec-6d10114a9443 | Kultur- & fritidsnämnden protokoll & kallelser
+  (Länk till annan webbplats, öpp | Kultur- & fritidsnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerAp
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e50d | Plan- & byggnämnden | Plan- & byggnämnden
+mailto:kommun@klippan.se | kommun@klippan.se | Observera att vi publicerar protokoll utan personuppgifter. Enligt dataskyddsförordning (GDPR) publicerar vi inte person
+https://documentweb.klippan.se/?folderId=d60dac6a-907c-4878-9f69-63a6f526e9d7 | Plan- & byggnämnden protokoll & kallelser
+  (Länk till annan webbplats, öppnas i | Plan- & byggnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({ap
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e53e | Plan- & byggnämndens arbetsutskott | Plan- & byggnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=7bde4cf3-faba-44a2-81f3-5c72cee637e6 | Plan- & byggnämndens arbetsutskotts protokoll & kallelser
+  (Länk till annan web | Plan- & byggnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e70b | Revisionen | Revisionen
+mailto:kommun@klippan.se | kommun@klippan.se | Revisionen för enbart minnesanteckningar och publiceras inte här. Vill du ta del av möteshandlingar för revisionen konta
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e653 | Råd | Råd
+https://documentweb.klippan.se/?folderId=83aadcc1-bd27-49e6-898c-ff5972b5492e | Funktionshinderrådets och pensionärsrådets protokoll
+  (Länk till annan webbplat | Funktionshinderrådets och pensionärsrådets protokoll (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.regi
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e6d2 | Räddningsnämnden | Räddningsnämnden
+https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-a82de03f99ec5285099 | Åstorps kommuns hemsida | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+mailto:kommun@klippan.se | kommun@klippan.se | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e5dd | Socialnämnden | Socialnämnden
+https://documentweb.klippan.se/?folderId=15952390-f0a1-4b45-b38c-8650024624aa | Socialnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt | Socialnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applica
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e617 | Socialutskott | Socialutskott
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | anslagstavlan | Socialutskottets protokoll är belagda med sekretess och publiceras inte här. Endast protokollets första sida anslås på a
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e634 | Valnämnden | Valnämnden
+https://documentweb.klippan.se/?folderId=79841439-479e-444e-8593-6514bf16cef3 | Valnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt fö | Valnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applicatio
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e63c | Överförmyndarnämnden | Överförmyndarnämnden
+https://www.perstorp.se/kommunpolitik/motenhandlingarochprotokoll/overformyndarnamnden4k.4.42461a8c16dac7e783959c7.html | Perstorps kommuns hemsida | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+mailto:kommun@klippan.se | kommun@klippan.se | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/naringsliv--arbete/lediga-jobb | Lediga jobb | Lediga jobb
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/felanmalan | Felanmälan | Felanmälan
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/synpunkt | Synpunkt | Synpunkt
+https://intranat.klippan.se/ | Logga in som anställd
+(öppnas i nytt fönster) | Logga in som anställd (öppnas i nytt fönster)
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+tel:0435-28000 | 0435-28 000 | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakter och adresser | Kontakter och adresser
+https://www.klippan.se/naringsliv--arbete/starta-och-driva-foretag/foretagsbesok | Företagare | Företagare
+https://www.klippan.se/uppleva--gora/turism | Turist | Turist
+https://www.klippan.se/kommun--politik/press--media | Press | Press
+https://www.klippan.se/ovrigt/om-kakor | Om kakor | Om kakor
+https://www.klippan.se/ovrigt/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.klippan.se/ovrigt/a-till-o | A till Ö | A till Ö
+https://www.klippan.se/ovrigt/webbkarta | Webbkarta | Webbkarta
+https://www.facebook.com/Klippanskommun/ | Facebook (länk till annan webbplats, öppnas i nytt fönster) | Facebook (länk till annan webbplats, öppnas i nytt fönster)
+https://www.instagram.com/klippans_kommun/ | Instagram (länk till annan webbplats, öppnas i nytt fönster) | Instagram (länk till annan webbplats, öppnas i nytt fönster)
+https://www.youtube.com/user/klippanskommun/videos | YouTube (länk till annan webbplats, öppnas i nytt fönster) | YouTube (länk till annan webbplats, öppnas i nytt fönster)
+https://www.linkedin.com/company/klippans-kommun | LinkedIn (länk till annan webbplats, öppnas i nytt fönster) | LinkedIn (länk till annan webbplats, öppnas i nytt fönster)
+
+## Knappar
+Godkänn alla kakor
+Neka alla utom nödvändiga kakor
+Anpassa inställningar
+Sök
+Lyssna
+webReaders meny
+Meny
+Lyssna
+webReaders meny
+Undersidor för E-tjänster & blanketter
+Undersidor för Gifta sig, partnerskap
+Undersidor för Insyn & påverkan
+Undersidor för Kommunens organisation
+Undersidor för Kontakta kommunen
+Undersidor för Krisberedskap & civilt försvar
+Undersidor för Möten, handlingar & protokoll
+Undersidor för Kallelser och protokoll
+Undersidor för Press & media
+Undersidor för Val 2026
+Undersidor för Välkommen till Klippans kommun
+Kommunfullmäktige
+Kommunstyrelsen
+Kommunstyrelsens arbetsutskott
+Barn- & utbildningsnämnden
+Barn- & utbildningsnämndens arbetsutskott
+Kommunala bolag
+Kultur- & fritidsnämnden
+Plan- & byggnämnden
+Plan- & byggnämndens arbetsutskott
+Revisionen
+Råd
+Räddningsnämnden
+Socialnämnden
+Socialutskott
+Valnämnden
+Överförmyndarnämnden
+Skriv ut
+Expandera
+Skicka konversationen via e-post
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-Standard env-m-around--0" data-rsevent-id="rs_106721"><div id="sv_X6PzU6cP_kI4MU7bBbGdt" lang="sv"><div class="sv-cookie-consent-banner env-ui-section GzllSDEXiQgp3reuWNZU" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_fFBCDwIqpmTgbFs9HVgRp"><h2 class="env-ui-text-subheading" id="sv_fFBCDwIqpmTgbFs9HVgRp">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">Här står information om vilka kakor som sparas</p><p class="env-m-top--x-small env-text"><a class="env-link" href="/ovrigt/om-kakor" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Neka alla utom nödvändiga kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_24ed023b18093f73c877a5c8" class="sv-layout"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_24ed023b18093f73c878767d"><div id="Oppnaplusboxarvidsoktraff"><!-- Öppna plusboxar vid sökträff --></div><script> window.svDocReady(function () { function capitalizeFirstLetter(string) { return string[0].toUpperCase() + string.slice(1); } function containsQuery(text, query) { if (text.includes(query) || text.toLowerCase().includes(query) || text.includes(query.toLowerCase() || text.includes(capitalizeFirstLetter(query)))) { return true; } } function openPlusbox() { const uri = window.location.search.split('query=')[1].replaceAll(/[\?"\+!]/g, ' '); const query = decodeURIComponent(uri); const allElements = $svjq('.sv-collapsible-content'); $svjq(allElements.get()).each(function() { const textInContent = $svjq(this).text(); const header = $svjq(this).find('.env-collapse-header'); if (containsQuery(textInContent, query)) { $svjq(header).click(); $svjq(this).find('.env-collapse').first().css('height', 'auto'); const queryCapitalizedRegex = new RegExp(capitalizeFirstLetter(query), 'g'); const queryLowerCaseRegex = new RegExp(query.toLowerCase(), 'g'); if (textInContent.includes(query.toLowerCase()) || textInContent.includes(capitalizeFirstLetter(query))) { $svjq(this).html($svjq(this).html().replace(queryCapitalizedRegex, '<mark>' + capitalizeFirstLetter(query) + '</mark>')); $svjq(this)
+
+######## SIDA: https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#page_content
+Titel: Kallelser och protokoll | Klippans kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.klippan.se/ovrigt/om-kakor | Läs mer i vår cookiepolicy | Här står information om vilka kakor som sparas Läs mer i vår cookiepolicy
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#page_content | Gå till innehåll | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#submenu | Gå till undermeny | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/ovrigt/mina-sidor | Mina sidor | Mina sidor
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ovrigt/lattlast | Lättläst | Lättläst Translate
+https://www.klippan.se/ovrigt/translate | Translate | Lättläst Translate
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar
+5 | Driftstörningar 5
+https://www.klippan.se/utbildning--barnomsorg | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.klippan.se/omsorg--stod | Omsorg & stöd | Omsorg & stöd
+https://www.klippan.se/bygga-bo--miljo | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.klippan.se/uppleva--gora | Uppleva & göra | Uppleva & göra
+https://www.klippan.se/trafik--infrastruktur | Trafik & infrastruktur | Trafik & infrastruktur
+https://www.klippan.se/naringsliv--arbete | Näringsliv & arbete | Näringsliv & arbete
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/ovrigt/lattlast | Lättläst
+            
+            Lättläst (länk till annan webbplats, öppnas i  | Lättläst Lättläst (länk till annan webbplats, öppnas i nytt fönster)
+https://www.klippan.se/ovrigt/translate | Translate
+            
+            Translate (länk till annan webbplats, öppnas  | Translate Translate (länk till annan webbplats, öppnas i nytt fönster)
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | window.rsDocReaderConf = {lang: 'sv_se', img_alt: 'Öppna detta dokument med ReadSpeaker docReader'}; Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar 5 | Driftstörningar 5
+https://www.klippan.se/ | Startsida | Startsida /
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/kommun--politik/behandling-av-personuppgifter | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter Undersidor för E-tjänster & blanketter
+https://www.klippan.se/kommun--politik/gifta-sig-partnerskap | Gifta sig, partnerskap | Gifta sig, partnerskap Undersidor för Gifta sig, partnerskap
+https://www.klippan.se/kommun--politik/insyn--paverkan | Insyn & påverkan | Insyn & påverkan Undersidor för Insyn & påverkan
+https://www.klippan.se/kommun--politik/kommunens-organisation | Kommunens organisation | Kommunens organisation Undersidor för Kommunens organisation
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen Undersidor för Kontakta kommunen
+https://www.klippan.se/kommun--politik/krisberedskap--civilt-forsvar | Krisberedskap & civilt försvar | Krisberedskap & civilt försvar Undersidor för Krisberedskap & civilt försvar
+https://www.klippan.se/kommun--politik/kvalitet--resultat | Kvalitet & resultat | Kvalitet & resultat
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll Undersidor för Möten, handlingar & protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll Undersidor för Kallelser och protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/sammantradestider | Sammanträdestider | Sammanträdestider
+https://www.klippan.se/kommun--politik/press--media | Press & media | Press & media Undersidor för Press & media
+https://www.klippan.se/kommun--politik/samarbete | Samarbete | Samarbete
+https://www.klippan.se/kommun--politik/val-2026 | Val 2026 | Val 2026 Undersidor för Val 2026
+https://www.klippan.se/kommun--politik/vision--mal | Vision & mål | Vision & mål
+https://www.klippan.se/kommun--politik/valkommen-till-klippans-kommun | Välkommen till Klippans kommun | Välkommen till Klippans kommun Undersidor för Välkommen till Klippans kommun
+https://www.klippan.se/kommun--politik/insyn--paverkan/offentlighet--sekretess | offentlighetsprincipen | Du har, enligt offentlighetsprincipen, rätt att ta del av de beslutsunderlag som legat till grund för beslut. Läs mer om
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt Välkommen att höra av dig till kundtjänst på telefon 0435-280 00 eller e-post kommun@klippan.se om du vill ta de
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e310 | Kommunfullmäktige | Kommunfullmäktige
+https://documentweb.klippan.se/?folderId=9e3cb028-78a2-4826-8390-c98e49219221 | Kommunfullmäktiges protokoll & kallelser
+  (Länk till annan webbplats, öppnas i  | Kommunfullmäktiges protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({app
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige AppRegistry.registerApp({applicationId:'se.soleilit.actionLink|3.1.0',htmlElementId:'svid
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e384 | Kommunstyrelsen | Kommunstyrelsen
+https://documentweb.klippan.se/?folderId=8131df07-eaca-426f-8780-759c13da79c1 | Kommunstyrelsens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i ny | Kommunstyrelsens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({appli
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e3a2 | Kommunstyrelsens arbetsutskott | Kommunstyrelsens arbetsutskott
+https://documentweb.klippan.se/?folderId=960740ec-056e-482c-a253-101e6930aa96 | Kommunstyrelsens arbetsutskotts protokoll & kallelser
+  (Länk till annan webbpla | Kommunstyrelsens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.reg
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e410 | Barn- & utbildningsnämnden | Barn- & utbildningsnämnden
+https://documentweb.klippan.se/?folderId=b03bde32-109c-484c-aa64-9c149a071690 | Barn- & utbildningsnämndens protokoll & kallelser
+  (Länk till annan webbplats,  | Barn- & utbildningsnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registe
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e47a | Barn- & utbildningsnämndens arbetsutskott | Barn- & utbildningsnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=04aab467-d66e-473b-b185-39df61632f97 | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser
+  (Länk till an | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppR
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e725 | Kommunala bolag | Kommunala bolag
+mailto:kommun@klippan.se | kommun@klippan.se | Klippans kommun är delägare i ett antal kommunala bolag, däribland bostadsbolaget Treklövern och renhållningsbolaget Når
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e49d | Kultur- & fritidsnämnden | Kultur- & fritidsnämnden
+https://documentweb.klippan.se/?folderId=5576435d-b323-4c24-b8ec-6d10114a9443 | Kultur- & fritidsnämnden protokoll & kallelser
+  (Länk till annan webbplats, öpp | Kultur- & fritidsnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerAp
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e50d | Plan- & byggnämnden | Plan- & byggnämnden
+mailto:kommun@klippan.se | kommun@klippan.se | Observera att vi publicerar protokoll utan personuppgifter. Enligt dataskyddsförordning (GDPR) publicerar vi inte person
+https://documentweb.klippan.se/?folderId=d60dac6a-907c-4878-9f69-63a6f526e9d7 | Plan- & byggnämnden protokoll & kallelser
+  (Länk till annan webbplats, öppnas i | Plan- & byggnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({ap
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e53e | Plan- & byggnämndens arbetsutskott | Plan- & byggnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=7bde4cf3-faba-44a2-81f3-5c72cee637e6 | Plan- & byggnämndens arbetsutskotts protokoll & kallelser
+  (Länk till annan web | Plan- & byggnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e70b | Revisionen | Revisionen
+mailto:kommun@klippan.se | kommun@klippan.se | Revisionen för enbart minnesanteckningar och publiceras inte här. Vill du ta del av möteshandlingar för revisionen konta
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e653 | Råd | Råd
+https://documentweb.klippan.se/?folderId=83aadcc1-bd27-49e6-898c-ff5972b5492e | Funktionshinderrådets och pensionärsrådets protokoll
+  (Länk till annan webbplat | Funktionshinderrådets och pensionärsrådets protokoll (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.regi
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e6d2 | Räddningsnämnden | Räddningsnämnden
+https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-a82de03f99ec5285099 | Åstorps kommuns hemsida | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+mailto:kommun@klippan.se | kommun@klippan.se | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e5dd | Socialnämnden | Socialnämnden
+https://documentweb.klippan.se/?folderId=15952390-f0a1-4b45-b38c-8650024624aa | Socialnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt | Socialnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applica
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e617 | Socialutskott | Socialutskott
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | anslagstavlan | Socialutskottets protokoll är belagda med sekretess och publiceras inte här. Endast protokollets första sida anslås på a
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e634 | Valnämnden | Valnämnden
+https://documentweb.klippan.se/?folderId=79841439-479e-444e-8593-6514bf16cef3 | Valnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt fö | Valnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applicatio
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e63c | Överförmyndarnämnden | Överförmyndarnämnden
+https://www.perstorp.se/kommunpolitik/motenhandlingarochprotokoll/overformyndarnamnden4k.4.42461a8c16dac7e783959c7.html | Perstorps kommuns hemsida | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+mailto:kommun@klippan.se | kommun@klippan.se | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/naringsliv--arbete/lediga-jobb | Lediga jobb | Lediga jobb
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/felanmalan | Felanmälan | Felanmälan
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/synpunkt | Synpunkt | Synpunkt
+https://intranat.klippan.se/ | Logga in som anställd
+(öppnas i nytt fönster) | Logga in som anställd (öppnas i nytt fönster)
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+tel:0435-28000 | 0435-28 000 | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakter och adresser | Kontakter och adresser
+https://www.klippan.se/naringsliv--arbete/starta-och-driva-foretag/foretagsbesok | Företagare | Företagare
+https://www.klippan.se/uppleva--gora/turism | Turist | Turist
+https://www.klippan.se/kommun--politik/press--media | Press | Press
+https://www.klippan.se/ovrigt/om-kakor | Om kakor | Om kakor
+https://www.klippan.se/ovrigt/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.klippan.se/ovrigt/a-till-o | A till Ö | A till Ö
+https://www.klippan.se/ovrigt/webbkarta | Webbkarta | Webbkarta
+https://www.facebook.com/Klippanskommun/ | Facebook (länk till annan webbplats, öppnas i nytt fönster) | Facebook (länk till annan webbplats, öppnas i nytt fönster)
+https://www.instagram.com/klippans_kommun/ | Instagram (länk till annan webbplats, öppnas i nytt fönster) | Instagram (länk till annan webbplats, öppnas i nytt fönster)
+https://www.youtube.com/user/klippanskommun/videos | YouTube (länk till annan webbplats, öppnas i nytt fönster) | YouTube (länk till annan webbplats, öppnas i nytt fönster)
+https://www.linkedin.com/company/klippans-kommun | LinkedIn (länk till annan webbplats, öppnas i nytt fönster) | LinkedIn (länk till annan webbplats, öppnas i nytt fönster)
+
+## Knappar
+Godkänn alla kakor
+Neka alla utom nödvändiga kakor
+Anpassa inställningar
+Sök
+Lyssna
+webReaders meny
+Meny
+Lyssna
+webReaders meny
+Undersidor för E-tjänster & blanketter
+Undersidor för Gifta sig, partnerskap
+Undersidor för Insyn & påverkan
+Undersidor för Kommunens organisation
+Undersidor för Kontakta kommunen
+Undersidor för Krisberedskap & civilt försvar
+Undersidor för Möten, handlingar & protokoll
+Undersidor för Kallelser och protokoll
+Undersidor för Press & media
+Undersidor för Val 2026
+Undersidor för Välkommen till Klippans kommun
+Kommunfullmäktige
+Kommunstyrelsen
+Kommunstyrelsens arbetsutskott
+Barn- & utbildningsnämnden
+Barn- & utbildningsnämndens arbetsutskott
+Kommunala bolag
+Kultur- & fritidsnämnden
+Plan- & byggnämnden
+Plan- & byggnämndens arbetsutskott
+Revisionen
+Råd
+Räddningsnämnden
+Socialnämnden
+Socialutskott
+Valnämnden
+Överförmyndarnämnden
+Skriv ut
+Till toppen
+Expandera
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-Standard env-m-around--0" data-rsevent-id="rs_106721"><div id="sv_X6PzU6cP_kI4MU7bBbGdt" lang="sv"><div class="sv-cookie-consent-banner env-ui-section GzllSDEXiQgp3reuWNZU" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_fFBCDwIqpmTgbFs9HVgRp"><h2 class="env-ui-text-subheading" id="sv_fFBCDwIqpmTgbFs9HVgRp">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">Här står information om vilka kakor som sparas</p><p class="env-m-top--x-small env-text"><a class="env-link" href="/ovrigt/om-kakor" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Neka alla utom nödvändiga kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_24ed023b18093f73c877a5c8" class="sv-layout"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_24ed023b18093f73c878767d"><div id="Oppnaplusboxarvidsoktraff"><!-- Öppna plusboxar vid sökträff --></div><script> window.svDocReady(function () { function capitalizeFirstLetter(string) { return string[0].toUpperCase() + string.slice(1); } function containsQuery(text, query) { if (text.includes(query) || text.toLowerCase().includes(query) || text.includes(query.toLowerCase() || text.includes(capitalizeFirstLetter(query)))) { return true; } } function openPlusbox() { const uri = window.location.search.split('query=')[1].replaceAll(/[\?"\+!]/g, ' '); const query = decodeURIComponent(uri); const allElements = $svjq('.sv-collapsible-content'); $svjq(allElements.get()).each(function() { const textInContent = $svjq(this).text(); const header = $svjq(this).find('.env-collapse-header'); if (containsQuery(textInContent, query)) { $svjq(header).click(); $svjq(this).find('.env-collapse').first().css('height', 'auto'); const queryCapitalizedRegex = new RegExp(capitalizeFirstLetter(query), 'g'); const queryLowerCaseRegex = new RegExp(query.toLowerCase(), 'g'); if (textInContent.includes(query.toLowerCase()) || textInContent.includes(capitalizeFirstLetter(query))) { $svjq(this).html($svjq(this).html().replace(queryCapitalizedRegex, '<mark>' + capitalizeFirstLetter(query) + '</mark>')); $svjq(this)
+
+######## SIDA: https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#submenu
+Titel: Kallelser och protokoll | Klippans kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.klippan.se/ovrigt/om-kakor | Läs mer i vår cookiepolicy | Här står information om vilka kakor som sparas Läs mer i vår cookiepolicy
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#page_content | Gå till innehåll | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#submenu | Gå till undermeny | Gå till innehåll Gå till undermeny
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/ovrigt/mina-sidor | Mina sidor | Mina sidor
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ |  | 
+https://www.klippan.se/ovrigt/lattlast | Lättläst | Lättläst Translate
+https://www.klippan.se/ovrigt/translate | Translate | Lättläst Translate
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar
+5 | Driftstörningar 5
+https://www.klippan.se/utbildning--barnomsorg | Utbildning & barnomsorg | Utbildning & barnomsorg
+https://www.klippan.se/omsorg--stod | Omsorg & stöd | Omsorg & stöd
+https://www.klippan.se/bygga-bo--miljo | Bygga, bo & miljö | Bygga, bo & miljö
+https://www.klippan.se/uppleva--gora | Uppleva & göra | Uppleva & göra
+https://www.klippan.se/trafik--infrastruktur | Trafik & infrastruktur | Trafik & infrastruktur
+https://www.klippan.se/naringsliv--arbete | Näringsliv & arbete | Näringsliv & arbete
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/ovrigt/lattlast | Lättläst
+            
+            Lättläst (länk till annan webbplats, öppnas i  | Lättläst Lättläst (länk till annan webbplats, öppnas i nytt fönster)
+https://www.klippan.se/ovrigt/translate | Translate
+            
+            Translate (länk till annan webbplats, öppnas  | Translate Translate (länk till annan webbplats, öppnas i nytt fönster)
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=14666&lang=sv_se&readid=svid94_6975dca21809397c704144e7&voice=Maja&url= | Lyssna | window.rsDocReaderConf = {lang: 'sv_se', img_alt: 'Öppna detta dokument med ReadSpeaker docReader'}; Lyssna
+https://www.klippan.se/trafik--infrastruktur/driftstorningar | Driftstörningar 5 | Driftstörningar 5
+https://www.klippan.se/ | Startsida | Startsida /
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll /
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll
+https://www.klippan.se/kommun--politik | Kommun & politik | Kommun & politik
+https://www.klippan.se/kommun--politik/behandling-av-personuppgifter | Behandling av personuppgifter | Behandling av personuppgifter
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter Undersidor för E-tjänster & blanketter
+https://www.klippan.se/kommun--politik/gifta-sig-partnerskap | Gifta sig, partnerskap | Gifta sig, partnerskap Undersidor för Gifta sig, partnerskap
+https://www.klippan.se/kommun--politik/insyn--paverkan | Insyn & påverkan | Insyn & påverkan Undersidor för Insyn & påverkan
+https://www.klippan.se/kommun--politik/kommunens-organisation | Kommunens organisation | Kommunens organisation Undersidor för Kommunens organisation
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakta kommunen | Kontakta kommunen Undersidor för Kontakta kommunen
+https://www.klippan.se/kommun--politik/krisberedskap--civilt-forsvar | Krisberedskap & civilt försvar | Krisberedskap & civilt försvar Undersidor för Krisberedskap & civilt försvar
+https://www.klippan.se/kommun--politik/kvalitet--resultat | Kvalitet & resultat | Kvalitet & resultat
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll | Möten, handlingar & protokoll | Möten, handlingar & protokoll Undersidor för Möten, handlingar & protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll | Kallelser och protokoll | Kallelser och protokoll Undersidor för Kallelser och protokoll
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/sammantradestider | Sammanträdestider | Sammanträdestider
+https://www.klippan.se/kommun--politik/press--media | Press & media | Press & media Undersidor för Press & media
+https://www.klippan.se/kommun--politik/samarbete | Samarbete | Samarbete
+https://www.klippan.se/kommun--politik/val-2026 | Val 2026 | Val 2026 Undersidor för Val 2026
+https://www.klippan.se/kommun--politik/vision--mal | Vision & mål | Vision & mål
+https://www.klippan.se/kommun--politik/valkommen-till-klippans-kommun | Välkommen till Klippans kommun | Välkommen till Klippans kommun Undersidor för Välkommen till Klippans kommun
+https://www.klippan.se/kommun--politik/insyn--paverkan/offentlighet--sekretess | offentlighetsprincipen | Du har, enligt offentlighetsprincipen, rätt att ta del av de beslutsunderlag som legat till grund för beslut. Läs mer om
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt Välkommen att höra av dig till kundtjänst på telefon 0435-280 00 eller e-post kommun@klippan.se om du vill ta de
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e310 | Kommunfullmäktige | Kommunfullmäktige
+https://documentweb.klippan.se/?folderId=9e3cb028-78a2-4826-8390-c98e49219221 | Kommunfullmäktiges protokoll & kallelser
+  (Länk till annan webbplats, öppnas i  | Kommunfullmäktiges protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({app
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige AppRegistry.registerApp({applicationId:'se.soleilit.actionLink|3.1.0',htmlElementId:'svid
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e384 | Kommunstyrelsen | Kommunstyrelsen
+https://documentweb.klippan.se/?folderId=8131df07-eaca-426f-8780-759c13da79c1 | Kommunstyrelsens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i ny | Kommunstyrelsens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({appli
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e3a2 | Kommunstyrelsens arbetsutskott | Kommunstyrelsens arbetsutskott
+https://documentweb.klippan.se/?folderId=960740ec-056e-482c-a253-101e6930aa96 | Kommunstyrelsens arbetsutskotts protokoll & kallelser
+  (Länk till annan webbpla | Kommunstyrelsens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.reg
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e410 | Barn- & utbildningsnämnden | Barn- & utbildningsnämnden
+https://documentweb.klippan.se/?folderId=b03bde32-109c-484c-aa64-9c149a071690 | Barn- & utbildningsnämndens protokoll & kallelser
+  (Länk till annan webbplats,  | Barn- & utbildningsnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registe
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e47a | Barn- & utbildningsnämndens arbetsutskott | Barn- & utbildningsnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=04aab467-d66e-473b-b185-39df61632f97 | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser
+  (Länk till an | Barn- & utbildningsnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppR
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e725 | Kommunala bolag | Kommunala bolag
+mailto:kommun@klippan.se | kommun@klippan.se | Klippans kommun är delägare i ett antal kommunala bolag, däribland bostadsbolaget Treklövern och renhållningsbolaget Når
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e49d | Kultur- & fritidsnämnden | Kultur- & fritidsnämnden
+https://documentweb.klippan.se/?folderId=5576435d-b323-4c24-b8ec-6d10114a9443 | Kultur- & fritidsnämnden protokoll & kallelser
+  (Länk till annan webbplats, öpp | Kultur- & fritidsnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerAp
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e50d | Plan- & byggnämnden | Plan- & byggnämnden
+mailto:kommun@klippan.se | kommun@klippan.se | Observera att vi publicerar protokoll utan personuppgifter. Enligt dataskyddsförordning (GDPR) publicerar vi inte person
+https://documentweb.klippan.se/?folderId=d60dac6a-907c-4878-9f69-63a6f526e9d7 | Plan- & byggnämnden protokoll & kallelser
+  (Länk till annan webbplats, öppnas i | Plan- & byggnämnden protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({ap
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e53e | Plan- & byggnämndens arbetsutskott | Plan- & byggnämndens arbetsutskott
+https://documentweb.klippan.se/?folderId=7bde4cf3-faba-44a2-81f3-5c72cee637e6 | Plan- & byggnämndens arbetsutskotts protokoll & kallelser
+  (Länk till annan web | Plan- & byggnämndens arbetsutskotts protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e70b | Revisionen | Revisionen
+mailto:kommun@klippan.se | kommun@klippan.se | Revisionen för enbart minnesanteckningar och publiceras inte här. Vill du ta del av möteshandlingar för revisionen konta
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e653 | Råd | Råd
+https://documentweb.klippan.se/?folderId=83aadcc1-bd27-49e6-898c-ff5972b5492e | Funktionshinderrådets och pensionärsrådets protokoll
+  (Länk till annan webbplat | Funktionshinderrådets och pensionärsrådets protokoll (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.regi
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e6d2 | Räddningsnämnden | Räddningsnämnden
+https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-a82de03f99ec5285099 | Åstorps kommuns hemsida | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+mailto:kommun@klippan.se | kommun@klippan.se | Efter att Klippans och Åstorps räddningstjänst gått samman under namnet Räddningstjänsten Söderåsen är de båda nämnderna
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e5dd | Socialnämnden | Socialnämnden
+https://documentweb.klippan.se/?folderId=15952390-f0a1-4b45-b38c-8650024624aa | Socialnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt | Socialnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applica
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e617 | Socialutskott | Socialutskott
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | anslagstavlan | Socialutskottets protokoll är belagda med sekretess och publiceras inte här. Endast protokollets första sida anslås på a
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e634 | Valnämnden | Valnämnden
+https://documentweb.klippan.se/?folderId=79841439-479e-444e-8593-6514bf16cef3 | Valnämndens protokoll & kallelser
+  (Länk till annan webbplats, öppnas i nytt fö | Valnämndens protokoll & kallelser (Länk till annan webbplats, öppnas i nytt fönster) AppRegistry.registerApp({applicatio
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll#svid10_67f920801823e13619e63c | Överförmyndarnämnden | Överförmyndarnämnden
+https://www.perstorp.se/kommunpolitik/motenhandlingarochprotokoll/overformyndarnamnden4k.4.42461a8c16dac7e783959c7.html | Perstorps kommuns hemsida | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+mailto:kommun@klippan.se | kommun@klippan.se | Överförmyndarnämnden 4K är en gemensam nämnd mellan Klippans, Perstorps, Åstorps och Bjuvs kommuner. Överförmyndarnämnde
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll/webb-tv-fran-kommunfullmaktige | Webb-TV från kommunfullmäktige | Webb-TV från kommunfullmäktige
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter | E-tjänster & blanketter | E-tjänster & blanketter
+https://www.klippan.se/naringsliv--arbete/lediga-jobb | Lediga jobb | Lediga jobb
+https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/anslagstavla | Anslagstavla | Anslagstavla
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/felanmalan | Felanmälan | Felanmälan
+https://www.klippan.se/kommun--politik/e-tjanster--blanketter/synpunkt | Synpunkt | Synpunkt
+https://intranat.klippan.se/ | Logga in som anställd
+(öppnas i nytt fönster) | Logga in som anställd (öppnas i nytt fönster)
+mailto:kommun@klippan.se | kommun@klippan.se | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+tel:0435-28000 | 0435-28 000 | Kontakt E-post kommun@klippan.se Telefon 0435-28 000 Besöksadress Trädgårdsgatan 12 264 80 Klippan Öppettider måndag-ons
+https://www.klippan.se/kommun--politik/kontakta-kommunen | Kontakter och adresser | Kontakter och adresser
+https://www.klippan.se/naringsliv--arbete/starta-och-driva-foretag/foretagsbesok | Företagare | Företagare
+https://www.klippan.se/uppleva--gora/turism | Turist | Turist
+https://www.klippan.se/kommun--politik/press--media | Press | Press
+https://www.klippan.se/ovrigt/om-kakor | Om kakor | Om kakor
+https://www.klippan.se/ovrigt/tillganglighetsredogorelse | Tillgänglighetsredogörelse | Tillgänglighetsredogörelse
+https://www.klippan.se/ovrigt/a-till-o | A till Ö | A till Ö
+https://www.klippan.se/ovrigt/webbkarta | Webbkarta | Webbkarta
+https://www.facebook.com/Klippanskommun/ | Facebook (länk till annan webbplats, öppnas i nytt fönster) | Facebook (länk till annan webbplats, öppnas i nytt fönster)
+https://www.instagram.com/klippans_kommun/ | Instagram (länk till annan webbplats, öppnas i nytt fönster) | Instagram (länk till annan webbplats, öppnas i nytt fönster)
+https://www.youtube.com/user/klippanskommun/videos | YouTube (länk till annan webbplats, öppnas i nytt fönster) | YouTube (länk till annan webbplats, öppnas i nytt fönster)
+https://www.linkedin.com/company/klippans-kommun | LinkedIn (länk till annan webbplats, öppnas i nytt fönster) | LinkedIn (länk till annan webbplats, öppnas i nytt fönster)
+
+## Knappar
+Godkänn alla kakor
+Neka alla utom nödvändiga kakor
+Anpassa inställningar
+Sök
+Lyssna
+webReaders meny
+Meny
+Lyssna
+webReaders meny
+Undersidor för E-tjänster & blanketter
+Undersidor för Gifta sig, partnerskap
+Undersidor för Insyn & påverkan
+Undersidor för Kommunens organisation
+Undersidor för Kontakta kommunen
+Undersidor för Krisberedskap & civilt försvar
+Undersidor för Möten, handlingar & protokoll
+Undersidor för Kallelser och protokoll
+Undersidor för Press & media
+Undersidor för Val 2026
+Undersidor för Välkommen till Klippans kommun
+Kommunfullmäktige
+Kommunstyrelsen
+Kommunstyrelsens arbetsutskott
+Barn- & utbildningsnämnden
+Barn- & utbildningsnämndens arbetsutskott
+Kommunala bolag
+Kultur- & fritidsnämnden
+Plan- & byggnämnden
+Plan- & byggnämndens arbetsutskott
+Revisionen
+Råd
+Räddningsnämnden
+Socialnämnden
+Socialutskott
+Valnämnden
+Överförmyndarnämnden
+Skriv ut
+Till toppen
+Expandera
+
+## HTML (början av body)
+<body class=" sv-responsive sv-theme-Standard env-m-around--0" data-rsevent-id="rs_106721"><div id="sv_X6PzU6cP_kI4MU7bBbGdt" lang="sv"><div class="sv-cookie-consent-banner env-ui-section GzllSDEXiQgp3reuWNZU" data-nosnippet="true"><div class="env-flex WwNwC9Gb2DxZ4x2Epc28 E_5G7_uu0CiSpDLQnbtl env-flex--direction-column" aria-live="polite" role="region" aria-labelledby="sv_fFBCDwIqpmTgbFs9HVgRp"><h2 class="env-ui-text-subheading" id="sv_fFBCDwIqpmTgbFs9HVgRp">Vi använder kakor</h2><div class="env-flex env-flex--direction-column"><p class="env-text">Här står information om vilka kakor som sparas</p><p class="env-m-top--x-small env-text"><a class="env-link" href="/ovrigt/om-kakor" rel="" target="_self">Läs mer i vår cookiepolicy</a></p></div><div class="env-flex yB7JfHczBd9xFvyEiCNM env-m-top--small"><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="analytics" value="analytics"><input type="hidden" name="marketing" value="marketing"><input type="hidden" name="custom" value="custom"><input type="hidden" name="functional" value="functional"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Godkänn alla kakor</button></form><form method="post" class="env-d--flex" action="?sv.target=12.74129cc418267410abc351&amp;sv.12.74129cc418267410abc351.route=/consent-settings"><input type="hidden" name="necessary" value="necessary"><input type="hidden" name="sv.csrfToken" value=""><button type="submit" class="env-button env-button--primary">Neka alla utom nödvändiga kakor</button></form><button type="button" class="env-button env-button--icon env-button--link env-button--icon-before"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="env-icon env-icon--medium" aria-hidden="true"><path d="M23.21,17.45H13.98c-.39-2.07-2.25-3.7-4.41-3.7s-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79H5.16c.39,2.07,2.25,3.7,4.41,3.7s4.05-1.57,4.42-3.7h9.22c.44,0,.79-.36,.79-.79s-.36-.79-.79-.79Zm-13.64,3.7c-1.58,0-2.91-1.33-2.91-2.91s1.28-2.91,2.91-2.91,2.91,1.33,2.91,2.91-1.28,2.91-2.91,2.91Z"></path><path d="M.79,6.55H15.09c.37,2.13,2.17,3.7,4.42,3.7,2.52,0,4.49-1.97,4.49-4.49s-1.97-4.49-4.49-4.49c-2.25,0-4.05,1.57-4.42,3.7H.79c-.44,0-.79,.36-.79,.79s.36,.79,.79,.79ZM19.51,2.85c1.63,0,2.91,1.28,2.91,2.91s-1.28,2.91-2.91,2.91-2.91-1.28-2.91-2.91,1.28-2.91,2.91-2.91Z"></path></svg>Anpassa inställningar</button></div></div></div></div> <div id="svid10_24ed023b18093f73c877a5c8" class="sv-layout"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_24ed023b18093f73c878767d"><div id="Oppnaplusboxarvidsoktraff"><!-- Öppna plusboxar vid sökträff --></div><script> window.svDocReady(function () { function capitalizeFirstLetter(string) { return string[0].toUpperCase() + string.slice(1); } function containsQuery(text, query) { if (text.includes(query) || text.toLowerCase().includes(query) || text.includes(query.toLowerCase() || text.includes(capitalizeFirstLetter(query)))) { return true; } } function openPlusbox() { const uri = window.location.search.split('query=')[1].replaceAll(/[\?"\+!]/g, ' '); const query = decodeURIComponent(uri); const allElements = $svjq('.sv-collapsible-content'); $svjq(allElements.get()).each(function() { const textInContent = $svjq(this).text(); const header = $svjq(this).find('.env-collapse-header'); if (containsQuery(textInContent, query)) { $svjq(header).click(); $svjq(this).find('.env-collapse').first().css('height', 'auto'); const queryCapitalizedRegex = new RegExp(capitalizeFirstLetter(query), 'g'); const queryLowerCaseRegex = new RegExp(query.toLowerCase(), 'g'); if (textInContent.includes(query.toLowerCase()) || textInContent.includes(capitalizeFirstLetter(query))) { $svjq(this).html($svjq(this).html().replace(queryCapitalizedRegex, '<mark>' + capitalizeFirstLetter(query) + '</mark>')); $svjq(this)

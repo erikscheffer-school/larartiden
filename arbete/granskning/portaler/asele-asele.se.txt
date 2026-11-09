@@ -1,0 +1,606 @@
+Kommun: Åsele  nyckel: asele.se
+
+######## SIDA: https://www.asele.se/anslagstavla/
+Titel: Anslagstavla | Åsele Kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.asele.se/anslagstavla/
+POST 200 xhr application/json; charset=utf-8 https://swedencentral-0.in.applicationinsights.azure.com//v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":null,"errors":[]}
+      POST: [{"time":"2026-11-09T07:07:41.496Z","iKey":"451cd65d-decf-40a0-955f-5b3ecc033e2e","name":"Microsoft.ApplicationInsights.451cd65ddecf40a0955f5b3ecc033e2e.Pageview","tags":{"ai.user.id":"FBc1AZ32JANyxRM/22HHw5","ai.session.id":"8+9zPYWYZsc/HpWEN73Q5h","ai.device.id":"browser","ai.device.type":"Browser
+
+## Länkar (href | text | sammanhang)
+https://www.asele.se/anslagstavla/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.asele.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.asele.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.asele.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ | Förskola (Aarhskuvle) | Förskola (Aarhskuvle)
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/ | Förskolan Renen | Förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/ | Förskolan Villan | Förskolan Villan
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/ | Förskolan Snödroppen | Förskolan Snödroppen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/ | Ansökan om förskoleplats mm | Ansökan om förskoleplats mm
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/ | Tillämpningsanvisningar | Tillämpningsanvisningar
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/ | Regler och rutiner | Regler och rutiner
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/ | Allmän förskola | Allmän förskola
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/avgifter-forskola/ | Avgifter förskola | Avgifter förskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/asele-centralskola/ | Åsele Centralskola | Åsele Centralskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fredrika-skola/ | Fredrika skola | Fredrika skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/elevhalsans-medicinska-insats/ | Elevhälsans medicinska insats | Elevhälsans medicinska insats
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/matsedel/ | Matsedel | Matsedel
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/val-av-skola/ | Val av skola | Val av skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/lasarstider-och-lov/ | Läsårstider och lov | Läsårstider och lov
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/laxhjalp-ht-24/ | Läxhjälp HT-24 | Läxhjälp HT-24
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/blanketter-dokument/ | Blanketter/Dokument | Blanketter/Dokument
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/besoksrutiner/ | Besöksrutiner | Besöksrutiner
+https://www.asele.se/utbildning-och-barnomsorg/skolskjutsar/ | Skolskjutsar | Skolskjutsar
+https://www.asele.se/utbildning-och-barnomsorg/forsakring/ | Försäkring | Försäkring
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/ | Gymnasieskola | Gymnasieskola
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasiesamverkan-och-ike/ | Gymnasiesamverkan och IKE | Gymnasiesamverkan och IKE
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasieval-och-antagning/ | Gymnasieval och antagning | Gymnasieval och antagning
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/ | Stipendier | Stipendier
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/historik/ | Historik | Historik
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/stipendieforteckning/ | Stipendieförteckning | Stipendieförteckning
+https://www.asele.se/utbildning-och-barnomsorg/larcentrum/ | Lärcentrum | Lärcentrum
+https://www.asele.se/utbildning-och-barnomsorg/rapporter-och-kvalitetsredovisningar/ | Rapporter och kvalitetsredovisningar | Rapporter och kvalitetsredovisningar
+https://www.asele.se/utbildning-och-barnomsorg/svenska-for-invandrare-sfi/ | Svenska för invandrare (SFI) | Svenska för invandrare (SFI)
+https://www.asele.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/utbildning-och-barnomsorg/samhallsorientering/ | Samhällsorientering | Samhällsorientering
+https://www.asele.se/utbildning-och-barnomsorg/blanketter-barn-o-utbildning/ | Blanketter Barn o Utbildning | Blanketter Barn o Utbildning
+https://www.asele.se/utbildning-och-barnomsorg/quiculum/ | Quiculum | Quiculum
+https://www.asele.se/utbildning-och-barnomsorg/samiskt-viste-pa-forskolan-renen/ | Samiskt viste på förskolan Renen | Samiskt viste på förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/larcentrumsamverkan-sodra-lappland/ | Lärcentrumsamverkan Södra Lappland | Lärcentrumsamverkan Södra Lappland
+https://www.asele.se/utbildning-och-barnomsorg/kontaktuppgifter-utbildning-och-barnomsorg/ | Kontaktuppgifter utbildning och barnomsorg | Kontaktuppgifter utbildning och barnomsorg
+https://www.asele.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.asele.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/ | Skadligt bruk och beroende | Skadligt bruk och beroende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/spelberoende/ | Spelberoende | Spelberoende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/alkohol-narkotika-och-andra-beroendeframkallande-medel/ | Alkohol, narkotika och andra beroendeframkallande medel | Alkohol, narkotika och andra beroendeframkallande medel
+https://www.asele.se/omsorg-och-stod/oro-for-barn-eller-ungdom/ | Oro för barn eller ungdom | Oro för barn eller ungdom
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/ | Individ- och familjeomsorg | Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/ | Stöd till föräldrar | Stöd till föräldrar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/abc-alla-barn-i-centrum/ | ABC - Alla barn i centrum | ABC - Alla barn i centrum
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/alskade-forbannade-tonaring/ | Älskade förbannade tonåring | Älskade förbannade tonåring
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/kontaktperson-kontaktfamilj-och-familjehem/ | Kontaktperson, kontaktfamilj och familjehem | Kontaktperson, kontaktfamilj och familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/ | Familjerätt | Familjerätt
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/adoption/ | Adoption | Adoption
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/ | Vårdnad/boende/umgänge | Vårdnad/boende/umgänge
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/samarbetssamtal/ | Samarbetssamtal | Samarbetssamtal
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/begreppsforklaringar/ | Begreppsförklaringar | Begreppsförklaringar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/ | Barn och ungas psykiska hälsa | Barn och ungas psykiska hälsa
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/lanktips/ | Länktips | Länktips
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjehem/ | Familjehem | Familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/halsa-larande-och-trygghet-hlt/ | Hälsa, lärande och trygghet (HLT) | Hälsa, lärande och trygghet (HLT)
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/begravningsombud/ | Begravningsombud | Begravningsombud
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ | Ekonomi, stöd och rådgivning | Ekonomi, stöd och rådgivning
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/personligt-ombud/ | Personligt ombud | Personligt ombud
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/boendestod/ | Boendestöd | Boendestöd
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/daglig-verksamhet/ | Daglig verksamhet | Daglig verksamhet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/ | Äldreomsorg | Äldreomsorg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/ | Färdtjänst | Färdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/riksfardtjanst/ | Riksfärdtjänst | Riksfärdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/hemtjanst/ | Hemtjänst | Hemtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/ | Ledamöter i pensionärsrådet | Ledamöter i pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/korttidsplatser/ | Korttidsplatser | Korttidsplatser
+https://www.asele.se/omsorg-och-stod/aldreomsorg/mas/ | MAS | MAS
+https://www.asele.se/omsorg-och-stod/aldreomsorg/matdistribution/ | Matdistribution | Matdistribution
+https://www.asele.se/omsorg-och-stod/aldreomsorg/medicinska-enheten/ | Medicinska enheten | Medicinska enheten
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/ | Särskilda boenden | Särskilda boenden
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/aseborg/ | Åseborg | Åseborg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/trygghetslarm/ | Trygghetslarm | Trygghetslarm
+https://www.asele.se/omsorg-och-stod/aldreomsorg/avgifter/ | Avgifter | Avgifter
+https://www.asele.se/omsorg-och-stod/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/ | Våld i nära relation | Våld i nära relation
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/centrum-mot-vald/ | Centrum mot våld | Centrum mot våld
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ | Invandring och integration | Invandring och integration
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ensamkommande-barn-och-ungdomar/ | Ensamkommande barn och ungdomar | Ensamkommande barn och ungdomar
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/begrepp/ | Begrepp | Begrepp
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/nyanlanda-med-uppehallstillstand/ | Nyanlända med uppehållstillstånd | Nyanlända med uppehållstillstånd
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/skola-och-utbildning/ | Skola och utbildning | Skola och utbildning
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/hur-kan-jag-hjalpa-till/ | Hur kan jag hjälpa till? | Hur kan jag hjälpa till?
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/ | Hälso- och sjukvård | Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/bostadsanpassning/ | Bostadsanpassning | Bostadsanpassning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/samverkan-utskrivning-fran-sluten-halso-och-sjukvard/ | Samverkan utskrivning från sluten Hälso- och sjukvård | Samverkan utskrivning från sluten Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/hjalpmedel/ | Hjälpmedel | Hjälpmedel
+https://www.asele.se/omsorg-och-stod/lagstiftning-och-sekretess/ | Lagstiftning och sekretess | Lagstiftning och sekretess
+https://www.asele.se/omsorg-och-stod/hemsjukvard/ | Hemsjukvård | Hemsjukvård
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/ | Funktionshinderomsorg | Funktionshinderomsorg
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/jobb-o-service/ | Jobb o Service | Jobb o Service
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/fagelstigens-gruppboende/ | Fågelstigens gruppboende | Fågelstigens gruppboende
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/funktionshinderomsorgens-mal/ | Funktionshinderomsorgens mål | Funktionshinderomsorgens mål
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/heminstruktor-syn-och-horsel/ | Heminstruktör Syn och Hörsel | Heminstruktör Syn och Hörsel
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/lss-over-21-ar/ | LSS över 21 år | LSS över 21 år
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ | Tillgänglighetsrådet | Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ledamoter-i-tillganglighetsradet/ | Ledamöter i Tillgänglighetsrådet | Ledamöter i Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/konsumentvagledning/ | Konsumentvägledning | Konsumentvägledning
+https://www.asele.se/omsorg-och-stod/kostverksamheten/ | Kostverksamheten | Kostverksamheten
+https://www.asele.se/omsorg-och-stod/en-kommun-fri-fran-vald/ | En kommun fri från våld | En kommun fri från våld
+https://www.asele.se/omsorg-och-stod/rad-och-stod-pa-chatt-och-telefon/ | Råd och stöd på chatt och telefon | Råd och stöd på chatt och telefon
+https://www.asele.se/omsorg-och-stod/hjalp-till-i-aldre-och-funktionshinderomsorgen/ | Hjälp till i äldre- och funktionshinderomsorgen | Hjälp till i äldre- och funktionshinderomsorgen
+https://www.asele.se/omsorg-och-stod/information-till-dig-som-ska-besoka-ett-vard-och-omsorgsboende/ | Information till dig som ska besöka ett vård- och omsorgsboende | Information till dig som ska besöka ett vård- och omsorgsboende
+https://www.asele.se/omsorg-och-stod/lokala-rutiner/ | Lokala rutiner | Lokala rutiner
+https://www.asele.se/omsorg-och-stod/overformyndarverksamheten-i-sodra-lappland/ | Överförmyndarverksamheten i södra Lappland | Överförmyndarverksamheten i södra Lappland
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-coronaviruset/ | Publicerade nyheter om coronaviruset | Publicerade nyheter om coronaviruset
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-radande-omstandigheter-i-ukraina/ | Publicerade nyheter om rådande omständigheter i Ukraina | Publicerade nyheter om rådande omständigheter i Ukraina
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/ | Ny socialtjänstlag | Ny socialtjänstlag
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-forbereder-vi-for-framtidens-socialtjanst/ | Så förbereder vi för framtidens socialtjänst | Så förbereder vi för framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/framtidens-socialtjanst/ | Framtidens socialtjänst | Framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-jobbar-vi-i-kommunen/ | Så jobbar vi i kommunen | Så jobbar vi i kommunen
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-omsorg-och-stod/ | Kontaktuppgifter omsorg och stöd | Kontaktuppgifter omsorg och stöd
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-individ-och-familjeomsorg/ | Kontaktuppgifter Individ- och familjeomsorg | Kontaktuppgifter Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-arbetsterapeut/ | Kontaktuppgifter arbetsterapeut | Kontaktuppgifter arbetsterapeut
+https://www.asele.se/fritid-turism-och-kultur/ | Fritid, turism och kultur | Fritid, turism och kultur
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ | Idrott och motion | Idrott och motion
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/simhall/ | Simhall | Simhall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/sporthall/ | Sporthall | Sporthall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/gym/ | Gym | Gym
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ishall/ | Ishall | Ishall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/lappvallen/ | Lappvallen | Lappvallen
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/schema-uthyrningar-simhall-sporthall-gym/ | Schema uthyrningar simhall, sporthall, gym. | Schema uthyrningar simhall, sporthall, gym.
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/eljus-och-motionsspar/ | Eljus- och motionsspår | Eljus- och motionsspår
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/ | Slalombackar | Slalombackar
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/investeringsprojekt-aslia/ | Investeringsprojekt Åslia | Investeringsprojekt Åslia
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/oppettider-och-priser/ | Öppettider och priser | Öppettider och priser
+https://www.asele.se/fritid-turism-och-kultur/tipsa-oss-om-evenemang/ | Tipsa oss om evenemang | Tipsa oss om evenemang
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasieskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Familjerätt
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionshinderomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Idrott och motion
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritidsaktviteter
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+
+## HTML (början av body)
+<body class="page noticeboard"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-4aa78359-680f-4e94-8766-bacad4bff510" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-4aa78359-680f-4e94-8766-bacad4bff510" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola (Aarhskuvle)</a> <button class="btn-toggle" aria-controls="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" aria-expanded="false" data-name="Förskola (Aarhskuvle)" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/" class="standby nav-link">Förskolan Renen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/" class="standby nav-link">Förskolan Villan</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/" class="standby nav-link">Förskolan Snödroppen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/" class="standby nav-link">Ansökan om förskoleplats mm</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/" class="standby nav-link">Tillämpningsanvisningar</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/" class="standby nav-link">Regler och rutiner</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/" class="
+
+######## SIDA: https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/
+Titel: Ledamöter i pensionärsrådet | Åsele Kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/
+POST 200 xhr application/json; charset=utf-8 https://swedencentral-0.in.applicationinsights.azure.com//v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":null,"errors":[]}
+      POST: [{"time":"2026-11-09T07:07:44.844Z","iKey":"451cd65d-decf-40a0-955f-5b3ecc033e2e","name":"Microsoft.ApplicationInsights.451cd65ddecf40a0955f5b3ecc033e2e.Pageview","tags":{"ai.user.id":"FBc1AZ32JANyxRM/22HHw5","ai.session.id":"8+9zPYWYZsc/HpWEN73Q5h","ai.device.id":"browser","ai.device.type":"Browser
+
+## Länkar (href | text | sammanhang)
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.asele.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.asele.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.asele.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ | Förskola (Aarhskuvle) | Förskola (Aarhskuvle)
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/ | Förskolan Renen | Förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/ | Förskolan Villan | Förskolan Villan
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/ | Förskolan Snödroppen | Förskolan Snödroppen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/ | Ansökan om förskoleplats mm | Ansökan om förskoleplats mm
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/ | Tillämpningsanvisningar | Tillämpningsanvisningar
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/ | Regler och rutiner | Regler och rutiner
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/ | Allmän förskola | Allmän förskola
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/avgifter-forskola/ | Avgifter förskola | Avgifter förskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/asele-centralskola/ | Åsele Centralskola | Åsele Centralskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fredrika-skola/ | Fredrika skola | Fredrika skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/elevhalsans-medicinska-insats/ | Elevhälsans medicinska insats | Elevhälsans medicinska insats
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/matsedel/ | Matsedel | Matsedel
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/val-av-skola/ | Val av skola | Val av skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/lasarstider-och-lov/ | Läsårstider och lov | Läsårstider och lov
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/laxhjalp-ht-24/ | Läxhjälp HT-24 | Läxhjälp HT-24
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/blanketter-dokument/ | Blanketter/Dokument | Blanketter/Dokument
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/besoksrutiner/ | Besöksrutiner | Besöksrutiner
+https://www.asele.se/utbildning-och-barnomsorg/skolskjutsar/ | Skolskjutsar | Skolskjutsar
+https://www.asele.se/utbildning-och-barnomsorg/forsakring/ | Försäkring | Försäkring
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/ | Gymnasieskola | Gymnasieskola
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasiesamverkan-och-ike/ | Gymnasiesamverkan och IKE | Gymnasiesamverkan och IKE
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasieval-och-antagning/ | Gymnasieval och antagning | Gymnasieval och antagning
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/ | Stipendier | Stipendier
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/historik/ | Historik | Historik
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/stipendieforteckning/ | Stipendieförteckning | Stipendieförteckning
+https://www.asele.se/utbildning-och-barnomsorg/larcentrum/ | Lärcentrum | Lärcentrum
+https://www.asele.se/utbildning-och-barnomsorg/rapporter-och-kvalitetsredovisningar/ | Rapporter och kvalitetsredovisningar | Rapporter och kvalitetsredovisningar
+https://www.asele.se/utbildning-och-barnomsorg/svenska-for-invandrare-sfi/ | Svenska för invandrare (SFI) | Svenska för invandrare (SFI)
+https://www.asele.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/utbildning-och-barnomsorg/samhallsorientering/ | Samhällsorientering | Samhällsorientering
+https://www.asele.se/utbildning-och-barnomsorg/blanketter-barn-o-utbildning/ | Blanketter Barn o Utbildning | Blanketter Barn o Utbildning
+https://www.asele.se/utbildning-och-barnomsorg/quiculum/ | Quiculum | Quiculum
+https://www.asele.se/utbildning-och-barnomsorg/samiskt-viste-pa-forskolan-renen/ | Samiskt viste på förskolan Renen | Samiskt viste på förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/larcentrumsamverkan-sodra-lappland/ | Lärcentrumsamverkan Södra Lappland | Lärcentrumsamverkan Södra Lappland
+https://www.asele.se/utbildning-och-barnomsorg/kontaktuppgifter-utbildning-och-barnomsorg/ | Kontaktuppgifter utbildning och barnomsorg | Kontaktuppgifter utbildning och barnomsorg
+https://www.asele.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.asele.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/ | Skadligt bruk och beroende | Skadligt bruk och beroende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/spelberoende/ | Spelberoende | Spelberoende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/alkohol-narkotika-och-andra-beroendeframkallande-medel/ | Alkohol, narkotika och andra beroendeframkallande medel | Alkohol, narkotika och andra beroendeframkallande medel
+https://www.asele.se/omsorg-och-stod/oro-for-barn-eller-ungdom/ | Oro för barn eller ungdom | Oro för barn eller ungdom
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/ | Individ- och familjeomsorg | Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/ | Stöd till föräldrar | Stöd till föräldrar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/abc-alla-barn-i-centrum/ | ABC - Alla barn i centrum | ABC - Alla barn i centrum
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/alskade-forbannade-tonaring/ | Älskade förbannade tonåring | Älskade förbannade tonåring
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/kontaktperson-kontaktfamilj-och-familjehem/ | Kontaktperson, kontaktfamilj och familjehem | Kontaktperson, kontaktfamilj och familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/ | Familjerätt | Familjerätt
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/adoption/ | Adoption | Adoption
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/ | Vårdnad/boende/umgänge | Vårdnad/boende/umgänge
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/samarbetssamtal/ | Samarbetssamtal | Samarbetssamtal
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/begreppsforklaringar/ | Begreppsförklaringar | Begreppsförklaringar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/ | Barn och ungas psykiska hälsa | Barn och ungas psykiska hälsa
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/lanktips/ | Länktips | Länktips
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjehem/ | Familjehem | Familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/halsa-larande-och-trygghet-hlt/ | Hälsa, lärande och trygghet (HLT) | Hälsa, lärande och trygghet (HLT)
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/begravningsombud/ | Begravningsombud | Begravningsombud
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ | Ekonomi, stöd och rådgivning | Ekonomi, stöd och rådgivning
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/personligt-ombud/ | Personligt ombud | Personligt ombud
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/boendestod/ | Boendestöd | Boendestöd
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/daglig-verksamhet/ | Daglig verksamhet | Daglig verksamhet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/ | Äldreomsorg | Äldreomsorg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/ | Färdtjänst | Färdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/riksfardtjanst/ | Riksfärdtjänst | Riksfärdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/hemtjanst/ | Hemtjänst | Hemtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/ | Ledamöter i pensionärsrådet | Ledamöter i pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/korttidsplatser/ | Korttidsplatser | Korttidsplatser
+https://www.asele.se/omsorg-och-stod/aldreomsorg/mas/ | MAS | MAS
+https://www.asele.se/omsorg-och-stod/aldreomsorg/matdistribution/ | Matdistribution | Matdistribution
+https://www.asele.se/omsorg-och-stod/aldreomsorg/medicinska-enheten/ | Medicinska enheten | Medicinska enheten
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/ | Särskilda boenden | Särskilda boenden
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/aseborg/ | Åseborg | Åseborg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/trygghetslarm/ | Trygghetslarm | Trygghetslarm
+https://www.asele.se/omsorg-och-stod/aldreomsorg/avgifter/ | Avgifter | Avgifter
+https://www.asele.se/omsorg-och-stod/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/ | Våld i nära relation | Våld i nära relation
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/centrum-mot-vald/ | Centrum mot våld | Centrum mot våld
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ | Invandring och integration | Invandring och integration
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ensamkommande-barn-och-ungdomar/ | Ensamkommande barn och ungdomar | Ensamkommande barn och ungdomar
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/begrepp/ | Begrepp | Begrepp
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/nyanlanda-med-uppehallstillstand/ | Nyanlända med uppehållstillstånd | Nyanlända med uppehållstillstånd
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/skola-och-utbildning/ | Skola och utbildning | Skola och utbildning
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/hur-kan-jag-hjalpa-till/ | Hur kan jag hjälpa till? | Hur kan jag hjälpa till?
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/ | Hälso- och sjukvård | Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/bostadsanpassning/ | Bostadsanpassning | Bostadsanpassning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/samverkan-utskrivning-fran-sluten-halso-och-sjukvard/ | Samverkan utskrivning från sluten Hälso- och sjukvård | Samverkan utskrivning från sluten Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/hjalpmedel/ | Hjälpmedel | Hjälpmedel
+https://www.asele.se/omsorg-och-stod/lagstiftning-och-sekretess/ | Lagstiftning och sekretess | Lagstiftning och sekretess
+https://www.asele.se/omsorg-och-stod/hemsjukvard/ | Hemsjukvård | Hemsjukvård
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/ | Funktionshinderomsorg | Funktionshinderomsorg
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/jobb-o-service/ | Jobb o Service | Jobb o Service
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/fagelstigens-gruppboende/ | Fågelstigens gruppboende | Fågelstigens gruppboende
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/funktionshinderomsorgens-mal/ | Funktionshinderomsorgens mål | Funktionshinderomsorgens mål
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/heminstruktor-syn-och-horsel/ | Heminstruktör Syn och Hörsel | Heminstruktör Syn och Hörsel
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/lss-over-21-ar/ | LSS över 21 år | LSS över 21 år
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ | Tillgänglighetsrådet | Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ledamoter-i-tillganglighetsradet/ | Ledamöter i Tillgänglighetsrådet | Ledamöter i Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/konsumentvagledning/ | Konsumentvägledning | Konsumentvägledning
+https://www.asele.se/omsorg-och-stod/kostverksamheten/ | Kostverksamheten | Kostverksamheten
+https://www.asele.se/omsorg-och-stod/en-kommun-fri-fran-vald/ | En kommun fri från våld | En kommun fri från våld
+https://www.asele.se/omsorg-och-stod/rad-och-stod-pa-chatt-och-telefon/ | Råd och stöd på chatt och telefon | Råd och stöd på chatt och telefon
+https://www.asele.se/omsorg-och-stod/hjalp-till-i-aldre-och-funktionshinderomsorgen/ | Hjälp till i äldre- och funktionshinderomsorgen | Hjälp till i äldre- och funktionshinderomsorgen
+https://www.asele.se/omsorg-och-stod/information-till-dig-som-ska-besoka-ett-vard-och-omsorgsboende/ | Information till dig som ska besöka ett vård- och omsorgsboende | Information till dig som ska besöka ett vård- och omsorgsboende
+https://www.asele.se/omsorg-och-stod/lokala-rutiner/ | Lokala rutiner | Lokala rutiner
+https://www.asele.se/omsorg-och-stod/overformyndarverksamheten-i-sodra-lappland/ | Överförmyndarverksamheten i södra Lappland | Överförmyndarverksamheten i södra Lappland
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-coronaviruset/ | Publicerade nyheter om coronaviruset | Publicerade nyheter om coronaviruset
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-radande-omstandigheter-i-ukraina/ | Publicerade nyheter om rådande omständigheter i Ukraina | Publicerade nyheter om rådande omständigheter i Ukraina
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/ | Ny socialtjänstlag | Ny socialtjänstlag
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-forbereder-vi-for-framtidens-socialtjanst/ | Så förbereder vi för framtidens socialtjänst | Så förbereder vi för framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/framtidens-socialtjanst/ | Framtidens socialtjänst | Framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-jobbar-vi-i-kommunen/ | Så jobbar vi i kommunen | Så jobbar vi i kommunen
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-omsorg-och-stod/ | Kontaktuppgifter omsorg och stöd | Kontaktuppgifter omsorg och stöd
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-individ-och-familjeomsorg/ | Kontaktuppgifter Individ- och familjeomsorg | Kontaktuppgifter Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-arbetsterapeut/ | Kontaktuppgifter arbetsterapeut | Kontaktuppgifter arbetsterapeut
+https://www.asele.se/fritid-turism-och-kultur/ | Fritid, turism och kultur | Fritid, turism och kultur
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ | Idrott och motion | Idrott och motion
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/simhall/ | Simhall | Simhall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/sporthall/ | Sporthall | Sporthall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/gym/ | Gym | Gym
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ishall/ | Ishall | Ishall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/lappvallen/ | Lappvallen | Lappvallen
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/schema-uthyrningar-simhall-sporthall-gym/ | Schema uthyrningar simhall, sporthall, gym. | Schema uthyrningar simhall, sporthall, gym.
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/eljus-och-motionsspar/ | Eljus- och motionsspår | Eljus- och motionsspår
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/ | Slalombackar | Slalombackar
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/investeringsprojekt-aslia/ | Investeringsprojekt Åslia | Investeringsprojekt Åslia
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/oppettider-och-priser/ | Öppettider och priser | Öppettider och priser
+https://www.asele.se/fritid-turism-och-kultur/tipsa-oss-om-evenemang/ | Tipsa oss om evenemang | Tipsa oss om evenemang
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasieskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Familjerätt
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionshinderomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Idrott och motion
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritidsaktviteter
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+
+## HTML (början av body)
+<body class="page page"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-4aa78359-680f-4e94-8766-bacad4bff510" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-4aa78359-680f-4e94-8766-bacad4bff510" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola (Aarhskuvle)</a> <button class="btn-toggle" aria-controls="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" aria-expanded="false" data-name="Förskola (Aarhskuvle)" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/" class="standby nav-link">Förskolan Renen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/" class="standby nav-link">Förskolan Villan</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/" class="standby nav-link">Förskolan Snödroppen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/" class="standby nav-link">Ansökan om förskoleplats mm</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/" class="standby nav-link">Tillämpningsanvisningar</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/" class="standby nav-link">Regler och rutiner</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/" class="standby
+
+######## SIDA: https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/#main
+Titel: Ledamöter i pensionärsrådet | Åsele Kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.asele.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.asele.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.asele.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ | Förskola (Aarhskuvle) | Förskola (Aarhskuvle)
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/ | Förskolan Renen | Förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/ | Förskolan Villan | Förskolan Villan
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/ | Förskolan Snödroppen | Förskolan Snödroppen
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/ | Ansökan om förskoleplats mm | Ansökan om förskoleplats mm
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/ | Tillämpningsanvisningar | Tillämpningsanvisningar
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/ | Regler och rutiner | Regler och rutiner
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/ | Allmän förskola | Allmän förskola
+https://www.asele.se/utbildning-och-barnomsorg/forskola-aarhskuvle/avgifter-forskola/ | Avgifter förskola | Avgifter förskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/asele-centralskola/ | Åsele Centralskola | Åsele Centralskola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fredrika-skola/ | Fredrika skola | Fredrika skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/ | Elevhälsa | Elevhälsa
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/elevhalsa/elevhalsans-medicinska-insats/ | Elevhälsans medicinska insats | Elevhälsans medicinska insats
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/matsedel/ | Matsedel | Matsedel
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/val-av-skola/ | Val av skola | Val av skola
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/lasarstider-och-lov/ | Läsårstider och lov | Läsårstider och lov
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/laxhjalp-ht-24/ | Läxhjälp HT-24 | Läxhjälp HT-24
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/blanketter-dokument/ | Blanketter/Dokument | Blanketter/Dokument
+https://www.asele.se/utbildning-och-barnomsorg/grundskola/besoksrutiner/ | Besöksrutiner | Besöksrutiner
+https://www.asele.se/utbildning-och-barnomsorg/skolskjutsar/ | Skolskjutsar | Skolskjutsar
+https://www.asele.se/utbildning-och-barnomsorg/forsakring/ | Försäkring | Försäkring
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/ | Gymnasieskola | Gymnasieskola
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasiesamverkan-och-ike/ | Gymnasiesamverkan och IKE | Gymnasiesamverkan och IKE
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/gymnasieval-och-antagning/ | Gymnasieval och antagning | Gymnasieval och antagning
+https://www.asele.se/utbildning-och-barnomsorg/gymnasieskola/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/ | Stipendier | Stipendier
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/historik/ | Historik | Historik
+https://www.asele.se/utbildning-och-barnomsorg/stipendier/stipendieforteckning/ | Stipendieförteckning | Stipendieförteckning
+https://www.asele.se/utbildning-och-barnomsorg/larcentrum/ | Lärcentrum | Lärcentrum
+https://www.asele.se/utbildning-och-barnomsorg/rapporter-och-kvalitetsredovisningar/ | Rapporter och kvalitetsredovisningar | Rapporter och kvalitetsredovisningar
+https://www.asele.se/utbildning-och-barnomsorg/svenska-for-invandrare-sfi/ | Svenska för invandrare (SFI) | Svenska för invandrare (SFI)
+https://www.asele.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/utbildning-och-barnomsorg/samhallsorientering/ | Samhällsorientering | Samhällsorientering
+https://www.asele.se/utbildning-och-barnomsorg/blanketter-barn-o-utbildning/ | Blanketter Barn o Utbildning | Blanketter Barn o Utbildning
+https://www.asele.se/utbildning-och-barnomsorg/quiculum/ | Quiculum | Quiculum
+https://www.asele.se/utbildning-och-barnomsorg/samiskt-viste-pa-forskolan-renen/ | Samiskt viste på förskolan Renen | Samiskt viste på förskolan Renen
+https://www.asele.se/utbildning-och-barnomsorg/larcentrumsamverkan-sodra-lappland/ | Lärcentrumsamverkan Södra Lappland | Lärcentrumsamverkan Södra Lappland
+https://www.asele.se/utbildning-och-barnomsorg/kontaktuppgifter-utbildning-och-barnomsorg/ | Kontaktuppgifter utbildning och barnomsorg | Kontaktuppgifter utbildning och barnomsorg
+https://www.asele.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.asele.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/ | Skadligt bruk och beroende | Skadligt bruk och beroende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/spelberoende/ | Spelberoende | Spelberoende
+https://www.asele.se/omsorg-och-stod/skadligt-bruk-och-beroende/alkohol-narkotika-och-andra-beroendeframkallande-medel/ | Alkohol, narkotika och andra beroendeframkallande medel | Alkohol, narkotika och andra beroendeframkallande medel
+https://www.asele.se/omsorg-och-stod/oro-for-barn-eller-ungdom/ | Oro för barn eller ungdom | Oro för barn eller ungdom
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/ | Individ- och familjeomsorg | Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/ | Stöd till föräldrar | Stöd till föräldrar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/abc-alla-barn-i-centrum/ | ABC - Alla barn i centrum | ABC - Alla barn i centrum
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/alskade-forbannade-tonaring/ | Älskade förbannade tonåring | Älskade förbannade tonåring
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/stod-till-foraldrar/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/kontaktperson-kontaktfamilj-och-familjehem/ | Kontaktperson, kontaktfamilj och familjehem | Kontaktperson, kontaktfamilj och familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/ | Familjerätt | Familjerätt
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/adoption/ | Adoption | Adoption
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/ | Vårdnad/boende/umgänge | Vårdnad/boende/umgänge
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/samarbetssamtal/ | Samarbetssamtal | Samarbetssamtal
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeratt/vardnad-boende-umgange/begreppsforklaringar/ | Begreppsförklaringar | Begreppsförklaringar
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/ | Barn och ungas psykiska hälsa | Barn och ungas psykiska hälsa
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/barn-och-ungas-psykiska-halsa/lanktips/ | Länktips | Länktips
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/familjehem/ | Familjehem | Familjehem
+https://www.asele.se/omsorg-och-stod/individ-och-familjeomsorg/halsa-larande-och-trygghet-hlt/ | Hälsa, lärande och trygghet (HLT) | Hälsa, lärande och trygghet (HLT)
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/begravningsombud/ | Begravningsombud | Begravningsombud
+https://www.asele.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ | Ekonomi, stöd och rådgivning | Ekonomi, stöd och rådgivning
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.asele.se/omsorg-och-stod/ekonomi-stod-och-radgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/personligt-ombud/ | Personligt ombud | Personligt ombud
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/boendestod/ | Boendestöd | Boendestöd
+https://www.asele.se/omsorg-och-stod/psykisk-ohalsa/daglig-verksamhet/ | Daglig verksamhet | Daglig verksamhet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/ | Äldreomsorg | Äldreomsorg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/ | Färdtjänst | Färdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/fardtjanst/riksfardtjanst/ | Riksfärdtjänst | Riksfärdtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/hemtjanst/ | Hemtjänst | Hemtjänst
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ | Kommunala Pensionärsrådet | Kommunala Pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/kommunala-pensionarsradet/ledamoter-i-pensionarsradet/ | Ledamöter i pensionärsrådet | Ledamöter i pensionärsrådet
+https://www.asele.se/omsorg-och-stod/aldreomsorg/korttidsplatser/ | Korttidsplatser | Korttidsplatser
+https://www.asele.se/omsorg-och-stod/aldreomsorg/mas/ | MAS | MAS
+https://www.asele.se/omsorg-och-stod/aldreomsorg/matdistribution/ | Matdistribution | Matdistribution
+https://www.asele.se/omsorg-och-stod/aldreomsorg/medicinska-enheten/ | Medicinska enheten | Medicinska enheten
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/ | Särskilda boenden | Särskilda boenden
+https://www.asele.se/omsorg-och-stod/aldreomsorg/sarskilda-boenden/aseborg/ | Åseborg | Åseborg
+https://www.asele.se/omsorg-och-stod/aldreomsorg/trygghetslarm/ | Trygghetslarm | Trygghetslarm
+https://www.asele.se/omsorg-och-stod/aldreomsorg/avgifter/ | Avgifter | Avgifter
+https://www.asele.se/omsorg-och-stod/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/ | Våld i nära relation | Våld i nära relation
+https://www.asele.se/omsorg-och-stod/vald-i-nara-relation/centrum-mot-vald/ | Centrum mot våld | Centrum mot våld
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ | Invandring och integration | Invandring och integration
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/ensamkommande-barn-och-ungdomar/ | Ensamkommande barn och ungdomar | Ensamkommande barn och ungdomar
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/begrepp/ | Begrepp | Begrepp
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/nyanlanda-med-uppehallstillstand/ | Nyanlända med uppehållstillstånd | Nyanlända med uppehållstillstånd
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/skola-och-utbildning/ | Skola och utbildning | Skola och utbildning
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/hur-kan-jag-hjalpa-till/ | Hur kan jag hjälpa till? | Hur kan jag hjälpa till?
+https://www.asele.se/omsorg-och-stod/invandring-och-integration/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/ | Hälso- och sjukvård | Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/bostadsanpassning/ | Bostadsanpassning | Bostadsanpassning
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/samverkan-utskrivning-fran-sluten-halso-och-sjukvard/ | Samverkan utskrivning från sluten Hälso- och sjukvård | Samverkan utskrivning från sluten Hälso- och sjukvård
+https://www.asele.se/omsorg-och-stod/halso-och-sjukvard/hjalpmedel/ | Hjälpmedel | Hjälpmedel
+https://www.asele.se/omsorg-och-stod/lagstiftning-och-sekretess/ | Lagstiftning och sekretess | Lagstiftning och sekretess
+https://www.asele.se/omsorg-och-stod/hemsjukvard/ | Hemsjukvård | Hemsjukvård
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/ | Funktionshinderomsorg | Funktionshinderomsorg
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/jobb-o-service/ | Jobb o Service | Jobb o Service
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/fagelstigens-gruppboende/ | Fågelstigens gruppboende | Fågelstigens gruppboende
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/funktionshinderomsorgens-mal/ | Funktionshinderomsorgens mål | Funktionshinderomsorgens mål
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/heminstruktor-syn-och-horsel/ | Heminstruktör Syn och Hörsel | Heminstruktör Syn och Hörsel
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/lss-over-21-ar/ | LSS över 21 år | LSS över 21 år
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ | Tillgänglighetsrådet | Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/funktionshinderomsorg/tillganglighetsradet/ledamoter-i-tillganglighetsradet/ | Ledamöter i Tillgänglighetsrådet | Ledamöter i Tillgänglighetsrådet
+https://www.asele.se/omsorg-och-stod/konsumentvagledning/ | Konsumentvägledning | Konsumentvägledning
+https://www.asele.se/omsorg-och-stod/kostverksamheten/ | Kostverksamheten | Kostverksamheten
+https://www.asele.se/omsorg-och-stod/en-kommun-fri-fran-vald/ | En kommun fri från våld | En kommun fri från våld
+https://www.asele.se/omsorg-och-stod/rad-och-stod-pa-chatt-och-telefon/ | Råd och stöd på chatt och telefon | Råd och stöd på chatt och telefon
+https://www.asele.se/omsorg-och-stod/hjalp-till-i-aldre-och-funktionshinderomsorgen/ | Hjälp till i äldre- och funktionshinderomsorgen | Hjälp till i äldre- och funktionshinderomsorgen
+https://www.asele.se/omsorg-och-stod/information-till-dig-som-ska-besoka-ett-vard-och-omsorgsboende/ | Information till dig som ska besöka ett vård- och omsorgsboende | Information till dig som ska besöka ett vård- och omsorgsboende
+https://www.asele.se/omsorg-och-stod/lokala-rutiner/ | Lokala rutiner | Lokala rutiner
+https://www.asele.se/omsorg-och-stod/overformyndarverksamheten-i-sodra-lappland/ | Överförmyndarverksamheten i södra Lappland | Överförmyndarverksamheten i södra Lappland
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-coronaviruset/ | Publicerade nyheter om coronaviruset | Publicerade nyheter om coronaviruset
+https://www.asele.se/omsorg-och-stod/publicerade-nyheter-om-radande-omstandigheter-i-ukraina/ | Publicerade nyheter om rådande omständigheter i Ukraina | Publicerade nyheter om rådande omständigheter i Ukraina
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/ | Ny socialtjänstlag | Ny socialtjänstlag
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-forbereder-vi-for-framtidens-socialtjanst/ | Så förbereder vi för framtidens socialtjänst | Så förbereder vi för framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/framtidens-socialtjanst/ | Framtidens socialtjänst | Framtidens socialtjänst
+https://www.asele.se/omsorg-och-stod/ny-socialtjanstlag/sa-jobbar-vi-i-kommunen/ | Så jobbar vi i kommunen | Så jobbar vi i kommunen
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-omsorg-och-stod/ | Kontaktuppgifter omsorg och stöd | Kontaktuppgifter omsorg och stöd
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-individ-och-familjeomsorg/ | Kontaktuppgifter Individ- och familjeomsorg | Kontaktuppgifter Individ- och familjeomsorg
+https://www.asele.se/omsorg-och-stod/kontaktuppgifter-arbetsterapeut/ | Kontaktuppgifter arbetsterapeut | Kontaktuppgifter arbetsterapeut
+https://www.asele.se/fritid-turism-och-kultur/ | Fritid, turism och kultur | Fritid, turism och kultur
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ | Idrott och motion | Idrott och motion
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/simhall/ | Simhall | Simhall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/sporthall/ | Sporthall | Sporthall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/gym/ | Gym | Gym
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/ishall/ | Ishall | Ishall
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/lappvallen/ | Lappvallen | Lappvallen
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/schema-uthyrningar-simhall-sporthall-gym/ | Schema uthyrningar simhall, sporthall, gym. | Schema uthyrningar simhall, sporthall, gym.
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/eljus-och-motionsspar/ | Eljus- och motionsspår | Eljus- och motionsspår
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/ | Slalombackar | Slalombackar
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/investeringsprojekt-aslia/ | Investeringsprojekt Åslia | Investeringsprojekt Åslia
+https://www.asele.se/fritid-turism-och-kultur/idrott-och-motion/slalombackar/oppettider-och-priser/ | Öppettider och priser | Öppettider och priser
+https://www.asele.se/fritid-turism-och-kultur/tipsa-oss-om-evenemang/ | Tipsa oss om evenemang | Tipsa oss om evenemang
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasieskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Familjerätt
+Visa undersidor till Individ- och familjeomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Äldreomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionshinderomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Idrott och motion
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritidsaktviteter
+Visa undersidor till Fritid, turism och kultur
+Visa undersidor till Fritid, turism och kultur
+
+## HTML (början av body)
+<body class="page page"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-4aa78359-680f-4e94-8766-bacad4bff510" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-4aa78359-680f-4e94-8766-bacad4bff510" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola (Aarhskuvle)</a> <button class="btn-toggle" aria-controls="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" aria-expanded="false" data-name="Förskola (Aarhskuvle)" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-a47cff82-9dcf-4dab-8903-a1c24390c476" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-renen/" class="standby nav-link">Förskolan Renen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-villan/" class="standby nav-link">Förskolan Villan</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/forskolan-snodroppen/" class="standby nav-link">Förskolan Snödroppen</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/ansokan-om-forskoleplats-mm/" class="standby nav-link">Ansökan om förskoleplats mm</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/tillampningsanvisningar/" class="standby nav-link">Tillämpningsanvisningar</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/regler-och-rutiner/" class="standby nav-link">Regler och rutiner</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-aarhskuvle/allman-forskola/" class="standby

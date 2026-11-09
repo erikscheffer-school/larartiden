@@ -1,0 +1,466 @@
+Kommun: Lidingö  nyckel: lidingo.se
+
+######## SIDA: https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/
+Titel: Sammanträdesdagar
+
+## Dataanrop
+GET 200 document text/html; charset=UTF-8 https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/
+GET 200 fetch application/json; charset=UTF-8 https://lidingo.se/wp-json/municipio/v1/view/render/partials/preloader
+      "<!-- nav.blade.php -->\n \n              <div class=\"c-element c-nav__child-container\" data-uid=\"6af1015e4dbf0\" data-component=\"element\">\n        <ul class=\"c-nav preloader c-nav--depth-2 unlist c-nav--vertical\" aria-orientation=\"vertical\" role=\"menu\" data-js-keep-in-viewport-after-resize=\"1\" id=\"id_6af1015e4da64\" data-uid=\"6af1015e4da64\" data-component=\"nav\">\n          <li id=\"6af1015e4da64-1939392164126035087-0__item\" class=\"u-preloader u-preloader__opacity--9 c-nav__item c-nav__item--default c-nav__item--depth-2\" role=\"menuitem\" data-depth=\"2\" aria-label=\"\">\n        \n        <div class=\"c-nav__item-wrapper\">\n          \n                      <!-- Hidden link: Both label and icon is missing -->\n          \n          \n                  <\/div>\n\n        \n                          <\/li>\n\n    <\/ul>\n    <\/div>\n    "
+GET 200 fetch application/json; charset=UTF-8 https://lidingo.se/wp-json/municipio/v1/nonce/refresh?_nonceCacheBust=498391
+      {"ok":true}
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Sammanträdesdagar","pid":"749","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["749"]},"cf":[],"csf":[],"p":"50a870dc","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:07:06.964Z","url":"/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/","content":{},"orgreferer":"","h
+
+## Länkar (href | text | sammanhang)
+https://lidingo.se/ |  | 
+https://lidingo.se/driftinfo/ | Driftinfo | Driftinfo
+https://lidingo.se/kontakt/ | Kontakta oss | Kontakta oss
+https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F | English
+     (Extern webbplats) | English (Extern webbplats)
+https://lidingo.se/ | Hem | Hem
+https://lidingo.se/stad-politik/ | Stad & politik | Stad & politik
+https://lidingo.se/stad-politik/sa-styrs-lidingo/ | Så styrs Lidingö | Så styrs Lidingö
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/ | Sammanträden och handlingar | Sammanträden och handlingar
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/#kontakt | Kontakt | Kontakt
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=88b78d38-bf85-4f96-ae75-87fb7c777768 | Kommunfullmäktige, sammanträdesdatum
+(Extern webbplats) | Kommunfullmäktige, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=56aff674-fbeb-4b27-a0d8-9de70e7d92a9 | Kommunstyrelsen. sammanträdesdatum
+(Extern webbplats) | Kommunstyrelsen. sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=d5db3053-f5d0-490c-b82e-907a78bd13c4 | Kommunstyrelsens arbetsutskott, sammanträdesdatum
+(Extern webbplats) | Kommunstyrelsens arbetsutskott, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=3ef1d159-809c-41ea-9f9c-e66b28213538 | Kultur- och fritidsnämnden, sammanträdesdatum
+(Extern webbplats) | Kultur- och fritidsnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=60bedfe4-6bda-4bd5-9183-fdf4618c8913 | Miljö- och stadsbyggnadsnämnden, sammanträdesdatum
+(Extern webbplats) | Miljö- och stadsbyggnadsnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=eeac6644-432f-4d66-8d43-a1636687fcbb | Omsorgs- och socialnämnden, sammanträdesdatum
+(Extern webbplats) | Omsorgs- och socialnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=b8b75af4-24f8-4176-8acf-c0f0576ec412 | Tekniska nämnden, sammanträdesdatum
+(Extern webbplats) | Tekniska nämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=a5f5d737-5ee1-4519-9c8c-0a4de0e03937 | Fastighetsnämnden, sammanträdesdatum
+(Extern webbplats) | Fastighetsnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=6f9eb7cb-7158-4551-92ab-3fcfd42cc17a | Utbildningsnämnden, sammanträdesdatum
+(Extern webbplats) | Utbildningsnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/organisation/e895fe43-621a-459e-8d20-c7d828d57b05 | Valnämnden, sammanträdesdatum
+(Extern webbplats) | Valnämnden, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=95d19f4e-7691-46d9-b076-c7a460449ab1 | Pensionärsrådet, sammanträdesdatum
+(Extern webbplats) | Pensionärsrådet, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/viewOrganization.jsf?id=8bcc3812-2806-4866-98e8-a1deeb077dac | Tillgänglighetsrådet, sammanträdesdatum
+(Extern webbplats) | Tillgänglighetsrådet, sammanträdesdatum (Extern webbplats)
+https://lidingo.tromanpublik.se/ | Översikt över samtliga uppdrag, Förtroendemannaregistret, Troman
+(Extern webbpla | I förtroendemannaregistret finns alla aktuella sammanträdesdatum och tider samlade. Kommunfullmäktige, sammanträdesdatum
+tel:087313000 | 08-731 30 00 | :telefon: 08-731 30 00 :klocka: Måndag–fredag 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :skicka: kundcenter@
+mailto:kundcenter@lidingo.se | kundcenter@lidingo.se | :telefon: 08-731 30 00 :klocka: Måndag–fredag 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :skicka: kundcenter@
+https://www.hitta.se/kartan!~59.36415,18.13364,14z/tr!i=Zf1ALKxp/search!i=1010815593!q=Lejonv%C3%A4gen%2015%2C%20Liding%C3%B6!t=single!st=plc!a=59.36415:18.13364!ai=1010815593!aic=59.36415:18.13364?usergeo=1 | Hitta till oss, hitta.se
+(Extern webbplats) | :telefon: 08-731 30 00 :klocka: Måndag–fredag 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :skicka: kundcenter@
+https://minasidor.lidingo.se/kontaktaoss | Kontakta oss/synpunkter, e-tjänst
+(Extern webbplats) | :telefon: 08-731 30 00 :klocka: Måndag–fredag 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :skicka: kundcenter@
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/#kontakt | Kontakt | Kontakt
+https://lidingo.se/stad-politik/sa-styrs-lidingo/val-2026/ | Val 2026 :höger: | Val 2026 :höger:
+https://lidingo.se/stad-politik/sa-styrs-lidingo/ | Politik och beslut :höger: | Politik och beslut :höger:
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/ | Sammanträden och handlingar :höger: | Sammanträden och handlingar :höger:
+https://lidingo.tromanpublik.se/ | Kontakta en politiker :höger:
+(Extern webbplats) | Kontakta en politiker :höger: (Extern webbplats)
+https://lidingo.se/stad-politik/sakerhet-och-krishantering/ | Säkerhet och krishantering :höger: | Säkerhet och krishantering :höger:
+https://minasidor.lidingo.se/oversikt | E-tjänster :höger:
+(Extern webbplats) | E-tjänster :höger: (Extern webbplats)
+https://minasidor.lidingo.se/minasidor | Mina sidor :höger:
+(Extern webbplats) | Mina sidor :höger: (Extern webbplats)
+https://portal.lidingo.se/ | Invånarportal :höger:
+(Extern webbplats) | Invånarportal :höger: (Extern webbplats)
+https://minasidor.lidingo.se/boendeparkering | Ansök om boendeparkering :höger:
+(Extern webbplats) | Ansök om boendeparkering :höger: (Extern webbplats)
+https://minasidor.lidingo.se/oversikt/overview/311 | Ansök om hemtjänst :höger:
+(Extern webbplats) | Ansök om hemtjänst :höger: (Extern webbplats)
+https://lidingo.se/medarbetarportalen/ | Medarbetarportalen :höger: | Medarbetarportalen :höger:
+https://lidingo.se/stad-politik/sa-styrs-lidingo/politik-och-namnder/overformyndare/ | Överförmyndare :höger: | Överförmyndare :höger:
+https://lidingo.se/kontakt/ | Kontakta oss :höger: | Kontakta oss :höger:
+https://lidingo.se/trafik-infrastruktur/pagaende-arbeten/ | Pågående arbeten :höger: | Pågående arbeten :höger:
+https://minasidor.lidingo.se/oversikt/overview/339 | Lämna synpunkter :höger:
+(Extern webbplats) | Lämna synpunkter :höger: (Extern webbplats)
+https://karta.lidingo.se/spatialmap | Kartor :höger:
+(Extern webbplats) | Kartor :höger: (Extern webbplats)
+https://minasidor.lidingo.se/felanmalan | Felanmälan :höger:
+(Extern webbplats) | Felanmälan :höger: (Extern webbplats)
+https://lidingo.se/om-webbplatsen/ | Om webbplatsen :höger: | Om webbplatsen :höger:
+https://lidingo.se/tillganglighetsredogorelse | Tillgänglighetsredogörelse :höger: | Tillgänglighetsredogörelse :höger:
+https://lidingo.se/stadens-anslagstavla/ | Stadens anslagstavla :höger: | Stadens anslagstavla :höger:
+https://www.linkedin.com/company/lidingo-stad | Linkedin
+(Extern webbplats) | Linkedin (Extern webbplats)
+https://www.instagram.com/lidingo_stad/ | Instagram
+(Extern webbplats) | Instagram (Extern webbplats)
+https://www.facebook.com/lidingostad | Facebook
+(Extern webbplats) | Facebook (Extern webbplats)
+https://lidingo.se/barn-utbildning/ |  | 
+https://lidingo.se/omsorg-stod/ |  | 
+https://lidingo.se/kultur-fritid/ |  | 
+https://lidingo.se/trafik-infrastruktur/ |  | 
+https://lidingo.se/bygga-bo/ |  | 
+https://lidingo.se/natur-miljo/ |  | 
+https://lidingo.se/stad-politik/ |  | 
+https://lidingo.se/stad-politik/om-lidingo/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/val-2026/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/vision-och-inritktningsmal/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/politik-och-namnder/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/tjansteman-och-forvaltningar/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/styrande-dokument/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradeshandlingar/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/begara-ut-handlingar/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/lidingo-stadsarkiv/ |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/dina-rattigheter/ |  | 
+https://lidingo.se/stad-politik/ekonomi-och-budget/ |  | 
+https://lidingo.se/stad-politik/sakerhet-och-krishantering/ |  | 
+https://lidingo.se/stad-politik/kvalitet-och-utveckling/ |  | 
+https://lidingo.se/stad-politik/digitalisering/ |  | 
+https://lidingo.se/naringsliv-arbete/ |  | 
+https://lidingo.se/medarbetarportalen/ |  | 
+https://lidingo.se/stadens-anslagstavla/ |  | 
+https://lidingo.se/nyheter/ |  | 
+https://lidingo.se/evenemang/ |  | 
+
+## Knappar
+Sök
+Close search
+Sök
+Meny
+Språk
+Skriv ut
+Innehåll på sidan
+Innehåll på sidan
+Stäng
+Expandera: Barn &amp; utbildning
+Expandera: Omsorg &amp; stöd
+Expandera: Kultur &amp; fritid
+Expandera: Trafik &amp; infrastruktur
+Expandera: Bygga &amp; bo
+Expandera: Natur &amp; miljö
+Expandera: Stad &amp; politik
+Expand: Om Lidingö
+Expand: Så styrs Lidingö
+Expand: Politik och nämnder
+Expand: Tjänstemän och förvaltningar
+Expand: Styrande dokument
+Expand: Sammanträden och handlingar
+Expand: Lidingö stadsarkiv
+Expand: Dina rättigheter
+Expand: Ekonomi och budget
+Expand: Säkerhet och krishantering
+Expand: Kvalitet och utveckling
+Expand: Digitalisering
+Expandera: Näringsliv &amp; arbete
+
+## HTML (början av body)
+<body class="c-element wp-singular page-template page-template-content-page-with-toc-blade page-template-content-page-with-toc-blade-php page page-id-749 page-child parent-pageid-696 wp-theme-municipio no-js t-municipio modularity-toc--sticky-sidebar sticky-header" data-js-page-id="749" data-js-post-type="page" data-js-toggle-item="mega-menu" data-js-toggle-class="mega-menu-open" data-uid="6af10191a4f58" data-component="element" style="--scrollbar: 0px"> <div class="site-wrapper"> <header class="c-header c-header--flexible site-header u-display--block@lg u-display--block@xl c-header--primary c-header--sticky" id="site-header-flexible-lower" data-uid="6af10191a3e67" data-component="header"> <div class="c-header__main-lower-area-container"> <div class="o-container c-header__main-lower-area o-container" data-uid="6af10191a3d46" data-component="element"> <div class="c-header__lower-left"> <div class="u-order--0 u-order--0@md"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" href="https://lidingo.se" target="_top" id="header-logotype" data-uid="6af101919eff3" data-component="link"> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af101919eee9" data-component="logotype"> <img src="http://lidingo.se/wp-content/uploads/2026/03/lidingo-stad-logotyp.svg" alt="Gå till startsidan" class="c-logotype__image"> </figure> </a> </div> </div> <div class="c-header__lower-center"> </div> <div class="c-header__lower-right"> <div class="u-order--1 u-order--3@md"> <div class="collapsible-search-form"> <form class="c-form collapsible-search-form__form u-visibility--hidden js-form-validation" tabindex="-1" aria-hidden="true" id="id_6af101919f7c4" data-uid="6af101919f7da" data-component="form" method="get" action="https://lidingo.se"> <div class="c-group collapsible-search-form__group c-group--horizontal" data-uid="6af101919f5f7" data-component="group"> <div class="c-field u-flex-grow--1 u-box-shadow--1 c-field--text c-field--icon c-field--md c-field--radius-sm" id="id_6af101919f1a7" data-uid="6af101919f1d8" data-component="field"> <label class="c-field__label u-sr__only" for="input_id_6af101919f1a7" id="label_id_6af101919f1a7"> Vad letar du efter? </label> <div class="c-field__inner c-field__inner--text"> <input id="input_id_6af101919f1a7" value="" aria-label="Vad letar du efter?" placeholder="Sök" type="text" name="s" autocomplete="on"> <div class="c-field_focus-styler u-level-top"></div> <span class="c-icon c-field__suffix c-field__error-icon c-icon--error-outline c-icon--material c-icon--material-error_outline material-symbols material-symbols-rounded material-symbols-sharp material-symbols-outlined c-icon--size-md" aria-hidden="false" data-material-symbol="error_outline" role="img" data-nosnippet="" translate="no" aria-label="Ikon: Fel" data-uid="6af101919f2fb" data-component="icon"> </span> <span class="c-icon c-field__suffix c-field__success-icon c-icon--check-circle-outline c-icon--material c-icon--material-check_circle_outline material-symbols material-symbols-rounded material-symbols-sharp material-symbols-outlined c-icon--size-md" aria-hidden="false" data-material-symbol="check_circle_outline" role="img" data-nosnippet="" translate="no" aria-label="Ikon: Checkad" data-uid="6af101919f36f" data-component="icon"> </span> </div> </div> <button class="c-button collapsible-search-form__submit-icon c-button__primary c-button__primary--default c-button--md c-button--pill c-button--icon-only" aria-label="Sök" type="submit" data-uid="6af101919f464" data-component="button" disabled=""> <span class="c-button__label"> <span class="c-button__loader"></span> <span class="c-button__label-icon "> <span class="c-icon c-icon--:sök: c-icon--material c-icon--material-:sök: material-symbols material-symbols-rounded material-symbols-sharp material-symbols-outlined c-icon--size-md" aria-hidden="true" data-material-symbol=":sök:" role="img" data-nosnippet="" translate="no" data-uid="6af101919f4ef" data
+
+######## SIDA: https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F
+Titel: Meeting days
+
+## Dataanrop
+GET 302 document application/binary https://translate.google.com/translate?sl=sv&tl=en&u=https%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F
+GET 200 document text/html; charset=UTF-8 https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv
+GET 200 document text/html; charset=utf-8 https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Flidingo-se.translate.goog&pfu=https%3A%2F%2Flidingo-se.translate.goog%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F%3F_x_tr_sl%3Dsv%26_x_t
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Sammanträdesdagar","pid":"749","mb":-1,"mv":{"vt":1,"v30":1,"dlv":30},"mp":{"p":["749"]},"cf":[],"csf":[],"p":"50a870dc","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:07:11.885Z","url":"/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["What are you looking for?","Search","Menu","Operational information","Contact us","You are here:","Home","City &amp; politics","How Lidingö is governed","Meetings and documents","Meeting days","Print","Meeting days","Meeting days for the city council, municipal board, committees, boards, councils, groups and companies.","The shop steward register contains all current meeting dates and times.","City Council, meeting date","(External website)","Municipal Board. Meeting date","Municipal Board Working Committee, meeting dates","Culture and Leisure Committee, meeting date","Environment and Urban Planning Committee, meeting date","Care and Social Welfare Committee, meeting date","Technical Committee, meeting date","Real Estate Committee, meeting date","Education Committee, meeting date","Election Committee, meeting date","Pensioners&#39; Council, meeting dates","Accessibility Council, meeting dates","Overview of all assignments, Shop Steward Register, Troman","Contact","Customer Center","\u003ca i=0\u003e:phone:\u003c/a\u003e \u003ca i=1\u003e08-731 30 00\u003c/a\u003e \u003ca i=2\u003e:hours: Monday–Friday 08.30–16.00\u003c/a\u003e \u003ca i=3\u003e:pin: Lejonvägen 15\u003c/a\u003e \u003ca i=4\u003e:post: 181 82 Lidingö\u003c/a\u003e \u003ca i=5\u003e:send:\u003c/a\u003e \u003ca i=6\u003ekundcenter@lidingo.se\u003c/a\u003e \u003ca i=7\u003eFind us, hitta.se\u003c/a\u003e","Contact us/comments, e-service","Publication date: April 15, 2026","Page content","How Lidingö is governed
+      POST: [[[" Vad letar du efter? "," Sök "," Meny "," Driftinfo "," Kontakta oss "," Du är här: "," Hem "," Stad &amp; politik "," Så styrs Lidingö "," Sammanträden och handlingar "," Sammanträdesdagar ","Skriv ut","Sammanträdesdagar","Sammanträdesdagar för kommunfullmäktige, kommunstyrelse, utskott, nämnde
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["What are you looking for?","Search","Menu","Operational information","Contact us","You are here:","Home","City &amp; politics","How Lidingö is governed","Meetings and documents","Meeting days","Print","Meeting days","Meeting days for the city council, municipal board, committees, boards, councils, groups and companies.","The shop steward register contains all current meeting dates and times.","City Council, meeting date","(External website)","Municipal Board. Meeting date","Municipal Board Working Committee, meeting dates","Culture and Leisure Committee, meeting date","Environment and Urban Planning Committee, meeting date","Care and Social Welfare Committee, meeting date","Technical Committee, meeting date","Real Estate Committee, meeting date","Education Committee, meeting date","Election Committee, meeting date","Pensioners&#39; Council, meeting dates","Accessibility Council, meeting dates","Overview of all assignments, Shop Steward Register, Troman","Contact","Customer Center","\u003ca i=0\u003e:phone:\u003c/a\u003e \u003ca i=1\u003e08-731 30 00\u003c/a\u003e \u003ca i=2\u003e:hours: Monday–Friday 08.30–16.00\u003c/a\u003e \u003ca i=3\u003e:pin: Lejonvägen 15\u003c/a\u003e \u003ca i=4\u003e:post: 181 82 Lidingö\u003c/a\u003e \u003ca i=5\u003e:send:\u003c/a\u003e \u003ca i=6\u003ekundcenter@lidingo.se\u003c/a\u003e \u003ca i=7\u003eFind us, hitta.se\u003c/a\u003e","Contact us/comments, e-service","Publication date: April 15, 2026","Page content","How Lidingö is governed
+      POST: [[[" Vad letar du efter? "," Sök "," Meny "," Driftinfo "," Kontakta oss "," Du är här: "," Hem "," Stad &amp; politik "," Så styrs Lidingö "," Sammanträden och handlingar "," Sammanträdesdagar ","Skriv ut","Sammanträdesdagar","Sammanträdesdagar för kommunfullmäktige, kommunstyrelse, utskott, nämnde
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["Traffic &amp; infrastructure","Expand: Traffic &amp; infrastructure","Build &amp; live","Expand: Build &amp; live","Nature &amp; environment","Expand: Nature &amp; environment","City &amp; politics","Expand: City &amp; politics","About Lidingö","Expand: About Lidingö","How Lidingö is governed","Expand: How Lidingö is governed","Election 2026 - What happens after the election?","Vision and strategic goals","Politics and committees","Expand: Politics and committees","Civil servants and administrations","Expand: Civil servants and administrations","Governing document","Expand: Governing document","Meetings and documents","Expand: Meetings and documents","Meeting days","Meeting documents","Request documents","Lidingö city archives","Expand: Lidingö city archives","Your rights","Expand: Your rights","Finance and budget","Expand: Economy and budget","Security and crisis management","Expand: Security and crisis management","Quality and development","Expand: Quality and development","Digitalization","Expand: Digitalization","Business &amp; work","Expand: Business &amp;amp; work","Employee portal","City bulletin board","News","Event","Lidingö » Feed: Jobs","Lidingö » Feed: Operating information","Lidingö » Feed: News","Lidingö » Feed: Contact card","Lidingö » Feed: Ongoing works","Lidingö » Feed: Playgrounds","Lidingö » Feed: Events","Lidingö » Feed: Primary schools","Lidingö » Feed: Preschools","Lidingö » Feed: Culture Week","Page content","Contact","(External website)","Table of 
+      POST: [[["Trafik &amp;amp; infrastruktur","Expandera: Trafik &amp;amp; infrastruktur","Bygga &amp;amp; bo","Expandera: Bygga &amp;amp; bo","Natur &amp;amp; miljö","Expandera: Natur &amp;amp; miljö","Stad &amp;amp; politik","Expandera: Stad &amp;amp; politik","Om Lidingö","Expand: Om Lidingö","Så styrs Lid
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["Traffic &amp; infrastructure","Expand: Traffic &amp; infrastructure","Build &amp; live","Expand: Build &amp; live","Nature &amp; environment","Expand: Nature &amp; environment","City &amp; politics","Expand: City &amp; politics","About Lidingö","Expand: About Lidingö","How Lidingö is governed","Expand: How Lidingö is governed","Election 2026 - What happens after the election?","Vision and strategic goals","Politics and committees","Expand: Politics and committees","Civil servants and administrations","Expand: Civil servants and administrations","Governing document","Expand: Governing document","Meetings and documents","Expand: Meetings and documents","Meeting days","Meeting documents","Request documents","Lidingö city archives","Expand: Lidingö city archives","Your rights","Expand: Your rights","Finance and budget","Expand: Economy and budget","Security and crisis management","Expand: Security and crisis management","Quality and development","Expand: Quality and development","Digitalization","Expand: Digitalization","Business &amp; work","Expand: Business &amp;amp; work","Employee portal","City bulletin board","News","Event","Lidingö » Feed: Jobs","Lidingö » Feed: Operating information","Lidingö » Feed: News","Lidingö » Feed: Contact card","Lidingö » Feed: Ongoing works","Lidingö » Feed: Playgrounds","Lidingö » Feed: Events","Lidingö » Feed: Primary schools","Lidingö » Feed: Preschools","Lidingö » Feed: Culture Week","Page content","Contact","(External website)","Table of 
+      POST: [[["Trafik &amp;amp; infrastruktur","Expandera: Trafik &amp;amp; infrastruktur","Bygga &amp;amp; bo","Expandera: Bygga &amp;amp; bo","Natur &amp;amp; miljö","Expandera: Natur &amp;amp; miljö","Stad &amp;amp; politik","Expandera: Stad &amp;amp; politik","Om Lidingö","Expand: Om Lidingö","Så styrs Lid
+
+## Länkar (href | text | sammanhang)
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/driftinfo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Operational information | Operational information
+https://lidingo-se.translate.goog/kontakt/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Contact us | Contact us
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Home | Home
+https://lidingo-se.translate.goog/stad-politik/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | City & politics | City & politics
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | How Lidingö is governed | How Lidingö is governed
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Meetings and documents | Meetings and documents
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/#kontakt | Contact(External website) | Contact(External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D88b78d38-bf85-4f96-ae75-87fb7c777768 | City Council, meeting date
+(External website) | City Council, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D56aff674-fbeb-4b27-a0d8-9de70e7d92a9 | Municipal Board. Meeting date
+(External website) | Municipal Board. Meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3Dd5db3053-f5d0-490c-b82e-907a78bd13c4 | Municipal Board Working Committee, meeting dates
+(External website) | Municipal Board Working Committee, meeting dates (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D3ef1d159-809c-41ea-9f9c-e66b28213538 | Culture and Leisure Committee, meeting date
+(External website) | Culture and Leisure Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D60bedfe4-6bda-4bd5-9183-fdf4618c8913 | Environment and Urban Planning Committee, meeting date
+(External website) | Environment and Urban Planning Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3Deeac6644-432f-4d66-8d43-a1636687fcbb | Care and Social Welfare Committee, meeting date
+(External website) | Care and Social Welfare Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3Db8b75af4-24f8-4176-8acf-c0f0576ec412 | Technical Committee, meeting date
+(External website) | Technical Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3Da5f5d737-5ee1-4519-9c8c-0a4de0e03937 | Real Estate Committee, meeting date
+(External website) | Real Estate Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D6f9eb7cb-7158-4551-92ab-3fcfd42cc17a | Education Committee, meeting date
+(External website) | Education Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/organisation/e895fe43-621a-459e-8d20-c7d828d57b05 | Election Committee, meeting date
+(External website) | Election Committee, meeting date (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D95d19f4e-7691-46d9-b076-c7a460449ab1 | Pensioners' Council, meeting dates
+(External website) | Pensioners' Council, meeting dates (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/viewOrganization.jsf?id%3D8bcc3812-2806-4866-98e8-a1deeb077dac | Accessibility Council, meeting dates
+(External website) | Accessibility Council, meeting dates (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/ | Overview of all assignments, Shop Steward Register, Troman
+(External website) | The shop steward register contains all current meeting dates and times. City Council, meeting date (External website) Mu
+tel:087313000?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | 08-731 30 00 | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+mailto:kundcenter@lidingo.se?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | kundcenter@lidingo.se | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://www.hitta.se/kartan!~59.36415,18.13364,14z/tr!i%3DZf1ALKxp/search!i%3D1010815593!q%3DLejonv%25C3%25A4gen%252015%252C%2520Liding%25C3%25B6!t%3Dsingle!st%3Dplc!a%3D59.36415:18.13364!ai%3D1010815593!aic%3D59.36415:18.13364?usergeo%3D1 | Find us, hitta.se
+(External website) | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/kontaktaoss | Contact us/comments, e-service
+(External website) | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/#kontakt | Contact
+(External website) | Contact (External website)
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/val-2026/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Election 2026 :right: | Election 2026 :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Politics and decisions :right: | Politics and decisions :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Meetings and documents :right: | Meetings and documents :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/ | Contact a politician :right:
+(External website) | Contact a politician :right: (External website)
+https://lidingo-se.translate.goog/stad-politik/sakerhet-och-krishantering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Security and crisis management :right: | Security and crisis management :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt | E-services :right:
+(External website) | E-services :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/minasidor | My pages :right:
+(External website) | My pages :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://portal.lidingo.se/ | Resident portal :right:
+(External website) | Resident portal :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/boendeparkering | Apply for residential parking :right:
+(External website) | Apply for residential parking :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt/overview/311 | Apply for home care :right:
+(External website) | Apply for home care :right: (External website)
+https://lidingo-se.translate.goog/medarbetarportalen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Employee portal :right: | Employee portal :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/politik-och-namnder/overformyndare/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Chief Guardian :right: | Chief Guardian :right:
+https://lidingo-se.translate.goog/kontakt/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Contact us :right: | Contact us :right:
+https://lidingo-se.translate.goog/trafik-infrastruktur/pagaende-arbeten/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Work in progress :right: | Work in progress :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt/overview/339 | Leave comments :right:
+(External website) | Leave comments :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://karta.lidingo.se/spatialmap | Maps :right:
+(External website) | Maps :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/felanmalan | Error report :right:
+(External website) | Error report :right: (External website)
+https://lidingo-se.translate.goog/om-webbplatsen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | About the website :right: | About the website :right:
+https://lidingo-se.translate.goog/tillganglighetsredogorelse?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Accessibility statement :right: | Accessibility statement :right:
+https://lidingo-se.translate.goog/stadens-anslagstavla/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | The city's bulletin board :right: | The city's bulletin board :right:
+https://www.linkedin.com/company/lidingo-stad | LinkedIn
+(External website) | LinkedIn (External website)
+https://www.instagram.com/lidingo_stad/ | Instagram
+(External website) | Instagram (External website)
+https://www.facebook.com/lidingostad | Facebook
+(External website) | Facebook (External website)
+https://lidingo-se.translate.goog/barn-utbildning/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/omsorg-stod/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/kultur-fritid/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/trafik-infrastruktur/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/bygga-bo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/natur-miljo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/om-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/val-2026/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/vision-och-inritktningsmal/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/politik-och-namnder/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/tjansteman-och-forvaltningar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/styrande-dokument/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradeshandlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/begara-ut-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/lidingo-stadsarkiv/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/dina-rattigheter/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/ekonomi-och-budget/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sakerhet-och-krishantering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/kvalitet-och-utveckling/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/digitalisering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/naringsliv-arbete/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/medarbetarportalen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stadens-anslagstavla/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/nyheter/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/evenemang/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/ |  | 
+
+## Knappar
+Search
+Close search
+Search
+Menu
+Print
+Page content
+Page content
+Close
+Expand: Children & education
+Expand: Care & support
+Expand: Culture & leisure
+Expand: Traffic & infrastructure
+Expand: Build & live
+Expand: Nature & environment
+Expand: City & politics
+Expand: About Lidingö
+Expand: How Lidingö is governed
+Expand: Politics and committees
+Expand: Civil servants and administrations
+Expand: Governing document
+Expand: Meetings and documents
+Expand: Lidingö city archives
+Expand: Your rights
+Expand: Economy and budget
+Expand: Security and crisis management
+Expand: Quality and development
+Expand: Digitalization
+Expand: Business & work
+Bra översättning
+Dålig översättning
+
+## HTML (början av body)
+<body class="c-element wp-singular page-template page-template-content-page-with-toc-blade page-template-content-page-with-toc-blade-php page page-id-749 page-child parent-pageid-696 wp-theme-municipio no-js t-municipio modularity-toc--sticky-sidebar sticky-header" data-js-page-id="749" data-js-post-type="page" data-js-toggle-item="mega-menu" data-js-toggle-class="mega-menu-open" data-uid="6af10191a4f58" data-component="element" style="--scrollbar: 0px"><iframe title="Navigating in Google Translate" frameborder="0" id="gt-nvframe" src="https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Flidingo-se.translate.goog&amp;pfu=https%3A%2F%2Flidingo-se.translate.goog%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F%3F_x_tr_sl%3Dsv%26_x_tr_tl%3Den%26_x_tr_hl%3Dsv&amp;u=https%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F&amp;sl=sv&amp;tl=en&amp;opu=https%3A%2F%2Ftranslate.google.com%2Fwebsite%3Fsl%3Dsv%26tl%3Den%26hl%3Dsv%26u%3Dhttps%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2Fsammantradesdagar%2F%26anno%3D2&amp;client=tr&amp;hl=sv" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 0px; box-shadow: none; height: 57px; left: 0px; right: auto; position: fixed; top: 0px; transition: none; width: 100%; z-index: 2147483646;"></iframe> <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.sv.fX3s-efi92c.O/am=AAAADA/d=1/exm=corsproxy,phishing_protection/ed=1/rs=AN8SPfrQJ8YkG8qmj78mq58UY6UCE1-dgA/m=navigationui" data-environment="prod" data-proxy-url="https://lidingo-se.translate.goog" data-proxy-full-url="https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&amp;_x_tr_tl=en&amp;_x_tr_hl=sv" data-source-url="https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/" data-source-language="sv" data-target-language="en" data-display-language="sv" data-detected-source-language="" data-is-source-untranslated="false" data-source-untranslated-url="https://translate.google.com/website?sl=sv&amp;tl=en&amp;hl=sv&amp;u=https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/&amp;anno=2" data-client="tr"></script> <div class="site-wrapper"> <header class="c-header c-header--flexible site-header u-display--block@lg u-display--block@xl c-header--primary c-header--sticky" id="site-header-flexible-lower" data-uid="6af10191a3e67" data-component="header"> <div class="c-header__main-lower-area-container"> <div class="o-container c-header__main-lower-area o-container" data-uid="6af10191a3d46" data-component="element"> <div class="c-header__lower-left"> <div class="u-order--0 u-order--0@md"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" href="https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&amp;_x_tr_tl=en&amp;_x_tr_hl=sv" target="_top" id="header-logotype" data-uid="6af101919eff3" data-component="link"> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af101919eee9" data-component="logotype"> <img src="https://translate.google.com/website?sl=sv&amp;tl=en&amp;hl=sv&amp;u=http://lidingo.se/wp-content/uploads/2026/03/lidingo-stad-logotyp.svg" alt="Go to the home page" class="c-logotype__image"> </figure> </a> </div> </div> <div class="c-header__lower-center"></div> <div class="c-header__lower-right"> <div class="u-order--1 u-order--3@md"> <div class="collapsible-search-form"> <form class="c-form collapsible-search-form__form u-visibility--hidden js-form-validation" tabindex="-1" aria-hidden="true" id="id_6af101919f7c4" data-uid="6af101919f7da" data-component="form" method="get" action="https://lidingo.se"> <div class="c-gr
+
+######## SIDA: https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv
+Titel: Meetings and documents
+
+## Dataanrop
+GET 200 document text/html; charset=UTF-8 https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv
+GET 200 document text/html; charset=utf-8 https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Flidingo-se.translate.goog&pfu=https%3A%2F%2Flidingo-se.translate.goog%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2F%3F_x_tr_sl%3Dsv%26_x_tr_tl%3Den%26_x_tr_hl
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["Expand: Build &amp; live","Nature &amp; environment","Expand: Nature &amp; environment","City &amp; politics","Expand: City &amp; politics","About Lidingö","Expand: About Lidingö","How Lidingö is governed","Expand: How Lidingö is governed","Election 2026 - What happens after the election?","Vision and strategic goals","Politics and committees","Expand: Politics and committees","Civil servants and administrations","Expand: Civil servants and administrations","Governing document","Expand: Governing document","Meetings and documents","Expand: Meetings and documents","Meeting days","Meeting documents","Request documents","Lidingö city archives","Expand: Lidingö city archives","Your rights","Expand: Your rights","Finance and budget","Expand: Economy and budget","Security and crisis management","Expand: Security and crisis management","Quality and development","Expand: Quality and development","Digitalization","Expand: Digitalization","Business &amp; work","Expand: Business &amp;amp; work","Employee portal","City bulletin board","News","Event","Lidingö » Feed: Jobs","Lidingö » Feed: Operating information","Lidingö » Feed: News","Lidingö » Feed: Contact card","Lidingö » Feed: Ongoing works","Lidingö » Feed: Playgrounds","Lidingö » Feed: Events","Lidingö » Feed: Primary schools","Lidingö » Feed: Preschools","Lidingö » Feed: Culture Week","Page content"]]
+      POST: [[["Expandera: Bygga &amp;amp; bo","Natur &amp;amp; miljö","Expandera: Natur &amp;amp; miljö","Stad &amp;amp; politik","Expandera: Stad &amp;amp; politik","Om Lidingö","Expand: Om Lidingö","Så styrs Lidingö","Expand: Så styrs Lidingö","Val 2026 - Vad händer efter valet?","Vision och inriktningsmål",
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["Expand: Build &amp; live","Nature &amp; environment","Expand: Nature &amp; environment","City &amp; politics","Expand: City &amp; politics","About Lidingö","Expand: About Lidingö","How Lidingö is governed","Expand: How Lidingö is governed","Election 2026 - What happens after the election?","Vision and strategic goals","Politics and committees","Expand: Politics and committees","Civil servants and administrations","Expand: Civil servants and administrations","Governing document","Expand: Governing document","Meetings and documents","Expand: Meetings and documents","Meeting days","Meeting documents","Request documents","Lidingö city archives","Expand: Lidingö city archives","Your rights","Expand: Your rights","Finance and budget","Expand: Economy and budget","Security and crisis management","Expand: Security and crisis management","Quality and development","Expand: Quality and development","Digitalization","Expand: Digitalization","Business &amp; work","Expand: Business &amp;amp; work","Employee portal","City bulletin board","News","Event","Lidingö » Feed: Jobs","Lidingö » Feed: Operating information","Lidingö » Feed: News","Lidingö » Feed: Contact card","Lidingö » Feed: Ongoing works","Lidingö » Feed: Playgrounds","Lidingö » Feed: Events","Lidingö » Feed: Primary schools","Lidingö » Feed: Preschools","Lidingö » Feed: Culture Week","Page content"]]
+      POST: [[["Expandera: Bygga &amp;amp; bo","Natur &amp;amp; miljö","Expandera: Natur &amp;amp; miljö","Stad &amp;amp; politik","Expandera: Stad &amp;amp; politik","Om Lidingö","Expand: Om Lidingö","Så styrs Lidingö","Expand: Så styrs Lidingö","Val 2026 - Vad händer efter valet?","Vision och inriktningsmål",
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["What are you looking for?","Search","Menu","Operational information","Contact us","You are here:","Home","City &amp; politics","How Lidingö is governed","Meetings and documents","Print","Meetings and documents","With us you can search among different types of documents. If you are interested in any document beyond those published, please contact the registry.","Meeting days for the city council, municipal board, committees, boards, councils, groups and companies.","Meeting days","Here you will find notices, meeting documents and minutes from the meetings of the city council, city executive board and committees.","Meeting documents","Are you interested in accessing documents? You can search our diarium and also request documents from us.","Search and request documents, Evolution","(External website)","Request documents","Contact","Customer Center","\u003ca i=0\u003e:phone:\u003c/a\u003e \u003ca i=1\u003e08-731 30 00\u003c/a\u003e \u003ca i=2\u003e:hours: Monday–Friday 08.30–16.00\u003c/a\u003e \u003ca i=3\u003e:pin: Lejonvägen 15\u003c/a\u003e \u003ca i=4\u003e:post: 181 82 Lidingö\u003c/a\u003e \u003ca i=5\u003e:send:\u003c/a\u003e \u003ca i=6\u003ekundcenter@lidingo.se\u003c/a\u003e \u003ca i=7\u003eFind us, hitta.se\u003c/a\u003e","Contact us/comments, e-service","Publication date: April 15, 2026","Page content","How Lidingö is governed","Election 2026 :right:","Politics and decisions :right:","Meetings and documents :right:","Contact a politician :right:","Security and 
+      POST: [[[" Vad letar du efter? "," Sök "," Meny "," Driftinfo "," Kontakta oss "," Du är här: "," Hem "," Stad &amp; politik "," Så styrs Lidingö "," Sammanträden och handlingar ","Skriv ut","Sammanträden och handlingar","Hos oss kan du söka bland olika typer av handlingar. Är du intresserad av någon hand
+POST 200 xhr application/json+protobuf; charset=UTF-8 https://translate-pa.googleapis.com/v1/translateHtml
+      [["What are you looking for?","Search","Menu","Operational information","Contact us","You are here:","Home","City &amp; politics","How Lidingö is governed","Meetings and documents","Print","Meetings and documents","With us you can search among different types of documents. If you are interested in any document beyond those published, please contact the registry.","Meeting days for the city council, municipal board, committees, boards, councils, groups and companies.","Meeting days","Here you will find notices, meeting documents and minutes from the meetings of the city council, city executive board and committees.","Meeting documents","Are you interested in accessing documents? You can search our diarium and also request documents from us.","Search and request documents, Evolution","(External website)","Request documents","Contact","Customer Center","\u003ca i=0\u003e:phone:\u003c/a\u003e \u003ca i=1\u003e08-731 30 00\u003c/a\u003e \u003ca i=2\u003e:hours: Monday–Friday 08.30–16.00\u003c/a\u003e \u003ca i=3\u003e:pin: Lejonvägen 15\u003c/a\u003e \u003ca i=4\u003e:post: 181 82 Lidingö\u003c/a\u003e \u003ca i=5\u003e:send:\u003c/a\u003e \u003ca i=6\u003ekundcenter@lidingo.se\u003c/a\u003e \u003ca i=7\u003eFind us, hitta.se\u003c/a\u003e","Contact us/comments, e-service","Publication date: April 15, 2026","Page content","How Lidingö is governed","Election 2026 :right:","Politics and decisions :right:","Meetings and documents :right:","Contact a politician :right:","Security and 
+      POST: [[[" Vad letar du efter? "," Sök "," Meny "," Driftinfo "," Kontakta oss "," Du är här: "," Hem "," Stad &amp; politik "," Så styrs Lidingö "," Sammanträden och handlingar ","Skriv ut","Sammanträden och handlingar","Hos oss kan du söka bland olika typer av handlingar. Är du intresserad av någon hand
+POST 201 fetch application/json; charset=utf-8 https://view.rekai.se/view
+      {"message":"Ok."}
+      POST: {"pn":"Sammanträden och handlingar","pid":"696","mb":-1,"mv":{"vt":2,"v30":1,"dlv":30},"mp":{"p":["749","696"]},"cf":[],"csf":[],"p":"50a870dc","ubl":"sv-SE","ref":"","ld":"2026-11-09T07:07:16.873Z","url":"/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=s
+
+## Länkar (href | text | sammanhang)
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/driftinfo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Operational information | Operational information
+https://lidingo-se.translate.goog/kontakt/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Contact us | Contact us
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Home | Home
+https://lidingo-se.translate.goog/stad-politik/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | City & politics | City & politics
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | How Lidingö is governed | How Lidingö is governed
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Meeting days | Meeting days
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradeshandlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Meeting documents | Meeting documents
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://evolution.lidingo.se/home | Search and request documents, Evolution
+(External website) | Search and request documents, Evolution (External website)
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/begara-ut-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Request documents | Request documents
+tel:087313000?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | 08-731 30 00 | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+mailto:kundcenter@lidingo.se?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | kundcenter@lidingo.se | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://www.hitta.se/kartan!~59.36415,18.13364,14z/tr!i%3DZf1ALKxp/search!i%3D1010815593!q%3DLejonv%25C3%25A4gen%252015%252C%2520Liding%25C3%25B6!t%3Dsingle!st%3Dplc!a%3D59.36415:18.13364!ai%3D1010815593!aic%3D59.36415:18.13364?usergeo%3D1 | Find us, hitta.se
+(External website) | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/kontaktaoss | Contact us/comments, e-service
+(External website) | :phone: 08-731 30 00 :hours: Monday–Friday 08.30–16.00 :pin: Lejonvägen 15 :post: 181 82 Lidingö :send: kundcenter@lidin
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/#kontakt | Contact
+(External website) | Contact (External website)
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/val-2026/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Election 2026 :right: | Election 2026 :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Politics and decisions :right: | Politics and decisions :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Meetings and documents :right: | Meetings and documents :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://lidingo.tromanpublik.se/ | Contact a politician :right:
+(External website) | Contact a politician :right: (External website)
+https://lidingo-se.translate.goog/stad-politik/sakerhet-och-krishantering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Security and crisis management :right: | Security and crisis management :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt | E-services :right:
+(External website) | E-services :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/minasidor | My pages :right:
+(External website) | My pages :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://portal.lidingo.se/ | Resident portal :right:
+(External website) | Resident portal :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/boendeparkering | Apply for residential parking :right:
+(External website) | Apply for residential parking :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt/overview/311 | Apply for home care :right:
+(External website) | Apply for home care :right: (External website)
+https://lidingo-se.translate.goog/medarbetarportalen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Employee portal :right: | Employee portal :right:
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/politik-och-namnder/overformyndare/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Chief Guardian :right: | Chief Guardian :right:
+https://lidingo-se.translate.goog/kontakt/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Contact us :right: | Contact us :right:
+https://lidingo-se.translate.goog/trafik-infrastruktur/pagaende-arbeten/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Work in progress :right: | Work in progress :right:
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/oversikt/overview/339 | Leave comments :right:
+(External website) | Leave comments :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://karta.lidingo.se/spatialmap | Maps :right:
+(External website) | Maps :right: (External website)
+https://translate.google.com/website?sl=sv&tl=en&hl=sv&u=https://minasidor.lidingo.se/felanmalan | Error report :right:
+(External website) | Error report :right: (External website)
+https://lidingo-se.translate.goog/om-webbplatsen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | About the website :right: | About the website :right:
+https://lidingo-se.translate.goog/tillganglighetsredogorelse?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | Accessibility statement :right: | Accessibility statement :right:
+https://lidingo-se.translate.goog/stadens-anslagstavla/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv | The city's bulletin board :right: | The city's bulletin board :right:
+https://www.linkedin.com/company/lidingo-stad | LinkedIn
+(External website) | LinkedIn (External website)
+https://www.instagram.com/lidingo_stad/ | Instagram
+(External website) | Instagram (External website)
+https://www.facebook.com/lidingostad | Facebook
+(External website) | Facebook (External website)
+https://lidingo-se.translate.goog/barn-utbildning/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/omsorg-stod/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/kultur-fritid/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/trafik-infrastruktur/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/bygga-bo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/natur-miljo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/om-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/val-2026/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/vision-och-inritktningsmal/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/politik-och-namnder/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/tjansteman-och-forvaltningar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/styrande-dokument/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradeshandlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/begara-ut-handlingar/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/lidingo-stadsarkiv/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/dina-rattigheter/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/ekonomi-och-budget/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/sakerhet-och-krishantering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/kvalitet-och-utveckling/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stad-politik/digitalisering/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/naringsliv-arbete/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/medarbetarportalen/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/stadens-anslagstavla/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/nyheter/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo-se.translate.goog/evenemang/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv |  | 
+https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/ |  | 
+
+## Knappar
+Search
+Close search
+Search
+Menu
+Print
+Page content
+Close
+Expand: Children & education
+Expand: Care & support
+Expand: Culture & leisure
+Expand: Traffic & infrastructure
+Expand: Build & live
+Expand: Nature & environment
+Expand: City & politics
+Expand: About Lidingö
+Expand: How Lidingö is governed
+Expand: Politics and committees
+Expand: Civil servants and administrations
+Expand: Governing document
+Expand: Meetings and documents
+Expand: Lidingö city archives
+Expand: Your rights
+Expand: Economy and budget
+Expand: Security and crisis management
+Expand: Quality and development
+Expand: Digitalization
+Expand: Business & work
+Bra översättning
+Dålig översättning
+
+## HTML (början av body)
+<body class="c-element wp-singular page-template page-template-content-page-with-toc-blade page-template-content-page-with-toc-blade-php page page-id-696 page-parent page-child parent-pageid-683 wp-theme-municipio no-js t-municipio modularity-toc--sticky-sidebar sticky-header" data-js-page-id="696" data-js-post-type="page" data-js-toggle-item="mega-menu" data-js-toggle-class="mega-menu-open" data-uid="6af1018ef3457" data-component="element" style="--scrollbar: 0px"><iframe title="Navigating in Google Translate" frameborder="0" id="gt-nvframe" src="https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Flidingo-se.translate.goog&amp;pfu=https%3A%2F%2Flidingo-se.translate.goog%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2F%3F_x_tr_sl%3Dsv%26_x_tr_tl%3Den%26_x_tr_hl%3Dsv&amp;u=https%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2F&amp;sl=sv&amp;tl=en&amp;opu=https%3A%2F%2Ftranslate.google.com%2Fwebsite%3Fsl%3Dsv%26tl%3Den%26hl%3Dsv%26u%3Dhttps%3A%2F%2Flidingo.se%2Fstad-politik%2Fsa-styrs-lidingo%2Fsammantraden-och-handlingar%2F%26anno%3D2&amp;client=tr&amp;hl=sv" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 0px; box-shadow: none; height: 57px; left: 0px; right: auto; position: fixed; top: 0px; transition: none; width: 100%; z-index: 2147483646;"></iframe> <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.sv.fX3s-efi92c.O/am=AAAADA/d=1/exm=corsproxy,phishing_protection/ed=1/rs=AN8SPfrQJ8YkG8qmj78mq58UY6UCE1-dgA/m=navigationui" data-environment="prod" data-proxy-url="https://lidingo-se.translate.goog" data-proxy-full-url="https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&amp;_x_tr_tl=en&amp;_x_tr_hl=sv" data-source-url="https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/" data-source-language="sv" data-target-language="en" data-display-language="sv" data-detected-source-language="" data-is-source-untranslated="false" data-source-untranslated-url="https://translate.google.com/website?sl=sv&amp;tl=en&amp;hl=sv&amp;u=https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/&amp;anno=2" data-client="tr"></script> <div class="site-wrapper"> <header class="c-header c-header--flexible site-header u-display--block@lg u-display--block@xl c-header--primary c-header--sticky" id="site-header-flexible-lower" data-uid="6af1018ef23f5" data-component="header"> <div class="c-header__main-lower-area-container"> <div class="o-container c-header__main-lower-area o-container" data-uid="6af1018ef22ed" data-component="element"> <div class="c-header__lower-left"> <div class="u-order--0 u-order--0@md"> <a class="c-link u-margin__right--auto u-display--flex u-no-decoration" href="https://lidingo-se.translate.goog/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/?_x_tr_sl=sv&amp;_x_tr_tl=en&amp;_x_tr_hl=sv" target="_top" id="header-logotype" data-uid="6af1018eed5e2" data-component="link"> <figure class="c-logotype c-nav__logo c-header__logotype ripple ripple--before" data-uid="6af1018eed4dc" data-component="logotype"> <img src="https://translate.google.com/website?sl=sv&amp;tl=en&amp;hl=sv&amp;u=http://lidingo.se/wp-content/uploads/2026/03/lidingo-stad-logotyp.svg" alt="Go to the home page" class="c-logotype__image"> </figure> </a> </div> </div> <div class="c-header__lower-center"></div> <div class="c-header__lower-right"> <div class="u-order--1 u-order--3@md"> <div class="collapsible-search-form"> <form class="c-form collapsible-search-form__form u-visibility--hidden js-form-validation" tabindex="-1" aria-hidden="true" id="id_6af1018eeddee" data-uid="6af1018eeddfe" data-component="form" method="get" action="https://lidingo.se"> <div class="c-group collapsible-search-form__group c-group--horizontal" data-uid="6af1018eedc47" data-component="group"> <div class="c-f

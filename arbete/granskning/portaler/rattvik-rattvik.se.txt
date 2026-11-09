@@ -1,0 +1,451 @@
+Kommun: Rättvik  nyckel: rattvik.se
+
+######## SIDA: https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html
+Titel: 22 oktober 2026 - Rättviks kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/7a06142a-a444-4b1c-9d98-68bd1ce8dad5/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html#hopptillinnehall | Gå till innehåll | Gå till innehåll
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html# | Lyssna | • Lyssna
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | • Translate
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Sök politiker Kommunfakta Kommunens organisation Politik och demokrati Valresultat och mandatfördelni
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | Translate
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | » Politik och demokrati
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | » Möten och protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | » Webbradio
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | » 2026
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12789&lang=sv_se&readid=svid94_1bad6dc11a12f929c332a917&voice=Maja | Lyssna | Lyssna
+http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på Facebook | Dela på Facebook
+http://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik) | Dela på Twitter | Dela på Twitter
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på LinkedIn | Dela på LinkedIn
+mailto:?body=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik)&subject=22%20oktober%202026 | Dela via email | Dela via email
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html.printable | Skriv ut | Skriv ut
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+https://www.rattvik.se/informationslankar/a-o-lista.html | A–Ö-lista › | A–Ö-lista ›
+https://www.rattvik.se/informationslankar/om-cookies.html | Om cookies › | Om cookies ›
+https://www.rattvik.se/informationslankar/tillganglighetsredogorelse.html | Tillgänglighetsredogörelse › | Tillgänglighetsredogörelse ›
+https://www.rattvik.se/informationslankar/webbkarta.html | Webbkarta › | Webbkarta ›
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/lyssna-med-readspeaker.html | Lyssna med ReadSpeaker › | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://get.teamviewer.com/6q6yh2x | Teamviewer
+Länk till annan webbplats, öppnas i nytt fönster. | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://www.rattvik.se/login/ad.html |  | 
+https://portal.office.com/ |  | 
+https://www.facebook.com/pages/R%C3%A4ttviks-kommun/184653194905620 |  | 
+https://www.instagram.com/rattvikskommun/ |  | 
+https://www.linkedin.com/company/rattvikskommun/ |  | 
+https://www.rattvik.se/informationslankar/om-cookies.html | Läs mer i vår cookiepolicy | Vi använder kakor (cookies) på vår webbplats för att den ska fungera så bra som möjligt. Du kan läsa mer om hur vi använ
+
+## Knappar
+Sök
+Lyssna
+Meny
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;" data-rsevent-id="rs_219043"> <div style="" id="svid10_211ac4b4171ac43d048c5b64" class="sv-layout"><div class="sv-custom-module sv-fontAwesomeFree sv-skip-spacer sv-template-portlet " id="svid12_51b0454817a75e596eacb8da"><div id="FontAwesomeFree"><!-- Font Awesome Free --></div><div data-cid="c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c"><!-- Font Awesome Free for SiteVision Version: 5.15.3 App: fontAwesomeFree --></div><script nonce="">AppRegistry.registerBootstrapData('12.51b0454817a75e596eacb8da','c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.51b0454817a75e596eacb8da',{"appVersion":"5.15.3","appIdentifier":"fontAwesomeFree","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'fontAwesomeFree|5.15.3',htmlElementId:'svid12_51b0454817a75e596eacb8da',route:'/',portletId:'12.51b0454817a75e596eacb8da',locale:'sv-SE',defaultLocale:'en',webAppId:'fontAwesomeFree',webAppVersion:'5.15.3',webAppAopId:'360.51b0454817a75e596eacb8bf',webAppImportTime:'1627457767627',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-vertical sv-layout sv-template-layout" style="background-color:#f7f7f7;min-height: 100vh; " id="svid10_211ac4b4171ac43d048c5b69"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_211ac4b4171ac43d048c5b76"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6ef1593017cdf8d194bbca7"><div id="Gatillinnehallet"><!-- Gå till innehållet --></div><a href="#hopptillinnehall" class="env-assistive-text env-assistive-text--focusable"> Gå till innehåll </a></div> <div class="sv-fluid-grid sv-grid-grid12 sv-layout ribbon-header sv-template-layout" style="background-color:#ffffff;padding-bottom:1em" id="svid10_211ac4b4171ac43d048c5b77"><div class="sv-row sv-layout sv-hide-sv-bp-telefon sv-skip-spacer sv-template-layout" style="padding-top:0.6em" id="svid10_211ac4b4171ac43d048c5b7a"><div class="sv-layout sv-skip-spacer sv-column-5 sv-template-layout" style="padding-left:5.8em" id="svid10_211ac4b4171ac43d048c5b7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4a3aa69717229d52a7f73244"><div class="sv-image-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b7e"><div id="LoggaHeaderdesktop"><!-- Logga - Header desktop --></div><a href="/"><img alt="Rättviks kommun" class="sv-noborder sv-svg" style="max-width:276px;max-height:100px" width="276" height="100" src="/images/18.18b60de17368fa286f699c4/1595930241016/Kommunloggan.svg"></a></div> </div> </div> <div class="sv-layout sv-column-7 sv-template-layout" id="svid10_211ac4b4171ac43d048ce8b7"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" style="margin-left:1em;position:relative;float:right" id="svid10_3f4cab7171ac54930aee92f"><div class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" style="padding-right:2em" id="svid10_211ac4b4171ac43d048c5b82"><div class="sv-jcrmenu-portlet sv-portlet sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b87"><div id="Toppmeny"><!-- Toppmeny --></div> <ul style="display:inline; padding-left:0; margin-left:0; list-style:none" class="topmenu"> <li class="sv-inline"><a href="/kommun-och-politik/kontakta-oss.html" class="toppmeny" style="vertical-align:middle; margin-left:0.15em">Kontakta</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a id="show-readspeaker" class="toppmeny" href="#" style="vertical-align:middle; margin-left:0.15em">Lyssna</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a href="/sidor-utanfor-meny-och-sok/translate.html" class="toppmeny" style="vertical-align:middle
+
+######## SIDA: https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html#hopptillinnehall
+Titel: 22 oktober 2026 - Rättviks kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html#hopptillinnehall | Gå till innehåll | Gå till innehåll
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html# | Lyssna | • Lyssna
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | • Translate
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Sök politiker Kommunfakta Kommunens organisation Politik och demokrati Valresultat och mandatfördelni
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | Translate
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | » Politik och demokrati
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | » Möten och protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | » Webbradio
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | » 2026
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12789&lang=sv_se&readid=svid94_1bad6dc11a12f929c332a917&voice=Maja | Lyssna | Lyssna
+http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på Facebook | Dela på Facebook
+http://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik) | Dela på Twitter | Dela på Twitter
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på LinkedIn | Dela på LinkedIn
+mailto:?body=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik)&subject=22%20oktober%202026 | Dela via email | Dela via email
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html.printable | Skriv ut | Skriv ut
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+https://www.rattvik.se/informationslankar/a-o-lista.html | A–Ö-lista › | A–Ö-lista ›
+https://www.rattvik.se/informationslankar/om-cookies.html | Om cookies › | Om cookies ›
+https://www.rattvik.se/informationslankar/tillganglighetsredogorelse.html | Tillgänglighetsredogörelse › | Tillgänglighetsredogörelse ›
+https://www.rattvik.se/informationslankar/webbkarta.html | Webbkarta › | Webbkarta ›
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/lyssna-med-readspeaker.html | Lyssna med ReadSpeaker › | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://get.teamviewer.com/6q6yh2x | Teamviewer
+Länk till annan webbplats, öppnas i nytt fönster. | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://www.rattvik.se/login/ad.html |  | 
+https://portal.office.com/ |  | 
+https://www.facebook.com/pages/R%C3%A4ttviks-kommun/184653194905620 |  | 
+https://www.instagram.com/rattvikskommun/ |  | 
+https://www.linkedin.com/company/rattvikskommun/ |  | 
+https://www.rattvik.se/informationslankar/om-cookies.html | Läs mer i vår cookiepolicy | Vi använder kakor (cookies) på vår webbplats för att den ska fungera så bra som möjligt. Du kan läsa mer om hur vi använ
+
+## Knappar
+Sök
+Lyssna
+Meny
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;" data-rsevent-id="rs_219043"> <div style="" id="svid10_211ac4b4171ac43d048c5b64" class="sv-layout"><div class="sv-custom-module sv-fontAwesomeFree sv-skip-spacer sv-template-portlet " id="svid12_51b0454817a75e596eacb8da"><div id="FontAwesomeFree"><!-- Font Awesome Free --></div><div data-cid="c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c"><!-- Font Awesome Free for SiteVision Version: 5.15.3 App: fontAwesomeFree --></div><script nonce="">AppRegistry.registerBootstrapData('12.51b0454817a75e596eacb8da','c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.51b0454817a75e596eacb8da',{"appVersion":"5.15.3","appIdentifier":"fontAwesomeFree","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'fontAwesomeFree|5.15.3',htmlElementId:'svid12_51b0454817a75e596eacb8da',route:'/',portletId:'12.51b0454817a75e596eacb8da',locale:'sv-SE',defaultLocale:'en',webAppId:'fontAwesomeFree',webAppVersion:'5.15.3',webAppAopId:'360.51b0454817a75e596eacb8bf',webAppImportTime:'1627457767627',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-vertical sv-layout sv-template-layout" style="background-color:#f7f7f7;min-height: 100vh; " id="svid10_211ac4b4171ac43d048c5b69"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_211ac4b4171ac43d048c5b76"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6ef1593017cdf8d194bbca7"><div id="Gatillinnehallet"><!-- Gå till innehållet --></div><a href="#hopptillinnehall" class="env-assistive-text env-assistive-text--focusable"> Gå till innehåll </a></div> <div class="sv-fluid-grid sv-grid-grid12 sv-layout ribbon-header sv-template-layout" style="background-color:#ffffff;padding-bottom:1em" id="svid10_211ac4b4171ac43d048c5b77"><div class="sv-row sv-layout sv-hide-sv-bp-telefon sv-skip-spacer sv-template-layout" style="padding-top:0.6em" id="svid10_211ac4b4171ac43d048c5b7a"><div class="sv-layout sv-skip-spacer sv-column-5 sv-template-layout" style="padding-left:5.8em" id="svid10_211ac4b4171ac43d048c5b7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4a3aa69717229d52a7f73244"><div class="sv-image-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b7e"><div id="LoggaHeaderdesktop"><!-- Logga - Header desktop --></div><a href="/"><img alt="Rättviks kommun" class="sv-noborder sv-svg" style="max-width:276px;max-height:100px" width="276" height="100" src="/images/18.18b60de17368fa286f699c4/1595930241016/Kommunloggan.svg"></a></div> </div> </div> <div class="sv-layout sv-column-7 sv-template-layout" id="svid10_211ac4b4171ac43d048ce8b7"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" style="margin-left:1em;position:relative;float:right" id="svid10_3f4cab7171ac54930aee92f"><div class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" style="padding-right:2em" id="svid10_211ac4b4171ac43d048c5b82"><div class="sv-jcrmenu-portlet sv-portlet sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b87"><div id="Toppmeny"><!-- Toppmeny --></div> <ul style="display:inline; padding-left:0; margin-left:0; list-style:none" class="topmenu"> <li class="sv-inline"><a href="/kommun-och-politik/kontakta-oss.html" class="toppmeny" style="vertical-align:middle; margin-left:0.15em">Kontakta</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a id="show-readspeaker" class="toppmeny" href="#" style="vertical-align:middle; margin-left:0.15em">Lyssna</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a href="/sidor-utanfor-meny-och-sok/translate.html" class="toppmeny" style="vertical-align:middle
+
+######## SIDA: https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html#
+Titel: 22 oktober 2026 - Rättviks kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html#hopptillinnehall | Gå till innehåll | Gå till innehåll
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html# | Lyssna | • Lyssna
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | • Translate
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/ |  | 
+https://www.rattvik.se/forskola-skola-och-utbildning.html | Förskola, skola och utbildning | Förskola, skola och utbildning
+https://www.rattvik.se/omsorg-och-stod.html | Omsorg och stöd | Omsorg och stöd
+https://www.rattvik.se/uppleva-och-gora.html | Uppleva och göra | Uppleva och göra
+https://www.rattvik.se/bygga-bo-och-miljo.html | Bygga, bo och miljö | Bygga, bo och miljö
+https://www.rattvik.se/jobb-och-foretagande.html | Jobb och företagande | Jobb och företagande
+https://www.rattvik.se/trafik-och-gator.html | Trafik och gator | Trafik och gator
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik Sök politiker Kommunfakta Kommunens organisation Politik och demokrati Valresultat och mandatfördelni
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta | Kontakta
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/translate.html | Translate | Translate
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun+46-(0)248-70 000kommun@rattvik.se
+https://www.rattvik.se/kommun-och-politik.html | Kommun och politik | Kommun och politik
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | » Politik och demokrati
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | » Möten och protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | » Webbradio
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | » 2026
+https://www.rattvik.se/kommun-och-politik/sok-politiker.html | Sök politiker | Sök politiker
+https://www.rattvik.se/kommun-och-politik/kommunfakta.html | Kommunfakta | Kommunfakta
+https://www.rattvik.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation | Kommunens organisation
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati.html | Politik och demokrati | Politik och demokrati Valresultat och mandatfördelning Hur går det till att fatta beslut? Vad betyder orden? Nämnder och
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning | Valresultat och mandatfördelning
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/hur-gar-det-till-att-fatta-beslut.html | Hur går det till att fatta beslut? | Hur går det till att fatta beslut?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden.html | Vad betyder orden? | Vad betyder orden?
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/namnder-och-forvaltningar.html | Nämnder och förvaltningar | Nämnder och förvaltningar
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll.html | Möten och protokoll | Möten och protokoll Kallelser Protokoll Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 202
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kallelser.html | Kallelser | Kallelser
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/protokoll.html | Protokoll | Protokoll
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio.html | Webbradio | Webbradio 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026 2025 2024 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026.html | 2026 | 2026 22 oktober 2026 11 juni 2026 7 maj 2026 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html | 22 oktober 2026 | 22 oktober 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/11-juni-2026.html | 11 juni 2026 | 11 juni 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/7-maj-2026.html | 7 maj 2026 | 7 maj 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/5-mars-2026.html | 5 mars 2026 | 5 mars 2026
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2025.html | 2025 | 2025
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2024.html | 2024 | 2024
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2023.html | 2023 | 2023
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter.html | Dialog och synpunkter | Dialog och synpunkter
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/val-2026.html | Val 2026 | Val 2026
+https://www.rattvik.se/kommun-och-politik/diarium-arkiv-och-sekretess.html | Diarium, arkiv och sekretess | Diarium, arkiv och sekretess
+https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet.html | Överklaga beslut, rättssäkerhet | Överklaga beslut, rättssäkerhet
+https://www.rattvik.se/kommun-och-politik/service-och-kvalitetsarbete.html | Service och kvalitetsarbete | Service och kvalitetsarbete
+https://www.rattvik.se/kommun-och-politik/betalning-av-fakturor.html | Betalning av fakturor | Betalning av fakturor
+https://www.rattvik.se/kommun-och-politik/blanketter.html | Blanketter | Blanketter
+https://www.rattvik.se/kommun-och-politik/dokumentarkiv.html | Dokumentarkiv | Dokumentarkiv
+https://www.rattvik.se/kommun-och-politik/hallbart-rattvik.html | Hållbart Rättvik | Hållbart Rättvik
+https://www.rattvik.se/kommun-och-politik/kontakta-oss.html | Kontakta oss | Kontakta oss
+https://www.rattvik.se/kommun-och-politik/utgivningsbevis-for-databas.html | Utgivningsbevis för databas | Utgivningsbevis för databas
+https://www.rattvik.se/kommun-och-politik/minoritetspolitiskt-arbete.html | Minoritetspolitiskt arbete | Minoritetspolitiskt arbete
+https://www.rattvik.se/omsorg-och-stod/ekonomi-och-pengar/konsumentvagledning-.html | Konsumentvägledning | Konsumentvägledning
+https://www.rattvik.se/omsorg-och-stod/borgerlig-vigsel.html | Borgerlig vigsel | Borgerlig vigsel
+https://www.rattvik.se/omsorg-och-stod/trygg-och-saker/kris-och-beredskap.html | Kris och beredskap | Kris och beredskap
+https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12789&lang=sv_se&readid=svid94_1bad6dc11a12f929c332a917&voice=Maja | Lyssna | Lyssna
+http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på Facebook | Dela på Facebook
+http://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik) | Dela på Twitter | Dela på Twitter
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html | Dela på LinkedIn | Dela på LinkedIn
+mailto:?body=https%3A%2F%2Fwww.rattvik.se%2Fkommun-och-politik%2Fpolitik-och-demokrati%2Fmoten-och-protokoll%2Fwebbradio%2F2026%2F22-oktober-2026.html%20(via%20R%C3%A4ttvik)&subject=22%20oktober%202026 | Dela via email | Dela via email
+https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html.printable | Skriv ut | Skriv ut
+tel:+46248-70000 | +46-(0)248-70 000 | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+mailto:kommun@rattvik.se | kommun@rattvik.se | Rättviks kommun SE-795 80 Rättvik Telefon +46-(0)248-70 000 Org nr 212000-2171 E-post kommun@rattvik.se
+https://www.rattvik.se/informationslankar/a-o-lista.html | A–Ö-lista › | A–Ö-lista ›
+https://www.rattvik.se/informationslankar/om-cookies.html | Om cookies › | Om cookies ›
+https://www.rattvik.se/informationslankar/tillganglighetsredogorelse.html | Tillgänglighetsredogörelse › | Tillgänglighetsredogörelse ›
+https://www.rattvik.se/informationslankar/webbkarta.html | Webbkarta › | Webbkarta ›
+https://www.rattvik.se/sidor-utanfor-meny-och-sok/lyssna-med-readspeaker.html | Lyssna med ReadSpeaker › | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://get.teamviewer.com/6q6yh2x | Teamviewer
+Länk till annan webbplats, öppnas i nytt fönster. | Lyssna med ReadSpeaker › Teamviewer Länk till annan webbplats, öppnas i nytt fönster.
+https://www.rattvik.se/login/ad.html |  | 
+https://portal.office.com/ |  | 
+https://www.facebook.com/pages/R%C3%A4ttviks-kommun/184653194905620 |  | 
+https://www.instagram.com/rattvikskommun/ |  | 
+https://www.linkedin.com/company/rattvikskommun/ |  | 
+https://www.rattvik.se/informationslankar/om-cookies.html | Läs mer i vår cookiepolicy | Vi använder kakor (cookies) på vår webbplats för att den ska fungera så bra som möjligt. Du kan läsa mer om hur vi använ
+
+## Knappar
+Sök
+Lyssna
+Meny
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+Öppna menystruktur
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;" data-rsevent-id="rs_219043"> <div style="" id="svid10_211ac4b4171ac43d048c5b64" class="sv-layout"><div class="sv-custom-module sv-fontAwesomeFree sv-skip-spacer sv-template-portlet " id="svid12_51b0454817a75e596eacb8da"><div id="FontAwesomeFree"><!-- Font Awesome Free --></div><div data-cid="c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c"><!-- Font Awesome Free for SiteVision Version: 5.15.3 App: fontAwesomeFree --></div><script nonce="">AppRegistry.registerBootstrapData('12.51b0454817a75e596eacb8da','c9cc8ded-8fa9-3ab3-c1d9-bec7edabb53c','main',[],undefined);</script><script nonce="">AppRegistry.registerInitialState('12.51b0454817a75e596eacb8da',{"appVersion":"5.15.3","appIdentifier":"fontAwesomeFree","route":"/"});</script> <script nonce="">AppRegistry.registerApp({applicationId:'fontAwesomeFree|5.15.3',htmlElementId:'svid12_51b0454817a75e596eacb8da',route:'/',portletId:'12.51b0454817a75e596eacb8da',locale:'sv-SE',defaultLocale:'en',webAppId:'fontAwesomeFree',webAppVersion:'5.15.3',webAppAopId:'360.51b0454817a75e596eacb8bf',webAppImportTime:'1627457767627',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-vertical sv-layout sv-template-layout" style="background-color:#f7f7f7;min-height: 100vh; " id="svid10_211ac4b4171ac43d048c5b69"><header class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_211ac4b4171ac43d048c5b76"><div class="sv-html-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6ef1593017cdf8d194bbca7"><div id="Gatillinnehallet"><!-- Gå till innehållet --></div><a href="#hopptillinnehall" class="env-assistive-text env-assistive-text--focusable"> Gå till innehåll </a></div> <div class="sv-fluid-grid sv-grid-grid12 sv-layout ribbon-header sv-template-layout" style="background-color:#ffffff;padding-bottom:1em" id="svid10_211ac4b4171ac43d048c5b77"><div class="sv-row sv-layout sv-hide-sv-bp-telefon sv-skip-spacer sv-template-layout" style="padding-top:0.6em" id="svid10_211ac4b4171ac43d048c5b7a"><div class="sv-layout sv-skip-spacer sv-column-5 sv-template-layout" style="padding-left:5.8em" id="svid10_211ac4b4171ac43d048c5b7b"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_4a3aa69717229d52a7f73244"><div class="sv-image-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b7e"><div id="LoggaHeaderdesktop"><!-- Logga - Header desktop --></div><a href="/"><img alt="Rättviks kommun" class="sv-noborder sv-svg" style="max-width:276px;max-height:100px" width="276" height="100" src="/images/18.18b60de17368fa286f699c4/1595930241016/Kommunloggan.svg"></a></div> </div> </div> <div class="sv-layout sv-column-7 sv-template-layout" id="svid10_211ac4b4171ac43d048ce8b7"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" style="margin-left:1em;position:relative;float:right" id="svid10_3f4cab7171ac54930aee92f"><div class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" style="padding-right:2em" id="svid10_211ac4b4171ac43d048c5b82"><div class="sv-jcrmenu-portlet sv-portlet sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_211ac4b4171ac43d048c5b87"><div id="Toppmeny"><!-- Toppmeny --></div> <ul style="display:inline; padding-left:0; margin-left:0; list-style:none" class="topmenu"> <li class="sv-inline"><a href="/kommun-och-politik/kontakta-oss.html" class="toppmeny" style="vertical-align:middle; margin-left:0.15em">Kontakta</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a id="show-readspeaker" class="toppmeny" href="#" style="vertical-align:middle; margin-left:0.15em">Lyssna</a></li> <li class="sv-inline"><span class="toppmeny" style="vertical-align:middle; margin-left:0.15em">• </span><a href="/sidor-utanfor-meny-och-sok/translate.html" class="toppmeny" style="vertical-align:middle

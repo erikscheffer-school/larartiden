@@ -1,0 +1,611 @@
+Kommun: Dorotea  nyckel: dorotea.se
+
+######## SIDA: https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/
+Titel: Kommunstyrelse | Dorotea Kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/
+GET 200 fetch application/json; charset=utf-8 https://www.dorotea.se/umbraco/delivery/api/v2/media/?take=300&fields=properties%5Bname%5D&fetch=children%3Afb3f7f82-fea4-4a82-99a4-16a488dbbadc
+      {"total":2,"items":[{"path":"/kallelser, protokoll/kommunstyrelse/kallelser/","createDate":"2025-05-03T07:31:05.21Z","updateDate":"2025-05-03T07:31:05.21Z","focalPoint":null,"crops":null,"id":"d69b8013-a11d-4b50-956b-533515f9e8f8","name":"Kallelser","mediaType":"Folder","url":"","extension":null,"width":null,"height":null,"bytes":null,"properties":{}},{"path":"/kallelser, protokoll/kommunstyrelse/protokoll/","createDate":"2025-05-03T07:31:59.69Z","updateDate":"2025-05-03T07:31:59.69Z","focalPoint":null,"crops":null,"id":"4911dcd1-f916-451f-85b9-2678d0f3433e","name":"Protokoll","mediaType":"Folder","url":"","extension":null,"width":null,"height":null,"bytes":null,"properties":{}}]}
+POST 200 xhr application/json; charset=utf-8 https://swedencentral-0.in.applicationinsights.azure.com//v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":null,"errors":[]}
+      POST: [{"time":"2026-11-09T07:07:30.845Z","iKey":"bdf3faa4-8dc1-4838-a92d-95565d4e0961","name":"Microsoft.ApplicationInsights.bdf3faa48dc14838a92d95565d4e0961.Pageview","tags":{"ai.user.id":"bduLZyrDDF05xSFVCEKZkD","ai.session.id":"USV8zfGRQgHN5NV1wfxSGK","ai.device.id":"browser","ai.device.type":"Browser
+
+## Länkar (href | text | sammanhang)
+https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.dorotea.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.dorotea.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ | Förskola och pedagogisk barnomsorg | Förskola och pedagogisk barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/ | Förskola - Aarhskuvle | Förskola - Aarhskuvle
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/ | Avgiftsregler förskola | Avgiftsregler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/ | Regler förskola | Regler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/ | Ansök eller säg upp plats | Ansök eller säg upp plats
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ | Familjedaghem, pedagogisk omsorg | Familjedaghem, pedagogisk omsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ravlyan/ | Rävlyan | Rävlyan
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/starta-fristaende-verksamhet/ | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/ | Grundskolor | Grundskolor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/strandenskolan/ | Strandenskolan | Strandenskolan
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/risbacks-fjallskola/ | Risbäcks fjällskola | Risbäcks fjällskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/vara-fritidshem/ | Våra fritidshem | Våra fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/bedomning-och-betyg/ | Bedömning och betyg | Bedömning och betyg
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/terminer-lov-och-ledigheter/ | Terminer, lov och ledigheter | Terminer, lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/ | Skolskjuts | Skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/vantis-i-vantan-pa-skolskjuts/ | Väntis - I väntan på skolskjuts | Väntis - I väntan på skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/infomentor/ | Infomentor | Infomentor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/prao/ | PRAO | PRAO
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/inackorderingsbidrag/ | Inackorderingsbidrag | Inackorderingsbidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/traningsskola/ | Träningsskola | Träningsskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/ | Gymnasium | Gymnasium
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/anpassad-gymnasieskola/ | Anpassad gymnasieskola | Anpassad gymnasieskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/val-och-antagning/ | Val och antagning | Val och antagning
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/betyg-individuell-utvecklingsplan-iup/ | Betyg, individuell utvecklingsplan, IUP | Betyg, individuell utvecklingsplan, IUP
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/lov-och-ledigheter/ | Lov och ledigheter | Lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/resor/ | Resor | Resor
+https://www.dorotea.se/utbildning-och-barnomsorg/kommunala-aktivitetsansvaret/ | Kommunala aktivitetsansvaret | Kommunala aktivitetsansvaret
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/ | Vuxenutbildning | Vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/information-och-ansokan/ | Information och ansökan | Information och ansökan
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/grundlaggande-och-gymnasial-vuxenutbildning/ | Grundläggande och gymnasial vuxenutbildning | Grundläggande och gymnasial vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/info-till-studerande-csn/ | Info till studerande / CSN | Info till studerande / CSN
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sfi-svenska-for-invandrare/ | SFI, Svenska för invandrare | SFI, Svenska för invandrare
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/studievagledning/ | Studievägledning | Studievägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sarvux/ | Särvux | Särvux
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/ | Särskilda behov, extra stöd | Särskilda behov, extra stöd
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/atgardsprogram-och-utvecklingsplan/ | Åtgärdsprogram och utvecklingsplan | Åtgärdsprogram och utvecklingsplan
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/specialpedagogik/ | Specialpedagogik | Specialpedagogik
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/ | Elevhälsa, Hälsovård | Elevhälsa, Hälsovård
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/skoterska-och-lakare/ | Sköterska och läkare | Sköterska och läkare
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/kurator-och-psykolog/ | Kurator och psykolog | Kurator och psykolog
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/halsobesok-och-vaccinationer/ | Hälsobesök och vaccinationer | Hälsobesök och vaccinationer
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/framjande-och-forebyggande-arbete/ | Främjande och förebyggande arbete | Främjande och förebyggande arbete
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/ | Likabehandling, trygghet och studiero | Likabehandling, trygghet och studiero
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/likabehandling/ | Likabehandling | Likabehandling
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/tillganglighet-i-skolan/ | Tillgänglighet i skolan | Tillgänglighet i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/studie-och-yrkesvagledning/ | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/forsakringar/ | Försäkringar | Försäkringar
+https://www.dorotea.se/utbildning-och-barnomsorg/modersmal/ | Modersmål | Modersmål
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/ | Miljö i skolan | Miljö i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/buller-i-skolmiljon/ | Buller i skolmiljön | Buller i skolmiljön
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/luft-och-ventilation/ | Luft och ventilation | Luft och ventilation
+https://www.dorotea.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.dorotea.se/utbildning-och-barnomsorg/fragor-och-svar/ | Frågor och svar | Frågor och svar
+https://www.dorotea.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/akuta-psykiska-problem/ | Akuta psykiska problem | Akuta psykiska problem
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/ | Kristeam och krisberedskap | Kristeam och krisberedskap
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/krishjalp-fran-posom/ | Krishjälp från POSOM | Krishjälp från POSOM
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kvinnojour-och-mansjour/ | Kvinnojour och mansjour | Kvinnojour och mansjour
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/orostelefonen/ | Orostelefonen | Orostelefonen
+https://www.dorotea.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.dorotea.se/omsorg-och-stod/anhoriga/ | Anhöriga | Anhöriga
+https://www.dorotea.se/omsorg-och-stod/anhoriga/anhorigstod/ | Anhörigstöd | Anhörigstöd
+https://www.dorotea.se/omsorg-och-stod/anhoriga/frivilligt-arbete-och-organisationer/ | Frivilligt arbete och organisationer | Frivilligt arbete och organisationer
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravning/ | Begravning | Begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravningshjalp/ | Begravningshjälp | Begravningshjälp
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/bouppteckning/ | Bouppteckning | Bouppteckning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ | Ekonomi, försörjningsstöd och budget- och skuldrådgivning | Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/bidragsnorm/ | Bidragsnorm | Bidragsnorm
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ansokan-om-forsorjningsstod/ | Ansökan om försörjningsstöd | Ansökan om försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/socialregister-och-tystnadsplikt/ | Socialregister och tystnadsplikt | Socialregister och tystnadsplikt
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/studerande-med-sommaruppehall/ | Studerande med sommaruppehåll | Studerande med sommaruppehåll
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/juridisk-hjalp/ | Juridisk hjälp | Juridisk hjälp
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/arbetsloshet/ | Arbetslöshet | Arbetslöshet
+https://www.dorotea.se/omsorg-och-stod/god-man-forvaltare-formyndare/ | God man, förvaltare, förmyndare | God man, förvaltare, förmyndare
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/ | Familj, barn och ungdom | Familj, barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/elever-med-sarskilda-behov/ | Elever med särskilda behov | Elever med särskilda behov
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/misstanke-om-barn-som-far-illa/ | Misstanke om barn som far illa | Misstanke om barn som far illa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ | Stöd till barn och ungdom | Stöd till barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/elevhalsan/ | Elevhälsan | Elevhälsan
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/skaffa-en-mentor/ | Skaffa en mentor | Skaffa en mentor
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/ | Stöd till familjen | Stöd till familjen
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjehem/ | Familjehem | Familjehem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ | Vårdnad, boende, umgänge | Vårdnad, boende, umgänge
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/samarbetsavtal/ | Samarbetsavtal | Samarbetsavtal
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/namnarende/ | Namnärende | Namnärende
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ordforklaringar/ | Ordförklaringar | Ordförklaringar
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/separation-skilsmassa/ | Separation, skilsmässa | Separation, skilsmässa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/adoption/ | Adoption | Adoption
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/kontaktfamilj-kontaktperson/ | Kontaktfamilj, kontaktperson | Kontaktfamilj, kontaktperson
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/behandlingshem-hvb/ | Behandlingshem, HVB | Behandlingshem, HVB
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/ | Hjälp till barn och unga | Hjälp till barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/akut-hjalp-for-barn-och-unga/ | Akut hjälp för barn och unga | Akut hjälp för barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ | Länktips | Länktips
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/adhd/ | ADHD | ADHD
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/alkohol-och-droger/ | Alkohol och droger | Alkohol och droger
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/anorexi/ | Anorexi | Anorexi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/aspergers-syndrom/ | Aspergers syndrom | Aspergers syndrom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/autism/ | Autism | Autism
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bipolar-sjukdom/ | Bipolär sjukdom | Bipolär sjukdom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/blyghet-och-social-fobi/ | Blyghet och social fobi | Blyghet och social fobi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bulimi/ | Bulimi | Bulimi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/depression/ | Depression | Depression
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dyslexi-las-och-skrivsvarigheter/ | Dyslexi (läs- och skrivsvårigheter) | Dyslexi (läs- och skrivsvårigheter)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dodsfall-och-sorg/ | Dödsfall och sorg | Dödsfall och sorg
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/fobier/ | Fobier | Fobier
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/funktionsnedsattning/ | Funktionsnedsättning | Funktionsnedsättning
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/heder/ | Heder | Heder
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ilska-och-utbrott/ | Ilska och utbrott | Ilska och utbrott
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/koncentrationssvarigheter/ | Koncentrationssvårigheter | Koncentrationssvårigheter
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kriminalitet/ | Kriminalitet | Kriminalitet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kris-i-livet/ | Kris i livet | Kris i livet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/konsinkongruens-nar-kropp-och-kon-inte-stammer-overens/ | Könsinkongruens (när kropp och kön inte stämmer överens) | Könsinkongruens (när kropp och kön inte stämmer överens)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ledsen-och-nedstamd/ | Ledsen och nedstämd | Ledsen och nedstämd
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/mobbing-och-krankande-behandling/ | Mobbing och kränkande behandling | Mobbing och kränkande behandling
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/oro/ | Oro | Oro
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/problem-i-skolan/ | Problem i skolan | Problem i skolan
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/psykos/ | Psykos | Psykos
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/riskbruk-och-missbruk/ | Riskbruk och missbruk | Riskbruk och missbruk
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sexuella-overgrepp/ | Sexuella övergrepp | Sexuella övergrepp
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvmordstankar/ | Självmordstankar | Självmordstankar
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvskadebeteende/ | Självskadebeteende | Självskadebeteende
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasium
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Akut hjälp
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Stöd till familjen
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Hjälp till barn och unga
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldre och andra i behov av stöd
+Visa undersidor till Äldre och andra i behov av stöd
+
+## HTML (början av body)
+<body class="page page"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/" class="standby nav-link">Förskola och pedagogisk barnomsorg</a> <button class="btn-toggle" aria-controls="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" aria-expanded="false" data-name="Förskola och pedagogisk barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola - Aarhskuvle</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/" class="standby nav-link">Avgiftsregler förskola</a> <button class="btn-toggle" aria-controls="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" aria-expanded="false" data-name="Avgiftsregler förskola" aria-label="Visa undersidor till Förskola och pedagogisk barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" class="menu-sub" aria-hidden="true"> <ul class="level-3" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/" class="standby nav-link">Regler förskola</a> </div> </li> </ul> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/" class="standby nav-link">Ansök eller säg upp plats</a> </div> </li> <li clas
+
+######## SIDA: https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/#main
+Titel: Kommunstyrelse | Dorotea Kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.dorotea.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.dorotea.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ | Förskola och pedagogisk barnomsorg | Förskola och pedagogisk barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/ | Förskola - Aarhskuvle | Förskola - Aarhskuvle
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/ | Avgiftsregler förskola | Avgiftsregler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/ | Regler förskola | Regler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/ | Ansök eller säg upp plats | Ansök eller säg upp plats
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ | Familjedaghem, pedagogisk omsorg | Familjedaghem, pedagogisk omsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ravlyan/ | Rävlyan | Rävlyan
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/starta-fristaende-verksamhet/ | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/ | Grundskolor | Grundskolor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/strandenskolan/ | Strandenskolan | Strandenskolan
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/risbacks-fjallskola/ | Risbäcks fjällskola | Risbäcks fjällskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/vara-fritidshem/ | Våra fritidshem | Våra fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/bedomning-och-betyg/ | Bedömning och betyg | Bedömning och betyg
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/terminer-lov-och-ledigheter/ | Terminer, lov och ledigheter | Terminer, lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/ | Skolskjuts | Skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/vantis-i-vantan-pa-skolskjuts/ | Väntis - I väntan på skolskjuts | Väntis - I väntan på skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/infomentor/ | Infomentor | Infomentor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/prao/ | PRAO | PRAO
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/inackorderingsbidrag/ | Inackorderingsbidrag | Inackorderingsbidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/traningsskola/ | Träningsskola | Träningsskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/ | Gymnasium | Gymnasium
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/anpassad-gymnasieskola/ | Anpassad gymnasieskola | Anpassad gymnasieskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/val-och-antagning/ | Val och antagning | Val och antagning
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/betyg-individuell-utvecklingsplan-iup/ | Betyg, individuell utvecklingsplan, IUP | Betyg, individuell utvecklingsplan, IUP
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/lov-och-ledigheter/ | Lov och ledigheter | Lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/resor/ | Resor | Resor
+https://www.dorotea.se/utbildning-och-barnomsorg/kommunala-aktivitetsansvaret/ | Kommunala aktivitetsansvaret | Kommunala aktivitetsansvaret
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/ | Vuxenutbildning | Vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/information-och-ansokan/ | Information och ansökan | Information och ansökan
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/grundlaggande-och-gymnasial-vuxenutbildning/ | Grundläggande och gymnasial vuxenutbildning | Grundläggande och gymnasial vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/info-till-studerande-csn/ | Info till studerande / CSN | Info till studerande / CSN
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sfi-svenska-for-invandrare/ | SFI, Svenska för invandrare | SFI, Svenska för invandrare
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/studievagledning/ | Studievägledning | Studievägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sarvux/ | Särvux | Särvux
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/ | Särskilda behov, extra stöd | Särskilda behov, extra stöd
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/atgardsprogram-och-utvecklingsplan/ | Åtgärdsprogram och utvecklingsplan | Åtgärdsprogram och utvecklingsplan
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/specialpedagogik/ | Specialpedagogik | Specialpedagogik
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/ | Elevhälsa, Hälsovård | Elevhälsa, Hälsovård
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/skoterska-och-lakare/ | Sköterska och läkare | Sköterska och läkare
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/kurator-och-psykolog/ | Kurator och psykolog | Kurator och psykolog
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/halsobesok-och-vaccinationer/ | Hälsobesök och vaccinationer | Hälsobesök och vaccinationer
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/framjande-och-forebyggande-arbete/ | Främjande och förebyggande arbete | Främjande och förebyggande arbete
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/ | Likabehandling, trygghet och studiero | Likabehandling, trygghet och studiero
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/likabehandling/ | Likabehandling | Likabehandling
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/tillganglighet-i-skolan/ | Tillgänglighet i skolan | Tillgänglighet i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/studie-och-yrkesvagledning/ | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/forsakringar/ | Försäkringar | Försäkringar
+https://www.dorotea.se/utbildning-och-barnomsorg/modersmal/ | Modersmål | Modersmål
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/ | Miljö i skolan | Miljö i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/buller-i-skolmiljon/ | Buller i skolmiljön | Buller i skolmiljön
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/luft-och-ventilation/ | Luft och ventilation | Luft och ventilation
+https://www.dorotea.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.dorotea.se/utbildning-och-barnomsorg/fragor-och-svar/ | Frågor och svar | Frågor och svar
+https://www.dorotea.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/akuta-psykiska-problem/ | Akuta psykiska problem | Akuta psykiska problem
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/ | Kristeam och krisberedskap | Kristeam och krisberedskap
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/krishjalp-fran-posom/ | Krishjälp från POSOM | Krishjälp från POSOM
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kvinnojour-och-mansjour/ | Kvinnojour och mansjour | Kvinnojour och mansjour
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/orostelefonen/ | Orostelefonen | Orostelefonen
+https://www.dorotea.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.dorotea.se/omsorg-och-stod/anhoriga/ | Anhöriga | Anhöriga
+https://www.dorotea.se/omsorg-och-stod/anhoriga/anhorigstod/ | Anhörigstöd | Anhörigstöd
+https://www.dorotea.se/omsorg-och-stod/anhoriga/frivilligt-arbete-och-organisationer/ | Frivilligt arbete och organisationer | Frivilligt arbete och organisationer
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravning/ | Begravning | Begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravningshjalp/ | Begravningshjälp | Begravningshjälp
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/bouppteckning/ | Bouppteckning | Bouppteckning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ | Ekonomi, försörjningsstöd och budget- och skuldrådgivning | Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/bidragsnorm/ | Bidragsnorm | Bidragsnorm
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ansokan-om-forsorjningsstod/ | Ansökan om försörjningsstöd | Ansökan om försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/socialregister-och-tystnadsplikt/ | Socialregister och tystnadsplikt | Socialregister och tystnadsplikt
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/studerande-med-sommaruppehall/ | Studerande med sommaruppehåll | Studerande med sommaruppehåll
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/juridisk-hjalp/ | Juridisk hjälp | Juridisk hjälp
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/arbetsloshet/ | Arbetslöshet | Arbetslöshet
+https://www.dorotea.se/omsorg-och-stod/god-man-forvaltare-formyndare/ | God man, förvaltare, förmyndare | God man, förvaltare, förmyndare
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/ | Familj, barn och ungdom | Familj, barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/elever-med-sarskilda-behov/ | Elever med särskilda behov | Elever med särskilda behov
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/misstanke-om-barn-som-far-illa/ | Misstanke om barn som far illa | Misstanke om barn som far illa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ | Stöd till barn och ungdom | Stöd till barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/elevhalsan/ | Elevhälsan | Elevhälsan
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/skaffa-en-mentor/ | Skaffa en mentor | Skaffa en mentor
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/ | Stöd till familjen | Stöd till familjen
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjehem/ | Familjehem | Familjehem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ | Vårdnad, boende, umgänge | Vårdnad, boende, umgänge
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/samarbetsavtal/ | Samarbetsavtal | Samarbetsavtal
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/namnarende/ | Namnärende | Namnärende
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ordforklaringar/ | Ordförklaringar | Ordförklaringar
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/separation-skilsmassa/ | Separation, skilsmässa | Separation, skilsmässa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/adoption/ | Adoption | Adoption
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/kontaktfamilj-kontaktperson/ | Kontaktfamilj, kontaktperson | Kontaktfamilj, kontaktperson
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/behandlingshem-hvb/ | Behandlingshem, HVB | Behandlingshem, HVB
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/ | Hjälp till barn och unga | Hjälp till barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/akut-hjalp-for-barn-och-unga/ | Akut hjälp för barn och unga | Akut hjälp för barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ | Länktips | Länktips
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/adhd/ | ADHD | ADHD
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/alkohol-och-droger/ | Alkohol och droger | Alkohol och droger
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/anorexi/ | Anorexi | Anorexi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/aspergers-syndrom/ | Aspergers syndrom | Aspergers syndrom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/autism/ | Autism | Autism
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bipolar-sjukdom/ | Bipolär sjukdom | Bipolär sjukdom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/blyghet-och-social-fobi/ | Blyghet och social fobi | Blyghet och social fobi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bulimi/ | Bulimi | Bulimi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/depression/ | Depression | Depression
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dyslexi-las-och-skrivsvarigheter/ | Dyslexi (läs- och skrivsvårigheter) | Dyslexi (läs- och skrivsvårigheter)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dodsfall-och-sorg/ | Dödsfall och sorg | Dödsfall och sorg
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/fobier/ | Fobier | Fobier
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/funktionsnedsattning/ | Funktionsnedsättning | Funktionsnedsättning
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/heder/ | Heder | Heder
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ilska-och-utbrott/ | Ilska och utbrott | Ilska och utbrott
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/koncentrationssvarigheter/ | Koncentrationssvårigheter | Koncentrationssvårigheter
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kriminalitet/ | Kriminalitet | Kriminalitet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kris-i-livet/ | Kris i livet | Kris i livet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/konsinkongruens-nar-kropp-och-kon-inte-stammer-overens/ | Könsinkongruens (när kropp och kön inte stämmer överens) | Könsinkongruens (när kropp och kön inte stämmer överens)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ledsen-och-nedstamd/ | Ledsen och nedstämd | Ledsen och nedstämd
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/mobbing-och-krankande-behandling/ | Mobbing och kränkande behandling | Mobbing och kränkande behandling
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/oro/ | Oro | Oro
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/problem-i-skolan/ | Problem i skolan | Problem i skolan
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/psykos/ | Psykos | Psykos
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/riskbruk-och-missbruk/ | Riskbruk och missbruk | Riskbruk och missbruk
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sexuella-overgrepp/ | Sexuella övergrepp | Sexuella övergrepp
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvmordstankar/ | Självmordstankar | Självmordstankar
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvskadebeteende/ | Självskadebeteende | Självskadebeteende
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasium
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Akut hjälp
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Stöd till familjen
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Hjälp till barn och unga
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldre och andra i behov av stöd
+Visa undersidor till Äldre och andra i behov av stöd
+
+## HTML (början av body)
+<body class="page page"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/" class="standby nav-link">Förskola och pedagogisk barnomsorg</a> <button class="btn-toggle" aria-controls="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" aria-expanded="false" data-name="Förskola och pedagogisk barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola - Aarhskuvle</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/" class="standby nav-link">Avgiftsregler förskola</a> <button class="btn-toggle" aria-controls="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" aria-expanded="false" data-name="Avgiftsregler förskola" aria-label="Visa undersidor till Förskola och pedagogisk barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" class="menu-sub" aria-hidden="true"> <ul class="level-3" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/" class="standby nav-link">Regler förskola</a> </div> </li> </ul> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/" class="standby nav-link">Ansök eller säg upp plats</a> </div> </li> <li clas
+
+######## SIDA: https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/motesplatsen-en-verksamhet-for-aldre/
+Titel: Mötesplatsen en verksamhet för äldre | Dorotea Kommun
+
+## Dataanrop
+GET 200 document text/html; charset=utf-8 https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/motesplatsen-en-verksamhet-for-aldre/
+POST 200 xhr application/json; charset=utf-8 https://swedencentral-0.in.applicationinsights.azure.com//v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":null,"errors":[]}
+      POST: [{"time":"2026-11-09T07:07:37.308Z","iKey":"bdf3faa4-8dc1-4838-a92d-95565d4e0961","name":"Microsoft.ApplicationInsights.bdf3faa48dc14838a92d95565d4e0961.Pageview","tags":{"ai.user.id":"bduLZyrDDF05xSFVCEKZkD","ai.session.id":"USV8zfGRQgHN5NV1wfxSGK","ai.device.id":"browser","ai.device.type":"Browser
+
+## Länkar (href | text | sammanhang)
+https://www.dorotea.se/omsorg-och-stod/aldre-och-andra-i-behov-av-stod/motesplatsen-en-verksamhet-for-aldre/#main | Till innehåll | Till innehåll Sök Sök Meny
+https://www.dorotea.se/ | Till Startsidan | Till innehåll Sök Sök Meny
+https://www.dorotea.se/anslagstavla/ | Anslagstavla | Anslagstavla
+https://www.dorotea.se/utbildning-och-barnomsorg/ | Utbildning och barnomsorg | Utbildning och barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ | Förskola och pedagogisk barnomsorg | Förskola och pedagogisk barnomsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/ | Förskola - Aarhskuvle | Förskola - Aarhskuvle
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/ | Avgiftsregler förskola | Avgiftsregler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/ | Regler förskola | Regler förskola
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/ | Ansök eller säg upp plats | Ansök eller säg upp plats
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ | Familjedaghem, pedagogisk omsorg | Familjedaghem, pedagogisk omsorg
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/familjedaghem-pedagogisk-omsorg/ravlyan/ | Rävlyan | Rävlyan
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/starta-fristaende-verksamhet/ | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/ | Grundskola | Grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/ | Grundskolor | Grundskolor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/strandenskolan/ | Strandenskolan | Strandenskolan
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/grundskolor/risbacks-fjallskola/ | Risbäcks fjällskola | Risbäcks fjällskola
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/ | Fritids, fritidshem | Fritids, fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/fritids-fritidshem/vara-fritidshem/ | Våra fritidshem | Våra fritidshem
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/bedomning-och-betyg/ | Bedömning och betyg | Bedömning och betyg
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/mat-lunch/ | Mat, lunch | Mat, lunch
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/terminer-lov-och-ledigheter/ | Terminer, lov och ledigheter | Terminer, lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/ | Skolskjuts | Skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/skolskjuts/vantis-i-vantan-pa-skolskjuts/ | Väntis - I väntan på skolskjuts | Väntis - I väntan på skolskjuts
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/infomentor/ | Infomentor | Infomentor
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/prao/ | PRAO | PRAO
+https://www.dorotea.se/utbildning-och-barnomsorg/grundskola/inackorderingsbidrag/ | Inackorderingsbidrag | Inackorderingsbidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/anpassad-grundskola/ | Anpassad grundskola | Anpassad grundskola
+https://www.dorotea.se/utbildning-och-barnomsorg/anpassad-grundskola/traningsskola/ | Träningsskola | Träningsskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/ | Gymnasium | Gymnasium
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/anpassad-gymnasieskola/ | Anpassad gymnasieskola | Anpassad gymnasieskola
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/val-och-antagning/ | Val och antagning | Val och antagning
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/betyg-individuell-utvecklingsplan-iup/ | Betyg, individuell utvecklingsplan, IUP | Betyg, individuell utvecklingsplan, IUP
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/byta-skola-eller-program/ | Byta skola eller program | Byta skola eller program
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/lov-och-ledigheter/ | Lov och ledigheter | Lov och ledigheter
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/ | Studiehjälp | Studiehjälp
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/studiebidrag/ | Studiebidrag | Studiebidrag
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/extra-tillagg/ | Extra tillägg | Extra tillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/studiehjalp/inackorderingstillagg/ | Inackorderingstillägg | Inackorderingstillägg
+https://www.dorotea.se/utbildning-och-barnomsorg/gymnasium/resor/ | Resor | Resor
+https://www.dorotea.se/utbildning-och-barnomsorg/kommunala-aktivitetsansvaret/ | Kommunala aktivitetsansvaret | Kommunala aktivitetsansvaret
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/ | Vuxenutbildning | Vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/information-och-ansokan/ | Information och ansökan | Information och ansökan
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/grundlaggande-och-gymnasial-vuxenutbildning/ | Grundläggande och gymnasial vuxenutbildning | Grundläggande och gymnasial vuxenutbildning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/info-till-studerande-csn/ | Info till studerande / CSN | Info till studerande / CSN
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/flyktingmottagning/ | Flyktingmottagning | Flyktingmottagning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sfi-svenska-for-invandrare/ | SFI, Svenska för invandrare | SFI, Svenska för invandrare
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/studievagledning/ | Studievägledning | Studievägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/vuxenutbildning/sarvux/ | Särvux | Särvux
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/ | Särskilda behov, extra stöd | Särskilda behov, extra stöd
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/atgardsprogram-och-utvecklingsplan/ | Åtgärdsprogram och utvecklingsplan | Åtgärdsprogram och utvecklingsplan
+https://www.dorotea.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod/specialpedagogik/ | Specialpedagogik | Specialpedagogik
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/ | Elevhälsa, Hälsovård | Elevhälsa, Hälsovård
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/skoterska-och-lakare/ | Sköterska och läkare | Sköterska och läkare
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/kurator-och-psykolog/ | Kurator och psykolog | Kurator och psykolog
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/halsobesok-och-vaccinationer/ | Hälsobesök och vaccinationer | Hälsobesök och vaccinationer
+https://www.dorotea.se/utbildning-och-barnomsorg/elevhalsa-halsovard/framjande-och-forebyggande-arbete/ | Främjande och förebyggande arbete | Främjande och förebyggande arbete
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/ | Likabehandling, trygghet och studiero | Likabehandling, trygghet och studiero
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/likabehandling/ | Likabehandling | Likabehandling
+https://www.dorotea.se/utbildning-och-barnomsorg/likabehandling-trygghet-och-studiero/tillganglighet-i-skolan/ | Tillgänglighet i skolan | Tillgänglighet i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/studie-och-yrkesvagledning/ | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.dorotea.se/utbildning-och-barnomsorg/forsakringar/ | Försäkringar | Försäkringar
+https://www.dorotea.se/utbildning-och-barnomsorg/modersmal/ | Modersmål | Modersmål
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/ | Miljö i skolan | Miljö i skolan
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/buller-i-skolmiljon/ | Buller i skolmiljön | Buller i skolmiljön
+https://www.dorotea.se/utbildning-och-barnomsorg/miljo-i-skolan/luft-och-ventilation/ | Luft och ventilation | Luft och ventilation
+https://www.dorotea.se/utbildning-och-barnomsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål | Synpunkter och klagomål
+https://www.dorotea.se/utbildning-och-barnomsorg/fragor-och-svar/ | Frågor och svar | Frågor och svar
+https://www.dorotea.se/omsorg-och-stod/ | Omsorg och stöd | Omsorg och stöd
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/ | Akut hjälp | Akut hjälp
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/akuta-psykiska-problem/ | Akuta psykiska problem | Akuta psykiska problem
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/ | Kristeam och krisberedskap | Kristeam och krisberedskap
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kristeam-och-krisberedskap/krishjalp-fran-posom/ | Krishjälp från POSOM | Krishjälp från POSOM
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/kvinnojour-och-mansjour/ | Kvinnojour och mansjour | Kvinnojour och mansjour
+https://www.dorotea.se/omsorg-och-stod/akut-hjalp/orostelefonen/ | Orostelefonen | Orostelefonen
+https://www.dorotea.se/omsorg-och-stod/psykisk-ohalsa/ | Psykisk ohälsa | Psykisk ohälsa
+https://www.dorotea.se/omsorg-och-stod/anhoriga/ | Anhöriga | Anhöriga
+https://www.dorotea.se/omsorg-och-stod/anhoriga/anhorigstod/ | Anhörigstöd | Anhörigstöd
+https://www.dorotea.se/omsorg-och-stod/anhoriga/frivilligt-arbete-och-organisationer/ | Frivilligt arbete och organisationer | Frivilligt arbete och organisationer
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/ | Dödsfall och begravning | Dödsfall och begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravning/ | Begravning | Begravning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/begravningshjalp/ | Begravningshjälp | Begravningshjälp
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/bouppteckning/ | Bouppteckning | Bouppteckning
+https://www.dorotea.se/omsorg-och-stod/dodsfall-och-begravning/dodsboanmalan/ | Dödsboanmälan | Dödsboanmälan
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ | Ekonomi, försörjningsstöd och budget- och skuldrådgivning | Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ | Ekonomiskt bistånd, försörjningsstöd | Ekonomiskt bistånd, försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/bidragsnorm/ | Bidragsnorm | Bidragsnorm
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/eu-ees-medborgare/ | EU/EES-medborgare | EU/EES-medborgare
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/ansokan-om-forsorjningsstod/ | Ansökan om försörjningsstöd | Ansökan om försörjningsstöd
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/socialregister-och-tystnadsplikt/ | Socialregister och tystnadsplikt | Socialregister och tystnadsplikt
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/ekonomiskt-bistand-forsorjningsstod/studerande-med-sommaruppehall/ | Studerande med sommaruppehåll | Studerande med sommaruppehåll
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/budget-och-skuldradgivning/ | Budget- och skuldrådgivning | Budget- och skuldrådgivning
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/juridisk-hjalp/ | Juridisk hjälp | Juridisk hjälp
+https://www.dorotea.se/omsorg-och-stod/ekonomi-forsorjningsstod-och-budget-och-skuldradgivning/arbetsloshet/ | Arbetslöshet | Arbetslöshet
+https://www.dorotea.se/omsorg-och-stod/god-man-forvaltare-formyndare/ | God man, förvaltare, förmyndare | God man, förvaltare, förmyndare
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/ | Familj, barn och ungdom | Familj, barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/elever-med-sarskilda-behov/ | Elever med särskilda behov | Elever med särskilda behov
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/misstanke-om-barn-som-far-illa/ | Misstanke om barn som far illa | Misstanke om barn som far illa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ | Stöd till barn och ungdom | Stöd till barn och ungdom
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/elevhalsan/ | Elevhälsan | Elevhälsan
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-barn-och-ungdom/skaffa-en-mentor/ | Skaffa en mentor | Skaffa en mentor
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/ | Stöd till familjen | Stöd till familjen
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/min-digitala-socialtjanst/ | Min digitala socialtjänst | Min digitala socialtjänst
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjeradgivning/ | Familjerådgivning | Familjerådgivning
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/familjehem/ | Familjehem | Familjehem
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ | Vårdnad, boende, umgänge | Vårdnad, boende, umgänge
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/samarbetsavtal/ | Samarbetsavtal | Samarbetsavtal
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/namnarende/ | Namnärende | Namnärende
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/vardnad-boende-umgange/ordforklaringar/ | Ordförklaringar | Ordförklaringar
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/separation-skilsmassa/ | Separation, skilsmässa | Separation, skilsmässa
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/adoption/ | Adoption | Adoption
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/faderskap-och-foraldraskap/ | Faderskap och föräldraskap | Faderskap och föräldraskap
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/kontaktfamilj-kontaktperson/ | Kontaktfamilj, kontaktperson | Kontaktfamilj, kontaktperson
+https://www.dorotea.se/omsorg-och-stod/familj-barn-och-ungdom/stod-till-familjen/behandlingshem-hvb/ | Behandlingshem, HVB | Behandlingshem, HVB
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/ | Hjälp till barn och unga | Hjälp till barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/akut-hjalp-for-barn-och-unga/ | Akut hjälp för barn och unga | Akut hjälp för barn och unga
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ | Länktips | Länktips
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/adhd/ | ADHD | ADHD
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/alkohol-och-droger/ | Alkohol och droger | Alkohol och droger
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/anorexi/ | Anorexi | Anorexi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/aspergers-syndrom/ | Aspergers syndrom | Aspergers syndrom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/autism/ | Autism | Autism
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bipolar-sjukdom/ | Bipolär sjukdom | Bipolär sjukdom
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/blyghet-och-social-fobi/ | Blyghet och social fobi | Blyghet och social fobi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/brister-i-foraldraskap/ | Brister i föräldraskap | Brister i föräldraskap
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/bulimi/ | Bulimi | Bulimi
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/depression/ | Depression | Depression
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dyslexi-las-och-skrivsvarigheter/ | Dyslexi (läs- och skrivsvårigheter) | Dyslexi (läs- och skrivsvårigheter)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/dodsfall-och-sorg/ | Dödsfall och sorg | Dödsfall och sorg
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ekonomiska-problem/ | Ekonomiska problem | Ekonomiska problem
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/fobier/ | Fobier | Fobier
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/funktionsnedsattning/ | Funktionsnedsättning | Funktionsnedsättning
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/heder/ | Heder | Heder
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ilska-och-utbrott/ | Ilska och utbrott | Ilska och utbrott
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/koncentrationssvarigheter/ | Koncentrationssvårigheter | Koncentrationssvårigheter
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kriminalitet/ | Kriminalitet | Kriminalitet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/kris-i-livet/ | Kris i livet | Kris i livet
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/konsinkongruens-nar-kropp-och-kon-inte-stammer-overens/ | Könsinkongruens (när kropp och kön inte stämmer överens) | Könsinkongruens (när kropp och kön inte stämmer överens)
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/ledsen-och-nedstamd/ | Ledsen och nedstämd | Ledsen och nedstämd
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/mobbing-och-krankande-behandling/ | Mobbing och kränkande behandling | Mobbing och kränkande behandling
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/oro/ | Oro | Oro
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/problem-i-skolan/ | Problem i skolan | Problem i skolan
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/psykos/ | Psykos | Psykos
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/riskbruk-och-missbruk/ | Riskbruk och missbruk | Riskbruk och missbruk
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sexuella-overgrepp/ | Sexuella övergrepp | Sexuella övergrepp
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvmordstankar/ | Självmordstankar | Självmordstankar
+https://www.dorotea.se/omsorg-och-stod/hjalp-till-barn-och-unga/lanktips/sjalvskadebeteende/ | Självskadebeteende | Självskadebeteende
+
+## Knappar
+Sök
+Meny
+Sök
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Förskola och pedagogisk barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Grundskola
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Gymnasium
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Utbildning och barnomsorg
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Akut hjälp
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Ekonomi, försörjningsstöd och budget- och skuldrådgivning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Familj, barn och ungdom
+Visa undersidor till Stöd till familjen
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Hjälp till barn och unga
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Funktionsnedsättning
+Visa undersidor till Omsorg och stöd
+Visa undersidor till Äldre och andra i behov av stöd
+Visa undersidor till Äldre och andra i behov av stöd
+
+## HTML (början av body)
+<body class="page page"> <header class="page__header"> <div class="container"> <a href="#main" class="btn btn--accessible">Till innehåll</a> <a class="page__header-logo" href="/" aria-label="Till Startsidan"></a> <div> <form action="/sok/" method="get" class="page__header__search" data-open="false" role="search"> <label for="phs" class="visually-hidden">Sök</label> <div> <div> <input id="phs" type="search" name="q" value="" placeholder="Hej, vad söker du?"> </div> </div> <button class="btn btn--search"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <button class="btn btn--menu" id="nav-toggle" aria-expanded="false" aria-controls="nav"> <span>Meny</span> <span class="icon-menu" aria-hidden="true"></span> </button> </div> </div> </header> <nav id="nav" class="page__navigation"> <div class="nav-ani"> <div class="menu__background"> <div class="container menu" hidden=""> <form action="/sok/" method="get" class="page__navigation__search" data-open="false"> <label for="pns" class="visually-hidden">Sök</label> <input type="search" id="pns" name="q" value="" placeholder="Hej, vad söker du?"> <button class="btn btn--search btn--search-outlined"> <span>Sök</span> <span class="icon-search" aria-hidden="true"></span> </button> </form> <div class="grid menu__grid"> <div class="menu__mobile-tree"> <nav class="menu-mob"> <ul class="level-0" aria-hidden="false"> <li class="menu-item"> <div class="menu-item__container"> <a href="/anslagstavla/" class="standby nav-link">Anslagstavla</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/" class="standby nav-link">Utbildning och barnomsorg</a> <button class="btn-toggle" aria-controls="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" aria-expanded="false" data-name="Utbildning och barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"> <span class="icon-chevron-down" aria-hidden="true"></span> </button> </div> <div id="ul-a81bae1e-f398-4f94-a828-bcaad983ca02" class="menu-sub" aria-hidden="true"> <ul class="level-1" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/" class="standby nav-link">Förskola och pedagogisk barnomsorg</a> <button class="btn-toggle" aria-controls="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" aria-expanded="false" data-name="Förskola och pedagogisk barnomsorg" aria-label="Visa undersidor till Utbildning och barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-5274bb66-1284-46b6-96dc-8f862448bd7d" class="menu-sub" aria-hidden="true"> <ul class="level-2" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/forskola-aarhskuvle/" class="standby nav-link">Förskola - Aarhskuvle</a> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/" class="standby nav-link">Avgiftsregler förskola</a> <button class="btn-toggle" aria-controls="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" aria-expanded="false" data-name="Avgiftsregler förskola" aria-label="Visa undersidor till Förskola och pedagogisk barnomsorg"><span class="icon-chevron-down" aria-hidden="true"></span></button> </div> <div id="ul-37ae26d7-9600-4c25-a4f4-2cd7f06cc9d5" class="menu-sub" aria-hidden="true"> <ul class="level-3" hidden=""> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/avgiftsregler-forskola/regler-forskola/" class="standby nav-link">Regler förskola</a> </div> </li> </ul> </div> </li> <li class="menu-item"> <div class="menu-item__container"> <a href="/utbildning-och-barnomsorg/forskola-och-pedagogisk-barnomsorg/ansok-eller-sag-upp-plats/" class="standby nav-link">Ansök eller säg upp plats</a> </div> </li> <li clas

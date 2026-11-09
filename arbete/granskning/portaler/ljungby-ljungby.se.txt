@@ -1,0 +1,5 @@
+Kommun: Ljungby  nyckel: ljungby.se
+FEL: TimeoutError: Page.goto: Timeout 40000ms exceeded.
+Call log:
+  - navigating to "https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll", waiting until "networkidle"
+

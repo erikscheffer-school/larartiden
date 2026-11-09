@@ -1,0 +1,618 @@
+Kommun: Hofors  nyckel: hofors.se
+
+######## SIDA: https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html
+Titel: Kommunstyrelsen - Hofors kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/cf5626b7-4d64-4ae0-8149-a7955ce3efda/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+GET 200 xhr application/json https://www.vizzit.se/myvizzit/api/tag?pbk=66764d59345377653062774d48774e6d757a6766786c58797077352b58796434566c474f502f6e646c396b3d&host=www.hofors.se&path=%2Fkommun--politik%2Fpolitik%2Fkallelser%2Faldre-kallelser%2Fkommunstyrelsen.html
+      {"page": {"id": "4.5bff1da1154bdc724892532"}, "tag": []}
+
+## Länkar (href | text | sammanhang)
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Main | TILL SIDANS INNEHÅLL | TILL SIDANS INNEHÅLL
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Footer | TILL SIDFOTEN | TILL SIDFOTEN
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/ |  | 
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till
+Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor
+Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/stod--omsorg.html | Stöd & omsorg | Stöd & omsorg
+https://www.hofors.se/naringsliv.html | Näringsliv | Näringsliv
+https://www.hofors.se/kommun--politik.html | Kommun & politik | Kommun & politik
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun | Att bo i Hofors kommun
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur | Trafik, vägar och infrastruktur
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar | Farthinder på gator och vägar
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter | Hastigheter och trafikföreskrifter
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator | Häckar och träd vid gator
+https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning | Bostadsanpassning
+https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva | Bygga nytt ändra eller riva
+https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur | Djur och natur
+https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning | Energi- och klimatrådgivning
+https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet | Klimat, miljö och hållbarhet
+https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskydd
+https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering | Samhällsplanering
+https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information | Kartor, mätning och geografisk information
+https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll | Livsmedelskontroll
+https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinning
+https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering | Lokala föreskrifter om avfallshantering
+https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avlopp
+https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar | Haga trädgårdar
+https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek | Fröbibliotek
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark | Haga fjärilspark
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023 | Hänt under 2023
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024 | Hänt under 2024
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/barn--utbildning/forskola.html | Förskola | Förskola
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet | Norra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen | Kanaljen
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet | Persfallet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm | Robertsholm
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet | Södra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen | Regnbågen
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde | Torsåkers förskoleområde
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken | Tallbacken
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda | Vinkelboda
+https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska | Förskola på finska
+https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola | Grundskola
+https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan | Lillåskolan
+https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan | Värnaskolan
+https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan | Petreskolan
+https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan | Solbergaskolan
+https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval) | Regler för skolplacering (skolval)
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem | Fritidshem
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Gymnasieutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan | Antagning gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan | Gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ | Individuellt alternativ
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg | Betyg
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning | Grundläggande vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning | Gymnasial vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI | Svenska för invandrare - SFI
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering | Samhällsorientering
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux | Yrkesvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux | Antagningsregler komvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare | SFI- Svenska för invandrare
+https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna | Anpassad utbildning för vuxna
+https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum | Information om Unikum
+https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem | Sommaröppen förskola och fritidshem
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa | Central barn- och elevhälsa
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal | Personal
+https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum | Lärcentrum
+https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan | Specialskolan
+https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts | Frågor & svar om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts | Ansöka om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden | Färdvägens längd och trafikförhållanden
+https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag | Beslutade undantag
+https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning | Funktionsnedsättning
+https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider | Hållplatser, väntetider och färdtider
+https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende | Växelvis boende
+https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola | Val av annan skola
+https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall | Tillfällig funktionsnedsättning, olycksfall
+https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort | Trasigt eller borttappat busskort
+https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen | Öppen skolskjuts, Dalgränsbussen
+https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider | Förskole- och skolmåltider
+https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider | Läsårstider
+https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål | Synpunkter & klagomål
+https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA) | Kommunalt aktivitetsansvar (KAA)
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän | Information till andra huvudmän
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan | Ansökan om ersättning för förlängda studier i gymnasieskolan
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp | Ansökan om tilläggsbelopp
+https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan | Samverkan med högskolan
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek | Bibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna | Att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga | Lånekonto till barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna | Hur gör man för att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk | Nationella minoritetsspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk | Mångspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån | Fjärrlån
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag | Inköpsförslag
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler | Avgifter och låneregler
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter | GDPR - Behandling av personuppgifter
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga | Barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder | Sagostunder
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad | Skaparverkstad
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster | Digitala tjänster
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker | Digitala böcker och ljudböcker
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film | Cineasterna - streama film
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik | Naxos - streama musik
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko | Trafiko
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser | Databaser
+https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt | Läsa på olika sätt
+https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket | Det händer på biblioteket
+https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande | Studerande
+https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek | Gymnasiebibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor | Skolbesök och boklådor
+https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift | Datorer, nätverk och utskrift
+https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken | Galleri Boken
+https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal | Personal
+https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom | Entré ungdom
+https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola | Kulturskola
+https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård | Fritidsgård
+https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter | Lovaktiviteter
+
+## Knappar
+Sök
+Meny
+Stäng meny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_6c56acd01841cb5a2d61ac5" class="sv-layout"><header class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae3"><div class="sv-custom-module sv-vizzit-integration-0-0-5 sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_1820ad981856171cce5867"><div id="Vizzitintegration"><!-- Vizzit integration --></div><div data-cid="59d57cae-370e-53d3-9747-0173001d0f70"><script> $vizzit$ = typeof $vizzit$ != "undefined" ? $vizzit$ : {}; $vizzit$ = { keys: $vizzit$.keys || {}, config: $vizzit$.config || {}, client: $vizzit$.client || {}, endpoint: $vizzit$.endpoint || {}, page: $vizzit$.page || {}, }; </script> <script> $vizzit$.keys.public = 'fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k='; $vizzit$.keys.private = ''; $vizzit$.config.cookie = true; $vizzit$.config.cookie_auto = false; $vizzit$.config.tag = true; $vizzit$.config.tagman = true; $vizzit$.config.username_tag = true; $vizzit$.config.anonymize_ip = true; $vizzit$.config.ajax = false; $vizzit$.config.automatic_login = true; $vizzit$.page.id = sv.PageContext.pageId || null; $vizzit$.client.plugin = { enabled: true, sitevision: { enabled: true } }; </script> <script> var inEditMode = false; var editingPage = window.parent.document.querySelectorAll("[data-view-type='page']").length; if (inEditMode && editingPage) $vizzit$.client.plugin.sitevision.edit_mode = true; </script> <script src="/webapp-files/4.5bff1da1154bdc724892532/360.1820ad981856171cce5860/1672839717390/vizzit.integration.js"></script> <script> $vizzit$.integration.run(); </script> </div><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerBootstrapData('12.1820ad981856171cce5867','59d57cae-370e-53d3-9747-0173001d0f70','main',[],undefined);</script><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerInitialState('12.1820ad981856171cce5867',{"settings":{"enable_vizzit_btn":true,"endpoint":{"integration":""},"custom_integration_endpoint":false,"dsid":"settings","disable_auto_integration":false,"keys":{"private":"","public":"fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k="},"dstimestamp":1672840057141,"config":{"cookie":true,"automatic_login":true,"cookie_auto":false,"tagman":true,"tag":true,"username_tag":true,"ajax":false,"anonymize_ip":true},"client":{"username":null}},"inEditMode":false,"route":"/"});</script> <script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerApp({applicationId:'vizzit-integration-0.0.5|0.0.5',htmlElementId:'svid12_1820ad981856171cce5867',route:'/',portletId:'12.1820ad981856171cce5867',locale:'sv-SE',defaultLocale:'en',webAppId:'vizzit-integration-0.0.5',webAppVersion:'0.0.5',webAppAopId:'360.1820ad981856171cce5860',webAppImportTime:'1672839717390',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-html-portlet sv-portlet sv-horizontal-column sv-template-portlet " id="svid12_6c56acd01841cb5a2d61ae6"><div id="SkipToContentTablinks"><!-- Skip To Content - Tablinks --></div><ul class="skip-link"> <li><a href="#Main" class="skip-link">Till sidans innehåll</a></li> <li><a href="#Footer" class="skip-link">Till sidfoten</a></li> </ul></div> <div class="sv-fluid-grid sv-grid-layout-wrap sv-layout sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae7"><div class="sv-row sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae8"><nav aria-label="Viktiga länkar" class="sv-layout sv-visible-Responsive quicklinks sv-skip-spacer sv-column-12 sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae9"><div class="sv-related-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6c56acd01841cb5a2d61af0"><div id="ResponsiveLightGreenLinks"><!-- Responsive - Light Green Links --></div> <ul class="sv-defaultlist"> <li><a href="/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html" class="normal">Suomeksi</a>
+
+######## SIDA: https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Main
+Titel: Kommunstyrelsen - Hofors kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Main | TILL SIDANS INNEHÅLL | TILL SIDANS INNEHÅLL
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Footer | TILL SIDFOTEN | TILL SIDFOTEN
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/ |  | 
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till
+Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor
+Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/stod--omsorg.html | Stöd & omsorg | Stöd & omsorg
+https://www.hofors.se/naringsliv.html | Näringsliv | Näringsliv
+https://www.hofors.se/kommun--politik.html | Kommun & politik | Kommun & politik
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun | Att bo i Hofors kommun
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur | Trafik, vägar och infrastruktur
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar | Farthinder på gator och vägar
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter | Hastigheter och trafikföreskrifter
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator | Häckar och träd vid gator
+https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning | Bostadsanpassning
+https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva | Bygga nytt ändra eller riva
+https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur | Djur och natur
+https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning | Energi- och klimatrådgivning
+https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet | Klimat, miljö och hållbarhet
+https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskydd
+https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering | Samhällsplanering
+https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information | Kartor, mätning och geografisk information
+https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll | Livsmedelskontroll
+https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinning
+https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering | Lokala föreskrifter om avfallshantering
+https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avlopp
+https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar | Haga trädgårdar
+https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek | Fröbibliotek
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark | Haga fjärilspark
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023 | Hänt under 2023
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024 | Hänt under 2024
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/barn--utbildning/forskola.html | Förskola | Förskola
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet | Norra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen | Kanaljen
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet | Persfallet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm | Robertsholm
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet | Södra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen | Regnbågen
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde | Torsåkers förskoleområde
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken | Tallbacken
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda | Vinkelboda
+https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska | Förskola på finska
+https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola | Grundskola
+https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan | Lillåskolan
+https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan | Värnaskolan
+https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan | Petreskolan
+https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan | Solbergaskolan
+https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval) | Regler för skolplacering (skolval)
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem | Fritidshem
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Gymnasieutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan | Antagning gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan | Gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ | Individuellt alternativ
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg | Betyg
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning | Grundläggande vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning | Gymnasial vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI | Svenska för invandrare - SFI
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering | Samhällsorientering
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux | Yrkesvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux | Antagningsregler komvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare | SFI- Svenska för invandrare
+https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna | Anpassad utbildning för vuxna
+https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum | Information om Unikum
+https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem | Sommaröppen förskola och fritidshem
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa | Central barn- och elevhälsa
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal | Personal
+https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum | Lärcentrum
+https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan | Specialskolan
+https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts | Frågor & svar om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts | Ansöka om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden | Färdvägens längd och trafikförhållanden
+https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag | Beslutade undantag
+https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning | Funktionsnedsättning
+https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider | Hållplatser, väntetider och färdtider
+https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende | Växelvis boende
+https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola | Val av annan skola
+https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall | Tillfällig funktionsnedsättning, olycksfall
+https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort | Trasigt eller borttappat busskort
+https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen | Öppen skolskjuts, Dalgränsbussen
+https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider | Förskole- och skolmåltider
+https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider | Läsårstider
+https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål | Synpunkter & klagomål
+https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA) | Kommunalt aktivitetsansvar (KAA)
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän | Information till andra huvudmän
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan | Ansökan om ersättning för förlängda studier i gymnasieskolan
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp | Ansökan om tilläggsbelopp
+https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan | Samverkan med högskolan
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek | Bibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna | Att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga | Lånekonto till barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna | Hur gör man för att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk | Nationella minoritetsspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk | Mångspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån | Fjärrlån
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag | Inköpsförslag
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler | Avgifter och låneregler
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter | GDPR - Behandling av personuppgifter
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga | Barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder | Sagostunder
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad | Skaparverkstad
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster | Digitala tjänster
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker | Digitala böcker och ljudböcker
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film | Cineasterna - streama film
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik | Naxos - streama musik
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko | Trafiko
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser | Databaser
+https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt | Läsa på olika sätt
+https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket | Det händer på biblioteket
+https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande | Studerande
+https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek | Gymnasiebibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor | Skolbesök och boklådor
+https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift | Datorer, nätverk och utskrift
+https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken | Galleri Boken
+https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal | Personal
+https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom | Entré ungdom
+https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola | Kulturskola
+https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård | Fritidsgård
+https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter | Lovaktiviteter
+
+## Knappar
+Sök
+Meny
+Stäng meny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_6c56acd01841cb5a2d61ac5" class="sv-layout"><header class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae3"><div class="sv-custom-module sv-vizzit-integration-0-0-5 sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_1820ad981856171cce5867"><div id="Vizzitintegration"><!-- Vizzit integration --></div><div data-cid="59d57cae-370e-53d3-9747-0173001d0f70"><script> $vizzit$ = typeof $vizzit$ != "undefined" ? $vizzit$ : {}; $vizzit$ = { keys: $vizzit$.keys || {}, config: $vizzit$.config || {}, client: $vizzit$.client || {}, endpoint: $vizzit$.endpoint || {}, page: $vizzit$.page || {}, }; </script> <script> $vizzit$.keys.public = 'fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k='; $vizzit$.keys.private = ''; $vizzit$.config.cookie = true; $vizzit$.config.cookie_auto = false; $vizzit$.config.tag = true; $vizzit$.config.tagman = true; $vizzit$.config.username_tag = true; $vizzit$.config.anonymize_ip = true; $vizzit$.config.ajax = false; $vizzit$.config.automatic_login = true; $vizzit$.page.id = sv.PageContext.pageId || null; $vizzit$.client.plugin = { enabled: true, sitevision: { enabled: true } }; </script> <script> var inEditMode = false; var editingPage = window.parent.document.querySelectorAll("[data-view-type='page']").length; if (inEditMode && editingPage) $vizzit$.client.plugin.sitevision.edit_mode = true; </script> <script src="/webapp-files/4.5bff1da1154bdc724892532/360.1820ad981856171cce5860/1672839717390/vizzit.integration.js"></script> <script> $vizzit$.integration.run(); </script> </div><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerBootstrapData('12.1820ad981856171cce5867','59d57cae-370e-53d3-9747-0173001d0f70','main',[],undefined);</script><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerInitialState('12.1820ad981856171cce5867',{"settings":{"enable_vizzit_btn":true,"endpoint":{"integration":""},"custom_integration_endpoint":false,"dsid":"settings","disable_auto_integration":false,"keys":{"private":"","public":"fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k="},"dstimestamp":1672840057141,"config":{"cookie":true,"automatic_login":true,"cookie_auto":false,"tagman":true,"tag":true,"username_tag":true,"ajax":false,"anonymize_ip":true},"client":{"username":null}},"inEditMode":false,"route":"/"});</script> <script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerApp({applicationId:'vizzit-integration-0.0.5|0.0.5',htmlElementId:'svid12_1820ad981856171cce5867',route:'/',portletId:'12.1820ad981856171cce5867',locale:'sv-SE',defaultLocale:'en',webAppId:'vizzit-integration-0.0.5',webAppVersion:'0.0.5',webAppAopId:'360.1820ad981856171cce5860',webAppImportTime:'1672839717390',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-html-portlet sv-portlet sv-horizontal-column sv-template-portlet " id="svid12_6c56acd01841cb5a2d61ae6"><div id="SkipToContentTablinks"><!-- Skip To Content - Tablinks --></div><ul class="skip-link"> <li><a href="#Main" class="skip-link">Till sidans innehåll</a></li> <li><a href="#Footer" class="skip-link">Till sidfoten</a></li> </ul></div> <div class="sv-fluid-grid sv-grid-layout-wrap sv-layout sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae7"><div class="sv-row sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae8"><nav aria-label="Viktiga länkar" class="sv-layout sv-visible-Responsive quicklinks sv-skip-spacer sv-column-12 sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae9"><div class="sv-related-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6c56acd01841cb5a2d61af0"><div id="ResponsiveLightGreenLinks"><!-- Responsive - Light Green Links --></div> <ul class="sv-defaultlist"> <li><a href="/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html" class="normal">Suomeksi</a>
+
+######## SIDA: https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Footer
+Titel: Kommunstyrelsen - Hofors kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Main | TILL SIDANS INNEHÅLL | TILL SIDANS INNEHÅLL
+https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Footer | TILL SIDFOTEN | TILL SIDFOTEN
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/ |  | 
+https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi | Suomeksi
+https://minasidor.hofors.se/oversikt/overview/10 | Tyck till
+Länk till annan webbplats, öppnas i nytt fönster. | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+https://minasidor.hofors.se/ | Mina sidor
+Länk till annan webbplats, öppnas i nytt fönster. | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt | Kontakt
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/stod--omsorg.html | Stöd & omsorg | Stöd & omsorg
+https://www.hofors.se/naringsliv.html | Näringsliv | Näringsliv
+https://www.hofors.se/kommun--politik.html | Kommun & politik | Kommun & politik
+https://www.hofors.se/boende--miljo.html | Boende & miljö | Boende & miljö
+https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun | Att bo i Hofors kommun
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur | Trafik, vägar och infrastruktur
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar | Farthinder på gator och vägar
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter | Hastigheter och trafikföreskrifter
+https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator | Häckar och träd vid gator
+https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning | Bostadsanpassning
+https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva | Bygga nytt ändra eller riva
+https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur | Djur och natur
+https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning | Energi- och klimatrådgivning
+https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet | Klimat, miljö och hållbarhet
+https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd | Miljö- och hälsoskydd
+https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering | Samhällsplanering
+https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information | Kartor, mätning och geografisk information
+https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll | Livsmedelskontroll
+https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Avfall och återvinning
+https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering | Lokala föreskrifter om avfallshantering
+https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp | Vatten och avlopp
+https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar | Haga trädgårdar
+https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek | Fröbibliotek
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark | Haga fjärilspark
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023 | Hänt under 2023
+https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024 | Hänt under 2024
+https://www.hofors.se/barn--utbildning.html | Barn & utbildning | Barn & utbildning
+https://www.hofors.se/barn--utbildning/forskola.html | Förskola | Förskola
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet | Norra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen | Kanaljen
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet | Persfallet
+https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm | Robertsholm
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet | Södra förskoleområdet
+https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen | Regnbågen
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde | Torsåkers förskoleområde
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken | Tallbacken
+https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda | Vinkelboda
+https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska | Förskola på finska
+https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet | Starta fristående verksamhet
+https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola | Grundskola
+https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan | Lillåskolan
+https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan | Värnaskolan
+https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan | Petreskolan
+https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan | Solbergaskolan
+https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval) | Regler för skolplacering (skolval)
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem | Fritidshem
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter | Regler & avgifter
+https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter | Blanketter
+https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse | Retroaktiv inkomstjämförelse
+https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Gymnasieutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan | Antagning gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument | Blanketter och dokument
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan | Gymnasieskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ | Individuellt alternativ
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg | Betyg
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning | Grundläggande vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning | Gymnasial vuxenutbildning
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI | Svenska för invandrare - SFI
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering | Samhällsorientering
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux | Yrkesvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning | Studie- och yrkesvägledning
+https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Vuxenutbildning
+https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux | Antagningsregler komvux
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan | Björkhagsskolan
+https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare | SFI- Svenska för invandrare
+https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna | Anpassad utbildning för vuxna
+https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum | Information om Unikum
+https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem | Sommaröppen förskola och fritidshem
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa | Central barn- och elevhälsa
+https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal | Personal
+https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum | Lärcentrum
+https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan | Specialskolan
+https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts | Skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts | Frågor & svar om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts | Ansöka om skolskjuts
+https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden | Färdvägens längd och trafikförhållanden
+https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag | Beslutade undantag
+https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning | Funktionsnedsättning
+https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider | Hållplatser, väntetider och färdtider
+https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende | Växelvis boende
+https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola | Val av annan skola
+https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall | Tillfällig funktionsnedsättning, olycksfall
+https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort | Trasigt eller borttappat busskort
+https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen | Öppen skolskjuts, Dalgränsbussen
+https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider | Förskole- och skolmåltider
+https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider | Läsårstider
+https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring | Olycksfallsförsäkring
+https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål | Synpunkter & klagomål
+https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA) | Kommunalt aktivitetsansvar (KAA)
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän | Information till andra huvudmän
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan | Ansökan om ersättning för förlängda studier i gymnasieskolan
+https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp | Ansökan om tilläggsbelopp
+https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan | Samverkan med högskolan
+https://www.hofors.se/uppleva--gora.html | Uppleva & göra | Uppleva & göra
+https://www.hofors.se/kultur--fritid.html | Kultur & fritid | Kultur & fritid
+https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek | Bibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna | Att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga | Lånekonto till barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna | Hur gör man för att låna
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk | Nationella minoritetsspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk | Mångspråk
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån | Fjärrlån
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag | Inköpsförslag
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler | Avgifter och låneregler
+https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter | GDPR - Behandling av personuppgifter
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga | Barn och unga
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder | Sagostunder
+https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad | Skaparverkstad
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster | Digitala tjänster
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker | Digitala böcker och ljudböcker
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film | Cineasterna - streama film
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik | Naxos - streama musik
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko | Trafiko
+https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser | Databaser
+https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt | Läsa på olika sätt
+https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket | Det händer på biblioteket
+https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande | Studerande
+https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek | Gymnasiebibliotek
+https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor | Skolbesök och boklådor
+https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift | Datorer, nätverk och utskrift
+https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken | Galleri Boken
+https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal | Personal
+https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom | Entré ungdom
+https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola | Kulturskola
+https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård | Fritidsgård
+https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter | Lovaktiviteter
+
+## Knappar
+Sök
+Meny
+Stäng meny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+Dölj undermeny
+Visa undermeny
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: fixed; top: 0px; width: 100%;"> <div id="svid10_6c56acd01841cb5a2d61ac5" class="sv-layout"><header class="sv-horizontal sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae3"><div class="sv-custom-module sv-vizzit-integration-0-0-5 sv-skip-spacer sv-horizontal-column sv-template-portlet " id="svid12_1820ad981856171cce5867"><div id="Vizzitintegration"><!-- Vizzit integration --></div><div data-cid="59d57cae-370e-53d3-9747-0173001d0f70"><script> $vizzit$ = typeof $vizzit$ != "undefined" ? $vizzit$ : {}; $vizzit$ = { keys: $vizzit$.keys || {}, config: $vizzit$.config || {}, client: $vizzit$.client || {}, endpoint: $vizzit$.endpoint || {}, page: $vizzit$.page || {}, }; </script> <script> $vizzit$.keys.public = 'fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k='; $vizzit$.keys.private = ''; $vizzit$.config.cookie = true; $vizzit$.config.cookie_auto = false; $vizzit$.config.tag = true; $vizzit$.config.tagman = true; $vizzit$.config.username_tag = true; $vizzit$.config.anonymize_ip = true; $vizzit$.config.ajax = false; $vizzit$.config.automatic_login = true; $vizzit$.page.id = sv.PageContext.pageId || null; $vizzit$.client.plugin = { enabled: true, sitevision: { enabled: true } }; </script> <script> var inEditMode = false; var editingPage = window.parent.document.querySelectorAll("[data-view-type='page']").length; if (inEditMode && editingPage) $vizzit$.client.plugin.sitevision.edit_mode = true; </script> <script src="/webapp-files/4.5bff1da1154bdc724892532/360.1820ad981856171cce5860/1672839717390/vizzit.integration.js"></script> <script> $vizzit$.integration.run(); </script> </div><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerBootstrapData('12.1820ad981856171cce5867','59d57cae-370e-53d3-9747-0173001d0f70','main',[],undefined);</script><script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerInitialState('12.1820ad981856171cce5867',{"settings":{"enable_vizzit_btn":true,"endpoint":{"integration":""},"custom_integration_endpoint":false,"dsid":"settings","disable_auto_integration":false,"keys":{"private":"","public":"fvMY4Swe0bwMHwNmuzgfxlXypw5+Xyd4VlGOP/ndl9k="},"dstimestamp":1672840057141,"config":{"cookie":true,"automatic_login":true,"cookie_auto":false,"tagman":true,"tag":true,"username_tag":true,"ajax":false,"anonymize_ip":true},"client":{"username":null}},"inEditMode":false,"route":"/"});</script> <script nonce="e8ce4820-dc0b-11f1-be6f-e9e5a4402bb2">AppRegistry.registerApp({applicationId:'vizzit-integration-0.0.5|0.0.5',htmlElementId:'svid12_1820ad981856171cce5867',route:'/',portletId:'12.1820ad981856171cce5867',locale:'sv-SE',defaultLocale:'en',webAppId:'vizzit-integration-0.0.5',webAppVersion:'0.0.5',webAppAopId:'360.1820ad981856171cce5860',webAppImportTime:'1672839717390',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div> <div class="sv-html-portlet sv-portlet sv-horizontal-column sv-template-portlet " id="svid12_6c56acd01841cb5a2d61ae6"><div id="SkipToContentTablinks"><!-- Skip To Content - Tablinks --></div><ul class="skip-link"> <li><a href="#Main" class="skip-link">Till sidans innehåll</a></li> <li><a href="#Footer" class="skip-link">Till sidfoten</a></li> </ul></div> <div class="sv-fluid-grid sv-grid-layout-wrap sv-layout sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae7"><div class="sv-row sv-layout sv-skip-spacer sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae8"><nav aria-label="Viktiga länkar" class="sv-layout sv-visible-Responsive quicklinks sv-skip-spacer sv-column-12 sv-template-layout" id="svid10_6c56acd01841cb5a2d61ae9"><div class="sv-related-portlet sv-portlet sv-skip-spacer sv-template-portlet " id="svid12_6c56acd01841cb5a2d61af0"><div id="ResponsiveLightGreenLinks"><!-- Responsive - Light Green Links --></div> <ul class="sv-defaultlist"> <li><a href="/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html" class="normal">Suomeksi</a>

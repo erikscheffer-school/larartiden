@@ -1,0 +1,622 @@
+Kommun: Norberg  nyckel: norberg.se
+
+######## SIDA: https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html
+Titel: Protokoll och handlingar - Norbergs kommun
+
+## Dataanrop
+GET 200 document text/html;charset=UTF-8 https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html
+GET 200 xhr application/json https://www.browsealoud.com/version.json
+      {"ie":"2.6.1","latest":"3.12.0"}
+GET 200 xhr application/javascript https://plus.browsealoud.com/js/urlinfo/norberg.se.js
+GET 200 xhr application/json https://www.browsealoud.com/modules/3.12.0/sri.json
+      {"hashes":{}}
+GET 200 fetch application/javascript https://plus.browsealoud.com/js/urlinfo/norberg.se.js
+GET 200 xhr application/json; charset=utf-8 https://svanalytics.containers.piwik.pro/cd11eb48-2d4c-4e31-849b-0197b0091788/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+## Länkar (href | text | sammanhang)
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 |  | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Insyn och påverkan | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close menu | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 |  | Meny Öppna undermeny (Barn & utbildning)Barn & utbildning Öppna undermeny (Boende & miljö)Boende & miljö Öppna undermeny
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Öppna undermeny (Barn & utbildning) | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/barn--utbildning.html | Barn & utbildning | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Öppna undermeny (Boende & miljö) | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/boende--miljo.html | Boende & miljö | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | Öppna undermeny (Stöd & omsorg) | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/stod--omsorg.html | Stöd & omsorg | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-30 | Öppna undermeny (Näringsliv & arbete) | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Öppna undermeny (Kommun & politik) | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik.html | Kommun & politik | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-45 | Öppna undermeny (Kultur & fritid) | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kultur--fritid.html | Kultur & fritid | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 |  | Close submenu (Barn & utbildning)Barn & utbildning Öppna undermeny (Allmän information)Allmän information Öppna undermen
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Barn & utbildning) | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Barn & utbildning | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Öppna undermeny (Allmän information) | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information.html | Allmän information | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 | Öppna undermeny (E-tjänster och blanketter) | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 | Öppna undermeny (Förskola) | Öppna undermeny (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola.html | Förskola | Öppna undermeny (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 | Öppna undermeny (Grundskola och fritidshem) | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 | Öppna undermeny (Gymnasieutbildning) | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 | Öppna undermeny (Vuxenutbildning) | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Öppna undermeny (Övriga fristående verksamheter) | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 |  | Close submenu (Allmän information)Allmän information Avgiftskontroll Försäkringar Klagomålshantering Kommunala aktivitet
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Allmän information) | Close submenu (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Allmän information | Close submenu (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll | Avgiftskontroll
+https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar | Försäkringar
+https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering | Klagomålshantering
+https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA | Kommunala aktivitetsansvaret KAA
+https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan | Kulturskolan
+https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete | Kvalitetsarbete
+https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet | Läsårstider och datum för jouröppen verksamhet
+https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola | Mat och måltider i förskola och skola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 | Öppna undermeny (Skolskjuts) | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie | Timvikarie
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 |  | Close submenu (Skolskjuts)Skolskjuts Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Close submenu (Skolskjuts) | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Skolskjuts | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts | Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 |  | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter Blanketter E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (E-tjänster och blanketter) | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | E-tjänster och blanketter | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter | Blanketter
+https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 |  | Close submenu (Förskola)Förskola Ansök om plats i förskola Om våra förskolor Förskolan Blåsippan Förskolan Skogsgläntan 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Förskola) | Close submenu (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Förskola | Close submenu (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola | Ansök om plats i förskola
+https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor | Om våra förskolor
+https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan | Förskolan Blåsippan
+https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan | Förskolan Skogsgläntan
+https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen | Förskolan Tallen
+https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern | Förskolan Treklövern
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola | Avgifter för förskola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet | Utökad och jouröppen verksamhet
+https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola | Allmän förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 |  | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem Om våra grundskolor Engelbrektsskolan F-3 Engelbrekts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Grundskola och fritidshem) | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Grundskola och fritidshem | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor | Om våra grundskolor
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3 | Engelbrektsskolan F-3
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9 | Engelbrektsskolan 4-9
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem | Fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa | Elevhälsa
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem | Ansök om plats i fritidshem
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem | Avgifter för fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet | Frånvaro och ledighet
+http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster. | Schema Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola | Specialskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost | Anpassade måltider och specialkost
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 |  | Close submenu (Gymnasieutbildning)Gymnasieutbildning Ansökan till gymnasium Gymnasium Inackorderingstillägg och resestöd
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Gymnasieutbildning) | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Gymnasieutbildning | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium | Ansökan till gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium | Gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd | Inackorderingstillägg och resestöd
+https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL | Skolresor, skolkort och VL
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 |  | Close submenu (Vuxenutbildning)Vuxenutbildning Boka tid hos studievägledaren Kommunal vuxenutbildning Studiestartsstöd o
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Vuxenutbildning) | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Vuxenutbildning | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren | Boka tid hos studievägledaren
+https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning | Kommunal vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån | Studiestartsstöd och hemutrustningslån
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 |  | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter Bidrag till fristående verksamheter Familje
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Övriga fristående verksamheter) | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Övriga fristående verksamheter | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter | Bidrag till fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan | Familjecentralen LärKan
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem | Karbennings daghem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 |  | Close submenu (Boende & miljö)Boende & miljö Öppna undermeny (Avfall och återvinning)Avfall och återvinning Öppna underm
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Boende & miljö) | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Boende & miljö | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 | Öppna undermeny (Avfall och återvinning) | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 | Öppna undermeny (Bostäder) | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader.html | Bostäder | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 | Öppna undermeny (Bygga) | Öppna undermeny (Bygga)Bygga
+https://norberg.se/boende--miljo/bygga.html | Bygga | Öppna undermeny (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 | Öppna undermeny (Naturvård och miljö) | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-16 | Öppna undermeny (Stadsutveckling) | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Öppna undermeny (Vatten och avlopp) | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 |  | Close submenu (Avfall och återvinning)Avfall och återvinning Avfall och återvinning Länk till annan webbplats, öppnas i 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Avfall och återvinning) | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Avfall och återvinning | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster. | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 |  | Close submenu (Bostäder)Bostäder Fixar-Malte Hyresrätter Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bostäder) | Close submenu (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bostäder | Close submenu (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte | Fixar-Malte
+https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter | Hyresrätter
+https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad | Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 |  | Close submenu (Bygga)Bygga Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. Fastigheter, bostäde
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bygga) | Close submenu (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bygga | Close submenu (Bygga)Bygga
+https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster. | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster. | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+https://nvk.se/bygga-bo--miljo/markfragor-och-lediga-tomter/lediga-tomter-i-norberg.html | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster. | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster. | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster. | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 |  | Close submenu (Naturvård och miljö)Naturvård och miljö Djur Länk till annan webbplats, öppnas i nytt fönster. Eldning av
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Naturvård och miljö) | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Naturvård och miljö | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster. | Djur Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor | Eldning av trädgårdsavfall och majbrasor
+https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster. | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster. | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten | Metaller i mark och vatten
+https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster. | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Sök
+Lyssna
+på webbplatsen genom att aktivera Talande Webb
+Översätt
+webbplatsen genom att använda google translate
+på Norberg.se
+Allmänna utskottet 2022
+Allmänna utskottet 2021
+Allmänna utskottet 2020
+Allmänna utskottet 2019
+Allmänna utskottet 2018
+Allmänna utskottet 2017
+Allmänna utskottet 2016
+Allmänna utskottet 2015
+Barn- och utbildningsutskottet 2022
+Barn- och utbildningsutskottet 2021
+Barn- och utbildningsutskottet 2020
+Barn- och utbildningsutskottet 2019
+Barn- och utbildningsutskottet 2018
+Barn- och utbildningsutskottet 2017
+Barn- och utbildningsutskottet 2016
+Barn- och utbildningsutskottet 2015
+Demokrati- och samhällsutvecklingsutskottet 2022
+Demokrati- och samhällsutvecklingsutskottet 2021
+Demokrati- och samhällsutvecklingsutskottet 2020
+Demokrati- och samhällsutvecklingsutskottet 2019
+Demokrati- och samhällsutvecklingsutskottet 2018
+Demokrati- och samhällsutvecklingsutskottet 2017
+Kommunfullmäktige 2022
+Kommunfullmäktige 2021
+Kommunfullmäktige 2020
+Kommunfullmäktige 2019
+Kommunfullmäktige 2018
+Kommunfullmäktige 2017
+Kommunfullmäktige 2016
+Kommunfullmäktige 2015
+Kommunstyrelsen 2022
+Kommunstyrelsen 2021
+Kommunstyrelsen 2020
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: relative; top: 40px; width: 100%; min-height: 100%;"><div class="skiptranslate" style=""><iframe id=":1.container" class="VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate" frameborder="0" src="#" style="visibility:visible"></iframe></div><nav id="menu" aria-label="Mobilmeny" class="mm-menu mm-effect-slide-menu mm-shadow-page mm-shadow-panels mm-theme-white mm-fullscreen mm-offcanvas mm-right mm-iconpanel mm-hasnavbar-top-1" aria-hidden="true"><input class="mm-tabstart" tabindex="0" type="text"><div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1 mm-hasbtns"><a class="mm-prev mm-btn" href="#mm-36" aria-haspopup="true" tabindex="0"></a><a class="mm-title" href="#mm-36">Insyn och påverkan</a><a class="mm-close mm-btn" href="#mm-0" tabindex="0"><span class="mm-sronly">Close menu</span></a></div><div class="mm-panels"><div class="mm-panel mm-opened mm-subopened mm-iconpanel-0" id="mm-1"><a href="#mm-1" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-title">Meny</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-2" data-target="#mm-2" aria-owns="mm-2"><span class="mm-sronly">Öppna undermeny (Barn &amp; utbildning)</span></a><a href="/barn--utbildning.html">Barn &amp; utbildning</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-11" data-target="#mm-11" aria-owns="mm-11"><span class="mm-sronly">Öppna undermeny (Boende &amp; miljö)</span></a><a href="/boende--miljo.html">Boende &amp; miljö</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-18" data-target="#mm-18" aria-owns="mm-18"><span class="mm-sronly">Öppna undermeny (Stöd &amp; omsorg)</span></a><a href="/stod--omsorg.html">Stöd &amp; omsorg</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-30" data-target="#mm-30" aria-owns="mm-30"><span class="mm-sronly">Öppna undermeny (Näringsliv &amp; arbete)</span></a><a href="/naringsliv--arbete.html">Näringsliv &amp; arbete</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-36" data-target="#mm-36" aria-owns="mm-36"><span class="mm-sronly">Öppna undermeny (Kommun &amp; politik)</span></a><a href="/kommun--politik.html">Kommun &amp; politik</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-45" data-target="#mm-45" aria-owns="mm-45"><span class="mm-sronly">Öppna undermeny (Kultur &amp; fritid)</span></a><a href="/kultur--fritid.html">Kultur &amp; fritid</a> </li> </ul></div><div class="mm-panel mm-hidden" id="mm-2"><a href="#mm-2" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-btn mm-prev" href="#mm-1" data-target="#mm-1" aria-haspopup="true" aria-owns="mm-1"><span class="mm-sronly">Close submenu (Barn &amp; utbildning)</span></a><a class="mm-title" href="#mm-1">Barn &amp; utbildning</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-3" data-target="#mm-3" aria-owns="mm-3"><span class="mm-sronly">Öppna undermeny (Allmän information)</span></a><a href="/barn--utbildning/allman-information.html">Allmän information</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-5" data-target="#mm-5" aria-owns="mm-5"><span class="mm-sronly">Öppna undermeny (E-tjänster och blanketter)</span></a><a href="/barn--utbildning/e-tjanster-och-blanketter.html">E-tjänster och blanketter</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-6" data-target="#mm-6" aria-owns="mm-6"><span class="mm-sronly">Öppna undermeny (Förskola)</span></a><a href="/barn--utbildning/forskola.html">Förskola</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-7" data-target="#mm-7" aria-owns="mm-7"><span class="mm-sronly">Öppna undermeny (Grundskola och fritidshem)</span></a><a href="/barn--utbildning/grundskola-och-fritidshem.html">Grundskola och fritidshem</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-8" data-target="#mm-8" aria-owns="mm-8"><span class="mm-sro
+
+######## SIDA: https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36
+Titel: Protokoll och handlingar - Norbergs kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 |  | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Insyn och påverkan | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close menu | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 |  | Meny Öppna undermeny (Barn & utbildning)Barn & utbildning Öppna undermeny (Boende & miljö)Boende & miljö Öppna undermeny
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Öppna undermeny (Barn & utbildning) | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/barn--utbildning.html | Barn & utbildning | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Öppna undermeny (Boende & miljö) | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/boende--miljo.html | Boende & miljö | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | Öppna undermeny (Stöd & omsorg) | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/stod--omsorg.html | Stöd & omsorg | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-30 | Öppna undermeny (Näringsliv & arbete) | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Öppna undermeny (Kommun & politik) | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik.html | Kommun & politik | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-45 | Öppna undermeny (Kultur & fritid) | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kultur--fritid.html | Kultur & fritid | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 |  | Close submenu (Barn & utbildning)Barn & utbildning Öppna undermeny (Allmän information)Allmän information Öppna undermen
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Barn & utbildning) | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Barn & utbildning | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Öppna undermeny (Allmän information) | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information.html | Allmän information | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 | Öppna undermeny (E-tjänster och blanketter) | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 | Öppna undermeny (Förskola) | Öppna undermeny (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola.html | Förskola | Öppna undermeny (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 | Öppna undermeny (Grundskola och fritidshem) | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 | Öppna undermeny (Gymnasieutbildning) | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 | Öppna undermeny (Vuxenutbildning) | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Öppna undermeny (Övriga fristående verksamheter) | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 |  | Close submenu (Allmän information)Allmän information Avgiftskontroll Försäkringar Klagomålshantering Kommunala aktivitet
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Allmän information) | Close submenu (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Allmän information | Close submenu (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll | Avgiftskontroll
+https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar | Försäkringar
+https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering | Klagomålshantering
+https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA | Kommunala aktivitetsansvaret KAA
+https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan | Kulturskolan
+https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete | Kvalitetsarbete
+https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet | Läsårstider och datum för jouröppen verksamhet
+https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola | Mat och måltider i förskola och skola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 | Öppna undermeny (Skolskjuts) | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie | Timvikarie
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 |  | Close submenu (Skolskjuts)Skolskjuts Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Close submenu (Skolskjuts) | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Skolskjuts | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts | Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 |  | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter Blanketter E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (E-tjänster och blanketter) | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | E-tjänster och blanketter | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter | Blanketter
+https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 |  | Close submenu (Förskola)Förskola Ansök om plats i förskola Om våra förskolor Förskolan Blåsippan Förskolan Skogsgläntan 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Förskola) | Close submenu (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Förskola | Close submenu (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola | Ansök om plats i förskola
+https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor | Om våra förskolor
+https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan | Förskolan Blåsippan
+https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan | Förskolan Skogsgläntan
+https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen | Förskolan Tallen
+https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern | Förskolan Treklövern
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola | Avgifter för förskola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet | Utökad och jouröppen verksamhet
+https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola | Allmän förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 |  | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem Om våra grundskolor Engelbrektsskolan F-3 Engelbrekts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Grundskola och fritidshem) | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Grundskola och fritidshem | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor | Om våra grundskolor
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3 | Engelbrektsskolan F-3
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9 | Engelbrektsskolan 4-9
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem | Fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa | Elevhälsa
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem | Ansök om plats i fritidshem
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem | Avgifter för fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet | Frånvaro och ledighet
+http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster. | Schema Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola | Specialskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost | Anpassade måltider och specialkost
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 |  | Close submenu (Gymnasieutbildning)Gymnasieutbildning Ansökan till gymnasium Gymnasium Inackorderingstillägg och resestöd
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Gymnasieutbildning) | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Gymnasieutbildning | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium | Ansökan till gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium | Gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd | Inackorderingstillägg och resestöd
+https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL | Skolresor, skolkort och VL
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 |  | Close submenu (Vuxenutbildning)Vuxenutbildning Boka tid hos studievägledaren Kommunal vuxenutbildning Studiestartsstöd o
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Vuxenutbildning) | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Vuxenutbildning | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren | Boka tid hos studievägledaren
+https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning | Kommunal vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån | Studiestartsstöd och hemutrustningslån
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 |  | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter Bidrag till fristående verksamheter Familje
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Övriga fristående verksamheter) | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Övriga fristående verksamheter | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter | Bidrag till fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan | Familjecentralen LärKan
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem | Karbennings daghem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 |  | Close submenu (Boende & miljö)Boende & miljö Öppna undermeny (Avfall och återvinning)Avfall och återvinning Öppna underm
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Boende & miljö) | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Boende & miljö | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 | Öppna undermeny (Avfall och återvinning) | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 | Öppna undermeny (Bostäder) | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader.html | Bostäder | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 | Öppna undermeny (Bygga) | Öppna undermeny (Bygga)Bygga
+https://norberg.se/boende--miljo/bygga.html | Bygga | Öppna undermeny (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 | Öppna undermeny (Naturvård och miljö) | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-16 | Öppna undermeny (Stadsutveckling) | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Öppna undermeny (Vatten och avlopp) | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 |  | Close submenu (Avfall och återvinning)Avfall och återvinning Avfall och återvinning Länk till annan webbplats, öppnas i 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Avfall och återvinning) | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Avfall och återvinning | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster. | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 |  | Close submenu (Bostäder)Bostäder Fixar-Malte Hyresrätter Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bostäder) | Close submenu (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bostäder | Close submenu (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte | Fixar-Malte
+https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter | Hyresrätter
+https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad | Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 |  | Close submenu (Bygga)Bygga Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. Fastigheter, bostäde
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bygga) | Close submenu (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bygga | Close submenu (Bygga)Bygga
+https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster. | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster. | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+https://nvk.se/bygga-bo--miljo/markfragor-och-lediga-tomter/lediga-tomter-i-norberg.html | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster. | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster. | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster. | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 |  | Close submenu (Naturvård och miljö)Naturvård och miljö Djur Länk till annan webbplats, öppnas i nytt fönster. Eldning av
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Naturvård och miljö) | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Naturvård och miljö | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster. | Djur Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor | Eldning av trädgårdsavfall och majbrasor
+https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster. | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster. | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten | Metaller i mark och vatten
+https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster. | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Sök
+Lyssna
+på webbplatsen genom att aktivera Talande Webb
+Översätt
+webbplatsen genom att använda google translate
+på Norberg.se
+Allmänna utskottet 2022
+Allmänna utskottet 2021
+Allmänna utskottet 2020
+Allmänna utskottet 2019
+Allmänna utskottet 2018
+Allmänna utskottet 2017
+Allmänna utskottet 2016
+Allmänna utskottet 2015
+Barn- och utbildningsutskottet 2022
+Barn- och utbildningsutskottet 2021
+Barn- och utbildningsutskottet 2020
+Barn- och utbildningsutskottet 2019
+Barn- och utbildningsutskottet 2018
+Barn- och utbildningsutskottet 2017
+Barn- och utbildningsutskottet 2016
+Barn- och utbildningsutskottet 2015
+Demokrati- och samhällsutvecklingsutskottet 2022
+Demokrati- och samhällsutvecklingsutskottet 2021
+Demokrati- och samhällsutvecklingsutskottet 2020
+Demokrati- och samhällsutvecklingsutskottet 2019
+Demokrati- och samhällsutvecklingsutskottet 2018
+Demokrati- och samhällsutvecklingsutskottet 2017
+Kommunfullmäktige 2022
+Kommunfullmäktige 2021
+Kommunfullmäktige 2020
+Kommunfullmäktige 2019
+Kommunfullmäktige 2018
+Kommunfullmäktige 2017
+Kommunfullmäktige 2016
+Kommunfullmäktige 2015
+Kommunstyrelsen 2022
+Kommunstyrelsen 2021
+Kommunstyrelsen 2020
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: relative; top: 40px; width: 100%; min-height: 100%;"><div class="skiptranslate" style=""><iframe id=":1.container" class="VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate" frameborder="0" src="#" style="visibility:visible"></iframe></div><nav id="menu" aria-label="Mobilmeny" class="mm-menu mm-effect-slide-menu mm-shadow-page mm-shadow-panels mm-theme-white mm-fullscreen mm-offcanvas mm-right mm-iconpanel mm-hasnavbar-top-1" aria-hidden="true"><input class="mm-tabstart" tabindex="0" type="text"><div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1 mm-hasbtns"><a class="mm-prev mm-btn" href="#mm-36" aria-haspopup="true" tabindex="0"></a><a class="mm-title" href="#mm-36">Insyn och påverkan</a><a class="mm-close mm-btn" href="#mm-0" tabindex="0"><span class="mm-sronly">Close menu</span></a></div><div class="mm-panels"><div class="mm-panel mm-opened mm-subopened mm-iconpanel-0" id="mm-1"><a href="#mm-1" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-title">Meny</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-2" data-target="#mm-2" aria-owns="mm-2"><span class="mm-sronly">Öppna undermeny (Barn &amp; utbildning)</span></a><a href="/barn--utbildning.html">Barn &amp; utbildning</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-11" data-target="#mm-11" aria-owns="mm-11"><span class="mm-sronly">Öppna undermeny (Boende &amp; miljö)</span></a><a href="/boende--miljo.html">Boende &amp; miljö</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-18" data-target="#mm-18" aria-owns="mm-18"><span class="mm-sronly">Öppna undermeny (Stöd &amp; omsorg)</span></a><a href="/stod--omsorg.html">Stöd &amp; omsorg</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-30" data-target="#mm-30" aria-owns="mm-30"><span class="mm-sronly">Öppna undermeny (Näringsliv &amp; arbete)</span></a><a href="/naringsliv--arbete.html">Näringsliv &amp; arbete</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-36" data-target="#mm-36" aria-owns="mm-36"><span class="mm-sronly">Öppna undermeny (Kommun &amp; politik)</span></a><a href="/kommun--politik.html">Kommun &amp; politik</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-45" data-target="#mm-45" aria-owns="mm-45"><span class="mm-sronly">Öppna undermeny (Kultur &amp; fritid)</span></a><a href="/kultur--fritid.html">Kultur &amp; fritid</a> </li> </ul></div><div class="mm-panel mm-hidden" id="mm-2"><a href="#mm-2" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-btn mm-prev" href="#mm-1" data-target="#mm-1" aria-haspopup="true" aria-owns="mm-1"><span class="mm-sronly">Close submenu (Barn &amp; utbildning)</span></a><a class="mm-title" href="#mm-1">Barn &amp; utbildning</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-3" data-target="#mm-3" aria-owns="mm-3"><span class="mm-sronly">Öppna undermeny (Allmän information)</span></a><a href="/barn--utbildning/allman-information.html">Allmän information</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-5" data-target="#mm-5" aria-owns="mm-5"><span class="mm-sronly">Öppna undermeny (E-tjänster och blanketter)</span></a><a href="/barn--utbildning/e-tjanster-och-blanketter.html">E-tjänster och blanketter</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-6" data-target="#mm-6" aria-owns="mm-6"><span class="mm-sronly">Öppna undermeny (Förskola)</span></a><a href="/barn--utbildning/forskola.html">Förskola</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-7" data-target="#mm-7" aria-owns="mm-7"><span class="mm-sronly">Öppna undermeny (Grundskola och fritidshem)</span></a><a href="/barn--utbildning/grundskola-och-fritidshem.html">Grundskola och fritidshem</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-8" data-target="#mm-8" aria-owns="mm-8"><span class="mm-sro
+
+######## SIDA: https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0
+Titel: Protokoll och handlingar - Norbergs kommun
+
+## Dataanrop
+
+## Länkar (href | text | sammanhang)
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 |  | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Insyn och påverkan | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close menu | Insyn och påverkanClose menu
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 |  | Meny Öppna undermeny (Barn & utbildning)Barn & utbildning Öppna undermeny (Boende & miljö)Boende & miljö Öppna undermeny
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Öppna undermeny (Barn & utbildning) | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/barn--utbildning.html | Barn & utbildning | Öppna undermeny (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Öppna undermeny (Boende & miljö) | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/boende--miljo.html | Boende & miljö | Öppna undermeny (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | Öppna undermeny (Stöd & omsorg) | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/stod--omsorg.html | Stöd & omsorg | Öppna undermeny (Stöd & omsorg)Stöd & omsorg
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-30 | Öppna undermeny (Näringsliv & arbete) | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete | Öppna undermeny (Näringsliv & arbete)Näringsliv & arbete
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-36 | Öppna undermeny (Kommun & politik) | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik.html | Kommun & politik | Öppna undermeny (Kommun & politik)Kommun & politik
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-45 | Öppna undermeny (Kultur & fritid) | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kultur--fritid.html | Kultur & fritid | Öppna undermeny (Kultur & fritid)Kultur & fritid
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 |  | Close submenu (Barn & utbildning)Barn & utbildning Öppna undermeny (Allmän information)Allmän information Öppna undermen
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Barn & utbildning) | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Barn & utbildning | Close submenu (Barn & utbildning)Barn & utbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Öppna undermeny (Allmän information) | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information.html | Allmän information | Öppna undermeny (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 | Öppna undermeny (E-tjänster och blanketter) | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter | Öppna undermeny (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 | Öppna undermeny (Förskola) | Öppna undermeny (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola.html | Förskola | Öppna undermeny (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 | Öppna undermeny (Grundskola och fritidshem) | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem | Öppna undermeny (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 | Öppna undermeny (Gymnasieutbildning) | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning | Öppna undermeny (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 | Öppna undermeny (Vuxenutbildning) | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning | Öppna undermeny (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Öppna undermeny (Övriga fristående verksamheter) | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter | Öppna undermeny (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 |  | Close submenu (Allmän information)Allmän information Avgiftskontroll Försäkringar Klagomålshantering Kommunala aktivitet
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Allmän information) | Close submenu (Allmän information)Allmän information
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Allmän information | Close submenu (Allmän information)Allmän information
+https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll | Avgiftskontroll
+https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar | Försäkringar
+https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering | Klagomålshantering
+https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA | Kommunala aktivitetsansvaret KAA
+https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan | Kulturskolan
+https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete | Kvalitetsarbete
+https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet | Läsårstider och datum för jouröppen verksamhet
+https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola | Mat och måltider i förskola och skola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 | Öppna undermeny (Skolskjuts) | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts | Öppna undermeny (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie | Timvikarie
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 |  | Close submenu (Skolskjuts)Skolskjuts Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Close submenu (Skolskjuts) | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Skolskjuts | Close submenu (Skolskjuts)Skolskjuts
+https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts | Riktlinjer för skolskjuts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 |  | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter Blanketter E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (E-tjänster och blanketter) | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | E-tjänster och blanketter | Close submenu (E-tjänster och blanketter)E-tjänster och blanketter
+https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter | Blanketter
+https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats. | E-tjänster Länk till annan webbplats.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 |  | Close submenu (Förskola)Förskola Ansök om plats i förskola Om våra förskolor Förskolan Blåsippan Förskolan Skogsgläntan 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Förskola) | Close submenu (Förskola)Förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Förskola | Close submenu (Förskola)Förskola
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola | Ansök om plats i förskola
+https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor | Om våra förskolor
+https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan | Förskolan Blåsippan
+https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan | Förskolan Skogsgläntan
+https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen | Förskolan Tallen
+https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern | Förskolan Treklövern
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola | Avgifter för förskola
+https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform | Quiculum lärplattform
+https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet | Utökad och jouröppen verksamhet
+https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola | Allmän förskola
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 |  | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem Om våra grundskolor Engelbrektsskolan F-3 Engelbrekts
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Grundskola och fritidshem) | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Grundskola och fritidshem | Close submenu (Grundskola och fritidshem)Grundskola och fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor | Om våra grundskolor
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3 | Engelbrektsskolan F-3
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9 | Engelbrektsskolan 4-9
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola | Anpassad grundskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem | Fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa | Elevhälsa
+https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem | Ansök om plats i fritidshem
+https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem | Avgifter för fritidshem
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet | Frånvaro och ledighet
+http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster. | Schema Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning | Modersmålsundervisning
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola | Specialskola
+https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost | Anpassade måltider och specialkost
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 |  | Close submenu (Gymnasieutbildning)Gymnasieutbildning Ansökan till gymnasium Gymnasium Inackorderingstillägg och resestöd
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Gymnasieutbildning) | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Gymnasieutbildning | Close submenu (Gymnasieutbildning)Gymnasieutbildning
+https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium | Ansökan till gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium | Gymnasium
+https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd | Inackorderingstillägg och resestöd
+https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL | Skolresor, skolkort och VL
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 |  | Close submenu (Vuxenutbildning)Vuxenutbildning Boka tid hos studievägledaren Kommunal vuxenutbildning Studiestartsstöd o
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Vuxenutbildning) | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Vuxenutbildning | Close submenu (Vuxenutbildning)Vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren | Boka tid hos studievägledaren
+https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning | Kommunal vuxenutbildning
+https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån | Studiestartsstöd och hemutrustningslån
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 |  | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter Bidrag till fristående verksamheter Familje
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Övriga fristående verksamheter) | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Övriga fristående verksamheter | Close submenu (Övriga fristående verksamheter)Övriga fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter | Bidrag till fristående verksamheter
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan | Familjecentralen LärKan
+https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem | Karbennings daghem
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 |  | Close submenu (Boende & miljö)Boende & miljö Öppna undermeny (Avfall och återvinning)Avfall och återvinning Öppna underm
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Boende & miljö) | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Boende & miljö | Close submenu (Boende & miljö)Boende & miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 | Öppna undermeny (Avfall och återvinning) | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning | Öppna undermeny (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 | Öppna undermeny (Bostäder) | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader.html | Bostäder | Öppna undermeny (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 | Öppna undermeny (Bygga) | Öppna undermeny (Bygga)Bygga
+https://norberg.se/boende--miljo/bygga.html | Bygga | Öppna undermeny (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 | Öppna undermeny (Naturvård och miljö) | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö | Öppna undermeny (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-16 | Öppna undermeny (Stadsutveckling) | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling | Öppna undermeny (Stadsutveckling)Stadsutveckling
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Öppna undermeny (Vatten och avlopp) | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp | Öppna undermeny (Vatten och avlopp)Vatten och avlopp
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 |  | Close submenu (Avfall och återvinning)Avfall och återvinning Avfall och återvinning Länk till annan webbplats, öppnas i 
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Avfall och återvinning) | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Avfall och återvinning | Close submenu (Avfall och återvinning)Avfall och återvinning
+https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster. | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 |  | Close submenu (Bostäder)Bostäder Fixar-Malte Hyresrätter Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bostäder) | Close submenu (Bostäder)Bostäder
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bostäder | Close submenu (Bostäder)Bostäder
+https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte | Fixar-Malte
+https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter | Hyresrätter
+https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad | Till dig som är nyinflyttad
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 |  | Close submenu (Bygga)Bygga Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. Fastigheter, bostäde
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Bygga) | Close submenu (Bygga)Bygga
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Bygga | Close submenu (Bygga)Bygga
+https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster. | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster. | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster. | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+https://nvk.se/bygga-bo--miljo/markfragor-och-lediga-tomter/lediga-tomter-i-norberg.html | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster. | Lediga tomter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster. | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster. | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 |  | Close submenu (Naturvård och miljö)Naturvård och miljö Djur Länk till annan webbplats, öppnas i nytt fönster. Eldning av
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Close submenu (Naturvård och miljö) | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Naturvård och miljö | Close submenu (Naturvård och miljö)Naturvård och miljö
+https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster. | Djur Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor | Eldning av trädgårdsavfall och majbrasor
+https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster. | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster. | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten | Metaller i mark och vatten
+https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster. | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+
+## Knappar
+Godkänn nödvändiga kakor
+Godkänn alla kakor
+Anpassa inställningar
+Sök
+Lyssna
+på webbplatsen genom att aktivera Talande Webb
+Översätt
+webbplatsen genom att använda google translate
+på Norberg.se
+Allmänna utskottet 2022
+Allmänna utskottet 2021
+Allmänna utskottet 2020
+Allmänna utskottet 2019
+Allmänna utskottet 2018
+Allmänna utskottet 2017
+Allmänna utskottet 2016
+Allmänna utskottet 2015
+Barn- och utbildningsutskottet 2022
+Barn- och utbildningsutskottet 2021
+Barn- och utbildningsutskottet 2020
+Barn- och utbildningsutskottet 2019
+Barn- och utbildningsutskottet 2018
+Barn- och utbildningsutskottet 2017
+Barn- och utbildningsutskottet 2016
+Barn- och utbildningsutskottet 2015
+Demokrati- och samhällsutvecklingsutskottet 2022
+Demokrati- och samhällsutvecklingsutskottet 2021
+Demokrati- och samhällsutvecklingsutskottet 2020
+Demokrati- och samhällsutvecklingsutskottet 2019
+Demokrati- och samhällsutvecklingsutskottet 2018
+Demokrati- och samhällsutvecklingsutskottet 2017
+Kommunfullmäktige 2022
+Kommunfullmäktige 2021
+Kommunfullmäktige 2020
+Kommunfullmäktige 2019
+Kommunfullmäktige 2018
+Kommunfullmäktige 2017
+Kommunfullmäktige 2016
+Kommunfullmäktige 2015
+Kommunstyrelsen 2022
+Kommunstyrelsen 2021
+Kommunstyrelsen 2020
+
+## HTML (början av body)
+<body class=" sv-responsive env-m-around--0" style="overflow: hidden; position: relative; top: 40px; width: 100%; min-height: 100%;"><div class="skiptranslate" style=""><iframe id=":1.container" class="VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate" frameborder="0" src="#" style="visibility:visible"></iframe></div><nav id="menu" aria-label="Mobilmeny" class="mm-menu mm-effect-slide-menu mm-shadow-page mm-shadow-panels mm-theme-white mm-fullscreen mm-offcanvas mm-right mm-iconpanel mm-hasnavbar-top-1" aria-hidden="true"><input class="mm-tabstart" tabindex="0" type="text"><div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1 mm-hasbtns"><a class="mm-prev mm-btn" href="#mm-36" aria-haspopup="true" tabindex="0"></a><a class="mm-title" href="#mm-36">Insyn och påverkan</a><a class="mm-close mm-btn" href="#mm-0" tabindex="0"><span class="mm-sronly">Close menu</span></a></div><div class="mm-panels"><div class="mm-panel mm-opened mm-subopened mm-iconpanel-0" id="mm-1"><a href="#mm-1" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-title">Meny</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-2" data-target="#mm-2" aria-owns="mm-2"><span class="mm-sronly">Öppna undermeny (Barn &amp; utbildning)</span></a><a href="/barn--utbildning.html">Barn &amp; utbildning</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-11" data-target="#mm-11" aria-owns="mm-11"><span class="mm-sronly">Öppna undermeny (Boende &amp; miljö)</span></a><a href="/boende--miljo.html">Boende &amp; miljö</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-18" data-target="#mm-18" aria-owns="mm-18"><span class="mm-sronly">Öppna undermeny (Stöd &amp; omsorg)</span></a><a href="/stod--omsorg.html">Stöd &amp; omsorg</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-30" data-target="#mm-30" aria-owns="mm-30"><span class="mm-sronly">Öppna undermeny (Näringsliv &amp; arbete)</span></a><a href="/naringsliv--arbete.html">Näringsliv &amp; arbete</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-36" data-target="#mm-36" aria-owns="mm-36"><span class="mm-sronly">Öppna undermeny (Kommun &amp; politik)</span></a><a href="/kommun--politik.html">Kommun &amp; politik</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-45" data-target="#mm-45" aria-owns="mm-45"><span class="mm-sronly">Öppna undermeny (Kultur &amp; fritid)</span></a><a href="/kultur--fritid.html">Kultur &amp; fritid</a> </li> </ul></div><div class="mm-panel mm-hidden" id="mm-2"><a href="#mm-2" class="mm-subblocker"></a><div class="mm-navbar mm-hidden"><a class="mm-btn mm-prev" href="#mm-1" data-target="#mm-1" aria-haspopup="true" aria-owns="mm-1"><span class="mm-sronly">Close submenu (Barn &amp; utbildning)</span></a><a class="mm-title" href="#mm-1">Barn &amp; utbildning</a></div><ul class="mm-listview"> <li class="notSelected"> <a class="mm-next" href="#mm-3" data-target="#mm-3" aria-owns="mm-3"><span class="mm-sronly">Öppna undermeny (Allmän information)</span></a><a href="/barn--utbildning/allman-information.html">Allmän information</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-5" data-target="#mm-5" aria-owns="mm-5"><span class="mm-sronly">Öppna undermeny (E-tjänster och blanketter)</span></a><a href="/barn--utbildning/e-tjanster-och-blanketter.html">E-tjänster och blanketter</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-6" data-target="#mm-6" aria-owns="mm-6"><span class="mm-sronly">Öppna undermeny (Förskola)</span></a><a href="/barn--utbildning/forskola.html">Förskola</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-7" data-target="#mm-7" aria-owns="mm-7"><span class="mm-sronly">Öppna undermeny (Grundskola och fritidshem)</span></a><a href="/barn--utbildning/grundskola-och-fritidshem.html">Grundskola och fritidshem</a> </li> <li class="notSelected"> <a class="mm-next" href="#mm-8" data-target="#mm-8" aria-owns="mm-8"><span class="mm-sro
