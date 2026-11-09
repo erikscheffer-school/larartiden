@@ -1,0 +1,159 @@
+# sundbyberg
+
+######## https://www.sundbyberg.se/
+Titel: Sundbybergs stad
+Spår i HTML: appresource/2.243ed9818d87275d28446d/12.243ed9818d87275d28435e/manifest.webmanifest ; opengov.360online.com/Meetings/Sundbyberg
+Text: Gå till innehåll Vi använder kakor På sundbyberg.se använder vi cookies för besöksstatistik och för vissa funktioner i syfte att förbättra och förenkla användarupplevelsen av vår webbplats. Genom att fortsätta använda webbplatsen godkänner du vår användning av cookies. Läs mer i vår cookiepolicy Godkänn alla kakor Godkänn nödvändiga kakor Anpassa inställningar E-tjänster (öppnas i nytt fönster) Kontakt Translate Sök Sundbybergs stad Förskola, skola och utbildning Omsorg och stöd Uppleva och göra Bygga, bo och miljö Jobb och företagande Trafik och gator Kommun och politik Välkommen till Sundbyberg – levande, nytänkande, tillsammans Hur kan vi hjälpa dig idag? Hur kan vi hjälpa dig idag? Sök Lediga jobb Simhallen Bibliotek Anslagstavla Felanmälan Boendeparkering En månad fri från våld Är du rädd för din partner eller någon annan som står dig nära? Är du orolig för någon du känner? Eller har du svårt att kontrollera din ilska? Sedan den 1 juli är även psykiskt våld ett brott. Under november uppmärksammar vi våld i nära relationer. Socialtjänsten kan ge dig stöd! Hallonbergen Live den 14 november (Öppnas i nytt fönster) Välkommen till en festival för alla åldrar i Hallonbergen centrum! Upplev konserter, loppis, musiklek, tävlingar och massor av andra aktiviteter. Programmet uppdateras löpande. Nya servicetider från 1 november – kontrollera skylten där du parkerar Från och med 1 november ändrar Sundbybergs stad servicetiderna på vissa platser. Det kan påverka när och var du får parkera. Var därför uppmärksam på skyltningen där du parkerar bilen. Nyheter Kålle möter Sundbybergarna med ett leende Publicerad: 5 november 2026 Kategori(er): Jobb och företagande Sundbybergs stad Kålle är en av stadens mest synliga medarbetare. Han är ute på gatorna varje dag och möter sundbybergare i alla delar av staden. Som parkeringsvakt gör han mer än att kontrollera att bilar står rätt. Han vägleder, förklarar vad som gäller och är en ambassadör för Sundbyberg. Hans bästa tips är en positiv inställning: en glad parkeringsvakt möts oftast av glada bilister. Ny nämnd för fastigheter och service föreslås Publicerad: 28 oktober 2026 Kategori(er): Sundbybergs stad Sundbybergs stad föreslås få en ny nämnd med ansvar för stadens lokaler och fastigheter. Fastighets- och servicenämnden planeras att starta den 1 januari 2027, och kommunfullmäktige väntas fatta beslut i december. Tre företagare nominerade till Årets Nyföretagare i Sundbyberg 2026 Publicerad: 27 oktober 2026 Kategori(er): J
+Länkar:
+  https://www.sundbyberg.se/#page_content | Gå till innehåll
+  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/om-cookies | Läs mer i vår cookiepolicy
+  https://service.sundbyberg.se/ | E-tjänster (öppnas i nytt fönster)
+  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakt
+  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/translate | Translate
+  https://www.sundbyberg.se/ | 
+  https://www.sundbyberg.se/ | 
+  https://www.sundbyberg.se/forskola-skola-och-utbildning | Förskola, skola och utbildning
+  https://www.sundbyberg.se/omsorg-och-stod | Omsorg och stöd
+  https://www.sundbyberg.se/uppleva-och-gora | Uppleva och göra
+  https://www.sundbyberg.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://www.sundbyberg.se/jobb-och-foretagande | Jobb och företagande
+  https://www.sundbyberg.se/trafik-och-gator | Trafik och gator
+  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
+  https://www.sundbyberg.se/forskola-skola-och-utbildning | Förskola, skola och utbildning
+  https://www.sundbyberg.se/omsorg-och-stod | Omsorg och stöd
+  https://www.sundbyberg.se/uppleva-och-gora | Uppleva och göra
+  https://www.sundbyberg.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://www.sundbyberg.se/jobb-och-foretagande | Jobb och företagande
+  https://www.sundbyberg.se/trafik-och-gator | Trafik och gator
+  https://www.sundbyberg.se/kommun-och-politik | Kommun och politik
+  https://www.sundbyberg.se/kampanj/jobba-i-sundbyberg/lediga-jobb | Lediga jobb
+  https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/simhall-och-gym | Simhallen
+  https://www.sundbyberg.se/uppleva-och-gora/bibliotek | Bibliotek
+  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/anslagstavla | Anslagstavla
+  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/felanmalan | Felanmälan
+  https://www.sundbyberg.se/trafik-och-gator/parkering/boendeparkering | Boendeparkering
+  https://www.sundbyberg.se/omsorg-och-stod/vald-och-utsatthet/vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck | En månad fri från våld
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter/evenemang-i-hallonbergen/2026-11-14-hallonbergen-live-2026 | Hallonbergen Live den 14 november (Öppnas i nytt fönster)
+  https://www.sundbyberg.se/arkiv/nyheter/2026/2026-10-16-nya-servicetider-fran-1-november---kontrollera-skylten-dar-du-parkerar | Nya servicetider från 1 november – kontrollera skylten där du parkerar
+  https://www.sundbyberg.se/arkiv/nyheter/2026/2026-11-05-kalle-moter-sundbybergarna-med-ett-leende | Kålle möter Sundbybergarna med ett leende
+  https://www.sundbyberg.se/arkiv/nyheter/2026/2026-10-28-ny-namnd-for-fastigheter-och-service-foreslas | Ny nämnd för fastigheter och service föreslås
+  https://www.sundbyberg.se/arkiv/nyheter/2026/2026-10-27-tre-foretagare-nominerade-till-arets-nyforetagare-i-sundbyberg-2026 | Tre företagare nominerade till Årets Nyföretagare i Sundbyberg 2026
+  https://www.sundbyberg.se/arkiv/nyheter | Fler nyheter
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter/allmanna-evenemang-i-staden/2026-10-05-en-manad-fri-fran-vald-i-nordvast | En månad fri från våld i nordväst
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter/traffpunkternas-evenemang/2026-11-12-forsok-inte-lura-mig | Försök inte lura mig!
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter/naringsliv/2026-11-12-foretagslots---traffa-oss-runt-ett-dukat-bord | Företagslots - träffa oss runt ett dukat bord
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter | Fler evenemang
+  https://www.sundbyberg.se/arkiv/anslagstavla/arkiv/2026-11-02-samrad-om-reviderade-avfallsforeskrifter | Samråd om reviderade avfallsföreskrifter
+  https://www.sundbyberg.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/fritidsbanken | Nu öppnar Fritidsbanken
+  https://www.sundbyberg.se/arkiv/evenemang-och-aktiviteter/traffpunkternas-evenemang/2026-11-12-forsok-inte-lura-mig | Försök inte lura mig!
+  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/synpunkter-och-klagomal | Synpunkter och klagomål
+  https://www.sundbyberg.se/kommun-och-politik/politik-och-demokrati/dialog-och-synpunkter/e-forslag | E-förslag
+  https://www.sundbyberg.se/kommun-och-politik/sundbybergs-stads-organisation/kommunfullmaktige/webbsandning-av-kommunfullmaktige | Kommunfullmäktige webb-tv
+  https://service.sundbyberg.se/ | E-tjänster (Länk till annan webbplats, öppnas i nytt fönster)
+  https://sbgstad.maps.arcgis.com/apps/webappviewer/index.html?id=65f358922bb242fb99079c8f3665363f | Sundbybergskartan (Länk till annan webbplats, öppnas i nytt fönster)
+  https://opengov.360online.com/Meetings/Sundbyberg | Politiska sammanträden (Länk till annan webbplats, öppnas i nytt fönster)
+  https://www.sundbyberg.se/arkiv/drift--och-storningsinformation/drift--och-storningsinformation/2026-08-20-savab-utfor-arbeten-pa-jarnvagsgatan | SAVAB utför arbeten på Järnvägsgatan
+  https://www.sundbyberg.se/arkiv/drift--och-storningsinformation/drift--och-storningsinformation/2026-10-06-upprustning-av-ursviks-aktivitetspark | Upprustning av Ursviks aktivitetspark
+  https://www.sundbyberg.se/arkiv/drift--och-storningsinformation/drift--och-storningsinformation/2026-09-14-trafiksakerhetsatgarder-i-korsningen-humblegatan-albygatan | Trafiksäkerhetsåtgärder i korsningen Humblegatan/Albygatan
+  https://www.sundbyberg.se/arkiv/drift--och-storningsinformation | Fler meddelanden
+  https://www.sundbyberg.se/kommun-och-politik/kontakta-oss | Kontakta oss
+  tel:08-7068000 | 08-706 80 00
+  https://www.sundbyberg.se/kommun-och-politik/press | Press
+  https://www.sundbyberg.se/arkiv/nyheter | Nyheter
+  https://www.instagram.com/sundbybergsstad | Instagram (öppnas i nytt fönster)
+  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://www.sundbyberg.se/kommun-och-politik/personuppgifter-och-dataskydd | Personuppgifter
+  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen/om-cookies | Cookies
+  https://www.sundbyberg.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
+  https://intranat.sundbyberg.se/ | Intranätet (öppnas i nytt fönster)
+Dataanrop:
+  GET 200 https://svanalytics.containers.piwik.pro/f8e158f9-2824-495c-9ab8-12d5dca64269/privacy-widgets.json
+      {"en":{"data_subject_request":{"styles":"<style>div.ppms_cm_data_subject_widget__wrapper,form.ppms_cm_data_subject_form,input.ppms_cm_data_subject_form_submit,textarea.ppms_cm_data_subject_form_textarea,label.ppms_cm_data_subject_form_label,div.ppms_cm_data_subject_form_select_wrapper,div.ppms_select_component_extendable,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_extended_item,div.ppms_select_component_btn,span.ppms_select_component-btn-chevron,label.ppms_cm_data_subject_form_label,input.ppms_cm_data_subject_form_input,label.ppms_cm_data_subject_form_label,p.paragraph,h3.header3 {align-content: initial !important; align-items: initial !important; align-self: initial !important; animation: initial !important; appearance: initial !important; backface-visibility: initial !important; background-blend-mode: initial !important; background: none !important; binding: initial !important; block-size: initial !important; border-block-end: initial !important; border-block-start: initial !important; border-collapse: initial !important; border-inline-end: initial !important; border-inline-start: initial !important; border-radius: initial !important; border-spacing: initial !important; border: 0px !important; bottom: initial !important; box-align: initial !important; box-decoration-break: initial !important; box-direction: initial !important; box-flex: initial !important; box-ordinal-group: initial !important; box-orient: initia
+
+######## https://opengov.360online.com/Meetings/Sundbyberg
+Titel: Politiska sammanträden och möteshandlingar - Hem
+Spår i HTML: OpenGovColor, ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/SBG_Logogrupp_Halm.jpg ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/banner.jpg
+Text: Gå till huvudinnehåll Politiska sammanträden och möteshandlingar Hem Hitta möten År 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 Månad januari februari mars april maj juni juli augusti september oktober november december Använd filter 1 möten är tillgängliga för november 2026 Kommunfullmäktige (2026-11-09) 2026-11-09 17:00 Aktiva instanser Kommunstyrelsen 2026 - 2026 Kommunfullmäktige 2026 - 2026 Byggnads- och tillståndsnämnden 2026 - 2026 Stadsmiljö- och trafiknämnden 2026 - 2026 Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026 Översiktsplanekommittén 2026 - 2026 Förskolenämnden 2026 - 2026 Grundskole- och gymnasienämnden 2026 - 2026 Äldrenämnden 2026 - 2026 Överförmyndarnämnden 2026 - 2026 Sundbybergs stads funktionsrättsråd 2026 - 2026 Kultur- och fritidsnämnden 2026 - 2026 Brottsförebyggande rådet 2026 - 2026 Sundbybergs stads pensionärsråd 2026 - 2026 Valnämnden 2026 - 2026 Social- och arbetsmarknadsnämnden 2026 - 2026 Kommunstyrelsens personalutskott 2026 - 2026 Visa alla instanser Sundbybergs stad | Östra Madenvägen 4, 172 92 Sundbyberg | Telefonnummer: 08-706 80 00 | e-post: kommunstyrelsen@sundbyberg.se | www.sundbyberg.se
+Länkar:
+  https://opengov.360online.com/Meetings/Sundbyberg#content | Gå till huvudinnehåll
+  https://opengov.360online.com/Meetings/Sundbyberg | 
+  https://opengov.360online.com/Meetings/Sundbyberg/Meetings/Details/877751 | Kommunfullmäktige (2026-11-09) 2026-11-09 17:00
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317691 | Kommunstyrelsen 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317692 | Kommunfullmäktige 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317800 | Byggnads- och tillståndsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317801 | Stadsmiljö- och trafiknämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317815 | Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317859 | Översiktsplanekommittén 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317863 | Förskolenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317864 | Grundskole- och gymnasienämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317881 | Äldrenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317886 | Överförmyndarnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317921 | Sundbybergs stads funktionsrättsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317922 | Kultur- och fritidsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317927 | Brottsförebyggande rådet 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317928 | Sundbybergs stads pensionärsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317936 | Valnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317937 | Social- och arbetsmarknadsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317960 | Kommunstyrelsens personalutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards | Visa alla instanser
+Dataanrop:
+  POST 200 https://dc.services.visualstudio.com/v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":"ac88763b-364f-4982-bd6e-05d856ef9ded","errors":[]}
+
+######## https://opengov.360online.com/Meetings/Sundbyberg#content
+Titel: Politiska sammanträden och möteshandlingar - Hem
+Spår i HTML: OpenGovColor, ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/SBG_Logogrupp_Halm.jpg ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/banner.jpg
+Text: Gå till huvudinnehåll Politiska sammanträden och möteshandlingar Hem Hitta möten År 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 Månad januari februari mars april maj juni juli augusti september oktober november december Använd filter 1 möten är tillgängliga för november 2026 Kommunfullmäktige (2026-11-09) 2026-11-09 17:00 Aktiva instanser Kommunstyrelsen 2026 - 2026 Kommunfullmäktige 2026 - 2026 Byggnads- och tillståndsnämnden 2026 - 2026 Stadsmiljö- och trafiknämnden 2026 - 2026 Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026 Översiktsplanekommittén 2026 - 2026 Förskolenämnden 2026 - 2026 Grundskole- och gymnasienämnden 2026 - 2026 Äldrenämnden 2026 - 2026 Överförmyndarnämnden 2026 - 2026 Sundbybergs stads funktionsrättsråd 2026 - 2026 Kultur- och fritidsnämnden 2026 - 2026 Brottsförebyggande rådet 2026 - 2026 Sundbybergs stads pensionärsråd 2026 - 2026 Valnämnden 2026 - 2026 Social- och arbetsmarknadsnämnden 2026 - 2026 Kommunstyrelsens personalutskott 2026 - 2026 Visa alla instanser Sundbybergs stad | Östra Madenvägen 4, 172 92 Sundbyberg | Telefonnummer: 08-706 80 00 | e-post: kommunstyrelsen@sundbyberg.se | www.sundbyberg.se
+Länkar:
+  https://opengov.360online.com/Meetings/Sundbyberg#content | Gå till huvudinnehåll
+  https://opengov.360online.com/Meetings/Sundbyberg | 
+  https://opengov.360online.com/Meetings/Sundbyberg/Meetings/Details/877751 | Kommunfullmäktige (2026-11-09) 2026-11-09 17:00
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317691 | Kommunstyrelsen 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317692 | Kommunfullmäktige 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317800 | Byggnads- och tillståndsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317801 | Stadsmiljö- och trafiknämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317815 | Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317859 | Översiktsplanekommittén 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317863 | Förskolenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317864 | Grundskole- och gymnasienämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317881 | Äldrenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317886 | Överförmyndarnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317921 | Sundbybergs stads funktionsrättsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317922 | Kultur- och fritidsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317927 | Brottsförebyggande rådet 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317928 | Sundbybergs stads pensionärsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317936 | Valnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317937 | Social- och arbetsmarknadsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317960 | Kommunstyrelsens personalutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards | Visa alla instanser
+Dataanrop:
+
+######## https://opengov.360online.com/Meetings/Sundbyberg
+Titel: Politiska sammanträden och möteshandlingar - Hem
+Spår i HTML: OpenGovColor, ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/SBG_Logogrupp_Halm.jpg ; opengov.blob.core.windows.net/441e270a-4930-4482-94fc-82910d3ad8ff/banner.jpg
+Text: Gå till huvudinnehåll Politiska sammanträden och möteshandlingar Hem Hitta möten År 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 Månad januari februari mars april maj juni juli augusti september oktober november december Använd filter 1 möten är tillgängliga för november 2026 Kommunfullmäktige (2026-11-09) 2026-11-09 17:00 Aktiva instanser Kommunstyrelsen 2026 - 2026 Kommunfullmäktige 2026 - 2026 Byggnads- och tillståndsnämnden 2026 - 2026 Stadsmiljö- och trafiknämnden 2026 - 2026 Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026 Översiktsplanekommittén 2026 - 2026 Förskolenämnden 2026 - 2026 Grundskole- och gymnasienämnden 2026 - 2026 Äldrenämnden 2026 - 2026 Överförmyndarnämnden 2026 - 2026 Sundbybergs stads funktionsrättsråd 2026 - 2026 Kultur- och fritidsnämnden 2026 - 2026 Brottsförebyggande rådet 2026 - 2026 Sundbybergs stads pensionärsråd 2026 - 2026 Valnämnden 2026 - 2026 Social- och arbetsmarknadsnämnden 2026 - 2026 Kommunstyrelsens personalutskott 2026 - 2026 Visa alla instanser Sundbybergs stad | Östra Madenvägen 4, 172 92 Sundbyberg | Telefonnummer: 08-706 80 00 | e-post: kommunstyrelsen@sundbyberg.se | www.sundbyberg.se
+Länkar:
+  https://opengov.360online.com/Meetings/Sundbyberg#content | Gå till huvudinnehåll
+  https://opengov.360online.com/Meetings/Sundbyberg | 
+  https://opengov.360online.com/Meetings/Sundbyberg/Meetings/Details/877751 | Kommunfullmäktige (2026-11-09) 2026-11-09 17:00
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317691 | Kommunstyrelsen 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317692 | Kommunfullmäktige 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317800 | Byggnads- och tillståndsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317801 | Stadsmiljö- och trafiknämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317815 | Kommunstyrelsens exploaterings- och näringslivsutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317859 | Översiktsplanekommittén 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317863 | Förskolenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317864 | Grundskole- och gymnasienämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317881 | Äldrenämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317886 | Överförmyndarnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317921 | Sundbybergs stads funktionsrättsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317922 | Kultur- och fritidsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317927 | Brottsförebyggande rådet 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317928 | Sundbybergs stads pensionärsråd 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317936 | Valnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317937 | Social- och arbetsmarknadsnämnden 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards/Details/317960 | Kommunstyrelsens personalutskott 2026 - 2026
+  https://opengov.360online.com/Meetings/Sundbyberg/Boards | Visa alla instanser
+Dataanrop:
+  POST 200 https://dc.services.visualstudio.com/v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":"ac88763b-364f-4982-bd6e-05d856ef9ded","errors":[]}
