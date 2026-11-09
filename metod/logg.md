@@ -159,6 +159,12 @@ Claude delade upp de 136 kommunerna efter vad som hämtats: 80 hade handlingar f
 
 Claude byggde steg 1d (`verktyg/hamta/motessidor.py`). Steget letar upp varje kommuns sida med kallelser och protokoll, sparar den och datumen för kommunfullmäktiges och kommunstyrelsens möten i `arbete/hamtning/motessidor.json` och hämtar kallelser och handlingar från september och framåt före andra dokument. Prov på 50 kommuner visade att handlingarna ofta ligger på andra plattformar. Därför fick steget hämtare för OpenGov (Public 360), DocumentWeb och Netpublicator inbäddad i Sitevision, utöver de tidigare för Netpublicator och MeetingsPlus. Steget ingår i veckokörningen, och mötessidan och mötesdatumen syns i granskningskorten. Efter körningen finns en mötessida för 131 av de 136 kommunerna och aktuella handlingar för 110. 63 kommuner har nu kandidater till budgethandling för 2027 i granskningskorten, mot 30 före körningen. Kvar utan mötessida är Ljungby, Landskrona, Storuman, Sollefteå och Örnsköldsvik. forum.norrtalje.se gick inte att nå från GitHub Actions. Brave Search svarar att sökkvoten är slut (402), så sökstegen gör inga sökningar tills kvoten fylls på. Hämtningen slår nu ihop resultaten om två körningar committar samtidigt. Inga statusar ändrades.
 
+### 9 november 2026, kl. 14.31
+
+> Börja
+
+Svar på Claudes fråga om de 63 granskningskorten med kandidater till budgethandling för 2027 skulle granskas. Claude lät GitHub Actions skriva ut de aktuella sidorna och kontrollerade citaten ordagrant. Åtta kommuner fick status Pengar föreslagna: Höganäs (1,7 mnkr), Kävlinge (4,0 mnkr under kommunstyrelsens övriga anslag), Lomma (3,0 mnkr), Åstorp (2,0 mnkr), Örkelljunga (3,5 mnkr), Lidingö (6,1 mnkr, delat med en annan lagändring), Essunga (1,3 mnkr) och Lilla Edet (4,0 mnkr). Fagersta och Ydre fick Nämnt utan belopp. 18 kommuner fick Ej nämnt, eftersom deras budgethandlingar för 2027 inte nämner reformen: Orsa, Älvdalen, Hofors, Hultsfred, Jönköping, Tomelilla, Ystad, Järfälla, Upplands Väsby, Kristinehamn, Storuman, Örnsköldsvik, Köping, Lerum, Ulricehamn, Lindesberg, Åtvidaberg och Överkalix. För flera av dem bygger statusen på protokoll eller tjänsteskrivelser och inte på själva budgetdokumentet; det står i luckorna. Övriga kort innehöll bara kallelser, budgetar för andra nämnder eller samordningsförbund eller information, och de kommunerna är kvar på Ej bedömbart än.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.
