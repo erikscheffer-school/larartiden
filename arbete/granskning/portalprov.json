@@ -1,7 +1,82 @@
 [
- {"kommun": "salem", "nyckel": "kommunkartan", "start": "https://kommunkartan.se/karta/salems-kommun/459335/"},
- {"kommun": "lund", "nyckel": "kommunkartan", "start": "https://kommunkartan.se/karta/lunds-kommun/"},
- {"kommun": "kristianstad", "nyckel": "kommunmannen", "start": "https://kommunmannen.se/kristianstad"},
- {"kommun": "lund", "nyckel": "sok", "start": "https://www.lund.se/sok?query=budget+2027"},
- {"kommun": "kalmar", "nyckel": "sok", "start": "https://kalmar.se/sok.html?query=budget+2027"}
+ {
+  "kommun": "karlstad",
+  "nyckel": "karlstad.se",
+  "start": "https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige"
+ },
+ {
+  "kommun": "hofors",
+  "nyckel": "hofors.se",
+  "start": "https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html"
+ },
+ {
+  "kommun": "norberg",
+  "nyckel": "norberg.se",
+  "start": "https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html"
+ },
+ {
+  "kommun": "norrtalje",
+  "nyckel": "norrtalje.se",
+  "start": "https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/"
+ },
+ {
+  "kommun": "sollentuna",
+  "nyckel": "sollentuna.se",
+  "start": "https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/"
+ },
+ {
+  "kommun": "rattvik",
+  "nyckel": "rattvik.se",
+  "start": "https://www.rattvik.se/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/webbradio/2026/22-oktober-2026.html"
+ },
+ {
+  "kommun": "essunga",
+  "nyckel": "essunga.se",
+  "start": "https://www.essunga.se/kommun--politik/politik-och-demokrati/anslagstavla.html"
+ },
+ {
+  "kommun": "kumla",
+  "nyckel": "kumla.se",
+  "start": "https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html"
+ },
+ {
+  "kommun": "degerfors",
+  "nyckel": "degerfors.se",
+  "start": "https://degerfors.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html"
+ },
+ {
+  "kommun": "lidingo",
+  "nyckel": "lidingo.se",
+  "start": "https://lidingo.se/stad-politik/sa-styrs-lidingo/sammantraden-och-handlingar/sammantradesdagar/"
+ },
+ {
+  "kommun": "trelleborg",
+  "nyckel": "trelleborg.se",
+  "start": "https://www.trelleborg.se/kommun-politik/kommunens-organisation/kommunfullmaktige/"
+ },
+ {
+  "kommun": "dorotea",
+  "nyckel": "dorotea.se",
+  "start": "https://www.dorotea.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelse/"
+ },
+ {
+  "kommun": "asele",
+  "nyckel": "asele.se",
+  "start": "https://www.asele.se/anslagstavla/"
+ },
+ {
+  "kommun": "boden",
+  "nyckel": "boden.se",
+  "start": "https://boden.se/kommun-och-politik/politik/politikerportal"
+ },
+ {
+  "kommun": "klippan",
+  "nyckel": "klippan.se",
+  "start": "https://www.klippan.se/kommun--politik/moten-handlingar--protokoll/kallelser-och-protokoll"
+ },
+ {
+  "kommun": "ljungby",
+  "nyckel": "ljungby.se",
+  "start": "https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll"
+ }
 ]
