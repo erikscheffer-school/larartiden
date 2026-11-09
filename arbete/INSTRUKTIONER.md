@@ -26,6 +26,8 @@ Varje måndag söker GitHub Actions efter nya budgethandlingar och skriver en li
 
 Utöver sökningen med Brave går körningen igenom kommunernas mötesportaler med en webbläsare (`verktyg/hamta/portaler.py`), med egna hämtare för Netpublicator och MeetingsPlus. För att se hur en ny portal är uppbyggd: lägg in kommun och startadress i `arbete/granskning/portalprov.json` och committa, så sparar workflowen "Undersök mötesportaler" länkar och dataanrop i `arbete/granskning/portaler/`.
 
+Steg 1d (`verktyg/hamta/motessidor.py`) letar upp varje kommuns sida med kallelser och protokoll och sparar den i `arbete/hamtning/motessidor.json`, tillsammans med datum för kommunfullmäktiges och kommunstyrelsens möten (`kf`, `ks`, `nasta_kf`, `senaste_kf`). Därifrån hämtas kallelser och protokoll från september 2026 och framåt, och handlingar om budget och 2027, före andra dokument (sökning 7). Steget har egna hämtare för Netpublicator (även inbäddad i Sitevision), MeetingsPlus, OpenGov (Public 360) och DocumentWeb. Mötessidan och mötesdatumen står också i granskningskorten. För att prova steget på några kommuner: skriv deras id:n, kommaseparerade, i `arbete/granskning/motessidor-kommuner.txt` och committa. Workflowen "Testa mötessidorna" sparar då en logg per kommun i `arbete/granskning/motessidor/`.
+
 Starta en körning direkt: Actions → "Hämta budgethandlingar" → Run workflow, eller ändra `arbete/hamtning/kor.json` och committa.
 
 ## Efteråt
