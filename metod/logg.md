@@ -147,6 +147,18 @@ Svar på Claudes förslag att låta veckolistan ta med budgethandlingar för 202
 
 Claude byggde en riktad sökning efter budget 2027 för kommuner med status Ej bedömbart än (`verktyg/hamta/budgetsok.py`), OCR för inskannade PDF:er, en prioritering som hämtar höstens dokument först och hoppar över dokument som laddats upp före 2026, och granskningskort per kommun (`verktyg/hamta/forgranska.py`) med de rader som nämner budget och 2027 samt besked om reformorden saknas i hela dokumentet. Claude granskade korten och kontrollerade osäkra fall mot utskrivna sidor. 25 kommuner fick status Ej nämnt och två (Vaxholm och Töreboda) Nämnt utan belopp. För ett tiotal kommuner lades kända datum för budgetbeslut och handlingar till i luckorna. Ett prov visade att Brave Search sällan indexerar kommunernas egna budgethandlingar och att kommunkartan.se:s gränssnitt kräver inloggning.
 
+### 8 november 2026
+
+> Det saknas fortfarande 136 kommuner. Vad krävs för att hitta dem?
+
+Claude delade upp de 136 kommunerna efter vad som hämtats: 80 hade handlingar från oktober–november men ännu ingen budget 2027 (troligen inte publicerad än), 43 hade bara handlingar från före september (skripten nådde inte deras mötessidor), 7 saknade egna handlingar helt, 4 använder Ciceron, som stänger ute automatisk hämtning, och 2 hade bara handlingar från september.
+
+### 9 november 2026, kl. 07.29
+
+> Mötessidor per kommun och hämtning av KS/KF-kallelser för de 43 + 7 kommunerna, inklusive att ta fram mötesdatum. Det ger mest effekt.
+
+Claude byggde steg 1d (`verktyg/hamta/motessidor.py`). Steget letar upp varje kommuns sida med kallelser och protokoll, sparar den och datumen för kommunfullmäktiges och kommunstyrelsens möten i `arbete/hamtning/motessidor.json` och hämtar kallelser och handlingar från september och framåt före andra dokument. Prov på 50 kommuner visade att handlingarna ofta ligger på andra plattformar. Därför fick steget hämtare för OpenGov (Public 360), DocumentWeb och Netpublicator inbäddad i Sitevision, utöver de tidigare för Netpublicator och MeetingsPlus. Steget ingår i veckokörningen, och mötessidan och mötesdatumen syns i granskningskorten. Efter körningen finns en mötessida för 131 av de 136 kommunerna och aktuella handlingar för 110. 63 kommuner har nu kandidater till budgethandling för 2027 i granskningskorten, mot 30 före körningen. Kvar utan mötessida är Ljungby, Landskrona, Storuman, Sollefteå och Örnsköldsvik. forum.norrtalje.se gick inte att nå från GitHub Actions. Brave Search svarar att sökkvoten är slut (402), så sökstegen gör inga sökningar tills kvoten fylls på. Hämtningen slår nu ihop resultaten om två körningar committar samtidigt. Inga statusar ändrades.
+
 ### Så förs loggen
 
 Varje ny instruktion till AI:n läggs till här med datum och klockslag, ordagrant, följt av en kort beskrivning av vad som ändrades.

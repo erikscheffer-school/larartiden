@@ -88,7 +88,8 @@ def organdatum(text, titel):
     hel = {"kf": bool(KF.search(titel)) and not KS.search(titel),
            "ks": bool(KS.search(titel)) and not KF.search(titel)}
     for rad in text.splitlines():
-        ds = {d for d in datum_i(rad) if "2026-01-01" <= d <= "2027-12-31"}
+        # 1 januari och 31 december är nästan alltid giltighetsdatum (taxor, planer), inte möten.
+        ds = {d for d in datum_i(rad) if "2026-01-01" <= d <= "2027-12-31" and d[5:] not in ("01-01", "12-31")}
         if not ds:
             continue
         for nyckel, rx in (("kf", KF), ("ks", KS)):
