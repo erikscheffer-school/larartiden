@@ -124,5 +124,85 @@
    }
   ],
   "antal_träffar": 3
+ },
+ {
+  "url": "https://tranemo.se/download/18.64fef45e19e637b4ae0c3cd5/1780293362216/Kommunstyrelsen%202026-05-28,%20anslagstid%202026-06-01%20-%202026-06-23.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Kommunstyrelsen 2026-05-28 Ordförandes sign",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "816e09c380b79973c3ca9339bce2aaf6a3ba1e2b78abadeedab116fed8e2c229",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://tranemo.se/download/18.3c4407a219e02d07666a15aa/1779345547297/Handlingar%20KF%202026-05-21.pdf",
+  "titel": "Kungörelse",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fa1b0a5d3e2969d8b9ed9767ff83404d33950ade11a4e24dd3d80d00f689318f",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 442,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 120,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "mindre förskolorna kan försämras om vi inte säkerställer alternativa lösningar som skapar likvärdiga förutsättningar. Det handlar bland annat om tillgång till planeringstid, möjligheter till kollegialt lärande, både inom enheten och i möten med kollegor från andra förskolor, samt pedagogiskt stöd i det dagliga arbetet. Där- för ha",
+    "belopp_nara": false
+   },
+   {
+    "sida": 132,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "örigheten varierar bland förskolorna. I riket ligger behörigheten på 46% jämfört med Tranemo kommun på 47%. Andel av förskolans avdelningar som har schemalagd planeringstid enligt lokal HÖK- överenskommelse 2021 Kommentar Vid samtal med förskollärare och rektorer i samband med verksamhetsbesöket under ht-25 och i dialog med rekto",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://tranemo.se/download/18.4da4cb9719d9a52909cdcffd/1776955251574/Protokoll%20valn%C3%A4mnden%202026-04-16%20scannad.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL - Valnämnd",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6efb9ad1cf1adaf4e53a675a5712319c822cfae58769a23ed2797de5fccfc37c",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0,
+  "ocr": true
+ },
+ {
+  "url": "https://tranemo.se/download/18.1d029b6519c6d4f54b2c2303/1771857788563/Protokoll%20LU%202026-02-19,%20signerat.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Lärandeutskottet 2026-02-19 Ordförandes sign",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "75f4bb23903ada6be8cd49191ef55862f5ee839b5d487a4e0fff94792f858399",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

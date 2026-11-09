@@ -94,5 +94,37 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skovde.se/globalassets/kommun-och-politik/protokoll-och-handlingar/arsredovisningar/skovde-kommun/arsredovisning-skovde-kommuns-2025.pdf",
+  "titel": "SKÖVDE KOMMUN ÅRSREDOVISNING 2025",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9dcec07f5df59794ce7f5db34acc94091413af10d5c2d430d3f1963363e96f5b",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 98,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skovde.se/globalassets/kommun-och-politik/protokoll-och-handlingar/namnders-protokoll/servicenamnd/2026/namnd/2026-02-05/protokoll-servicenamnden-2026-02-05-signerat.pdf",
+  "titel": "Skövde kommun Sammanträdesprotokoll Servicenämnden Datum:2026-02-05 kl. 13:00",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "66929af701fe708b7722cf7f65460da210caa67603c10b8e7e6145fba1b890b6",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

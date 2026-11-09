@@ -2,7 +2,9 @@
 
 Webbplats: https://www.berg.se/
 Portal: ingen känd
-Hämtade dokument: 39, hämtfel: 0
+Hämtade dokument: 48, hämtfel: 0
+Mötessida: https://berg.se/kommun-och-politik/politisk-organisation-moten-och-protokoll/kommunstyrelsen
+KF-möten: 2026-02-05, 2026-04-15, 2026-06-16, 2026-09-30, 2026-10-09; KS-möten: 2026-01-20, 2026-02-12, 2026-03-26, 2026-05-05, 2026-06-02, 2026-06-16, 2026-09-08, 2026-10-07, 2026-11-04, 2026-11-10
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Två remissvar från Berg på regeringen.se gäller andra frågor, transportinfrastruktur 2022 och kostnadsutjämning 2026, inte SOU 2025:26. KF-protokollet från oktober 2024 visar arbetsgången: preliminära budgetramar beslutas i juni, budgeten tas fram under hösten.
 Luckor: Hittade inga budgethandlingar 2027, inget budgetunderlag från bildningsnämnden och inget KF-datum för budget 2027. Det maximala antalet sökningar (3) är använt. Inget remissvar på SOU 2025:26 hittades. Budget 2027 står på kommunstyrelsens dagordning 2026-11-10; bara dagordningen har hittats.
 

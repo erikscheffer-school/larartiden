@@ -95,5 +95,180 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.harryda.se/download/18.1a1e22ff19d9a48e270a886/1777464423749/22.pdf",
+  "titel": "Delgivningar 2026 22 2026UKFN2 Sida 413 av 861",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "35642b2b438f5fd190f6a5ad90bc6f65da567ecb5126814bbbf86f229e5f1eea",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 443,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid",
+   "tid för undervisningsuppdraget",
+   "undervisningstid",
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "Kunskap för alla – nya läroplaner med fokus på undervisning och lärande SOU 2025:19 ......... 134 4.9.5 Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet SOU 2025:26 ........................",
+    "belopp_nara": false
+   },
+   {
+    "sida": 35,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "finns behov av mer kunskap inom området. Därmed ansluter sig utredningen till förslag och bedömningar i SOU 2023:96 En reform för datadel- ning och SOU 2025:26 Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet om behov av ytter- ligare utredning. Rektorer behöver adekvat kompetens för att leda och samor",
+    "belopp_nara": false
+   },
+   {
+    "sida": 142,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "ingsarbete och om att öka kollegial samverkan för att genomföra en lyckad implementering, enligt betänkandet. 236 4.9.5 Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet SOU 2025:26 Utredning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 143,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "Vad styr och påverkar rektorns arbete? dels leda och samordna det pedagogiska arbetet, dels fördela resurser och ansvarsområden med särskilt fokus på undervisningsuppdraget.237 4.9.6 Förbättrat stöd i skolan SOU 2025:44 (delbetänkande) Utredningens uppdrag omfattade bland annat att analysera och före- slå hur arbetet m",
+    "belopp_nara": false
+   },
+   {
+    "sida": 200,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "ta från systemleverantörer. Åter- rapportering av ett regeringsuppdrag. Diarienummer: A2023/1960. 122 SOU 2025:26 Tid för undervisningsuppdraget – åtgärder för god undervisning och lärar- yrkenas attraktivitet, s. 307. 123 SOU 2023:96 En reform för datadelni",
+    "belopp_nara": false
+   },
+   {
+    "sida": 240,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "SOU 2026:4 hetsnära ledarskap för förbättrad trygghet och studiero 30 (se av- snitt 4.9). Även i betänkandet Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet (SOU 2025:26) beto- nades vikten av att huvudmännen ger rektorer förut",
+    "belopp_nara": false
+   },
+   {
+    "sida": 284,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "ningen till förslag och bedömningar i SOU 2023:96 och SOU 2025:26 om behov av ytterligare utredning. 137 SOU 2025:26 Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrke- nas attraktivitet, s. 307. 278",
+    "belopp_nara": false
+   },
+   {
+    "sida": 334,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "n bedömer att förslagen kommer att främja lärarnas arbets- situation genom att rektorerna ges större möjligheter att stötta lärarna i undervisningsuppdraget och skapa förutsättningar för en undervis- ning av hög kvalitet. Lärare som är verksamma inom Statens institutionsstyrelse ell",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 56
+ },
+ {
+  "url": "https://www.harryda.se/nyheter/nyheterbarnochutbildning/beslutomhogadalsskolanplaneringforennyf9skolapagar.5.2b4b0a0a1a162eb26123e31.html",
+  "titel": "Beslut om Högadalsskolan – planering för en ny F–9 skola pågår - Härryda kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "58c1f4d1cbb3813c973dd1d8345dac1c4848ccf9c20c0b227c92bb9dbc8d250b",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.harryda.se/download/18.2512b3ed19e63af8a101594/1779882217605/35.pdf",
+  "titel": "Avsiktsförklaring avseende planeringsförutsättningar för Ny järnväg",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5807f25fc7257bd7386659bbc4a86c5d85b1111002e4a21a4de1a3b53c8f0f4d",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.harryda.se/download/18.3f7d788919c47cdad19c6cb/1772010988717/3.pdf",
+  "titel": "Planering och uppföljning av resultat, analys och åtgärder ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f23797495fb4a295f5296e84b40134e7b83dff7c51dd99c8c58a79936ab3b908",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.harryda.se/download/18.3f7d788919c47cdad19c6cf/1772010989240/7.pdf",
+  "titel": "Patientsäkerhets- och kvalitetsberättelse för barn- och elevhälsan 2025 7",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5bcaa76e86add7a763f26814fd92a42ca5e17f4f4fa061dfd305f13f8bb3939c",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.harryda.se/download/18.547c225d19b3559cdd11b8d5/1769521061052/11.pdf",
+  "titel": "Yttrande över betänkandet En bättre organisering av ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "bba9bab88d05f2138b5b1a59ed202976ed50e348199c8e60631f9e0a9e98a089",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 563,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 557,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "et – upplägg, 7. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A. tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget – avgifter. KN. åtgärder för god undervisning och 8. Bättre förutsättningar för trygghet läraryrkenas attrak",
+    "belopp_nara": false
+   },
+   {
+    "sida": 562,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "[8] På språklig grund. [9] Ett likvärdigt betygssystem Volym 1 och 2. [18] Kunskap för alla – nya läroplaner med fokus på undervisning och lärande. [19] Tid för undervisningsuppdraget – åtgärder för god undervisning och läraryrkenas attraktivitet. [26] Sida 643 av 660",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
  }
 ]

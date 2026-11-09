@@ -1,8 +1,10 @@
 # Håbo (Uppsala län)
 
 Webbplats: https://www.habo.se/
-Portal: Politikerportal
-Hämtade dokument: 12, hämtfel: 0
+Portal: Politikerportal, eNämnd
+Hämtade dokument: 12, hämtfel: 2
+Mötessida: https://www.habo.se/kommun-och-politik/anslagstavla.html
+KF-möten: 2026-05-20, 2026-06-08, 2026-06-15, 2026-07-10, 2026-08-31, 2026-09-07, 2026-10-08, 2026-10-12, 2026-10-15, 2026-10-19, 2026-11-23, 2026-12-14; KS-möten: 2026-10-28, 2026-11-04, 2026-12-04
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. KF 2026-06-15 hade inget budgetärende. Den beslutade budgeten för 2026 med plan 2027–2028 (KF 2025-11-10) nämner reformens finansiering i regeringens budgetproposition, men utan egen kostnadsberäkning eller egna medel. Budgeten fastställs normalt av KF i november, så beslutet väntas i november 2026.
 Luckor: Inget KS-förslag, ingen nämndbudget och ingen KF-kallelse för budget 2027 (hösten 2026) hittades. OBS: sökträffar på habokommun.se och regeringen.se/.../habo-kommun.pdf gäller Habo kommun i Jönköpings län, inte Håbo, och har inte tagits med. Den automatiska hämtningen 2026-11-07 hittade reformorden i en motion om kränkningsutredningar (2026-05-18), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

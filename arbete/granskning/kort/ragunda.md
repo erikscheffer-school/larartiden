@@ -1,8 +1,10 @@
 # Ragunda (Jämtlands län)
 
 Webbplats: https://www.ragunda.se/
-Portal: ingen känd
-Hämtade dokument: 6, hämtfel: 2
+Portal: Formpipe Platina
+Hämtade dokument: 6, hämtfel: 9
+Mötessida: https://ragundakommun.ondemand.formpipe.com/committees/kommunstyrelsen/kommunstyrelsen-45883
+KF-möten: okända; KS-möten: 2026-11-10
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Sökningarna gav bara Budget 2025 och äldre årsredovisningar.
 Luckor: Budget 2027, budgetsida och KF-protokoll 2026 hittades inte. Det maximala antalet sökningar (3) är använt.
 

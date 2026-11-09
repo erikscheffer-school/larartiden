@@ -3,6 +3,8 @@
 Webbplats: https://www.sollentuna.se/
 Portal: ingen känd
 Hämtade dokument: 4, hämtfel: 0
+Mötessida: https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/
+KF-möten: 2026-01-13, 2026-03-26, 2026-10-15, 2026-10-23, 2026-12-10; KS-möten: 2026-03-26, 2026-10-15, 2026-10-16
 Nuvarande sammanfattning: Mål och budget 2026 med plan 2027–2028 nämner inte reformen.
 Luckor: Mötessidor ej listbara.
 

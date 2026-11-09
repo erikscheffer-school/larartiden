@@ -3,6 +3,8 @@
 Webbplats: https://www.asele.se/
 Portal: ingen känd
 Hämtade dokument: 5, hämtfel: 0
+Mötessida: https://www.asele.se/anslagstavla/
+KF-möten: 2026-09-13; KS-möten: okända
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades; senaste publicerade budget är 2025 samt plan 2026–2027. KS 2026-04-14 och AU 2025-11-18 nämner varken budget 2027 eller reformen.
 Luckor: Budget 2027 (ramar) och KF-datum ej funna; budgetdokument 2025 samt plan 2026–2027 ej granskat. Remissvar SOU 2025:26 ej sökt.
 

@@ -3,6 +3,8 @@
 Webbplats: https://www.bastad.se/
 Portal: ingen känd
 Hämtade dokument: 15, hämtfel: 1
+Mötessida: https://www.bastad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen.html
+KF-möten: 2026-08-31, 2026-09-24, 2026-09-25, 2026-09-30, 2026-10-13, 2026-10-19, 2026-10-22, 2026-10-23, 2026-11-02; KS-möten: 2026-02-12, 2026-08-18, 2026-09-01, 2026-09-02, 2026-09-16, 2026-10-09, 2026-10-13, 2026-10-22, 2026-10-23
 Nuvarande sammanfattning: Enligt kommunen beslutar KF budgeten för kommande år varje höst. Fullmäktiges återstående möten 2026 är den 26 november och den 16 december. Budget 2026 med plan 2027–2028 nämner inte reformen, och inga handlingar för budget 2027 har hittats.
 Luckor: Webbdiariet (diariet.bastad.se) gick inte att hämta (inte tillåten URL). KS:s budgetförslag och Utbildningsnämndens underlag för 2027 har inte granskats.
 

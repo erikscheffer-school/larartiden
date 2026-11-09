@@ -2,9 +2,132 @@
 
 Webbplats: https://www.saffle.se/
 Portal: ingen känd
-Hämtade dokument: 36, hämtfel: 0
+Hämtade dokument: 45, hämtfel: 0
+Mötessida: https://saffle.se/kommun-och-politik/moten-handlingar-protokoll/kallelser-handlingar-och-protokoll.html
+KF-möten: 2026-02-02, 2026-03-16, 2026-04-27, 2026-06-01, 2026-06-11, 2026-06-15, 2026-09-07, 2026-10-05, 2026-10-26, 2026-10-29, 2026-11-03, 2026-11-09; KS-möten: 2026-03-09, 2026-03-30, 2026-04-13, 2026-05-07, 2026-05-18, 2026-05-20, 2026-05-21, 2026-06-01, 2026-06-11, 2026-06-30, 2026-08-24, 2026-10-26
 Nuvarande sammanfattning: Tre nya sökningar gav inga budgethandlingar för 2027 eller 2026 från saffle.se. Säffle-Tidningen har skrivit om styrets prioriteringar i nya budgeten, men artikeln blockerades (robots).
 Luckor: Budgetdokument 2027, KF-datum och BUN-underlag har inte hittats. Kommunens webbplats saffle.se dök inte upp i några sökresultat. Artikeln https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten kunde inte hämtas (robots). Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2023, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
+
+### Värmlands Läns kalkningsförbund protokoll 13 oktober 2026 pdf, 3.7 MB, öppnas i nytt fönster.
+
+https://saffle.se/download/18.693e4f5a1a12f51b559d7f46/1792408549141/V%C3%A4rmlands%20L%C3%A4ns%20kalkningsf%C3%B6rbund%20protokoll%2013%20oktober%202026.pdf
+
+Sidor: 19. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida 1 (17)
+Värmlands läns kalkningsförbunds
+sammanträdesprotokoll
+Datum: 2026-10-13
+Tid: klockan 10:00 - 12:40
+Plats: Salen Lärkan - Gammelkroppa Skogsskola och Konferens Filipstad
+Paragraf: §14 - §23
+Ordförande: Thomas Backelin
+Sekreterare: Rebecka Nilsson
+Justering
+Utses att justera: Boo Westlund
+Datum: 2026-10-19
+Tid: klockan 10:00
+Anslagsbevis
+Protokollet är justerat för Värmlands läns kalkningsförbunds sammanträde 2026-10-
+13. Protokollet har tillkännagivits genom anslag på kommunens digitala anslagstavla.
+Anslaget ska sättas upp inom två dagar efter justering.
+Anslaget har anslagits på digitala anslagstavlan 2026-10-19. Anslaget har tagits bort
+från digitala anslagstavlan 2026-11-10.
+Originalprotokollet förvaras på kommunkontoret, Torget 1 i Charlottenberg.
+Detta dokument har undertecknats elektroniskt:
+Comfact Signature Referensnummer: 382797SE
+Sida 2 (17)
+Värmlands läns kalkningsförbunds protokoll 2026-10-13
+Närvarolista
+Beslutande
+Pia Gullqvist (S), Arvika
+Ersättare saknas för Elisabeth Hugne (C), Eda
+Ersättare saknas för Filip Dahlöv (M), Filipstad
+Myrna Labusan Jönsson (S), Forshaga
+```
+
+**Rader om budget och 2027**
+
+- s. 3: § 19 Preliminär driftbudget och spridningsfil 2027 med plan för 2028-2029 10
+- s. 10: § 19 Preliminär driftbudget och spridningsfil 2027
+- s. 10: Direktionen fastställer den preliminära driftbudgeten och spridningsfil för 2027 med
+- s. 10: Förbundschefen redovisar det preliminära budgetförslaget för 2027 med plan för
+- s. 10: verksamhetsplanering och budget för åren 2027–2029. Genomgången omfattar
+- s. 10: Prel Driftbudget 2027_2028_2029_260929
+- s. 10: Prel Spridningsbudget 2027_2028_2029_20260930
+
+**Beslut och förslag**
+
+- s. 10: Direktionen fastställer den preliminära driftbudgeten och spridningsfil för 2027 med
+- s. 10: Förbundschefen redovisar det preliminära budgetförslaget för 2027 med plan för
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (19 sidor).
+
+### Hjälpmedelsnämnden protokoll 18 september 2026 pdf, 928.4 kB, öppnas i nytt fönster.
+
+https://saffle.se/download/18.335cd81a1a0d34bd475a22a1/1790660330508/Hj%C3%A4lpmedelsn%C3%A4mnden%20protokoll%2018%20september%202026.pdf
+
+Sidor: 30. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Protokoll
+Hjälpmedelsnämnd
+Mötesdatum
+2026-09-18
+Protokoll Hjälpmedelsnämnd, 2026-09-18
+Paragrafer §§49-73
+Plats och tid Digitalt via Teams, kl.09:00-10:45
+Beslutande Daniel Schützer (S) (ordförande) (Region Värmland)
+Ulrika Jacobs (M) (Region Värmland)
+Johan Heder (KD) ersätter Matilde Palma Konglevoll (-) (Region Värmland)
+Lars-Göran Carlsson (C) ersätter Gert Björnvall (S) (Forshaga kommun)
+Eva Frykenberger (C) (Kils kommun)
+Stefan Jonsson (S) (Karlstad kommun)
+Alexander Romanov (S) (Hammarö kommun)
+Åsa Waldenström (M) (vice ordförande) (Sunne kommun)
+Jane Larsson (C) (Kristinehamns kommun)
+Bertil Börjesson (HEL) (Eda kommun)
+Birgitta Nilsson (S) (Munkfors kommun)
+Aurora Rioflorido (S) (Storfors kommun)
+Anders Leander (S) (Grums kommun)
+Anita Karlsson (C) (Säffle kommun)
+Agneta Nilsson (KD) (Årjängs kommun)
+Mark Morén (M) (Filipstads kommun)
+Henrik Samuelsson (M) ersätter Mona Smedman (C) (Arvika kommun)
+Tommy Olsson (S) (Torsby kommun)
+Ersättare Lena Palmehn (M) (Karlstad kommun)
+Per Fransson (M) (Grums kommun)
+I tjänsten Anna Frödin (föredragande tjänsteperson)
+Marianne Fleron (verksamhetschef)
+Tobias Nyåker (enhetschef)
+```
+
+**Rader om budget och 2027**
+
+- s. 2: § 58 Ekonomi och budget 2027
+- s. 12: Ekonomi och budget 2027
+- s. 17: 2. Trots ett mindre underskott ser inte nämnden behov av ytterligare åtgärder då budget för 2027 har
+- s. 17: nämnden behov av ytterligare åtgärder då budget för 2027 har utökats och huvudmännen gemensamt
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (30 sidor).
 
 ### Kommunstyrelsen protokoll 26 oktober 2026 pdf, 4.3 MB, öppnas i nytt fönster.
 
@@ -74,114 +197,3 @@ Protokollet har justerats digitalt. De elektroniska
 **Reformorden**
 
 - Inga reformord i hela texten (42 sidor).
-
-### Postlista kommunstyrelsen 9 okt- 22 okt 2026 pdf, 43.7 kB, öppnas i nytt fönster.
-
-https://saffle.se/download/18.6e13d5d51a162ec569816a78/1792732440399/Postlista%20kommunstyrelsen%209%20okt-%2022%20okt%202026.pdf
-
-Sidor: 5. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-Utskrivet: 2026-10-23 07:12
-Postlista 2026-10-23 07:12 Utskrivet av: Emma Vilagos
-Postlista 2026-10-23 07:12
-Kategori Registreringsdatum Handlingsnummer Beskrivning Tillhör
-Inkommen 2026-10-12 2026:1898 Följebrev från valnämndens KS/2026:373
-ordforande till medlemmar -
-val av kongressombud till
-SKR
-Inkommen 2026-10-12 2026:1899 Anvisningar for ombudsval KS/2026:373
-till medlemmar
-Upprättad 2026-10-12 2026:1900 Sekretess: KS/2026:229
-Upprättad 2026-10-12 2026:1901 Sekretess: KS/2026:229
-Upprättad 2026-10-12 2026:1902 Sekretess: KS/2026:229
-Upprättad 2026-10-12 2026:1903 Sekretess: KS/2026:229
-Upprättad 2026-10-12 2026:1904 Öppningsprotokoll anbud KS/2026:229
-Upprättad 2026-10-12 2026:1905 Utvärderingsprotokoll KS/2026:229
-Upprättad 2026-10-12 2026:1906 Kvalificeringsammanställning KS/2026:229
-Inkommen 2026-10-13 2026:1907 Granskning- Inbjudan KS/2026:35
-Forsön och Storön
-20260930
-Upprättad 2026-10-13 2026:1908 Detaljplan för Forsön och KS/2026:35
-Storön granskning
-Upprättad 2026-10-13 2026:1909 Sekretess: Uppsägning på KS/2026:374
-grund av arbetstagarens
-personliga förhållanden
-Inkommen 2026-10-14 2026:1910 Sekretess: Begäran om KS/2026:375
-registerutdrag- Trygga barn
-Inkommen 2026-10-14 2026:1911 Skrivelse- Direktionsval till KS/2026:231
-Värmlands Läns
-Kalkningsförbund –
-```
-
-**Rader om budget och 2027**
-
-- s. 4: 38 Budget 2027 och 2028
-
-**Beslut och förslag**
-
-
-**Skola och utbildning (rader med belopp)**
-
-
-**Reformorden**
-
-- Inga reformord i hela texten (5 sidor).
-
-### Postlista kommunstyrelsen 25 sept- 8 okt 2026 pdf, 49.7 kB, öppnas i nytt fönster.
-
-https://saffle.se/download/18.6057b1c51a1160f9a9e3816f/1791522769082/Postlista%20kommunstyrelsen%2025%20sept-%208%20okt%202026.pdf
-
-Sidor: 7. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-Utskrivet: 2026-10-09 07:11
-Postlista 2026-10-09 07:11 Utskrivet av: Emma Vilagos
-Postlista 2026-10-09 07:11
-Kategori Registreringsdatum Handlingsnummer Beskrivning Tillhör
-Upprättad 2026-09-25 2026:1767 KS § 142 Information om KS/2026-09-21
-verksamhetsplan med budget 2027 #7
-för kommunstyrelsen
-Upprättad 2026-09-25 2026:1768 KS § 141 Delårsrapport 2 för KS/2026-09-21
-kommunstyrelsen 2026 #6
-Upprättad 2026-09-25 2026:1769 KS § 140 Föravtal tomträtt om KS/2026-09-21
-Duse camping #5
-Upprättad 2026-09-25 2026:1770 KS § 139 Detaljplan för Duse och KF/2026-10-05
-Stacka, Krokstad 3:1 m.fl. i Säffle #3
-kommun
-Upprättad 2026-09-25 2026:1771 KS § 143 Granskning från KS/2026-09-21
-kommunrevisionen gällande #8
-måluppfyllelse av Barn- och
-utbildningsnämndens styrning av
-grundskolan
-Upprättad 2026-09-25 2026:1772 KS § 144 Uppdrag att revidera KS/2026-09-21
-kommunens LIS-plan från 2020 #9
-Upprättad 2026-09-25 2026:1773 Tjänsteyttrande uppdrag att KS/2026-09-21
-revidera kommunens LIS-plan från #9
-2020
-Upprättad 2026-09-25 2026:1774 KS § 146 Revidering av KS/2026-09-21
-gemensamma riktlinjer avseende # 11
-alkohollagen (2010:1622)
-Upprättad 2026-09-25 2026:1775 KS § 145 Förslag till KS/2026-09-21
-sammanträdesdagar 2027 # 10
-Upprättad 2026-09-25 2026:1776 Tjänsteyttrande om KSAU/2026-09-
-```
-
-**Rader om budget och 2027**
-
-- s. 1: verksamhetsplan med budget 2027 #7
-
-**Beslut och förslag**
-
-
-**Skola och utbildning (rader med belopp)**
-
-- s. 4: Konglevoll (V) om skolfrukost 12 # 22
-
-**Reformorden**
-
-- Inga reformord i hela texten (7 sidor).

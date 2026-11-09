@@ -78,5 +78,53 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mjolby.se/download/18.4e15136419bdc56f26e1253/1769072538611/09.%20Samlingshandling%20f%C3%B6r%20Lundby%20kulle,%20uppdrag%20att%20%C3%A5teruppta%20planarbete%20med%20inriktning%20f%C3%B6r%20bostads%C3%A4ndam%C3%A5l.pdf",
+  "titel": "Tjänsteskrivelse Samhällsbyggnadsförvaltningen Datum 2026-01-21 Diarienummer",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "dd2f6956ecd28ccb5bf8970cf28fed973f772c26de84b2dca5e121a1ce7af2c9",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mjolby.se/download/18.4e15136419bdc56f26e124c/1769072537596/00.%20Kallelse%20samh%C3%A4llsbyggnadsn%C3%A4mnd%202026-01-28.pdf",
+  "titel": "00. Kallelse samhällsbyggnadsnämnd 2026-01-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "30ea37e16d8abf2c6b5c549153a70be0fd2aa05e7c85945671eb2faabbf68af1",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mjolby.se/forskola-skola-och-utbildning/gymnasium/lasarstider-och-lov-i-gymnasieskolan",
+  "titel": "Läsårstider och lov i gymnasieskolan | Mjölby kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "1987079c737c5eeae3df2927131fee4a355ca6f48cad3d6241bc2c8e0cc4cb16",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

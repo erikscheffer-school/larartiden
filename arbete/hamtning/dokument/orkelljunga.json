@@ -177,6 +177,204 @@
   "antal_träffar": 1
  },
  {
+  "url": "https://www.orkelljunga.se/download/18.54f5ca0e1a16333a360e731/1793275182139/Kommunstyrelsen%202026-11-04.pdf",
+  "titel": "Kommunstyrelsen 2026-11-04.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c456850b456492efef18ff78fb9cd0a51653c2002b0fd89409a9838c3d80af6c",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 393,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 28,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "getram 8 mnkr) • Minskade volymer och effektiviseringar samt övriga minskningar ger ytterligare 7,6 mnkr Våra viktigaste satsningar är: • 3,5 mnkr tid för undervisningsuppdraget. • 1,5 mnkr kommungemensam resursgrupp, åk4-6. • 1,0 mnkr verksamhetsutvecklare. • 1,0 mnkr till betygshöjande åtgärder. • 2,0 mnkr höjning byskole",
+    "belopp_nara": true
+   },
+   {
+    "sida": 65,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "1,6 Verksamhetsutvecklare 1,0 Tid för undervisningsuppdraget (enligt finansieringsprincip) 3,5 Kommungemensam resursgrupp åk 4-6",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.1ae26d1d1a162f28978c21f/1793183874450/Kommunfullm%C3%A4ktiges%20valberedning%202026-11-04.pdf",
+  "titel": "Kommunfullmäktiges valberedning 2026-11-04.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "58682a02e5fdd85fa63759a107e8391a49dcba4510d8b70aeab9de852a930068",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.2c19af061a1159cda9a2686/1791465147656/Kommunstyrelsens%20arbetsutskott%202026-10-14.pdf",
+  "titel": "Kommunstyrelsens arbetsutskott 2026-10-14.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fd32d18e865724031034fdc01e26515ea114df0d1a0ef1ef7431671d1b9c7366",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 362,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 22,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "getram 8 mnkr) • Minskade volymer och effektiviseringar samt övriga minskningar ger ytterligare 7,6 mnkr Våra viktigaste satsningar är: • 3,5 mnkr tid för undervisningsuppdraget. • 1,5 mnkr kommungemensam resursgrupp, åk4-6. • 1,0 mnkr verksamhetsutvecklare. • 1,0 mnkr till betygshöjande åtgärder. • 2,0 mnkr höjning byskole",
+    "belopp_nara": true
+   },
+   {
+    "sida": 59,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "1,6 Verksamhetsutvecklare 1,0 Tid för undervisningsuppdraget (enligt finansieringsprincip) 3,5 Kommungemensam resursgrupp åk 4-6",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.536955e1a0f5e577a4322/1790843160439/Kommunstyrelsen%202026-10-07.pdf",
+  "titel": "Kommunstyrelsen 2026-10-07.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "711c6e0ae7bcb7542bed2a3812c83891f679820a5e8c205da7cb6f7b45bd6cb2",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 232,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.72962b181a0adb258162ac4/1789732580318/Kommunfullm%C3%A4ktige%202026-09-28.pdf",
+  "titel": "Kommunfullmäktige 2026-09-28.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "920dce8be9d9a5011dcff7e5de43d5a3662c8a70a303ecff258b9adb41e110d1",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 69,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 64,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "och Skolverket kommer att bidra till att hitta fler verksamma åtgärder. • Under förutsättning att reformen ”Tid för undervisningsuppdraget” implementeras kommer andelen lärare att utökas från läsåret 2027/28. Konsekvenser för barn",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.6951a79b1a0ad9df90e1d8/1789633653263/Kommunstyrelsens%20arbetsutskott%202026-09-23.pdf",
+  "titel": "Kommunstyrelsens arbetsutskott 2026-09-23.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c9765d481602a18d6e5bfe4847f0cef643e6044cd69aa8a113df19fa138ab292",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 165,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.72962b181a0adb258161ae55/1790686317079/Best%C3%A4mmelser%20om%20ers%C3%A4ttning%20f%C3%B6r%20f%C3%B6rtroendevalda%20samt%20valf%C3%B6rr%C3%A4ttare%20mandatperioden%202027-2030%20-slutlig.pdf",
+  "titel": "Bestämmelser om ersättning till kommunalt förtroendevalda 2027-2030 pdf, 385 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3e772d7d4e877d168384af6e6b7fe6ad9c19c26a6819f58f9a93bc0269190077",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.54a8ed6b1a1620b3337c4/1792649624696/Protokoll%20KPR%20KHR%202026-08-27.pdf",
+  "titel": "Protokoll KPR KHR 2026-08-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4b982dbd761b8f4ab6195760c1add8bc572d2e930860c99daf7c6f1c81b3295a",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.orkelljunga.se/download/18.1a4a929c1a01f71b1298984/1787747402589/Kommunstyrelsen%202026-09-02.pdf",
+  "titel": "Kommunstyrelsen 2026-09-02.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c3994a7d8de218e2a70dbd7ed022325f247fbc72f15deb8c47e5fda17dcfe312",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 151,
+  "nämner_reformen": true,
+  "ord": [
+   "tid för undervisningsuppdraget"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 115,
+    "ord": "tid för undervisningsuppdraget",
+    "reform": true,
+    "utdrag": "och Skolverket kommer att bidra till att hitta fler verksamma åtgärder. • Under förutsättning att reformen ”Tid för undervisningsuppdraget” implementeras kommer andelen lärare att utökas från läsåret 2027/28. Konsekvenser för barn",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.orkelljunga.se/download/18.d5ea1941a12f56fb85108a9/1792421800798/Kommunfullm%C3%A4ktige%202026-10-26.pdf",
   "titel": "Kommunfullmäktige 2026-10-26\npdf, 19.1 MB, öppnas i nytt fönster.",
   "typ": "pdf",

@@ -1,5 +1,188 @@
 [
  {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/cb6fd92eac053f302621-4659-444f-ae9d-a871abc2456a?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+  "titel": "Kommunstyrelsen 2026-11-03 – 16. Verksamhetsplan med budget 2027, Kommunstyrelsen – 16.1 Protokollsutdrag § 180 kommunstyrelsens arbetsutskott 2026-10-26 Verksamhetsplan med budget 2027, Kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "661d26e3a6da1cbf68f9f8cfeb3a4c29dccc6d0e692c6b0df63019857f78e179",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/2204ebaee41e82de6813-feaa-4be0-ab37-13f6ebbcde6c?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+  "titel": "Kommunstyrelsen 2026-11-03 – 16. Verksamhetsplan med budget 2027, Kommunstyrelsen – 16.2 Tjänsteskrivelse - Verksamhetsplan med budget 2027 för Kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e8b5dc52b996bdfdb1c16c2a1bd440f9e62e59ee2a276eb233a47da9e424aac1",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/67cf718f273b1f2dcc99-7ae0-4829-b63a-9d9eda6c0fea?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+  "titel": "Kommunstyrelsen 2026-11-03 – 16. Verksamhetsplan med budget 2027, Kommunstyrelsen – 16.3 Verksamhetsplan med budget 2027 Kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6487abc91ce711f89846c4bac5c5593df573b136a9911f2f09f6ee06d327a3e1",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/fd3046d554df7d6c8864-2e06-4d57-8616-cfdfb04d7d0e?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.1 Protokollsutdrag § 179 kommunstyrelsens arbetsutskott 2026-10-26Verksamhetsplan med Budget 2027-2029, Essunga kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a5f7fd733e6a0f3354813211ac39823c49e3cef57140d2367381e1076de7f76b",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/16fd7fecdd4d1b197232-7e33-4fc0-af13-792ee6000595?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.2 Tjänsteskrivelse - Verksamhetsplan med budget 2027 - 2029 för Essunga Kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fbde9035eeb71d34ed1f70cfb452980fe1800f0909b37c9c568051543510142e",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/fd3b440b712e2ab77fc8-8d2d-4656-97ab-4af3777277c2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.3 Verksamhetsplan med budget 2027-2029 Essunga kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "91a17cbe45db1c167bf259eb93eb2741afc732a4b3c79eaa48290da1a930d41c",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "15,2 9,6 Årets resultat i relation till skatteintäkter och generella 0,1 % 2,0 % 2,6 % 2,9 % 2,0 % statsbidrag, % Essunga kommun har en svag resultatnivå 2026, bland annat på grund av lågkonjunktur, färre invånare och engångskostnader för rivning och nedskrivning av ga",
+    "belopp_nara": false
+   },
+   {
+    "sida": 12,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "2,0 2,0 Borttagande av effektivisering Byggnadsnämnd 0,2 0,2 Kompensation ändrad undervisningstid lärare 1,3 1,3 Justering för införande av servicepool 0,6 -0,6",
+    "belopp_nara": false
+   },
+   {
+    "sida": 14,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "rutsättningarna inkluderar att kommunen åter ska arbeta med planarbete vilket varit vilande under 2026, klara ett ökat behov av äldreomsorg och klara förändrad undervisningstid inom skolan. Därtill ska ökade IT-kostnader och ökade kostnader för civil beredskap omhändertas inom beslutad budget. Sammantaget medför nämndernas budgetförut",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/815dbd681d88c2520994-ea11-42a2-8441-7b3a2dbedd5d?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.4 Ekonomiska driftsramar för kommunens nämnder 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "deab60830f7f4960e7c14523381298abd36b6d5d4bf820313c6b6c8202d00c4c",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "på säkerhet. - Socialnämnden tilldelas 2,0 miljoner för volymökningar inom äldreomsorgen - Utbildningsnämnden tilldelas 1,3 miljoner för att lärarnas undervisningstid minskar enligt nya regler från halvårsskiftet 2027. 8. Budget utgår från 2,0 procents resultatnivå 2027, vilket motsvarar 9,6 miljoner.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "tnivå 2027 11 052 Ej effektivisering Byggnadsnämnden 150 150 Ändrad undervisningstid 1 283 1 283 Förslag budget 2027 133 508 155 270 182 882 641 472 301 2,0% Skatt",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/960becc88decde51b5bf-ca8f-4b62-b09f-ec9f805776e2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.5 Investeringsbudget ramar 2027-2031",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "72bd6322c5b9127c3ef7dda082deecaf67e67feb32f7b58635377fdfb6df5722",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 10,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r14723333/document/75f149e4cbea92bbcd55-4208-4bfb-b371-72a8fa98c383?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+  "titel": "Kommunstyrelsen 2026-11-03 – 17. Verksamhetsplan med Budget 2027-2029, Essunga kommun – 17.6 SD skrivelse inför budget 2027",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c7be809c3f4e92a4a2aca82dd46ad2a19139f8dffca5bdb9098cf1c9078cfb8e",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.essunga.se/download/18.37f8592b19b35a509531f759/1769606346537/Planbeskrivning%20B%C3%A4reberg%201.10.pdf",
   "titel": "Confidentiality: C2 - Internal Dnr: ESBMN-2025-150 Standardförfarande",
   "typ": "pdf",

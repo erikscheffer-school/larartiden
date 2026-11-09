@@ -3,6 +3,8 @@
 Webbplats: https://www.goteborg.se/
 Portal: ingen känd
 Hämtade dokument: 19, hämtfel: 1
+Mötessida: https://goteborg.se/wps/portal/start/kommun-och-politik/kommunens-organisation/kommunfullmaktige/direktsandning-fran-kommunfullmaktiges-sammantraden
+KF-möten: 2026-02-26, 2026-03-26, 2026-04-23, 2026-05-28, 2026-06-11, 2026-10-15, 2026-10-29, 2026-11-03, 2026-11-05, 2026-11-12, 2026-11-30, 2026-12-31; KS-möten: 2026-11-03, 2026-12-31
 Nuvarande sammanfattning: I remissvaret på SOU 2025:26 (KS 2025-06-11) kräver staden att staten finansierar reformen. Ingen budget 2027 hittades. Kompletterande budgetar 2026 (mars, juni) nämner inte reformen, och KF beslutade inte budget 2027 den 11 juni 2026.
 Luckor: Hittade inte budgetförutsättningar 2027–2029, partiernas budgetförslag 2027, grundskolenämndens budgetunderlag eller KF-datum för budget 2027. Budget 2025 och 2026 beslutades i början av november, så budget 2027 beslutas troligen i november 2026, men datumet är inte verifierat. Sökbudgeten tog slut. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i utbildningsförvaltningens rutin för garanterad undervisningstid och grundskoleförvaltningens verksamhetsplan 2026, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

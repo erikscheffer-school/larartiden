@@ -3,6 +3,8 @@
 Webbplats: https://www.rattvik.se/
 Portal: ingen känd
 Hämtade dokument: 1, hämtfel: 0
+Mötessida: https://www.rattvik.se/kommun-och-politik/overklaga-beslut-rattssakerhet/anslagstavla-officiell.html
+KF-möten: 2026-03-05, 2026-05-07, 2026-06-11, 2026-10-22, 2026-11-03; KS-möten: 2026-10-20
 Nuvarande sammanfattning: Inga handlingar om budget 2027 hittades. Kommunens sida om ekonomi och budget säger att KF beslutar budgeten i november, så beslutet om budget 2027 är troligen planerat till november 2026. Exakt datum är inte verifierat.
 Luckor: Undersidan /ekonomi-och-budget/budget.html ligger utanför allowlist och kunde inte hämtas. Budgetförslag 2027, KF-handlingar och BUN-underlag hittades inte i sökningarna.
 

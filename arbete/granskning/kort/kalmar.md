@@ -3,6 +3,8 @@
 Webbplats: https://www.kalmar.se/
 Portal: ingen känd
 Hämtade dokument: 7, hämtfel: 1
+Mötessida: https://kalmar.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunfullmaktige/videoupptagningar-fran-kommunfullmaktige/kommunfullmaktiges-sammantrade-19-oktober-2026.html
+KF-möten: 2026-02-23, 2026-02-24, 2026-04-27, 2026-04-28, 2026-05-25, 2026-05-26, 2026-06-15, 2026-06-22, 2026-10-19, 2026-10-20; KS-möten: okända
 Nuvarande sammanfattning: Endast Budget 2026 med plan för 2027–2028 (majoriteten S/V/C) granskades; reformen nämns inte, utbildningsnämndens ram 2027 minskar kumulativt med ca 6,1 mnkr. Inga budgethandlingar specifikt för 2027 eller beslutsdatum hittades.
 Luckor: Budget 2027-handlingar (förslag/beslut), utbildningsnämndens budgetunderlag 2027 och KF-datum hittades inte. Skede för budget 2026-dokumentet antaget som beslut (KF-datum framgår ej). Sökbudgeten (delad) tog slut. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.
 

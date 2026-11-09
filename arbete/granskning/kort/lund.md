@@ -3,6 +3,8 @@
 Webbplats: https://www.lund.se/
 Portal: Mötesportal
 Hämtade dokument: 7, hämtfel: 0
+Mötessida: https://lund.se/kommun-och-politik/anslagstavla?query=*
+KF-möten: 2026-10-13, 2026-10-22, 2026-10-23, 2026-11-25; KS-möten: 2026-10-30, 2026-11-02, 2026-11-03, 2026-11-04, 2026-11-05, 2026-11-06, 2026-11-18, 2026-11-24, 2026-11-26, 2026-11-28, 2026-12-01, 2027-01-01
 Nuvarande sammanfattning: Kommunens budgetsidor visar som senast EVP 2026-2028 med budget för 2026; varken planeringsdirektiv eller förslag till EVP 2027-2029 hittades. Lund beslutar normalt EVP i KF i november.
 Luckor: Mötesportalen moten.lund.se blockerad (robots) så utbildningsnämndens budgetunderlag och KF-handlingar kunde inte granskas. Planeringsdirektiv EVP 2027-2029 ej hittat. KF-datum för EVP 2027-2029 okänt (tidigare år i november, t.ex. 22-23 nov 2023). Sökbudget slut.
 

@@ -2,7 +2,9 @@
 
 Webbplats: https://www.hassleholm.se/
 Portal: ingen känd
-Hämtade dokument: 37, hämtfel: 0
+Hämtade dokument: 46, hämtfel: 0
+Mötessida: https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott
+KF-möten: 2026-08-24, 2026-10-20; KS-möten: 2026-01-30, 2026-06-22, 2026-06-23, 2026-09-11
 Nuvarande sammanfattning: Enligt lokalmedia (Frilagt, 2026-10-26) innehåller S-M-L-styrets förslag till budget 2027 ett sparkrav på barn- och utbildningsnämnden: 50 mnkr på fyra år, varav 12 mnkr 2027. Skolorganisationen ska ses över. Reformen om undervisningstid nämns inte i artikeln. Själva budgetdokumentet för 2027 hittades inte.
 Luckor: Styrets budgetdokument (Strategisk plan 2027–2029) och oppositionens förslag hittades inte via sök. NSK:s artikel 'Budget: Skolor ska ses över' blockerades (robots). KF-datum för budget 2027 är okänt; tidigare år har budgeten beslutats i juni (2024-06-11) eller i november. BUN:s budgetunderlag är ogranskat. Hässleholms remissvar på regeringen.se gällde transportinfrastruktur, inte SOU 2025:26. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Uppgifterna om styrets budgetförslag kommer från en nyhetsartikel, inte från kommunens handlingar.
 

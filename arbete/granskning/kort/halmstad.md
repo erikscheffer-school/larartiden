@@ -1,8 +1,10 @@
 # Halmstad (Hallands län)
 
 Webbplats: https://www.halmstad.se/
-Portal: ingen känd
-Hämtade dokument: 14, hämtfel: 2
+Portal: eNämnd
+Hämtade dokument: 23, hämtfel: 2
+Mötessida: https://www.halmstad.se/kommunochpolitik/politikochdemokrati/utskottunderkommunstyrelsen/kommunstyrelsenssamhallsbyggnadsutskott.n278.html
+KF-möten: 2026-03-31, 2026-04-13, 2026-04-16, 2026-04-21, 2026-04-23, 2026-05-28, 2026-06-22, 2026-08-03, 2026-09-06, 2026-09-29, 2026-10-23, 2026-10-26; KS-möten: okända
 Nuvarande sammanfattning: Inga dokument för mål och budget 2027–2031 hittades. KS-protokollet 2026-01-27 nämner bara den kommande budgetberedningen. Under valåret 2022 lade partierna sina budgetförslag (PmB 2023–2027) i november/december, så ett beslut på hösten 2026 är troligt men inte verifierat.
 Luckor: Mål och budget 2027–2031, partiernas förslag, barn- och ungdomsnämndens underlag och KF-datum hittades inte, trots två sökningar i denna omkörning. Halmstad har beslutat i maj/juni under icke-valår och i december under valåret 2022. Remissvar ej granskat.
 

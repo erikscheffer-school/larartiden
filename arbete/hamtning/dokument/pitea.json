@@ -46,5 +46,37 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.pitea.se/Bokhyllan/Protokoll%20-%20n%C3%A4mnder/Kommunfullm%C3%A4ktige/Protokoll/2026/Kommunfullm%C3%A4ktiges%20sammantr%C3%A4de%202026-05-25.pdf",
+  "titel": "1 (70) Sammanträdesprotokoll Kommunfullmäktige Sammanträdesdatum 2026-05-25",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "230acd3fc775c4b5ab9d58b9b9dd3135e509163c33378e95712eb9e1a85e9846",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 71,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.pitea.se/Bokhyllan/Protokoll%20-%20n%C3%A4mnder/Kommunfullm%C3%A4ktige/Protokoll/2026/Kommunfullm%C3%A4ktiges%20sammantr%C3%A4de%202026-02-23.pdf",
+  "titel": "1 (51) Sammanträdesprotokoll Kommunfullmäktige Sammanträdesdatum 2026-02-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f5ce8ac17c7fa6185f9ff59c0b0f2fed0fb4cec22863e76f820c017a3ec1090a",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 157,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

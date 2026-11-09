@@ -2,7 +2,9 @@
 
 Webbplats: https://www.lekeberg.se/
 Portal: ingen känd
-Hämtade dokument: 1, hämtfel: 1
+Hämtade dokument: 1, hämtfel: 10
+Mötessida: https://meetings.lekeberg.se/
+KF-möten: 2026-10-19, 2026-11-30, 2026-12-21; KS-möten: 2026-11-17, 2026-12-15
 Nuvarande sammanfattning: Sökningarna gav bara äldre MER-planer (den senaste: MER-plan 2024 med planåren 2025–2026). Ingen MER-plan 2027 eller underlag inför den hittades.
 Luckor: Tre sökningar (budget 2027, MER-plan 2027, undervisningstid) gav inga handlingar för 2027. lekeberg.se kunde inte hämtas direkt. Datum för KF-beslutet om budget 2027 är okänt; tidigare MER-planer publicerades i november/december, vilket tyder på ett beslut i KF under hösten.
 

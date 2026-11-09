@@ -212,6 +212,209 @@
   "antal_träffar": 4
  },
  {
+  "url": "https://finspang.se/download/18.7a1b2e4f192711ea26a12615/1728913349088/2024-10-23%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 23 oktober 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "84a5bd8facac3e504a20fa871ad5eb9c3244ee8ed0567ee3a03ca1044cccef73",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 238,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "påverkar kommunens ställning specificeras i not 7, 9, och 12. Intäkter och kostnader specificeras ej. NOT 3 ERHÅLLNA MEN ÄNNU EJ INTÄKTSREDOVISADE GENERELLA STATSBIDRAG Sektor utbildning har erhållit 1 mnkr i statsbidrag för extra resurser till skolor för att mildra effekterna av inflationen. 0,6 mnkr intäktsredovisas först ko",
+    "belopp_nara": true
+   },
+   {
+    "sida": 65,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sonalkostnader än Utbildning gemensamt visar en förbättring beräknat vid avveckling av förskolor bidrar till med 2,6 mnkr. Ett tillkommande statsbidrag det. ger ökade intäkter. Arbetet med effektivisering av organisationen bidrar till lägre Gymnasiet förbättrar sin",
+    "belopp_nara": true
+   },
+   {
+    "sida": 66,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Sektor utbildning gemensamt visar ett överskott på 5,4 mnkr. Ett nytt statsbidrag har Hyreskompensation har getts till sektor för blivit tilldelat från Skolverket. Det är benämnt anpassning av verksamheten utifrån färre",
+    "belopp_nara": true
+   },
+   {
+    "sida": 151,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "undervisning som slöjd, idrott och hälsa med mera och det tar tid från undervisningstiden. I ett större sammanhang får man träna sig och utvecklas i kunskap och socialt med flera andra elever vilk",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://finspang.se/download/18.20daad68192b79df1d4167f2/1730116911030/2024-10-23%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 23 oktober 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "03421c2697eba37eb09bbd1bc2b9103cda58011cfb7543a44ffd175b8c09f367",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.1bf6911c191dfb4ec1d118b4/1726492058777/2024-09-25%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 25 september 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2d9e5ef9c100622877c733727e2956535c4d3402f200af6ad98d57fb175993e3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 87,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.767e2697191dfc1a5ea5e237/1727679900593/2024-09-25%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 25 september 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e88d0bb2b80fba2bbf558e1e0f0f40ade27c7c7a5da3044e439dd7f383cfd913",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.48af5a4e18fe7c621761abf8/1718089399501/2024-06-20%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 20 juni 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ccd1a99adccc38ef9bda39b9d10ce411359dfcac1819e800d0907454e5b65a42",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 104,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 63,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "svar, elevantal och enhetsspecifika behov. Det arbetet i kombination med att sektorn för året har pausat centrala projekt inom grundskolan samt fått ökade statsbidrag gör att underskottet nu beräknas bli lägre. Förskolan prognostiserar ett överskott på 2,4 mnkr. Barnantalet minskar och kopplat till det avveckl",
+    "belopp_nara": true
+   },
+   {
+    "sida": 62,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "elevpengen för grundskolan har inte kunnat räknas upp för att täcka övriga kostnadsökningar för året. Prognoserna förutsätter att planerade och sökta statsbidrag erhålls och att redovisningar av genomförda insatser via statsbidrag godkänns. Antaganden har gjorts om barn- och elevantal till hösten vid beräkning",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://finspang.se/download/18.5ca43c8e1900c6e8b4376402/1719391024430/2024-06-20%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 20 juni 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "71e2b189cbd43b89326da52697cbdeb031a39161cab41e3711cc976ff1df9143",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.6b6336ca18ec65d1416288b7/1713274245087/2024-04-24%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 24 april 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fbc99879bd631724f5f1149fd37b9de0873e7e258234e8e4d99742c9d32ae2bf",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 485,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 226,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "t grundskolan). De har fått redskap för att se över sin organisation, vision och bemanning utifrån elevpeng samt gällande bemanning utifrån lärares arbetstid. Det finns flera ekonomiska utmaningar inom sektorn. Kommunen har under många år haft en gymnasieskola som inte kan bära sina kostnader frä",
+    "belopp_nara": false
+   },
+   {
+    "sida": 197,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tsredovisas i takt med att villkoren uppfylls. Erhållna regressavtal som reglerar förbindelse. Enligt regressavtalet ska ej intäktsredovisade riktade statsbidrag uppgår totalt till 14 mnkr. Av de ansvaret fördelas i förhållande till storleken på de medel som förutbetalda riktade statsbidragen är huvudde",
+    "belopp_nara": true
+   },
+   {
+    "sida": 275,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "för gymnasieutbildningar har ökat de senaste platser är 0,5 mnkr lägre. Ett ej budgeterat åren och kommunens kostnad är beroende av statsbidrag för mejerivaror på 0,4 mnkr ger vilka program som eleverna väljer. högre intäkter och kostnaderna för skolskjuts",
+    "belopp_nara": true
+   },
+   {
+    "sida": 41,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "● rektor fattar beslut om antal platser som ska avsättas för fri kvot, beslut om justering av organisation vid slutlig antagning samt beslut om antalet undervisningstimmar för varje kurs och för gymnasiearbetet. Utöver ovanstående, framgår att kommundirektör har delegation att fastställa internbudget och verksamhetsplan för",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://finspang.se/download/18.a53975e18f0fb6ce741bc35/1714461140861/2024-04-24%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 24 april 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "dba196106296adc69374bf818aa6cb9da618bc920452e85940f6f73d4a387cff",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://finspang.se/download/18.2e0b11019c47c6ffeeb4e70/1771343203030/2026-02-11%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
   "titel": "Protokoll från kommunfullmäktiges möte 11 februari (pdf)",
   "typ": "pdf",

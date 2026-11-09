@@ -2,7 +2,9 @@
 
 Webbplats: https://www.botkyrka.se/
 Portal: ingen känd
-Hämtade dokument: 37, hämtfel: 1
+Hämtade dokument: 42, hämtfel: 5
+Mötessida: https://www.botkyrka.se/kommun-och-politik/politik-och-organisation/moten-handlingar-och-protokoll
+KF-möten: 2026-10-16; KS-möten: 2027-01-01
 Nuvarande sammanfattning: Nämndernas yttranden över Mål och budget 2027–2030 gick inte att öppna. Budget 2026 nämner inte reformen.
 Luckor: Utbildningsnämndens protokoll 2026-08-25 ej åtkomligt. Den automatiska hämtningen 2026-11-07 hittade reformorden i Mål och budget 2024 med flerårsplan 2025–2027, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 
@@ -12,9 +14,9 @@ Senast daterade hämtade dokument:
 
 - Att granska vecka 45 (2026-11-07) · Issue #5 · erikscheffer-school/larartiden · GitHub – https://github.com/erikscheffer-school/larartiden/issues/5
 - Att granska vecka 45 (2026-11-07) · Issue #6 · erikscheffer-school/larartiden · GitHub – https://github.com/erikscheffer-school/larartiden/issues/6
+- Socialnämnden 2026-10-20 Kallelse och handlingar NY.pdf Pdf, 2.9 MB. – https://www.botkyrka.se/download/18.7bfdd4431a12f86f34f52a8/1792052506860/Socialn%C3%A4mnden%202026-10-20%20Kallelse%20och%20handlingar%20NY.pdf
+- Socialnämnden 2026-10-20 Protokoll Offentlig signed.pdf Pdf, 437.4 kB. – https://www.botkyrka.se/download/18.16f852d81a162ede2e91d97/1792753831390/Socialn%C3%A4mnden%202026-10-20%20Protokoll%20Offentlig%20signed.pdf
 - Protokoll Kommunstyrelsen 2026-10-12 signed.pdf Pdf, 1.4 MB. – https://www.botkyrka.se/download/18.6636c9461a12f530dfde219/1792506348248/Protokoll%20Kommunstyrelsen%202026-10-12%20signed.pdf
+- Socialnämnden 2026-09-22 Kallelse och handlingar NY.pdf Pdf, 3 MB. – https://www.botkyrka.se/download/18.332e8dae1a0ad99783b2443/1789724318389/Socialn%C3%A4mnden%202026-09-22%20Kallelse%20och%20handlingar%20NY.pdf
+- Socialnamnden 2026-09-22 Protokoll Offentlig signed.pdf Pdf, 310.9 kB. – https://www.botkyrka.se/download/18.1c52ea031a0adc190d910de0/1790314060462/Socialnamnden%202026-09-22%20Protokoll%20Offentlig%20signed.pdf
 - Driften av fritidsklubbar och fritidsgårdar i Botkyrka ska upphandlas - Botkyrka kommun – https://www.botkyrka.se/nyhetsarkiv/nyhetsarkiv/2026-01-30-driften-av-fritidsklubbar-och-fritidsgardar-i-botkyrka-ska-upphandlas
-- Sammanställning budget Tullinge kommundelsnämnd reviderad 2024-10-06.PDF Pdf, 584.1 kB. – https://www.botkyrka.se/download/18.437d255c192705445d733d30/1729249855352/Sammanst%C3%A4llning%20budget%20Tullinge%20kommundelsn%C3%A4mnd%20reviderad%202024-10-06.PDF
-- Kommunfullmäktige 2023-06-20.pdf Pdf, 23.2 MB. – https://www.botkyrka.se/download/18.33d518f61884c84f1eb447e0/1698411762377/Kommunfullm%C3%A4ktige%202023-06-20.pdf
-- Kommunfullmäktige 2023-04-27.pdf Pdf, 66.4 MB. – https://www.botkyrka.se/download/18.42ff2a5b1877420ad4d91b4/1682582299067/Kommunfullm%C3%A4ktige%202023-04-27.pdf
-- Kommunfullmäktige 2023-02-23.pdf Pdf, 15.6 MB. – https://www.botkyrka.se/download/18.3fa636f318631535f7f7e26/1676980378280/Kommunfullm%C3%A4ktige%202023-02-23.pdf

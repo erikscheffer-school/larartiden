@@ -2,7 +2,9 @@
 
 Webbplats: https://www.surahammar.se/
 Portal: Netpublicator
-Hämtade dokument: 28, hämtfel: 3
+Hämtade dokument: 37, hämtfel: 3
+Mötessida: https://surahammar.se/kommun-styrdokument-ekonomi-och-politik/politik-ledning-och-namnder/kommunfullmaktige/kallelser-till-kommunfullmaktige.html
+KF-möten: 2026-09-15, 2026-10-15, 2026-10-26, 2026-10-27, 2026-12-07; KS-möten: 2026-09-15, 2026-10-26, 2026-10-27
 Nuvarande sammanfattning: Tre sökningar, varav en utökad, gav inga handlingar för budget 2027 från Surahammars kommun. Den SVT-artikel som hittades gäller budget 2024 (publicerad 2023-12-21) och är inte relevant.
 Luckor: Kommunens budgetsida och mötesportal syntes inte i sökträffarna och kunde därför inte följas. Budget 2027, BUN:s underlag och datum för KF-beslutet är okända.
 

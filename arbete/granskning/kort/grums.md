@@ -1,8 +1,10 @@
 # Grums (Värmlands län)
 
 Webbplats: https://www.grums.se/
-Portal: ingen känd
-Hämtade dokument: 38, hämtfel: 0
+Portal: eNämnd
+Hämtade dokument: 47, hämtfel: 0
+Mötessida: https://www.grums.se/kommunpolitik/demokratiochpolitik/beslutochprotokoll/kommunfullmaktigesprotokoll.4675.html
+KF-möten: 2026-10-15, 2026-10-22, 2026-10-29, 2026-10-30, 2026-11-20; KS-möten: 2026-02-27, 2026-10-21, 2026-10-28, 2026-10-29, 2026-11-21
 Nuvarande sammanfattning: Sökningarna gav inga relevanta handlingar från Grums kommun.
 Luckor: Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). grums.se:s dokument indexerades inte i sökresultaten. Revidering av driftbudget för 2027 stod på dagordningarna i oktober och november 2026; bara dagordningarna har hittats.
 

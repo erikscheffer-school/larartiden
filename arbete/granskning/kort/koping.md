@@ -2,9 +2,75 @@
 
 Webbplats: https://www.koping.se/
 Portal: ingen känd
-Hämtade dokument: 36, hämtfel: 0
+Hämtade dokument: 45, hämtfel: 0
+Mötessida: https://koping.se/kommun--politik/politik-ledning-och-namnder/kommunstyrelsen/protokoll-for-ksau.html
+KF-möten: 2026-02-02, 2026-03-02, 2026-04-13, 2026-05-04, 2026-06-01, 2026-06-15, 2026-10-05, 2026-10-26, 2026-11-03, 2026-11-09; KS-möten: 2026-08-11, 2026-08-18, 2026-08-25, 2026-09-15, 2026-09-22, 2026-09-29, 2026-10-06, 2026-10-13, 2026-10-21, 2026-10-27, 2026-11-03, 2026-11-10
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades (bara Mål och budget 2025–2027 och UN-kallelse 2025-10-23 för budget 2026). Utbildningskontoret yttrade sig 2025-04-07 över SOU 2025:26, men kostnader och finansiering kommenteras inte i yttrandet.
 Luckor: Sökkvoten (3 WebSearch) är förbrukad. Hittade inte mål och budget 2027, utbildningsnämndens budgetförslag 2027 eller KF-beslutsdatum för budget 2027. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats. Utbildningsnämndens kallelse 2026-09-23 har ärendet Budget 2027 men inget budgetunderlag i handlingarna. En lokalutredning i samma handlingar säger att regleringen av lärares undervisningstid kan ge ett budgetglapp om kommunens merkostnad blir större än statsbidraget.
+
+### Protokoll KSAU 2026-10-13.pdf
+
+https://koping.se/download/18.ec827db1a15cb80b4e1d972/1792655749301/Protokoll%20KSAU%202026-10-13.pdf
+
+Sidor: 26. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Dokumenttyp Sida
+Protokoll 1 (25)
+Mötesdatum Mötets diarienummer
+Kommunstyrelsens arbetsutskott 2026-10-13 KS 2026/603
+Protokoll
+Beslutande organ Kommunstyrelsens arbetsutskott
+Mötesdatum 2026-10-13
+Tid 08.56-12.02, ajournering 09.55-10-07.
+Plats Kommunstyrelsesalen, Rådhuset
+Närvarande Se nästa sida.
+Paragrafer 337–352
+Justeringens plats och tid Rådhuset, 2026-10-21
+Sekreterare
+Elias Wäfors
+Ordförande
+Per Ågren
+Justerare
+Maria Liljedahl
+ANSLAG/BEVIS Justeringen har tillkännagivits genom anslag.
+Beslutande organ Kommunstyrelsens arbetsutskott
+Mötesdatum 2026-10-13
+Anslaget sätts upp 2026-10-22
+Anslaget tas ned 2026-11-13
+Protokollsförvaringsplats Kommunledningsförvaltningen, Rådhuset, Köping
+Underskrift
+Elias Wäfors
+Dokumenttyp Sida
+Protokoll 2 (25)
+Mötesdatum Mötets diarienummer
+Kommunstyrelsens arbetsutskott 2026-10-13 KS 2026/603
+```
+
+**Rader om budget och 2027**
+
+- s. 3: § 344 Beslut - Mål och budget 2027 - Ärendet utgår 16
+- s. 3: § 345 Överläggning - Verksamhetsplan 2027 kommunledningsförvaltningen 17
+- s. 16: § 344 Beslut - Mål och budget 2027 - Ärendet utgår
+- s. 17: § 345 Överläggning - Verksamhetsplan 2027
+- s. 17: Verksamhetsplan 2027 kommunledningsförvaltningen. Arbetsutskottet överlägger.
+- s. 18: Samhällsbyggnadsförvaltningen informerar om Verksamhetsplan 2027 mark och
+
+**Beslut och förslag**
+
+- s. 3: § 344 Beslut - Mål och budget 2027 - Ärendet utgår 16
+- s. 7: Förslag till Vattentjänstplan för Köpings kommun 2027–2034, samrådsversion
+- s. 16: § 344 Beslut - Mål och budget 2027 - Ärendet utgår
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 8: (VafabMiljö), Utbildnings-, kultur- och fritidsförvaltningen, daterad 2026-09-08
+
+**Reformorden**
+
+- Inga reformord i hela texten (26 sidor).
 
 ### Kallelse UN 261022.pdf
 
@@ -150,77 +216,3 @@ Kommunstyrelsen 2026-03-24 KS 2026/94
 **Reformorden**
 
 - Inga reformord i hela texten (73 sidor).
-
-### Protokoll KS 2026-04-21 överläggning.pdf
-
-https://koping.se/download/18.325fe37919dd782953827a9/1777447794583/Protokoll%20KS%202026-04-21%20%C3%B6verl%C3%A4ggning.pdf
-
-Sidor: 12. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-Dokumenttyp Sida
-Protokoll 1 (11)
-Mötesdatum Mötets diarienummer
-Kommunstyrelsen 2026-04-21 KS 2026/246
-Protokoll
-Beslutande organ Kommunstyrelsen
-Mötesdatum 2026-04-21
-Tid 09.00–11.59, ajournering 10.05-10.13.
-Plats Kommunstyrelsesalen, Rådhuset
-Närvarande Se nästa sida.
-Paragrafer 76–83
-Justeringens plats och tid Rådhuset
-Sekreterare
-Elias Wäfors
-Ordförande
-Per Ågren
-Justerare
-Emil Thunberg
-ANSLAG/BEVIS Justeringen har tillkännagivits genom anslag.
-Beslutande organ Kommunstyrelsen
-Mötesdatum 2026-04-21
-Anslaget sätts upp 2026-04-29
-Anslaget tas ned 2026-05-21
-Protokollsförvaringsplats Kommunledningsförvaltningen, Rådhuset, Köping
-Underskrift
-Elias Wäfors
-Dokumenttyp Sida
-Protokoll 2 (11)
-Mötesdatum Mötets diarienummer
-Kommunstyrelsen 2026-04-21 KS 2026/246
-```
-
-**Rader om budget och 2027**
-
-- s. 3: § 80 Information - Kommunledningsförvaltningens budgetförslag 2027 (2028-2029) 8
-- s. 3: § 81 Information - Teknisk verksamhets budgetförslag 2027 (2028-2029) 9
-- s. 3: § 82 Information - Mark och fastighets budgetförslag 2027 (2028-2029) 10
-- s. 8: budgetförslag 2027 (2028-2029)
-- s. 8: Budgetförslaget inför 2027 med plan för 2028 och 2029 berör kommunstyrelsens
-- s. 8: Kommunledningsförvaltningen Budgetförslag 2027 (2028–2029)
-- s. 9: budgetförslag 2027 (2028-2029)
-- s. 9: Budgetförslaget inför 2027 med plan för 2028 och 2029 berör kommunstyrelsens
-- s. 9: Teknisk verksamhet Budgetförslag 2027 (2028–2029)
-- s. 10: budgetförslag 2027 (2028-2029)
-- s. 10: Budgetförslaget inför 2027 med plan för 2028 och 2029 berör kommunstyrelsens
-- s. 10: KS samhällsbyggnadsförvaltningen Budgetförslag 2027 (2028–2029)
-
-**Beslut och förslag**
-
-- s. 3: § 80 Information - Kommunledningsförvaltningens budgetförslag 2027 (2028-2029) 8
-- s. 3: § 81 Information - Teknisk verksamhets budgetförslag 2027 (2028-2029) 9
-- s. 3: § 82 Information - Mark och fastighets budgetförslag 2027 (2028-2029) 10
-- s. 8: budgetförslag 2027 (2028-2029)
-- s. 8: Budgetförslaget inför 2027 med plan för 2028 och 2029 berör kommunstyrelsens
-- s. 8: Kommunledningsförvaltningen Budgetförslag 2027 (2028–2029)
-
-**Skola och utbildning (rader med belopp)**
-
-- s. 3: § 78 Information - Omställning förskola och skola 6
-- s. 6: § 78 Information - Omställning förskola och skola
-
-**Reformorden**
-
-- Inga reformord i hela texten (12 sidor).

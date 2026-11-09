@@ -3,6 +3,8 @@
 Webbplats: https://www.norrtalje.se/
 Portal: ingen känd
 Hämtade dokument: 15, hämtfel: 2
+Mötessida: https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/
+KF-möten: 2026-05-25, 2026-05-27, 2026-06-10, 2026-09-21, 2026-09-22, 2026-10-09, 2026-10-14, 2026-10-15, 2026-10-19, 2026-10-20, 2026-12-01, 2027-01-01; KS-möten: 2026-05-12, 2026-06-01, 2026-06-04, 2026-09-08, 2026-10-13, 2026-12-01
 Nuvarande sammanfattning: KF beslutar Mål & budget 2027–2029 den 14 december 2026. Budget 2026–2028 nämner inte reformen.
 Luckor: forum.norrtalje.se ej åtkomlig.
 

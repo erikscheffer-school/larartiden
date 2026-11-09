@@ -3,6 +3,8 @@
 Webbplats: https://www.solleftea.se/
 Portal: ingen känd
 Hämtade dokument: 2, hämtfel: 0
+Mötessida: inte hittad
+KF-möten: okända; KS-möten: okända
 Nuvarande sammanfattning: Ingen övergripande verksamhetsplan eller budget för 2027–2029 hittades. Senast hittade är Övergripande verksamhetsplan 2025–2027 (2024). Ett remissvar från januari 2026 på regeringen.se gäller kostnadsutjämningen, inte undervisningstid.
 Luckor: Övergripande verksamhetsplan 2027–2029 och KF-datum hittades inte. Övergripande verksamhetsplan 2025–2027 öppnades inte. Utbildningsnämndens underlag har inte granskats. Producent och skede för remissvaret är antagna (kommunens yttrande, beslutande organ anges inte).
 

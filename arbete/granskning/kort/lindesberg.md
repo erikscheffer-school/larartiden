@@ -2,7 +2,9 @@
 
 Webbplats: https://www.lindesberg.se/
 Portal: ingen känd
-Hämtade dokument: 28, hämtfel: 0
+Hämtade dokument: 37, hämtfel: 0
+Mötessida: https://www.lindesberg.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen
+KF-möten: 2026-10-19, 2026-10-20, 2026-10-26, 2026-11-02, 2026-11-09, 2026-11-17; KS-möten: 2026-10-26, 2026-10-27, 2026-10-28, 2026-11-02, 2026-11-18, 2026-11-24
 Nuvarande sammanfattning: Inga handlingar för Mål och budget 2027 hittades. BUN:s protokoll från 2025-12-15 (Mål och budget 2026, verksamhetsplan 2027–2028) nämner inte reformen.
 Luckor: Tre sökningar gav ingen budget 2027. Praxis: KF beslutade 'Mål och budget 2025 Verksamhetsplan 2026–2027' den 2024-06-17 (§74/24, https://lindesberg.se/download/18.6ae8f81900c622ff91ef8b/1718878618186/KF%202024-06-17.pdf). Budget 2027 kan därför ha beslutats i juni 2026, men det är inte verifierat. lindesberg.se kunde inte hämtas direkt. Den automatiska hämtningen 2026-11-07 hittade reformorden i fullmäktiges kallelse 2026-11-09 (måluppföljning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

@@ -2,7 +2,9 @@
 
 Webbplats: https://www.uppvidinge.se/
 Portal: ingen känd
-Hämtade dokument: 12, hämtfel: 0
+Hämtade dokument: 16, hämtfel: 0
+Mötessida: https://www.uppvidinge.se/kommun-och-politik/politik-och-demokrati/moten-kallelser-och-protokoll/kallelser.html
+KF-möten: 2026-10-15, 2026-10-19, 2026-10-29; KS-möten: 2026-09-29, 2026-10-20, 2026-10-29
 Nuvarande sammanfattning: Kommunens sida Ekonomi och budget har inga handlingar för budget 2027. Det senaste dokumentet är Budget 2026 och verksamhetsplan 2027–2028 (beslutat hösten 2025), och det gick inte att öppna. Majoritetens förslag till budget 2026 (2025-11-11) gick inte heller att öppna. Under 2024–2025 beslutades budgeten i KF i november/december.
 Luckor: Inga handlingar för budget 2027 finns på budgetsidan (https://www.uppvidinge.se/kommun-och-politik/kommunfakta/ekonomi/ekonomi-och-budget.html). Budget 2026/VP 2027–2028 kunde inte hämtas: den ena URL:en gav klientfel, den andra stod inte på allowlist. KS-, KF- och BUN-protokoll för 2026 ej granskade. Beslutsdatum för budget 2027 är okänt. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens protokoll 2026-10-14, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

@@ -1,5 +1,194 @@
 [
  {
+  "url": "http://eslov.se/wp-content/uploads/kallelse-och-handlingar-till-kommunstyrelsens-sammantrade-2026-11-03.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6f958711c09111a4f0d20204ece3102a26bb6fb7377d893e5c9f7d8a56863464",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 151,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kallelse-och-handlingar-till-kommunfullmaktige-2026-10-26.pdf",
+  "titel": "Fullmäktiges kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "98b53e5a02556a0cae483cf455313362466b8dae261be0228cba4c43a3935550",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 211,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 137,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rsbokslutet en budgetavvikelse på knappt 17 mnkr. Överskottet beror både på högre intäkter än budgeterat och lägre kostnader än budgeterat. På intäktssidan har statsbidrag inom förskola och grundskola och barnomsorgsavgifter blivit högre än beräknat. Personalkostnaderna är lägre än budgeterat, främst inom förskola och grundskolan",
+    "belopp_nara": true
+   },
+   {
+    "sida": 144,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gre intäkter och lägre personalkostnader för perioden mot vad som planerats. Intäkterna har för perioden blivit högre, till största delen beror det på erhållna statsbidrag inom förskolan och grundskolan. Men även intäkterna för barnomsorgsavgifter inom förskolan och inom fritidshem är högre för perioden. Personalkostnaderna visar",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kommunfullmaktiges-protokoll-2026-10-26.pdf",
+  "titel": "Fullmäktiges kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "796c57846438b50a269f5acacd6bedd7e31cd2c0cde4635f269320c9bb6afffa",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kallelse-och-handlingar-kommunstyrelsen-2026-10-06_till-hemsidan.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "50b9c5297221e312a314542b882491a05f953b927aa44ad78b48c444956d8b10",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 243,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 171,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rsbokslutet en budgetavvikelse på knappt 17 mnkr. Överskottet beror både på högre intäkter än budgeterat och lägre kostnader än budgeterat. På intäktssidan har statsbidrag inom förskola och grundskola och barnomsorgsavgifter blivit högre än beräknat. Personalkostnaderna är lägre än budgeterat, främst inom förskola och grundskolan",
+    "belopp_nara": true
+   },
+   {
+    "sida": 178,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gre intäkter och lägre personalkostnader för perioden mot vad som planerats. Intäkterna har för perioden blivit högre, till största delen beror det på erhållna statsbidrag inom förskolan och grundskolan. Men även intäkterna för barnomsorgsavgifter inom förskolan och inom fritidshem är högre för perioden. Personalkostnaderna visar",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kommunstyrelsens-protokoll-2026-10-06.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3ce9dac687595b0097ac7c8afa03e899970391ae29d4704743ec941d90e0001b",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://eslov.se/wp-content/uploads/kallelse-och-handlingar-till-kommunfullmaktiges-sammantrade-2026-09-28.pdf",
+  "titel": "Fullmäktiges kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "cd9bdcc7a1fdeb1688f8e87d8c52caf6a07b449a516fa3e61fed45da86119bad",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 127,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 75,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ldningsrådets avvikelsehantering. Avvikelser är det begrepp som Folkbildningsrådet använder för att benämna misstänkt eller konstaterad felaktig användning av statsbidrag för folkbildning. Folkbildningsrådets handläggning av sådana ärenden benämns avvikelsehantering. Anmälningar från enskilda deltagare på folkhögskola benämns st",
+    "belopp_nara": false
+   },
+   {
+    "sida": 76,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Utöver det rättsliga stödet för avvikelsehantering har Folkbildningsrådet ett uppdrag från medlemmarna att fullgöra det som regering och riksdag kräver för att statsbidrag ska utgå till den verksamhet som bedrivs av studieförbund och folkhögskolor. Handläggningen ska vara rättssäker och sakligt grundad. I arbetet tillämpas offen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kommunfullmaktiges-protokoll-2026-09-28.pdf",
+  "titel": "Fullmäktiges kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "62f0a83acb317584633f26bcbfef6e7e2525cf9067134533d227ec510f880845",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "http://eslov.se/wp-content/uploads/kommunstyrelsens-arbetsutskotts-protokoll-2026-09-24-for-anslag.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "bdf4fba6d97dbf90955c3e5a7bdc079f78fb09c994bbfa3b6b76d4b9764e02d4",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://eslov.se/wp-content/uploads/ksau-protokoll-2026-09-08.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "d798d5bcb8b87ac6d68655330c1d1e775348a24ccb3ff1a6f5b87d2a1cb534aa",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://eslov.se/",
   "titel": "Eslövs kommun – Service, e-tjänster och information",
   "typ": "html",

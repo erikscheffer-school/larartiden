@@ -266,6 +266,212 @@
   "antal_träffar": 1
  },
  {
+  "url": "https://www.robertsfors.se/download/18.355451a71a16326708640181/1793273473498/CSG%20protokoll%202026-10-07%20signerat.pdf",
+  "titel": "CSG protokoll 2026-10-07 signerat.pdf Pdf, 276.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e21f526b4087ea7126ce7ed04ec551e2e307887077e54f07f92148af27377099",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.2ca88fa91a13057f74646701/1792566127209/CSG%20Protokoll%202026-09-09%20signerat.pdf",
+  "titel": "CSG Protokoll 2026-09-09 signerat.pdf Pdf, 283.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f4f5d1efabfb689342619d76c2c48457037ffcad0b5fbdb3dc2809375946923b",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningsuppdrag"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "undervisningsuppdrag",
+    "reform": true,
+    "utdrag": "ganisationerna informerar (information) - Sveriges lärare: Ombudsträff planeras under läslovet. Inför den nya förordningen om lärares undervisningsuppdrag, som träder i kraft den 1 juli 2027, planeras även en informationsträff tillsammans med ombudsman. Strategidagar är inplanerade. De",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b48846130/1729663012116/Protokoll%20BOU%202018-11-26.pdf",
+  "titel": "Protokoll BOU 2018-11-26.pdf Pdf, 410.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "148eb86603be4ab2e1ae9cfafb36e786ce3de2301969fd9e4d2fb80140787ef7",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "75 Attestantförteckning § 76 Analys av aktiviteter § 77 Motion 4/2016: Schemalagd lunch § 78 Förslag till avskrivningar 2018 § 79 Statsbidrag: Likvärdig skola 2019 § 80 Interkommunal ersättning (IKE) och bidragsbelopp 2019 § 81 Sammanträdestider 2019 § 82 Delgivningar § 83",
+    "belopp_nara": false
+   },
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "da Barn- och utbildningsutskottet 2018-11-26 13 (18) BoU § 79 Statsbidrag för likvärdig skola Statsbidraget ska gå till att stärka likvärdigheten och kunskapsutvecklingen i förskoleklass o",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b4884613a/1729663055719/Protokoll%20BOU%202017-02-20.pdf",
+  "titel": "Protokoll BOU 2017-02-20.pdf Pdf, 839 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2553a1633ff31d56408cce506cb86d1b0ea5efc75f4bb198b9c0207e1c950439",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a södra kommundelen § 11 Avgifter2017 § 12 Tillsynsrapport förskolan Drömvallen § 13 Tillsynsrapp01t fritids Drömvallen §1 4 Ansökan om statsbidrag § 15 Sammanställning kränkande behandling § 16 Delgivningar § 17 Övriga frågor Protokollsutdrag till",
+    "belopp_nara": false
+   },
+   {
+    "sida": 16,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Bidraget ska gå till frivilligt anordnande av läxhjälp till elever. Det innebär hjälp med läxor och annat skolarbete utanför ordinarie undervisningstid. Läxhjälpen ska ledas av lärare, som får bedriva undervisning enligt de bestämmelser som gäller för undervisning i",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b4884613c/1729663067296/Protokoll%20BOU%202017-04-10.pdf",
+  "titel": "Protokoll BOU 2017-04-10.pdf Pdf, 472.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0a0fa894d7598bda3c96905adb77ab934e303b50f08e4b41262dee2b2a94176c",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b4884613e/1729663079282/Protokoll%20BOU%202017-05-15.pdf",
+  "titel": "Protokoll BOU 2017-05-15.pdf Pdf, 289.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9be2c07689250de698b0b24179200d25a53029385e391730442fd5a57ecf18b9",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b48846140/1729663090962/Protokoll%20BOU%202017-10-16.pdf",
+  "titel": "Protokoll BOU 2017-10-16.pdf Pdf, 322.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f1a6297668b376733d3efcb1f02b59a5eb81252d5368d6014957e9354c032b2c",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b48846142/1729663102538/Protokoll%20BOU%202017-11-27.pdf",
+  "titel": "Protokoll BOU 2017-11-27.pdf Pdf, 317.7 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3830eee37c584e147c6bff5f3a7fc64f45787aa73a236fd1cf6cfd20d394aea4",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 21,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.robertsfors.se/download/18.4e5943e01927167b4884614b/1729663123619/Protokoll%20BOU%202016-02-22.pdf",
+  "titel": "Protokoll BOU 2016-02-22.pdf Pdf, 285.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c57858a33796ca317958a8d460871415396875074e8997cf488bde6ec0de29ae",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Föredragningslista 1. Val av justerare 2. Godkännande av föredragningslista 3. Elevärende 4. Årsredovisning 2015 5. Ansökan om statsbidrag: Karriärtjänster 6. Ansökan om statsbidrag: Lovskola 7. Återrapportering Skolsinspektionen 8. Taxa för lovfritids 9. Kvalitetsredovisning 14/15 10. B",
+    "belopp_nara": false
+   },
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ch utbildningsutskottet 2016-02-22 7 (16) BoU § 5 Ansökan om statsbidrag: Karriärtjänster Karriärtjänsterna förstelärare och lektor ska göra läraryrket mer attraktivt och säkra god underv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och utbildningsutskottet 2016-02-22 8 (16) BoU § 6 Ansökan om statsbidrag: Lovskola Huvudmän för grundskola kan söka statsbidrag för lovskola för elev som inte nått eller riskerar att inte",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
   "url": "https://www.robertsfors.se/download/18.4e5943e01927167b488460b6/1729662729307/Protokoll%20BOU%202021-03-15.pdf",
   "titel": "Protokoll BOU 2021-03-15.pdf Pdf, 508.1 kB.",
   "typ": "pdf",

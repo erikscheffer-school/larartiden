@@ -2,7 +2,9 @@
 
 Webbplats: https://www.morbylanga.se/
 Portal: ingen känd
-Hämtade dokument: 30, hämtfel: 1
+Hämtade dokument: 39, hämtfel: 1
+Mötessida: https://www.morbylanga.se/kommun-och-politik/arkiv-och-allmanna-handlingar/moten-och-protokoll/
+KF-möten: 2026-02-23, 2026-04-20, 2026-06-15, 2026-09-13, 2026-10-15, 2026-10-16, 2026-11-07; KS-möten: okända
 Nuvarande sammanfattning: Ingen budget 2027 hittad; senast funna är kommunbudget 2026 med flerårsplan 2027–2029 (KF 2025-11-17), som inte nämner reformen. Kommunen var remissinstans för SOU 2025:26 och skrev (2025-05-21) att föreslagna medel inte räcker och att riktade statsmedel behövs.
 Luckor: Hittade inga handlingar för budget 2027 (planeringsförutsättningar, KS-förslag, KF-beslut) eller beslutsdatum. Budget 2026 beslutades i november 2025, så budget 2027 tas troligen i KF nov 2026, men det är inte bekräftat. Om remissvaret fattats av nämnd eller tjänsteperson framgår inte. Sökbudgeten tog slut.
 

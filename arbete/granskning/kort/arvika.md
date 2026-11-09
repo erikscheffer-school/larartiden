@@ -3,6 +3,8 @@
 Webbplats: https://www.arvika.se/
 Portal: ingen känd
 Hämtade dokument: 10, hämtfel: 1
+Mötessida: https://www.arvika.se/kommunochpolitik/motenhandlingarochprotokoll/kallelserochhandlingar/kallelsekommunfullmaktige.2157.html
+KF-möten: 2026-10-01, 2026-10-02, 2026-10-06, 2026-10-07, 2026-10-08, 2026-10-09, 2026-10-12, 2026-10-13, 2026-10-19, 2026-10-30, 2026-11-04, 2026-11-09; KS-möten: 2026-08-26, 2026-10-12, 2026-10-15, 2026-10-19, 2026-10-26, 2026-11-03, 2026-11-04, 2026-11-05, 2026-11-10, 2026-11-12
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades via sökning; träffarna gällde äldre protokoll och strategisk plan 2024–2026. Ett remissvar från Arvika kommun på regeringskansliet.se gick inte att öppna (omdirigering).
 Luckor: Hittade varken strategisk plan/budget 2027, KF-beslutsdatum eller nämndunderlag 2027 (3 sökningar gjorda). Remissvaret https://www.regeringskansliet.se/contentassets/36497cfb01ac41fb8e35c3837ca80552/arvika-kommun.pdf omdirigerades till regeringen.se:s startsida, så det är okänt vilken remiss det gäller.
 

@@ -3,6 +3,8 @@
 Webbplats: https://www.tierp.se/
 Portal: ingen känd
 Hämtade dokument: 16, hämtfel: 4
+Mötessida: https://www.tierp.se/tierp.se/kommun-och-politik/politik-och-beslut/moten-handlingar-och-protokoll/kommunfullmaktiges-moten/kallelse-och-handlingar-till-kommunfullmaktige.html
+KF-möten: 2026-09-15, 2026-09-22, 2026-09-23, 2026-09-29, 2026-10-02, 2026-10-13, 2026-10-20, 2026-10-22, 2026-10-27, 2026-10-28, 2026-10-30, 2026-11-18; KS-möten: 2026-09-23, 2026-10-27, 2026-10-29, 2026-11-20
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades (Tierps budgetdokument heter 'Plan för Tierps kommuns ekonomi och verksamhet'). Planen för 2024–2026 beslutades av KF 2023-11-07, så budgetbeslutet tas troligen i november och bör komma i november 2026.
 Luckor: Tre sökningar gav inga handlingar för budget 2027 eller planen för 2027–2029: varken KS-förslag, nämndunderlag eller KF-kallelse för hösten 2026. Datumet är inte verifierat.
 

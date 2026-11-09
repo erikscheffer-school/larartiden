@@ -1,8 +1,10 @@
 # Vårgårda (Västra Götalands län)
 
 Webbplats: https://www.vargarda.se/
-Portal: ingen känd
+Portal: eNämnd
 Hämtade dokument: 5, hämtfel: 0
+Mötessida: https://www.vargarda.se/kommun-och-demokrati/moten-handlingar-och-protokoll/moten-och-sammantradestider.html
+KF-möten: 2026-10-21, 2026-10-27; KS-möten: 2026-10-21, 2026-10-27
 Nuvarande sammanfattning: KF hade "Budget och verksamhetsplan 2027–2029" på dagordningen 2026-11-04. Själva budgetdokumentet och nämndunderlagen hittades inte.
 Luckor: Hittade inte själva dokumentet Budget och verksamhetsplan 2027–2029, KF-protokollet eller nämndernas underlag. Det går därför inte att avgöra om reformen nämns. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde transportplan 2017).
 

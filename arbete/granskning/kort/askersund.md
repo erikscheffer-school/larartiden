@@ -1,8 +1,10 @@
 # Askersund (Örebro län)
 
 Webbplats: https://www.askersund.se/
-Portal: ingen känd
-Hämtade dokument: 34, hämtfel: 0
+Portal: Politikerportal, eNämnd
+Hämtade dokument: 44, hämtfel: 0
+Mötessida: https://www.askersund.se/kommun--politik/politik-och-demokrati/moten-och-protokoll.printable
+KF-möten: 2026-10-20; KS-möten: 2026-05-18
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Budgetöverenskommelsen för 2026 (plan 2027–2029; M, KD, L, LPO, SD) och årsredovisning 2025 nämner inte reformen. Årsredovisningen säger att resultatet för 2027 måste revideras när 2027 års budget beslutas, men inget datum anges.
 Luckor: Budget 2027 (förslag och beslut), nämndernas budgetunderlag och KF-datum hittades inte. Startsidan askersund.se kunde inte hämtas (tidigare körning). Sökkvoten (3) är förbrukad.
 

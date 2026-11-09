@@ -263,6 +263,215 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.boras.se/download/18.6e74e4641a1a189e08d1a968/1793873403097/Kommunstyrelsen%202026-11-16%20Handlingar.pdf",
+  "titel": "Kommunstyrelsen 2026-11-16 Handlingar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1ee4c63eaa75a345b0434526e58ef58756ee62d0de968ffc8feb2769463ce014",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 886,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 452,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "an riskera att stämmas för avtalsbrott om ramavtalets delar ej uppfylls korrekt. Bidrag Risk att ansökan om tillgängliga statsbidrag och andra Ej relevant för externa bidrag inte sker Stadsrevisi",
+    "belopp_nara": false
+   },
+   {
+    "sida": 493,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "om någon annan process och förs till intern kontrollplan. Dessa är risker inom områdena upphandling, elevärenden, statsbidrag samt undervisning. Beslutsunderlag 1. Riskanalys 2027 (Gymnasie- och vuxenutbildningsnämnden)",
+    "belopp_nara": false
+   },
+   {
+    "sida": 502,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "upphandlade verksamheter inte levererar enligt avtal vilket påverkar undervisningen. Bidrag Risk att ansökan om tillgängliga statsbidrag och andra 6 Nej Förvaltningen har en utsedd externa bidrag inte sker a",
+    "belopp_nara": false
+   },
+   {
+    "sida": 506,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "personbilsbranschen. Risk att eleverna inte får garanterad undervisningstid 6 Nej Verksamheternas rutiner för att Beskrivning säkerställa e",
+    "belopp_nara": false
+   },
+   {
+    "sida": 507,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "27 2027 Risk för att eleverna inte får den garanterade upp i Skolchefens rapport till undervisningstid som de har rätt till enligt skollagen huvudmannen 2025. Gymnasie- och vuxenutbildningsnämnden, Riskanalys 2027",
+    "belopp_nara": false
+   },
+   {
+    "sida": 508,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ljs inte upp genom någon annan process och förs till intern kontrollplan. Dessa är risker inom områdena upphandling, elevärenden, statsbidrag samt undervisning. Beslutsunderlag 1. Riskanalys 2027 (Gymnasie- och vuxenutbildningsnämnden) 2. Intern kontrollp",
+    "belopp_nara": false
+   },
+   {
+    "sida": 727,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sker löpande kontroller av redovisad moms. Momsstatsbidrag återsöks för utbetalningar till fristående förskolor",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.boras.se/download/18.591fd7ed1a18c56e0143a5c6/1793690897827/Kommunstyrelsen%202026-10-26%20Protokoll.pdf",
+  "titel": "Kommunstyrelsen 2026-10-26 Protokoll.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a67f228a84c9c8e9175754c52435a7357c06db2d41975bae5afb61e390aa351a",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 18,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.591fd7ed1a18c56e0143a62a/1793691026977/Kommunstyrelsen%202026-10-26%20Bilaga.pdf",
+  "titel": "Kommunstyrelsen 2026-10-26 Bilaga.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "748de01c99b60c8080e18fe6a19b859060d190932d4c2f738f5f3140a1bdda1f",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.426c4bf01a12f5493ab3b0de/1793009266553/Kommunstyrelsen%202026-10-26%20Handlingar.pdf",
+  "titel": "Kommunstyrelsen 2026-10-26 Handlingar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4ba358a55f734bbc480971f982ce933da7b12258ecdf7ae76d510685cdd36801",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 145,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 131,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t överskott på 24,2 mnkr. De största positiva avvikelserna mot periodens budget rör statsbidrag och personalkostnader. Vid budgeteringstillfället var inte alla statsbidrag eller nivån på alla statsbidrag kända, varpå viss försiktighet vidtogs i budgeteringen. Den positiva avvikelsen avseende personalkostnader beror bland annat på",
+    "belopp_nara": true
+   },
+   {
+    "sida": 132,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "internhyror från Lokalförsörjningsförvaltningen på grund av evakueringar och avetableringar av moduler. Intäkterna visar en positiv avvikelse som beror på fler statsbidrag än budgeterat exempel, på sådana statsbidrag som inte budgeteras är Läxhjälp, Läromedel och Litteratur. Antal elever i grundskola var i augusti 12 246, vilket",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.boras.se/download/18.7e6557031a1156b7c3deef2/1791449534060/Kommunfullm%C3%A4ktige%202026-10-22%20handlingar.pdf",
+  "titel": "Kommunfullmäktige 2026-10-22 handlingar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6db965602cf9f540ae8e92a5c3cc68f331ee31bc249bc2c4ea80586df520b4ae",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.6ae869351a15784154110af/1792476519889/Kommunstyrelsen%202026-10-12%20Protokoll.pdf",
+  "titel": "Kommunstyrelsen 2026-10-12 Protokoll.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "26a906a839d76482f51b2e024416ed2f6ad486d71c303f059a20bdbbbd3da124",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.65e1deab1a0eb81c5481e8dc/1790834117436/Kommunstyrelsen%202026-10-12%20Handlingar.pdf",
+  "titel": "Kommunstyrelsen 2026-10-12 Handlingar.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "559ed6a4a4a37a6a74928ec9825f91c2ec294f9725f03f138266c061b5e26ee4",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 217,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.62a00def1a0eb6f2dd220a89/1790842738472/Kommunfullm%C3%A4ktige%202026-09-24%20Bilagor.pdf",
+  "titel": "Kommunfullmäktige 2026-09-24 Bilagor.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "cf258e02ee32d30ca92850310fff37df6b45ce4b6946892d7abfaa039334672f",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.boras.se/download/18.62a00def1a0eb6f2dd220a8a/1790842738535/Kommunfullm%C3%A4ktige%202026-09-24%20Protokoll.pdf",
+  "titel": "Kommunfullmäktige 2026-09-24 Protokoll.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5f2ecc1cf72aa2b105a79d64aa11467d447ae784aa956bb685fead0763c8ad5f",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.boras.se/kommunochpolitik/kommunensorganisation/kommunstyrelsen/kommunstyrelsen/kommunstyrelsensammantrade202606151400.5.345c9d6b19a05133abccccb0.html",
   "titel": "Kommunstyrelsen , sammanträde 2026-06-15 14.00 - Borås Stad",
   "typ": "html",

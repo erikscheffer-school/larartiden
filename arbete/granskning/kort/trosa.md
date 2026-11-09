@@ -1,8 +1,10 @@
 # Trosa (Södermanlands län)
 
 Webbplats: https://www.trosa.se/
-Portal: ingen känd
-Hämtade dokument: 2, hämtfel: 31
+Portal: eNämnd
+Hämtade dokument: 2, hämtfel: 40
+Mötessida: https://www.trosa.se/kommun-och-politik/politik-och-demokrati/kommunstyrelsen/kallelser/
+KF-möten: 2026-01-01, 2026-03-11, 2026-04-29, 2026-05-29, 2026-10-08, 2026-10-14; KS-möten: 2026-10-21, 2026-11-11
 Nuvarande sammanfattning: Budget 2027 hittades inte. Budget 2026 (vårversion) nämner inte undervisningstid. Humanistiska nämndens handlingar 2025-11-24 (bl.a. läsårsplan 2027/28) nämner inte reformen.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Varken vår- eller höstbudget 2027 hittades. Trosa beslutar budget i två steg: vårbudget i juni (KF 2025-06-18) och höstbudget i nov–dec. Datumen 2026 är inte verifierade. Beslutsdatum för budget 2026 (vår) framgår inte av dokumentet.
 

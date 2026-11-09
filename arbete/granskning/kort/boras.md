@@ -1,8 +1,10 @@
 # Borås (Västra Götalands län)
 
 Webbplats: https://www.boras.se/
-Portal: ingen känd
-Hämtade dokument: 43, hämtfel: 1
+Portal: eNämnd
+Hämtade dokument: 52, hämtfel: 1
+Mötessida: https://www.boras.se/kommunochpolitik/kommunensorganisation/kommunfullmaktige/kommunfullmaktige/kommunfullmaktigesammantrade202609241700.5.345c9d6b19a05133abccd66e.html
+KF-möten: 2026-12-14, 2027-01-21, 2027-02-25, 2027-03-18, 2027-04-29, 2027-05-27, 2027-06-23, 2027-08-26, 2027-09-23, 2027-10-21, 2027-11-17, 2027-12-22; KS-möten: 2026-09-21, 2026-09-22, 2026-09-24, 2026-09-29, 2026-10-01, 2026-10-12, 2026-10-15, 2026-10-20, 2026-10-26, 2026-11-03, 2026-11-05, 2026-11-16
 Nuvarande sammanfattning: Borås Stads budget 2027 har inte hittats. Kommunstyrelsen föreslog i september att fullmäktige håller budgetsammanträde 14–15 december 2026. Enligt Borås Tidning har det nya styret bjudit in oppositionen att lämna förslag till budget 2027.
 Luckor: Inga handlingar för budget 2027 har hittats (KS-version, nämndernas budgetförslag). Kommunstyrelsens handlingar 2026-09-21 och gymnasie- och vuxenutbildningsnämndens handlingar 2026-01-27 innehåller inget budgetunderlag för 2027 som nämner reformen. Borås Tidnings artikel om budgeten ligger bakom betalvägg. Remissvar på SOU 2025:26 hittades inte.
 

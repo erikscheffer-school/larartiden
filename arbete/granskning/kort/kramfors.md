@@ -2,7 +2,9 @@
 
 Webbplats: https://www.kramfors.se/
 Portal: ingen känd
-Hämtade dokument: 37, hämtfel: 0
+Hämtade dokument: 46, hämtfel: 0
+Mötessida: https://www.kramfors.se/kommun--demokrati/moten-kallelser-och-protokoll/overformyndarnamndens-protokoll.html
+KF-möten: 2026-10-21, 2026-10-22, 2026-10-26, 2026-11-05; KS-möten: 2026-09-17, 2026-10-13, 2026-10-18
 Nuvarande sammanfattning: Mål- och resursplan 2027 har ännu inte beslutats. KF fastställde 2026-06-22 (§ 46) planeringsförutsättningar inför arbetet med MRP 2027 med planår 2028–2029; protokollet nämner inte lärares undervisningstid eller statsbidraget. KF-protokollen 2026-09-28 och 2026-10-26 innehåller inget beslut om MRP 2027.
 Luckor: MRP 2027 väntas hösten 2026 (kommunen beslutar normalt i oktober, men valåret har förskjutit det); datum okänt. Själva planeringsförutsättningarna och bildningsnämndens underlag är inte granskade. Pressreleasen "17 miljoner stärker Kramfors" (2026-06-26) är inte granskad.
 

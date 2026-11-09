@@ -1,8 +1,10 @@
 # Filipstad (Värmlands län)
 
 Webbplats: https://www.filipstad.se/
-Portal: ingen känd
-Hämtade dokument: 37, hämtfel: 0
+Portal: eNämnd
+Hämtade dokument: 44, hämtfel: 0
+Mötessida: https://www.filipstad.se/toppmeny/kommunochpolitik/politikochdemokrati/sammantradenochkallelser2026.4126.html
+KF-möten: 2026-10-15, 2026-10-16, 2026-10-19, 2026-10-22, 2026-10-23, 2026-10-28, 2026-11-03, 2026-11-06, 2026-11-09; KS-möten: 2026-10-28
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Sökträffarna var en SVT-artikel från 2020 och statistik från Ekonomifakta.
 Luckor: Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). filipstad.se:s budget- och protokollsidor kom inte fram i sökresultaten.
 

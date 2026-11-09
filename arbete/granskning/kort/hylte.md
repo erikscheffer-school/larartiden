@@ -2,7 +2,9 @@
 
 Webbplats: https://www.hylte.se/
 Portal: ingen känd
-Hämtade dokument: 12, hämtfel: 3
+Hämtade dokument: 12, hämtfel: 9
+Mötessida: https://meetings.hylte.se/
+KF-möten: okända; KS-möten: 2026-11-10
 Nuvarande sammanfattning: Två sökningar gav inga budgethandlingar för 2027 (REP 2027). Valåret 2020 beslutade KF om REP 2021–2024 den 10 december, vilket tyder på ett beslut i december 2026, men det är inte verifierat.
 Luckor: REP 2027, BUN-underlag, KF-datum 2026 och remissvar hittades inte. hylte.se:s budgetsida gick inte att nå via sökningen.
 

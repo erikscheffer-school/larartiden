@@ -2,7 +2,9 @@
 
 Webbplats: https://www.leksand.se/
 Portal: Netpublicator
-Hämtade dokument: 26, hämtfel: 0
+Hämtade dokument: 35, hämtfel: 0
+Mötessida: https://leksand.se/kommun-och-politik/politik-och-demokrati/politisk-organisation/radgivande-organ
+KF-möten: 2026-06-01, 2026-09-09, 2026-10-20, 2026-10-21; KS-möten: 2026-06-01, 2026-10-26
 Nuvarande sammanfattning: Kommunplan 2027–2029 har inte behandlats av KF under 2026. Den står inte heller på dagordningen för KF 2026-11-09, där bara skattesatsen för 2027 tas upp. Dagordningarna för KF 2026-05-25, 2026-06-29 och 2026-10-20 i kommunens Netpublicator innehåller inget ärende om kommunplan eller budget 2027.
 Luckor: Kommunplan 2027–2029 väntas troligen i december 2026; datum är okänt. Bildningsnämndens underlag är inte granskat. Handlingar: https://www.netpublicator.com/reader/r67748107 (Kommunfullmäktige). Protokollen är publicerade av Vänsterpartiet i Leksand, inte av kommunen.
 

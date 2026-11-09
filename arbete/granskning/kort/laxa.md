@@ -2,9 +2,86 @@
 
 Webbplats: https://www.laxa.se/
 Portal: ingen känd
-Hämtade dokument: 21, hämtfel: 0
+Hämtade dokument: 30, hämtfel: 0
+Mötessida: https://www.laxa.se/Kommun-och-politik/Demokrati-och-insyn/Moten-och-protokoll.html?folder=19.183bde2919c934a2b2236a0&sv.url=12.442d8ae317dbd32c972a12ca
+KF-möten: 2026-03-11, 2026-04-22, 2026-06-17, 2026-09-23, 2026-10-21; KS-möten: 2026-02-24, 2026-03-31, 2026-05-05, 2026-06-02, 2026-06-22, 2026-09-01, 2026-10-06, 2026-10-27
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades via sökning; de senaste träffarna var Budget 2025 och verksamhetsplan 2026–2027, som inte nämner undervisningstiden.
 Luckor: Tre sökningar gav inga handlingar för budget 2027 (förslag, beslut eller BUN-underlag). Kommunens webbplats (laxa.se) kunde inte hämtas direkt (står inte på tillåtelselistan). Datum för KF-beslutet om budget 2027 är okänt. Skedet för budget 2025-dokumentet är antaget (sannolikt beslutad version); beslutsdatum framgår inte.
+
+### Protokoll KS 2026-10-27.pdf Pdf, 1.2 MB, öppnas i nytt fönster.
+
+https://www.laxa.se/download/18.1ccccf451a16318572a267c0/1793120937184/Protokoll%20KS%202026-10-27.pdf
+
+Sidor: 29. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Protokoll 2026-10-27
+Kommunstyrelsen
+Tid Plats
+13:15-15:30 Kommunkontoret, sammanträdesrum
+Getaryggen
+Beslutande ledamö ter Ej tjä nstgö rande ersä ttare
+Henrik von Schéele (M) (ordförande) Tina Johansson (S) §§181-183, §§188-200
+Therese Magnusson (S) (vice ordförande) Kenneth Lantz (V)
+Paul Särnholm (C) (2:e vice ordförande) Pernilla Ljungstedt (C)
+Stefan Dubois (M) Christina Grön (C)
+Karin Elofsson (M)
+Elin Andersson (S)
+Ivonny Falk (KD)
+Jerry Karjalainen (V)
+Ankie Johanzon (C)
+Elisabeth Brandin (SD)
+Helena Schönn (KD) ersätter Mona-Lisa Olsson
+(KD)
+Ö vriga
+Anna Eriksson (kommunsekreterare)
+Jessica Vidberg (kommunchef)
+Marion Johansson (administrativ chef, Askersund) §§181-183
+Protokollet innehåller paragraferna §§181-200
+Ordförande _________________________________________________________________
+Henrik von Schéele
+Justerare _________________________________________________________________
+Paul Särnholm
+Sekreterare _________________________________________________________________
+Anna Eriksson
+Page 1 of 28
+```
+
+**Rader om budget och 2027**
+
+- s. 3: § 186 Skattesats år 2027
+- s. 3: § 187 Budget 2027 och verksamhetsplan 2028-2029 - beslut från BUN
+- s. 10: § 186 – Skattesats år 2027
+- s. 10: Laxå kommuns fullmäktigebeslut om budget och verksamhetsplan 2027–2029 kommer att
+- s. 10: flyttas fram. Det innebär att beslut om 2027 års skattesats kommer att behandlas i ett
+- s. 10: • Tjänsteskrivelse - Skattesats för 2027 daterad 16 oktober 2026
+- s. 12: § 187 – Budget 2027 och verksamhetsplan 2028-2029 - beslut
+- s. 12: underskottet hanteras och regleras i budgetberedningen 2027.
+- s. 27: Kommunchef Jessica Vidberg lyfter utbildningsförbundets arbete med budget 2027.
+
+**Beslut och förslag**
+
+- s. 3: § 187 Budget 2027 och verksamhetsplan 2028-2029 - beslut från BUN
+- s. 10: Laxå kommuns fullmäktigebeslut om budget och verksamhetsplan 2027–2029 kommer att
+- s. 10: flyttas fram. Det innebär att beslut om 2027 års skattesats kommer att behandlas i ett
+- s. 12: § 187 – Budget 2027 och verksamhetsplan 2028-2029 - beslut
+- s. 25: Kommunstyrelsen har fått förfrågan om att föreslå vigselförrättare för perioden 2027-2030.
+- s. 25: Kommunstyrelsen föreslår att följande personer utses till vigselförrättare för perioden 2027-
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 5: Delårsrapport augusti 2026 Sydnärkes Utbildningsförbund
+- s. 12: Barn och utbildningsnämnden beslutade den 28 september att kommunstyrelsen skyndsamt
+- s. 12: realiserar sitt tidigare antagna beslut i kommunstyrelsen 31 mars 2026, § 65, barn- och
+- s. 12: • Barn- och utbildningsnämnden § 88 Delårsrapport 31 augusti 2026(KS 2026-9-23)
+- s. 12: • Kommunstyrelsen § 65 Barn- och utbildningsnämndens skollokalutredning 2025(KS 2026-98-
+- s. 27: Kommunchef Jessica Vidberg lyfter utbildningsförbundets arbete med budget 2027.
+
+**Reformorden**
+
+- Inga reformord i hela texten (29 sidor).
 
 ### Protokoll kommunstyrelsen 2026-02-24
 

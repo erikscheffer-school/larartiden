@@ -1,8 +1,10 @@
 # Nordmaling (Västerbottens län)
 
 Webbplats: https://www.nordmaling.se/
-Portal: ingen känd
-Hämtade dokument: 39, hämtfel: 0
+Portal: eNämnd
+Hämtade dokument: 48, hämtfel: 0
+Mötessida: https://www.nordmaling.se/kommun/politik/kallelser-och-protokoll/kallelser-och-moteshandlingar/kallelser-kommunfullmaktige
+KF-möten: 2026-02-09, 2026-02-19, 2026-04-20, 2026-05-27, 2026-06-15, 2026-08-24, 2026-08-31, 2026-09-13, 2026-10-26, 2026-10-28, 2026-11-02, 2026-11-09; KS-möten: 2026-02-04, 2026-03-16, 2026-04-20, 2026-05-11, 2026-06-01, 2026-06-15, 2026-08-17, 2026-08-31, 2026-10-12, 2026-10-16, 2026-11-02, 2026-11-09
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. Sökningarna gav bara träffar på ekonomifakta och andra kommuner.
 Luckor: Tre sökningar gav varken kommunens budgetsida, mötesportal eller KF-protokoll för 2026. Inget i Nordmaling har granskats.
 

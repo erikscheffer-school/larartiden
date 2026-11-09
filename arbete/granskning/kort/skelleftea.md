@@ -3,6 +3,8 @@
 Webbplats: https://www.skelleftea.se/
 Portal: Politikerportal
 Hämtade dokument: 5, hämtfel: 0
+Mötessida: https://skelleftea.se/invanare/startsida/kommun-och-politik/politik-och-demokrati/demokrati-och-dialog/skellefteaforslag/inkomna-forslag?page=1
+KF-möten: 2026-02-17, 2026-05-22, 2026-06-17, 2026-09-13; KS-möten: okända
 Nuvarande sammanfattning: Inga handlingar för budget 2027 (hösten 2026) hittades. Det senaste var pressmeddelandet 2025-10-08 om budget 2026–2035, där undervisningstid och statsbidrag inte nämns. Där står att utbildningsnämnderna får full kompensation för löne- och prisökningar.
 Luckor: Tre sökningar gav inget budgetförslag för 2027 och inget KF-datum. Budgeten presenteras sannolikt i oktober med beslut i november, men det är inte verifierat. Skellefteå har två utbildningsnämnder, vars underlag inte har granskats.
 

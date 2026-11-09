@@ -1,5 +1,231 @@
 [
  {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/35872797dffe813c5c1f-485e-43ba-aa79-42184aaeb432?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+  "titel": "Kommunfullmäktige 2026-11-05 – 5. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 – KS § 99_2026-10-21 Beslut om budget år 2027 och plan för ekonomin åren 2028-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "877c9b728880e9b8e95845470348b9861f72cc143df6c886ebbe7d10894b5515",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 56,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "reglerad undervisningstid",
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 20,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "ostnader, utvecklas negativt 6,0 mnkr på lång sikt för att möta krav på under budgetperioden, från -29 mnkr år 2027 reglering av lärares undervisningstid. till -43 mnkr år 2030 främst på grund av högre Beloppen motsvarar det som kommunen erhå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 48,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "0 -15 600 -15 600 Samlingsbeslut om ny organisatorisk placering, HR-chef 2026-05-22 5 605 5 605 5 605 5 605 Reglering av Lärarnas undervisningstid (belopp / gen.stb) -3 000 -6 000 -6 000 -6 000 Gymnasieskola, Inredning / utrustning, uppstart -5 900",
+    "belopp_nara": false
+   },
+   {
+    "sida": 53,
+    "ord": "reglerad undervisningstid",
+    "reform": true,
+    "utdrag": "levhälsa -1,0 -1,0 -1,0 -1,0 Ytterligare uppstartskostnad -2,7 -1,1 -0,4 0,0 Gymnasieskolan Reglerad undervisningstid -3,0 -6,0 -6,0 -6,0 (finansierad av statsbidrag) Förskola - en ny avdelning i varje -5,0 -10,0 -15,0 -20,0 kommundel",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/f8d38b898ee3492bf2f6-6608-4a82-a0d3-76567ae7ae58?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+  "titel": "Kommunfullmäktige 2026-11-05 – 5. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 – Preliminärt Förord Budget 2027-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1a7657aa7a7dde9cc2ca5fb54e938e3627dc4196a57c8a9951f6cc72c769f36d",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "fullt ut för den kommande reg- nya objekt. Däremot ökar vi utrymmet för under- leringen av lärarnas undervisningstid, vilket i sig hållsinvesteringar, beläggningsarbete, energispar- innebär en ökad lärartäthet.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/9272e96dc4c36884b5f3-a0c8-4a30-962b-78a49fc12706?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+  "titel": "Kommunfullmäktige 2026-11-05 – 5. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 – Gemensamt förslag M-SD-C-KD Budget 2027-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ef734a3c7614b24b93de85a3a269ba7a89ce0fa21260b0c35706066ee64124fd",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 2,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "N Högre vårdtyngd i LSS-gruppbostäder -1,2 -1,2 -1,2 -1,2 BUN Reglering av Lärarnas undervisningstid (belopp / gen.stb) -3,0 -6,0 -6,0 -6,0 BUN Ytterligare uppstartskostnad Gy-skolan",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/9c42f9f964b4b5a8da5c-c0cb-47e1-8194-93349dc72ef8?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+  "titel": "Kommunfullmäktige 2026-11-05 – 5. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 – Tjänsteskrivelse - Budget 2027 samt plan för ekonomin 2028 – 2030 för Lomma kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "d28133f51835df6c2d522357dd804754400b410fccdfb7edcf66c100e253c303",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/44748a967e9370785049-cae0-4ad4-b88c-20a7515853f1?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "titel": "Kommunstyrelsen 2026-10-21 – 6. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 - fler handlingar kommer senare – KSAU § 188_2026-10-21 Beslut om budget år 2027 och plan för ekonomin åren 2028-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "77b07b1d870d40afee4ac2ea580923faa3e3074dec6d2c6740773546daad2257",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/c99a01721cfd130515fe-c355-48d9-99d8-02a7e1fcb214?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "titel": "Kommunstyrelsen 2026-10-21 – 6. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 - fler handlingar kommer senare – Tjänsteskrivelse - Budget 2027 samt plan för ekonomin 2028 – 2030 för Lomma kommun - reviderad",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "00ae7b3dee1292c0ae17e0675cc7b95c4828305854531fc65a21f3419ef4a1b8",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/431b039b703886d75dbc-91e1-480c-871c-dbf52b6f3bb3?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "titel": "Kommunstyrelsen 2026-10-21 – 6. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 - fler handlingar kommer senare – Budget_Underlag_M",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "06e4a5346e4e99c7a434b6a5887d9013e65fc2b61ecced28a25dbbc961e57f80",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 11,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "0 -15 600 -15 600 Samlingsbeslut om ny organisatorisk placering, HR-chef 2026-05-22 5 605 5 605 5 605 5 605 Reglering av Lärarnas undervisningstid (belopp / gen.stb) -3 000 -6 000 -6 000 -6 000 Gymnasieskola, Inredning / utrustning, uppstart -5 900",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/39916805b325c4bcb232-e250-4e02-bef2-5c1afad2bed7?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "titel": "Kommunstyrelsen 2026-10-21 – 6. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 - fler handlingar kommer senare – Budget 2027 samt plan för 2028-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "62ddc8a79b00803d316e9f0bba04c4c0a4a39fc68dea2bcfbdcb7d464406fa01",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 48,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "ostnader, utvecklas negativt 6,0 mnkr på lång sikt för att möta krav på under budgetperioden, från -29 mnkr år 2027 reglering av lärares undervisningstid. till -43 mnkr år 2030 främst på grund av högre Beloppen motsvarar det som kommunen erhå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 45,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "0 -15 600 -15 600 Samlingsbeslut om ny organisatorisk placering, HR-chef 2026-05-22 5 605 5 605 5 605 5 605 Reglering av Lärarnas undervisningstid (belopp / gen.stb) -3 000 -6 000 -6 000 -6 000 Gymnasieskola, Inredning / utrustning, uppstart -5 900",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r01696490/document/6fb2a4e2838150e8af58-343b-421d-8107-1f55fbec5048?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+  "titel": "Kommunstyrelsen 2026-10-21 – 6. Beslut om budget år 2027 och plan för ekonomin åren 2028-2030 - fler handlingar kommer senare – KS 21 okt_Budget 2027_Bildspel",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "da3bbb6b250b2a9cbf9545170675c71e6bbd0dcf24a389f054ed7020042718f1",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 16,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 6,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "-0,5 0,0 0,0 0,0 Förstärkning socialnämnden, volymer, vårdtyngd -6,8 -6,8 -6,8 -6,8 Reglering av Lärarnas undervisningstid -3,0 -6,0 -6,0 -6,0 Ytterligare uppstartskostnad, gymnasieskola -2,7 -1,1 -0,4 0,0 Successivt införa",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.sydsvenskan.se/lomma/skatter-skola-omsorg-har-kan-gamla-styret-koras-over-i-host",
   "titel": "Skatter, skola, omsorg – här kan gamla styret köras över i höst – Sydsvenskan",
   "typ": "html",

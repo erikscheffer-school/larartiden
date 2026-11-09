@@ -3,6 +3,8 @@
 Webbplats: https://www.lysekil.se/
 Portal: Ciceron
 Hämtade dokument: 17, hämtfel: 0
+Mötessida: https://lysekil.se/kommun-och-politik/politik-och-demokrati/moten-handlingar-och-protokoll
+KF-möten: 2026-11-03; KS-möten: okända
 Nuvarande sammanfattning: Senaste budgeten är Budget 2026 med plan 2027 och 2028, antagen av KF 2025-12-10 § 128. Den nämner inte reformen. Kommunens budgetsida har inga handlingar för budget 2027, men KF beslutade förra budgeten i december och väntas göra likadant i år.
 Luckor: Inget förslag till budget 2027, ingen tidplan och inget KF-datum för 2027 hittades. Förra året beslutade KF i december (2025-12-10), så december 2026 är troligt men inte verifierat. Utbildningsnämndens budgetunderlag är inte granskat. Startsidan gick inte att hämta.
 

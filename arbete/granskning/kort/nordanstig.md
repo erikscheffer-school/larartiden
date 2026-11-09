@@ -2,7 +2,9 @@
 
 Webbplats: https://www.nordanstig.se/
 Portal: ingen känd
-Hämtade dokument: 30, hämtfel: 0
+Hämtade dokument: 39, hämtfel: 0
+Mötessida: https://nordanstig.se/startsida/sidor/kommun-och-politik/organisation/kommunstyrelsen-ks.html
+KF-möten: 2026-02-23, 2026-04-27, 2026-05-25, 2026-06-22, 2026-08-31, 2026-10-26, 2026-12-31; KS-möten: 2026-12-31
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Protokollen från utbildningsutskottet (2025-09-16) och ledningsutskottet (2024-06-18) som granskades nämner varken budget 2027 eller undervisningstid.
 Luckor: Omkörningen gjorde 3 WebSearch (budget 2027/KF, KS-protokoll 2026, utbildningsutskottet/undervisningstid) men fann inga budgethandlingar för 2027, inget KF-datum och ingen budgetsida eller mötesportal för Nordanstig. Ev. remissvar på SOU 2025:26 hittades inte. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2017–2020, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

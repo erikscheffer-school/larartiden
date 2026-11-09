@@ -160,5 +160,235 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.uddevalla.se/download/18.3339296f19d24be3cf27764/1775041726096/Kommunfullm%C3%A4ktiges%20kallelse%202026-04-08.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-04-08.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8cc95b5afb4b44d18ddaafe361a211f03ce9c7253438319780bd16588825b053",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 374,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 63,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "samt sitt upp- ­utbildningen. Gymnasieskolan har senare år med drag inför hösten 2025. Mottagning av nyanlända delvis stöd av statsbidrag byggt ut resurser för det sker fortsättnings­vis på ­respektive skola. Den nya före­byggande arbetet med elever när det gäller ­administrativa ­o",
+    "belopp_nara": false
+   },
+   {
+    "sida": 64,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "inte ­genomför lika många årsstudieplatser som Tidigare problem med avhopp på ett par yrkes­- ­verksamheten planerar. Regeringen höjer statsbidragen högskole­utbildningar påverkar ekonomiska för regionalt yrkesvux med i genomsnitt 20 % vilket ­prognosen negativt. De korta kurse",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.uddevalla.se/download/18.7cfa51c219ddcb7f64f11025/1779272117708/Kommunstyrelsens%20kallelse%202026-05-27.pdf",
+  "titel": "Kommunstyrelsens kallelse 2026-05-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "04a07bd90936d2050ec6b05247286f7e760203dd6ecc8b832c5ca0e24cf77fdf",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 769,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 31,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "en. ­centrum samt företagsklimatet. • Finansiell leasing för 2027 uppgår till 282 mkr • Satsning på lärartäthet och elever som behöver och avser Rydingsbergs vård- och omsorgs- extra resurser. boende som ska vara kla",
+    "belopp_nara": true
+   },
+   {
+    "sida": 49,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kl. justering med För 2027 tilldelas nämnden en utökning om hänsyn till osäkerhet för investeringar), dessutom 28,4 mkr som bland annat avser ökad lärartäthet finns det för 2027 avsatt 1,8 mkr i central reserv för och satsning på barn med särskilda behov, ­denna genom­förande­kostnader kopplat till invester",
+    "belopp_nara": true
+   },
+   {
+    "sida": 16,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": ". satsningar som riktas till äldre, unga och barn med Svåra tider till trots så har vi lyckats genom- särskilda behov. Vi ökar lärartätheten inne­bärandes föra viktiga satsningar som både förändrat och att varje elev får mer tid tillsammans med sin ­för­bättrat kommunen. Näringsliv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 23,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ld budget 2026 framgår de kommun­fullmäktiges flerårsplan 2027–2029 i samlade politiska uppdragen. Dessa följs uppdrag att öka lärartätheten. upp under året och några kan komma att avslutas under året. Nedan specificeras • Kultur och fritidsnämnden får utifrån kommun- de politiska upp",
+    "belopp_nara": false
+   },
+   {
+    "sida": 47,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "trots En attraktiv plats i kommunen är Ljungskile sjunkande elevantal satsas medel genom att öka som ska utvecklas för att möta behoven från lärartätheten, men även satsning på elever som boende, besökare och företagare. Det görs behöver extra resurser. Här prioriteras även medel satsningar för at",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://uddevalla.se/download/18.29a12e5819ed466c2af2b2c0/1787132115194/kommunstyrelsens%20kallelse%202026-08-26.pdf?vv_hit=true",
+  "titel": "Kallelse till kommunstyrelsen 2026-08-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1b9ee4d5ed7686b4f84d62f0d397bec1ba7170d46a19de350ab9ba51724b3228",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1211,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 92,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "illkommit samt att beloppet per invånare har ändrats för en del bidrag. Ett statsbidrag ligger tillsvidare som en kommuncentral post, detta gäller reglering av lärares undervisningstid och berör förskole- och grundskolenämnden samt utbildnings- och arbetsmarknadsnämnden som kommer fördelas under hösten när den procentuella fördelningen är kla",
+    "belopp_nara": false
+   },
+   {
+    "sida": 93,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "central driftreserv för genomförandekostnader kopplade till investeringar på 16,1 mkr och en skolreserv på 15,0 mkr. Dessutom finns 8,4 mkr avsatt för riktade statsbidrag, som tidigare nämnts ska det göras en fördelning framöver.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 600,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "atient som är intagen vid en vårdinrättning (2 kap. 4 § HSL). 12 Se 17 kap. 2 § socialtjänstförordningen, 17 kap. 2 § HSL och 3 § förordningen (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet. 13 Prop. 1973:90 s. 213.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.uddevalla.se/download/18.2512b3ed19e63af8a107aed/1780491936388/Kommunfullm%C3%A4ktiges%20kallelse%202026-06-10.pdf",
+  "titel": "Kommunfullmäktiges kallelse 2026-06-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fb9eadc13f10d3aa37b78fd5c020d0ae5815c5fd036f50d8ff65707ea74ce918",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 532,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 121,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "med våra barn ha rätt förutsättningar. All skolpersonal så som lärare, kuratorer, vaktmästare men också skolmåltids- och städpersonal ska ha bra arbetsvillkor. Lärarnas arbetstid behöver regleras och renodlas så de får bättre möjlighet att bedriva pedagogisk verksamhet. Elevhälsan behöver finnas på plats redan i lågstadiet för att på e",
+    "belopp_nara": false
+   },
+   {
+    "sida": 28,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "en. ­centrum samt företagsklimatet. • Finansiell leasing för 2027 uppgår till 282 mkr • Satsning på lärartäthet och elever som behöver och avser Rydingsbergs vård- och omsorgs­ extra resurser. boende som ska vara kla",
+    "belopp_nara": true
+   },
+   {
+    "sida": 46,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "kl. justering med För 2027 tilldelas nämnden en utökning om hänsyn till osäkerhet för investeringar), dessutom 28,4 mkr som bland annat avser ökad lärartäthet finns det för 2027 avsatt 1,8 mkr i central reserv för och satsning på barn med särskilda behov, ­denna genom­förande­kostnader kopplat till invester",
+    "belopp_nara": true
+   },
+   {
+    "sida": 111,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "för vill vi säkerställa att alla elever har samma förutsättningar att vara mätta och kunna ha möjlighet att fokusera på sina studier. Satsningar ● Lärartäthet och fler vuxna i skolan, personaltäthet ● Gratis frukost i grundskolan (10 mkr) ● Behålla personalen som vi har idag Utbildnings och",
+    "belopp_nara": true
+   },
+   {
+    "sida": 13,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "tider. satsningar som riktas till äldre, unga och barn med Svåra tider till trots så har vi lyckats genom­ särskilda behov. Vi ökar lärartätheten inne­bärandes föra viktiga satsningar som både förändrat och att varje elev får mer tid tillsammans med sin ­för­bättrat kommunen. Näringslivet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 20,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ld budget 2026 framgår de kommun­fullmäktiges flerårsplan 2027–2029 i samlade politiska uppdragen. Dessa följs uppdrag att öka lärartätheten. upp under året och några kan komma att avslutas under året. Nedan specificeras • Kultur och fritidsnämnden får utifrån kommun­ de politiska upp",
+    "belopp_nara": false
+   },
+   {
+    "sida": 44,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "trots En attraktiv plats i kommunen är Ljungskile sjunkande elevantal satsas medel genom att öka som ska utvecklas för att möta behoven från lärartätheten, men även satsning på elever som boende, besökare och företagare. Det görs behöver extra resurser. Här prioriteras även medel satsningar för at",
+    "belopp_nara": false
+   },
+   {
+    "sida": 98,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "i är övertygade om att alla vill och kan lära och utvecklas om de ges rätt förutsättningar. Vi ser tydliga skillnader mellan skolor när det gäller resurser och lärartäthet. Därför behövs en budget för en likvärdig skola – där varje elev får rätt stöd och samma möjligheter, oavsett bostadsort eller bakgrund. En trygg och väl funge",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://www.uddevalla.se/download/18.1d7f4bcd19c47ae2dcdad7e/1771855256457/Kommunala%20r%C3%A5det%20f%C3%B6r%20personer%20med%20funktionsneds%C3%A4ttnings%20kallelse%202026-03-02,%20gemensamt%20r%C3%A5d.pdf",
+  "titel": "Kallelse Föredragningslista Kommunala rådet för personer",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8513ff3485795c76835c8a1cfabe264c2324c865e3af8310b6e959855553f9ca",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.uddevalla.se/download/18.6833d2c219ddca7f633b7b8/1778684338902/Socialn%C3%A4mndens%20kallelse%202026-05-20.pdf",
+  "titel": "f '% f,YA t g-?ffij If t,ltJ Kollelse Föredrogningslisto Socialnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a6337dd0e8bfb062bc6cc89362c5672c4542e0aaed9dcad09811eadf682d0779",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 87,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

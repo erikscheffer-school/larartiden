@@ -3,6 +3,8 @@
 Webbplats: https://www.ekero.se/
 Portal: ingen känd
 Hämtade dokument: 12, hämtfel: 0
+Mötessida: https://www.ekero.se/kommun-politik/moten-handlingar--protokoll/anslagstavla
+KF-möten: 2026-10-19, 2026-11-03, 2026-11-16, 2026-11-25; KS-möten: 2026-01-19, 2026-01-20, 2026-02-02, 2026-02-03, 2026-02-11, 2026-02-24, 2026-10-19, 2026-11-03, 2026-11-24
 Nuvarande sammanfattning: Mål och budget 2026 med plan 2027–2028 nämner inte reformen.
 Luckor: Budget 2027 beslutas nov 2026, ej hittad.
 

@@ -46,5 +46,53 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://kommun.falkenberg.se/images/anslagstavla/notice1777874480.pdf",
+  "titel": "Protokoll Kommunfullmäktige 2026-04-28 Sammanträdestid 15:00-18:15 Ajournering",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "543b49842724ec83b6c79ba1fade168d5e102a308843e41723fc20508b70e755",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommun.falkenberg.se/images/anslagstavla/notice1778146749.pdf",
+  "titel": "Protokoll Kommunstyrelsens arbetsutskott 2026-05-05 Sammanträdestid 08:30-11:25 Ledamöter Per Svensson (S) Sandra Johansson (M",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ad7ab7f870c3e3cbc0e56b4c8616a1af1b812611284e077a8985786dad601439",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommun.falkenberg.se/media/evolution/5a76b27a-f1e3-428a-99f2-a0023d13e686/e1084d50-7b25-4a16-9056-f51f20bf8d39.pdf",
+  "titel": "Protokoll Kommunstyrelsens hållbarhetsutskott 2026-03-25 Sammanträdestid",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "01707bdd57efa88cda4bd6ea0ba231d3be981b77e6f8f2ac8499bf9c510d34ac",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

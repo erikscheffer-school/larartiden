@@ -3,6 +3,8 @@
 Webbplats: https://www.ljungby.se/
 Portal: ingen känd
 Hämtade dokument: 9, hämtfel: 0
+Mötessida: https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll
+KF-möten: 2026-04-27, 2026-10-26, 2026-10-29; KS-möten: 2026-04-27, 2026-10-07
 Nuvarande sammanfattning: Budget 2027 har inte behandlats av KF under 2026 fram till 2026-10-26. Dagordningarna för KF 2026-05-25, 2026-06-15, 2026-08-24, 2026-09-21 och 2026-10-26 i sammanträdesportalen innehåller inget ärende om budget eller planeringsdirektiv för 2027.
 Luckor: Budgetbeslutet för 2027 väntas vid något av de återstående KF-mötena 2026 (23 november eller 14 december enligt kommunens webbplats); handlingarna är inte publicerade/granskade. KS-protokollen och barn- och utbildningsnämndens underlag är inte granskade. Sammanträdesportal: https://diariet.ljungby.se/
 

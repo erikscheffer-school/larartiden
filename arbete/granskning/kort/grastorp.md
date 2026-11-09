@@ -2,7 +2,9 @@
 
 Webbplats: https://www.grastorp.se/
 Portal: Netpublicator
-Hämtade dokument: 37, hämtfel: 0
+Hämtade dokument: 44, hämtfel: 0
+Mötessida: https://www.grastorp.se/kommun-och-politik/politisk-organisation/revision.html
+KF-möten: 2026-10-22, 2026-10-26, 2026-10-28, 2026-11-17; KS-möten: 2026-06-11, 2026-06-12, 2026-09-13, 2026-10-14, 2026-10-19, 2026-10-20, 2026-10-22, 2026-11-12
 Nuvarande sammanfattning: Bara verksamhetsplan med budget 2026 och ekonomisk plan 2027–2030 (KF 2025-11-24 § 139) hittades. Reformen nämns inte.
 Luckor: Hittade inget budgetdokument 2027 och inget beslutsdatum. Budget 2026 beslutades i november 2025, så budget 2027 beslutas troligen i november 2026, men det är inte verifierat. Sökbudgeten tog slut. Den automatiska hämtningen 2026-11-08 fann Strategisk plan och budget 2027 i en Netpublicator-portal, men handlingarna gäller Lidköpings kommun.
 

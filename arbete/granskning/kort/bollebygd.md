@@ -1,8 +1,10 @@
 # Bollebygd (Västra Götalands län)
 
 Webbplats: https://www.bollebygd.se/
-Portal: Politikerportal
-Hämtade dokument: 34, hämtfel: 0
+Portal: eNämnd
+Hämtade dokument: 43, hämtfel: 0
+Mötessida: https://politik.bollebygd.se/kommun-och-politik/kommunens-organisation/namnder/bygg--och-miljonamnden/arendelista-och-protokoll---bygg--och-miljonamnden
+KF-möten: 2026-03-19, 2026-05-07, 2026-06-04, 2026-09-24, 2026-10-15, 2026-10-16, 2026-11-19, 2026-12-10, 2027-02-11, 2027-03-18, 2027-04-29, 2027-06-03; KS-möten: 2027-01-21, 2027-02-02, 2027-02-11, 2027-03-02, 2027-04-08, 2027-04-20, 2027-05-05, 2027-05-18, 2027-06-03, 2027-06-15, 2027-08-19, 2027-08-31
 Nuvarande sammanfattning: Bara äldre flerårsbudgetar hittades, senast Mål och budget 2025-2027 (antagen 2024-11-21). Ingen handling för budget 2027-2029 hittades. Mönstret tyder på KF-beslut i november, men det är inte verifierat för 2026.
 Luckor: Dokumentet 2025-2027 lästes inte i detalj, eftersom det föregår propositionen och nämner_reformen=false är antaget. Budget 2026-2028 och budget 2027-2029 hittades inte, inte heller mötesportal eller KF-protokoll 2026. Planerat KF-datum för budget 2027 är okänt (troligen november).
 

@@ -112,6 +112,62 @@
   "antal_träffar": 4
  },
  {
+  "url": "https://www.storfors.se/download/18.6b6d7bf19ed44ea63d7d4b7/1782482350561/Protokoll%20KS%202026-06-15%20Extra.pdf",
+  "titel": "Protokoll KS 2026-06-15 Extra.pdf\nPdf, 4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "60b3cfa11164da1843d33f92637f8cdb4efe9ec8ad6e592b61d5cfc3e199f543",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.4524525f19e63383b9a265c0/1780067291210/Protokoll%20KS%202026-05-25.pdf",
+  "titel": "Protokoll KS 2026-05-25.pdf\nPdf, 454.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "38da85f2de879c47af241b660037fead3f73237cd21d7dc4f9a73731c78eced9",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.1b2e530419d24c8fe8d79bf2/1775113990209/Protokoll%20KS%202026-03-30%20Extra.pdf",
+  "titel": "Protokoll KS 2026-03-30 Extra.pdf\nPdf, 3.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4cd583f2df4b9232dfaf0cd176ab027eed7db71adcfef3764200895a6387e9d2",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "stnader för externa placeringar och vikarier. • Ny socialtjänstlag från 1 juli 2025 kräver resurser för förebyggande arbete. • Skolverksamheten har hög lärartäthet och legitimerade lärare, men utmaningar kvarstår kring skolfrånvaro och måluppfyllelse. Extern genomlysning pekar på behov av stärkt styrning. Kommunens lå",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.storfors.se/download/18.7f2b93d61a0ad9794b672bfe/1790319696193/Protokoll%20KF%202026-09-17.pdf",
   "titel": "Protokoll KF 2026-09-17.pdf\nPdf, 3.5 MB, öppnas i nytt fönster.",
   "typ": "pdf",

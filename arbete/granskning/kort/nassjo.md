@@ -1,8 +1,10 @@
 # Nässjö (Jönköpings län)
 
 Webbplats: https://www.nassjo.se/
-Portal: ingen känd
+Portal: eNämnd
 Hämtade dokument: 21, hämtfel: 0
+Mötessida: https://nassjo.se/kommun-och-politik/politiska-sammantraden/kommunfullmaktiges-sammantraden.html
+KF-möten: 2026-10-29, 2026-11-19, 2026-11-20; KS-möten: 2026-10-13, 2026-10-21, 2026-10-28, 2026-11-02, 2026-11-04, 2026-11-05, 2026-11-12, 2026-11-13, 2026-11-25, 2026-11-26, 2026-11-27
 Nuvarande sammanfattning: Kommunens samlade budgetdokument för 2027 hittades inte. KS antog 2026-08-26 sin egen verksamhetsplan och budget 2027 (netto ca 205,7 mnkr), enligt lokalmedia, och underlaget går till budgetkommittén. Det tyder på att KF beslutar på hösten 2026. Granskade KS-protokoll nämner inte reformen.
 Luckor: Hittade varken kommunens budgetförslag eller beslut för 2027, nämndernas budgetunderlag eller KF:s beslutsdatum. Delar av artikeln i Nässjönytt är låsta. Den gemensamma sökbudgeten tog slut innan diariet.nassjo.se kunde genomsökas mer.
 

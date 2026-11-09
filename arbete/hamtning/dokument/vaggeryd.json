@@ -194,6 +194,188 @@
   "antal_träffar": 2
  },
  {
+  "url": "https://www.vaggeryd.se/download/18.74af190d1a1a183b7b791ad/1793883673139/%C2%A7219%20KS%20Antagande%20%E2%80%93%20detaljplan%20f%C3%B6r%20fastigheten%20Klevshult%201_100%20med%20fler%20i%20Klevshults%20t%C3%A4tort,%20Vaggeryds%20kommun(KS%202024_158-66)%20(0).pdf",
+  "titel": "Kommunstyrelsens beslut 2026-11-04 § 219\npdf, 201.3 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6f2ce7b4e8a7f8dfa4afd0689ce672a025b94084567b3309ecaa3110c1e341ce",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.53a44b241a1a16bea5c8b61/1793874312294/Protokoll%20%20KF%202026-10-26-%20anslagstavlan.pdf",
+  "titel": "Protokoll kommunfullmäktige 2026-10-26\npdf, 1.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c93284d4ee7cac91fc9cd1f0484322ffa32900d2fa869b2507b6596c2e0e94fe",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.5007d1641a1630ff92428171/1793280403431/%C3%96FN%202026-10-23.pdf",
+  "titel": "Protokoll Överförmyndarnämnd GGVV 2026-10-23\npdf, 1.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8bb7b8659120b0eaa05898d30e30269ff26519b268e182a0696a0863280f1243",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.2de4ca1f169fdf1827e6714c/1555577062356/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202019-04-24.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2019-04-24.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a90fca2e3170c0c9410c992661b62fd3304c9c9d1e47bb049b744922ef4f69ea",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.67bae9df169760078e05392b/1553172788426/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202019-03-27.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2019-03-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "57f665e81f8f9aa59c4408e3c2c6d6a12680ab2637bef20ce55c3283f8197b4a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 56,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 43,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "genomfördes som ett led i att skap karriärvägar för lärare och att bidra till skolans utveckling. Staten har sedan införandet 2013 finansierat reformen med ett statsbidrag om 5000 kr/månad + sociala avgifter per förstelärare. Antalet förstelärare som omfattas av statsbidraget fastställs av staten och reformen har en bred politisk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 44,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "se. Ett scenario som skulle vara förödande för Vaggeryds kommun. Att permanenta lärarlönelyft kan innebära en ekonomisk risk om politiken på riksplan tar bort statsbidragen. För Vaggeryds del får vi i statliga bidrag 3 900 tkr för lärarlönelyftet vilket motsvarar 1% av BUNs budget. Risken att bidraget försvinner bedöms nu vara m",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.7796c338169092dc72b3bed9/1551178792643/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202019-02-27.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2019-02-27.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "398f7dd93e30cb2939c9a749200ae9506cdccf7415dca5b2632b0618ca76660b",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "och en särskild projektgrupp har initierats. 641 Grundskola: Grundskolan redovisade redan i april ett underskott vilket nu vuxit till – 7625 tkr. Fördelning av statsbidrag och felbudgetering förklarar att programmet grundskola visar underskott och andra program visar överskott. Det sammanlagda driftsunderskottet för nämnden om –",
+    "belopp_nara": true
+   },
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "er genomförts. Bland annat har skolorna arbetat med lovskola, extra stödinsatser och individuella anpassningar för eleverna. Extra resurser har tillförts genom statsbidrag men också genom att grundskolan fick ett lägre effektiviseringskrav. Skolresultaten för åk 9 ligger nu i paritet med riksgenomsnittet varför målet i princip be",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.39436cfc1685bfba78a410bf/1548333122556/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202019-01-30-1.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2019-01-30-1.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7f043d321e163c5248c4d4e6af8437dd63360deeb548190e0c076721f0715e3b",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.78b4a5f31680ade5bc23489a/1546866264725/Kallelse%20barn-%20och%20utbildningsn%C3%A4mnden%202019-01-09.pdf",
+  "titel": "Kallelse barn- och utbildningsnämnden 2019-01-09.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "74788a7916268af3fe18698cd67e94633f08d9ea6fa9977e27e8c023a8af826f",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vaggeryd.se/download/18.12b7407a16f3500935fd375f/1578476846715/Protokoll%20barn-%20och%20utbildningsn%C3%A4mnden%202019-12-18.pdf",
+  "titel": "Protokoll barn- och utbildningsnämnden 2019-12-18.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a3de12ca1cadd34ce681925bb4f1ce5618b998058522707ee5b0d7bab6b1b1db",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "rvaltningen ger en preliminär månadsredovisning beträffande personalkostnader och konton med större avvikelser. Minus i budgeten - mycket beroende på uteblivna statsbidrag, skolskjuts och att IKE elever har ökat. Förvaltningschefen informerar om siffror som är osäkra i dagsläget på utskottet. Till nämnden har förvaltningen tittat",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://medborgare.vaggeryd.se/committees/kommunstyrelsen-ks/mote-2026-06-03",
   "titel": "Möte 2026-06-03 - Översikt | MeetingPlus [sv]",
   "typ": "html",

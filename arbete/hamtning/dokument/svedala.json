@@ -117,5 +117,73 @@
    }
   ],
   "antal_träffar": 5
+ },
+ {
+  "url": "https://www.svedala.se/contentassets/9a0ffa5b498c47ffbcbc257cf0db0308/arende-2.pdf",
+  "titel": "Svedala kommun, 233 80 Svedala, www.svedala.se",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3d6681837e0ad5170f1f541b7b3fc2b9733e16985fb118fe9e66ab643a4f9db2",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 206,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 192,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "tralt. I samband med detta införs också en ny läroplan i grundskolan. Nya krav kommer också att ställas på Elevhälsan. Regeringen har annonserat förändring i lärares arbetstid och uppdrag. Vid införande kommer förslaget ge påverkan för bemanning, kostnader och kompetens. Samtliga förändringarna kommer att påverka både rektors ledni",
+    "belopp_nara": false
+   },
+   {
+    "sida": 42,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "amheter, särskilt inom förskola, fritidshem och anpassad grundskola. Utbildning centralt redovisar ett överskott på 6,1 mnkr, främst på grund av tillkommande statsbidrag och lägre avskrivningskostnader. Förskolan visar ett överskott på 0,4 mnkr, där ökade intäkter från barnomsorgsavgifter och försäljning av platser väger upp fö",
+    "belopp_nara": true
+   },
+   {
+    "sida": 185,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t fler valt yrkesprogram, vilka är dyrare än högskoleförberedande program. Utbildning centralt Utfallet för 2025 är ett överskott på 6 107 tkr. Prognosen för statsbidrag förbättrades under året beroende på tillkommande bidrag som inte varit kända. Löpande drift för lokaler blev dyrare än budgeterat, bland annat på grund av högr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 201,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "hefstjänst inom organisationen. Totala intäkter översteg budget med cirka 1 200 tkr trots lägre intäkter i badverksamheten. Överskottet beror på tillkommande statsbidrag som inte budgeteras. Störst bidrag har nämnden erhållit för Skapande skola, cirka 450 tkr, utvecklingsbidrag inom Kulturskolan, cirka 270 tkr samt olika inköps",
+    "belopp_nara": true
+   },
+   {
+    "sida": 180,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r framöver. Antal barn i förskolan förväntas minska, vilket får konsekvenser för den fortsatta planeringen av lokaler och verksamhet. Kostnadsmedvetenhet och statsbidrag Kostnadsökningar har särskilt påverkat hyror och skolskjuts, vilka utgör en ökande andel av budget och skolpeng. Särskilt tydligt är det i förskolan att hyresk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 189,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "altätheterna som redovisas i tabellen är ännu preliminära. Kostnadsmåtten beror på kommunens redovisning av räkenskapssammandraget som görs under mars månad. Lärartätheten i skolan beskrivs som antalet elever per lärare. Under 2025 förändrades inte lärartätheten jämfört med föregående år. Nyckeltalet sjönk under några år tack v",
+    "belopp_nara": false
+   },
+   {
+    "sida": 191,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ala tätort för att åter börja öka från 2030 i Svedala tätort och Bara. I Klågerup förväntas antal barn och elever minska totalt sett. Kostnadsmedvetenhet och statsbidrag Kostnadsökningar har särskilt påverkat hyreskostnader och kostnader för skolskjuts, vilka utgör en ökande andel av budget och skolpeng. Särskilt tydligt är det",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 13
  }
 ]

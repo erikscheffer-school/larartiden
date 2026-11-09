@@ -2,7 +2,9 @@
 
 Webbplats: https://www.landskrona.se/
 Portal: Netpublicator
-Hämtade dokument: 29, hämtfel: 0
+Hämtade dokument: 38, hämtfel: 0
+Mötessida: https://www.landskrona.se/kommun-och-politik/politik-och-demokrati/
+KF-möten: 2026-10-14, 2026-11-06, 2026-11-09; KS-möten: 2026-01-12
 Nuvarande sammanfattning: Majoriteten (L, M, MP, 'Treklövern') presenterade sin plan för 2027-2029 i början av november 2026; KF ska anta budgeten 23 november 2026 enligt Landskrona Direkt. Själva budgetdokumentet hittades inte och artikeln är låst.
 Luckor: Artikeln bakom betalvägg; endast ingressen läst, så om reformen nämns är okänt. Fullmäktigeplan 2027-2029 (förslag) ej hittad på kommunens budgetsida (som visar fullmäktigeplan 2026-2028). KF-sidan listar möten 23 nov och 14 dec 2026 utan handlingar. Sökbudget slut.
 

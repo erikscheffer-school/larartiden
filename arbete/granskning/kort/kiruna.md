@@ -1,8 +1,10 @@
 # Kiruna (Norrbottens län)
 
 Webbplats: https://www.kiruna.se/
-Portal: ingen känd
+Portal: eNämnd
 Hämtade dokument: 10, hämtfel: 13
+Mötessida: https://kiruna.se/kommun--demokrati/sammantraden-protokoll-och-fortroendevalda/aldre-kallelser-och-protokoll.html
+KF-möten: 2026-04-29, 2026-05-04, 2026-06-11, 2026-06-15, 2026-06-26, 2026-06-29, 2026-09-22, 2026-09-28, 2026-10-08, 2026-11-02, 2026-11-09, 2026-12-14; KS-möten: 2026-10-27
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades via sökning. Det enda funna skoldokumentet för 2026/27 är ett beslut om lärararbetsår (kalender), som inte nämner reformen.
 Luckor: Hittade inte budget 2027, KF-beslutsdatum, BUN:s budgetunderlag eller remissvar. Sökkvoten (3 sökningar) är förbrukad. Kommunens mötesportal är inte granskad.
 

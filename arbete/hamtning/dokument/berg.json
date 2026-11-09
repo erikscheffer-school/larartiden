@@ -176,6 +176,209 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://berg.se/download/18.6233aeec1a0adb7cecf15fdb/1790171636877/Kallelse%20f%C3%B6rstasida%20kommunfullm%C3%A4ktige%2030%20september%202026.pdf",
+  "titel": "2026-09-30*\npdf, 195.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2e94717bc474687a859b7c8b63e45973801f76e465805b0b483e1b526162ec41",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.1e0c2f161a12f7f561e203bb/1792589342819/V%C3%A5rd-%20och%20socialutskottets%20protokoll%20den%2021%20oktober%202026%20f%C3%B6r%20delning.pdf",
+  "titel": "Vård- och socialutskottets protokoll 2026-10-21\npdf, 486.1 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8aaab96f1ad09666b6cd8c29b54d6ac51d10956c2aa50fc79a2e2cb286dfcf4a",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.316b12881a0fb6784a6f0a6/1791306524839/%C3%84rendelista%20MBN%202026-10-15.pdf",
+  "titel": "2026-10-15\npdf, 270.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "975009a100c6bc6475c94d40b70eeb86f919bdff4100f3b96634afb2e8431957",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.1ce6dd441a12f6fd9a51bd21/1792488554869/Protokoll%20styrelsem%C3%B6te%20261005%20sign.pdf",
+  "titel": "Samordningsförbundets protokoll 2026-10-05\npdf, 821.5 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "738b85fcb39802ea1bc44da99b55e00e3955ea4dc711de426d25ea4970217b6a",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 8,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.3d767c1a19c09650daadc67/1770017540376/Utbildningsn%C3%A4mnden%20den%202026-01-28.pdf.pdf",
+  "titel": "2026-01-28\npdf, 1.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c444883611d806ebd46286cbdeaf205932fc59039b060b9ffb41c69cf1ef51e2",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2025. Bergs kommun beviljas 221 976 kronor. • Beslut - Statsbidrag för undervisning under skollov för 2025. Bergs kommun beviljas 6 000 krono",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Utbildningsnämnden 2025 14 Statsbidrag för kvalitetshöjande åtgärder i förskolan 2025/99 7-8 2026",
+    "belopp_nara": false
+   },
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "UN § 4 Dnr UN 2025/99 Statsbidrag för kvalitetshöjande åtgärder i förskolan 2026",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 8
+ },
+ {
+  "url": "https://berg.se/download/18.38e8d37d19b2becfce48e61a/1769002760753/Kallelse%20f%C3%B6rstasida%20utbildningsn%C3%A4mnd%20den%2028%20febr%202026.pdf",
+  "titel": "2026-01-28\npdf, 160.5 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f9894c9cbeac466a24dd77cef15e85b4151b5192dbe5426e1096f9f9ce58cf68",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2025/103 16 Kvalitets- och patitentsäkerhetsberättelse för 2026/1 Utbildningsnämnden 2025 17 Statsbidrag för kvalitetshöjande åtgärder i förskolan 2026 2025/99 18 Ekonomisk redovisning 2026 2026/20 19 Redovis",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://berg.se/download/18.4869078719d04aa225f11f8/1773923411343/Gemensam%20v%C3%A5rd%20och%20social%20samt%20utbildningn%C3%A4mnd%20den%202026-03-18%20f%C3%B6r%20delning.pdf",
+  "titel": "2026-03-18\npdf, 520.4 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "cf01e8cf5f1489654ef2fb7319135612fd5e33c268eab6ecf069f1f204219cd1",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.35b6d81319c986cebc435276/1773153103547/Kallelse%20utbildningsn%C3%A4mnden%20och%20v%C3%A5rd-%20och%20socialn%C3%A4mnden%20den%2018%20mars%202026.pdf",
+  "titel": "2026-03-18\npdf, 154.2 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0e731adf13a83417e86059b57ee08461ca8ab8f6c8148f0703e94304cc47bea0",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://berg.se/download/18.6f4729a719d24cf41054464/1781254066313/Utbildningsn%C3%A4mndens%20protokoll%20den%202026-03-26%20-%20Bortredigerad.pdf",
+  "titel": "2026-03-25\npdf, 1.3 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e8b2bb79d6fe4bd5d30f7912f6cbc76419727fcd9ae0f591212e4da8eb504e41",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "kommun ska återbetala 18 000 kronor. • Beslut att ändra beviljat belopp för Statsbidrag för inköp av läroböcker och lärarhandledningar 2025. Bergs kommun ska",
+    "belopp_nara": true
+   },
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "snämnden begär härmed om tilläggsanslag från kommunfullmäktige motsvarande det statsbidrag som tilldelats kommunen för att stärka Skolbibliotek enligt lagändring 2025-07",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "miljoner per år. Statsbidraget var dock ej riktat utan ingick i de generella statsbidragen och behöver således tilldelas ansvarig nämnd för skolbibliotek för att möjli",
+    "belopp_nara": false
+   },
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "jänster för lärare i enlighet med regeringens tidigare förordning (2013:70) om statsbidrag till skolhuvudmän som inrättar karriärsteg för lärare.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
   "url": "https://budget2027.berg-tg.ch/pg_finanzplan-2/",
   "titel": "PG_Finanzplan – Budget 2027 Berg",
   "typ": "html",

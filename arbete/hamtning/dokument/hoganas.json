@@ -1,5 +1,108 @@
 [
  {
+  "url": "https://www.hoganas.se/download/18.52b1391b1a1a19d6c1e5f52/1793950625969/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%202026-11-12.pdf",
+  "titel": "Möteshandlingar kommunfullmäktige 12 november 2026\npdf, 8.8 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "88893e155430a33b833f9bce4bc620a5de7a24baef7edf595bd268a6fe474231",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 234,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "placeringar och för försörjningsstöd. • Utbildningsförvaltningen föreslås tilldelas 1 700 tkr för att kunna genomföra reformen om lärarnas utökade undervisningstider. De förändringar gällande fasta arvoden för förtroendevalda som föreslås enligt bilaga överensstämmer med den parlamentariska gruppens beslut om arvoden frå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 21,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "KS/2026/182 • Utbildningsförvaltningen föreslås tilldelas 1 700 tkr för att kunna genomföra reformen om lärarnas utökade undervisningstider. De förändringar gällande fasta arvoden för förtroendevalda som föreslås enligt bilaga överensstämmer med den parlamentariska gruppens beslut om a",
+    "belopp_nara": true
+   },
+   {
+    "sida": 222,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "ar och för försörjningsstöd. • Utbildningsförvaltningen föreslås tilldelas 1 700 tkr för att kunna genomföra reformen om lärarnas utökade undervisningstider. De förändringar gällande fasta arvoden för förtroendevalda som föreslås enligt bilaga överensstämmer med den parlamentariska gruppens beslut om arvoden frå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 103,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "en mycket arbete kvarstår. Det finns också en osäkerhet kring finansiering av den utökade obligatoriska undervisningstiden. Den 1 juli 2027 träder reglering av lärares undervisningstid och bättre arbetsvillkor in. Det införs samtidigt en garanterad tid för planering och uppföljning för lärare. Exakta nivåer kommer fastställas i föreskrifter o",
+    "belopp_nara": false
+   },
+   {
+    "sida": 54,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ämnden försörjningsstöd 2 800 2 800 2 800 Utbildningsnämnden Utökning av lärarnas undervisningstid 1 700 1 700 1 700 Kommunledningskontor NIS2, IT-beredskap o cybersäkerhet 3 600 4 672 4 765 R",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.4f2784091a12f65479f1d73/1791902548190/Reglemente%20f%C3%B6r%20kommunstyrelsen%20och%20%C3%B6vriga%20n%C3%A4mnder%20i%20H%C3%B6gan%C3%A4s%20kommun,%20KFS%202026:15.pdf",
+  "titel": "Reglemente för kommunstyrelsen och övriga nämnder i Höganäs kommun, KFS 2026:15.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6606eb5aab4de3333e19b080b84d0a715643d0b6bcd152e4d99dd1eaeda2f6c2",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.4ec39e791a12f902c8e647c/1792151389159/Delegationsordning%20f%C3%B6r%20kommunstyrelsen%20KFS%202026:13.pdf",
+  "titel": "Delegationsordning för kommunstyrelsen KFS 2026:13.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7d36eceed414bb79abb3885d4c47fb685391b5ea571f8ed1ec4c3f262869e22e",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 73,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hoganas.se/download/18.4f2784091a12f65479f1d76/1791902764837/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige,%20KFS%202026:16.pdf",
+  "titel": "Arbetsordning för kommunfullmäktige, KFS 2026:16.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "dc4b362a4c6b67760d5240612a985901637eb2918e1bf6dd0c7ef4a2fad2b306",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.hoganas.se/download/18.2d42f23319b3549eecc1eb69/1769602209209/Protokoll%20kommunstyrelsens%20arbetsutskott%202026-01-27.pdf",
   "titel": "Protokoll KS Arbetsutskott 2026-01-27 Närvarande Beslutande ledamöter",
   "typ": "pdf",

@@ -1,8 +1,10 @@
 # Torsås (Kalmar län)
 
 Webbplats: https://www.torsas.se/
-Portal: ingen känd
-Hämtade dokument: 37, hämtfel: 1
+Portal: eNämnd
+Hämtade dokument: 46, hämtfel: 1
+Mötessida: https://www.torsas.se/kommun-och-politik/moten-kungorelser-och-protokoll/protokoll/protokoll-2015/kommunstyrelsen-2015/
+KF-möten: 2026-03-16; KS-möten: okända
 Nuvarande sammanfattning: Senast funna budgethandling är KSAU:s förslag till ändringsbudget december 2025 (budget 2026, plan 2027–2029), daterad 2025-11-18. Den nämner inte reformen. Inga budgethandlingar för 2027 hittades.
 Luckor: Inga handlingar för budget 2027 hittades, och beslutsdatum är okänt. Mötesportalen och bildningsnämndens underlag granskades inte. Torsås var inte remissinstans för SOU 2025:26. Sökbudgeten tog slut.
 

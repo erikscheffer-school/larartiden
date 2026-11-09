@@ -185,6 +185,154 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://mariestad.se/download/18.7ea842b41a1632d68415bad/1793190354576/Protokoll%20kommunstyrelsens%20arbetsutskott%202026-10-28.pdf",
+  "titel": "Protokoll kommunstyrelsens arbetsutskott 2026-10-28.pdf\nPdf, 453.4 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "216f3379e0b845a62ebecd5247a0feedfd80c93e7604812b42dc622ed48e22da",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 60,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.5d86d3e41a1a1b28108218f/1793887629350/Protokoll%20Kommunfullm%C3%A4ktige%202026-10-26.pdf",
+  "titel": "Protokoll Kommunfullmäktige 2026-10-26.pdf\nPdf, 444.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f11587b856b11cf21fd7b92291739430681ce8f43be322a54f8013303feaa1d5",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 60,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 32,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "t 3,0 miljoner kronor för följande övriga verksamhetsförändring: a) Lagförändringen gällande reglering av lärarnas undervisningstid: 3,0 miljoner kronor Kommunfullmäktige beslutar att justera utbildningsnämndens budgetram",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://mariestad.se/download/18.c7b02d51a1631b4d0d5eaf/1793171376374/Protokoll%20kommunstyrelsen%202026-10-26.pdf",
+  "titel": "Protokoll kommunstyrelsen 2026-10-26.pdf\nPdf, 164 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "266e29320dfd80a850f1b0a8f19395051d7e246916b5f7129312e1e4748d739b",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.13d975e31a12f7e7d33889c/1792501239942/Protokoll%20kommunstyrelsen%202026-10-19.pdf",
+  "titel": "Protokoll kommunstyrelsen 2026-10-19.pdf\nPdf, 611.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "dd7207d45f256ea7e0305d2b414501f463043779e2ca1d7043a1e9536819521e",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 85,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "med totalt 3,0 miljoner kronor för följande övriga verksamhetsförändring: a) Lagförändringen gällande reglering av lärarnas undervisningstid: 3,0 miljoner kronor Kommunfullmäktige beslutar att justera utbildningsnämndens budgetram med 13,2",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://mariestad.se/download/18.3189954b1a12f8ff8d03a7c/1792127818023/Protokoll%20kommunstyrelsens%20arbetsutskott%202026-10-14.pdf",
+  "titel": "Protokoll kommunstyrelsens arbetsutskott 2026-10-14.pdf\nPdf, 452.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3e8a43188abaf28a5ffa3d0de33707f088fcfb8590668fe8b732cfcef33a7ffe",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 71,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.156debe21a12f6c2ace469/1791822593653/Protokoll%20extrainsatt%20kommunfullm%C3%A4ktige%202026-10-12.pdf",
+  "titel": "Protokoll extrainsatt kommunfullmäktige 2026-10-12.pdf\nPdf, 164.8 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f2dfcf62c5096b405a140892da217cc0cd8ec1e3b9f0a543296c73aef4bcef7c",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.3189954b1a12f8ff8d03a64/1792127671237/Protokoll%20kommunstyrelsens%20arbetsutskott%202026-10-12.pdf",
+  "titel": "Protokoll kommunstyrelsens arbetsutskott 2026-10-12.pdf\nPdf, 141.9 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e659cdb50a902036f1202d92999082e4191529cfdac58f1909dbf9cdb6caa70c",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.630fe3dd1a0f5e0c18a1e6/1790841078634/Protokoll%20kommunstyrelsens%20arbetsutskott%202026-09-30.pdf",
+  "titel": "Protokoll kommunstyrelsens arbetsutskott 2026-09-30.pdf\nPdf, 450.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "93a20b9c7e2c47c5d5f02737dc83e912dcdfafdea95ac068f95609a6aa624941",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 66,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
   "titel": "Kommunfullmäktiges handlingar 2026-10-26.pdf\nPdf, 17.1 MB.",
   "typ": "pdf",

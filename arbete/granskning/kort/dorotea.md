@@ -3,6 +3,8 @@
 Webbplats: https://www.dorotea.se/
 Portal: ingen känd
 Hämtade dokument: 4, hämtfel: 0
+Mötessida: https://www.dorotea.se/anslagstavla/
+KF-möten: 2026-10-19, 2026-10-20; KS-möten: okända
 Nuvarande sammanfattning: Budget 2027 står på KF:s dagordning 2026-06-15 (punkt 9) och på kallelserna till KSAU 2026-05-05 och KS 2026-05-25. Kallelserna innehåller bara rubriker, så själva budgetdokumentet och protokollet har inte granskats.
 Luckor: Hittade varken själva budgetdokumentet för 2027, KF-protokollet från 2026-06-15 eller underlag från skolan. Det gick inte att avgöra om budgeten ska tas upp igen efter valet.
 

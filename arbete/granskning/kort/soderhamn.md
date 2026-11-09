@@ -3,6 +3,8 @@
 Webbplats: https://www.soderhamn.se/
 Portal: Ciceron
 Hämtade dokument: 16, hämtfel: 0
+Mötessida: https://www.soderhamn.se/sidor/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/arendelistor-och-protokoll-fran-och-med-2023/overformyndarnamnden-protokoll-och-arendelistor.html
+KF-möten: 2026-05-04, 2026-06-09, 2026-09-13, 2026-10-28; KS-möten: 2026-10-28
 Nuvarande sammanfattning: Ingen budgethandling för 2027 hittades. Alliansens budget 2026 med plan 2027-2029 (publicerad ca oktober 2025, vilket tyder på KF-beslut på hösten) nämner inte reformen, men innehåller satsningar till barn- och lärandenämnden och ökad lärartäthet.
 Luckor: Omkörningen gjorde 3 WebSearch (budget 2027/KF, budget 2027/plan 2028-2030 på soderhamn.se, KF nov 2026/barn- och lärandenämnden), men ingen gav någon Söderhamn-handling för 2027. Budget 2027 beslutas sannolikt i KF nov–dec 2026 (ej verifierat). Majoritetens förslag och barn- och lärandenämndens underlag hittades inte. Remissvaret på regeringen.se gäller SOU 2019:18 och är irrelevant; inget remissvar på SOU 2025:26 hittades.
 

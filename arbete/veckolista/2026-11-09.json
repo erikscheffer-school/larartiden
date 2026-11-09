@@ -1,26 +1,211 @@
 [
  {
-  "id": "simrishamn",
-  "kommun": "Simrishamn",
-  "lan": "Skåne län",
+  "id": "essunga",
+  "kommun": "Essunga",
+  "lan": "Västra Götalands län",
   "status": 5,
-  "poang": 11,
+  "poang": 21,
   "skal": [
    "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-11-05"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r14723333/document/815dbd681d88c2520994-ea11-42a2-8441-7b3a2dbedd5d?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+   "https://docs.netpublicator.com/api/public/r14723333/document/cb6fd92eac053f302621-4659-444f-ae9d-a871abc2456a?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+   "https://docs.netpublicator.com/api/public/r14723333/document/2204ebaee41e82de6813-feaa-4be0-ab37-13f6ebbcde6c?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+   "https://docs.netpublicator.com/api/public/r14723333/document/67cf718f273b1f2dcc99-7ae0-4829-b63a-9d9eda6c0fea?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-75fa03e4433910173248",
+   "https://docs.netpublicator.com/api/public/r14723333/document/fd3046d554df7d6c8864-2e06-4d57-8616-cfdfb04d7d0e?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+   "https://docs.netpublicator.com/api/public/r14723333/document/16fd7fecdd4d1b197232-7e33-4fc0-af13-792ee6000595?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+   "https://docs.netpublicator.com/api/public/r14723333/document/fd3b440b712e2ab77fc8-8d2d-4656-97ab-4af3777277c2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+   "https://docs.netpublicator.com/api/public/r14723333/document/960becc88decde51b5bf-ca8f-4b62-b09f-ec9f805776e2?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251",
+   "https://docs.netpublicator.com/api/public/r14723333/document/75f149e4cbea92bbcd55-4208-4bfb-b371-72a8fa98c383?hash=d9deec027878352-23f6e66eb69f4394619-7bf683f9980e10173200-9313d63d20da10173251"
+  ]
+ },
+ {
+  "id": "lomma",
+  "kommun": "Lomma",
+  "lan": "Skåne län",
+  "status": 5,
+  "poang": 21,
+  "skal": [
+   "2 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-11-05"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r01696490/document/35872797dffe813c5c1f-485e-43ba-aa79-42184aaeb432?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+   "https://docs.netpublicator.com/api/public/r01696490/document/9272e96dc4c36884b5f3-a0c8-4a30-962b-78a49fc12706?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+   "https://docs.netpublicator.com/api/public/r01696490/document/431b039b703886d75dbc-91e1-480c-871c-dbf52b6f3bb3?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+   "https://docs.netpublicator.com/api/public/r01696490/document/39916805b325c4bcb232-e250-4e02-bef2-5c1afad2bed7?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+   "https://docs.netpublicator.com/api/public/r01696490/document/6fb2a4e2838150e8af58-343b-421d-8107-1f55fbec5048?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+   "https://docs.netpublicator.com/api/public/r01696490/document/f8d38b898ee3492bf2f6-6608-4a82-a0d3-76567ae7ae58?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+   "https://docs.netpublicator.com/api/public/r01696490/document/9c42f9f964b4b5a8da5c-c0cb-47e1-8194-93349dc72ef8?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e7cec3078ce610180641-56f71f89221010180656",
+   "https://docs.netpublicator.com/api/public/r01696490/document/44748a967e9370785049-cae0-4ad4-b88c-20a7515853f1?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202",
+   "https://docs.netpublicator.com/api/public/r01696490/document/c99a01721cfd130515fe-c355-48d9-99d8-02a7e1fcb214?hash=98c1c1e3eef446-fb6ac1c64b228256204-6fa37cee03fb10126184-55556aa4bdc610126202"
+  ]
+ },
+ {
+  "id": "astorp",
+  "kommun": "Åstorp",
+  "lan": "Skåne län",
+  "status": 5,
+  "poang": 21,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-29"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r26057471/document/58030e30e241b6564bc1-09a1-492c-9651-f10a14e7f935?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+   "https://docs.netpublicator.com/api/public/r26057471/document/0b953c286ade33484f2b-ff3e-494d-a721-699c2db8b199?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+   "https://docs.netpublicator.com/api/public/r26057471/document/615ff542cb3bfe3cbc62-eb8e-46b4-9532-d5802cc9786a?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+   "https://docs.netpublicator.com/api/public/r26057471/document/e58cb0130e7d6c6f1831-d5fd-4711-b713-1499e9a429e2?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+   "https://docs.netpublicator.com/api/public/r26057471/document/4fb34d71adb296f4b15a-d8bd-4f48-b347-0e37eddbb8e2?hash=8ddae4f6f214368-b86e4164feb94443384-97f7ba57193310219274-e72c987f499a10219295",
+   "https://docs.netpublicator.com/api/public/r26057471/document/e0dc9303042a40f870fd-0c6d-4ca6-b07f-832c166640e4?hash=8ddae4f6f214368-8221af03c3334443375-2dadda2fd66710141518-d473a72dc1e210141539",
+   "https://astorp.se/download/18.5da7fab21a12f4524d8e2331/1792483525687/Arbetsordning%20f%C3%B6r%20Kommunfullm%C3%A4ktige.pdf",
+   "https://astorp.se/download/18.6e689e641a0f0cac5171d966/1790839277631/Delegationsordning%20f%C3%B6r%20kommunstyrelsen.pdf",
+   "https://astorp.se/download/18.5da7fab21a12f4524d8e232c/1792483460373/Reglemente%20f%C3%B6r%20Kommunstyrelsen.pdf"
+  ]
+ },
+ {
+  "id": "kavlinge",
+  "kommun": "Kävlinge",
+  "lan": "Skåne län",
+  "status": 5,
+  "poang": 18,
+  "skal": [
+   "2 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-22"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r06297353/document/76f9fccaa5517b048077-c417-4eb4-ba97-52838375f464?hash=26939bdf50b7157-6db5698472cb4588149-adb4e2ef137710173788-1cce7f014ffe10173830",
+   "https://docs.netpublicator.com/api/public/r06297353/document/984f58d1be24f43e5eb9-8133-478b-bb75-89bbb10800e5?hash=26939bdf50b7157-6db5698472cb4588149-c85e4d53131410075133-49858e56e80b10075730",
+   "https://www.kavlinge.se/download/18.6df481d71a0867207df4abc/1789386654206/Gemensam%20kretsloppsplan%202021-2027%20-%20reviderad.pdf",
+   "https://docs.netpublicator.com/api/public/r06297353/document/b26290fcbfee8085bfa5-d491-4305-8be5-27c828692bf1?hash=26939bdf50b7157-6db5698472cb4588149-adb4e2ef137710173788-1cce7f014ffe10173830",
+   "https://docs.netpublicator.com/api/public/r06297353/document/1380883803f016dd06b1-af11-4af4-9296-9b5b2ed71a55?hash=26939bdf50b7157-6db5698472cb4588149-adb4e2ef137710173788-1cce7f014ffe10173830",
+   "https://docs.netpublicator.com/api/public/r06297353/document/23f1277578e0826cdefd-7977-4ccd-9840-56491a821e1f?hash=26939bdf50b7157-6db5698472cb4588149-c85e4d53131410075133-49858e56e80b10075730",
+   "https://docs.netpublicator.com/api/public/r06297353/document/c6cd7847a850014a47a1-ec76-40c7-a115-1da710bdc9e5?hash=26939bdf50b7157-6db5698472cb4588149-c85e4d53131410075133-49858e56e80b10075730",
+   "https://www.kavlinge.se/download/18.42ce138c1a0ad9dcd6e7eb9/1790233389241/Biblioteksplan%20f%C3%B6r%20K%C3%A4vlinge%20kommun%202024-2027%20med%20till%C3%A4gg.pdf",
+   "https://www.kavlinge.se/download/18.156debe21a12f6c2ace8b06/1792571408552/Uppdaterad%20sammantr%C3%A4desplan%202026.pdf"
+  ]
+ },
+ {
+  "id": "fagersta",
+  "kommun": "Fagersta",
+  "lan": "Västmanlands län",
+  "status": 5,
+  "poang": 17,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-26"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r72030401/document/ed01bd64ebb40b034695-794c-4c67-84f3-5e26a15b52fd?hash=fbe00a3f5f36102-c96dbedeced19824633-a88e272ee72110103915-71729872d58b10103922",
+   "https://docs.netpublicator.com/api/public/r72030401/document/c9b5bc6ad552723eab1a-dada-4b8f-8b24-3b886ac5a877?hash=fbe00a3f5f36102-c96dbedeced19824633-a88e272ee72110103915-71729872d58b10103922",
+   "https://docs.netpublicator.com/api/public/r72030401/document/016a7c8d149bd14741d3-dd7e-4b88-8df3-f4c79c27c05a?hash=fbe00a3f5f36102-c96dbedeced19824633-dfc4b9486a279714527-2905cceaf24b9717992",
+   "https://fagersta.se/download/18.164b504417ce9bd75321950d/1637763499332/2021-11-17.pdf",
+   "https://fagersta.se/download/18.5d853bd017c11877f753d8/1632400124718/2021-09-23.pdf",
+   "https://fagersta.se/download/18.3e9ba604179f5fc737d1a47a/1624886788867/2021-06-08.pdf",
+   "https://fagersta.se/download/18.3e9ba604179f5fc737d1a47d/1624886823984/2021-05-20.pdf",
+   "https://fagersta.se/download/18.5903daa61784af90c465a84/1616416964325/2021-02-25.pdf",
+   "https://fagersta.se/download/18.6ce6b77d1764c5a6b06676c2/1608128202149/2020-12-04.pdf",
+   "https://fagersta.se/download/18.6ce6b77d1764c5a6b06676cb/1608128314010/2020-09-22.pdf",
+   "https://fagersta.se/download/18.6ce6b77d1764c5a6b06676d0/1608128380111/2020-05-19.pdf",
+   "https://fagersta.se/download/18.6ce6b77d1764c5a6b06676d2/1608128397816/2020-02-19.pdf",
+   "https://fagersta.se/download/18.13c2f6141961df095f25c2f/1745408136182/Komvux%20som%20anpassad%20utbildning%20liggande%20A4%20i%20tre%20delar.pdf",
+   "https://fagersta.se/download/18.13c2f6141961df095f25c2d/1744717615758/Ans%C3%B6kan%20L%C3%A4rvux%202025.pdf",
+   "https://fagersta.se/download/18.5e30d31a1547fde5c3eb5/1792479092458/2026-10-16.pdf",
+   "https://fagersta.se/download/18.69a63d2b1a0ad93d7c230599/1790329794458/Personalutskottet%20-%20Protokoll%202026-08-21.pdf",
+   "https://docs.netpublicator.com/api/public/r72030401/document/1f30dbafb872c7110e56-0a05-450f-ae89-445d36bd50a4?hash=fbe00a3f5f36102-529b787fb1479824645-32a6fb6123a69970617-5e47a566e2ce9970634",
+   "https://docs.netpublicator.com/api/public/r72030401/document/f9bf7b94658ff6409f8b-3353-4998-aab5-f9454a035c93?hash=fbe00a3f5f36102-529b787fb1479824645-32a6fb6123a69970617-5e47a566e2ce9970634",
+   "https://docs.netpublicator.com/api/public/r72030401/document/a64819f249a369000c78-d17d-449d-b908-e22c1ad01447?hash=fbe00a3f5f36102-529b787fb1479824645-32a6fb6123a69970617-5e47a566e2ce9970634",
+   "https://docs.netpublicator.com/api/public/r72030401/document/1adf36e3c072e23ce68b-fc56-4928-9fa4-bf4c8cd87740?hash=fbe00a3f5f36102-c96dbedeced19824633-953f465619299897497-2afa681636c19897656"
+  ]
+ },
+ {
+  "id": "lidingo",
+  "kommun": "Lidingö",
+  "lan": "Stockholms län",
+  "status": 5,
+  "poang": 16,
+  "skal": [
+   "2 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "titeln anger budget eller plan för 2027"
+  ],
+  "dokument": [
+   "https://docs.netpublicator.com/api/public/r68645812/document/d3b35e358ab82f18f52a-27e9-45f0-9077-a38a2df21f0e?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-be794a7204a910155168-315178074e1710155171",
+   "https://docs.netpublicator.com/api/public/r68645812/document/71f020a8a6530f8d9fa6-f3be-4a26-b104-7970c36c9140?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-7c48f3aa55d410102586-adcb40b38fea10143369",
+   "https://docs.netpublicator.com/api/public/r68645812/document/88238f8425286ffd271c-3fe0-4ca6-8875-d9b77c28112b?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-be794a7204a910155168-315178074e1710155171",
+   "https://docs.netpublicator.com/api/public/r68645812/document/500632b99d745468ce28-8553-4ff2-a036-b18bae6e26e8?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-be794a7204a910155168-315178074e1710155171",
+   "https://docs.netpublicator.com/api/public/r68645812/document/449f5815d4aba3552595-977a-4afa-ae1c-b081c8ebbc1d?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-7c48f3aa55d410102586-adcb40b38fea10143369",
+   "https://docs.netpublicator.com/api/public/r68645812/document/44e359bbb3b3117caf6c-3ec8-4948-be88-50b1a4ac8d4e?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-96a2d235f94b9707612-d1559e2ca3819707633",
+   "https://docs.netpublicator.com/api/public/r68645812/document/578f53cba8208d3e88f6-c62a-4209-95a9-cbe7d3b616d1?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-96a2d235f94b9707612-d1559e2ca3819707633",
+   "https://docs.netpublicator.com/api/public/r68645812/document/364357078bbb1860ffc5-5ef9-4666-974e-0bd7aca1cbfe?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-05c190222f369309734-340cc38fb1fd9309746",
+   "https://docs.netpublicator.com/api/public/r68645812/document/b018edcbbda6bdaf7958-4179-4bea-aa72-9d463f081d06?hash=7792f61afd7357-7fdc21f4ccef6259124-d61f642154216259268-05c190222f369309734-340cc38fb1fd9309746"
+  ]
+ },
+ {
+  "id": "hoganas",
+  "kommun": "Höganäs",
+  "lan": "Skåne län",
+  "status": 5,
+  "poang": 15,
+  "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-29"
+  ],
+  "dokument": [
+   "https://www.hoganas.se/download/18.52b1391b1a1a19d6c1e5f52/1793950625969/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%202026-11-12.pdf",
+   "https://www.hoganas.se/download/18.4f2784091a12f65479f1d73/1791902548190/Reglemente%20f%C3%B6r%20kommunstyrelsen%20och%20%C3%B6vriga%20n%C3%A4mnder%20i%20H%C3%B6gan%C3%A4s%20kommun,%20KFS%202026:15.pdf",
+   "https://www.hoganas.se/download/18.4ec39e791a12f902c8e647c/1792151389159/Delegationsordning%20f%C3%B6r%20kommunstyrelsen%20KFS%202026:13.pdf",
+   "https://www.hoganas.se/download/18.4f2784091a12f65479f1d76/1791902764837/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige,%20KFS%202026:16.pdf"
+  ]
+ },
+ {
+  "id": "orkelljunga",
+  "kommun": "Örkelljunga",
+  "lan": "Skåne län",
+  "status": 5,
+  "poang": 15,
+  "skal": [
+   "3 ny(a) budgethandling(ar) för 2027 nämner reformen",
+   "belopp står nära reformorden",
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
   ],
   "dokument": [
-   "https://www.simrishamn.se/download/18.69c024d81a161f4e41eab5/1792651737116/Kung%C3%B6relse%20-%20handlingar%20KF%20261104.pdf",
-   "https://www.simrishamn.se/download/18.2389b8971a0421c599f3d7a5/1788445341507/BUN%202026-09-01.pdf",
-   "https://www.simrishamn.se/download/18.7f451bca1a0adbd29662b309/1790085873968/Kallelse%20BUN%202026-09-29.pdf",
-   "https://www.simrishamn.se/download/18.7e2d93771a0f5beb512144f/1790844828965/Protokoll%20BUN%202026-09-29.pdf",
-   "https://www.simrishamn.se/download/18.5f17ceb41a0ad97b5ba79688/1790704541785/Protokoll%20BUN%202026-09-26%20paragraf%20118.pdf",
-   "https://www.simrishamn.se/download/18.33a459461a1302ce537e9cd/1791965514920/Kallelse%20BN%2020%20okt%202026.pdf",
-   "https://www.simrishamn.se/download/18.10a688081a16313eaf61e1a/1792682993197/Protokoll%20BN%2020%20okt%202026_Bortredigerad.pdf",
-   "https://www.simrishamn.se/download/18.3d6213e61a0adcd63d7220/1789623612644/Kallelse%20BN%2022%20sept%202026.pdf",
-   "https://www.simrishamn.se/download/18.2d6ee6901a0adad6f9b34979/1790157354925/Protokoll%20BN%2022%20sept%202026_Bortredigerad.pdf",
-   "https://www.simrishamn.se/download/18.5f17ceb41a0ad97b5ba21a9e/1789984676853/Kallelse%20KF%20260928.pdf",
-   "https://www.simrishamn.se/download/18.2d6ee6901a0adad6f9b77f4a/1790776471209/Protokoll%20KF%20260928.pdf"
+   "https://www.orkelljunga.se/download/18.54f5ca0e1a16333a360e731/1793275182139/Kommunstyrelsen%202026-11-04.pdf",
+   "https://www.orkelljunga.se/download/18.2c19af061a1159cda9a2686/1791465147656/Kommunstyrelsens%20arbetsutskott%202026-10-14.pdf",
+   "https://www.orkelljunga.se/download/18.72962b181a0adb258162ac4/1789732580318/Kommunfullm%C3%A4ktige%202026-09-28.pdf",
+   "https://www.orkelljunga.se/download/18.1a4a929c1a01f71b1298984/1787747402589/Kommunstyrelsen%202026-09-02.pdf",
+   "https://www.orkelljunga.se/download/18.7f68af0c1a0fb745f2f344/1790938725373/Kommunfullm%C3%A4ktige%202026-09-28.pdf",
+   "https://www.orkelljunga.se/download/18.4e4f8d121a0adc620dcc02c/1790331887560/Kommunstyrelsens%20arbetsutskott%202026-09-23.pdf",
+   "https://www.orkelljunga.se/download/18.1ae26d1d1a162f28978c21f/1793183874450/Kommunfullm%C3%A4ktiges%20valberedning%202026-11-04.pdf",
+   "https://www.orkelljunga.se/download/18.72962b181a0adb258161ae55/1790686317079/Best%C3%A4mmelser%20om%20ers%C3%A4ttning%20f%C3%B6r%20f%C3%B6rtroendevalda%20samt%20valf%C3%B6rr%C3%A4ttare%20mandatperioden%202027-2030%20-slutlig.pdf",
+   "https://www.orkelljunga.se/download/18.2c19af061a1159cda9a5f2/1791380460195/%C3%96verf%C3%B6rmyndarn%C3%A4mnd%202026-09-29%20digitalt%20signerat.pdf",
+   "https://www.orkelljunga.se/download/18.7f68af0c1a0fb745f2fa69e/1791351964455/Utbildningsn%C3%A4mnden%202026-10-01.pdf",
+   "https://www.orkelljunga.se/download/18.72962b181a0adb25816ba90/1790151135999/Utbildningsn%C3%A4mndens%20arbetsutskott%202026-09-17.pdf",
+   "https://www.orkelljunga.se/download/18.3cf55a8e1a0420e74b7130eb/1788953283245/Utbildningsn%C3%A4mnden%202026-09-03.pdf",
+   "https://www.orkelljunga.se/download/18.1ae26d1d1a162f28978dd0c/1793256688886/Protokoll%20styrelsem%C3%B6te%2022%20oktober%202026%20Samordningsf%C3%B6rbundet%20NNV%20Sk%C3%A5ne.pdf",
+   "https://www.orkelljunga.se/download/18.270cf6511a042554ef2dde7/1788775071983/Kung%C3%B6relse%20-%20Samr%C3%A5d%20f%C3%B6r%20detaljplan.pdf",
+   "https://www.orkelljunga.se/download/18.270cf6511a042554ef2dde9/1788775137625/Protokoll%20KSUN%202026-08-31%20%C2%A7%2053.pdf",
+   "https://www.orkelljunga.se/download/18.34f3836519ed431ebc824bb0/1783414295542/Utbildningsn%C3%A4mnden%202026-07-02.pdf",
+   "https://www.orkelljunga.se/download/18.536955e1a0f5e577a4322/1790843160439/Kommunstyrelsen%202026-10-07.pdf",
+   "https://www.orkelljunga.se/download/18.6951a79b1a0ad9df90e1d8/1789633653263/Kommunstyrelsens%20arbetsutskott%202026-09-23.pdf",
+   "https://www.orkelljunga.se/download/18.54a8ed6b1a1620b3337c4/1792649624696/Protokoll%20KPR%20KHR%202026-08-27.pdf"
   ]
  },
  {
@@ -28,15 +213,19 @@
   "kommun": "Avesta",
   "lan": "Dalarnas län",
   "status": 5,
-  "poang": 10,
+  "poang": 14,
   "skal": [
    "1 nytt/nya dokument nämner reformen",
    "belopp står nära reformorden",
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
+   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-23"
   ],
   "dokument": [
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks/2026/protokoll-kommunstyrelsen-2026-10-26.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/kallelser-och-handlingar/bs/ny-handlingar-bd-2026-11-04.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-au/2026/nytt-protokoll-ksau-260922-signerat-med-pnr.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-bs-261007.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-bs-261104.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks/2026/protokoll-kommunstyrelsen-20260309-.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks/2026/protokoll-kommunstyrelsen-20260413.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks/2026/protokoll-kommunstyrelsen-20260511.pdf",
@@ -45,188 +234,37 @@
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-01-13.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-02-24.pdf",
    "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-03-31.pdf",
-   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-04-28.pdf"
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-04-28.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-bs-260506---pdfa1-digital-signatur.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-bs-260610-pdf-a1.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/bs/2026/protokoll-260909-signerat-med-pnr.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/spu-2025-05-19.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/protokoll-spu-2025-07-17.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/protokoll-spu-2025-08-25.pdf",
+   "https://www.avesta.se/globalassets/for-alla-sidor/kommun-och-demokrati/moten-handlingar-och-protokoll/protokoll/ks-spu/2025/protokoll-spu-2025-09-23---digital-signatur.pdf"
   ]
  },
  {
-  "id": "gavle",
-  "kommun": "Gävle",
-  "lan": "Gävleborgs län",
+  "id": "lilla-edet",
+  "kommun": "Lilla Edet",
+  "lan": "Västra Götalands län",
   "status": 5,
-  "poang": 10,
+  "poang": 14,
   "skal": [
+   "1 ny(a) budgethandling(ar) för 2027 nämner reformen",
    "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma",
-   "titeln anger budget eller plan för 2027 men reformorden saknas: kandidat för status 4 Ej nämnt"
+   "fullmäktige sammanträdde eller planerade budgetbeslut 2026-10-27"
   ],
   "dokument": [
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-27/protocol/budget-och-ekonomiska-plan-2027-2030-gastrike-ekogas-abpdf?downloadMode=download",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-13/agenda/korrigering-av-skrivfel-under-gavlefastigheter-ab-beslutad-i-kf-investeringsbudget-i-detalj-2027-2030pdf?downloadMode=open",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-10-13/agenda/korrigering-av-skrivfel-under-gavlefastigheter-ab-beslutad-i-kf-investeringsbudget-i-detalj-2027-2030pdf?downloadMode=download",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/tjansteskrivelse-investerings-och-exploateringsbudget-2027-2030pdf?downloadMode=open",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/tjansteskrivelse-investerings-och-exploateringsbudget-2027-2030pdf?downloadMode=download",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/tjansteskrivelse-kso-investerings-och-exploateringsbudget-2027-2030pdf?downloadMode=open",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/tjansteskrivelse-kso-investerings-och-exploateringsbudget-2027-2030pdf?downloadMode=download",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/bilaga-2-investeringsbudget-2027-2030pdf-62539?downloadMode=open",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/bilaga-2-investeringsbudget-2027-2030pdf-62539?downloadMode=download",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/bilaga-3-exploateringsbudget-i-detalj-2027-2030-pagaende-projektpdf-62836?downloadMode=open",
-   "https://meetingsplus.gavle.se/welcome-sv/namnder-styrelser/kommunstyrelsen/mote-2026-06-08/agenda/bilaga-3-exploateringsbudget-i-detalj-2027-2030-pagaende-projektpdf-62836?downloadMode=download"
-  ]
- },
- {
-  "id": "koping",
-  "kommun": "Köping",
-  "lan": "Västmanlands län",
-  "status": 5,
-  "poang": 6,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://koping.se/download/18.777bdeb1a12f453e327781e/1792134228040/Kallelse%20UN%20261022.pdf",
-   "https://koping.se/download/18.6e13d5d51a162ec56985221/1792677368431/2026-10-22%20Protokoll%20SBN.pdf",
-   "https://koping.se/download/18.3a94899819d24e48edcb720a/1775031253638/Protokoll%20KS%202026-03-24.pdf",
-   "https://koping.se/download/18.325fe37919dd782953827a9/1777447794583/Protokoll%20KS%202026-04-21%20%C3%B6verl%C3%A4ggning.pdf",
-   "https://koping.se/download/18.325fe37919dd78295382f95/1777449721654/Protokoll%20KS%202026-04-21.pdf",
-   "https://koping.se/download/18.686f1f3419eafe4e8e9135e/1781079842628/Protokoll%20KS%202026-06-02.pdf",
-   "https://koping.se/download/18.6bb204521a0d1a883b42dfe6/1790338164771/2026-09-24%20Protokoll%20SBN.pdf",
-   "https://koping.se/download/18.3826d5321a0adb78fac8a926/1789976099854/2026-09-24%20Kallelse%20SBN.pdf",
-   "https://koping.se/download/18.777bdeb1a12f453e327b64d/1792145116861/2026-10-22%20Kallelse%20SBN.pdf",
-   "https://koping.se/download/18.5effb66519d9a73267f59117/1776780446496/Protokoll%20KS%202026-04-21%20omedelbart%20justerat%20%C2%A794.pdf",
-   "https://koping.se/download/18.64177e8019e6329ea92a0e2/1779889174170/Protokoll%20KS%202026-05-22.pdf"
-  ]
- },
- {
-  "id": "landskrona",
-  "kommun": "Landskrona",
-  "lan": "Skåne län",
-  "status": 5,
-  "poang": 6,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://docs.netpublicator.com/api/public/r63542030/document/6563ba1bf4f0c602eb3c-025c-43f5-98bf-ae2c35efac4b?hash=4bb5722ae98f142-f81d6634530a6371957-040641a8ca099770615",
-   "https://docs.netpublicator.com/api/public/r63542030/document/1643e5767d4852230ee3-6507-4107-8889-7c13bd66b016?hash=4bb5722ae98f142-f81d6634530a6371957-040641a8ca099770615-bbe212fac9cf9781124",
-   "https://docs.netpublicator.com/api/public/r63542030/document/4302e6739a0a409fec79-725d-40f3-b7be-af4fa797f54a?hash=4bb5722ae98f142-f81d6634530a6371957-040641a8ca099770615-bbe212fac9cf9781124",
-   "https://docs.netpublicator.com/api/public/r63542030/document/b8df220e7a5e58ca5d2f-3c0e-4cf4-a0c7-519157eafe86?hash=4bb5722ae98f142-f81d6634530a6371957-0fe8eed0e3b49678536",
-   "https://docs.netpublicator.com/api/public/r63542030/document/e52ffa6d949b15b8b9a4-f194-4978-8cf3-755c53ba5844?hash=4bb5722ae98f142-f81d6634530a6371957-0fe8eed0e3b49678536",
-   "https://docs.netpublicator.com/api/public/r63542030/document/834f4db5ad942c61bf14-c6e1-4841-a9f7-1f700bda4e5b?hash=4bb5722ae98f142-f81d6634530a6371957-0fe8eed0e3b49678536-6de4dbe773b39678551",
-   "https://docs.netpublicator.com/api/public/r63542030/document/a52ad1765d29e960e325-f58e-4897-bf7a-c0b77b723bca?hash=4bb5722ae98f142-f81d6634530a6371957-0fe8eed0e3b49678536-6de4dbe773b39678551",
-   "https://docs.netpublicator.com/api/public/r63542030/document/71ae992a72de47b664fd-ccfb-4aa9-a85b-be7f5441f916?hash=4bb5722ae98f142-f81d6634530a6371957-1186110027109996806-4f76c821cebc9996827",
-   "https://docs.netpublicator.com/api/public/r63542030/document/e588ea12cc086cdd6ad6-62de-4f6e-bcb9-668ef1e5c561?hash=4bb5722ae98f142-f81d6634530a6371957-1186110027109996806-4f76c821cebc9996827",
-   "https://docs.netpublicator.com/api/public/r63542030/document/4e2d87ebc5f72fb06352-0143-4d95-a00d-a5762a659f48?hash=4bb5722ae98f142-f81d6634530a6371957-1186110027109996806-4f76c821cebc9996827",
-   "https://docs.netpublicator.com/api/public/r63542030/document/aff5d4ed3e24495ebd58-d225-480b-b760-7f135761ecb9?hash=4bb5722ae98f142-f81d6634530a6371957-040641a8ca099770615"
-  ]
- },
- {
-  "id": "grums",
-  "kommun": "Grums",
-  "lan": "Värmlands län",
-  "status": 5,
-  "poang": 5,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.grums.se/download/18.56522a4819e635fd8bf27b10/1780466976486/Kallelse%20KS%202026-06-03.pdf",
-   "https://www.grums.se/download/18.7595827119e6328e132470d1/1780995373499/Kallelse%20KF%202026-06-16.pdf",
-   "https://www.grums.se/download/18.2c3fa1d11a162ea445121cae/1793181451057/F%C3%B6renklad%202027%20till%20webben%20med%20Grums%20kommuns%20logga.pdf",
-   "https://www.grums.se/download/18.5d7b726219b3549d5f6b90da/1769606065862/Kallelse%20KS%202026-02-04.pdf",
-   "https://www.grums.se/download/18.4855a4c419c985cc6f25b7cb/1773758180168/Kallelse%20KS%202026-03-24.pdf",
-   "https://www.grums.se/download/18.1fde859719db51c60be1786e/1777274002348/Kallelse%20KS%202026-04-28.pdf",
-   "https://www.grums.se/download/18.66e80acd19c59837328f20a/1771322953234/Kallelse%20KF%202026-02-19.pdf",
-   "https://www.grums.se/download/18.577afbbe19d7257c6dd1879d/1776168383683/Kallelse%20KF%202026-04-21.pdf",
-   "https://www.grums.se/download/18.468ba8f519c9874f5c44de0/1772181123942/Protokoll%20KF%202026-02-19.pdf",
-   "https://www.grums.se/download/18.1fde859719db51c60be23362/1777467954998/Protokoll%20KF%202026-04-21.pdf",
-   "https://www.grums.se/download/18.724675fc19ed427fd432a255/1782379397569/Protokoll%20KF%202026-06-16.pdf"
-  ]
- },
- {
-  "id": "hylte",
-  "kommun": "Hylte",
-  "lan": "Hallands län",
-  "status": 5,
-  "poang": 5,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.hylte.se/download/18.54fc94e91a1a1b299e9147/1793718140907/Protokoll%20Patientn%C3%A4mnden%202026-10-28.pdf",
-   "https://www.hylte.se/download/18.17639d971a162ee27e1eb90/1793265391001/Protokoll%20KSAU%202026-10-27.pdf",
-   "https://www.hylte.se/download/18.17639d971a162ee27e1ea7b/1793264027717/Protokoll%20fr%C3%A5n%20styrelsem%C3%B6te%20i%20Samordningsf%C3%B6rundet%20i%20Halland%202026-10-23.pdf",
-   "https://www.hylte.se/download/18.7ce2e9a41a163283ab1d3b8/1793282573655/Protokoll%20KFN%202026-10-22.pdf",
-   "https://www.hylte.se/download/18.36c404591a1631534a1c526/1793267399404/Protokoll%20SBN%202026-10-21%20R.pdf",
-   "https://www.hylte.se/download/18.17639d971a162ee27e1b42e/1793171325311/Protokoll%20BUN%202026-10-20.pdf",
-   "https://www.hylte.se/download/18.5141acf11a163016a60b3cf/1793177733255/Protokoll%20TSN%202026-10-20.pdf",
-   "https://www.hylte.se/download/18.17639d971a162ee27e1b65d/1793174920219/Anslagsbevis%20-%20N%C3%A4mnden%20f%C3%B6r%20%C3%B6verf%C3%B6rmyndare%20i%20samverkan%202026-10-27.pdf"
-  ]
- },
- {
-  "id": "orkelljunga",
-  "kommun": "Örkelljunga",
-  "lan": "Skåne län",
-  "status": 5,
-  "poang": 5,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.orkelljunga.se/download/18.7f68af0c1a0fb745f2f344/1790938725373/Kommunfullm%C3%A4ktige%202026-09-28.pdf",
-   "https://www.orkelljunga.se/download/18.4e4f8d121a0adc620dcc02c/1790331887560/Kommunstyrelsens%20arbetsutskott%202026-09-23.pdf",
-   "https://www.orkelljunga.se/download/18.2c19af061a1159cda9a5f2/1791380460195/%C3%96verf%C3%B6rmyndarn%C3%A4mnd%202026-09-29%20digitalt%20signerat.pdf",
-   "https://www.orkelljunga.se/download/18.7f68af0c1a0fb745f2fa69e/1791351964455/Utbildningsn%C3%A4mnden%202026-10-01.pdf",
-   "https://www.orkelljunga.se/download/18.72962b181a0adb25816ba90/1790151135999/Utbildningsn%C3%A4mndens%20arbetsutskott%202026-09-17.pdf",
-   "https://www.orkelljunga.se/download/18.3cf55a8e1a0420e74b7130eb/1788953283245/Utbildningsn%C3%A4mnden%202026-09-03.pdf",
-   "https://www.orkelljunga.se/download/18.1ae26d1d1a162f28978dd0c/1793256688886/Protokoll%20styrelsem%C3%B6te%2022%20oktober%202026%20Samordningsf%C3%B6rbundet%20NNV%20Sk%C3%A5ne.pdf",
-   "https://www.orkelljunga.se/download/18.270cf6511a042554ef2dde7/1788775071983/Kung%C3%B6relse%20-%20Samr%C3%A5d%20f%C3%B6r%20detaljplan.pdf",
-   "https://www.orkelljunga.se/download/18.270cf6511a042554ef2dde9/1788775137625/Protokoll%20KSUN%202026-08-31%20%C2%A7%2053.pdf",
-   "https://www.orkelljunga.se/download/18.34f3836519ed431ebc824bb0/1783414295542/Utbildningsn%C3%A4mnden%202026-07-02.pdf"
-  ]
- },
- {
-  "id": "berg",
-  "kommun": "Berg",
-  "lan": "Jämtlands län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://berg.se/download/18.4cf3d0fb1a163241760e8a/1792685177374/V%C3%A5rd-%20och%20socialn%C3%A4mndens%20protokoll%20den%2021%20oktober%202026%20f%C3%B6r%20delning.pdf",
-   "https://berg.se/download/18.76fc254d1a12f5f1b9a4988/1791905228003/V%C3%A5rd-%20och%20socialn%C3%A4mndens%20kallelse%20den%2021%20oktober%202026%20f%C3%B6r%20delning.pdf",
-   "https://berg.se/download/18.2304b8681a12f4e6a30184d8/1792399887259/N%C3%A4mndsprotokoll%20MBN%202026-10-15%20-%20bevissida%20och%20justering.pdf",
-   "https://berg.se/download/18.5a4c00721a162fc30e71636d/1793183239300/Kallelse%20f%C3%B6rstasida%20gemensam%20n%C3%A4mnd%202026-11-04.pdf",
-   "https://berg.se/download/18.585ce9de1a0ad9392f6bdd/1789637035725/Valn%C3%A4mndens%20protokoll%20den%2016%20september%202026.pdf",
-   "https://berg.se/download/18.5a6abeac1a0423a9ec5300cd/1788937844755/Kallelse%20valn%C3%A4mnd%20den%202026-09-16.pdf",
-   "https://berg.se/download/18.6160b1261a0ada447db1befb/1790314812060/V%C3%A5rd-%20och%20socialn%C3%A4mndens%20protokoll%20den%2023%20september%202026.pdf.pdf",
-   "https://berg.se/download/18.58d33561a08644eff917b61/1789487753685/V%C3%A5rd-%20och%20socialn%C3%A4mndens%20kallelse%20den%2023%20september%202026%20f%C3%B6r%20delning.pdf",
-   "https://berg.se/download/18.86a91821a162e7f59f15a9e/1793183882447/Kallelse%20f%C3%B6rstasida%20gemensam%20n%C3%A4mnd%202026-11-04.pdf",
-   "https://berg.se/download/18.2ca493001a1a197b1322df0/1793785953043/V%C3%A5rd-%20och%20socialn%C3%A4mndens%20kallelse%20den%204%20november%202026%20f%C3%B6r%20delning.pdf",
-   "https://berg.se/download/18.2c6e6a971a0fb59620421b9/1791143049592/Kommunfullm%C3%A4ktiges%20protokoll%20den%2030%20september%202026%20f%C3%B6r%20delning.pdf"
-  ]
- },
- {
-  "id": "bjuv",
-  "kommun": "Bjuv",
-  "lan": "Skåne län",
-  "status": 5,
-  "poang": 4,
-  "skal": [
-   "ny budgethandling för 2027 i en kommun som ännu inte gått att bedöma"
-  ],
-  "dokument": [
-   "https://www.bjuv.se/download/18.6f005cee1a1631d8117205e/1792671688670/Kallelse%20KS%20261028%20extra.pdf",
-   "https://www.bjuv.se/download/18.2fb1200a1a181e46bc88ec5/1793204815662/Protokoll%20KS%20261028%20extra%20med%20votering.pdf",
-   "https://www.bjuv.se/download/18.5b9cd8341a086285d091379f/1788972409466/Kallelse%20KS%20260916.pdf",
-   "https://www.bjuv.se/download/18.4fa4c84e1a0f10a919b222cc/1790844641900/Kallelse%20KS%20261007%20extra.pdf",
-   "https://www.bjuv.se/download/18.46865c8a1a0fb5fbdae337db/1791306308213/Kallelse%20KS%20261013%20extra.pdf",
-   "https://www.bjuv.se/download/18.6baa36191a115a68f9c286f8/1791452715478/Kallelse%20KS%20261014.pdf",
-   "https://www.bjuv.se/download/18.778529f71a12f51c49e501da/1791992575081/Kallelse%20KS%20261021%20uppsiktsplikt.pdf",
-   "https://www.bjuv.se/download/18.71906c8a1a0adc78ca310664/1789635217562/Protokoll%20KS%20260916.pdf",
-   "https://www.bjuv.se/download/18.6baa36191a115a68f9c286f9/1791452715496/Protokoll%20KS%20261007%20extra%20med%20votering.pdf",
-   "https://www.bjuv.se/download/18.2e2f54911a12f6017666895d/1792077358537/Protokoll%20KS%20261014.pdf",
-   "https://www.bjuv.se/download/18.7d11e4731a05c4f525194ab3/1788360273683/Kallelse%20KSAU%20260909%20inst%C3%A4llt.pdf"
+   "https://lillaedet.se/download/18.61de8ac81a1a170a3bb124c/1793817544025/Kallelse%20KS%202026-11-11.pdf",
+   "https://lillaedet.se/download/18.2e9b40021a0420698113a00/1788262334232/Kallelse%20KS%202026-09-08.pdf",
+   "https://lillaedet.se/download/18.5e68177a1a08626cf6f17f4/1789112753521/Protokoll%20KS%202026-09-08.pdf",
+   "https://lillaedet.se/download/18.476b1ee51a0adbd12b8a28f/1790682449594/Kallelse%20%20KS%202026-10-07.pdf",
+   "https://lillaedet.se/download/18.2adaf9e21a1158f0eee1d71/1791527855667/Protokoll%20KS%202026-10-07.pdf",
+   "https://lillaedet.se/download/18.5e68177a1a08626cf6f3945/1789376654972/Kallelse%20KF%202026-09-23.pdf",
+   "https://lillaedet.se/download/18.604c41b71a0f5ced97448b/1790854577858/Protokoll%20KF%202026-09-23.pdf",
+   "https://lillaedet.se/5.61de8ac81a1a170a3bb123b.pdf?properties=12.7851f31817cda67c45d1675",
+   "https://lillaedet.se/5.66196faf1a1302cd6e519d5.pdf?properties=12.7851f31817cda67c45d1675"
   ]
  }
 ]

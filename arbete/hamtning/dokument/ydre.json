@@ -126,6 +126,248 @@
   "antal_träffar": 0
  },
  {
+  "url": "https://www.ydre.se/download/18.61de8ac81a1a170a3bb2d16/1793961387387/Protokoll%20ks%202026-11-02.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Protokoll ks 2026-11-02",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a5afc3654e2f280b1eb1989b6397372d2e3c0e14f93d86dddd0c37c2867ed101",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 39,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.2b4b0a0a1a162eb261263ee/1793215525489/Kallelse%20kf%202026-10-26.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Kallelse kf 2026-10-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ae4360a7ec1d061b898e1d28e5cd616987024c61ec03ee885cf3da96e8872778",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 147,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 21,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "else mot budget på 33,0 mnkr. Beslutsunderlag Delårsrapport 2026-01-01 – 2026-08-31 Sammanställning av statsbidrag T2 Sammanställning barnantal förskola fritids T2 Delårsrapport 2026-01-01 -2026-08-31 presentation Pre",
+    "belopp_nara": true
+   },
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "g av de stora skolreformerna. Utveckling av det systematiska kvalitetsarbetet för en tydligare röd tråd genom skolsystemet. Inrättande av akutskola med stöd av statsbidrag från höstterminen 2026. Satsningen ger beredskap för att ta emot elever som inte kan delta i verksamheten under begränsad tid. Förbättrad samverkan med socialf",
+    "belopp_nara": false
+   },
+   {
+    "sida": 46,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tälla person för att arbeta utåtriktat, brottsförebyggande för målgruppen barn och unga samt att starta upp ett skolsocialtteam (finansiering via statsbidrag) • Aktivitetskravet från 260701 - Kommunens skyldighet att heltidsaktivera indivder som haft försörjningsstöd tre månader eller mer. För socialförv",
+    "belopp_nara": false
+   },
+   {
+    "sida": 66,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "fattar alla delar av verksamheten såsom lokaler, personalbemanning, organisation, administration och externa intäkter. ➢ Inrättande av akutskola med stöd av statsbidrag från höstterminen 2026. Satsningen ger beredskap för att ta emot elever som inte kan delta i verksamheten under begränsad tid. ➢ Anpassning i verksamheten",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.ydre.se/download/18.2b4b0a0a1a162eb261263ef/1793215680792/Protokoll%20kf%202026-10-26.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Protokoll kf 2026-10-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "d2fb004cb1b59de9a58a3f3f5ca9f1ee7e55a840d8315223b57bafec76aa7546",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Delårsrapport 2026-01-01 – 2026-08-31 Sammanställning av statsbidrag T2 Sammanställning barnantal förskola fritids T2 Signature reference: 4c5f03",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ydre.se/download/18.2b4b0a0a1a162eb261263f0/1793215809896/Protokoll%20ks%202026-10-05.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Protokoll ks 2026-10-05",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "b60f57aa6372f2f73789ca30f47e4ed37b7b922a61b5d9b872e0bd246872d8cb",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 5,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Delårsrapport 2026-01-01 – 2026-08-31 Sammanställning av statsbidrag T2 Sammanställning barnantal förskola fritids T2",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ydre.se/download/18.39cb0bac1a0ad97a17f89f3/1790332984057/Kallelse%20ks%202026-10-05.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Kallelse ks 2026-10-05",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "243da821361272d2f75d4ff2e81bd92525df0820f3a269acf87945cecf5e2629",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 91,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 44,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "statsbidrag påverkar också arbetet framåt, inte minst när stora reformer ska implementeras inom skolan. Under sommaren 2026 fick Ydre besked om att ett stort statsbidrag inte längre beviljas på grund av översök bland kommuner, detta påverkade ekonomin med 2 miljoner kronor för 2026 och framåt. I budgeten för 2026 fanns bespar",
+    "belopp_nara": true
+   },
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sen, Förvaltningschefer, ekonomiavdelningen Beslutsunderlag Delårsrapport 2026-01-01 – 2026-08-31 Sammanställning av statsbidrag T2 Sammanställning barnantal förskola fritids T2 Nina Delavaux Hultgren Tf ekonomichef Beslutet sk",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "g av de stora skolreformerna. Utveckling av det systematiska kvalitetsarbetet för en tydligare röd tråd genom skolsystemet. Inrättande av akutskola med stöd av statsbidrag från höstterminen 2026. Satsningen ger beredskap för att ta emot elever som inte kan delta i verksamheten under begränsad tid. Förbättrad samverkan med socialf",
+    "belopp_nara": false
+   },
+   {
+    "sida": 28,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tälla person för att arbeta utåtriktat, brottsförebyggande för målgruppen barn och unga samt att starta upp ett skolsocialtteam (finansiering via statsbidrag) • Aktivitetskravet från 260701 - Kommunens skyldighet att heltidsaktivera indivder som haft försörjningsstöd tre månader eller mer. För socialförv",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.ydre.se/download/18.8843c631a0adcd52c6488/1789647854024/Kallelse%20kf%202026-09-28.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Kallelse kf 2026-09-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "71ea0f8e61ff7302ee30a47da0266376a2919fccb5d74e04c4ec995b9fff83cb",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 231,
+  "nämner_reformen": true,
+  "ord": [
+   "reglerad undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "reglerad undervisningstid",
+    "reform": true,
+    "utdrag": "t bygga ut verksamheten för att möta nya omfattande statliga reformkrav. Ett belysande exempel på detta är den resurskrävande och underfinansierade reformen om reglerad undervisningstid för lärare. När det gäller statlig styrning har statens användning av riktade statsbidrag länge kritiserats för att skapa omfattande administration, ryckighet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 57,
+    "ord": "reglerad undervisningstid",
+    "reform": true,
+    "utdrag": "skolreformer kommer att genomföras under perioden 2027–2030. Dessa omfattar bland annat införandet av tioårig grundskola, ny läroplan, förändrat betygssystem, reglerad undervisningstid för lärare samt nya bestämmelser kring stödinsatser och särskilt stöd. Reformarbetet kommer att kräva omfattande kompetensutvecklingsinsatser för både lärare o",
+    "belopp_nara": false
+   },
+   {
+    "sida": 65,
+    "ord": "reglerad undervisningstid",
+    "reform": true,
+    "utdrag": "irekt kopplade till nationella reformer och nya lagkrav. Genom riktade generella statsbidrag skapas ekonomiska förutsättningar för att genomföra reformer såsom reglerad undervisningstid och andra statliga förändringar som påverkar verksamheten. Kulturskolan tillförs resurser både för att hantera ökade lokalkostnader och för att säkerställa att",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.ydre.se/download/18.18e8da601a0fb8de9f62021/1791183406319/Protokoll%20kf%202026-09-28.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Protokoll kf 2026-09-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "bb4e6c90e657c3d86b415dbe56e47e52e9ba96064b49b2ef0ea7380f928ef376",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 44,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.1b03f2571a0863994201518/1789122723141/Protokoll%20ks%202026-09-07.pdf",
+  "titel": "Kallelse och protokoll - Ydre – Protokoll ks 2026-09-07",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9a7cea862456c3fac8bb417296d4cc66effee8f144a9d7a61a0ddd07e38c0ec7",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://docs.netpublicator.com/api/public/r77169101/document/b39506c8d27f2dd21df8-565d-4198-a742-1c2262cf474b?hash=d43258829a87311-9957a4e972913178078-6eb1e43ad56e10153625-522e92629ac710153637",
+  "titel": "Kommunstyrelsen 2026-11-02 – 4. Budget för Ydre kommun 2027-2030 – Beslut KS 2026-11-02Budget för Ydre kommun 2027-2030",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7e76cc6c6194f85e2ea00e832f6af198b72dc044881a3c7c3a2bfab9ef1d54fc",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ydre.se/download/18.7cb052ad182e93dee7ed67e/1664787044437/Kallelse%20Kf%202022-09-26.pdf",
   "titel": "Kallelse Kf 2022-09-26",
   "typ": "pdf",

@@ -78,5 +78,37 @@
   "belopp_nära_träff": false,
   "träffar": [],
   "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvesta.se/wp-content/uploads/2026/03/Arbete-pa-vag-antagen-20240516.pdf",
+  "titel": "HANDBOK ARBETE PÅ VÄG Antagen av samhällsbyggnadnämnden 2024-05-16 § 41",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "455f83c64828b4786f839aefa26668fbdba768bd5779b16345891f1864f6ca7d",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 116,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.alvesta.se/kommun-och-politik/sa-styrs-alvesta-kommun/styrande-dokument-och-forfattningssamling/overgripande-styrdokument/",
+  "titel": "Styrande dokument – Alvesta Kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "706e4f7fd6e58f8211510629d2bebbafb6cdb25e7feeb2645c15e039c2bde15d",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
  }
 ]

@@ -2,7 +2,9 @@
 
 Webbplats: https://www.hjo.se/
 Portal: ingen känd
-Hämtade dokument: 40, hämtfel: 0
+Hämtade dokument: 47, hämtfel: 0
+Mötessida: https://www.hjo.se/kommun--politik/politik-och-organisation/protokoll-och-kallelser/
+KF-möten: 2026-10-15, 2026-10-16, 2026-10-20, 2026-11-04, 2026-11-05, 2026-11-10, 2026-11-12; KS-möten: 2026-05-29, 2026-10-28, 2026-11-02, 2026-11-23
 Nuvarande sammanfattning: KF beslutar om Budget- och verksamhetsplan 2027–2029 den 2026-11-12; KS föreslog 2026-10-28 att KF antar Alliansens budgetförslag. Kommunens sammanfattning av förslaget (2026-11-04) nämner bland annat ökade kostnader för gymnasieplatser och lagkrav kring skolbibliotek, men inte lärares undervisningstid eller lärarreformen. Själva budgetdokumentet är inte publicerat.
 Luckor: Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade. Budget- och verksamhetsplan 2027–2029 står på fullmäktiges dagordning 2026-11-12; bara dagordningen har hittats.
 

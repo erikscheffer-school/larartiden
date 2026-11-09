@@ -3,6 +3,8 @@
 Webbplats: https://www.engelholm.se/
 Portal: ingen känd
 Hämtade dokument: 16, hämtfel: 0
+Mötessida: https://www.engelholm.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige.html
+KF-möten: 2026-07-16, 2026-10-21; KS-möten: okända
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 från kommunen hittades. Allians för Ängelholm (styret) skriver i en partinyhet 2026-05-25 om budgetramar 2027 att familje- och utbildningsnämnden får mer resurser, men nämner inte undervisningstidsreformen eller belopp för skolan. Den slutliga budgeten 2027 beslutas av KF under hösten 2026.
 Luckor: Kommunens egna dokument om budgetramar 2027 (KF våren 2026), budgetförslaget för hösten 2026, familje- och utbildningsnämndens underlag och oppositionens förslag hittades inte. engelholm.se gick inte att öppna (inte på listan över tillåtna adresser). Remissvar på SOU 2025:26 ej granskat. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats.
 
