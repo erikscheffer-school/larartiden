@@ -1,8 +1,5 @@
-klippan klar
-karlstad klar
-kumla klar
-norberg klar
-sundbyberg klar
-hofors klar
-sollentuna klar
-norrtalje klar
+hofors3 klar
+karlstad3 klar
+klippan3 klar
+norrtalje3 klar
+opengov3 klar

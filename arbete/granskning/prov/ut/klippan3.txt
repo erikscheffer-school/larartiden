@@ -1,0 +1,12 @@
+# DocumentWeb text
+Kommunfullmäktiges protokoll och kallelser Resursnamn Kallelse kommunfullmäktige 2022 Kallelse kommunfullmäktige 2023 Kallelse kommunfullmäktige 2024 Kallelse kommunfullmäktige 2025 Kallelse kommunfullmäktige 2026 Protokoll kommunfullmäktige 2022 Protokoll kommunfullmäktige 2023 Protokoll kommunfullmäktige 2024 Protokoll kommunfullmäktige 2025 Protokoll kommunfullmäktige 2026
+# Efter klick på 2026-mappen
+Kommunfullmäktiges protokoll och kallelserKallelse kommunfullmäktige 2026 Resursnamn Kallelse Kommunfullmäktige 2026-03-23 Kallelse Kommunfullmäktige 2026-01-26 för publicering Kallelse Kommunfullmäktige 2026-02-23 Kallelse Kommunfullmäktige 2026-04-27 Kallelse Kommunfullmäktige 2026-05-25 Kallelse Kommunfullmäktige 2026-08-24_ Kallelse Kommunfullmäktige 2026-09-28 Kallelse Kommunfullmäktige 2026-10-19 Kallelse[Kommunfullmäktige 2026-06-22
+klick: TimeoutError Timeout 8000ms exceeded while waiting for event "popup"
+=========================== logs ===========================
+waiting for event "popup"
+=========================================================
+# DocumentWeb anrop efter klick
+  GET 200 application/pdf https://documentweb.klippan.se/api/download/ec85646a-76fd-4682-a8fd-ab7a82696faf/5aa4b9e9-be8f-4285-82e7-a05c905efff6
+      
+# DocumentWeb länkar

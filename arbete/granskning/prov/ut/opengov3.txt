@@ -1,0 +1,34 @@
+# OpenGov https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/278013
+Gå till huvudinnehåll Politiska sammanträden och möteshandlingar Hem Kommunfullmäktige Kommunfullmäktige (2026-11-09) Till instansen Kommunfullmäktige (2026-11-09) Dagordning 188/26 Val av justerare tillika rösträknare och tillkännagivande av tid för justering 189/26 Godkännande av dagordning Ärenden för beslut 190/26 - Årets Norbergare 2026 191/26 - Svar på medborgarförslag Utbyggnad av gatubelysning på Klackbergsvägen 192/26 - Medborgarförslag – Skapa en hundrastgård 193/26 - Medborgarförslag – Pantinsamling för barn och unga 194/26 - Medborgarförslag - Iordningställande av busshållplatser vid Malmkärra (Riksväg 68) för Linje 500 195/26 - Medborgarförslag - Förkortad arbetstid inom äldreomsorgen 196/26 - Medborgarförslag - Ökad trafiksäkerhet för barn på Skolgatan i Norberg 197/26 - Allmänhetens frågestund med anledning av budget 2027 med plan 2028-2029 198/26 - Budget 2027 med plan 2028-2029 Norbergs kommun 199/26 - Ny taxa för plan- och byggenheten 2027 200/26 - Taxa för Norbergs kommuns allmänna vatten- och avloppsanläggning från och med 2027-01-01 201/26 - Ny taxa för kart- och mätenheten 2027 202/26 - Ny taxa för miljöenheten 2027 203/26 - Kommunikationsstrategi för Norbergs kommun 204/26 - Svar på motion från (L) – Återinför separat skolskjuts 205/26 - Svar på motion från (M) om att anlägga en hundrastgård 206/26 - Svar på motion från (L) – begär in brottsregisterutdrag även på redan anställda 207/26 - Svar på motion från (L) – Informationspärm för politiker 208/26 - Motion från (MP) – Införande av TiksPac i Norbergs kommun 209/26 - Eventuella nya motioner och medborgarförslag 210/26 - Val av ledamöter till strategisk regional beredning för mandatperioden 2027–2030 211/26 - Val av ombud till Västmanlands kommuner (VK) för perioden 2027-2030 212/26 - Nominering av ledamot och ersättare till Västmanlands Kommuners styrelse (VK) för perioden 2027-2030 213/26 - Val av ägarombud och styrelserepresentant till Energikontoret i Mälardalen 2027 till 2030 214/26 - Val
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/278013#content | Gå till huvudinnehåll
+https://opengov.360online.com/Meetings/NORBERG | 
+https://opengov.360online.com/Meetings/NORBERG | Hem
+https://opengov.360online.com/Meetings/NORBERG/Boards/Details/202068 | Kommunfullmäktige
+https://opengov.360online.com/Meetings/NORBERG/File/Details/314843.PDF?fileName=Kallelse%20Kommunfullm%C3%A4ktige%202026-11-09&fileSize=108156 | Kallelse Kommunfullmäktige 2026-11-09
+106KB
+mailto:info@norberg.se | info@norberg.se
+# anrop
+  GET 200 text/html; charset=utf-8 https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/278013
+      <!DOCTYPE html> <html lang="sv-SE"> <head>     <meta http-equiv="X-UA-Compatible" content="IE=edge" />     <meta http-equiv="Pragma" content="no-cache" />     <meta charset="utf-8" />     <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <meta name="format-detection" content="telephone=no" />     <title>              Politiska sammantr&#228;den och m&#246;teshandlingar - M&#246;ten - Kommunfullm&#228;ktige (2026-11-09)     </title>     <link type='text/css' rel='stylesheet' href='/Areas/Meetings/Content/style.css' />       <script type="text/javascript" src="/Areas/Meetings/Content/site.js"></script>         <style type="text/css">             a:hover, h1, .on:hover td, .on:hover td a, .content h3, .home h3, h2.newstyle, h3.newstyle, .on:hover td i, .sidebar h3, .SideBarItem a.last:hover, .tabs a:hover, .OpenGovColor, a.monthSelected, a.dateFilterSelected, .sbHolder:hover .sbSelector, .sbOptions a:hover, .sbOptions a:focus, .sbOptions a.sbFocus             {                 color:#58595b;             }             .home .tile .wrap .text, .home .tileDate, .SideBarItem a.last:hover span, .nextYear a:hover, .previousYear a:hover, #boards.SideBarItem a:hover, #lista1 .als-prev:hover, #lista1 .als-next:hover, h2.slideTitle, .sbHolder:hover .sbToggle, .sbToggleOpen:hover, .sbToggle:hover             {                 background-color:#58595b;             }             .calendar .currentMonth             {                 background:#58595b !important;             }             #boards.SideBarItem a:hover, .tabs a:hover             {                 border-bottom-color: #58595b;             }             .highlightTabs             {                 border-bottom-color: #58595b !important;             }         </style>     <script src="/Scripts/jquery?v=CkVTG71m7lHB5jSCpyOSxbeCVJLIPag7u7NL4ykFenk1"></script>      <script src="/Scripts/jqueryals?v=-qnb2jmETXGPoNwb4NLwYURDCRw_MqIEAg1D5z0FDSE1"></script>    
+  POST 200 application/json; charset=utf- https://dc.services.visualstudio.com/v2/track
+      {"itemsReceived":2,"itemsAccepted":2,"appId":"ac88763b-364f-4982-bd6e-05d856ef9ded","errors":[]}
+# OpenGov nämnd https://opengov.360online.com/Meetings/NORBERG/Boards/Details/201479
+https://opengov.360online.com/Meetings/NORBERG/Boards/Details/201479#content | Gå till huvudinnehåll
+https://opengov.360online.com/Meetings/NORBERG | 
+https://opengov.360online.com/Meetings/NORBERG | Hem
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/275943 | Kommunstyrelsen (2026-02-02)
+2026-02-02
+13:15
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/275944 | Kommunstyrelsen (2026-04-14)
+2026-04-14
+13:15
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/275945 | Kommunstyrelsen (2026-06-01)
+2026-06-01
+13:15
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/275946 | Kommunstyrelsen (2026-09-21)
+2026-09-21
+13:15
+https://opengov.360online.com/Meetings/NORBERG/Meetings/Details/278009 | Kommunstyrelsen (2026-10-19)
+2026-10-19
+13:15
+mailto:info@norberg.se | info@norberg.se
