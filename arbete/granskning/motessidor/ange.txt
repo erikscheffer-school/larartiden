@@ -1,0 +1,44 @@
+Startadresser från Brave: inga
+
+Sidor (poäng):
+ 55  https://moten.ange.se/committees/kommunfullmaktige/mote-2026-10-26  Möte 2026-10-26 | MeetingPlus [sv]
+ 17  https://moten.ange.se/  Översikt | MeetingPlus [sv]
+ 10  https://moten.ange.se/committees/kommunfullmaktiges-valberedning/mote-2026-11-30  Möte 2026-11-30 | MeetingPlus [sv]
+ 10  https://moten.ange.se/committees/kommunfullmaktige/mote-2026-11-30  Möte 2026-11-30 | MeetingPlus [sv]
+ 10  https://moten.ange.se/committees/kommunstyrelsen/mote-2026-12-15  Möte 2026-12-15 | MeetingPlus [sv]
+  5  https://www.ange.se/sok.html?query=kallelse+kommunfullm%C3%A4ktige  Sök - Välkommen till Ånge
+  0  https://www.ange.se/  Välkommen till Ånge - Välkommen till Ånge
+  0  https://www.ange.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök - Välkommen till Ånge
+  0  https://www.ange.se/?s=kallelse+kommunfullm%C3%A4ktige  Välkommen till Ånge - Välkommen till Ånge
+
+KF: 2026-10-26, 2026-11-30
+KS: 2026-12-15
+
+Aktuella handlingar:
+- Möte 2026-10-26 | MeetingPlus [sv] – Ladda ner allt | https://moten.ange.se/api/v2.0/meetings/53277/download/Agenda?downloadMode=download
+- Möte 2026-10-26 | MeetingPlus [sv] – 4 Arbetsordning för Ånge kommunfullmäktige | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61138
+- Möte 2026-10-26 | MeetingPlus [sv] – 5 Valärende för kommunfullmäktige mandatperioden 2026-2030 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61143
+- Möte 2026-10-26 | MeetingPlus [sv] – 7 Revidering av riktlinjer för medborgarförslag | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61145
+- Möte 2026-10-26 | MeetingPlus [sv] – 8 Medborgarförslag - Gång/cykelväg Torpshammar till Mid Adventure/Backetjärn | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61154
+- Möte 2026-10-26 | MeetingPlus [sv] – 9 Medborgarförslag - Håll Sverige rent, Pantamera Express | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61158
+- Möte 2026-10-26 | MeetingPlus [sv] – 10 Medborgarförslag - Byggande av flerbostadshus/radhus i Torpshammar | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61161
+- Möte 2026-10-26 | MeetingPlus [sv] – 11 Medborgarförslag - besöka återvinningscentralen på obemannade tider | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61164
+- Möte 2026-10-26 | MeetingPlus [sv] – 12 Medborgarförslag - Gång/cykelväg i Ånge mellan Violvägen och Mallbergsvägen längs väg 83 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61168
+- Möte 2026-10-26 | MeetingPlus [sv] – 14 Inkomna interpellationer och frågor | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61172
+- Möte 2026-10-26 | MeetingPlus [sv] – 15 Redovisning av inkomna motioner | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61173
+- Möte 2026-10-26 | MeetingPlus [sv] – 16 Redovisning av inkomna medborgarförslag | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61180
+- Möte 2026-10-26 | MeetingPlus [sv] – 17 Motion om att utreda och införa LOV i Ånge kommun | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61187
+- Möte 2026-10-26 | MeetingPlus [sv] – 18 Regler om omställningsstöd och pension för förtroendevalda (OPF-KR) | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61196
+- Möte 2026-10-26 | MeetingPlus [sv] – 19 Reglemente för revisorerna | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61207
+- Möte 2026-10-26 | MeetingPlus [sv] – 20 Årsredovisning för Site Alby Utveckling AB 2025 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61212
+- Möte 2026-10-26 | MeetingPlus [sv] – 21 Uppföljning av kommunfullmäktiges mål, tertial 2 2026 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61225
+- Möte 2026-10-26 | MeetingPlus [sv] – 22 Delårsrapport 2026 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61234
+- Möte 2026-10-26 | MeetingPlus [sv] – 23 Skattesats 2027 | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61255
+- Möte 2026-10-26 | MeetingPlus [sv] – 24 Antagande av Ändring av del av detaljplan för Del av Ånge Köping (området norr om bangården) | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61262
+- Möte 2026-10-26 | MeetingPlus [sv] – 25 Omfördelning av investeringsmedel till Hjältan avloppsreningsverk | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61280
+- Möte 2026-10-26 | MeetingPlus [sv] – 26 Ångefallen Kraft AB, Avtal om driftledarskap och finansiell avräkning | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61287
+- Möte 2026-10-26 | MeetingPlus [sv] – 27 Godkännande av avtal om överlåtande av mark med tillhörande rättigheter tillsammans med tillstånd för vattenverksamhet, ledningsrätt, vissa avtal och andra proj | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61300
+- Möte 2026-10-26 | MeetingPlus [sv] – 28 Revidering av Riktlinjer för bidrag till föreningar | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61319
+- Möte 2026-10-26 | MeetingPlus [sv] – 29 Förslag till riktlinjer för kultur- och fritidsstipendier | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61328
+- Möte 2026-10-26 | MeetingPlus [sv] – 30 Delgivningar för kännedom | https://moten.ange.se/api/v2.0/meetings/53277/download/items/61335
+- Möte 2026-10-26 | MeetingPlus [sv] – LADDA NER ALLT | https://moten.ange.se/api/v2.0/meetings/53277/download/Protocol?downloadMode=download

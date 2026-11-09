@@ -1,0 +1,18 @@
+Startadresser från Brave: inga
+
+Sidor (poäng):
+ 22  https://meetings.hylte.se/  Översikt | MeetingPlus [sv]
+ 17  https://meetings.hylte.se/committees/kommunstyrelsen/mote-2026-11-10  Möte 2026-11-10 | MeetingPlus [sv]
+  5  https://www.hylte.se/  Hylte kommun
+  5  https://www.hylte.se/?s=kallelse+kommunfullm%C3%A4ktige  Hylte kommun
+
+KF: 
+KS: 2026-11-10
+
+Aktuella handlingar:
+- Möte 2026-11-10 | MeetingPlus [sv] – LADDA NER ALLT | https://meetings.hylte.se/api/v2.0/meetings/2297/download/Agenda?downloadMode=download
+- Ladda ner alla filer under punkten | https://meetings.hylte.se/api/v2.0/meetings/2297/download/items/52508
+- Ladda ner alla filer under punkten | https://meetings.hylte.se/api/v2.0/meetings/2297/download/items/52587
+- Ladda ner alla filer under punkten | https://meetings.hylte.se/api/v2.0/meetings/2297/download/items/52658
+- Ladda ner alla filer under punkten | https://meetings.hylte.se/api/v2.0/meetings/2297/download/items/52667
+- Ladda ner alla filer under punkten | https://meetings.hylte.se/api/v2.0/meetings/2297/download/items/52690

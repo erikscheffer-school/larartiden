@@ -1,0 +1,12 @@
+Startadresser från Brave: inga
+
+Sidor (poäng):
+ 27  https://politik.enkoping.se/  Översikt | MeetingPlus [sv]
+ 13  https://politik.enkoping.se/committees/kommunstyrelsens-arbetsutskott/kommunstyrelsens-arbetsutskott-10-november-2026  Kommunstyrelsens arbetsutskott 10 november 2026 | MeetingPlus [sv]
+
+KF: 
+KS: 2026-11-10
+
+Aktuella handlingar:
+- Kommunstyrelsens arbetsutskott 10 november 2026 | MeetingPlus [sv] – LADDA NER ALLT | https://politik.enkoping.se/api/v2.0/meetings/42339/download/Agenda?downloadMode=download
+- Ladda ner alla filer under punkten | https://politik.enkoping.se/api/v2.0/meetings/42339/download/items/46539

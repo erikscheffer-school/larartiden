@@ -1,0 +1,31 @@
+Startadresser från Brave: inga
+
+Sidor (poäng):
+ 21  https://meetings.lekeberg.se/  Översikt | MeetingPlus [sv]
+ 15  https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2026-10-19  Möte 2026-10-19 | MeetingPlus [sv]
+ 10  https://meetings.lekeberg.se/committees/kommunstyrelsen/mote-2026-11-17  Möte 2026-11-17 | MeetingPlus [sv]
+ 10  https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2026-11-30  Möte 2026-11-30 | MeetingPlus [sv]
+ 10  https://meetings.lekeberg.se/committees/kommunstyrelsen/mote-2026-12-15  Möte 2026-12-15 | MeetingPlus [sv]
+ 10  https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2026-12-21  Möte 2026-12-21 | MeetingPlus [sv]
+  5  https://lekeberg.se/  Startsida - Lekebergs kommun
+  5  https://lekeberg.se/?s=kallelse+kommunfullm%C3%A4ktige  Startsida - Lekebergs kommun
+
+KF: 2026-10-19, 2026-11-30, 2026-12-21
+KS: 2026-11-17, 2026-12-15
+
+Aktuella handlingar:
+- Möte 2026-10-19 | MeetingPlus [sv] – Ladda ner allt | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/Agenda?downloadMode=download
+- Möte 2026-10-19 | MeetingPlus [sv] – 6 Motion från Thomas Kullberg (C) - Höj ambitionen i Lekebergs miljö- och klimatarbete | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153798
+- Möte 2026-10-19 | MeetingPlus [sv] – 7 Motion från Thomas Kullberg (C) - Mer närproducerad mat i förskola, skola och omsorg | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153801
+- Möte 2026-10-19 | MeetingPlus [sv] – 8 Motion från Annica Zetterholm (C) om tidiga insatser; en skola där fler elever lyckas | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153804
+- Möte 2026-10-19 | MeetingPlus [sv] – 9 Motion från Annica Zetterholm (C) om trygg omsorg kräver kontinuitet; inte bara fler minuter | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153807
+- Möte 2026-10-19 | MeetingPlus [sv] – 10 Motion från Diana Olsén (C) - Undersök möjligheten att minska antalet elever per klass i förskola, mellanstadium och högstadium | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153815
+- Möte 2026-10-19 | MeetingPlus [sv] – 13 Enkel fråga till kommunstyrelsens ordförande Caroline Elfors (M) angående Bergsmangården i Brotorp | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153810
+- Möte 2026-10-19 | MeetingPlus [sv] – 14 Skattesats för allmän kommunalskatt 2027 | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153739
+- Möte 2026-10-19 | MeetingPlus [sv] – 15 Taxa för planbesked, detaljplaner och områdesbestämmelser | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153746
+- Möte 2026-10-19 | MeetingPlus [sv] – 16 Taxa för prövning och tillsyn inom Miljöbalkens område | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153755
+- Möte 2026-10-19 | MeetingPlus [sv] – 17 Taxa för bygglov, strandskyddsdispenser, karttjänster m.m. | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153772
+- Möte 2026-10-19 | MeetingPlus [sv] – 18 Taxa bygg- och miljönämndens offentliga kontroll inom livsmedelslagstiftning | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153783
+- Möte 2026-10-19 | MeetingPlus [sv] – 21 Avsägelse från Berth Falk (S) av politiskt uppdrag Berth Falk som styrelsesuppleant i Vätternvatten AB | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153820
+- Möte 2026-10-19 | MeetingPlus [sv] – LADDA NER ALLT | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/Protocol?downloadMode=download
+- Ladda ner alla filer under paragrafen | https://meetings.lekeberg.se/api/v2.0/meetings/147000/download/items/153852
