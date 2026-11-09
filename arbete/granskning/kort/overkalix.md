@@ -2,7 +2,7 @@
 
 Webbplats: https://www.overkalix.se/
 Portal: Ciceron
-Hämtade dokument: 24, hämtfel: 0
+Hämtade dokument: 34, hämtfel: 0
 Nuvarande sammanfattning: Bara budget 2026 med flerårsplan 2027-2029 hittades. Den nämner inte reformen och har ingen nämndfördelning för 2027.
 Luckor: Hittade inte budget 2027 eller KF-beslutsdatum. Budget 2026 verkar ha behandlats i KF 2025-12-01 (kf-2025-12-01-bilaga-1.pdf, ej granskad), vilket tyder på ett beslut i december 2026, men det är inte verifierat. BUN:s underlag är inte granskat. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsutskottets protokoll 2026-03-09 (lokal fördelning av undervisningstid), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

@@ -1,0 +1,151 @@
+[
+ {
+  "url": "https://www.borgholm.se/wp-content/uploads/2026/03/Kallelse-kommunstyrelsen-2026-03-31-1.pdf",
+  "titel": "KALLELSE Kommunstyrelsen Plats och tid för sammanträdet",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f9727470b4dc4e8e605e765b495d3740d76f81238a2c8563e495264910f06e8c",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 435,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 127,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "tt det blir 10-årig grundskola och anpassad grundskola från ht 2028. Likaså ny läroplan och kursplaner från ht 2028. Till detta arbetas det även nationellt med lärarnas arbetstids förläggning samt kring speciallärare och specialpedagoger. Plus flera andra utredningar. Detta är händelser av väsentlig betydelse som kommer att påverka komm",
+    "belopp_nara": false
+   },
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ärleds till förväntade lägre intäkter från kart- och mätärenden. Utbildningsnämndens prognos för helåret uppgår till +1,2 mkr. Överskottet beror främst på att statsbidragen förväntas bli högre än budgeterat. Dock reduceras överskottet med högre personalkostnader inom södra området och central stödfunktion. Även kostnader för int",
+    "belopp_nara": true
+   },
+   {
+    "sida": 134,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a sin budget. Kulturområdet, -406 tkr Kulturskolan hamnar på en negativ budgetavvikelse vilket beror på ökad tjänst, del av denna tjänst har kunnat täckas av statsbidrag vilket medfört att underskottet inte blir lika stort. Biblioteket hamnar på en negativ budgetavvikelse med anledning av implementering av nytt bibliotekssyste",
+    "belopp_nara": true
+   },
+   {
+    "sida": 35,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "l 2033. Andelen elever med autismspektrumtillstånd och den anpassade gymnasieskolan fortsätter växa och kräver uthållig finansiering, särskilda lokaler och hög lärartäthet. En annan framtidsfråga gäller beredskap. Skollagen ställer krav på att skolan ska kunna bedriva verksamheten även vid kris och krig, och förbundet är beroend",
+    "belopp_nara": false
+   },
+   {
+    "sida": 135,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "at all sin drift. Slottsskolan har under höstterminen haft fortsatt lägre bemanning i form av att inte ersätta personal vid sjukfrånvaro. Inom kulturskolan har statsbidrag kunnat användas för personalkostnader vilket inte var medräknat i tidigare prognos. Södra området gjorde vid delåret antagande om att bemanningen behövde vara",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.borgholm.se/wp-content/uploads/2026/03/Protokoll-kommunstyrelsen-2026-02-24.pdf",
+  "titel": "Sammanträdesprotokoll KOMMUNSTYRELSEN Sammanträdesdatum 2026-02-24 Paragrafer",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "cde9342d3708dd206cb712d1efec0bd486b28824737af9a01eda29a4657461b6",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 29,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.borgholm.se/wp-content/uploads/2026/04/Kallelse-kommunfullmaktige-2026-04-20.pdf",
+  "titel": "KALLELSE Kommunfullmäktige Plats och tid för sammanträdet",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fd540725b8caef4d908b581fe2451ca43b1fc6f04f1e7e4c7222796c139c5ef1",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 293,
+  "nämner_reformen": true,
+  "ord": [
+   "lärarnas arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 166,
+    "ord": "lärarnas arbetstid",
+    "reform": true,
+    "utdrag": "tt det blir 10-årig grundskola och anpassad grundskola från ht 2028. Likaså ny läroplan och kursplaner från ht 2028. Till detta arbetas det även nationellt med lärarnas arbetstids förläggning samt kring speciallärare och specialpedagoger. Plus flera andra utredningar. Detta är händelser av väsentlig betydelse som kommer att påverka komm",
+    "belopp_nara": false
+   },
+   {
+    "sida": 173,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "a sin budget. Kulturområdet, -406 tkr Kulturskolan hamnar på en negativ budgetavvikelse vilket beror på ökad tjänst, del av denna tjänst har kunnat täckas av statsbidrag vilket medfört att underskottet inte blir lika stort. Biblioteket hamnar på en negativ budgetavvikelse med anledning av implementering av nytt bibliotekssyste",
+    "belopp_nara": true
+   },
+   {
+    "sida": 74,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "l 2033. Andelen elever med autismspektrumtillstånd och den anpassade gymnasieskolan fortsätter växa och kräver uthållig finansiering, särskilda lokaler och hög lärartäthet. En annan framtidsfråga gäller beredskap. Skollagen ställer krav på att skolan ska kunna bedriva verksamheten även vid kris och krig, och förbundet är beroend",
+    "belopp_nara": false
+   },
+   {
+    "sida": 174,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "at all sin drift. Slottsskolan har under höstterminen haft fortsatt lägre bemanning i form av att inte ersätta personal vid sjukfrånvaro. Inom kulturskolan har statsbidrag kunnat användas för personalkostnader vilket inte var medräknat i tidigare prognos. Södra området gjorde vid delåret antagande om att bemanningen behövde vara",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://www.borgholm.se/wp-content/uploads/2026/02/Protokoll-Kommunfullmaktige-2026-02-16.pdf",
+  "titel": "Sammanträdesprotokoll KOMMUNFULLMÄKTIGE Sammanträdesdatum 2026-02-16",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "271481b75c8685d668905dd6a15bd30d58fabf72caec17dccdf74dd5eec3b974",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svt.se/nyheter/lokalt/smaland/ris-och-ros-nar-20-timmars-forskola-utvarderats-i-borgholm",
+  "titel": "Ris och ros när 20 timmars förskola utvärderats i Borgholm | SVT Nyheter",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "de46d057d19e867b7f2f4b022c53610c32300b17e44f39581718eb739a5b9149",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

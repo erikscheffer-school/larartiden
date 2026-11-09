@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.barometern.se/oskarshamn/skolan-tappar-22-miljoner-nasta-ar-stora-konsekvenser",
+  "titel": "Skolan tappar 22 miljoner nästa år: ”Stora konsekvenser” – Barometern-OT",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "97ed58b9583c1fee28ac6e3c4636c9d4d509fd44db9e8b32de3f4353bc702506",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://oskarshamn.se/globalassets/forskola-och-utbildning/dokument/kallelser-och-protokoll-bn/kallelser-bn-2026/kallelsel-och-handlingar-bildningsnamnden-2026-09-23.pdf",
+  "titel": "Välkommen till Oskarshamns kommun - Oskarshamns kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "b2d8fdd53f19b03c4ff1a6c146e7e0b13a344fb71c584a77cb9de8b44fc79431",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

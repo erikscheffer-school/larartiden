@@ -1,0 +1,45 @@
+[
+ {
+  "url": "https://www.nlt.se/vara/prognosen-miljonunderskott-for-bildningsnamnden",
+  "titel": "Prognosen – miljonunderskott för bildningsnämnden – Nya Lidköpings-Tidningen",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "6dcf122bd9899a2b120f3c3a63992e8760d29899ba58cd8927d840c7ed9fa066",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vlt.se/opinion/debatt/malarenergis-miljoner-racker-inte-till-lararna-2027/",
+  "titel": "Mälarenergis miljoner räcker inte till lärarna 2027 – VLT",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "2dff8849151082d3a599ca77a113b041ddd8f5acf71dd578a4ed203ccfc66cdb",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares undervisningstid",
+   "planeringstid"
+  ],
+  "belopp_nära_träff": true,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärares undervisningstid",
+    "reform": true,
+    "utdrag": "nus. Med dem kan man höja lärarlönerna med 26,3 miljoner, som i år. Det låter mycket. Men det räcker inte. Den 1 juli 2027 träder regeringens nya förordning om lärares undervisningstid i kraft. För första gången sätts ett tak: max 650 timmar per år i låg- och mellanstadiet, 600 timmar på högstadiet och 550 timmar i gymnasiet. Samtidigt ska pl",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 4
+ }
+]

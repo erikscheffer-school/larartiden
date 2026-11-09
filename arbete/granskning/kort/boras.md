@@ -2,7 +2,7 @@
 
 Webbplats: https://www.boras.se/
 Portal: ingen känd
-Hämtade dokument: 32, hämtfel: 1
+Hämtade dokument: 43, hämtfel: 1
 Nuvarande sammanfattning: Borås Stads budget 2027 har inte hittats. Kommunstyrelsen föreslog i september att fullmäktige håller budgetsammanträde 14–15 december 2026. Enligt Borås Tidning har det nya styret bjudit in oppositionen att lämna förslag till budget 2027.
 Luckor: Inga handlingar för budget 2027 har hittats (KS-version, nämndernas budgetförslag). Kommunstyrelsens handlingar 2026-09-21 och gymnasie- och vuxenutbildningsnämndens handlingar 2026-01-27 innehåller inget budgetunderlag för 2027 som nämner reformen. Borås Tidnings artikel om budgeten ligger bakom betalvägg. Remissvar på SOU 2025:26 hittades inte.
 
@@ -87,3 +87,66 @@ M Mark och exploatering
 **Reformorden**
 
 - Inga reformord i hela texten (658 sidor).
+
+### Servicenämndens sammanträde 2026-08-18 Protokoll.pdf
+
+https://www.boras.se/download/18.93f96011a01f638413a4ea/1787300718670/Servicen%C3%A4mndens%20sammantr%C3%A4de%202026-08-18%20Protokoll.pdf
+
+Sidor: 14. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+SAMMANTRÄDESPROTOKOLL 1(13)
+Sammanträdesdatum
+2026-08-18
+Instans
+Servicenämnden
+Plats och tid: Borås Kongress, Akademiplatsen 2, Sessionssal Prada, tisdagen den 18 augusti 2026, kl. 13:02 –
+14:25.
+Ledamöter
+Micael Svensson (S), Ordförande
+Mosa Roshanghias (MP), 1:e vice ordförande
+Georg Guldstrand (M), 2:e vice ordförande
+Lotta Hallberg (S)
+Urban Enqvist (C)
+Luis Morales Martinez (V)
+Sofia Sandänger (M)
+Niklas Hallberg (SD)
+Lars-Erik Johansson (SD)
+Ersättare
+Oskari Anunti (S)
+Helen Lager Brink (S)
+Mikael Bengtsson (C)
+Christina Zetterstrand (M)
+Erik Barker (M)
+Martin Landegren (KD)
+Stefan Östanbäck (SD)
+Övriga tjänstepersoner
+Kenneth Lundqvist, förvaltningschef
+Martin Dahl, avdelningschef för Entreprenad
+Niclas Bodeklint, avdelningschef för Dataservice
+```
+
+**Rader om budget och 2027**
+
+- s. 8: Servicekontoret budgeterar år 2027 totalt 1 140 961 tkr i omsättning för den
+- s. 11: 1. Lokalförsörjningsnämndens beslut § 60 Lokalresursplan 2027-2035
+- s. 11: 2. Kommunstyrelsens beslut 2026-06-15 § 209 Budget 2027 - ekonomiska
+
+**Beslut och förslag**
+
+- s. 6: Servicenämnden godkänner förslag till Intern kontroll 2027: Riskanalys och
+- s. 6: kontrollen. Servicenämnden har upprättat ett förslag till Intern kontroll 2027;
+- s. 8: Servicenämnden godkänner förslag till planeringsunderlag 2027.
+- s. 8: Servicekontoret har utarbetat ett förslag till planeringsunderlag 2027.
+- s. 11: 1. Lokalförsörjningsnämndens beslut § 60 Lokalresursplan 2027-2035
+- s. 11: 2. Kommunstyrelsens beslut 2026-06-15 § 209 Budget 2027 - ekonomiska
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (14 sidor).

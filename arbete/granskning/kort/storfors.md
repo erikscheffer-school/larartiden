@@ -2,7 +2,7 @@
 
 Webbplats: https://www.storfors.se/
 Portal: ingen känd
-Hämtade dokument: 11, hämtfel: 3
+Hämtade dokument: 16, hämtfel: 6
 Nuvarande sammanfattning: Budget 2027 hittades varken i KF 2026-06-09, KS 2026-10-19 eller kallelsen till KF 2026-10-28. Skolan arbetar med 'effektiviseringar och neddragningar', och i februari 2026 hölls ett extra KS om 'Budget i balans skola och förskola 2026'. Reformen nämns inte.
 Luckor: Datum för KF-beslutet om budget 2027 har inte hittats och beslutet tas troligen nov–dec 2026. Kallelsen till KF 2026-09-17 gick inte att öppna (tidigare körning). Inga budgetförslag eller förvaltningsunderlag 2027 har hittats. Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i fullmäktiges kallelse 2026-04-09 (årsredovisning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

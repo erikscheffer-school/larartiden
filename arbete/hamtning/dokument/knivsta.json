@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://knivsta.se/download/18.9ef58d31a0863827f2b5eba/1789383541358/Revisionsskrivelse%20-%20Granskning%20av%20kommunstyrelsens%20%C3%A4rendeberedning%20Knivsta.pdf",
+  "titel": "Knivsta kommun Revisionsskrivelse 2026-09-09 Revisorerna Till:",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "29b3a2e56308ce3fb038f31819ef08dfaa80db411a608d9571575998884bfa33",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://knivsta.se/politik-och-organisation/ekonomi-och-budget/mal-och-budget/mal-och-budget-2026",
+  "titel": "Mål och budget 2026 | Knivsta",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "393cdfbcd42c08733b1658303c16807d30ec19a6caae119ccf225e18b0d8cfec",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://knivsta.vansterpartiet.se/val-2026/",
+  "titel": "Val till Knivsta kommun 2026 - Vänsterpartiet Knivsta",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "c07c045b6abbe9f2555085b372143ce18c7bef11b54cbbc7d9905c63aa6a402d",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

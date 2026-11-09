@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.helagotland.se/insandare/artikel/bryggbudget-for-en-osaker-tid-/jp966zql",
+  "titel": "INSÄNDARE: ”Bryggbudget för en osäker tid”",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "c9e51766ee4b5a55522b27d259e15a4eb0e519c35ed19ac0a1c7549af4b95907",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://gotland.se/download/18.2ac50cac19c47b03ab38da90/1772443938104/GotlandTidtabeller.pdf",
+  "titel": "Vamlingbo – Burgsvik – Hemse – Klintehamn – Visby",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "83ee979ba90106903396834873636526c4fe98ee674436d0dfed61a01ff3c3f4",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://malung-salen.se/download/18.7607344a19d24be2a5e94a9c/1774859998783/MSN%202026-03-18%20%C2%A7%C2%A7%2010-28.pdf",
+  "titel": "Sammanträdesprotokoll Sammanträdesdatum Sida Miljö- och stadsbyggnadsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f1a22c1640a30ea44e511b0ee1ecaf38d4457a0cc1178b737663252469203bdb",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://malung-salen.se/kommun-och-politik/ekonomi/arsplan-med-budget",
+  "titel": "Årsplan med budget | Malung-Sälen",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "1b2a76fe275f7de51152a489d0b8d7cb17b5d0f88c5c257df6365eb031c361d1",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://malung-salen.se/download/18.6447748c19e639232347473a/1780658805366/Protokoll%20Barn-%20och%20utbildningsn%C3%A4mndens%20arbetsutskott%202026-06-03%20%C2%A7%C2%A7%2082-89.pdf",
+  "titel": "Sammanträdesprotokoll Sammanträdesdatum Sida",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1bfe1db961f1af281af9ff4ccd3c1538391a3ea451a175a9ece2915f4cffbd74",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 7,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "isar på en avvikelse med plus 1,45 mnkr mot av fullmäktige beslutad driftram. Avvikelsen mot budget förklaras av ökade intäkter statsbidrag samt ökade kostnader för motsvarande delar av statsbidragen. Även behovet av det särskilda stödet har ökat. Kostnader i samband",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://malung-salen.se/download/18.6c88f92619c2c6087d85d15/1770288685011/KSAU%202026-02-10.pdf",
+  "titel": "Kallelse/underrättelse 2026-02-02 1 Kommunstyrelsens ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7cea13ff030fad9e3c8734d8e5929e9f9f14a3ebf08c1326ec48f739ab10eb3a",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 4,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://malung-salen.se/nyheter/2026-03-19-sok-skolskjuts-till-nasta-lasar-2026-2027",
+  "titel": "Sök skolskjuts till nästa läsår 2026/2027 | Malung-Sälen",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "0bf22ab4a04620499cf3512b94a85b0509bcac3859b6c31f3c6a6fba2181c710",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

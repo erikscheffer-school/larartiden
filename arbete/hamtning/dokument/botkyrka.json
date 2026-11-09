@@ -1,5 +1,346 @@
 [
  {
+  "url": "https://www.botkyrka.se/download/18.2785bf441869c53cc93400af/1680178902359/Kommunfullm%C3%A4ktige%202022-03-30.pdf",
+  "titel": "Kommunfullmäktige 2022-03-30.pdf Pdf, 13 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "93a55ba564b61bd6e61c4fc380c0dc90feef47ba6ac912ac95208d20c0b3a30e",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 245,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.42ff2a5b1877420ad4d91b4/1682582299067/Kommunfullm%C3%A4ktige%202023-04-27.pdf",
+  "titel": "Kommunfullmäktige 2023-04-27.pdf Pdf, 66.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "72a29bfe4a57709744fbc574b4a6d63477170d42aac4ae018c7522a8b99caa6e",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1136,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 438,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "den. 14,8 miljoner kronor avser skolmiljarden Överskotten förklaras främst av vakanta tjänster och och har finansierats genom ökade generella statsbidrag. att de rekryteringsutmaningar som finns i hela landet Vid delårsrapporten per april beslutade fullmäktige att består. Att det har varit",
+    "belopp_nara": true
+   },
+   {
+    "sida": 694,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n val av huvudman påverkar ekonomin och för gymnasieskolan påverkar dessutom val av gymnasieprogram då prisbilden varierar. • Bedömningar av statsbidrag från Skolverket och Migrationsverket påverkar. Sammanlagt tilldelas nämnden i storleksordningen 200 miljoner kronor i statsbidrag från Skolverket och",
+    "belopp_nara": true
+   },
+   {
+    "sida": 695,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "verskottet 1,8 miljoner och ingår i budgetavvikelserna ovan. • Antalet asylsökande barn och elever blev lägre än förväntat och underskott på statsbidragsintäkter från Migrationsverket på 1,5 miljoner kronor redovisades. Underskottet ingår i budgetavvikelserna ovan. Migrationsverket har ännu inte fattat b",
+    "belopp_nara": true
+   },
+   {
+    "sida": 696,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nomi i balans eller ett mindre överskott. Skyttbrinks gymnasium hade ett mindre underskott på 0,5 miljoner kronor som främst beror på strukturella utmaningar. Statsbidrag har påverkat årets resultat De senaste åren har präglats av finansiering av engångskaraktär, exempelvis statens ersättning för den korta sjukfrånvaron. I resul",
+    "belopp_nara": true
+   },
+   {
+    "sida": 635,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "nare inflytt i den nya dagliga verksamheten Kvarnhagen har medfört att rekryteringar senarelagts och personalkostnaderna blivit lägre • Högre statsbidrag inom gymnasial vuxenutbildning • Ökad distansundervisning och minskade volymer inom gymnasial vuxenutbildning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 651,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "inflytt i den nya dagliga verksamheten Kvarnhagen har medfört att rekryteringar senarelagts och personalkostnaderna blivit lägre • Högre statsbidrag inom gymnasial vuxenutbildning • Ökad distansundervisning och minskade volymer inom gymnasial vuxenutbildning vilka minskar kostnaderna",
+    "belopp_nara": false
+   },
+   {
+    "sida": 670,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ighet i Botkyrkas kommunala förskolor bedöms utifrån en sammanvägning av SKR:s nationella indikatorer; personaltäthet, andel legitimerade förskollärare, förskollärartäthet och gruppstorlek. Måttet är nytt för 2022 och det saknas därför utfall för tidigare år. Utfallet har ännu inte beräknats för 2022. Grundskolan Andel elever me",
+    "belopp_nara": false
+   },
+   {
+    "sida": 674,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "arbetsmiljön och arbetsvillkor för lärare i skolor i områden med socioekonomiska utmaningar har statsbidrag riktats till skolor för att bland annat stärka kompetensutveckling och avlasta lärares administration. Gymnasieskolan och gymnasiesärskolan I gymnasieskolan ä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 19
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.33d518f61884c84f1eb447e0/1698411762377/Kommunfullm%C3%A4ktige%202023-06-20.pdf",
+  "titel": "Kommunfullmäktige 2023-06-20.pdf Pdf, 23.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "b7da989ad3a7d6ce3953f387b314c2b0cfe23fbd6a1ea1d02477fba17494a5ff",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 728,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "därför förhoppningar om att regeringen skulle tillföra ytterligare resurser i vårändringsbudgeten. Förutom i sammanhanget marginella höjningar av några riktade statsbidrag, blev det – ingenting. Regeringen har fått skarp kritik, inte minst från lärarna, för att staten inte tar sitt ansvar. Skolminister Lotta Edholm (L) svarar me",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.6922b7317dbd48175ed0ad/1642162768035/Kommunfullm%C3%A4ktige%202022-01-27.pdf",
+  "titel": "Kommunfullmäktige 2022-01-27.pdf Pdf, 8.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "74517ee5bbc52a9f1cf63588f9df01e7735e99748a9f528ec9de80859315dde3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 265,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.2e56b6d217ee3b819f37ec/1645617119730/Kommunfullm%C3%A4ktige%202022-02-24.pdf",
+  "titel": "Kommunfullmäktige 2022-02-24.pdf Pdf, 19.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8bd7ca0408893a09ccb2277b2b5d4c404efa791d745dcb1059a37e15926625a2",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 188,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.7bd0dc0617f44892dec79e3/1647606616272/Kommunfullm%C3%A4ktige%202022-03-31.pdf",
+  "titel": "Kommunfullmäktige 2022-03-31.pdf Pdf, 2.3 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5e9c1c71180b533f5f54c293e1d8c91900e12cdf9651bfda95cf7f5d4bbc8449",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 148,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 37,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "att säkerställa att alla barn och elever, trots pandemin, får den utbildning de har rätt till. Medlen kan bland annat användas till ökad undervisningstid och mer stöd för de elever som behöver det. Förvaltningen bedömer preliminärt att cirka 10,5 miljoner kronor av den förstärk",
+    "belopp_nara": true
+   },
+   {
+    "sida": 31,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2. Kommunfullmäktige beslutar att finansiera tillskottet i punkten ovan genom Botkyrkas del av det tillfälliga generella statsbidraget (skolmiljarden). Sammanfattning I december 2021 beslutade regeringen att",
+    "belopp_nara": false
+   },
+   {
+    "sida": 33,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2. Kommunfullmäktige beslutar att finansiera tillskottet i punkten ovan genom Botkyrkas del av det tillfälliga generella statsbidraget (skolmiljarden). Sammanfattning I december 2021 beslutad",
+    "belopp_nara": false
+   },
+   {
+    "sida": 35,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2021-12-07 UN/2021:00590 § 124 Fördelning av statsbidraget tillfällig för- stärkning av statligt stöd till skolväsendet 2022 ”skolmiljarden”",
+    "belopp_nara": false
+   },
+   {
+    "sida": 36,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "1] Utbildningsnämnden 2021-11-29 UN/2021:00590 Fördelning av statsbidraget tillfällig förstärkning av statligt stöd till skolväsendet 2022 ”skolmiljarden” Diarienummer: UN/2021:00590",
+    "belopp_nara": false
+   },
+   {
+    "sida": 38,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "and med verksamhetsberättelsen 2021. Förvaltningen föreslår att verksamhetsområde grundskolan och gymnasieskolans tilldelas statsbidraget 2022: Grundskolan: • Fortsatt förstärkt lovskola med prioritet för årskurs 1–5, som inte täcks av statsbi-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 15
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.69a2106617ffd7177f636bd/1649941388673/Kommunfullm%C3%A4ktige%202022-04-28.pdf",
+  "titel": "Kommunfullmäktige 2022-04-28.pdf Pdf, 17.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "870998a4e837f0a48d86480607bced935f622ce2f0c0259014da92911f874cbc",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 750,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 258,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "örskolans 3–5 åringar. Medel har fördelats till externa utförare enligt lika villkor. Den ekonomiska påverkan av pandemin har även under 2021 varit positiv när statsbidrag delvis finansierat kostnaderna för korttidssjukfrånvaron. Sammanlagt har nämnden erhållit 13 miljoner kronor. Det har även uppstått kostnadsminskningar av engå",
+    "belopp_nara": true
+   },
+   {
+    "sida": 259,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erksamhetsområdena i egenregin samt myndighetsutövning för barn och elever i behov av särskilt stöd redovisar överskott på 23 miljoner kronor inkluderat engångsstatsbidrag i samma storleksordning. Majoriteten av enheterna redovisar en ekonomi i balans. Myndighetsutövningen som främst avser insatser för grundskolelever i behov av",
+    "belopp_nara": true
+   },
+   {
+    "sida": 279,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "minst 10 miljoner kronor med stora osäkerheter avseende barn- och elevantal samt kostnader och intäkter kopplade till pandemin. Avvikelsen består även av högre statsbidrag för den korttidssjukfrånvaron när reformen förlängts till och med september månad och övriga återkopplingar från Skolverket avseende tidigare års statsbidrag.",
+    "belopp_nara": true
+   },
+   {
+    "sida": 289,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t skolskjuts. Utförare i egenregin redovisar ett samlat överskott på 19 miljoner kronor och återfinns i alla tre verksamhetsområdena. I resultatet ingår engångsstatsbidrag på cirka 21 miljoner kronor varav 13 miljoner kronor avser statens ersättning för korttidssjukfrånvaro med anledning av pandemin. Utbildningsnämnden har även r",
+    "belopp_nara": true
+   },
+   {
+    "sida": 290,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ronor. I detta ingår en bibliotekssatsning på 0,5 miljoner kronor. • Språksatsning under hösten för förskolans 3 - 5 åringar som komplettering till statsbidrag, 0,8 miljoner kronor. • • Satsning på insatser för höjd attraktivitet och automatisering av nyckeltal har genomförts och de ökade kostnad",
+    "belopp_nara": true
+   },
+   {
+    "sida": 291,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "2022-02-24 Utbildningsnämnden 4.1.3.1 Förskolans verksamhetsområde Förskolans verksamhetsområde redovisar ett överskott på 10 miljoner kronor. Exkluderas statsbidrag av engångskaraktär avseende sjukfrånvaro och tidigare års statsbidrag redovisas en ekonomi i balans. Förskolornas största utmaningar under året har varit den m",
+    "belopp_nara": true
+   },
+   {
+    "sida": 292,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "av extraordinära stödinsatser. 4.1.3.3 Gymnasieskolans verksamhetsområde Gymnasieskolans verksamhetsområde redovisar överskott på 3 miljoner kronor. Exkluderas statsbidrag av engångskaraktär avseende sjukfrånvaro redovisas överskott på 2 miljoner kronor. Samtliga skolor visar ett överskott förutom St Botvids gymnasium som visar e",
+    "belopp_nara": true
+   },
+   {
+    "sida": 294,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lsen på intäktssidan. Här ingår bland annat statens finansiering av sjuklönekostnader som inte var känd inför budgetarbetet (13 mkr). Flera nya statsbidrag har tillkommit, exempelvis arbetsmiljö för skolor i utsatta områden. Förvaltningen erhåller högre momsstatsbidrag till följd av fler utpendlare. •",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 30
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.66a36a071808e5250f76237/1652699391025/Kommunfullm%C3%A4ktige%202022-05-24%20-%20Del%201.pdf",
+  "titel": "Kommunfullmäktige 2022-05-24 - Del 1.pdf Pdf, 1.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5646d5138bb8940a4cd245343326f131e66bda6eb1e268e2fef211786303e7e9",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 11,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.66a36a071808e5250f76238/1652699429542/Kommunfullm%C3%A4ktige%202022-05-24%20-%20Del%202.pdf",
+  "titel": "Kommunfullmäktige 2022-05-24 - Del 2.pdf Pdf, 23.6 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "857c34f1a08f492a59d20a6a0b83a05f25aeb0353d29a2b5873d220d3333331f",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 266,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.66a36a071808e5250f76239/1652699490012/Kommunfullm%C3%A4ktige%202022-05-24%20-%20Del%203.pdf",
+  "titel": "Kommunfullmäktige 2022-05-24 - Del 3.pdf Pdf, 14.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fb3640fdda8cf676604c59fc7011150e8cc3d6c1c9d0ac42f414cad2a1a4be55",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 124,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.botkyrka.se/download/18.66a36a071808e5250f7623a/1652699524467/Kommunfullm%C3%A4ktige%202022-05-24%20-%20Del%204.pdf",
+  "titel": "Kommunfullmäktige 2022-05-24 - Del 4.pdf Pdf, 15.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "debf55ec9d88e911b23f6a249aa92e89919d339780b37d489b71fe8cfd413f77",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 159,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://github.com/erikscheffer-school/larartiden/issues/5",
   "titel": "Att granska vecka 45 (2026-11-07) · Issue #5 · erikscheffer-school/larartiden · GitHub",
   "typ": "html",

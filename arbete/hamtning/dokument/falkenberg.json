@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://kommun.falkenberg.se/images/anslagstavla/notice1781514839.pdf",
+  "titel": "Protokoll Servicenämnden 2026-06-11 Sammanträdestid 09:00-11:15 Ledamöter",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "736a9424e8cf7ac85d026189a78a851ee0cf5ee219a62ce10fc7834588405e73",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommun.falkenberg.se/nyheter/vill-du-vara-med-och-vuxenvandra-pa-skolavslutningen-den-10-juni",
+  "titel": "Vill du vara med och vuxenvandra på skolavslutningen den 10 juni?",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "d03cb638cadb585f3d5ea0dece62a198c09af0ce48f9951122aa008f59302b45",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommun.falkenberg.se/images/anslagstavla/notice1781672937.pdf",
+  "titel": "Protokoll Kommunstyrelsens arbetsutskott 2026-06-16 Sammanträdestid 08:30-11:45 Ledamöter Per Svensson (S) Sandra Johansson (M",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "64a69332918807a69538f5c428a3270295c20b90797ecc0c9d746b9949be7c8f",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

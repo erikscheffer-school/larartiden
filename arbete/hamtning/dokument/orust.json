@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.orust.se/download/18.100d766019bd45fa35512556/1769174769910/Kommunstyrelsen%202026-01-28,%20kallelse.pdf",
+  "titel": "Datum 1(50) 2026-01-21 Kommunstyrelsen Kallelse till sammanträde",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5038e7262330387922230d65fc1c70c81725c600ef1c3ab86e2781d0403d957e",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 51,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 17,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "ndet skulle återremitteras till förvaltningen för att arbeta om planen för att göra den mer till en viljeinriktning och ta bort texten om utökade medel och mer planeringstid. Kulturplanen är nu omarbetad enligt återremissyrkandet. Förslag till beslut under sammanträdet Göran Karlsson (S) föreslår att besluta enligt tjänsteskrivel",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.orust.se/download/18.3196c18819d24d9a522581bc/1775657845873/Kommunstyrelsens%20arbetsutskott%202026-04-15,%20kallelse.pdf",
+  "titel": "Datum 1(27) 2026-04-08 Kommunstyrelsens arbetsutskott",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9bafd5b6930a18bfc9f1950aea5845ed574241b249c5b04dd6fab307cb1c2996",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skollov-se.se/orust",
+  "titel": "Skollov Orust | Skollov SE",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "772a3fb1402ca6d18386334c73cb3bddcdd0901419def5716b958083e0c84dbf",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://www.smedjebacken.se/download/18.f14c6aa19ddcc3e5ed3720d/1778478664520/Handlingar%20f%C3%B6r%20m%C3%B6te%20Omsorgsn%C3%A4mnden%20den%202026-05-11.pdf",
+  "titel": "KALLELSE Sida 1(2) Datum 2026-05-04 Omsorgsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "969586eddeb2afdcc5fc97e0a7751cca28faa7a939e00aa872941894c5d45227",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 110,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nyaludvikatidning.se/smedjebacken/s-senaste-vallofte-vi-tanker-pa-barnfamiljerna",
+  "titel": "S senaste vallöfte: ”Vi tänker på barnfamiljerna” – Nya Ludvika Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "1d0e4c1b39918f18e1e10c61d89dbc91ae71023494fb6394f6d3d5c9a4874733",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nyaludvikatidning.se/smedjebacken/kommunen-tar-hojd-for-fler-industrietableringar",
+  "titel": "Kommunen tar höjd för fler industrietableringar – Nya Ludvika Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "ee340a52efa47659ba479c01b212f0a5100de6520674e2c7712b688735cec442",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.smedjebacken.se/download/18.b72bfdc19d24e1d9ef408d1/1775564514482/Handlingar%20KS%202026-04-14.pdf",
+  "titel": "KALLELSE/UNDERRÄTTELSE Sida 1(2) Datum 2026-04-02 Kommunstyrelsen",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2b1a7ca65ccab7e75112775ab9523f590beb5c408e6b27a63356498046b86f14",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 289,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 70,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "olkort har minskat under året, vilket har medfört ett överskott inom skolskjuts-verksamheten på 245 tkr. Taxor och avgifter redovisar ett överskott på 790 tkr. Statsbidragen från Skolverket har blivit högre än beräknat (1 200 tkr). Detta avser bidrag för stärkt kunskapsutveckling i skolan och kvalitetshöjande åtgärder i förskolan",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 4
+ }
+]

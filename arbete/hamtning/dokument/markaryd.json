@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.markaryd.se/download/18.242969cb19d7240b84f23c3f/1776070694206/Budget%202026.pdf",
+  "titel": "Budget 2026 EFP 2027-2029",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9ef1db11f0e94c70fafcc7455405b9541d44e8b2ccad7f4a58cdd2d09eccfabb",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.markaryd.se/download/18.4026b9e19b353b7ba8a45cb/1767782296499/Kommunutskick%20januari%202026.pdf",
+  "titel": "KOMMUNBLADET Aktuell kommunal information hem till dig Januari 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "767a2e4ba1f58107982b6a0a2e3e2be9e7c45cd222df4ab232f9eb6b25df9f80",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

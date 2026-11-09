@@ -1,0 +1,78 @@
+[
+ {
+  "url": "https://www.perstorp.se/download/18.86a91821a162e7f59f163e0/1793198471181/Kallelse%20KF%20261104.pdf",
+  "titel": "KALLELSE 2026-11-04 Kommunfullmäktige Sammanträde med Kommunfullmäktige Plats",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f954cb13c059138d6e491d5439d44b5d9968c025f74bee57212a142c16ad0c76",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 376,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 157,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ltatet. Under hösten förväntas verksamheten erhålla ytterligare 160 000 kronor som kompensation för insatser i samband med årets val samt cirka 50 000 kronor i statsbidrag för litteraturinköp. Kulturskolan redovisar ett överskott om 87 531 kronor. Resultatet förklaras huvudsakligen av erhållet statsbidrag för ämnet bild, där samt",
+    "belopp_nara": true
+   },
+   {
+    "sida": 87,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "n. För att stärka kompetensutvecklingen har samtliga tillsvidareanställda getts tillgång till digitala utbildningsinsatser genom Förskoleforum, finansierat med statsbidrag för kvalitetshöjande åtgärder. Trygghet och säkerhet har varit fortsatt prioriterade områden. Under året har bland annat brandtillsyner genomförts, utemiljöer",
+    "belopp_nara": false
+   },
+   {
+    "sida": 91,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "alitet, samverkan och ökad måluppfyllelse samtidigt som verksamheten anpassar organisation och resurser till förändrade ekonomiska förutsättningar och minskade statsbidragsintäkter. Nedan presenteras en sammanställning av elevdemografin under 2026. Skolform: Antal elever maj: Antal elever august",
+    "belopp_nara": false
+   },
+   {
+    "sida": 111,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r 2024 och 2025 belastar resultatet 2026. Därutöver har minskat antal barn och elever med rätt till ersättning bidragit till lägre intäkter än budgeterat. Även statsbidragen inom akutskolan understiger budget, vilket främst beror på att verksamhetens utformning genererar lägre bidragsnivåer än beräknat. Inom vuxenutbildningen har",
+    "belopp_nara": false
+   },
+   {
+    "sida": 123,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skapa ekonomiska synergieffekter och bidra till en mer effektiv användning av kommunens samlade resurser. Under året har kommunen även tilldelats ett generellt statsbidrag avseende utökad vistelsetid i förskolan för barn vars vårdnadshavare deltar i det utökade aktivitetsansvaret inom socialförvaltningen. Den del av bidraget som",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 6
+ },
+ {
+  "url": "https://www.perstorp.se/download/18.3eaac55e19c987c41a6183f/1772115630238/Kallelse%20KF%20260304.pdf",
+  "titel": "Perstorp",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9371215536965922dd2f9aab50d0bc4e7392a2c634aa223fab7030db9c4d562a",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 165,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 160,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "Av nämndens uppföljning, protokollfört den 26 augusti 2025, framgår att besparingarna är verkställda genom borttagande av fyra tjänster i grundskolan utan att lärartätheten påverkats.15 Resurser till elever i grundskolan fördelas utifrån antal elever. I resursfördelningen finns ingen fördelning utifrån socioekonomiska faktorer.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

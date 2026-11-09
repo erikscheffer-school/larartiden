@@ -2,7 +2,7 @@
 
 Webbplats: https://www.gallivare.se/
 Portal: Ciceron
-Hämtade dokument: 25, hämtfel: 0
+Hämtade dokument: 36, hämtfel: 0
 Nuvarande sammanfattning: Ingen kommunplan/budget 2027 hittades. KS-protokollet 2025-09-08 gäller kommunplanen 2026 med plan 2027–2029 och nämner inte reformen. Det tyder på att Gällivare beslutar budget på hösten.
 Luckor: Kommunplan/budget 2027, KS/KF-protokoll från hösten 2026 och barn- och utbildningsnämndens underlag hittades inte. Datum för KF:s budgetbeslut 2027 är okänt. Sökkvoten (3 sökningar) är förbrukad.
 

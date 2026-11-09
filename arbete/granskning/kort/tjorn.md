@@ -2,7 +2,7 @@
 
 Webbplats: https://www.tjorn.se/
 Portal: Kommunkartan
-Hämtade dokument: 21, hämtfel: 0
+Hämtade dokument: 32, hämtfel: 0
 Nuvarande sammanfattning: Budget 2027 (Plan för mål och ekonomi 2027) har inte hittats. KF:s junisammanträde 2026-06-17 behandlade inte budgeten för 2027, till skillnad från tidigare år då majoritetens budgetförslag lades fram i juni. Barn- och utbildningsnämndens protokoll 2026-06-23 nämner inte lärares undervisningstid.
 Luckor: Budgetbeslutet för 2027 väntas hösten 2026; datum är okänt. KF-handlingar från hösten 2026 är inte granskade. Kommunens budgetsida visar budget 2026 som senaste. Kallelser och protokoll: https://www.tjorn.se/kommun-och-politik/motestider-protokoll-och-anslagstavla/kallelser-och-protokoll
 

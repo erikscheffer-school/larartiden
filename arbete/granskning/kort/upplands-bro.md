@@ -2,7 +2,7 @@
 
 Webbplats: https://www.upplands-bro.se/
 Portal: Kommunkartan
-Hämtade dokument: 21, hämtfel: 1
+Hämtade dokument: 29, hämtfel: 3
 Nuvarande sammanfattning: Kommunplan 2026–2028 nämner inte reformen.
 Luckor: Kommunplan 2027 ej hittad.
 

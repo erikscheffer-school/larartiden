@@ -2,7 +2,7 @@
 
 Webbplats: https://www.fagersta.se/
 Portal: ingen känd
-Hämtade dokument: 22, hämtfel: 0
+Hämtade dokument: 33, hämtfel: 0
 Nuvarande sammanfattning: Sökningarna gav inga budgethandlingar för 2027 från Fagersta. Kommunens sida 'Budget och redovisning' hittades, men innehållet gick inte att läsa. Remissvaret på regeringen.se gäller 'En god kommunal hushållning' (2021), inte reformen.
 Luckor: Budgetsidans huvudinnehåll kom inte med vid hämtningen, så inga dokumentlänkar kunde följas. Ej granskat: budget 2027, KF-datum, BUN-underlag 2027, remissvar på SOU 2025:26. Sökkvoten (3) är förbrukad.
 

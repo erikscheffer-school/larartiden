@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://krokom.se/download/18.1581593819b2bd0dc9d2a9d4/1767859913333/Sammantr%C3%A4deskalender%202026%20-%20rev%20260105.pdf",
+  "titel": "Sammanträdeskalender 2026 Revideringsdatum 2026-01-05 Jan Feb Mars April Maj",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5e3835e320f86e57cd417d12e230599a4a8e6e5484b29c2d5809b81aeb029475",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://krokom.se/download/18.a6fd35219c47b6714d16eea/1771866915142/Samr%C3%A5dsredog%C3%B6relse%20%C3%96versiktsplan%20Krokoms%20kommun.pdf",
+  "titel": "SAMRÅDSREDOGÖRELSE 1 (208 ) Datum 2026-02-23",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "bab6e12088c9607202dc4efb01502d522936379ea884968811bdbeee80137e2f",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 209,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.op.se/asikter/historisk-skattesankning-i-krokom-men-till-vilket-pris",
+  "titel": "Historisk skattesänkning i Krokom – men till vilket pris? – Östersunds-Posten",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "e0216c60a2cf330a70680cc42653d3e540d6e9756d0f2f335ec6f2b960fdf19b",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

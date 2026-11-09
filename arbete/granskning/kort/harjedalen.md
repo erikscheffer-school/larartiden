@@ -2,7 +2,7 @@
 
 Webbplats: https://www.herjedalen.se/
 Portal: ingen känd
-Hämtade dokument: 22, hämtfel: 0
+Hämtade dokument: 33, hämtfel: 0
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. SVT rapporterade i februari 2026 att skolorna överskred budget 2026 med 14 mnkr, vilket motsvarar 20–30 tjänster. Artikeln nämner inte reformen.
 Luckor: Kommunens budgetsida och mötesportal hittades inte via sökningarna, så budgethandlingar 2027 och KF-datum saknas. Det maximala antalet sökningar (3) är använt.
 

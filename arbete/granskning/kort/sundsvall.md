@@ -2,7 +2,7 @@
 
 Webbplats: https://www.sundsvall.se/
 Portal: ingen känd
-Hämtade dokument: 21, hämtfel: 1
+Hämtade dokument: 32, hämtfel: 1
 Nuvarande sammanfattning: Budget 2027 (Mål och resursplan 2027) är inte beslutad. KF-protokollen från 2026-06-22 (alla paragrafer) och 2026-10-26 innehåller inget ärende om budget eller MRP 2027 och nämner inte lärares undervisningstid. Budgeten presenterades enligt tidigare uppgifter i juni 2026 men beslutades alltså inte då.
 Luckor: Budgetbeslutet väntas troligen i november eller december 2026; datum okänt. KF-protokollen 2026-08-17 och 2026-09-28 är inte genomsökta. Budgetdokumenten, styrets och oppositionens förslag samt barn- och utbildningsnämndens underlag är inte granskade. Protokoll: https://sundsvall.se/kommun/kommun-och-politik/politik-och-demokrati/moten-och-protokoll/kommunfullmaktige-kf
 

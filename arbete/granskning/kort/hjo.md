@@ -2,71 +2,19 @@
 
 Webbplats: https://www.hjo.se/
 Portal: ingen känd
-Hämtade dokument: 29, hämtfel: 0
+Hämtade dokument: 40, hämtfel: 0
 Nuvarande sammanfattning: KF beslutar om Budget- och verksamhetsplan 2027–2029 den 2026-11-12; KS föreslog 2026-10-28 att KF antar Alliansens budgetförslag. Kommunens sammanfattning av förslaget (2026-11-04) nämner bland annat ökade kostnader för gymnasieplatser och lagkrav kring skolbibliotek, men inte lärares undervisningstid eller lärarreformen. Själva budgetdokumentet är inte publicerat.
-Luckor: Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade.
+Luckor: Budgetdokumentet 2027–2029 och vårbudget 2027 finns inte på kommunens budgetsida (senast uppdaterad 2025-11-24). KS-handlingarna 2026-10-28 och barn- och utbildningsnämndens underlag är inte granskade. Budget- och verksamhetsplan 2027–2029 står på fullmäktiges dagordning 2026-11-12; bara dagordningen har hittats.
 
-### Kommunfullmäktiges sammanträde 2026-11-12.pdf89 kbÖppnas i nytt fönster
+Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
 
-https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunfullmaktige/kallelse/kommunfullmaktiges-sammantrade-2026-11-12.pdf
+Senast daterade hämtade dokument:
 
-Sidor: 4. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-1 (3)
-KALLELSE OCH ÄRENDELISTA
-Kommunfullmäktiges sammanträde
-Datum: 2026-11-12
-Tid: Kl. 18:30
-Plats: Lilla Park, Kulturkvarteret
-Ordinarie ledamot som inte kan närvara kallar sin ersättare.
-Hjo 2026-11-05
-Michael Kihlström Klara de Boer
-Ordförande Sekreterare
-Ärendelista
-Ärende Kommunstyrelsens förslag till beslut
-1. Upprop
-2. Val av protokollsjusterare och Tim Fäder (M) och Pierre Robert Rydén (S) utses att
-fastställande av tid för justering tillsammans med ordföranden justera protokollet.
-Ersättare: Ann-Christine Fredriksson (M) och Anders
-Karlsson (S).
-Justeringstid: Måndag 16 november 2026, kl. 15.00.
-3. Fastställande av dagordning
-4. Allmänhetens frågestund
-5. Frågestund
-6. Informationer:
-Budget- och verksamhetsplan 2027–2029 för Hjo kommun
-Föredragande: Ekonomichef Sören Andersson
-Information från brottsförebyggande rådet
-Föredragande: Ordförande Catrin Hulmarker
-2 (3)
-7. Revisionens budget för 2027 Kommunfullmäktige föreslås besluta att anslå
-Ansvarig politiker: 990 000 kronor till kommunrevisionen för år 2027.
-Kommunfullmäktiges ordförande
-```
-
-**Rader om budget och 2027**
-
-- s. 1: Budget- och verksamhetsplan 2027–2029 för Hjo kommun
-- s. 2: 7. Revisionens budget för 2027 Kommunfullmäktige föreslås besluta att anslå
-- s. 2: - Driftbudget för 2027 fastställs på
-- s. 2: - Investeringsbudget 2027 samt investeringsplan
-- s. 2: - Resultatbudget för 2027 samt preliminär
-- s. 2: - Kassaﬂödesbudget 2027 samt preliminär
-- s. 2: - Balansbudget 2027 samt preliminär
-- s. 2: verksamhetsplan 2027-2029.
-
-**Beslut och förslag**
-
-- s. 2: 7. Revisionens budget för 2027 Kommunfullmäktige föreslås besluta att anslå
-- s. 2: - Driftbudget för 2027 fastställs på
-- s. 2: - Kommunstyrelsen har under år 2027 rätt att
-
-**Skola och utbildning (rader med belopp)**
-
-
-**Reformorden**
-
-- Inga reformord i hela texten (4 sidor).
+- Kommunfullmäktiges sammanträde 2026-11-12.pdf89 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunfullmaktige/kallelse/kommunfullmaktiges-sammantrade-2026-11-12.pdf
+- Bu260318 §§ 6-10.pdf1160 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/bu260318--6-10.pdf
+- Bu260422 §§ 11-13.pdf769 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/bu260422--11-13.pdf
+- Bu260520 §§ 14-17.pdf887 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/bu260520--14-17.pdf
+- Bu260819 §§ 18-23.pdf1179 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/bu260819--18-23.pdf
+- Bu260916 §§ 24-27.pdf848 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/ksbu20260916--24-27.pdf
+- Bu261014 §§ 28-31.pdf786 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-barn--och-utbildningsutskott/2026/bu261014--28-31.pdf
+- Su260121 §§ 1-5.pdf922 kbÖppnas i nytt fönster – https://www.hjo.se/globalassets/dokument/stab/kansli/protokoll-och-kallelser/kommunstyrelsens-sociala-utskott/2026/su260121--1-5.pdf

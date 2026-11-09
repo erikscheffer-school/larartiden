@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.skd.se/horby/horby-klubbade-budgeten-for-2027-skatten-oforandrad",
+  "titel": "Hörby klubbade budgeten för 2027 – skatten oförändrad – Skånska Dagbladet",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "76ea23d26094c45b42019c8ceb4f8d9d5e8569373c013aa7fbd7acfc3217a9ca",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skd.se/horby/horby-far-oforandrad-skatt-men-valloften-skjuts-upp",
+  "titel": "Hörby får oförändrad skatt – men vallöften skjuts upp – Skånska Dagbladet",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "35bb7b0cf2fc4124468403816679e8906b3fd22984958eff41ac79b0c431446b",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

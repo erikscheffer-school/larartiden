@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.sd.se/munkedal/budget-2027/",
+  "titel": "Styrka och framtidstro — Budget 2027 för Munkedal - SD Munkedal",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "82cb637048277e44cdb75d3baba86953314376a64cf08c9b7081944bce4735d9",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "jälvklarhet. De som byggt vår kommun förtjänar att bemötas med respekt. Skola och framtid för unga Arbetet med en ny, efterlängtad F-6-skola på Stale påbörjas. Undervisningstiden utökas, vi satsar på skolbiblioteken och avsätter 0,8 mnkr till projektledare i skolan. För att fånga upp unga som annars hamnar mellan stolarna avsätts 2,2",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.munkedal.se/utbildning-och-barnomsorg/vuxenutbildning/kunskapens-hus/lasarstider",
+  "titel": "Läsårstider - Munkedals kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "6b230ef95142f21c5ef1864eb10c47f6c77b2302b378946e3c25c7d3fe65de8d",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

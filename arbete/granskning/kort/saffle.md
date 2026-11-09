@@ -2,7 +2,7 @@
 
 Webbplats: https://www.saffle.se/
 Portal: ingen känd
-Hämtade dokument: 25, hämtfel: 0
+Hämtade dokument: 36, hämtfel: 0
 Nuvarande sammanfattning: Tre nya sökningar gav inga budgethandlingar för 2027 eller 2026 från saffle.se. Säffle-Tidningen har skrivit om styrets prioriteringar i nya budgeten, men artikeln blockerades (robots).
 Luckor: Budgetdokument 2027, KF-datum och BUN-underlag har inte hittats. Kommunens webbplats saffle.se dök inte upp i några sökresultat. Artikeln https://www.saffletidningen.se/nyheter/sa-vill-styret-i-saffle-prioritera-i-nya-budgeten kunde inte hämtas (robots). Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i budget 2023, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

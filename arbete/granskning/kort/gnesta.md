@@ -2,9 +2,78 @@
 
 Webbplats: https://www.gnesta.se/
 Portal: ingen känd
-Hämtade dokument: 25, hämtfel: 0
+Hämtade dokument: 36, hämtfel: 0
 Nuvarande sammanfattning: Ingen Framtidsplan 2027–2029 hittades. Kallelsen till KS 2026-06-09 innehöll bara ett näringslivsprogram och hänvisade till Framtidsplan 2026–2028.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens kallelser 2026-02-13 och 2026-09-03 (information om reformen och resursfördelningsmodellen), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
+
+### Protokoll kommunstyrelsen 2026-09-01.pdf Pdf, 636.3 kB.
+
+https://www.gnesta.se/download/18.7625f4b31a04221c58b64dc2/1788858000472/Protokoll%20kommunstyrelsen%202026-09-01.pdf
+
+Sidor: 69. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Kommunstyrelsen Protokoll
+Protokoll från kommunstyrelsen
+Tid och plats Tisdagen den 1 september 2026, kl. 9.00 - 14.20 , B-salen
+Västra Storgatan 15, Gnesta
+Ajournering 10.15-10.30, 11.50 - 13.00
+Beslutande Enligt bilagd närvaroförteckning.
+Övriga deltagare § 141, Pia Ragnardotter kommunchef, Anders Axelsson tf.
+Samhällsbyggnadschef,§ 141, 160 Sofia Barré, kommunikations
+- chef, § 141 Helen Larsson kommunikatör, § 141-144 Johan
+Siverland säkerhetssamordnare, § 141, 143 Tomas Enqvist,
+planeringschef, § 141, 143 Jessica Frånlund, planarkitekt, § 141
+Viola Olander revisionen, § 142 Stefan Fredriksson VA- chef och
+Maria Kavcic, Jenny Johansson kommunsekretetare
+Justerare Pernilla Lövström (ordinarie), Ann-Sofi Dahlgren (ersättare)
+Justering Tisdagen den 8 september 2026, kl. 08.00
+Kommunhuset, Västra Storgatan 15, Gnesta
+Underskrifter
+Sekreterare Jenny Johansson Paragrafer: 141 - 172
+Ordförande Linda Lundin
+Justerare Pernilla Lövström
+Anslag/Bevis
+Protokollet är justerat. Justeringen tillkännages genom detta anslag.
+Organ: Kommunstyrelsen
+Datum för anslagets uppsättande: 2026-09-08
+Datum för anslagets nedtagande: 2026-09-30
+Förvaringsplats för protokollet: Kommunstyrelseförvaltningen
+Jenny Johansson, sekreterare Paragrafer: 141 - 172
+Utdragsbestyrkande
+Kommunstyrelsen Protokoll
+Sammanträdesdatum:2026-09-01
+```
+
+**Rader om budget och 2027**
+
+- s. 2: KS § 148 Hemställan om budget för 2027 - Beviljande av 15 - 16
+- s. 15: Hemställan om budget för 2027 - Beviljande
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 15: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 15: 2. Hemställan om budget 2027
+- s. 15: 3. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 50: 150 tkr, medan resterande kostnader hanteras inom budgetprocessen för 2027. Avtal
+
+**Beslut och förslag**
+
+- s. 8: redovisning av nuläget gällande beslutade aktiviteter i Handlingsplan RSA 2023-2027
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+- s. 15: respektive medlems kommunfullmäktige fastställer budgeten för år 2027 till 16 000
+- s. 15: 3. Fastställande av 2027 års budget för Samordningsförbundet RAR i Sörmland
+- s. 15: 1. Fastställa budgeten för Samordningsförbundet RAR i Sörmland för 2027
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: KS § 147 Motion - Skydda skolbarnen i Björnlunda 13 - 14
+- s. 13: 2. Motion - Skydda skolbarnen i Björnlunda Johan Lexell (MP) 2025-07-17
+
+**Reformorden**
+
+- Inga reformord i hela texten (69 sidor).
 
 ### Läs hela dagordningen och beslutsunderlagen pdf, 8 MB.
 

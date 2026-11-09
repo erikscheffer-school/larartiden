@@ -1,0 +1,101 @@
+[
+ {
+  "url": "https://www.ovanaker.se/download/18.479ba00219c47aa7b7817ca/1770806000990/Protokoll%20barn-och%20utbildningsn%C3%A4mnden%202026-02-04.signerad.pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande Sida 1(25) Barn- och utbildningsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2004d84800d0bbd1016a86c600dc69edd8d08d315aef568a6994949f31cfb989",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 16,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "a punkter att tänka på: 1. Garanterad undervisningstid: Rektorn måste säkerställa att den totala garanterade undervisningstiden för varje ämne och årskursgrupp uppfylls enligt de nationella riktlinjerna. Detta innebär att även om rektorn kan",
+    "belopp_nara": false
+   },
+   {
+    "sida": 17,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "för att bättre möta elevernas behov, men måste samtidigt säkerställa att de nationella riktlinjerna och kraven på garanterad undervisningstid uppfylls. Anpassningarna måste dokumenteras och redovisas till huvudmannen för godkännande. Beslutsunderlag",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.ovanaker.se/nyhetsarkiv/nyheter/budgetforslag20272030sammanfattning.18173.html",
+  "titel": "Budgetförslag 2027–2030 – Sammanfattning - Ovanåkers kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "427f8146301d2429736ebbcacab6722ad52af3277eb4bea1109abe2f19cd6a38",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "förskola 2028/2029 Elevunderlaget minskar på flera skolor. Flera enheter har färre än 10 elever per årskull, vilket gör det svårt att upprätthålla kvalitet och lärartäthet. Föreslagna förändringar: - Knåda skola F–6 avvecklas 2027/2028 och slås ihop med Rotebergs skola. Exempel på förändringar som skulle kunna genomföras 2030 och",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.ovanaker.se/omkommunen/ekonomi/budget.57.html",
+  "titel": "Budget - Ovanåkers kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "e5625169a6610eeb4441266d602bbd6a5bc5cc22afb279d8890d146d317b5c8a",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ovanaker.se/download/18.3cf55a8e1a0420e74b732be/1788160363098/Protokoll%20barn-%20och%20utbildningsn%C3%A4mnden%202026-08-26%20signerad..pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande Barn- och utbildningsnämnden",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0c897370ae801f958227ba3c2bbd587a527cd3b70f334ff62383403a8342aeee",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 19,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "stärka samverkan mellan kommuner och antagningskanslier, minska kostnader och öka säkerheten.  Lärarnas undervisningstid ses över och börjar gälla från hösten -27.  Teknikcollege, i början av september ges tillfälle av att bli certifierad.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ }
+]

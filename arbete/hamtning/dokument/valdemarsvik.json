@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.valdemarsvik.se/wp-content/uploads/2026/05/uppdaterad-kallelse-ks-2026-05-25.pdf",
+  "titel": "Kallelse/underrättelse 1 (3) Plats och tid:Stora Studion, ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "24c268d9efc31f494b1be4871d9eff8cbb31c1cc33b6e15cae26879651377b54",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 493,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 129,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "r inför skolstart. Centrala faktorer som lyfts är behovet av mindre barngrupper, fler pedagoger och ökad andel utbildad personal. Även behovet av ökad gemensam planeringstid framhålls som en viktig förutsättning för att kunna möta barns individuella behov. Samverkan mellan förskola, skola, socialtjänst och vårdnadshavare lyfts som",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.valdemarsvik.se/kommun/barnomsorg-utbildning/praktisk-information-forskola-grundskola-och-fritidshem/lasarstider-2026-2027/",
+  "titel": "Läsårstider 2026/2027 - Valdemarsviks kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "e0f5039519929da1fddbe8d1fe64b6b8d4889cf68740bd2704f7eb895432609f",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.valdemarsvik.se/blog/skolstart-17-augusti-lasaret-2026-2027/",
+  "titel": "Skolstart 17 augusti - Läsåret 2026/2027 - Valdemarsviks kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "37ae517581c6f9a839fe05f09e185d8af3744a80a16f741b1f7f99afc640256d",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

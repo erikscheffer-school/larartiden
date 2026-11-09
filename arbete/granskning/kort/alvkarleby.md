@@ -2,7 +2,7 @@
 
 Webbplats: https://www.alvkarleby.se/
 Portal: ingen känd
-Hämtade dokument: 20, hämtfel: 0
+Hämtade dokument: 30, hämtfel: 0
 Nuvarande sammanfattning: Tre sökningar, varav en utökad, gav inga handlingar för budget 2027 från Älvkarleby kommun och inget KF-datum.
 Luckor: Kommunens budgetsida och mötesportal syntes inte i sökresultaten. Inga budgetdokument, nämndunderlag eller KF-datum kunde granskas.
 

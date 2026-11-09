@@ -1,0 +1,104 @@
+[
+ {
+  "url": "https://www.timra.se/download/18.6a290a171a09c7929dd8d/1789549112297/Samlingshandling%20f%C3%B6r%20publicering%20BUN%202026-09-23.pdf",
+  "titel": "Tjänsteskrivelse Handläggare Datum Diarienummer Barn- och",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "977bd7448d4160cc151771a9486e2f841186dd3bdc566e2e75cdb8b18596a297",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 193,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 132,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "Etablera enhetliga ordningsregler, strukturerade lektionsstarter/avslut och konsekvenskedjor för att återta studieron och skydda undervisningstiden. 3. Systematisk Skolnärvaro & Tidiga Insatser i Matematik/Idrott: o Intensivbevaka frånvaron i ÅK 4–6 för att stoppa kunskapstappet",
+    "belopp_nara": false
+   },
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ov av extra stöd till elever. Även högre volymer av skolmåltider än budgeterat bidrar till underskottet. Det negativa resultatet dämpas av ökade intäkter från statsbidrag och interkommunala ersättningar samt lägre kostnader för interkommunala ersättningar och skolskjuts. Helårsprognosen visar ett underskott om 4 550 tkr. Progno",
+    "belopp_nara": true
+   },
+   {
+    "sida": 117,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "o (index 4,0) och Inflytande (index 4,4) ligger på kritiskt låga nivåer. Lärarnas reaktiva konflikthantering efter raster stjäl undervisningstid, samtidigt som EHT-dimensioneringen (20%) innebär att lärarna står utan tillräckligt avlastande kuratorsstöd i vardagen. ",
+    "belopp_nara": false
+   },
+   {
+    "sida": 130,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ÅK 6 (16,2%). I ÅK 6 innebär 3038 frånvarotimmar att den elevgrupp som har lägst måluppfyllelse också missar motsvarande nästan 1/5 av all undervisningstid. Detta är den direkt utlösande faktorn till F-betygen och de ej satta betygen. Vad saknar vi kunskap om?  Metoder och verktyg för intensivtränin",
+    "belopp_nara": false
+   },
+   {
+    "sida": 192,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "möter/ersättare 2025 9. KF 2026-06-08 § 120, Beviljande av ansvarsfrihet för barn- och utbildningsnämndens ledamöter/ersättare 2025 10. Statsbidrag för omsorg under tid då förskola eller fritidshem inte erbjuds för 2026 11. Polisanmälan 5000-K587387-26 12. Polisanmälan 5000-K594977-26 13. Rikta",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 7
+ },
+ {
+  "url": "https://www.timra.se/download/18.3806b29819be7cbbaa0218e/1773319199238/Kommunstyrelsens%20protokoll%20260310%20%C2%A7%C2%A7%2050-86.pdf",
+  "titel": "Protokoll Kommunstyrelsen Plats och tid:",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "b70b7c6aa18f22ba45ab065214c07482d75b4a7599775baf34f50d1418aa652e",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 52,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.timra.se/download/18.3806b29819be7cbbaa0b1d/1770797529991/Protokoll%20Milj%C3%B6-%20och%20byggnadsn%C3%A4mnden%202026-02-09%20%C2%A7%C2%A7%201-18.pdf",
+  "titel": "Protokoll Miljö- och byggnadsnämnd Plats och tid:",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2c6f5fcee03858bbf4734df16c70d61a7c6ef65e13976c83d0607fba6f995c17",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.timra.se/download/18.1b39dabd19a1302877a87b/1761831910053/Va-taxa%20f%C3%B6r%20Timr%C3%A5%20kommun%202026-01-01.pdf",
+  "titel": "1 1 Timrå kommun Taxa för allmänna VA-anläggningar",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9a746c44763b7d27c63ea3b4930cbb1033b912d66c5874786d76df31fee48af6",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

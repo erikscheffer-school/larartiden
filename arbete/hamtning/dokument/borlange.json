@@ -1,0 +1,112 @@
+[
+ {
+  "url": "https://www.borlange.se/download/18.7565929c19be70efec8419dc/1772032298069/Protokoll%20skoln%C3%A4mnden%202026-02-18%20%C2%A7%C2%A7%2011-20.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL sid 1(2) Sammanträdesdatum Skolnämnden 2026-02-18",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1a32d9d6ce0a30cfbd1ed9a81addcea8407624656f86d2060de0981b3f890f5d",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 16,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 2,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "januari - december 2025 § 14 Fördelning av statsbidrag för kvalitetshöjande 2025/1683 6 åtgärder till fristående",
+    "belopp_nara": false
+   },
+   {
+    "sida": 6,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ämnden 2026-02-18 § 14 Fördelning av statsbidrag för kvalitetshöjande åtgärder till fristående förskolor 2026 / 2025/1683",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 13
+ },
+ {
+  "url": "https://www.borlangetidning.se/borlange/budgeten-2027-hit-gar-miljonerna",
+  "titel": "Budgeten 2027 – hit går miljonerna – Borlänge Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "383557302862799b7ff994250c7eb719c5d1f7606139a0b4990878e9029cc768",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.borlangetidning.se/opinion/debatt/borlanges-fritidshem-behover-mer-resurser",
+  "titel": "Borlänges fritidshem behöver mer resurser – Borlänge Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "1172d9aa368e9254229b13235f668b55e6e29a2a5cc4291a7576c8938e737009",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.borlange.se/download/18.3da9ae0319e6f87ff211fa5/1780054451283/Protokoll%20gymnasien%C3%A4mnden%202026-05-29%20%C2%A7%2024%20Omedelbar%20justering.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL sid 1(2) Sammanträdesdatum Gymnasienämnden 2026-05-29",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "de52ea3b96a0fff58bb362053a24b5bee590eff497dab21e9673d8c0d3ea1a2c",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.borlange.se/download/18.20c2c85d19eb7a927aa43d6f/1784034874722/M%C3%B6tesanteckning%2026_05_20_PLAN_DIM_DalaWux.pdf",
+  "titel": "1 Mötesanteckningar – planering och dimensionering/samverkan",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "78a2e80d7b533869d141753bbb9eee87c4f31cf38c81d8f4c9a7ac74fbcbdfc1",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 5,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "exempelvis de som önskar komplettera en eller några enstaka nivåer/kurser. Pengar finns, då vi enligt prognos lämnar tillbaka statsbidrag, preliminärt 14 mnkr 2026. Nämns att det är ett komplext system och att Skolverket rimligen borde erbjuda nationellt registr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erg Wallin, Verksamhetschef/skolchef Borlänge kommun, Tommy Berglund, Förvaltningschef Borlänge kommun, Richard Berkemo, rektor, ansvar statsbidrag kontaktkommun Borlänge kommun, Pierre Engström, ledningsstöd, utredare/utvecklare eu DalaWux Falu kommun, Annika Paulsson, rektor",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ }
+]

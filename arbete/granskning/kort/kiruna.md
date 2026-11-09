@@ -2,7 +2,7 @@
 
 Webbplats: https://www.kiruna.se/
 Portal: ingen känd
-Hämtade dokument: 10, hämtfel: 11
+Hämtade dokument: 10, hämtfel: 13
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades via sökning. Det enda funna skoldokumentet för 2026/27 är ett beslut om lärararbetsår (kalender), som inte nämner reformen.
 Luckor: Hittade inte budget 2027, KF-beslutsdatum, BUN:s budgetunderlag eller remissvar. Sökkvoten (3 sökningar) är förbrukad. Kommunens mötesportal är inte granskad.
 

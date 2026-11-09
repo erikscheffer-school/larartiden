@@ -4,7 +4,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 11,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ronneby": {
   "kommun": "Ronneby",
@@ -27,7 +27,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 125,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hedemora": {
   "kommun": "Hedemora",
@@ -43,7 +43,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 49,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "orsa": {
   "kommun": "Orsa",
@@ -53,14 +53,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 1239,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "rattvik": {
   "kommun": "Rättvik",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "sater": {
   "kommun": "Säter",
@@ -78,7 +78,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 329,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "alvdalen": {
   "kommun": "Älvdalen",
@@ -87,7 +87,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 232,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "gavle": {
   "kommun": "Gävle",
@@ -96,42 +96,42 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 4273,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hofors": {
   "kommun": "Hofors",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 728,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hudiksvall": {
   "kommun": "Hudiksvall",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 124,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ljusdal": {
   "kommun": "Ljusdal",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "nordanstig": {
   "kommun": "Nordanstig",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 24,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 773,
+  "datum": "2026-11-09"
  },
  "sandviken": {
   "kommun": "Sandviken",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 127,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 124,
+  "datum": "2026-11-09"
  },
  "soderhamn": {
   "kommun": "Söderhamn",
@@ -140,28 +140,28 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 15,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "halmstad": {
   "kommun": "Halmstad",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 19,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hylte": {
   "kommun": "Hylte",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 12,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 8,
+  "datum": "2026-11-09"
  },
  "laholm": {
   "kommun": "Laholm",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 268,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "varberg": {
   "kommun": "Varberg",
@@ -176,29 +176,29 @@
   "kommun": "Berg",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 392,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 350,
+  "datum": "2026-11-09"
  },
  "bracke": {
   "kommun": "Bräcke",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 21,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "harjedalen": {
   "kommun": "Härjedalen",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 125,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ragunda": {
   "kommun": "Ragunda",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 18,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "are": {
   "kommun": "Åre",
@@ -212,7 +212,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 6,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "gnosjo": {
   "kommun": "Gnosjö",
@@ -227,29 +227,29 @@
    "Politikerportal"
   ],
   "sidor": 20,
-  "dokumentlänkar": 192,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 202,
+  "datum": "2026-11-09"
  },
  "jonkoping": {
   "kommun": "Jönköping",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 7,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "mullsjo": {
   "kommun": "Mullsjö",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 78,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "nassjo": {
   "kommun": "Nässjö",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 16,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "savsjo": {
   "kommun": "Sävsjö",
@@ -263,21 +263,21 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 169,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "emmaboda": {
   "kommun": "Emmaboda",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 118,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hultsfred": {
   "kommun": "Hultsfred",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 961,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hogsby": {
   "kommun": "Högsby",
@@ -291,42 +291,42 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "morbylanga": {
   "kommun": "Mörbylånga",
   "portaler": [],
-  "sidor": 20,
-  "dokumentlänkar": 57,
-  "datum": "2026-11-08"
+  "sidor": 1,
+  "dokumentlänkar": 0,
+  "datum": "2026-11-09"
  },
  "nybro": {
   "kommun": "Nybro",
   "portaler": [],
-  "sidor": 20,
-  "dokumentlänkar": 19,
-  "datum": "2026-11-08"
+  "sidor": 1,
+  "dokumentlänkar": 0,
+  "datum": "2026-11-09"
  },
  "torsas": {
   "kommun": "Torsås",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 202,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ljungby": {
   "kommun": "Ljungby",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "uppvidinge": {
   "kommun": "Uppvidinge",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 13,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "vaxjo": {
   "kommun": "Växjö",
@@ -355,10 +355,13 @@
  },
  "boden": {
   "kommun": "Boden",
-  "portaler": [],
+  "portaler": [
+   "Ciceron",
+   "Politikerportal"
+  ],
   "sidor": 20,
-  "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 16,
+  "datum": "2026-11-09"
  },
  "gallivare": {
   "kommun": "Gällivare",
@@ -367,7 +370,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 922,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "haparanda": {
   "kommun": "Haparanda",
@@ -376,7 +379,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 91,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "jokkmokk": {
   "kommun": "Jokkmokk",
@@ -390,7 +393,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 384,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "overkalix": {
   "kommun": "Överkalix",
@@ -398,8 +401,8 @@
    "Ciceron"
   ],
   "sidor": 20,
-  "dokumentlänkar": 340,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 335,
+  "datum": "2026-11-09"
  },
  "bjuv": {
   "kommun": "Bjuv",
@@ -408,35 +411,35 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 1166,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "bastad": {
   "kommun": "Båstad",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 16,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "eslov": {
   "kommun": "Eslöv",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hassleholm": {
   "kommun": "Hässleholm",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 85,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 40,
+  "datum": "2026-11-09"
  },
  "hoganas": {
   "kommun": "Höganäs",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 5,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "klippan": {
   "kommun": "Klippan",
@@ -446,21 +449,21 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "kristianstad": {
   "kommun": "Kristianstad",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1008,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "kavlinge": {
   "kommun": "Kävlinge",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 12,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "landskrona": {
   "kommun": "Landskrona",
@@ -469,14 +472,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 38,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lomma": {
   "kommun": "Lomma",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 1,
+  "datum": "2026-11-09"
  },
  "lund": {
   "kommun": "Lund",
@@ -485,7 +488,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 12,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "osby": {
   "kommun": "Osby",
@@ -501,14 +504,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 902,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "sjobo": {
   "kommun": "Sjöbo",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1033,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "skurup": {
   "kommun": "Skurup",
@@ -531,14 +534,14 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 626,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "tomelilla": {
   "kommun": "Tomelilla",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "trelleborg": {
   "kommun": "Trelleborg",
@@ -547,28 +550,28 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 63,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "vellinge": {
   "kommun": "Vellinge",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 8,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ystad": {
   "kommun": "Ystad",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "angelholm": {
   "kommun": "Ängelholm",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 4,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "astorp": {
   "kommun": "Åstorp",
@@ -577,35 +580,35 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 4,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "orkelljunga": {
   "kommun": "Örkelljunga",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 87,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ostra-goinge": {
   "kommun": "Östra Göinge",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 345,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "botkyrka": {
   "kommun": "Botkyrka",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 2338,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ekero": {
   "kommun": "Ekerö",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 9,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "haninge": {
   "kommun": "Haninge",
@@ -615,14 +618,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 15,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "jarfalla": {
   "kommun": "Järfälla",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 1,
+  "datum": "2026-11-09"
  },
  "lidingo": {
   "kommun": "Lidingö",
@@ -631,14 +634,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "norrtalje": {
   "kommun": "Norrtälje",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 36,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "nynashamn": {
   "kommun": "Nynäshamn",
@@ -653,29 +656,29 @@
   "kommun": "Sigtuna",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 92,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 82,
+  "datum": "2026-11-09"
  },
  "sollentuna": {
   "kommun": "Sollentuna",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "sundbyberg": {
   "kommun": "Sundbyberg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 7,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "upplands-vasby": {
   "kommun": "Upplands Väsby",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 5,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "upplands-bro": {
   "kommun": "Upplands-Bro",
@@ -684,7 +687,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 1838,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "vaxholm": {
   "kommun": "Vaxholm",
@@ -698,7 +701,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 3,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "flen": {
   "kommun": "Flen",
@@ -712,7 +715,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1122,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "katrineholm": {
   "kommun": "Katrineholm",
@@ -726,21 +729,21 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 9,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "trosa": {
   "kommun": "Trosa",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 640,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "enkoping": {
   "kommun": "Enköping",
   "portaler": [],
   "sidor": 1,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "haabo": {
   "kommun": "Håbo",
@@ -749,35 +752,35 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 192,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "tierp": {
   "kommun": "Tierp",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 19,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "alvkarleby": {
   "kommun": "Älvkarleby",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 340,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "arvika": {
   "kommun": "Arvika",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 8,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "filipstad": {
   "kommun": "Filipstad",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 41,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "forshaga": {
   "kommun": "Forshaga",
@@ -791,7 +794,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 235,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hammaro": {
   "kommun": "Hammarö",
@@ -807,7 +810,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "kristinehamn": {
   "kommun": "Kristinehamn",
@@ -816,7 +819,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 8,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "munkfors": {
   "kommun": "Munkfors",
@@ -832,14 +835,14 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 158,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "saffle": {
   "kommun": "Säffle",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 717,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "torsby": {
   "kommun": "Torsby",
@@ -856,7 +859,7 @@
   "portaler": [],
   "sidor": 1,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "bjurholm": {
   "kommun": "Bjurholm",
@@ -865,14 +868,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 54,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "dorotea": {
   "kommun": "Dorotea",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lycksele": {
   "kommun": "Lycksele",
@@ -886,7 +889,7 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 776,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "robertsfors": {
   "kommun": "Robertsfors",
@@ -895,7 +898,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 530,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "skelleftea": {
   "kommun": "Skellefteå",
@@ -904,14 +907,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "storuman": {
   "kommun": "Storuman",
   "portaler": [],
-  "sidor": 1,
-  "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "sidor": 20,
+  "dokumentlänkar": 199,
+  "datum": "2026-11-09"
  },
  "vindeln": {
   "kommun": "Vindeln",
@@ -934,28 +937,28 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 41,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "kramfors": {
   "kommun": "Kramfors",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 212,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "solleftea": {
   "kommun": "Sollefteå",
   "portaler": [],
   "sidor": 1,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "sundsvall": {
   "kommun": "Sundsvall",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 46,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ange": {
   "kommun": "Ånge",
@@ -964,14 +967,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 27,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ornskoldsvik": {
   "kommun": "Örnsköldsvik",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "arboga": {
   "kommun": "Arboga",
@@ -985,21 +988,21 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 34,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "koping": {
   "kommun": "Köping",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1072,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "norberg": {
   "kommun": "Norberg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 690,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "surahammar": {
   "kommun": "Surahammar",
@@ -1008,7 +1011,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 395,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "bengtsfors": {
   "kommun": "Bengtsfors",
@@ -1026,21 +1029,21 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 73,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "boras": {
   "kommun": "Borås",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 23,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "essunga": {
   "kommun": "Essunga",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "falkoping": {
   "kommun": "Falköping",
@@ -1056,35 +1059,35 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 614,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "goteborg": {
   "kommun": "Göteborg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "herrljunga": {
   "kommun": "Herrljunga",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 22,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 23,
+  "datum": "2026-11-09"
  },
  "hjo": {
   "kommun": "Hjo",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 382,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "karlsborg": {
   "kommun": "Karlsborg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 1734,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lerum": {
   "kommun": "Lerum",
@@ -1093,21 +1096,21 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lidkoping": {
   "kommun": "Lidköping",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 4,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lilla-edet": {
   "kommun": "Lilla Edet",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 38,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lysekil": {
   "kommun": "Lysekil",
@@ -1116,7 +1119,7 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 10,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "mariestad": {
   "kommun": "Mariestad",
@@ -1125,14 +1128,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 28,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "molndal": {
   "kommun": "Mölndal",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 0,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 7,
+  "datum": "2026-11-09"
  },
  "sotenas": {
   "kommun": "Sotenäs",
@@ -1173,14 +1176,14 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 1134,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "trollhattan": {
   "kommun": "Trollhättan",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 467,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 466,
+  "datum": "2026-11-09"
  },
  "toreboda": {
   "kommun": "Töreboda",
@@ -1196,14 +1199,14 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 261,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "vargarda": {
   "kommun": "Vårgårda",
   "portaler": [],
   "sidor": 20,
-  "dokumentlänkar": 3,
-  "datum": "2026-11-08"
+  "dokumentlänkar": 4,
+  "datum": "2026-11-09"
  },
  "amal": {
   "kommun": "Åmål",
@@ -1224,14 +1227,14 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 881,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "degerfors": {
   "kommun": "Degerfors",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 12,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "hallsberg": {
   "kommun": "Hallsberg",
@@ -1254,28 +1257,28 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 2,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "laxa": {
   "kommun": "Laxå",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 87,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lekeberg": {
   "kommun": "Lekeberg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 4,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "lindesberg": {
   "kommun": "Lindesberg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 800,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ljusnarsberg": {
   "kommun": "Ljusnarsberg",
@@ -1289,14 +1292,14 @@
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 66,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "kinda": {
   "kommun": "Kinda",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 27,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "linkoping": {
   "kommun": "Linköping",
@@ -1306,36 +1309,34 @@
   ],
   "sidor": 20,
   "dokumentlänkar": 4,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "motala": {
   "kommun": "Motala",
-  "portaler": [
-   "Ciceron"
-  ],
-  "sidor": 20,
-  "dokumentlänkar": 8,
-  "datum": "2026-11-08"
+  "portaler": [],
+  "sidor": 1,
+  "dokumentlänkar": 0,
+  "datum": "2026-11-09"
  },
  "soderkoping": {
   "kommun": "Söderköping",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 9,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "ydre": {
   "kommun": "Ydre",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 24,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  },
  "atvidaberg": {
   "kommun": "Åtvidaberg",
   "portaler": [],
   "sidor": 20,
   "dokumentlänkar": 8,
-  "datum": "2026-11-08"
+  "datum": "2026-11-09"
  }
 }

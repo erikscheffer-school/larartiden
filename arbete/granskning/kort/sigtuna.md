@@ -2,7 +2,7 @@
 
 Webbplats: https://www.sigtuna.se/
 Portal: ingen känd
-Hämtade dokument: 22, hämtfel: 0
+Hämtade dokument: 33, hämtfel: 0
 Nuvarande sammanfattning: Remissvar 2025: ersättningen motsvarar inte kostnaderna; kräver full kompensation. Budget 2027 ej hittad.
 Luckor: Budget 2027 troligen KF nov 2026, ej hittad. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats.
 

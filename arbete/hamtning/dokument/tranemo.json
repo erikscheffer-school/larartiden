@@ -1,0 +1,128 @@
+[
+ {
+  "url": "https://tranemo.se/download/18.32bfb90e19d9a5d19db8a168/1777379262785/Handlingar%20KS%202026-04-29.pdf",
+  "titel": "Kallelse/underrättelse KS/2026-04-29 Tid: 2026-04-29 kl. 09:00",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4a20270c1ab65483f8e17512e2fe5ecb577a9ed17a970ae995139b2b0562feaa",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 414,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 217,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "7 kap 16 § SL Rektor/bitr. rektor skolgång efter skolpliktens slut 7 Beslut om ytterligare 9 kap 3 § SkolF Rektor undervisningstid utöver den garanterade undervisningstiden 8 Fördelning mellan årskurserna 9 kap 4 SkolF Verksamhetschef av undervisningstiden",
+    "belopp_nara": false
+   },
+   {
+    "sida": 220,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "atsförlagt lärande till motsvarande utbildning förlagd till skolan 10 Beslut om antalet 4 kap 22 § GF Rektor/bitr. rektor undervisningstimmar för varje kurs och för gymnasiearbetet samt om hur fördelningen av undervisningstiden över läsåren ska göras 11 Beslut om det antal plat",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://tranemo.se/download/18.282b2cf919c987aa26f8e9a9/1772456943089/Protokoll%20KS%202026-02-26%20-%20signerat.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Kommunstyrelsen 2026-02-26 Ordförandes sign",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "bed92444a268a4db69d145ecdac65c65dfc0dc5475894cdc6078b402edb0120e",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://tranemo.se/download/18.5eaa47619e635b4cb7eaf69/1780384528006/Regler%20f%C3%B6r%20internhyra.pdf",
+  "titel": "1 Vår ref: Tomas Appelkvist Fastighetschef Datum: 2026-04-07 Dnr: KS/2025:389",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2b5b0b5cef414fbc52c261c57c160c367bea66c14e3ca562c195a4e73186fb5b",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 9,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://tranemo.se/download/18.1f5f633d19d24ea5c3fcbad2/1774958521674/Protokoll%20KS%202026-03-26%20-signerat.pdf",
+  "titel": "SAMMANTRÄDESPROTOKOLL Kommunstyrelsen 2026-03-26 Ordförandes sign",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4adc038e99cd6148aaa7da9df9ee62ec04dc17937d820f294d4bb6ecfc767702",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://tranemo.se/download/18.398e213d19d723f5278780b9/1776059139804/Postlista%202026-04-13.pdf",
+  "titel": "Postlista 2026-04-13 07:16 Utskrivet: 2026-04-13 07:16",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "319b3e11ca4b7f2bc1c072d85bc30cffeaa4bf3c6d96773b731ea37d92532121",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://tranemo.se/download/18.3c4407a219e02d07666a15aa/1778583201947/Handlingar%20KF%202026-05-21.pdf",
+  "titel": "2026-05-11 Kungörelse",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fa1b0a5d3e2969d8b9ed9767ff83404d33950ade11a4e24dd3d80d00f689318f",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 442,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 120,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "mindre förskolorna kan försämras om vi inte säkerställer alternativa lösningar som skapar likvärdiga förutsättningar. Det handlar bland annat om tillgång till planeringstid, möjligheter till kollegialt lärande, både inom enheten och i möten med kollegor från andra förskolor, samt pedagogiskt stöd i det dagliga arbetet. Där- för ha",
+    "belopp_nara": false
+   },
+   {
+    "sida": 132,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "örigheten varierar bland förskolorna. I riket ligger behörigheten på 46% jämfört med Tranemo kommun på 47%. Andel av förskolans avdelningar som har schemalagd planeringstid enligt lokal HÖK- överenskommelse 2021 Kommentar Vid samtal med förskollärare och rektorer i samband med verksamhetsbesöket under ht-25 och i dialog med rekto",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ }
+]

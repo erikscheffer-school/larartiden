@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.bromolla.se/kommun-och-politik/kommunfakta/ekonomi-och-budget/",
+  "titel": "Ekonomi och budget - Bromölla Kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "3fcbb7315262ed43ad48fd26e14dd6bca569dd9be13b62246480a4fe08c17abd",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://skolkoll.se/kommun/bromolla/lasarstider/",
+  "titel": "Läsårstider Bromölla Läsåret 2026/2027 | Skolkoll",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "f39eb422a131727da0884fd96e2259951cf6ef05af511092e6ec1bfb68792e42",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

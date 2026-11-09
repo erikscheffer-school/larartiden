@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://kommunmannen.se/lessebo/mote/kommunstyrelsen/2026-04-07/",
+  "titel": "KS kommunstyrelsen 7 april 2026, Lessebo kommun | Kommunmannen",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "cde7eb81f33c9698cf34f20ec501e965ad652109c5c6df2e957a2c4b77eef5e4",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.lessebo.se/download/18.2ee87ccd19c47bc375b1e006/1771320252181/Bilaga%203%20-%20fr%C3%A5n%20%C3%A4rende%20SBN_2023_259%20-%20Allm%C3%A4nna%20lekplatser%20i%20Lessebo%20kommun_%20rapport%20och%20inventering.pdf",
+  "titel": "Allmänna lekplatser i Lessebo kommun Rapport och inventering Lessebo kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ff29f2eb1689085eef3cbfacd53b0e73e543c0dc57f6fd84fe3d7181b15f9285",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 17,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

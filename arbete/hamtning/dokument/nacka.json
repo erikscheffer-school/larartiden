@@ -1,0 +1,118 @@
+[
+ {
+  "url": "https://www.nacka.se/49c628/contentassets/124ca0d9937b4640b573b69cd013b77b/protokollsutdrag-kommunstyrelsen-2026-06-01-152.pdf",
+  "titel": "Stadsbyggnadsprojekt Birkaområdet",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e7467e0ea98a5c49c96c645dfee716f10675330786bb3dc50ae90fd5af8bf4aa",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 6,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.mitti.se/nyheter/klart-nacka-sanker-inte-skatten-6.3.393285.651be86583",
+  "titel": "Klart: Nacka sänker inte skatten | Mitt i",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "b367f8c2818ce78cd09359efdd219c68c4e919da209ee731a7c972678063f325",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nacka.se/",
+  "titel": "Nacka kommun - startsida (nacka.se)",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "b3fb30df2c1671a0178bb8b39499aea868f3d3b79ea871343a3ee209ea133742",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nacka.se/nyheter-start?page=64",
+  "titel": "Nyheter start | Nacka kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "aacfbe28c157c369db2d2d53364c0a2914794220534dba6e9bf8430b099af247",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nacka.se/49bd9e/globalassets/kommun-politik/dokument/ekonomi-statistik/arsredovisningar/nacka-kommun-arsredovisning-2025.pdf",
+  "titel": "Årsredovisning 2025│Nacka kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4abac103528575b1c4127f6a13e1fd24fccd6542c77ea3cd472dfe100f6e9480",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 135,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 91,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "riktade statsbidrag uppgår totalt till 24,6 (30,4) 2024. miljoner kronor. Av de upplupna riktade statsbidragen är huvuddelen hänförbara till skola 5,0 miljoner Riktade statsbidrag intäktsredovisas i tak",
+    "belopp_nara": true
+   },
+   {
+    "sida": 132,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "snämnden nu får motsvarande ersättning från nämnden för arbete och försörjning i stället för Migrationsverket. Dessa ingår i tabellen med 5,1 miljoner kronor. Statsbidraget avseende kvalitetshöjande åtgärder i förskolan fördelas mellan de förskolor som anmäler sitt intresse. Utfallet i tabellen avser de fristående anordnarna. Vä",
+    "belopp_nara": true
+   },
+   {
+    "sida": 22,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "verka i som förskole- eller skolhuvudman uppnås med 2,0 procent av kommunens skatteintäkter och god marginal, även i jämförelse med andra statsbidrag i den ordinarie verksamheten. Årets kommuner. resultat exklusive jämförelsestörande poster uppgår till 3,5 procent och är klart över uppsatt mål. Un",
+    "belopp_nara": false
+   },
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Skatteverket. Avvikelsen mot budget beror bland annat på extra statsbidrag från Socialstyrelsen för att Nacka Energi AB, Nacka vatten och avfall AB, stärka äldreomsorgen, statsbidrag från Skolverket för Centrala Nacka",
+    "belopp_nara": false
+   },
+   {
+    "sida": 130,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "0,0 Totalt 98,4 -98,4 0,0 De riktade statsbidragen Välfärd skola erhållit 2025 ligger i linje med Mål och Budget. Det riktade statsbidraget för kvalitetshöjande åtgärder i förskolan söks av utbildningsenhete",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ }
+]

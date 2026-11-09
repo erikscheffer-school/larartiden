@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://www.vadstena.se/wp-content/uploads/2026/03/samlingshandling-for-kultur-oc_2026-03-16-46421817-d433-4c60-a45c-e1292f5b2bd1.pdf",
+  "titel": "Sid 1 (3) Kultur- och utbildningsnämnden Vadstena kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2892c09ad1413a744616bedf5d606212959a7b3fc7cbc51e7c5e1dee0beadf85",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 89,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 25,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ingsnämndens utfall visar en positiv budgetavvikelse på 0,2 mnkr. En positiv utveckling ses gällande nämndens intäkter som är 6,5 mnkr högre än budget. Utökade statsbidrag till grundskola med 3,6 mnkr avseende personalförstärkande medel, akutskolor och fysiska läromedel är den främsta orsaken. Även verksamhetsområde kultur och fr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ingsplatser, vilket påverkat resultatet negativt. Grundskola Grundskolan redovisar en positiv avvikelse. Den positiva avvikelsen förklaras bland annat av högre statsbidrag än budgeterat, vilket bidragit till att stärka resultatet inom skolverksamheten totalt. Samtidigt har kommunen under året genomfört initiala investeringar kopp",
+    "belopp_nara": false
+   },
+   {
+    "sida": 39,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sanställningar, medan antalet tillsvidareanställda var relativt stabilt. Inom elevhälsan ökade personalresurserna under 2025 till följd av personalförstärkande statsbidrag. Även grundskolan har tilldelats medel för personalförstärkningar i syfte att bidra till ökad måluppfyllelse. Sammantaget bedöms utvecklingen vara i linje med",
+    "belopp_nara": false
+   },
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ia Motala kommun. 2026-02-02 KUN/2026:36 Ansökan om utvecklingsbidrag till Kfc kulturskolor - Statsbidrag läsåret 2026/2027 2026-02-03 KUN/2024:27 Beslut om att avstå från att Ordf",
+    "belopp_nara": false
+   },
+   {
+    "sida": 79,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Katarinaskolan. Enskild mot enskild. Utredning avslutad. 2026-02-12 KUN/2026:53 Ansökan om statsbidrag för Fc språkstärkande insatser skollov 2026. 2026-02-12 KUN",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 15
+ },
+ {
+  "url": "https://kommunmannen.se/vadstena/mote/kommunstyrelsen/2026-05-11",
+  "titel": "Kommunstyrelsen 11 maj 2026, Vadstena kommun | Kommunmannen",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "fee6a4508b1939137a63edf77dc7fa019f647d6f71627b212c384c9d3f5050e2",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.vadstena.se/wp-content/uploads/2026/03/kallelse-och-handlingar-sn-17-mars.pdf",
+  "titel": "Sid 1 (3) Socialnämnden Vadstena kommun",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fd14e4fb05dce2515a744e5beaa4a3ef3056d1fd26f5fb65c396132b72818962",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 258,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

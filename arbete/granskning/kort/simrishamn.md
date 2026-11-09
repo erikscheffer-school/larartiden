@@ -2,7 +2,7 @@
 
 Webbplats: https://www.simrishamn.se/
 Portal: Netpublicator
-Hämtade dokument: 13, hämtfel: 2
+Hämtade dokument: 24, hämtfel: 2
 Nuvarande sammanfattning: Simrishamn har en flerårig 'Budget 2026–2030'. BUN:s kallelse 2026-06-16 har ärendet 'Budget 2027 - Resultatbudget', men handlingen gick inte att granska. Reformen nämns inte i de granskade kallelserna.
 Luckor: Själva budgetdokumentet 'Budget 2026-2030' och underlaget till BUN:s ärende 'Budget 2027 - Resultatbudget' hittades inte. Det är oklart om KF ska fatta ett separat beslut om budget 2027 hösten 2026.
 

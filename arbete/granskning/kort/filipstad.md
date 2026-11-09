@@ -2,19 +2,54 @@
 
 Webbplats: https://www.filipstad.se/
 Portal: ingen känd
-Hämtade dokument: 26, hämtfel: 0
+Hämtade dokument: 37, hämtfel: 0
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Sökträffarna var en SVT-artikel från 2020 och statistik från Ekonomifakta.
 Luckor: Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). filipstad.se:s budget- och protokollsidor kom inte fram i sökresultaten.
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### BUN Kallelse 2026-03-17.pdf
 
-Senast daterade hämtade dokument:
+https://www.filipstad.se/download/18.6cd60c9119ccda70b0788c1d/1773134996039/BUN%20Kallelse%202026-03-17.pdf
 
-- Handlingar för möte Kommunstyrelsen den 2026-10-28.pdf – https://www.filipstad.se/download/18.2e1886f51a1630625f24ca8a/1793007295788/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-10-28.pdf
-- Handlingar för möte Kommunfullmäktige den 2026-10-22.pdf – https://www.filipstad.se/download/18.41a846ac1a12f57717e3f75b/1792586495980/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-10-22.pdf
-- Kallelse BUN 2026-10-20.pdf – https://www.filipstad.se/download/18.35e8f85f1a12f8f6ccb12d74/1791882031757/Kallelse%20BUN%202026-10-20.pdf
-- Handlingar för möte Kommunstyrelsens arbetsutskott den 2026-10-19.pdf – https://www.filipstad.se/download/18.5d88d8301a12f7ed2b03e586/1792068681597/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsens%20arbetsutskott%20den%202026-10-19.pdf
-- Handlingar för möte Kommunstyrelsen den 2026-09-30.pdf – https://www.filipstad.se/download/18.3a25d6681a0e05f9095a7ed2/1790663686583/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsen%20den%202026-09-30.pdf
-- Handlingar för möte Kommunstyrelsens arbetsutskott den 2026-09-21.pdf – https://www.filipstad.se/download/18.3df894431a0a7787ba32fe8b/1789569868008/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsens%20arbetsutskott%20den%202026-09-21.pdf
-- Handlingar för möte Kommunstyrelsens teknikutskott den 2026-09-21.pdf – https://www.filipstad.se/download/18.3df894431a0a7787ba32ff88/1789569936650/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsens%20teknikutskott%20den%202026-09-21.pdf
-- Handlingar för möte Kommunfullmäktige den 2026-09-17.pdf – https://www.filipstad.se/download/18.206b6b661a0862d704749099/1789642487438/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-09-17.pdf
+Sidor: 2. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+KALLELSE /UNDERRÄTTELSE 1 (1)
+Datum
+2026 - 03 - 10
+Till ledamöter
+Ersättare för kännedom
+Barn- och utbildningsnämnden
+Tid: tisdagen den 17 mars 2026 klockan 09:00
+Plats: Bröderna Ericssonrummet, kommunhuset Filipstad
+Ärende
+Upprop, val av justerare, fastställande av dagordning
+1 Prioriteringar budget 2027 - 2030
+Dnr 2026 - 000022
+2 Körkortsundervisning Spångbergsgymnasiet
+Dnr 2025 - 000072
+3 Redovisning delegationsbeslut
+Dnr 2026 - 000002
+4 Anmälningsärenden
+Dnr 2026 - 000001
+5 Förvaltningschefen informerar
+Dnr 2026 - 000003
+Patrik Fornander
+O rdförande
+```
+
+**Rader om budget och 2027**
+
+- s. 1: 1 Prioriteringar budget 2027 - 2030
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (2 sidor).

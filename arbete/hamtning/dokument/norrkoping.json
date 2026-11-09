@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://norrkoping.se/nyheter/nyheter/2026-05-19-kvartetten-prioriterar-trygghet-civil-beredskap-aldreomsorg-och-ett-nytt-badhus-for-2027",
+  "titel": "Kvartetten prioriterar trygghet, civil beredskap, äldreomsorg och ett nytt badhus för 2027 - Norrköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "d51615384673f783a46ec4dfc084c330ad145076edeac56aac41c31e7e6b9ddf",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "eomsorgen så det finns rätt kompetens i verksamheterna genom att ta bort sparkravet på vård- och omsorgsnämnden och säkerställa ett bättre nyttjande av riktade statsbidrag. När det gäller civil beredskap ställer det säkerhetspolitiska läget högre krav på oss och vi gör nu satsningar som innebär att våra verksamheter ska kunna stä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://diariet.norrkoping.se/api/files/2347685/2347685_15_1.PDF?meeting=1994049",
+  "titel": "Postadress E-post Norrköpings kommun norrkoping.kommun@norrkoping.se",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ffc0e36cba42e2bc716753901776feddb363966cf3e6528868ee3c52eeeaf814",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://norrkoping.se/kommun-och-politik/om-norrkoping/ekonomi-fakturor-och-budget/arsredovisning",
+  "titel": "Årsredovisning - Norrköpings kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "0fe8809dfe42e14344c79bd449aa18d6672c7a5dd4aeccfa9ecac657cd0d40eb",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nt.se/debatt/artikel/vi-i-kvartetten-starker-norrkoping-i-oroliga-tider/jo5n0eql",
+  "titel": "DEBATT: Vi i Kvartetten stärker Norrköping i oroliga tider",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "6551946387a8af64f35fa0224c61d78ac1712ab087254510e10dd2a3afea7956",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nt.se/debatt/artikel/skolor-pa-landsbygden-maste-fa-kosta-mer/r5102dwj",
+  "titel": "DEBATT: Skolor på landsbygden måste få kosta mer",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "bee44a33a2b46fd55bb217614e260f6fa8bbdd075457f31e3a653ffd06588dd8",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

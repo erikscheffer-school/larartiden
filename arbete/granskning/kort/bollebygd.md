@@ -2,19 +2,79 @@
 
 Webbplats: https://www.bollebygd.se/
 Portal: Politikerportal
-Hämtade dokument: 23, hämtfel: 0
+Hämtade dokument: 34, hämtfel: 0
 Nuvarande sammanfattning: Bara äldre flerårsbudgetar hittades, senast Mål och budget 2025-2027 (antagen 2024-11-21). Ingen handling för budget 2027-2029 hittades. Mönstret tyder på KF-beslut i november, men det är inte verifierat för 2026.
 Luckor: Dokumentet 2025-2027 lästes inte i detalj, eftersom det föregår propositionen och nämner_reformen=false är antaget. Budget 2026-2028 och budget 2027-2029 hittades inte, inte heller mötesportal eller KF-protokoll 2026. Planerat KF-datum för budget 2027 är okänt (troligen november).
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### Protokoll 2026-08-24 pdf, 328 kB.
 
-Senast daterade hämtade dokument:
+https://www.bollebygd.se/download/18.102fad941a042078b0e4d35/1788173505689/Protokoll%20BMN%202026-08-24.pdf
 
-- Kallelse 2026-11-02 pdf, 140 kB. – https://www.bollebygd.se/download/18.600f38101a16318310951aa/1793006301020/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden2026-11-02%20maskad.pdf
-- Mötespunkt 5: Informationspunkt DOM från MÖD, BMN-2024-377 pdf, 843 kB. – https://www.bollebygd.se/download/18.600f38101a1631831095189/1793006081010/BMN-2024-377-86-SVEA%20HOVR%C3%84TT%20Mark-%20och%20milj%C3%B6%C3%B6verdomstolen%20DOM%202026-10-07%20Stockholm%20M%C3%A5l%20nr%20P%2012137-25%20(1)_Bortredigerad.pdf
-- Protokoll 2026-09-28 pdf, 424 kB. – https://www.bollebygd.se/download/18.6cc7ad9c1a0f7dece0621cc/1791189267454/_Protokoll%20BMN%202026-09-28%20-%20maskad.pdf
-- Kallelse 2026-09-28 pdf, 132 kB. – https://www.bollebygd.se/download/18.b273f861a0f7d8cff3875/1790943728767/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden%202026-09-28(3).pdf
-- Kallelse 2026-06-17 pdf, 154 kB. – https://www.bollebygd.se/download/18.281d9b4a19eb482ffff11a92/1781513569913/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden,%202026-06-17.pdf
-- Kallelse 2026-05-11 pdf, 149 kB. – https://www.bollebygd.se/download/18.281d9b4a19eb482ffff11a90/1781513569855/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden%202026-05-11.pdf
-- Kallelse 2026-04-07 pdf, 150 kB. – https://www.bollebygd.se/download/18.281d9b4a19eb482ffff11a8f/1781513569825/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden%202026-04-07.pdf
-- Kallelse 2026-03-02 pdf, 138 kB. – https://www.bollebygd.se/download/18.281d9b4a19eb482ffff11a8e/1781513569797/%C3%84rendelista%20-%20kallelse%20Bygg-%20och%20milj%C3%B6n%C3%A4mnden%202026-03-02.pdf
+Sidor: 29. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+SAMMANTRÄDESPROTOKOLL
+Bygg- och miljönämnden 2026-08-24
+Sida 1(28)
+Plats och tid Bollebygdskolan, stora mötesrummet kl. 13:00-15:00
+Ledamöter Jonny Svensson (S) (Ordförande)
+Rune Kennborn (KD) (Vice ordförande)
+Göran Augustsson (M) § 73 - 75, 77 - 86 Sören Rasmussen (SD)
+Fredrik Lind (SD) ersätter Madeleine Söderlund (FR)
+Bobbo Bolin (S)
+Anders Ejserholm (M) ersätter Oscar Sjöö (M)
+Malin Klar (MP) § 76 ersätter Göran Augustsson (M) på grund av jäv
+Ersättare Malin Klar (MP) § 73 - 75, 77 - 86
+Tomas Ridell (V)
+Övriga närvarande Annika Nyberg, Tf förvaltningschef
+Amanda Gelotte, Administrativ handläggare
+Malin Olsson, Miljöinspektör § 73
+Martin Lindberg, Miljöinspektör § 74
+Erika Eliasson, Samhällsplanerare § 75
+Lotta Wiberg, Bygglovshandläggare § 76 - 77
+Robin Levin, Miljöinspektör § 78
+Utses att justera Rune Kennborn
+Justeringens plats och tid 2026-08-31 kl. 09:30
+Paragrafer § 76 - 86
+Underskrifter Sekreterare:
+Amanda Gelotte
+Ordförande:
+Jonny Svensson
+Justerande:
+Rune Kennborn
+ANSLAGSBEVIS
+```
+
+**Rader om budget och 2027**
+
+- s. 19: Kommunstyrelsen har beslutat att skicka förslag till lokalresursplan 2027–2036 på remiss till
+- s. 19: Bygg- och miljönämnden ställer sig bakom förslaget till lokalresursplan 2027-2036. Planen ger en
+- s. 20: - §98 KS Lokalresursplan 2027–2036 (beslut om remiss)
+- s. 20: - Lokalresursplan 2027–2036 (remissversion)
+- s. 20: - Tjänsteskrivelse, Lokalresursplan 2027–2036, daterad 2026-06-01 (BMN-2026-419-3)
+- s. 21: §81 Beslut- Budgetunderlag 2027-2029 för Bygg-och miljönämnden
+- s. 21: ”Budgetunderlag 2027-2029 för Bygg och miljönämnden”.
+- s. 21: ”Budgetunderlag 2027-2029 för Bygg och miljönämnden”.
+- s. 22: - Tjänsteskrivelse Budgetunderlag 2027–2029 för Bygg- och miljönämnden BMN 2026–
+- s. 22: - Rapport Budgetunderlag 2027–2029 för Bygg- och miljönämnden BMN 2026–527
+
+**Beslut och förslag**
+
+- s. 19: Kommunstyrelsen har beslutat att skicka förslag till lokalresursplan 2027–2036 på remiss till
+- s. 19: Bygg- och miljönämnden ställer sig bakom förslaget till lokalresursplan 2027-2036. Planen ger en
+- s. 20: - §98 KS Lokalresursplan 2027–2036 (beslut om remiss)
+- s. 21: §81 Beslut- Budgetunderlag 2027-2029 för Bygg-och miljönämnden
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 8: §77 Flässjum 13:1 – Bygglov skola, miljöhus med förråd samt murar
+- s. 10: Fasad- & plansektionsritning, skolbyggnad 2026-06-24 BMN-2026-372-29, 30, 31
+- s. 10: Sektionsritning, skolbyggnad 2026-04-24 BMN-2026-372-6
+- s. 11: Sektionsritning, skolbyggnad 2026-04-24 BMN-2026-372-6
+- s. 11: Barnkonsekvensanalys från utbildningsförvaltningen 2026-05-13 BMN-2026-372-26
+
+**Reformorden**
+
+- Inga reformord i hela texten (29 sidor).

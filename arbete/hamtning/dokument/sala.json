@@ -1,0 +1,68 @@
+[
+ {
+  "url": "https://www.sala.se/resources//files/_Nystruktur/Ekonomi/Budget%20-%20strategisk%20plan/Budget%202026%20Plan%202027-2029%20-%20rev.pdf",
+  "titel": "Budget 2026 Strategisk plan 2027–2029 KOMMUNFULLMÄKTIGE Antagen 2025-06-16",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "70ccd18fa01b46ef44c545dc55c445987d50664f5ddd188bd0115cb78e535147",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 61,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 40,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "40 (60) Budget 2026 Plan 2027–2029 Kommunfullmäktige villkor för friskolesektorn men även regleringar på nya områden som lärares arbetstid och en nationell skolpengsnorm. Syftet är att höja kvaliteten och stärka likvärdigheten inom skolväsendet, men de innebär också h",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.sala.se/resources/files/_Nystruktur/Styrdokument/07%20Riktlinjer/Riktlinje%20f%C3%B6r%20insatser%20utan%20individuell%20behovspr%C3%B6vning.pdf",
+  "titel": "insatser utan individuell behovsprövning SALA KOMMUN Vård och omsorg",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5677c8b096363b3c54576a1bbc5ec744833ef9b069c1812bf8b2a7745c1787c8",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 26,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.sala.se/resources/files//_Nystruktur/Protokoll-kallelser/Politisk%20organisation/Kommunstyrelsen/2026/2026-05-05//Kallelse%20med%20handlingar%20KS%202026-05-05.pdf",
+  "titel": "Kommunstyrelsen KALLELSE Kallelse till sammanträde Organ Kommunstyrelsen Plats",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2ea48653c8f33216877ec1b4116851f02e524fb6a0e7ff4c65fdb2cc4e9bb735",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 874,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 532,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "öljd av vakanta tjänster (+0,7 mnkr) samt bland annat minskade hyreskostnader. Förskola: +0,7 mnkr. Ökade intäkter i och med genomförd inkomstkontroll samt för statsbidrag (+2,4 mnkr) som bl a ska täcka intäktsbortfall för barnomsorgsavgifter som följd av sänkta avgifter för hushållen. Kostnaderna för interkommunala ersättningar",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ }
+]

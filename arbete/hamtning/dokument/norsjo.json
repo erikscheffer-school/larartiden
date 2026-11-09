@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://norsjo.se/wp-content/uploads/2026/04/protokoll-260330.pdf",
+  "titel": "NORSJÖ KOMMUN PROTOKOLL 1(48) Kommunfullmäktige 2026-03-30",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "fa70de34f7ce11a9c5b5878bb346cdc5cafd26d253fcd76e5fac9d9efcdf1a81",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://norsjo.se/wp-content/uploads/2026/03/01-kallelse.pdf",
+  "titel": "NORSJÖ KOMMUN KALLELSE /UNDERRÄTTELSE Kommunstyrelsen Sammanträdesdatum 1",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "ae578ce21062321df1aa7eac3093b3f3711d2702df8322c3c374b9747a55e21f",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

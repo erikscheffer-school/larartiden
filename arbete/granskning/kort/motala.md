@@ -1,7 +1,7 @@
 # Motala (Östergötlands län)
 
 Webbplats: https://www.motala.se/
-Portal: Ciceron
+Portal: ingen känd
 Hämtade dokument: 12, hämtfel: 1
 Nuvarande sammanfattning: Bara Vänsterpartiets budgetanförande i KF 2026-08-17 hittades. Där nämns skolan och lärarnas belastning, men inte undervisningstid eller statsbidrag. Själva budgetdokumentet har inte granskats.
 Luckor: Motala kommuns budgetdokument för 2027, KF-protokollet från 2026-08-17 och BUN:s underlag hittades inte innan sökgränsen nåddes. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats.

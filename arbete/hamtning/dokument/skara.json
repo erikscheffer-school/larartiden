@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.skara.se/kommunochpolitik/kommunfakta/ekonomiochbudget/budget.2015.html",
+  "titel": "Budget - Skara kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "5baec6097b7c62210405baa59863a614b60fb60b0e74cbfa07762adce477ea27",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skaraborgslanstidning.se/skara/farre-mal-och-mer-koll-sa-vill-skarakoalitionen-spara-miljoner",
+  "titel": "Färre mål och mer koll – så vill Skarakoalitionen spara miljoner – SkLT",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "1ba364e3cebd6e0afa6033826c08c79d12884875236c5201cf5b03f641653c97",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.skaraborgslanstidning.se/skara/sa-vill-oppositionen-styra-skaras-pengar-om-de-vinner-valet",
+  "titel": "Så vill oppositionen styra Skaras pengar – om de vinner valet – SkLT",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "75ae141aa9a4782128f0bfe2ef85b4d6dfa15d256ce0cc813ad8c3a7ddf94631",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

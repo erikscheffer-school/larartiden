@@ -2,7 +2,7 @@
 
 Webbplats: https://www.nordmaling.se/
 Portal: ingen känd
-Hämtade dokument: 28, hämtfel: 0
+Hämtade dokument: 39, hämtfel: 0
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. Sökningarna gav bara träffar på ekonomifakta och andra kommuner.
 Luckor: Tre sökningar gav varken kommunens budgetsida, mötesportal eller KF-protokoll för 2026. Inget i Nordmaling har granskats.
 

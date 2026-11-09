@@ -1,0 +1,65 @@
+[
+ {
+  "url": "https://eda.se/Userfiles/Filarkiv/958/%C3%85rsredovisning/2024.pdf",
+  "titel": "Eda kommun Årsredovisning 2024",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "fbb2770ec9e4d9591a001c12d226b92baa40c4f24301bd097af9189d81a083d0",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 88,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 3,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "I tabellen nedan lämnas en översikt över verksamhetens utveckling. Det redovisade resultatet för 2024, -19,9 mkr, är mycket svagt. Skatteintäkter och generella statsbidrag har ökat under året, däremot har kostnaderna inom skola och vård fortsatt ökat, samt att kostnaden för pensioner varit fortsatt hög under året. Utförligare kom",
+    "belopp_nara": true
+   },
+   {
+    "sida": 12,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t gentemot budget på 4,9 mkr. Främsta orsakerna till detta är lägre kostnader än budgeterat för interkommunal ersättning och skolskjuts, effektivt nyttjande av statsbidrag, effektiv vikarieanskaffning under höstterminen samt att vissa tjänster som var budgeterade från tidig höst först har utlysts eller tillsatts närmare årsskifte",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://eda.se/UserFiles/Filarkiv/842/Kommunstyrelsen/2026/2026-04-01.pdf",
+  "titel": "Kommunstyrelsens protokoll 2026-04-01",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "e9da5202ac84bebf84492c1bbeffc35f4e00f2ff5a64ca5ee40f7b62d7c54fc7",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://eda.se/UserFiles/Filarkiv/842/Kommunfullm%C3%A4ktige/2026/2026-04-22.pdf",
+  "titel": "Kommunfullmäktiges sammanträdesprotokoll",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8e430519bb80613fd9734e859509d45a0892d944d44d85b98cf79dfe3ff2c9e9",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

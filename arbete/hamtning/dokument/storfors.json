@@ -1,5 +1,117 @@
 [
  {
+  "url": "https://www.storfors.se/download/18.2d3c60ba19c47958171baeeb/1771337379903/Protokoll%20KF%202026-02-10.pdf",
+  "titel": "Protokoll KF 2026-02-10.pdf\nPdf, 4.1 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ca312223b0c992883d710b3e33a8ababd2980a1284103904bab3218dd8721dd4",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 36,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.406c7f661a01f42c273dba6/1787394578031/Kallelse%20KS%202026-08-28.pdf",
+  "titel": "Kallelse KS 2026-08-28.pdf\nPdf, 44.2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5203f080dca8947d9931a5320813d124e11f296f7953d4016cf869ef28dc1493",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 534,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 231,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "eller inte har förutsättningar att tillgodogöra sig undervisningen. Eleven kan dock få börja studera igen om det finns särskilda skäl och ryms inom den totala undervisningstiden. En elev kan överklaga beslut gällande förlängning av studietiden till Skolväsendets överklagandenämnd. Har en elev varit frånvarande mer än tre veckor i föl",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.storfors.se/download/18.6b6d7bf19ed44ea63d9ddc8/1782734377455/Kallelse%20KS%202026-07-03%20Extra.pdf",
+  "titel": "Kallelse KS 2026-07-03 Extra.pdf\nPdf, 147.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "56b3fa4db6893c8ea4c5adadc2644c14d18d4c91e7332100a632b30caebd1da5",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.4524525f19e63383b9ac9d90/1780949283061/Kallelse%20Extra-KS%202026-06-15.pdf",
+  "titel": "Kallelse Extra-KS 2026-06-15.pdf\nPdf, 15.6 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "50584e1ece3852beb5da456e9a4353520c0ee951d69610b0f11d27973f61f9da",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 154,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storfors.se/download/18.198659aa19cff7339b0747c4/1774281189147/Kallelse%20Extra-KS%202026-03-30%20inkl.%20%C3%A5rsredovisning.pdf",
+  "titel": "Kallelse Extra-KS 2026-03-30 inkl. årsredovisning.pdf\nPdf, 20.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "871647296a45ceaa6761f438a3f4e2ed73a0e960036b320ae01383f17092aa66",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 76,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "altjänsten har också fått ett utökat ansvar för brottsförebyggande arbete. Diskussioner har under året förts gällande regeringens ambition att reglera lärarnas undervisningstid, vilket kan komma att få ekonomiska konsekvenser. I övrigt finns inga lagstiftningsförändringar, förändringar i huvudmannaskap eller liknande som i hög grad på",
+    "belopp_nara": false
+   },
+   {
+    "sida": 18,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "rbetet gällande skolfrånvaron, som ökat de senaste åren, är ett fokusområde. Utredningen visar också att Storfors har goda strukturella förutsättningar som hög lärartäthet, många legitimerade lärare och små undervisningsgrupper. Dessutom pekar utredarna på gott kollegialt klimat och en stor vilja och stort engagemang bland person",
+    "belopp_nara": false
+   },
+   {
+    "sida": 70,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "nader för externa placeringar och vikarier. • Ny socialtjänstlag från 1 juli 2025 kräver resurser för förebyggande arbete. • Skolverksamheten har hög lärartäthet och legitimerade lärare, men utmaningar kvarstår kring skolfrånvaro och måluppfyllelse. Extern genomlysning pekar på behov av stärkt styrning. K",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
   "url": "https://www.storfors.se/download/18.7f2b93d61a0ad9794b672bfe/1790319696193/Protokoll%20KF%202026-09-17.pdf",
   "titel": "Protokoll KF 2026-09-17.pdf\nPdf, 3.5 MB, öppnas i nytt fönster.",
   "typ": "pdf",

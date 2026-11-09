@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://burlov.se/download/18.617318719b2c04fa42b4ea6/1768292760558/Burl%C3%B6vstidningen%20nr%204-2025.pdf",
+  "titel": "Burlövstidningen nr 4-2025.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0601928c9e5e801519002f5c8669129c688db1e9e7cb2ad6af2f4dcfe973c7b4",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://burlov.se/download/18.617318719b2c04fa42ca2a1/1768567606721/Granskningshandling_planbeskrivning_251223.pdf",
+  "titel": "Detaljplan för del av Åkarp 23:27",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "64fd620bb1dc77bdb14e5bda5a38799846aaf0307c2f006af77a6214f19eca20",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

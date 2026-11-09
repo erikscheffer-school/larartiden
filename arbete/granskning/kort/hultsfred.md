@@ -2,7 +2,7 @@
 
 Webbplats: https://www.hultsfred.se/
 Portal: ingen känd
-Hämtade dokument: 32, hämtfel: 0
+Hämtade dokument: 43, hämtfel: 0
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 eller beslutsdatum hittades i sökningarna (endast äldre KS-protokoll från 2023).
 Luckor: Tre sökningar gav inga 2027-handlingar från hultsfred.se. Sökbudgeten (delad) tog slut innan budgetsida/mötesportal kunde letas upp. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens protokoll 2026-09-30 (information om reformen, § 85), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

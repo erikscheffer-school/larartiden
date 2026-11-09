@@ -1,0 +1,121 @@
+[
+ {
+  "url": "https://www.svedala.se/contentassets/c40af4370b014daebe371d7faa561e34/protokoll-2026/protokoll-fran-kommunfullmaktige-11-februari-2026-signerat.pdf",
+  "titel": "1(38) KOMMUNFULLMÄKTIGE PROTOKOLL Sammanträdesdatum: 2026-02-11",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "17b7f2418ae7b6d6ab2325edfb1008eacd75c03c983565e48c32886b5d5629c8",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svedala.se/paverka/nyheter/2026/juni/budget-2027/",
+  "titel": "Svedala antar budget för 2027 med satsningar och stärkt resultat - Svedala kommun",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "8dd5676f7701abe4127c2b693cbaa0ff89b9714cbe0c42b78dea7da6cb4e06ee",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 1,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "adiet ska 3,2 miljoner kronor läggas på resurser som säkrar att alla barn kommer in skolan på rätt sätt. Grundskolorna får ytterligare fem miljoner för att öka lärartätheten, och det sker också en satsning på att köpa in fler fysiska skolböcker. Förutom mer frukt i skolorna ska även toaletterna städas oftare. Samverkan mellan sko",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.svedala.se/contentassets/971686a0edb9432d91998fe3f6004462/protokoll-2026/protokoll-kommunstyrelsen-2026-01-26-ta-med-protokollsanteckning.pdf",
+  "titel": "1(48) KOMMUNSTYRELSEN PROTOKOLL Sammanträdesdatum: 2026-01-26",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1d1517f98c4b3aedeb8def9b9d82196831b54fa62f26607ebe7d25cc4f739d7c",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 50,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svedala.se/globalassets/anslagstavla-logg/namnder/2026/februari/protokoll-bygg--och-miljonamnden-2026-02-26/protokoll-bygg--och-miljonamnden_2026-02-26.pdf",
+  "titel": "1(16) BYGG- OCH MILJÖNÄMNDEN PROTOKOLL Sammanträdesdatum: 2026-02- 26",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a296723793f2783a474b57c5fb4914d61714bdf876e2958392cc1646b7c89156",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 15,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svedala.se/contentassets/881e889461ae4c4d88be68c82493cf6d/arende-10.pdf",
+  "titel": "SVEDALA KOMMUN Kommunrevisionen SAMMANTRÄDESPROTOKOLL Sida Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a76509eb592f9dd9ed0f3182185d99426ab9a1e3e6a6cb509dab1e3d15cd7fa4",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.svedala.se/contentassets/c27d6212c114437a858616024610432e/arende-9.pdf",
+  "titel": "UPPGIFTER FÖR CIRKULÄRDATABASEN Cirkulärnr: 26:17 Diarienr: SKR2026/00899",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "49019bde1aea232aaad34e6a0de547292dc9573ca6032ae88054a3cd2532202e",
+  "sökning": 2,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 154,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 9,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "ska bidra till ökad läsmotivation och läsförståelse. Utökad läxhjälp Regeringen föreslår att statsbidraget för läxhjälp och annat skolarbete utanför ordinarie undervisningstid förstärks med 50 miljoner kronor för",
+    "belopp_nara": true
+   },
+   {
+    "sida": 10,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "t lyckas i skolan och livet, med fokus på att ingen elev ska lämnas efter. SKR vill betona vikten av långsiktighet och goda planeringsförutsättningar, och att statsbidrag utformas så att kommuner och skolhuvudmän får förutsättningar att planera och använda resurser effektivt. Att satsningar som språkfrukost och utökad läxhjälp r",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ }
+]

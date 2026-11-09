@@ -1,5 +1,190 @@
 [
  {
+  "url": "https://mariestad.se/download/18.62a2f59194d86996af8974/1739805775269/Handlingar%20Kommunfullm%C3%A4ktige%202025-02-24.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-02-24.pdf\nPdf, 16 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0c6d6ea12806c9dd5dcf2bd6655363a1ef7bf95c5d663afda1382b1e683dba56",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 177,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.1500c014195b2427ef015f8/1742564743158/Handlingar%20Kommunfullm%C3%A4ktige%202025-03-31.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-03-31.pdf\nPdf, 10.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "069af7a4cb7f7bf2769d417a6dca77def51f42bd76706ea26d88330959b50cc4",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 164,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 78,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "att god ekonomisk hushållning ej uppnås. .................................................... 4 2.2 Risk att medel för verksamheten saknas om riktade statsbidrag inte söks. .......... 4 2.3 Risk att utbildningsnämndens årshjul och kvalitetsuppföljning inte följs ................ 5 2.4 Risk att andel",
+    "belopp_nara": false
+   },
+   {
+    "sida": 80,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Utan avvikelse Kommentar Helår 2024 Kontroll att riktade statsbidrag söks Utbildningsnämnden Manuell uppföljning av aviserade statsbidrag. Riktade statsbidrag annonseras via Skolverkets",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://mariestad.se/download/18.47faa9c01961de75aab7d14/1744898053625/Handlingar%20Kommunfullm%C3%A4ktige%20den%202025-04-28.pdf",
+  "titel": "Handlingar Kommunfullmäktige den 2025-04-28.pdf\nPdf, 27.2 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "22f66aad7cf761dcf74ca5751e3da1d0b5947c8135dc7c91c5e969d95daf9c76",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 544,
+  "nämner_reformen": true,
+  "ord": [
+   "lärares arbetstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 212,
+    "ord": "lärares arbetstid",
+    "reform": true,
+    "utdrag": "g på grund av låga födelsetal inom både förskola och grundskola, samt beredskap för lagförändringar inom skollag bl.a. gällande skolsäkerhet, skolbibliotek och lärares arbetstid. Sida: 47 (87)",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://mariestad.se/download/18.2c1a1d3d196c3af6237402f/1747318875754/Handlingar%20Kommunfullm%C3%A4ktige%202025-05-26.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-05-26.pdf\nPdf, 40.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2596ebacf84e227b727ad4497686844d02780cd28280b639d035fdbd30e9b5ec",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 547,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.73f1fd34196f64fe92d131c8/1749624849776/Handlingar%20Kommunfullm%C3%A4ktige%202025-06-16.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-06-16.pdf\nPdf, 31.4 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0cc5359e7f0b3bad8b7141e9d3847cb2348460e14de00d6f5ce6360f72fb5961",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 361,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 91,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sen. Osäkerhetsfaktorerna är avsatta medel för tilläggsbelopp och elever i behov av särskilt stöd som kommer till hösten från förskolan. Inkluderat finns sökta statsbidrag varav ett antal ännu ej är beviljade, som tidigare år beviljats, resultatet kan påverka årsbokslutet. Även gällande skolskjuts råder osäkerhet med anledning av",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://mariestad.se/download/18.3c1b985619936f97e139b9e/1758553023975/Handlingar%20Kommunfullm%C3%A4ktige%202025-09-29.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-09-29.pdf\nPdf, 12.5 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2c3aa627433bc3cb8b4f9e9c59b6873948dbbf3b0e9425377720a8b8687c2352",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 149,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.f2d4ddb199c913a4dfa5b9/1760968498604/Handlingar%20Kommunfullm%C3%A4ktige%20%202025-10-27.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-10-27.pdf\nPdf, 43 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ade61870412a75fe12c60fa2c5914c87864e4ab910748e22a70be41bd0974dba",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 633,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 317,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "änglig för fler under dagtid. Söka medfinansiering Som en generell regel i allt budgetarbete ska vi alltid söka medfinansiering, vilket kan inkludera riktade statsbidrag. Vår grundprincip är att minska nämndens budget med samma belopp som vi erhåller i medfinansiering. Detta kommer att stärka kommunens ekonomiska resultat och s",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://mariestad.se/download/18.219b13c119a7bb0aa053bd1/1763390864626/Handlingar%20kommunfullm%C3%A4ktige%202025-11-24.pdf",
+  "titel": "Handlingar kommunfullmäktige 2025-11-24.pdf\nPdf, 15.9 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "09b9523f41541af9b956259c3cdb4d214fa89a29150d937e0c6c07056b8b8705",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 191,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://mariestad.se/download/18.7e66671419afcc85c543b6/1765206880658/Handlingar%20Kommunfullm%C3%A4ktige%202025-12-15.pdf",
+  "titel": "Handlingar Kommunfullmäktige 2025-12-15.pdf\nPdf, 16 MB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f6de9e47f17b0303f03c1bf8db939cb537555c60a7f10835a3a5b66aaf6997d3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 203,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://mariestad.se/download/18.13d975e31a12f7e7d3378fb/1792417110203/Kommunfullm%C3%A4ktiges%20handlingar%202026-10-26.pdf",
   "titel": "Kommunfullmäktiges handlingar 2026-10-26.pdf\nPdf, 17.1 MB.",
   "typ": "pdf",

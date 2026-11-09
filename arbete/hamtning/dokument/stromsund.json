@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.stromsund.se/download/18.5578663319c8d622b5c4521/1772049118262/KF_2026-02-25%20%C2%A7%C2%A7%201-11.pdf",
+  "titel": "Sammanträdesprotokoll kommunfullmäktige den 25 februari 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "321eebe15ee38c832091269c1562aa8430b6582600536765a1d54d82111e6598",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.stromsund.se/download/18.5578663319c8d622b5c43f64/1773843815751/BKUN%202026-03-12%20%C2%A7%2018-35.pdf",
+  "titel": "- Strömsunds ...._, Kommun - - 51rnc:j111ic.-.1 ljfdlc • 1(30)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "762972207e130296b8dc21745772b26d388f9aed36f4152ff4986f02bd51df51",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 125,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ".. Kommun .nc;-\" Slracjmk'n ljidlc Fastställd Diarienummer BKUN.2026.6 Grundskola 1-6 Plusresultat på 1 380 tkr beror på ökat statsbidrag och att det är god kontroll på personalkostnader. Grundskola åk 7-9 Positivt resultat på 1 484 tusen kronor som härrör från ökade statsbidrag och kostnadskon",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.stromsund.se/download/18.7e6dcdec19d1d94049d2d088/1775834904052/SNAU%202026-04-08%20%C2%A743-56.pdf",
+  "titel": "Sammanträdesprotokoll A socialnämndens arbetsutskott den 8 april 2026",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "1512f25be546aeced97fae5517d22c91e24db7061db13639fccacd209898f29a",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 30,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.finspang.se/
 Portal: ingen känd
-Hämtade dokument: 25, hämtfel: 1
+Hämtade dokument: 35, hämtfel: 2
 Nuvarande sammanfattning: Inga handlingar om strategisk plan och budget 2027 hittades. Enligt årsredovisningen i KF-kallelsen 2026-04-23 beslutar KF strategisk plan och budget i november inför varje verksamhetsår. Reformen nämns inte.
 Luckor: Budgetsidan (ekonomi-budget-och-resultat) gick inte att hämta, eftersom URL:en inte fanns på allowlist. Majoritetens och oppositionens förslag 2027, nämndunderlag och KF-datum i nov 2026 är inte granskade.
 

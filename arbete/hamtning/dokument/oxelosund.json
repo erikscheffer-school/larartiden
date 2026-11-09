@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://www.oxelosund.se/download/18.68d8913919b355c84d6a907e/1768228448946/Kallelse%20ksau%202026_01_19.pdf",
+  "titel": "Ärenden till kommunstyrelsen 2026-01-28, start 8.30, heldag. Tid och plats:",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "f8ced83788aa7b5dff2444a1032b76b0ba8079fd10a4b6829de4c2ab4c2c14de",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 83,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.oxelosund.se/download/18.3b42f08f19d8664d74714b1b/1776334861254/Kallelse%20KFN%202026-04-23.pdf",
+  "titel": "Kallelse KFN 2026-04-23.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "97731b56258f429889ae9d0d2834a0de8b743b3ae526e9f252069fdcd8f5826a",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 46,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.oxelosund.se/download/18.57cb980119c89199aeb643ea/1773058549678/Protokoll%20VN%202026-02-27.pdf",
+  "titel": "Sammanträdesprotokoll Blad 1 (22) Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6809ddadfb7fe5ed0e711de6a6a5917535322bd975b9ffcd51c4af53b27ec1f0",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 24,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.oxelosund.se/download/18.14b888ff19e62e0ae7d38eb9/1780483663277/Kf_2026_06_10.pdf",
+  "titel": "och fritidsnämnden 3. De",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a29355fa34e5395a4241aa89d60075b92629d9a21e672c28662ad3e1bb1a54f3",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": true,
+  "sidor": 328,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 59,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "minära ekonomiska ramar och mål  Investeringssatsningar Befolkning – demografi Befolkningsutvecklingen är viktig för kommunen eftersom skatteintäkter, statsbidrag och kostnader grundas på detta. Folkmängden har tidigare utvecklats positivt vilket har skapat underlag för att planera och genomföra investeringar i den samhä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.oxelosund.se/download/18.40a6a04219c88fbf4241029/1771837777162/Kallelse%20Valn%C3%A4mnden%202026-02-27.pdf",
+  "titel": "Nr Ärendemening 1 Val av ständig justerare valåret 2026 ...",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "70a80dfde4b9ead1bcecf5c1be05ed408ba4fadd23613323e1107c7cfc345323",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 23,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

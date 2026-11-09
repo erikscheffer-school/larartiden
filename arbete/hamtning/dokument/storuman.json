@@ -1,5 +1,277 @@
 [
  {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2025-10-27-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "51e7dc26975d622997345a08cdea7585951d19041b67786fdb3fd85eb94895a5",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 14,
+    "ord": "planeringstid",
+    "reform": false,
+    "utdrag": "ssningar utifrån minskade barnkullar samt utveckling av gemensamma strukturer för kvalitetsarbete och planeringstid. Beslutsunderlag Utbildningsstrateg Malin Lindbergs tjänsteutlåtande 2025-10-02",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2025-09-22-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "5b0278f2a973f7600f33d98a6a0c3d07b105e05037ce1b1b7f219c3deaa3740d",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "FKUN/2025:61 Redovisning av garanterad undervisningstid Varje elev ska ha garanterats 6890 h undervisningstid innan de lämnar åk 9. Tiden fördelas mellan olika ämnen och stadier i den nationellt be- slutade",
+    "belopp_nara": false
+   },
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lårsrapport2025 och verksamhetsplan. FKUN/ 2025:70 Skolverkets beslut om fördelning av statsbidrag med anledning av in- ställda digitala nationell prov, våren 2025 med en summa på 20 270kr Förslag till",
+    "belopp_nara": true
+   },
+   {
+    "sida": 2,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "KUN/2025:11) ............................................................................................................ 13 § 64 - Redovisning av garanterad undervisningstid (FKUN/2025:61) .................................... 15 § 65 - Skolpliktsbevakning våren 25, april-juni, (nr:2) (FKUN/2025:37) ..............................",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 12
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/protokoll-fkun_2025-05-26-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "2dd475ba0824a1d8a70098715dbfade89aa83c21f0c0c500311969332f10bdcd",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "skolans basresurs, se nedan. Inte heller tilldelning av fjärrhandledare och vissa resurser som finansieras av statsbidrag tas upp i samman- ställningen ovan. Sammantaget är det alltid ett komplext arbete att färdigstä",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/protokoll-fkun_2025-04-07-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9bb1ca32b8fc19ec6a7f6bf6de56a1d911cc2a08b7b02a8440e607641778f89a",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 33,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/protokoll-fkun_2025-02-24-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "ca8e6bb072572645795a8451569290d7fb3e6c674b706d5883a446befb32c0fc",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2024-12-16-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "be7e0c7c6c6a0faf4db84e4633be24f6fb8c3b0b3aa375e5ba06a04b36c78e9e",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Nya avgiftsnivåer för maxtaxa inom förskola och fritids- hem Skolverket fastställer slutligt statsbidrag för kommande bidragsår un- der januari månad varje år. Statsbidraget betalas ut under förutsättning",
+    "belopp_nara": false
+   },
+   {
+    "sida": 24,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "följning inkluderas giltig frånvaro, ogiltig frånvaro och försenings- minuter. Om frånvaron överstiger 10% av undervisningstiden eller på något annat sätt avviker ska frånvaron utredas, om detta ej är uppenbart obehövligt.",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2024-11-18-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "13bdcfdbe072c6f1a2b980d05f872c37ee569a2ef9714e2532f63fe38a424512",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 22,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2024-09-30-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "a9604e60f9bd2992ad0eaed84211e4c9c45410f88ebd44cdd6dbf814ba029c2f",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": true,
+  "ord": [
+   "undervisningstid"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 20,
+    "ord": "undervisningstid",
+    "reform": true,
+    "utdrag": "KUN/2024:62 – 610 Redovisning av garanterad undervisningstid Varje elev ska ha garanterats 6890 h undervisningstid innan de lämnar åk 9. Tiden fördelas mellan olika ämnen och stadier i den nationellt beslutade timp",
+    "belopp_nara": false
+   },
+   {
+    "sida": 21,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "i likhet med vt-23. Kriterierna för simkunskap är sedan de samma i årskurs 9. Utöver den ordinarie undervisningstiden erbjuds elever i åk 4–9 minst 2 h extra studietid efter den ordinarie skoldagen (lagstadgad verksam-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 9
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2024-05-27-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8abfc4bb88e720cee9a97932b673f88f7e2daad1554d81f054bc0403a37f752e",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 12,
+    "ord": "undervisningstimmar",
+    "reform": false,
+    "utdrag": "assad grundskola Elever som går i anpassade grundskolan har rätt till ett minsta antal garanterade undervisningstimmar. Timplanen beskriver hur undervis- ningstimmarna ska fördelas mellan ämnen och ämnesområden. De fr",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-signerat.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c6619c0dc7e91ce21d77d0116652119553ffc54f03814a3a6ae9ceb9a6807dbe",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 14,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 8,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Fritids-, kultur-, och utbildningsnämnden har ett flertal projekt där merparten finansieras av Skolverket i form av riktade statsbidrag. De flesta projekt är fortsättning från tidigare år där det går att söka nya pengar. För några av p",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.storuman.se/globalassets/fkun/protokoll-fkun_2024-02-26.pdf",
+  "titel": "Protokoll (alla öppnas i nytt fönster) 2026 2026-10-26 2026-09-21 2026-05-25 2026-02-23 2025 2025-12-15 2025-10-27 2025-09-22 2025-05-26 2025-04-07 20",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7b62967a8bf6445c48dd556f2672a6be37d48132d167b998462830e9d6cec2b3",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 30,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "tygskriterierna i samiska FKUN/2024:14 Skolverket, beslut om fastställande av bidragsram gällande statsbidrag till kommuner som tillämpar maxtaxa inom förskola och fritidshem 2024 FKUN/2024:16",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.storuman.se/contentassets/0f6e8cf14f1145a6beb7837dde27f3b8/protokoll-ofn-260121.pdf",
   "titel": "Överförmyndarnämnd i södra Lappland",
   "typ": "pdf",

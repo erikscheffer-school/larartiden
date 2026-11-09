@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://eksjo.se/download/18.1c7bdf2d199e59b572e6d825/1768918394805/Kommunstyrelsens%20utskotts%20protokoll%202026-01-13.pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande SAMMANTRÄDESPROTOKOLL Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3b8e5bb438482de0287195339fa2ea020d6b969d89296a97f5342afa812ec459",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://kommunkartan.se/karta/eksjo-kommun/423242/",
+  "titel": "Budget 2027–2028 och verksamhetsplan 2029 | Eksjö 2026",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "793045a95bc932a04086ddd90baa7d5e762a27f5ce058cd6aef4d002aec1d168",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://eksjo.se/download/18.3f10b43619cd5b2675250c/1773137312847/Barn-%20och%20utbildningsn%C3%A4mndens%20protokoll%202026-03-05.pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande SAMMANTRÄDESPROTOKOLL Sammanträdesdatum",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "524469d75ea023c8dfc301a3f7bc5268349d592d7d790f0cbcb38a3db14089e2",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 26,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Barn- och utbildningsnämnden beslutar att följande ärende anmäls. Ärendebeskrivning Statsbidrag för omsorg under tid då förskola eller fritidshem inte erbjuds 2026 Samverkansprotokoll - Förskola 2026-",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://kommunkartan.se/karta/eksjo-kommun/321332/",
+  "titel": "Förskoleklass läsåret 2025/2026 - information | Eksjö 2026",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "f805cf78568e2b0564df80604bc977e947fabf2dd67e71a17a59f01af067b29e",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]

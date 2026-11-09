@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ulricehamn.se/
 Portal: ingen känd
-Hämtade dokument: 20, hämtfel: 1
+Hämtade dokument: 30, hämtfel: 1
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Budget 2026 med ekonomisk plan 2027–2028 nämner inte reformen, och inte heller KF-handlingarna 2026-03-26.
 Luckor: Hittade inga budgetförslag 2027 och inget datum för KF-beslutet. Partiernas budgetförslag har tidigare år publicerats i november, så beslut i nov–dec 2026 är troligt men inte verifierat. Hittade inget remissvar på SOU 2025:26 (regeringen.se-träffen gällde promemorian Bättre anpassad undervisningstid, 2023). Den automatiska hämtningen 2026-11-07 hittade reformorden i kommunstyrelsens handlingar augusti–oktober 2026 (sektorns resursfördelningsmodeller och skolinformation), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

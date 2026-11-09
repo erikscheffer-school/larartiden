@@ -1,5 +1,217 @@
 [
  {
+  "url": "https://finspang.se/download/18.20b63b00197a2045f6926556/1751008301447/2025-06-19%20Protokoll%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 19 juni 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "7e0b6b54a5c92a8c1b19cf7b3440b649c398dd499a442e5248ba84e4c1cc10b1",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 41,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.596fb02519618d61647b9b18/1745567332707/2025-04-30%20Kallelse%20med%20handlingar%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 30 april 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "10a1ca0cfa192fd5c7189639b0a3acec723730b131111e1dd0207b11e7822240",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 334,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 145,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "4,7 mnkr lägre personalkostnader än skott på 4,3 mnkr. Kostnaden för köp av för- budgeterat. Ett statsbidrag som sökts har skoleplatser är 2 mnkr högre då fler barn än kunnat finansiera inköp av läromedel",
+    "belopp_nara": true
+   },
+   {
+    "sida": 146,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "lse med budget. Samtidigt ningen förbättrar sitt resultat med 1,7 mnkr då har försäljning av studiehandledning och vissa ett statsbidrag blivit högre än tidigare beräk- bidrag blivit högre än beräknat. Grundskolan nat. har förbättrat sig med 3,2 mnkr till största Kostnads- o",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://finspang.se/download/18.1e7a73a1969f8a2a4c709b4/1747127830439/2025-04-30%20Protokoll%20%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 30 april 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9493dfaeb44cdd749ebcdd20165d9ed033362695b92758e2a0f032c6a7c6db8a",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 43,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.44744fa619540bbc92db8bd0/1741683186674/2025-03-19%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 19 mars 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "505c3693e77b422e1e9403209ea76779610870873c9b8d71f935bf5c3380bade",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 57,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.47c215441969f626fc9ea5ff/1747726113814/2025-03-19%20Protokoll%20Kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 19 mars 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "9b6bf915aac16c07c32e82adc3c18a920786e31612fdf80113faa20e06f2cc2c",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.2134425619453966042c6064/1737992704557/2025-02-05%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 5 februari 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "3b7fbfd5eb42df8e3b9f1d95bb471b275148786ed4b74c1071574acdaae19295",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 95,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.58bd56a2194d334271859f90/1739265982497/2025-02-05%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 5 februari 2025 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "85f5835c2a0c5aae66825d56d4c4161912634b428308c82fb7ddcdcede647736",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 37,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.62901b6519395c99d5737eaa/1734430068709/2024-12-11%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 11 december 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "cb0cbb1aa368baaea0bb9a9833ebb1937537c42cc0c24d9a9bf4b02cc7e19246",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 32,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://finspang.se/download/18.53f8d100192b792fecb6ba5c/1731330783607/2024-11-20%20Kallelse%20med%20handlingar%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Kallelse med handlingar till kommunfullmäktiges möte 20 november 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "0b106e83990781feee37b8a48ec934cae28cead529c52a924c68b52b9048e867",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 216,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 4,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Att från och med 2025 avsätta medel med 0,7 miljoner kronor för åtgärder skolsociala team (gängkriminalitet). Medel avsätts som komplement till statsbidrag för området och används om statsbidraget erhålls. Anslag till kommungemensamma kostnader. 29. Att från och med 2025 avsätta medel med 15,4miljoner",
+    "belopp_nara": true
+   },
+   {
+    "sida": 9,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "gäller det kommunala ansvaret i näringslivsfrågor och avsätter därför 0,9 mnkr för en sådan tjänst. Vi väljer att satsa 0,75 mnkr som vår motfinansiering till statsbidrag för skolsociala team. Detta för att förbättra samverkan mellan skola och socialtjänst i skolan i det förebyggande arbetet att tidigare kunna fånga upp barn som",
+    "belopp_nara": true
+   },
+   {
+    "sida": 46,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "sociala team kronor utifrån nästa års löneöversyn. I budgeten finns avsatta (gängkriminalitet). Medel avsätts som komplement till statsbidrag för medel för lokalpool, omplacering och rehabilitering, området och används om statsbidraget erhålls. ledarutvecklings",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
+  "url": "https://finspang.se/download/18.7162ab641936a32d811e7f/1732701129119/2024-11-20%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
+  "titel": "Protokoll från kommunfullmäktiges möte 20 november 2024 (pdf)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "d5cf9135a2eeadeb5553b0a7200d27d188d3722a9bd0e5106e3f22553047b013",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 34,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 11,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": ". Att från och med 2025 avsätta medel med 0,7 miljoner kronor för åtgärder skolsociala team (gängkriminalitet). Medel avsätts som komplement till statsbidrag för området och används om statsbidraget erhålls. Anslag till kommungemensamma kostnader. 29. Att från och med 2025 avsätta medel med 15,4miljoner kr",
+    "belopp_nara": true
+   },
+   {
+    "sida": 13,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "läggningar. 29. Att från och med 2025 avsätta medel med 0,7 miljoner kronor för åtgärder skolsociala team (gängkriminalitet). Medel avsätts som komplement till statsbidrag för området och används om statsbidraget erhålls. Anslag till kommungemensamma kostnader. Justerandes signatur Utdra",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
   "url": "https://finspang.se/download/18.2e0b11019c47c6ffeeb4e70/1771343203030/2026-02-11%20Protokoll%20kommunfullm%C3%A4ktige.pdf",
   "titel": "Protokoll från kommunfullmäktiges möte 11 februari (pdf)",
   "typ": "pdf",

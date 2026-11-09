@@ -1,5 +1,131 @@
 [
  {
+  "url": "https://www.ydre.se/download/18.2f4ee9f618fe7b0135619e9/1717784246488/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-06-17.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-06-17",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "6a115138a19ccd70d6783f426d1c8dbc3aa9bbe76840bb2c19072ac33a26aa52",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 399,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 339,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "Bevaras Evolution/Närarkiv KS/BoU Kan ingå i skolkatalog Nej Undervisningstid Bevaras Evolution/Närarkiv KS/BoU",
+    "belopp_nara": false
+   },
+   {
+    "sida": 340,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Elevpedagogisk verksamhet Ansökan statsbidrag frivillig lovskola Bevaras Evolution KS/BoU Kan hanteras som 2.5.2",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
+  "url": "https://www.ydre.se/download/18.58c798631917870aba333d3/1724666069882/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-09-02.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-09-02",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c5d186a576b9ff37647648ae569d5a0dcb258a36304d2839f470209a1ba231db",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.7808912719197500aedbae0/1725895746790/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-09-09.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-09-09",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "4943622502a98f501e72acba572b61b7b4994c5240d2ba0b5a3b639796e152e5",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.2d8dc976191e4f08e349d26/1727083918132/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-09-30.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-09-30",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "d3e995d011403fbe2198e286aa297e8ab4063d8fa6ce440212edf6360fe8cfbe",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 101,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ydre.se/download/18.7140c9c7192711cf93c8f9a/1729244590424/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-10-28.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-10-28",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "8988cd31023307d5dc12e288ce6ee1a5fb37c7fcee36e713ad1f5ad592fa79fe",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 250,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 15,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "iotek med utbildade skolbibliotekarier vilket kräver samverkan och högre kostnader. Det kommer enlig uppgift finnas möjlighet till att söka statsbidrag under ett par år. • Det finns ett stort behov av att skapa anpassade lokaler för skolbibliotek. • Resor till simhall för de elever som inte kan",
+    "belopp_nara": false
+   },
+   {
+    "sida": 97,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Nyheter från Rådet för Kommunal redovisning 97 Statsbidrag från Socialstyrelsen och Skolverket Det har även kommit besked om ett statsbidrag Under juni har det kommit besked om två statsbidrag från från Sk",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 5
+ },
+ {
+  "url": "https://www.ydre.se/download/18.79136937193decd7dd2def/1734688715461/Kallelse%20med%20f%C3%B6rslag%20till%20beslut%20kf%202024-12-16.pdf",
+  "titel": "Kallelse med förslag till beslut kf 2024-12-16",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "237b9bf4fd99ef973be2efb2c40050f9eb999d4fb2d7a555f4b92c464d9bd71a",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 318,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ydre.se/download/18.7cb052ad182e93dee7ed67e/1664787044437/Kallelse%20Kf%202022-09-26.pdf",
   "titel": "Kallelse Kf 2022-09-26",
   "typ": "pdf",

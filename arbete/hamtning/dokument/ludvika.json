@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://www.ludvika.se/download/18.6406ec719c47c50e221e0dd/1771441708585/Social-och-utbildningsnamnden-2026-02-25-Kallelse-handlingar.pdf",
+  "titel": "Ludvika kommun Hemsida www.ludvika.se E-post info@ludvika.se Organisationsnr",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "841c9516df00c31745975d29cddc802f1b13cac0c137a068e4fce7cc81c75b6a",
+  "sökning": 1,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 129,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 123,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "r jämställs sammanboende med eller utan gemensamma barn. Taxesystemet i Sverige är uppbyggt med maxtaxa ”Förordningen (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskola, pedagogisk omsorg och fritidshem”. Avgiften beräknas på procentsats av hushållet",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.nyaludvikatidning.se/opinion/debatt/ludvika-ska-vara-en-bra-kommun-for-barn-och-unga",
+  "titel": "Ludvika ska vara en bra kommun för barn och unga – Nya Ludvika Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "6dfc0c1390d7c273443268f86158222c30f9e49fb974e35424503c964fab3ac1",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ludvika.se/download/18.52c1773a19b2beaf73b7918d/1769005828877/Social-och-utbildningsnamnden-2026-01-28-Kallelse-handlingar.pdf",
+  "titel": "Ludvika kommun Hemsida www.ludvika.se E-post info@ludvika.se Organisationsnr",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "94a3d62df2cd6b35d77665b7d37675740167e0fa83f96aeb84bcb6058c883471",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ludvika.se/download/18.52c1773a19b2beaf73b98cbf/1769686154770/Von-2026-01-26-protokoll-paragraf-1-14.pdf",
+  "titel": "Justerandes sign Utdragsbestyrkande SAMMANTRÄDESPROTOKOLL Sida 1(2)",
+  "typ": "pdf",
+  "hämtad": "2026-11-09",
+  "sha256": "c6bef0c9b27dc9498d57910a6eb95505d490f2b6a953c0d7a75dd27dfc9b6bf4",
+  "sökning": 1,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 28,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.nyaludvikatidning.se/smedjebacken/kommunfullmaktige-overens-om-var-pengarna-ska-satsas",
+  "titel": "Kommunfullmäktige överens om var pengarna ska satsas – Nya Ludvika Tidning",
+  "typ": "html",
+  "hämtad": "2026-11-09",
+  "sha256": "84c67c7d72e386121dd088020943ffb2422d47e2deb414c7ccedf91e9a6c17fe",
+  "sökning": 2,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 1,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ }
+]
