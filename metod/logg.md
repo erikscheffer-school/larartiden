@@ -10,10 +10,9 @@ Resultatet blev versionen [f770d18](https://github.com/erikscheffer-school/larar
 
 ### 6 november 2026, kl. 07.43
 
-> Här är anon key: sb_publishable_wjad3LeuLWyZJ4fejKLbkw_kbgIRLDZ
-> Här är Supabaseprojektets URL:
-> https://rrfiyxqmjwvmsraotigy.supabase.co
-> Här är repots namn: erikscheffer-school/larartiden
+> Här är anon key: X
+> Här är Supabaseprojektets URL: X
+> Här är repots namn: X
 
 Claude hämtade repot och såg att uppgifterna redan låg i `assets/config.js`. Ingen ändring gjordes. (Nyckeln är den publika nyckel som är avsedd att synas på webbsidor.)
 
