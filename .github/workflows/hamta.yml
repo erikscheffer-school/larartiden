@@ -117,6 +117,7 @@ jobs:
       - name: 1d. Mötessidor, KF/KS-datum och aktuella kallelser
         if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true')
         continue-on-error: true
+        timeout-minutes: 90
         env:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: python3 verktyg/hamta/motessidor.py --max-sok 120

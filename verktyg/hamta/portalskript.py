@@ -265,7 +265,12 @@ async def documentweb(context, start, logg=print, fran="2026-08-15", max_dok=12)
         return []
     page = await context.new_page()
     adresser = []
-    page.on("request", lambda req: adresser.append(req.url) if "/api/download/" in req.url else None)
+
+    def vid_anrop(req):
+        if "/api/download/" in req.url:
+            adresser.append(req.url)
+    # Dokumentet öppnas ofta i en ny flik: lyssna på hela webbläsarkontexten.
+    context.on("request", vid_anrop)
     try:
         for _, mapp, namn, titel in kandidater:
             await page.goto(f"{bas}/?folderId={mapp}", wait_until="networkidle", timeout=40_000)
@@ -277,7 +282,11 @@ async def documentweb(context, start, logg=print, fran="2026-08-15", max_dok=12)
                 continue
             if len(adresser) > n0:
                 ut.append({"url": adresser[n0], "titel": titel, "beskrivning": titel})
+            for flik in context.pages:
+                if flik is not page and "/api/download/" in flik.url:
+                    await flik.close()
     finally:
+        context.remove_listener("request", vid_anrop)
         await page.close()
     logg(f"    DocumentWeb {start}: {len(kandidater)} aktuella dokument, {len(ut)} adresser")
     return ut
