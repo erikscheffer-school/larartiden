@@ -2,35 +2,596 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  66  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott  Kallelser, protokoll och mötestider för kommunstyrelsens arbetsutskott | Hässleholms kommun
+ 66  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige  Mötestider, kallelser och protokoll för kommunfullmäktige | Hässleholms kommun
+ 66  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen  Kallelser, protokoll och mötestider för kommunstyrelsen | Hässleholms kommun
+ 66  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/protokoll-och-motestider-kommunstyrelsens-personalutskott  Protokoll och mötestider kommunstyrelsens personalutskott | Hässleholms kommun
  65  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott.printable  Kallelser, protokoll och mötestider för kommunstyrelsens arbetsutskott | Hässleholms kommun
- 61  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder/kultur--och-fritidsnamnden/kallelser-protokoll-och-motestider-for-kultur--och-fritidsnamnden  Kallelser, protokoll och mötestider för kultur- och fritidsnämnden | Hässleholms kommun
- 20  https://www.hassleholm.se/kommun-och-politik  Kommun och politik | Hässleholms kommun
+ 65  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige.printable  Mötestider, kallelser och protokoll för kommunfullmäktige | Hässleholms kommun
+ 65  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen.printable  Kallelser, protokoll och mötestider för kommunstyrelsen | Hässleholms kommun
+ 65  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/protokoll-och-motestider-kommunstyrelsens-personalutskott.printable  Protokoll och mötestider kommunstyrelsens personalutskott | Hässleholms kommun
+ 61  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder/arbetsmarknadsnamnden/kallelse-protokoll-och-motestider-for-arbetsmarknadsnamnden  Kallelse, protokoll och mötestider för arbetsmarknadsnämnden | Hässleholms kommun
+ 61  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder/arbetsmarknadsnamnden/kallelse-protokoll-och-motestider-for-arbetsmarknadsnamndens-arbetsutskott  Kallelse, protokoll och mötestider för arbetsmarknadsnämndens arbetsutskott | Hässleholms kommun
+ 61  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder/barn--och-utbildningsnamnden/kallelser-protokoll-och-motestider-for-barn--och-utbildningsnamnden  Kallelser, protokoll och mötestider för barn- och utbildningsnämnden | Hässleholms kommun
+ 40  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/protokoll-och-motestider-for-kommunstyrelsens-it-utskott  Protokoll och mötestider för kommunstyrelsens IT-utskott | Hässleholms kommun
+ 28  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/protokoll-och-motestider-for-kommunstyrelsens-it-utskott.printable  Protokoll och mötestider för kommunstyrelsens IT-utskott | Hässleholms kommun
+ 19  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder/barn--och-utbildningsnamnden/kallelser-protokoll-och-motestider-for-barn--och-utbildningsnamndens-arbetsutskott  Kallelser, protokoll och mötestider för barn- och utbildningsnämndens arbetsutskott | Hässleholms kommun
+ 17  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen  Kommunstyrelsen | Hässleholms kommun
  16  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige  Kommunfullmäktige | Hässleholms kommun
  14  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/prenumerera-pa-kallelser-och-protokoll  Prenumerera på kallelser och protokoll | Hässleholms kommun
-  8  https://www.hassleholm.se/  Hässleholms kommun
-  8  https://www.hassleholm.se/?s=kallelse+kommunfullm%C3%A4ktige  Hässleholms kommun
+ 14  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen.printable  Kommunstyrelsen | Hässleholms kommun
+ 13  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider  Kallelser, protokoll och mötestider | Hässleholms kommun
+ 11  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.printable  Kommunfullmäktige | Hässleholms kommun
+ 10  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/prenumerera-pa-kallelser-och-protokoll.printable  Prenumerera på kallelser och protokoll | Hässleholms kommun
   8  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun/tv-och-radio-fran-kommunfullmaktige  TV och radio från kommunfullmäktige | Hässleholms kommun
-  6  https://www.hassleholm.se/alla-nyheter/nyheter/2026-10-26-styrets-budgetforslag-med-fokus-pa-utveckling-och-ekonomiskt-ansvar  Styrets budgetförslag med fokus på utveckling och ekonomiskt ansvar | Hässleholms kommun
-  5  https://www.hassleholm.se/alla-nyheter/nyheter/2026-10-26-styrets-budgetforslag-med-fokus-pa-utveckling-och-ekonomiskt-ansvar.printable  Styrets budgetförslag med fokus på utveckling och ekonomiskt ansvar | Hässleholms kommun
+  5  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun/tv-och-radio-fran-kommunfullmaktige.printable  TV och radio från kommunfullmäktige | Hässleholms kommun
   3  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/sok-i-aldre-kallelser-och-protokoll  Sök i äldre kallelser och protokoll | Hässleholms kommun
-  2  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-11-05-relaxavdelningen-pa-osterasbadet-tillfalligt-stangd  Relaxavdelningen på Österåsbadet tillfälligt stängd | Hässleholms kommun
-  2  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-29-avstangt-korfalt-hovdalavagen  Avstängt körfält, Hovdalavägen | Hässleholms kommun
-  2  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-07-cykelrensning-vid-hassleholm-c  Cykelrensning vid Hässleholm C | Hässleholms kommun
-  2  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-09-15-vintergatan-delvis-avstangd  Vintergatan delvis avstängd | Hässleholms kommun
-  1  https://www.hassleholm.se/alla-nyheter/nyheter/2026-11-05-bengt-andreasson-ar-arets-nyckelperson-inom-friluftsliv-i-skane  Bengt Andreasson är Årets nyckelperson inom friluftsliv i Skåne | Hässleholms kommun
-  1  https://www.hassleholm.se/alla-nyheter/nyheter/2026-11-02-en-vecka-fri-fran-vald  En vecka fri från våld | Hässleholms kommun
-  1  https://www.hassleholm.se/alla-nyheter/nyheter/2026-10-28-fortsatt-hogt-engagemang-hos-kommunens-medarbetare  Fortsatt högt engagemang hos kommunens medarbetare | Hässleholms kommun
-  1  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-23-gang--och-cykelvag-avstangd-jarnvagsgatan  Gång- och cykelväg avstängd, Järnvägsgatan | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-nyheter/nyheter/2026-11-05-bengt-andreasson-ar-arets-nyckelperson-inom-friluftsliv-i-skane.printable  Bengt Andreasson är Årets nyckelperson inom friluftsliv i Skåne | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-nyheter/nyheter/2026-11-02-en-vecka-fri-fran-vald.printable  En vecka fri från våld | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-nyheter/nyheter/2026-10-28-fortsatt-hogt-engagemang-hos-kommunens-medarbetare.printable  Fortsatt högt engagemang hos kommunens medarbetare | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-11-05-relaxavdelningen-pa-osterasbadet-tillfalligt-stangd.printable  Relaxavdelningen på Österåsbadet tillfälligt stängd | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-29-avstangt-korfalt-hovdalavagen.printable  Avstängt körfält, Hovdalavägen | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-23-gang--och-cykelvag-avstangd-jarnvagsgatan.printable  Gång- och cykelväg avstängd, Järnvägsgatan | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-10-07-cykelrensning-vid-hassleholm-c.printable  Cykelrensning vid Hässleholm C | Hässleholms kommun
-  0  https://www.hassleholm.se/alla-servicemeddelanden/servicemeddelanden/2026-09-15-vintergatan-delvis-avstangd.printable  Vintergatan delvis avstängd | Hässleholms kommun
+
+Länkar på https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott:
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelserprotokollochmotestiderforkommunstyrelsensarbetsutskott | Gå till innehåll
+  https://www.hassleholm.se/ | Tillbaka till startsidan
+  https://etjanster.hassleholm.se/ | Självservice
+  https://www.hassleholm.se/kommun-och-politik/kontakt | Kontakt
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#hhk-search-panel | Sök
+  https://www.hassleholm.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://www.hassleholm.se/omsorg-och-stod | Omsorg och stöd
+  https://www.hassleholm.se/uppleva-och-gora | Uppleva och göra
+  https://www.hassleholm.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://www.hassleholm.se/trafik-och-gator | Trafik och gator
+  https://www.hassleholm.se/naringsliv-och-foretag | Näringsliv och företag
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/val-2026 | Val 2026
+  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun | Så styrs Hässleholms kommun
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/sa-har-ar-kommunen-organiserad | Så här är kommunen organiserad
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunalrad | Kommunalråd
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/revisorer-kommunrevision | Revisorer, kommunrevision
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://www.hassleholm.se/kommun-och-politik/kommunens-ekonomi-och-budget | Kommunens ekonomi och budget
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider | Kallelser, protokoll och mötestider
+  https://hassleholm.tromanpublik.se/ | Kontakta din politiker
+  https://www.hassleholm.se/kommun-och-politik/fakta-om-hassleholm | Fakta om Hässleholm
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka | Så kan du påverka
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://www.hassleholm.se/kommun-och-politik/gifta-sig-borgerligt | Gifta sig borgerligt
+  https://www.hassleholm.se/kommun-och-politik/samhallsskydd-och-beredskap | Samhällsskydd och beredskap
+  https://www.hassleholm.se/kommun-och-politik/arkiv-och-allmanna-handlingar | Arkiv och allmänna handlingar
+  https://www.hassleholm.se/anslagstavla | Anslagstavla
+  https://www.hassleholm.se/kommun-och-politik/folkomrostning-den-14-december-2025 | Folkomröstning den 14 december 2025
+  https://www.hassleholm.se/system/other-languages | Other languages
+  https://www.hassleholm.se/ | Start
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7610&lang=sv_se&readclass=readspeaker-read-field&url=https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott | Lyssna
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#hhkMobileTocList | Innehåll på sidan
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelsermedhandlingar | Kallelser med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-71376914-4f8b-48ea-b876-36f55b5a1991 | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-d22d1fae-87ac-4db0-9973-1530fd67cfdf | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-4ee3fb8f-5d43-434b-8754-bfc4ad42de7f | 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-e645fada-c719-40ae-b44f-3bca713175e8 | 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-f836cc74-5f18-45a1-9d53-1b9cc0355396 | 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-809e74d5-c2be-43cc-b54e-fbb5f48397e7 | 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kommunstyrelsensarbetsutskottsammantradesdagar2026 | Kommunstyrelsens arbetsutskott sammanträdesdagar 2026
+  https://diariet.hassleholm.se/#!/search/?t=1&i=Kommunstyrelsens%20arbetsutskott | Kommunstyrelsens arbesturskott, kallelser och protokoll (länk till annan webbplats)
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/sok-i-aldre-kallelser-och-protokoll | Sök i äldre kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_53d86c2c193ded57d675ef4a | Kallelser 2025
+  https://www.hassleholm.se/download/18.6af9918199c8c6a9813ccd8/1761054544313/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-10-22.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-10-22.pdf Pdf, 189.6 kB.
+  https://www.hassleholm.se/download/18.4a503f71199138e52e51d80/1757495251567/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-09-10.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-09-10.pdf Pdf, 14.9 MB.
+  https://www.hassleholm.se/download/18.5a2576a71989770bfca1831f/1755154536429/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-08-20.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-08-20.pdf Pdf, 64 MB.
+  https://www.hassleholm.se/download/18.7f6ff76919758265b2cdf64/1750242259338/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-06-17.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-06-17.pdf Pdf, 1.2 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022344b46d/1749108534855/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-06-11.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-06-11.pdf Pdf, 16.1 MB.
+  https://www.hassleholm.se/download/18.6ea331ab196ee47d1ef5e13/1747838424122/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-05-27.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-05-27.pdf Pdf, 9.2 MB.
+  https://www.hassleholm.se/download/18.75f794cf1969f534bc4f585/1747061685813/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-05-14.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-05-14.pdf Pdf, 11.5 MB.
+  https://www.hassleholm.se/download/18.5f23dee419613aad3ee61b2f/1744872255917/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-04-23.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-04-23.pdf Pdf, 17.1 MB.
+  https://www.hassleholm.se/download/18.8e957311953b85f947821db/1742365171607/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-03-19.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-03-19.pdf Pdf, 24.7 MB.
+  https://www.hassleholm.se/download/18.38425803194cdfd8e8f178b2/1738837672930/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-02-12.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-02-12.pdf Pdf, 28.4 MB.
+  https://www.hassleholm.se/download/18.3690b42c193dec9211aaaddc/1736410018108/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-01-15.pdf | Kommunstyrelsens arbetsutskotts kallelse 2025-01-15.pdf Pdf, 5.9 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_1b0ec0be18c8ac915f35a902 | Kallelser 2024
+  https://www.hassleholm.se/download/18.4190ebff1931f3a827d44ce6/1732185394464/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-11-27.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-11-27.pdf Pdf, 13.6 MB.
+  https://www.hassleholm.se/download/18.1f07c55192b26cc62062c64/1730362383562/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-11-06.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-11-06.pdf Pdf, 13.2 MB.
+  https://www.hassleholm.se/download/18.1ff9eafe19246a7058ff3d7/1728042600265/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-10-09.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-10-09.pdf Pdf, 1.9 MB.
+  https://www.hassleholm.se/download/18.38e63d4d1919732a7b23a13d/1725864524185/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-09-11.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-09-11.pdf Pdf, 24.8 MB.
+  https://www.hassleholm.se/download/18.1d9a3d46191534998e52a63/1723710023351/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-08-21.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-08-21.pdf Pdf, 7 MB.
+  https://www.hassleholm.se/download/18.281df5e18fe7bf65985b29/1717607209010/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-06-12.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-06-12.pdf Pdf, 5.3 MB.
+  https://www.hassleholm.se/download/18.7471c7918f998b198437d81/1716907041350/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-05-29.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-05-29.pdf Pdf, 6.4 MB.
+  https://www.hassleholm.se/download/18.72f3029718f2d42cdb213638/1714591906195/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-05-08.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-05-08.pdf Pdf, 9.8 MB.
+  https://www.hassleholm.se/download/18.6e1a0de018e56301d1e84a18/1712212725452/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-04-10.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-04-10.pdf Pdf, 8.2 MB.
+  https://www.hassleholm.se/download/18.5c45e61218de876254a63a41/1709795031098/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-03-13.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-03-13.pdf Pdf, 69 MB.
+  https://www.hassleholm.se/download/18.94d877318c8ab24996938b4/1704960121698/Kommunstyrelsens%20arbetsutskotts%20kallelse%202024-01-17.pdf | Kommunstyrelsens arbetsutskotts kallelse 2024-01-17.pdf Pdf, 7.7 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_53d86c2c193ded57d675ef4b | 2025
+  https://www.hassleholm.se/download/18.153e1a141992cc7b75f1a4ff/1757658243601/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-09-10.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-09-10.pdf Pdf, 3.3 MB.
+  https://www.hassleholm.se/download/18.66cc61ab198c0a23d60d13e/1755700174186/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-08-20%20omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-08-20 omedelbar justering.pdf Pdf, 998.5 kB.
+  https://www.hassleholm.se/download/18.60e63704198e5c96a7f7b81/1756279674753/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-08-20.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-08-20.pdf Pdf, 5.5 MB.
+  https://www.hassleholm.se/download/18.66881fb3197580a0a1654ecc/1750318434013/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-06-17.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-06-17.pdf Pdf, 1.1 MB.
+  https://www.hassleholm.se/download/18.7f6ff76919758265b2c167b6/1749739910383/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-06-11.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-06-11.pdf Pdf, 1.8 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022343cfc2/1748956777622/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-05-27.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-05-27.pdf Pdf, 5.7 MB.
+  https://www.hassleholm.se/download/18.5712aa4b1969f7c4c326ec60/1747645093513/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-05-14.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-05-14.pdf Pdf, 5.7 MB.
+  https://www.hassleholm.se/download/18.5712aa4b1969f7c4c326ec34/1747645032867/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-04-23%20omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-04-23 omedelbar justering.pdf Pdf, 2.3 MB.
+  https://www.hassleholm.se/download/18.5712aa4b1969f7c4c326ec35/1747645072613/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-04-23.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-04-23.pdf Pdf, 10.2 MB.
+  https://www.hassleholm.se/download/18.18dd814c195a81c8139338d8/1742821795845/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-03-19.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-03-19.pdf Pdf, 732.6 kB.
+  https://www.hassleholm.se/download/18.156f56a0194ce0fc4f98cf26/1739356069616/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-02-12%20omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-02-12 omedelbar justering.pdf Pdf, 389.3 kB.
+  https://www.hassleholm.se/download/18.156f56a0194ce0fc4f9dfa6f/1739780085172/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-02-12.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-02-12.pdf Pdf, 481.3 kB.
+  https://www.hassleholm.se/download/18.63c70ba319466d499367c69/1736943718591/Kommunstyrelsens%20arbetsutskotts%20protokoll%202025-01-15.pdf | Kommunstyrelsens arbetsutskotts protokoll 2025-01-15.pdf Pdf, 390.6 kB.
+  https://www.hassleholm.se/download/18.63c70ba319466d499367c6a/1757658259441/Inneh%C3%A5llsf%C3%B6rteckning%202025.pdf | Innehållsförteckning 2025.pdf Pdf, 168.9 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_1b0ec0be18c8ac915f35a9f2 | 2024
+  https://www.hassleholm.se/download/18.19542ccc19367f540c178ad/1732705621148/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-11-27.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-11-27.pdf Pdf, 460.5 kB.
+  https://www.hassleholm.se/download/18.1f07c55192b26cc6209a6f6/1730885929500/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-11-06%20Omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-11-06 Omedelbar justering.pdf Pdf, 490.4 kB.
+  https://www.hassleholm.se/download/18.1f07c55192b26cc620ad294/1731063941745/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-11-06.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-11-06.pdf Pdf, 480.7 kB.
+  https://www.hassleholm.se/download/18.37df4747192711e3ee37bd3/1728544916325/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-10-09.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-10-09.pdf Pdf, 434.3 kB.
+  https://www.hassleholm.se/download/18.21eb5023191da9bbb47f21e/1726118956009/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-09-11.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-09-11.pdf Pdf, 526.7 kB.
+  https://www.hassleholm.se/download/18.10b8f9931916e258d7111368/1724318442591/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-08-21.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-08-21.pdf Pdf, 720.4 kB.
+  https://www.hassleholm.se/download/18.464450a1900c764fd96a58a/1719399944901/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-06-26.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-06-26.pdf Pdf, 374.5 kB.
+  https://www.hassleholm.se/download/18.3c9b451a1900c5aedd0e5af/1718347027974/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-06-12.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-06-12.pdf Pdf, 469.8 kB.
+  https://www.hassleholm.se/download/18.7471c7918f998b198443cdf/1717043828587/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-05-29.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-05-29.pdf Pdf, 384.8 kB.
+  https://www.hassleholm.se/download/18.1870c3c518f384b83725ad57/1715663633506/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-05-08.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-05-08.pdf Pdf, 2.7 MB.
+  https://www.hassleholm.se/download/18.72f3029718f2d42cdb24e6d/1714474746164/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-04-30.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-04-30.pdf Pdf, 385.7 kB.
+  https://www.hassleholm.se/download/18.4ed24e5718ec17ae20727cfc/1712922065367/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-04-12.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-04-12.pdf Pdf, 421 kB.
+  https://www.hassleholm.se/download/18.4ed24e5718ec17ae20727794/1712921303507/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-04-10.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-04-10.pdf Pdf, 608.8 kB.
+  https://www.hassleholm.se/download/18.6e1a0de018e56301d1e53560/1711607723724/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-03-27.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-03-27.pdf Pdf, 416.2 kB.
+  https://www.hassleholm.se/download/18.27180c8418e55efb6a973c/1710841042099/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-03-13.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-03-13.pdf Pdf, 440.1 kB.
+  https://www.hassleholm.se/download/18.1b0ec0be18c8ac915f3f1ec8/1705565983541/Kommunstyrelsens%20arbetsutskotts%20protokoll%202024-01-17.pdf | Kommunstyrelsens arbetsutskotts protokoll 2024-01-17.pdf Pdf, 496 kB.
+  https://www.hassleholm.se/download/18.464450a1900c764fd97197c/1732705604920/Inneh%C3%A5llsf%C3%B6rteckning%202024.pdf | Innehållsförteckning 2024.pdf Pdf, 137.7 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_3d178ca618529982de87f536 | 2023
+  https://www.hassleholm.se/download/18.76b0434718bf0bb06c183884/1701694683634/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-11-29.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-11-29.pdf Pdf, 477.1 kB.
+  https://www.hassleholm.se/download/18.74fedea718b60659b9a18342/1698411381254/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-10-25.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-10-25.pdf Pdf, 503 kB.
+  https://www.hassleholm.se/download/18.d37062018a87e73f63dd0d/1694693902762/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-09-13.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-09-13.pdf Pdf, 1.7 MB.
+  https://www.hassleholm.se/download/18.3ecdd124189e3f6c076422a1/1692272329679/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-08-16.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-08-16.pdf Pdf, 513.8 kB.
+  https://www.hassleholm.se/download/18.7ff9d271188ba06f7cf816e4/1687781480793/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-06-26.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-06-26.pdf Pdf, 2 MB.
+  https://www.hassleholm.se/download/18.7ff9d271188ba06f7cf15700/1686897140700/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-06-14.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-06-14.pdf Pdf, 13.1 MB.
+  https://www.hassleholm.se/download/18.23980718847b66699b0673/1686301823604/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-05-31.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-05-31.pdf Pdf, 20.3 MB.
+  https://www.hassleholm.se/download/18.36450982187db5e3140122cd/1683119329380/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-05-03%20omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-05-03 omedelbar justering.pdf Pdf, 11.1 MB.
+  https://www.hassleholm.se/download/18.49675d4d187eb0600dd3b5ae/1683700406893/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-05-03.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-05-03.pdf Pdf, 12.6 MB.
+  https://www.hassleholm.se/download/18.2418ebbb1876f046322865/1681199777569/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-04-05.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-04-05.pdf Pdf, 15.7 MB.
+  https://www.hassleholm.se/download/18.36439a2f18703156e6f12d5b/1679553609657/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-03-15.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-03-15.pdf Pdf, 22.9 MB.
+  https://www.hassleholm.se/download/18.634fb8d91864a39438d3e7c2/1676898110126/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-02-15.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-02-15.pdf Pdf, 29.7 MB.
+  https://www.hassleholm.se/download/18.56010ca6185bfdf65fb43a64/1674643302747/Kommunstyrelsens%20arbetsutskotts%20protokoll%202023-01-18.pdf | Kommunstyrelsens arbetsutskotts protokoll 2023-01-18.pdf Pdf, 19.6 MB.
+  https://www.hassleholm.se/download/18.56010ca6185bfdf65fb4c3be/1701698788253/Inneh%C3%A5llsf%C3%B6rteckning%202023.pdf | Innehållsförteckning 2023.pdf Pdf, 179 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#svid12_14c76f361840e52138a9a4d | 2022
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bd8/1670573261066/Inneh%C3%A5llsf%C3%B6rteckning%202022.pdf | Innehållsförteckning 2022.pdf Pdf, 99.7 kB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bf8/1667228453172/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-06-01.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-06-01.pdf Pdf, 20.8 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bf9/1667228454021/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-06-15.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-06-15.pdf Pdf, 11.4 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bfa/1667228454499/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-08-17.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-08-17.pdf Pdf, 22 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bfb/1667228455418/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-09-14.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-09-14.pdf Pdf, 29 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bfc/1667228456603/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-10-12.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-10-12.pdf Pdf, 7.8 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bfd/1667228456936/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-10-17.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-10-17.pdf Pdf, 420.8 kB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bfe/1667228456964/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-01-12.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-01-12.pdf Pdf, 39.7 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56bff/1667228458604/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-02-16.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-02-16.pdf Pdf, 3.7 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56c00/1667228458761/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-03-16.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-03-16.pdf Pdf, 2.1 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56c01/1667228458853/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-04-06.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-04-06.pdf Pdf, 3.7 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56c02/1667228459010/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-04-28.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-04-28.pdf Pdf, 1.7 MB.
+  https://www.hassleholm.se/download/18.28c96a201840e272ce56c03/1667228459092/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-05-18.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-05-18.pdf Pdf, 868.3 kB.
+  https://www.hassleholm.se/download/18.1cd239d71840e3b716bd2cbc/1668507484481/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-11-09.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-11-09.pdf Pdf, 4.3 MB.
+  https://www.hassleholm.se/download/18.3ae3226618485d6b933d84e/1668774510582/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-10-26,%20omedelbar%20justering.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-10-26, omedelbar justering.pdf Pdf, 1.8 MB.
+  https://www.hassleholm.se/download/18.298fa98d184b9275af15cd98/1670572610492/Kommunstyrelsens%20arbetsutskotts%20protokoll%202022-11-30.pdf | Kommunstyrelsens arbetsutskotts protokoll 2022-11-30.pdf Pdf, 4.3 MB.
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/prenumerera-pa-kallelser-och-protokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kallelsermedhandlingar | Kallelser med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-71376914-4f8b-48ea-b876-36f55b5a1991 | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-d22d1fae-87ac-4db0-9973-1530fd67cfdf | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-4ee3fb8f-5d43-434b-8754-bfc4ad42de7f | 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-e645fada-c719-40ae-b44f-3bca713175e8 | 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-f836cc74-5f18-45a1-9d53-1b9cc0355396 | 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#item-809e74d5-c2be-43cc-b54e-fbb5f48397e7 | 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott#h-Kommunstyrelsensarbetsutskottsammantradesdagar2026 | Kommunstyrelsens arbetsutskott sammanträdesdagar 2026
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott.printable | Skriv ut
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal | Synpunkter och klagomål
+  https://www.hassleholm.se/kommun-och-politik/kontakt/felanmalan/gor-en-felanmalan | Felanmälan
+  https://www.hassleholm.se/service | Självservice Länk till annan webbplats.
+  https://www.hassleholm.se/system/hassleholms-kommuns-intranat---kupen | Intranät
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med/personuppgifter | Personuppgifter
+  https://www.hassleholm.se/ovriga-sidor/om-webbplatsen | Om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal/tyck-till-om-webbplatsen | Tyck till om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka/visselblasarfunktion | Visselblåsarfunktion
+  https://www.hassleholm.se/system/webbredaktor | Webbredaktör
+  https://www.hassleholm.se/ | Hässleholms kommun
+  http://www.hovdala.se/ | Hovdala slott
+  http://www.hassleholmkulturhus.se/ | Hässleholm kulturhus
+  http://komvuxhassleholm.se/ | Komvux
+  http://yhsyd.se/ | Yrkeshögskolan Syd
+  https://visithassleholm.se/ | Visit Hässleholm
+  https://www.hassleholm.se/GK | Hässleholms galakväll
+  https://www.hassleholm.se/ | Besök Hässleholms kommuns webbplats
+  https://www.hassleholm.se/kommun-och-politik/kontakt/besoksadresser-besokstider-och-postadresser | Besöksadress och öppettider
+  https://www.hassleholm.se/kommun-och-politik/kontakt/kontaktcenter | Kontakta kommunen
+  https://geodata.hassleholm.se/portal/apps/sites/#/kartportal-hassleholm | Kartor Länk till annan webbplats.
+
+Länkar på https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige:
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Motestiderkallelserochprotokollforkommunfullmaktige | Gå till innehåll
+  https://www.hassleholm.se/ | Tillbaka till startsidan
+  https://etjanster.hassleholm.se/ | Självservice
+  https://www.hassleholm.se/kommun-och-politik/kontakt | Kontakt
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#hhk-search-panel | Sök
+  https://www.hassleholm.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://www.hassleholm.se/omsorg-och-stod | Omsorg och stöd
+  https://www.hassleholm.se/uppleva-och-gora | Uppleva och göra
+  https://www.hassleholm.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://www.hassleholm.se/trafik-och-gator | Trafik och gator
+  https://www.hassleholm.se/naringsliv-och-foretag | Näringsliv och företag
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/val-2026 | Val 2026
+  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun | Så styrs Hässleholms kommun
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/sa-har-ar-kommunen-organiserad | Så här är kommunen organiserad
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunalrad | Kommunalråd
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/revisorer-kommunrevision | Revisorer, kommunrevision
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://www.hassleholm.se/kommun-och-politik/kommunens-ekonomi-och-budget | Kommunens ekonomi och budget
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider | Kallelser, protokoll och mötestider
+  https://hassleholm.tromanpublik.se/ | Kontakta din politiker
+  https://www.hassleholm.se/kommun-och-politik/fakta-om-hassleholm | Fakta om Hässleholm
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka | Så kan du påverka
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://www.hassleholm.se/kommun-och-politik/gifta-sig-borgerligt | Gifta sig borgerligt
+  https://www.hassleholm.se/kommun-och-politik/samhallsskydd-och-beredskap | Samhällsskydd och beredskap
+  https://www.hassleholm.se/kommun-och-politik/arkiv-och-allmanna-handlingar | Arkiv och allmänna handlingar
+  https://www.hassleholm.se/anslagstavla | Anslagstavla
+  https://www.hassleholm.se/kommun-och-politik/folkomrostning-den-14-december-2025 | Folkomröstning den 14 december 2025
+  https://www.hassleholm.se/system/other-languages | Other languages
+  https://www.hassleholm.se/ | Start
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7610&lang=sv_se&readclass=readspeaker-read-field&url=https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige | Lyssna
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#hhkMobileTocList | Innehåll på sidan
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Valkommenattlyssna | Välkommen att lyssna
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kommunfullmaktigessammantradesdagar2026 | Kommunfullmäktiges sammanträdesdagar 2026
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelsermedhandlingar | Kallelser med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-fa98c2cc-afc9-4ff0-943c-bda2746c7b00 | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-ea63eaf1-2f34-472e-9cf2-3925fe4659fa | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-6b19cd2d-bf70-4802-9e4f-6c50b3604ac1 | Protokoll 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-cb592a89-cb84-4cf5-ae79-3023daa9ff17 | Protokoll 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-0a91d122-e0fa-4e36-9410-fe4f0760c972 | Protokoll 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-080057c4-1ec6-4fd7-a8f8-7e8869aaf121 | Protokoll 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://diariet.hassleholm.se/#!/search/?t=1&i=Kommunfullm%C3%A4ktige | Kommunfullmäktige, kallelser och protokoll (länk till annan webbplats)
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/sok-i-aldre-kallelser-och-protokoll | Sök i äldre kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun/tv-och-radio-fran-kommunfullmaktige | Sändningar från kommunfullmäktige
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_53d86c2c193ded57d675ef31 | Kallelser 2025
+  https://www.hassleholm.se/download/18.241d76a2199c8f39a23b888/1760971379473/Kommunfullm%C3%A4ktiges%20kallelse%202025-10-20.pdf | Kommunfullmäktiges kallelse 2025-10-20.pdf Pdf, 23.4 MB.
+  https://www.hassleholm.se/download/18.153e1a141992cc7b75f57018/1759146634686/Kommunfullm%C3%A4ktiges%20kallelse%202025-09-29.pdf | Kommunfullmäktiges kallelse 2025-09-29.pdf Pdf, 18.1 MB.
+  https://www.hassleholm.se/download/18.3dc1335c198977b06c924fb2/1756123205807/Kommunfullm%C3%A4ktiges%20kallelse%202025-08-25.pdf | Kommunfullmäktiges kallelse 2025-08-25.pdf Pdf, 19.1 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022344df4b/1749814628832/Kommunfullm%C3%A4ktiges%20kallelse%202025-06-16.pdf | Kommunfullmäktiges kallelse 2025-06-16.pdf Pdf, 23.1 MB.
+  https://www.hassleholm.se/download/18.5712aa4b1969f7c4c325a468/1748250484525/Kommunfullm%C3%A4ktiges%20kallelse%202025-05-26.pdf | Kommunfullmäktiges kallelse 2025-05-26.pdf Pdf, 35.5 MB.
+  https://www.hassleholm.se/download/18.5f23dee419613aad3ee63fd6/1745847191468/Kommunfullm%C3%A4ktiges%20kallelse%202025-04-28.pdf | Kommunfullmäktiges kallelse 2025-04-28.pdf Pdf, 21.4 MB.
+  https://www.hassleholm.se/download/18.18dd814c195a81c813919f6f/1743419462734/Kommunfullm%C3%A4ktiges%20kallelse%202025-03-31.pdf | Kommunfullmäktiges kallelse 2025-03-31.pdf Pdf, 25.6 MB.
+  https://www.hassleholm.se/download/18.156f56a0194ce0fc4f9a9ed5/1740384978014/Kommunfullm%C3%A4ktiges%20kallelse%202025-02-24.pdf | Kommunfullmäktiges kallelse 2025-02-24.pdf Pdf, 8.2 MB.
+  https://www.hassleholm.se/download/18.33c66ac91943c4972b069000/1737986829583/Kommunfullm%C3%A4ktiges%20kallelse%202025-01-27.pdf | Kommunfullmäktiges kallelse 2025-01-27.pdf Pdf, 9.3 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_ce6001418c624c0b6a26320 | Kallelser 2024
+  https://www.hassleholm.se/download/18.19542ccc19367f540c1151d7/1733760613576/Kommunfullm%C3%A4ktiges%20kallelse%202024-12-09.pdf | Kommunfullmäktiges kallelse 2024-12-09.pdf Pdf, 37.7 MB.
+  https://www.hassleholm.se/download/18.65130be31931f5d584721da1/1732541436743/Kommunfullm%C3%A4ktiges%20kallelse%202024-11-25.pdf | Kommunfullmäktiges kallelse 2024-11-25.pdf Pdf, 20.7 MB.
+  https://www.hassleholm.se/download/18.37df4747192711e3ee312431/1729511541387/Kommunfullm%C3%A4ktiges%20kallelse%202024-10-21.pdf | Kommunfullmäktiges kallelse 2024-10-21.pdf Pdf, 18.7 MB.
+  https://www.hassleholm.se/download/18.21eb5023191da9bbb47655c1/1727687062554/Kommunfullm%C3%A4ktiges%20kallelse%202024-09-30.pdf | Kommunfullmäktiges kallelse 2024-09-30.pdf Pdf, 6.3 MB.
+  https://www.hassleholm.se/download/18.1d9a3d46191534998e5a3f7/1724682860530/Kommunfullm%C3%A4ktiges%20kallelse%202024-08-26.pdf | Kommunfullmäktiges kallelse 2024-08-26.pdf Pdf, 5.4 MB.
+  https://www.hassleholm.se/download/18.12a69fbd18f999a96c979d45/1717137330669/Kommunfullm%C3%A4ktiges%20kallelse%202024-06-10.pdf | Kommunfullmäktiges kallelse 2024-06-10.pdf Pdf, 18.8 MB.
+  https://www.hassleholm.se/download/18.6ad7df5b18f3844689691e57/1716210465457/Kommunfullm%C3%A4ktiges%20kallelse%202024-05-27.pdf | Kommunfullmäktiges kallelse 2024-05-27.pdf Pdf, 24.8 MB.
+  https://www.hassleholm.se/download/18.2010c47418ec192d8264cc0a/1714115080729/Kommunfullm%C3%A4ktiges%20kallelse%202024-04-29.pdf | Kommunfullmäktiges kallelse 2024-04-29.pdf Pdf, 17.3 MB.
+  https://www.hassleholm.se/download/18.287976fc18d82799c8241af9/1708962320963/Kommunfullm%C3%A4ktiges%20kallelse%202024-02-26.pdf | Kommunfullmäktiges kallelse 2024-02-26.pdf Pdf, 9.2 MB.
+  https://www.hassleholm.se/download/18.5455186d18d1ce6d57b7ee3/1706274820598/Kommunfullm%C3%A4ktiges%20kallelse%202024-01-29.pdf | Kommunfullmäktiges kallelse 2024-01-29.pdf Pdf, 21.1 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_53d86c2c193ded57d675ef33 | Protokoll 2025
+  https://www.hassleholm.se/download/18.4821e77f19a05055123517e/1761055885597/Kommunfullm%C3%A4ktiges%20protokoll%202025-10-20%20omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2025-10-20 omedelbar justering.pdf Pdf, 4.8 MB.
+  https://www.hassleholm.se/download/18.4821e77f19a0505512341c57/1761661519259/Kommunfullm%C3%A4ktiges%20protokoll%202025-10-20.pdf | Kommunfullmäktiges protokoll 2025-10-20.pdf Pdf, 38.9 MB.
+  https://www.hassleholm.se/download/18.2f1f8b5819998d2b408479c/1759241825406/Kommunfullm%C3%A4ktiges%20protokoll%202025-09-29%20omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2025-09-29 omedelbar justering.pdf Pdf, 2 MB.
+  https://www.hassleholm.se/download/18.5088bb5619998eeeb411e8a6/1759508491824/Kommunfullm%C3%A4ktiges%20protokoll%202025-09-29.pdf | Kommunfullmäktiges protokoll 2025-09-29.pdf Pdf, 13.4 MB.
+  https://www.hassleholm.se/download/18.dc6aed9198e5a5e62838905/1756730100528/Kommunfullm%C3%A4ktiges%20protokoll%202025-08-25.pdf | Kommunfullmäktiges protokoll 2025-08-25.pdf Pdf, 1.4 MB.
+  https://www.hassleholm.se/download/18.17a7a9a197a1d649fda86c/1750858010239/Kommunfullm%C3%A4ktiges%20protokoll%202025-06-16.pdf | Kommunfullmäktiges protokoll 2025-06-16.pdf Pdf, 11.9 MB.
+  https://www.hassleholm.se/download/18.1b72946a196ee3dc76e3abbe/1748340846073/Kommunfullm%C3%A4ktiges%20protokoll%202025-05-26%20omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2025-05-26 omedelbar justering.pdf Pdf, 2.2 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022343def3/1748962959403/Kommunfullm%C3%A4ktiges%20protokoll%202025-05-26.pdf | Kommunfullmäktiges protokoll 2025-05-26.pdf Pdf, 19.4 MB.
+  https://www.hassleholm.se/download/18.1a401b621968657ece2eee3/1746425769120/Kommunfullm%C3%A4ktiges%20protokoll%202025-04-28.pdf | Kommunfullmäktiges protokoll 2025-04-28.pdf Pdf, 13.5 MB.
+  https://www.hassleholm.se/download/18.36e0dcc4196000575ec293/1743758136943/Kommunfullm%C3%A4ktiges%20protokoll%202025-03-31.pdf | Kommunfullmäktiges protokoll 2025-03-31.pdf Pdf, 936.6 kB.
+  https://www.hassleholm.se/download/18.70a26c011953bb077d437598/1740988164221/Kommunfullm%C3%A4ktiges%20protokoll%202025-02-24.pdf | Kommunfullmäktiges protokoll 2025-02-24.pdf Pdf, 646.4 kB.
+  https://www.hassleholm.se/download/18.57195342194c5dca6ff779f/1738568826383/Kommunfullm%C3%A4ktiges%20protokoll%202025-01-27.pdf | Kommunfullmäktiges protokoll 2025-01-27.pdf Pdf, 1 MB.
+  https://www.hassleholm.se/download/18.57195342194c5dca6ff779e/1761661536060/Inneh%C3%A5llsf%C3%B6rteckning%202025.pdf | Innehållsförteckning 2025.pdf Pdf, 209.3 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_ce6001418c624c0b6a268ac | Protokoll 2024
+  https://www.hassleholm.se/download/18.4c0056511938afca427346df/1733824192199/Kommunfullm%C3%A4ktiges%20protokoll%202024-12-09%20omedelbar%20justering%20%C2%A7%C2%A7%20167,%20172.pdf | Kommunfullmäktiges protokoll 2024-12-09 omedelbar justering §§ 167, 172.pdf Pdf, 813.3 kB.
+  https://www.hassleholm.se/download/18.4c0056511938afca4274c009/1734087443691/Kommunfullm%C3%A4ktiges%20protokoll%202024-12-09.pdf | Kommunfullmäktiges protokoll 2024-12-09.pdf Pdf, 687.1 kB.
+  https://www.hassleholm.se/download/18.7ca16cb81933f8da86636906/1732799394265/Kommunfullm%C3%A4ktiges%20protokoll%202024-11-25%20omedelbar%20justering%20-%20redaktionell%20%C3%A4ndring%20%C2%A7%20139.pdf.pdf | Kommunfullmäktiges protokoll 2024-11-25 omedelbar justering - redaktionell ändring § 139.pdf.pdf Pdf
+  https://www.hassleholm.se/download/18.7b2a8ac619367e5f49c4340f/1733147636575/Kommunfullm%C3%A4ktiges%20protokoll%202024-11-25.pdf | Kommunfullmäktiges protokoll 2024-11-25.pdf Pdf, 1.5 MB.
+  https://www.hassleholm.se/download/18.7c0a704e192b28852f1708/1729578125861/Kommunfullm%C3%A4ktiges%20protokoll%202024-10-21%20omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2024-10-21 omedelbar justering.pdf Pdf, 474.4 kB.
+  https://www.hassleholm.se/download/18.1f07c55192b26cc6202956f/1729862141506/Kommunfullm%C3%A4ktiges%20protokoll%202024-10-21.pdf | Kommunfullmäktiges protokoll 2024-10-21.pdf Pdf, 1.2 MB.
+  https://www.hassleholm.se/download/18.38e63d4d1919732a7b2f2f1/1725001316188/Kommunfullm%C3%A4ktiges%20protokoll%202024-08-26.pdf | Kommunfullmäktiges protokoll 2024-08-26.pdf Pdf, 6.6 MB.
+  https://www.hassleholm.se/download/18.3c9b451a1900c5aedd02cbad/1718690013379/Kommunfullm%C3%A4ktiges%20protokoll%202024-06-10.pdf | Kommunfullmäktiges protokoll 2024-06-10.pdf Pdf, 748 kB.
+  https://www.hassleholm.se/download/18.7471c7918f998b198434d48/1716877785662/Kommunfullm%C3%A4ktiges%20protokoll%202024-05-27%20omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2024-05-27 omedelbar justering.pdf Pdf, 519.2 kB.
+  https://www.hassleholm.se/download/18.7471c7918f998b198462fc7/1717394266822/Kommunfullm%C3%A4ktiges%20protokoll%202024-05-27.pdf | Kommunfullmäktiges protokoll 2024-05-27.pdf Pdf, 1.6 MB.
+  https://www.hassleholm.se/download/18.1870c3c518f384b83722751c/1715063067939/Kommunfullm%C3%A4ktiges%20protokoll%202024-04-29.pdf | Kommunfullmäktiges protokoll 2024-04-29.pdf Pdf, 3 MB.
+  https://www.hassleholm.se/download/18.406d0b4b18de83e847f734ad/1710414376688/Kommunfullm%C3%A4ktiges%20protokoll%202024-02-26%20-%20redaktionell%20%C3%A4ndring%20i%20protokollets%20anslagssida.pdf | Kommunfullmäktiges protokoll 2024-02-26 - redaktionell ändring i protokollets anslagssida.pdf Pdf, 1
+  https://www.hassleholm.se/download/18.32c5fddf18d54cca0441ffb4/1706876785090/Kommunfullm%C3%A4ktiges%20protokoll%202024-01-29.pdf | Kommunfullmäktiges protokoll 2024-01-29.pdf Pdf, 3.5 MB.
+  https://www.hassleholm.se/download/18.32c5fddf18d54cca0448fe7/1706612968167/Kommunfullm%C3%A4ktiges%20protokoll%20%C2%A7%2010%20(omedelbar%20justering)%202024-01-29.pdf | Kommunfullmäktiges protokoll § 10 (omedelbar justering) 2024-01-29.pdf Pdf, 474.4 kB.
+  https://www.hassleholm.se/download/18.464450a1900c764fd970f1d/1734087422031/Inneh%C3%A5llsf%C3%B6rteckning%202024.pdf | Innehållsförteckning 2024.pdf Pdf, 144.7 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_3d178ca618529982de87f51e | Protokoll 2023
+  https://www.hassleholm.se/download/18.22420abe18bf08891e82d30f/1701097993560/Kommunfullm%C3%A4ktiges%20protokoll%202023-11-20.pdf | Kommunfullmäktiges protokoll 2023-11-20.pdf Pdf, 1.2 MB.
+  https://www.hassleholm.se/download/18.5e18a2eb18b602f5e4142975/1698649881421/Kommunfullm%C3%A4ktiges%20protokoll%202023-10-23.pdf | Kommunfullmäktiges protokoll 2023-10-23.pdf Pdf, 593.6 kB.
+  https://www.hassleholm.se/download/18.d37062018a87e73f636e8bf/1695989978654/Kommunfullm%C3%A4ktiges%20protokoll%202023-09-25%20.pdf | Kommunfullmäktiges protokoll 2023-09-25 .pdf Pdf, 691.4 kB.
+  https://www.hassleholm.se/download/18.70b4613318a1c003fe1765f4/1693574666216/Kommunfullm%C3%A4ktiges%20protokoll%202023-08-28.pdf | Kommunfullmäktiges protokoll 2023-08-28.pdf Pdf, 838.5 kB.
+  https://www.hassleholm.se/download/18.4dc756d188477e49f3d2884/1686641492583/Kommunfullm%C3%A4ktiges%20protokoll%202023-06-12%20Omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2023-06-12 Omedelbar justering.pdf Pdf, 8.4 MB.
+  https://www.hassleholm.se/download/18.7ff9d271188ba06f7cf16136/1686901875541/Kommunfullm%C3%A4ktiges%20protokoll%202023-06-12.pdf | Kommunfullmäktiges protokoll 2023-06-12.pdf Pdf, 24.6 MB.
+  https://www.hassleholm.se/download/18.4dc756d188477e49f39a9/1684831326407/Kommunfullm%C3%A4ktiges%20protokoll%202023-05-22%20Omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2023-05-22 Omedelbar justering.pdf Pdf, 30.9 MB.
+  https://www.hassleholm.se/download/18.67ab666e1884797482f35452/1685370826792/Kommunfullm%C3%A4ktiges%20protokoll%202023-05-22.pdf | Kommunfullmäktiges protokoll 2023-05-22.pdf Pdf, 14.5 MB.
+  https://www.hassleholm.se/download/18.6aef2b111876ee63319983e1/1682401563593/Kommunfullm%C3%A4ktiges%20protokoll%202023-04-24%20Omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2023-04-24 Omedelbar justering.pdf Pdf, 7.6 MB.
+  https://www.hassleholm.se/download/18.6aef2b111876ee63319ba968/1682689761180/Kommunfullm%C3%A4ktiges%20protokoll%202023-04-24.pdf | Kommunfullmäktiges protokoll 2023-04-24.pdf Pdf, 36.6 MB.
+  https://www.hassleholm.se/download/18.2e1e3b301872317aae446853/1680613231118/Kommunfullm%C3%A4ktiges%20protokoll%202023-03-27.pdf | Kommunfullmäktiges protokoll 2023-03-27.pdf Pdf, 39.6 MB.
+  https://www.hassleholm.se/download/18.96e26e518697539a498868/1677672736725/Kommunfullm%C3%A4ktiges%20protokoll%202023-02-27%20Omedelbar%20justering.pdf | Kommunfullmäktiges protokoll 2023-02-27 Omedelbar justering.pdf Pdf, 2.9 MB.
+  https://www.hassleholm.se/download/18.4f07f2b4186978cdff55e21e/1678263356135/Kommunfullm%C3%A4ktiges%20protokoll%202023-02-27.pdf | Kommunfullmäktiges protokoll 2023-02-27.pdf Pdf, 28.8 MB.
+  https://www.hassleholm.se/download/18.42624df5186268226d17434/1675761122748/Kommunfullm%C3%A4ktiges%20protokoll%202023-01-30.pdf | Kommunfullmäktiges protokoll 2023-01-30.pdf Pdf, 20.5 MB.
+  https://www.hassleholm.se/download/18.4f07f2b4186978cdff56136d/1698649922502/Inneh%C3%A5llsf%C3%B6rteckning%202023.pdf | Innehållsförteckning 2023.pdf Pdf, 186.1 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#svid12_14c76f361840e52138a6618 | Protokoll 2022
+  https://www.hassleholm.se/download/18.298fa98d184b9275af15f4c5/1670595173914/Kommunfullm%C3%A4ktiges%20protokoll%202022-12-05.pdf | Kommunfullmäktiges protokoll 2022-12-05.pdf Pdf, 7.8 MB.
+  https://www.hassleholm.se/download/18.2520dbaa1849e387172990/1669107100190/Kommunfullm%C3%A4ktiges%20protokoll%202022-11-21%20omedelbar%20justering%20%C2%A7%20148.pdf | Kommunfullmäktiges protokoll 2022-11-21 omedelbar justering § 148.pdf Pdf, 584.1 kB.
+  https://www.hassleholm.se/download/18.55388b84184b40a309b11ace/1669717694734/Kommunfullm%C3%A4ktiges%20protokoll%202022-11-21.pdf | Kommunfullmäktiges protokoll 2022-11-21.pdf Pdf, 3.4 MB.
+  https://www.hassleholm.se/download/18.1cd239d71840e3b716bd2bd2/1668507063853/Kommunfullm%C3%A4ktiges%20protokoll%202022-10-24.pdf | Kommunfullmäktiges protokoll 2022-10-24.pdf Pdf, 32 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c19/1666780481558/Kommunfullm%C3%A4ktiges%20protokoll%202022-10-17.pdf | Kommunfullmäktiges protokoll 2022-10-17.pdf Pdf, 6 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c17/1666780481251/Kommunfullm%C3%A4ktiges%20protokoll%202022-09-26%20omedelbar%20justering%20%C2%A7%2087.pdf | Kommunfullmäktiges protokoll 2022-09-26 omedelbar justering § 87.pdf Pdf, 4.2 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c18/1666780481379/Kommunfullm%C3%A4ktiges%20protokoll%202022-09-26.pdf | Kommunfullmäktiges protokoll 2022-09-26.pdf Pdf, 6.8 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c16/1666780480445/Kommunfullm%C3%A4ktiges%20protokoll%202022-06-07.pdf | Kommunfullmäktiges protokoll 2022-06-07.pdf Pdf, 33.3 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c15/1666780474492/Kommunfullm%C3%A4ktiges%20protokoll%202022-05-23.pdf | Kommunfullmäktiges protokoll 2022-05-23.pdf Pdf, 7 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c14/1666780474215/Kommunfullm%C3%A4ktiges%20protokoll%202022-04-25.pdf | Kommunfullmäktiges protokoll 2022-04-25.pdf Pdf, 2.9 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c13/1666780473904/Kommunfullm%C3%A4ktiges%20protokoll%202022-03-28.pdf | Kommunfullmäktiges protokoll 2022-03-28.pdf Pdf, 3.2 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c11/1666780472150/Kommunfullm%C3%A4ktiges%20protokoll%202022-02-28%20omedelbar%20justering%20%C2%A7%2022.pdf | Kommunfullmäktiges protokoll 2022-02-28 omedelbar justering § 22.pdf Pdf, 3.1 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c12/1666780472934/Kommunfullm%C3%A4ktiges%20protokoll%202022-02-28.pdf | Kommunfullmäktiges protokoll 2022-02-28.pdf Pdf, 9.4 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c10/1666780469759/Kommunfullm%C3%A4ktiges%20protokoll%202022-01-31.pdf | Kommunfullmäktiges protokoll 2022-01-31.pdf Pdf, 37 MB.
+  https://www.hassleholm.se/download/18.1cd239d71840e3b716bd2bdd/1670942969672/Inneh%C3%A5llsf%C3%B6rteckning%202022.pdf | Innehållsförteckning 2022.pdf Pdf, 99.8 kB.
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/prenumerera-pa-kallelser-och-protokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Valkommenattlyssna | Välkommen att lyssna
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kommunfullmaktigessammantradesdagar2026 | Kommunfullmäktiges sammanträdesdagar 2026
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Kallelsermedhandlingar | Kallelser med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-fa98c2cc-afc9-4ff0-943c-bda2746c7b00 | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-ea63eaf1-2f34-472e-9cf2-3925fe4659fa | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-6b19cd2d-bf70-4802-9e4f-6c50b3604ac1 | Protokoll 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-cb592a89-cb84-4cf5-ae79-3023daa9ff17 | Protokoll 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-0a91d122-e0fa-4e36-9410-fe4f0760c972 | Protokoll 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#item-080057c4-1ec6-4fd7-a8f8-7e8869aaf121 | Protokoll 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/motestider-kallelser-och-protokoll-for-kommunfullmaktige.printable | Skriv ut
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal | Synpunkter och klagomål
+  https://www.hassleholm.se/kommun-och-politik/kontakt/felanmalan/gor-en-felanmalan | Felanmälan
+  https://www.hassleholm.se/service | Självservice Länk till annan webbplats.
+  https://www.hassleholm.se/system/hassleholms-kommuns-intranat---kupen | Intranät
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med/personuppgifter | Personuppgifter
+  https://www.hassleholm.se/ovriga-sidor/om-webbplatsen | Om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal/tyck-till-om-webbplatsen | Tyck till om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka/visselblasarfunktion | Visselblåsarfunktion
+  https://www.hassleholm.se/system/webbredaktor | Webbredaktör
+  https://www.hassleholm.se/ | Hässleholms kommun
+  http://www.hovdala.se/ | Hovdala slott
+  http://www.hassleholmkulturhus.se/ | Hässleholm kulturhus
+  http://komvuxhassleholm.se/ | Komvux
+  http://yhsyd.se/ | Yrkeshögskolan Syd
+  https://visithassleholm.se/ | Visit Hässleholm
+  https://www.hassleholm.se/GK | Hässleholms galakväll
+  https://www.hassleholm.se/ | Besök Hässleholms kommuns webbplats
+  https://www.hassleholm.se/kommun-och-politik/kontakt/besoksadresser-besokstider-och-postadresser | Besöksadress och öppettider
+  https://www.hassleholm.se/kommun-och-politik/kontakt/kontaktcenter | Kontakta kommunen
+  https://geodata.hassleholm.se/portal/apps/sites/#/kartportal-hassleholm | Kartor Länk till annan webbplats.
+
+Länkar på https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen:
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelserprotokollochmotestiderforkommunstyrelsen | Gå till innehåll
+  https://www.hassleholm.se/ | Tillbaka till startsidan
+  https://etjanster.hassleholm.se/ | Självservice
+  https://www.hassleholm.se/kommun-och-politik/kontakt | Kontakt
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#hhk-search-panel | Sök
+  https://www.hassleholm.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://www.hassleholm.se/omsorg-och-stod | Omsorg och stöd
+  https://www.hassleholm.se/uppleva-och-gora | Uppleva och göra
+  https://www.hassleholm.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://www.hassleholm.se/trafik-och-gator | Trafik och gator
+  https://www.hassleholm.se/naringsliv-och-foretag | Näringsliv och företag
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/val-2026 | Val 2026
+  https://www.hassleholm.se/kommun-och-politik/sa-styrs-hassleholms-kommun | Så styrs Hässleholms kommun
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/sa-har-ar-kommunen-organiserad | Så här är kommunen organiserad
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunalrad | Kommunalråd
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/revisorer-kommunrevision | Revisorer, kommunrevision
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://www.hassleholm.se/kommun-och-politik/kommunens-ekonomi-och-budget | Kommunens ekonomi och budget
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider | Kallelser, protokoll och mötestider
+  https://hassleholm.tromanpublik.se/ | Kontakta din politiker
+  https://www.hassleholm.se/kommun-och-politik/fakta-om-hassleholm | Fakta om Hässleholm
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka | Så kan du påverka
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://www.hassleholm.se/kommun-och-politik/gifta-sig-borgerligt | Gifta sig borgerligt
+  https://www.hassleholm.se/kommun-och-politik/samhallsskydd-och-beredskap | Samhällsskydd och beredskap
+  https://www.hassleholm.se/kommun-och-politik/arkiv-och-allmanna-handlingar | Arkiv och allmänna handlingar
+  https://www.hassleholm.se/anslagstavla | Anslagstavla
+  https://www.hassleholm.se/kommun-och-politik/folkomrostning-den-14-december-2025 | Folkomröstning den 14 december 2025
+  https://www.hassleholm.se/system/other-languages | Other languages
+  https://www.hassleholm.se/ | Start
+  https://www.hassleholm.se/kommun-och-politik | Kommun och politik
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7610&lang=sv_se&readclass=readspeaker-read-field&url=https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen | Lyssna
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#hhkMobileTocList | Innehåll på sidan
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelsemedhandlingar | Kallelse med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-6e377abf-862a-4558-8c53-c7254ecb241e | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-12582b21-6f53-4f62-8465-c7b599ad4d07 | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-74d36206-d859-4519-8358-7c6906050854 | Protokoll 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-cee40c8c-2161-495b-bba5-5aaa09089534 | Protokoll 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-88b9e5a3-9790-4317-b236-2749d3e216d2 | Protokoll 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-b866d70f-16f4-404c-b8af-2fc990a585fc | Protokoll 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kommunstyrelsenssammantradesdagar2026 | Kommunstyrelsens sammanträdesdagar 2026
+  https://diariet.hassleholm.se/#!/search/?t=1&i=Kommunstyrelsen | Kommunstyrelsen, kallelser och protokoll (länk till annan webbplats)
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/sok-i-aldre-kallelser-och-protokoll | Sök i äldre kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_53d86c2c193ded57d675ef48 | Kallelser 2025
+  https://www.hassleholm.se/download/18.153e1a141992cc7b75f4e6cf/1758713780069/Kallelse%20kommunstyrelsen%202025-09-24.pdf | Kallelse kommunstyrelsen 2025-09-24.pdf Pdf, 19.7 MB.
+  https://www.hassleholm.se/download/18.60e63704198e5c96a7f12b9a/1756379711156/Kallelse%20kommunstyrelsen%202025-09-03.pdf | Kallelse kommunstyrelsen 2025-09-03.pdf Pdf, 12.6 MB.
+  https://www.hassleholm.se/download/18.67fbf53d1a08643e113faa7/1789106798646/Kallelse%20kommunstyrelsen%202025-08-06.pdf | Kallelse kommunstyrelsen 2025-08-06.pdf Pdf, 12.1 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022344b7c8/1749623536585/Kallelse%20kommunstyrelsen%202025-06-11.pdf | Kallelse kommunstyrelsen 2025-06-11.pdf Pdf, 16.2 MB.
+  https://www.hassleholm.se/download/18.6ea331ab196ee47d1ef1009a/1747905884826/Kallelse%20kommunstyrelsen%202025-05-28.pdf | Kallelse kommunstyrelsen 2025-05-28.pdf Pdf, 26.3 MB.
+  https://www.hassleholm.se/download/18.67fbf53d1a08643e113faa3/1789106762361/Kallelse%20kommunstyrelsen%202025-05-07.pdf | Kallelse kommunstyrelsen 2025-05-07.pdf Pdf, 22 MB.
+  https://www.hassleholm.se/download/18.18dd814c195a81c81395c2b0/1743592428890/Kallelse%20kommunstyrelsen%202025-04-02.pdf | Kallelse kommunstyrelsen 2025-04-02.pdf Pdf, 28.8 MB.
+  https://www.hassleholm.se/download/18.18dd814c195a81c813911d74/1742972165169/Kallelse%20kommunstyrelsen%202025-03-26.pdf | Kallelse kommunstyrelsen 2025-03-26.pdf Pdf, 100.1 MB.
+  https://www.hassleholm.se/download/18.70a26c011953bb077d45b6eb/1741761958693/Kallelse%20kommunstyrelsen%202025-03-12.pdf | Kallelse kommunstyrelsen 2025-03-12.pdf Pdf, 20.2 MB.
+  https://www.hassleholm.se/download/18.254ae9781953b9591c218807/1741178322294/Kallelse%20kommunstyrelsen%202025-03-05.pdf | Kallelse kommunstyrelsen 2025-03-05.pdf Pdf, 40.5 MB.
+  https://www.hassleholm.se/download/18.63c70ba319466d499367616d/1737633991221/Kallelse%20kommunstyrelsen%202025-01-29.pdf | Kallelse kommunstyrelsen 2025-01-29.pdf Pdf, 8.2 MB.
+  https://www.hassleholm.se/download/18.3e32b52419998fbd8dc174d3/1759408086779/Inneh%C3%A5llsf%C3%B6rteckning%202025.pdf | Innehållsförteckning 2025.pdf Pdf, 188.6 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_ce6001418c624c0b6a26b47 | Kallelser 2024
+  https://www.hassleholm.se/download/18.783631f61938b08fe611208f/1733918370048/Kallelse%20kommunstyrelsen%202024-12-11.pdf | Kallelse kommunstyrelsen 2024-12-11.pdf Pdf, 30.5 MB.
+  https://www.hassleholm.se/download/18.783631f61938b08fe611ccf/1733222124885/Kallelse%20kommunstyrelsen%202024-12-09.pdf | Kallelse kommunstyrelsen 2024-12-09.pdf Pdf, 4.7 MB.
+  https://www.hassleholm.se/download/18.65130be31931f5d5847172df/1731939620559/Kallelse%20kommunstyrelsen%202024-11-20.pdf | Kallelse kommunstyrelsen 2024-11-20.pdf Pdf, 29.7 MB.
+  https://www.hassleholm.se/download/18.34ce72fc19270943c663ae96/1729687809667/Kallelse%20kommunstyrelsen%202024-10-23.pdf | Kallelse kommunstyrelsen 2024-10-23.pdf Pdf, 14.6 MB.
+  https://www.hassleholm.se/download/18.21eb5023191da9bbb475bbd2/1726827613906/Kallelse%20kommunstyrelsen%202024-09-25.pdf | Kallelse kommunstyrelsen 2024-09-25.pdf Pdf, 9.5 MB.
+  https://www.hassleholm.se/download/18.38e63d4d1919732a7b28c14/1725448607964/Kallelse%20kommunstyrelsen%202024-09-04.pdf | Kallelse kommunstyrelsen 2024-09-04.pdf Pdf, 7.6 MB.
+  https://www.hassleholm.se/download/18.60714f89190a6af0fbd90b74/1722512823206/Kallelse%20kommunstyrelsen%202024-08-07.pdf | Kallelse kommunstyrelsen 2024-08-07.pdf Pdf, 19 MB.
+  https://www.hassleholm.se/download/18.281df5e18fe7bf65986422/1718008726863/Kallelse%20kommunstyrelsen%202024-06-12.pdf | Kallelse kommunstyrelsen 2024-06-12.pdf Pdf, 8.4 MB.
+  https://www.hassleholm.se/download/18.1870c3c518f384b83726eb00/1715892198147/Kallelse%20kommunstyrelsen%202024-05-22.pdf | Kallelse kommunstyrelsen 2024-05-22.pdf Pdf, 64.4 MB.
+  https://www.hassleholm.se/download/18.4ed24e5718ec17ae2076d321/1713879605871/Kallelse%20kommunstyrelsen%202024-04-24.pdf | Kallelse kommunstyrelsen 2024-04-24.pdf Pdf, 17 MB.
+  https://www.hassleholm.se/download/18.f58ca218e55d21351102ed/1711018483396/Kallelse%20kommunstyrelsen%202024-03-27.pdf | Kallelse kommunstyrelsen 2024-03-27.pdf Pdf, 79.6 MB.
+  https://www.hassleholm.se/download/18.406d0b4b18de83e847f10a79/1709729445030/Kallelse%20kommunstyrelsen%202024-03-06.pdf | Kallelse kommunstyrelsen 2024-03-06.pdf Pdf, 43.2 MB.
+  https://www.hassleholm.se/download/18.4c12267118dd0aa7750218/1708694499562/Kallelse%20kommunstyrelsen%202024-02-28.pdf | Kallelse kommunstyrelsen 2024-02-28.pdf Pdf, 12.1 MB.
+  https://www.hassleholm.se/download/18.67fbf53d1a08643e113fad7/1789106902769/Kallelse%20kommunstyrelsen%202024-01-31.pdf | Kallelse kommunstyrelsen 2024-01-31.pdf Pdf, 26.2 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_53d86c2c193ded57d675ef49 | Protokoll 2025
+  https://www.hassleholm.se/download/18.3e32b52419998fbd8dc150be/1759393885104/Protokoll%20kommunstyrelsen%202025-09-24.pdf | Protokoll kommunstyrelsen 2025-09-24.pdf Pdf, 1.1 MB.
+  https://www.hassleholm.se/download/18.50794aaf198e5d8a80e5294e/1756969317278/Protokoll%20kommunstyrelsen%202025-09-03%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2025-09-03 omedelbar justering.pdf Pdf, 416.3 kB.
+  https://www.hassleholm.se/download/18.6f4f22b1992cd5721815f54/1757570174597/Protokoll%20kommunstyrelsen%202025-09-03.pdf | Protokoll kommunstyrelsen 2025-09-03.pdf Pdf, 528.9 kB.
+  https://www.hassleholm.se/download/18.5a2576a71989770bfca18a27/1755157308409/Protokoll%20kommunstyrelsen%202025-08-06.pdf | Protokoll kommunstyrelsen 2025-08-06.pdf Pdf, 3.9 MB.
+  https://www.hassleholm.se/download/18.17a7a9a197a1d649fd7c1a/1750834743368/Protokoll%20kommunstyrelsen%202025-06-11.pdf | Protokoll kommunstyrelsen 2025-06-11.pdf Pdf, 5.3 MB.
+  https://www.hassleholm.se/download/18.3fd0ef1197124022344afa0/1749106474513/Protokoll%20kommunstyrelsen%202025-05-28.pdf | Protokoll kommunstyrelsen 2025-05-28.pdf Pdf, 10.3 MB.
+  https://www.hassleholm.se/download/18.75f794cf1969f534bc41789b/1746692667938/Protokoll%20kommunstyrelsen%202025-05-07%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2025-05-07 omedelbar justering.pdf Pdf, 1.1 MB.
+  https://www.hassleholm.se/download/18.75f794cf1969f534bc41ecc9/1746776373019/Protokoll%20kommunstyrelsen%202025-05-07.pdf | Protokoll kommunstyrelsen 2025-05-07.pdf Pdf, 8.5 MB.
+  https://www.hassleholm.se/download/18.77cf4ded195d2b169304467a/1743662210289/Protokoll%20kommunstyrelsen%202025-04-02%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2025-04-02 omedelbar justering.pdf Pdf, 372.9 kB.
+  https://www.hassleholm.se/download/18.5f23dee419613aad3ee1669/1744097843980/Protokoll%20kommunstyrelsen%202025-04-02.pdf | Protokoll kommunstyrelsen 2025-04-02.pdf Pdf, 836.5 kB.
+  https://www.hassleholm.se/download/18.1aeaf945195a82bdc53488f6/1743079813148/Protokoll%20kommunstyrelsen%202025-03-26.pdf | Protokoll kommunstyrelsen 2025-03-26.pdf Pdf, 666.9 kB.
+  https://www.hassleholm.se/download/18.8e957311953b85f94780485/1741852949655/Protokoll%20kommunstyrelsen%202025-03-12.pdf | Protokoll kommunstyrelsen 2025-03-12.pdf Pdf, 407.7 kB.
+  https://www.hassleholm.se/download/18.70a26c011953bb077d490e04/1741695856869/Protokoll%20kommunstyrelsen%202025-03-05.pdf | Protokoll kommunstyrelsen 2025-03-05.pdf Pdf, 629.7 kB.
+  https://www.hassleholm.se/download/18.6993073e194cb3a4cc69c6/1738583211095/Protokoll%20kommunstyrelsen%202025-01-29.pdf | Protokoll kommunstyrelsen 2025-01-29.pdf Pdf, 437.7 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_ce6001418c624c0b6a26b48 | Protokoll 2024
+  https://www.hassleholm.se/download/18.4c0056511938afca4274b6b9/1734081547008/Protokoll%20kommunstyrelsen%202024-12-11.pdf | Protokoll kommunstyrelsen 2024-12-11.pdf Pdf, 586.5 kB.
+  https://www.hassleholm.se/download/18.4c0056511938afca42733a97/1733815317471/Protokoll%20kommunstyrelsen%202024-12-09.pdf | Protokoll kommunstyrelsen 2024-12-09.pdf Pdf, 386.4 kB.
+  https://www.hassleholm.se/download/18.4190ebff1931f3a827d43124/1732172559686/Protokoll%20kommunstyrelsen%202024-11-20%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2024-11-20 omedelbar justering.pdf Pdf, 2.1 MB.
+  https://www.hassleholm.se/download/18.7ca16cb81933f8da86636438/1732607114284/Protokoll%20kommunstyrelsen%202024-11-20.pdf | Protokoll kommunstyrelsen 2024-11-20.pdf Pdf, 570.5 kB.
+  https://www.hassleholm.se/download/18.58061106192b27ae989abea/1729692583426/Protokoll%20kommunstyrelsen%202024-10-23%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2024-10-23 omedelbar justering.pdf Pdf, 3.9 MB.
+  https://www.hassleholm.se/download/18.1f07c55192b26cc6204feb9/1730202835049/Protokoll%20kommunstyrelsen%202024-10-23.pdf | Protokoll kommunstyrelsen 2024-10-23.pdf Pdf, 4.1 MB.
+  https://www.hassleholm.se/download/18.173f4230191da7e3542bce92/1727689093871/Protokoll%20kommunstyrelsen%202024-09-25.pdf | Protokoll kommunstyrelsen 2024-09-25.pdf Pdf, 811.7 kB.
+  https://www.hassleholm.se/download/18.6cfbf0de1919750f8d28b5ac/1725882823242/Protokoll%20kommunstyrelsen%202024-09-04.pdf | Protokoll kommunstyrelsen 2024-09-04.pdf Pdf, 2.5 MB.
+  https://www.hassleholm.se/download/18.11c40a82190a6ba6d54ce946/1723186878945/Protokoll%20kommunstyrelsen%202024-08-07.pdf | Protokoll kommunstyrelsen 2024-08-07.pdf Pdf, 1.4 MB.
+  https://www.hassleholm.se/download/18.3c9b451a1900c5aedd0373ea/1718798908757/Protokoll%20kommunstyrelsen%202024-06-12.pdf | Protokoll kommunstyrelsen 2024-06-12.pdf Pdf, 432.6 kB.
+  https://www.hassleholm.se/download/18.12a69fbd18f999a96c919b60/1716445531935/Protokoll%20kommunstyrelsen%202024-05-22%20omedelbar%20justering.pdf | Protokoll kommunstyrelsen 2024-05-22 omedelbar justering.pdf Pdf, 939.7 kB.
+  https://www.hassleholm.se/download/18.7471c7918f998b198443ce0/1717043921419/Protokoll%20kommunstyrelsen%202024-05-22.pdf | Protokoll kommunstyrelsen 2024-05-22.pdf Pdf, 578.2 kB.
+  https://www.hassleholm.se/download/18.52b7092c18f0fa45fe3234e7/1714378697638/Protokoll%20%20kommunstyrelsen%202024-04-24.pdf | Protokoll kommunstyrelsen 2024-04-24.pdf Pdf, 3.7 MB.
+  https://www.hassleholm.se/download/18.6e1a0de018e56301d1e8c8b2/1712308513748/Protokoll%20%20kommunstyrelsen%202024-03-27.pdf | Protokoll kommunstyrelsen 2024-03-27.pdf Pdf, 755.9 kB.
+  https://www.hassleholm.se/download/18.406d0b4b18de83e847f736ee/1710415308876/Protokoll%20kommunstyrelsen%202024-03-06%20-%20redaktionell%20%C3%A4ndring%20i%20protokollets%20anslagssida.pdf | Protokoll kommunstyrelsen 2024-03-06 - redaktionell ändring i protokollets anslagssida.pdf Pdf, 671.
+  https://www.hassleholm.se/download/18.406d0b4b18de83e847f746e9/1710427464389/Protokoll%20kommunstyrelsen%202024-02-28%20-%20redaktionell%20%C3%A4ndring%20i%20protokollets%20anslagssida.pdf | Protokoll kommunstyrelsen 2024-02-28 - redaktionell ändring i protokollets anslagssida.pdf Pdf, 3.1 
+  https://www.hassleholm.se/download/18.32c5fddf18d54cca04417af2/1706788660368/Protokoll%20kommunstyrelsen%202024-01-31%20Omedelbar%20justering%20%C2%A7%C2%A7%204,9.pdf | Protokoll kommunstyrelsen 2024-01-31 Omedelbar justering §§ 4,9.pdf Pdf, 376.5 kB.
+  https://www.hassleholm.se/download/18.287976fc18d82799c829933/1707376575872/Protokoll%20kommunstyrelsen%202024-01-31.pdf | Protokoll kommunstyrelsen 2024-01-31.pdf Pdf, 3.5 MB.
+  https://www.hassleholm.se/download/18.464450a1900c764fd970f20/1734081524748/Inneh%C3%A5llsf%C3%B6rteckning%202024.pdf | Innehållsförteckning 2024.pdf Pdf, 172.2 kB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_3d178ca618529982de87f533 | Protokoll 2023
+  https://www.hassleholm.se/download/18.3011894f18c8082e0ed86b1/1703069440030/Kommunstyrelsens%20protokoll%202023-12-13.pdf | Kommunstyrelsens protokoll 2023-12-13.pdf Pdf, 568.9 kB.
+  https://www.hassleholm.se/download/18.22420abe18bf08891e82d327/1701098057591/Kommunstyrelsens%20protokoll%202023-11-22.pdf | Kommunstyrelsens protokoll 2023-11-22.pdf Pdf, 455.2 kB.
+  https://www.hassleholm.se/download/18.1da3c2818bab6b26653addf/1699870932700/Kommunstyrelsens%20protokoll%202023-11-08.pdf | Kommunstyrelsens protokoll 2023-11-08.pdf Pdf, 4.1 MB.
+  https://www.hassleholm.se/download/18.74fedea718b60659b9aefc7/1698301932193/Kommunstyrelsens%20protokoll%202023-10-23.pdf | Kommunstyrelsens protokoll 2023-10-23.pdf Pdf, 374.5 kB.
+  https://www.hassleholm.se/download/18.d37062018a87e73f638313c/1696247606234/Kommunstyrelsens%20protokoll%202023-09-27.pdf | Kommunstyrelsens protokoll 2023-09-27.pdf Pdf, 3.4 MB.
+  https://www.hassleholm.se/download/18.70b4613318a1c003fe1ab7e2/1693982919522/Kommunstyrelsens%20protokoll%202023-08-30.pdf | Kommunstyrelsens protokoll 2023-08-30.pdf Pdf, 3.6 MB.
+  https://www.hassleholm.se/download/18.3ecdd124189e3f6c07626a05/1692081839692/Kommunstyrelsens%20protokoll%202023-08-09.pdf | Kommunstyrelsens protokoll 2023-08-09.pdf Pdf, 75.3 MB.
+  https://www.hassleholm.se/download/18.7ff9d271188ba06f7cf7ace/1686811433413/Kommunstyrelsens%20protokoll%202023-06-14%20Omedelbar%20justering%20%C2%A7%20120.pdf | Kommunstyrelsens protokoll 2023-06-14 Omedelbar justering § 120.pdf Pdf, 3.8 MB.
+  https://www.hassleholm.se/download/18.7ff9d271188ba06f7cf59d21/1687412865144/Kommunstyrelsens%20protokoll%202023-06-14.pdf | Kommunstyrelsens protokoll 2023-06-14.pdf Pdf, 24.2 MB.
+  https://www.hassleholm.se/download/18.23980718847b666994a839/1685535326779/Kommunstyrelsens%20protokoll%202023-05-31.pdf | Kommunstyrelsens protokoll 2023-05-31.pdf Pdf, 6.9 MB.
+  https://www.hassleholm.se/download/18.fcde79d187eae776db6241e/1684330181413/Kommunstyrelsens%20protokoll%202023-05-17%20Omedelbar%20justering%20%C2%A7%2099.pdf | Kommunstyrelsens protokoll 2023-05-17 Omedelbar justering § 99.pdf Pdf, 2.9 MB.
+  https://www.hassleholm.se/download/18.67ab666e1884797482f32c8e/1685347188268/Kommunstyrelsens%20protokoll%202023-05-17.pdf | Kommunstyrelsens protokoll 2023-05-17.pdf Pdf, 21.4 MB.
+  https://www.hassleholm.se/download/18.6aef2b111876ee63319b8925/1682675404739/Kommunstyrelsens%20protokoll%202023-04-26.pdf | Kommunstyrelsens protokoll 2023-04-26.pdf Pdf, 19.8 MB.
+  https://www.hassleholm.se/download/18.6aef2b111876ee63319af06b/1682593794198/Kommunstyrelsens%20protokoll%202023-04-24.pdf | Kommunstyrelsens protokoll 2023-04-24.pdf Pdf, 3.6 MB.
+  https://www.hassleholm.se/download/18.2e1e3b301872317aae4184c2/1680159561230/Kommunstyrelsens%20protokoll%202023-03-29%20Omedelbar%20justering%20%C2%A7%2071.pdf | Kommunstyrelsens protokoll 2023-03-29 Omedelbar justering § 71.pdf Pdf, 3 MB.
+  https://www.hassleholm.se/download/18.2e1e3b301872317aae443d8c/1680588029442/Kommunstyrelsens%20protokoll%202023-03-29.pdf | Kommunstyrelsens protokoll 2023-03-29.pdf Pdf, 36.4 MB.
+  https://www.hassleholm.se/download/18.4f07f2b4186978cdff5b84cc/1678883142264/Kommunstyrelsens%20protokoll%202023-03-08.pdf | Kommunstyrelsens protokoll 2023-03-08.pdf Pdf, 5.9 MB.
+  https://www.hassleholm.se/download/18.96e26e518697539a49ebae/1677743368603/Kommunstyrelsens%20protokoll%202023-03-01%20Omedelbar%20justering%20%C2%A7%2022.pdf | Kommunstyrelsens protokoll 2023-03-01 Omedelbar justering § 22.pdf Pdf, 2.5 MB.
+  https://www.hassleholm.se/download/18.4f07f2b4186978cdff56a205/1678346623170/Kommunstyrelsens%20protokoll%202023-03-01.pdf | Kommunstyrelsens protokoll 2023-03-01.pdf Pdf, 46.7 MB.
+  https://www.hassleholm.se/download/18.7d31dae11862cbebe868c8b/1675859034993/Kommunstyrelsens%20protokoll%202023-02-01.pdf | Kommunstyrelsens protokoll 2023-02-01.pdf Pdf, 4.9 MB.
+  https://www.hassleholm.se/download/18.23980718847b666994b3e7/1703069459198/Inneh%C3%A5llsf%C3%B6rteckning%202023.pdf | Innehållsförteckning 2023.pdf Pdf, 1.4 MB.
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#svid12_14c76f361840e52138a6675 | Protokoll 2022
+  https://www.hassleholm.se/download/18.467f76f918529ecb9e97dd6/1671532941136/Kommunstyrelsens%20inneh%C3%A5llsf%C3%B6rteckning%202022.pdf | Kommunstyrelsens innehållsförteckning 2022.pdf Pdf, 118 kB.
+  https://www.hassleholm.se/download/18.467f76f918529ecb9e9bac/1671455321363/Kommunstyrelsens%20protokoll%202022-12-14.pdf | Kommunstyrelsens protokoll 2022-12-14.pdf Pdf, 6.8 MB.
+  https://www.hassleholm.se/download/18.55388b84184b40a309b11d3c/1669718651574/Kommunstyrelsens%20protokoll%202022-11-23.pdf | Kommunstyrelsens protokoll 2022-11-23.pdf Pdf, 25.4 MB.
+  https://www.hassleholm.se/download/18.2e791bb51849e0ae01511575/1669290855396/Kommunstyrelsens%20protokoll%202022-11-23%20%C2%A7%C2%A7%20178,%20181-187.pdf | Kommunstyrelsens protokoll 2022-11-23 §§ 178, 181-187.pdf Pdf, 26.5 MB.
+  https://www.hassleholm.se/download/18.1cd239d71840e3b716bd2b2e/1668506744800/Kommunstyrelsens%20protokoll%202022-10-26.pdf | Kommunstyrelsens protokoll 2022-10-26.pdf Pdf, 15.1 MB.
+  https://www.hassleholm.se/download/18.1cd239d71840e3b716bd2b2d/1668506744536/Kommunstyrelsens%20protokoll%202022-10-26%20omedelbar%20justering%20%C2%A7%C2%A7%20169-171.pdf | Kommunstyrelsens protokoll 2022-10-26 omedelbar justering §§ 169-171.pdf Pdf, 5.9 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca5/1666781482314/Kommunstyrelsens%20protokoll%202022-09-28.pdf | Kommunstyrelsens protokoll 2022-09-28.pdf Pdf, 44.2 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca4/1666781482185/Kommunstyrelsens%20protokoll%202022-09-28%20omedelbar%20justering%20%C2%A7%20156.pdf | Kommunstyrelsens protokoll 2022-09-28 omedelbar justering § 156.pdf Pdf, 2.9 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca3/1666781481316/Kommunstyrelsens%20protokoll%202022-08-31.pdf | Kommunstyrelsens protokoll 2022-08-31.pdf Pdf, 36.7 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca2/1666781480554/Kommunstyrelsens%20protokoll%202022-06-15.pdf | Kommunstyrelsens protokoll 2022-06-15.pdf Pdf, 29.5 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca1/1666781480042/Kommunstyrelsens%20protokoll%202022-06-07.pdf | Kommunstyrelsens protokoll 2022-06-07.pdf Pdf, 6.8 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357ca0/1666781479857/Kommunstyrelsens%20protokoll%202022-05-11.pdf | Kommunstyrelsens protokoll 2022-05-11.pdf Pdf, 4.4 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9f/1666781479634/Kommunstyrelsens%20protokoll%202022-05-11%20omedelbar%20justering%20%C2%A7%C2%A7%2091-92.pdf | Kommunstyrelsens protokoll 2022-05-11 omedelbar justering §§ 91-92.pdf Pdf, 3.6 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9e/1666781478423/Kommunstyrelsens%20protokoll%202022-04-28.pdf | Kommunstyrelsens protokoll 2022-04-28.pdf Pdf, 41.1 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9d/1666781476798/Kommunstyrelsens%20protokoll%202022-03-30.pdf | Kommunstyrelsens protokoll 2022-03-30.pdf Pdf, 15.3 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9c/1666781476737/Kommunstyrelsens%20protokoll%202022-03-09.pdf | Kommunstyrelsens protokoll 2022-03-09.pdf Pdf, 1.1 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9b/1666781476618/Kommunstyrelsens%20protokoll%202022-03-02.pdf | Kommunstyrelsens protokoll 2022-03-02.pdf Pdf, 3.7 MB.
+  https://www.hassleholm.se/download/18.74f113a18412415357c9a/1666781476448/Kommunstyrelsens%20protokoll%202022-02-02.pdf | Kommunstyrelsens protokoll 2022-02-02.pdf Pdf, 2.6 MB.
+  https://www.hassleholm.se/kommun-och-politik/kallelser-protokoll-och-motestider/prenumerera-pa-kallelser-och-protokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelserochprotokollfranochmedden16oktober2025 | Kallelser och protokoll från och med den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelserochprotokollframtillden16oktober2025 | Kallelser och protokoll fram till den 16 oktober 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kallelsemedhandlingar | Kallelse med handlingar
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-6e377abf-862a-4558-8c53-c7254ecb241e | Kallelser 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-12582b21-6f53-4f62-8465-c7b599ad4d07 | Kallelser 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Protokoll | Protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-74d36206-d859-4519-8358-7c6906050854 | Protokoll 2025
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Tidigarearsprotokoll | Tidigare års protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-cee40c8c-2161-495b-bba5-5aaa09089534 | Protokoll 2024
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-88b9e5a3-9790-4317-b236-2749d3e216d2 | Protokoll 2023
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#item-b866d70f-16f4-404c-b8af-2fc990a585fc | Protokoll 2022
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Prenumererapakallelserochprotokoll | Prenumerera på kallelser och protokoll
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen#h-Kommunstyrelsenssammantradesdagar2026 | Kommunstyrelsens sammanträdesdagar 2026
+  https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsen.printable | Skriv ut
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal | Synpunkter och klagomål
+  https://www.hassleholm.se/kommun-och-politik/kontakt/felanmalan/gor-en-felanmalan | Felanmälan
+  https://www.hassleholm.se/service | Självservice Länk till annan webbplats.
+  https://www.hassleholm.se/system/hassleholms-kommuns-intranat---kupen | Intranät
+  https://www.hassleholm.se/kommun-och-politik/sa-arbetar-vi-med/personuppgifter | Personuppgifter
+  https://www.hassleholm.se/ovriga-sidor/om-webbplatsen | Om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/kontakt/synpunkter-och-klagomal/tyck-till-om-webbplatsen | Tyck till om webbplatsen
+  https://www.hassleholm.se/kommun-och-politik/sa-kan-du-paverka/visselblasarfunktion | Visselblåsarfunktion
+  https://www.hassleholm.se/system/webbredaktor | Webbredaktör
+  https://www.hassleholm.se/ | Hässleholms kommun
+  http://www.hovdala.se/ | Hovdala slott
+  http://www.hassleholmkulturhus.se/ | Hässleholm kulturhus
+  http://komvuxhassleholm.se/ | Komvux
+  http://yhsyd.se/ | Yrkeshögskolan Syd
+  https://visithassleholm.se/ | Visit Hässleholm
+  https://www.hassleholm.se/GK | Hässleholms galakväll
+  https://www.hassleholm.se/ | Besök Hässleholms kommuns webbplats
+  https://www.hassleholm.se/kommun-och-politik/kontakt/besoksadresser-besokstider-och-postadresser | Besöksadress och öppettider
+  https://www.hassleholm.se/kommun-och-politik/kontakt/kontaktcenter | Kontakta kommunen
+  https://geodata.hassleholm.se/portal/apps/sites/#/kartportal-hassleholm | Kartor Länk till annan webbplats.
 
 KF: 2026-08-24, 2026-10-20
-KS: 2026-06-22
+KS: 2026-01-30, 2026-06-22, 2026-06-23, 2026-09-11
 
 Aktuella handlingar:
+- Kommunstyrelsens reglemente
+pdf, 591.4 kB. | https://www.hassleholm.se/download/18.28c96a201840e272ce56a99/1791373281949/Kommunstyrelsens%20reglemente.pdf
+- Kommunstyrelsens delegeringsregler
+pdf, 778.8 kB. | https://www.hassleholm.se/download/18.28c96a201840e272ce56a98/1788355858059/Kommunstyrelsens%20delegeringsregler.pdf

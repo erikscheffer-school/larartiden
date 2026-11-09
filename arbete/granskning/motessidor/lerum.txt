@@ -7,14 +7,15 @@ Sidor (poäng):
  16  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen  Kommunstyrelsen | Lerums kommun
  14  https://lerum.se/kommun-och-politik/politik-och-demokrati  Politik och demokrati | Lerums kommun
  13  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet/overklaga-beslut  Överklaga beslut | Lerums kommun
+ 13  https://lerum.se/kommun-och-politik/diarium-arkiv-och-sekretess  Diarium, arkiv och sekretess | Lerums kommun
+ 12  https://lerum.se/kommun-och-politik/kommunens-organisation/namnder  Nämnder | Lerums kommun
  10  https://lerum.se/kommun-och-politik/politik-och-demokrati/val-till-riksdag-region--och-kommunfullmaktige-2026  Val till riksdag, region- och kommunfullmäktige 2026 | Lerums kommun
  10  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet/sakra-meddelanden-och-videomoten  Säkra meddelanden och videomöten | Lerums kommun
   9  https://lerum.se/kommun-och-politik/politik-och-demokrati/val-till-riksdag-region--och-kommunfullmaktige-2026/for-partier---lamna-in-valsedlar  För partier – lämna in valsedlar | Lerums kommun
   9  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet/delgivning-av-beslut  Delgivning av beslut | Lerums kommun
   9  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-05-protokoll---kommunstyrelsens-arbetsutskott-den-4-november-2026  Protokoll – Kommunstyrelsens arbetsutskott, den 4 november 2026 | Lerums kommun
-  8  https://lerum.se/  Lerums kommun
-  8  https://lerum.se/?s=kallelse+kommunfullm%C3%A4ktige  Lerums kommun
-  8  https://lerum.se/?s=kallelse+kommunfullm%C3%A4ktige  Lerums kommun
+  9  https://lerum.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning  Valresultat och mandatfördelning | Lerums kommun
+  8  https://lerum.se/kommun-och-politik/politik-och-demokrati/lamna-in-och-rosta-pa-e-forslag  Lämna in och rösta på e-förslag | Lerums kommun
   5  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-03-protokoll---miljo--och-byggnadsnamnden-den-27-oktober-2026  Protokoll - Miljö- och byggnadsnämnden, den 27 oktober 2026 | Lerums kommun
   4  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-berg-123  Kungörelse - Beslut, BERG 1:23 | Lerums kommun
   4  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-jutagarden-13  Kungörelse - Beslut, JUTAGÅRDEN 1:3 | Lerums kommun
@@ -25,12 +26,228 @@ Sidor (poäng):
   4  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-03-kungorelse---grannehorande-toleryd-137  Kungörelse - Grannehörande TOLERYD 1:37 | Lerums kommun
   3  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet  Överklaga beslut, insyn och rättssäkerhet | Lerums kommun
   3  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-aspenas-2835  Kungörelse - Beslut, ASPENÄS 2:835 | Lerums kommun
-  3  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-10-30-sok-projektstod-for-hallbar-omstallning-i-lerums-landsbygder  Sök projektstöd för hållbar omställning i Lerums landsbygder | Lerums kommun
-  2  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-10-12-snart-startar-forberedelserna-for-lerums-resecentrum  Snart startar förberedelserna för Lerums Resecentrum | Lerums kommun
-  2  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-10-28-lerums-gymnasium-far-egen-logotyp  Lerums gymnasium får egen logotyp | Lerums kommun
-  2  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-11-03-knut-ostgard-far-lerums-kommuns-kulturpris-2026  Knut Östgård får Lerums kommuns kulturpris 2026 | Lerums kommun
-  2  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-10-29-ovning-skolskjutning-pa-lerums-gymnasium  Övning: Skolskjutning på Lerums gymnasium | Lerums kommun
-  1  https://lerum.se/nyheter/nyhetsarkiv---lerum.se/2026-11-03-okad-satsning-pa-nightflow  Ökad satsning på Nightflow | Lerums kommun
+
+Länkar på https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige:
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#main-content | Hoppa till huvudinnehållet
+  https://lerum.se/ | Länk till startsida
+  https://lerum.se/kommun-och-politik/om-webbplatsen/teckensprak | Teckenspråk
+  https://lerum.se/kommun-och-politik/om-webbplatsen/translate | Translate
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#menu | Meny
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.se/kommun-och-politik/kommunens-organisation/sa-fungerar-en-kommun | Så fungerar en kommun
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning | Förvaltning
+  https://lerum.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://lerum.se/kommun-och-politik/kommunens-organisation/revisionen | Revisionen
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunala-rad | Kommunala råd
+  https://lerum.se/kommun-och-politik/kommunens-organisation/bolag-och-forbund | Bolag och förbund
+  https://lerum.se/ | Startsidan
+  https://lerum.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://lerum.se/omsorg-och-stod | Omsorg och stöd
+  https://lerum.se/kultur-och-fritid | Kultur och fritid
+  https://lerum.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://lerum.se/trafik-och-gator | Trafik och gator
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/agenda-2030 | Agenda 2030
+  https://lerum.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  https://lerum.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet | Överklaga beslut, insyn och rättssäkerhet
+  https://lerum.se/kommun-och-politik/sakerhet-och-beredskap | Säkerhet och beredskap
+  https://lerum.se/kommun-och-politik/manskliga-rattigheter | Mänskliga rättigheter
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan | Synpunkter och felanmälan
+  https://lerum.se/kommun-och-politik/press--och-informationsfragor | Press- och informationsfrågor
+  https://lerum.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
+  https://lerum.se/kommun-och-politik/digital-anslagstavla | Digital anslagstavla
+  https://lerum.se/kommun-och-politik/service-och-kvalitet | Service och kvalitet
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.tromanpublik.se/viewOrganization.jsf?id=46089da5-8ee8-46b3-a120-c564b86482cc | Förtroendevalda i Lerums kommun
+  https://lerum.se/kommun-och-politik/digital-anslagstavla | Digital anslagstavla
+  https://qcnl.tv/p/RGfDB_K9MBmVDsM4O0aG6Q | Kommunfullmäktiges möte 26 februari
+  https://qcnl.tv/p/WYBM9a96B7cUDG3hlzGt8Q | Kommunfullmäktiges möte 26 mars, inställt
+  https://qcnl.tv/p/_wB7H86DIpTuf4dx8sok_w | Kommunfullmäktiges möte 23 april
+  https://qcnl.tv/p/QJdxlvh1EszTp4XCDeQNDw | Kommunfullmäktiges möte 21 maj
+  https://qcnl.tv/p/ygtWuYyyDjwiJjF3iUdg-w | Kommunfullmäktiges möte 11 juni
+  https://qcnl.tv/p/EDgubgurkLjVqsuqWE2jXQ | Extrainsatt kommunfullmäktiges möte 25 juni
+  https://qcnl.tv/p/v0lqGfomiNUCeHxSWco4ww | Extrainsatt kommunfullmäktige 27 augusti och politisk debatt efter avslutat sammanträde
+  https://qcnl.tv/p/jYCxzi5-UAPb9scVm2A-6A | Kommunfullmäktiges möte 24 september
+  https://qcnl.tv/p/6mrUp8g4IAilE_jo3NyopQ | Kommunfullmäktiges möte 22 oktober
+  https://qcnl.tv/p/6jScMUrgbCMbyF9eHQdYaw | Kommunfullmäktiges möte 19 november
+  https://qcnl.tv/p/jBiPu62nNaHyBSA2fZN0Og | Kommunfullmäktiges möte 10 december
+  https://api.screen9.com/preview/A6xrDXLFy9NRCP9b79r8drIzvbGXsBz4d85ZCtpRpRokDuEAUdcarNtAjP9Ic1CG | Kommunfullmäktiges möte 27 februari
+  https://api.screen9.com/preview/mHEDNISxcxORbMs2ZX0PdRTSPxg-Ms3UOAxWUP5hKsifQ6a8tudbJqoUqu9VvJ47 | Kommunfullmäktiges möte 24 april
+  https://api.screen9.com/preview/hLWXlhHPGP_kx9HLRJk57Q9MLHFBvBRqNoVdtccNXUr-uphjuE6CCTpCl8CfMm3u | Kommunfullmäktiges möte 15 maj
+  https://api.screen9.com/preview/DH2NN8wfcAigCdejnzgrKezD0d4pR04WKi2dIl0ZYB5l6X4ZgFfSg-Cl0O319Z00 | Kommunfullmäktiges möte 12 juni
+  https://qcnl.tv/p/OB8aM0QZ8WB93trKMx8wiQ | Kommunfullmäktiges möte 25 september
+  https://qcnl.tv/p/h-_oaCPDsxoNKNZAJsYK1Q | Kommunfullmäktiges möte 23 oktober
+  https://qcnl.tv/p/oPfcsJnUcJEguvHr4sAPUQ | Kommunfullmäktiges möte 20 november
+  https://qcnl.tv/p/qaTfNtevhI8Y2et20U_5nw | Kommunfullmäktiges möte 11 december
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-PolitikeriLerumskommun | Politiker i Lerums kommun
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Vadgorkommunfullmaktige | Vad gör kommunfullmäktige?
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kommunfullmaktigespresidium | Kommunfullmäktiges presidium
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Besokkommunfullmaktige | Besök kommunfullmäktige
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sammantradesdagarforkommunfullmaktige2026 | Sammanträdesdagar för kommunfullmäktige 2026
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sammantradesdagarforkommunfullmaktige2027 | Sammanträdesdagar för kommunfullmäktige 2027
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sekommunfullmaktigesmotendirektelleriefterhand | Se kommunfullmäktiges möten direkt eller i efterhand
+  https://lerum.se/kommun-och-politik/om-webbplatsen/teckensprak | Teckenspråk
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kundcenter KomIn
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning | Förvaltning
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kommunledning | Kommunledning
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/sektor-samhallsbyggnad | Sektor samhällsbyggnad
+  https://lerum.se/ | Till startsidan
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Öppettider
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan/felanmalan | Felanmälan
+  https://sjalvservice.lerum.se/synpunkter | Synpunkter Extern länk som öppnas i nytt fönster
+  https://hittalerum.lerum.se/portal/apps/sites/#/hitta-lerum | Kartor Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.screen9.tv/ | Filmer Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/om-webbplatsen/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://lerum.se/kommun-och-politik/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://lerum.se/kommun-och-politik/om-webbplatsen/webbkarta | Webbplatskarta
+  https://lerum.se/rss | RSS-FLÖDE RSS
+  https://lerum.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#top | Till toppen av sidan
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=work | (8) Pågående arbeten
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=disturbance | (1) Driftstörning
+
+Länkar på https://lerum.se/kommun-och-politik/digital-anslagstavla:
+  https://lerum.se/kommun-och-politik/digital-anslagstavla#main-content | Hoppa till huvudinnehållet
+  https://lerum.se/ | Länk till startsida
+  https://lerum.se/kommun-och-politik/om-webbplatsen/teckensprak | Teckenspråk
+  https://lerum.se/kommun-och-politik/om-webbplatsen/translate | Translate
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/kommun-och-politik/digital-anslagstavla#menu | Meny
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  https://lerum.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet | Överklaga beslut, insyn och rättssäkerhet
+  https://lerum.se/kommun-och-politik/sakerhet-och-beredskap | Säkerhet och beredskap
+  https://lerum.se/kommun-och-politik/manskliga-rattigheter | Mänskliga rättigheter
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan | Synpunkter och felanmälan
+  https://lerum.se/kommun-och-politik/press--och-informationsfragor | Press- och informationsfrågor
+  https://lerum.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
+  https://lerum.se/kommun-och-politik/digital-anslagstavla | Digital anslagstavla
+  https://lerum.se/kommun-och-politik/service-och-kvalitet | Service och kvalitet
+  https://lerum.se/ | Startsidan
+  https://lerum.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://lerum.se/omsorg-och-stod | Omsorg och stöd
+  https://lerum.se/kultur-och-fritid | Kultur och fritid
+  https://lerum.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://lerum.se/trafik-och-gator | Trafik och gator
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/agenda-2030 | Agenda 2030
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/digital-anslagstavla#container1 | Organisation
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-aspenas-2835 | Kungörelse - Beslut, ASPENÄS 2:835
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-berg-123 | Kungörelse - Beslut, BERG 1:23
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-06-kungorelse---beslut-jutagarden-13 | Kungörelse - Beslut, JUTAGÅRDEN 1:3
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-05-kungorelse---beslut-dergarden-1252 | Kungörelse - Beslut, DERGÅRDEN 1:252
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-05-protokoll---kommunstyrelsens-arbetsutskott-den-4-november-2026 | Protokoll – Kommunstyrelsens arbetsutskott, den 4 november 2026
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-05-kungorelse---beslut-bjorboholm-1138 | Kungörelse - Beslut, BJÖRBOHOLM 1:138
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-05-kungorelse---beslut-ingabo-164 | Kungörelse - Beslut, INGABO 1:64
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-04-kungorelse---beslut-uddared-1489 | Kungörelse - Beslut, UDDARED 1:489
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-03-protokoll---miljo--och-byggnadsnamnden-den-27-oktober-2026 | Protokoll - Miljö- och byggnadsnämnden, den 27 oktober 2026
+  https://lerum.se/kommun-och-politik/digital-anslagstavla/anslagsarkiv/2026-11-03-kungorelse---grannehorande-toleryd-137 | Kungörelse - Grannehörande TOLERYD 1:37
+  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet/overklaga-beslut | Överklaga beslut
+  https://lerum.se/ | Till startsidan
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Öppettider
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan/felanmalan | Felanmälan
+  https://sjalvservice.lerum.se/synpunkter | Synpunkter Extern länk som öppnas i nytt fönster
+  https://hittalerum.lerum.se/portal/apps/sites/#/hitta-lerum | Kartor Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.screen9.tv/ | Filmer Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/om-webbplatsen/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://lerum.se/kommun-och-politik/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://lerum.se/kommun-och-politik/om-webbplatsen/webbkarta | Webbplatskarta
+  https://lerum.se/rss | RSS-FLÖDE RSS
+  https://lerum.se/kommun-och-politik/digital-anslagstavla#top | Till toppen av sidan
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=work | (8) Pågående arbeten
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=disturbance | (1) Driftstörning
+
+Länkar på https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser:
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#main-content | Hoppa till huvudinnehållet
+  https://lerum.se/ | Länk till startsida
+  https://lerum.se/kommun-och-politik/om-webbplatsen/teckensprak | Teckenspråk
+  https://lerum.se/kommun-och-politik/om-webbplatsen/translate | Translate
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#menu | Meny
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/lamna-in-och-rosta-pa-e-forslag | Lämna in och rösta på e-förslag
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/valresultat-och-mandatfordelning | Valresultat och mandatfördelning
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/vad-betyder-orden | Vad betyder orden
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/politiska-partier | Politiska partier
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/val-till-riksdag-region--och-kommunfullmaktige-2026 | Val till riksdag, region- och kommunfullmäktige 2026
+  https://lerum.se/ | Startsidan
+  https://lerum.se/utbildning-och-barnomsorg | Utbildning och barnomsorg
+  https://lerum.se/omsorg-och-stod | Omsorg och stöd
+  https://lerum.se/kultur-och-fritid | Kultur och fritid
+  https://lerum.se/bygga-bo-och-miljo | Bygga, bo och miljö
+  https://lerum.se/trafik-och-gator | Trafik och gator
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/agenda-2030 | Agenda 2030
+  https://lerum.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://lerum.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  https://lerum.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://lerum.se/kommun-och-politik/overklaga-beslut-insyn-och-rattssakerhet | Överklaga beslut, insyn och rättssäkerhet
+  https://lerum.se/kommun-och-politik/sakerhet-och-beredskap | Säkerhet och beredskap
+  https://lerum.se/kommun-och-politik/manskliga-rattigheter | Mänskliga rättigheter
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan | Synpunkter och felanmälan
+  https://lerum.se/kommun-och-politik/press--och-informationsfragor | Press- och informationsfrågor
+  https://lerum.se/kommun-och-politik/om-webbplatsen | Om webbplatsen
+  https://lerum.se/kommun-och-politik/digital-anslagstavla | Digital anslagstavla
+  https://lerum.se/kommun-och-politik/service-och-kvalitet | Service och kvalitet
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Kontakt
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  https://lerum.se/ | Startsida
+  https://lerum.se/kommun-och-politik | Kommun och politik
+  https://lerum.se/kommun-och-politik/politik-och-demokrati | Politik och demokrati
+  http://www.netpublicator.com/ | POWERED BY: NETPUBLICATOR DOCS
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#8a16947f55a063 | Klicka här
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-36e1c06c0d117483575 | Individnämnden - offentliga handlingar
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-c4d05440ce7e98579 | Kommunfullmäktige
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-2989acf3bd5a98576 | Kommunstyrelsen
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-ec7cab338d5998577 | Kommunstyrelsens arbetsutskott
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-c5c1b6f169145113414 | Kultur- och fritidsnämnden
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-2bb0e3e0d3587486683 | Miljö- och byggnadsnämnden - offentliga handlingar
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-5fc1c9622f2f3903021 | Revisionen (kommunrevisionen)
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-9fc83c2d26db5113422 | Samhällsbyggnadsnämnden
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-917f2c1f4f865113462 | Stöd- och omsorgsnämnden
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-b956af37bcf45113466 | Utbildningsnämnden
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#--chn-8a16947f55a063-cc646038535a7486692 | Överförmyndarnämnden - offentliga handlingar
+  https://lerum.se/ | Till startsidan
+  https://lerum.se/kommun-och-politik/kommunens-organisation/forvaltning/kundcenter-komin | Öppettider
+  https://lerum.se/kommun-och-politik/synpunkter-och-felanmalan/felanmalan | Felanmälan
+  https://sjalvservice.lerum.se/synpunkter | Synpunkter Extern länk som öppnas i nytt fönster
+  https://hittalerum.lerum.se/portal/apps/sites/#/hitta-lerum | Kartor Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.screen9.tv/ | Filmer Lerums kommun Extern länk som öppnas i nytt fönster
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser | Protokoll och kallelser
+  https://lerum.se/kommun-och-politik/om-webbplatsen/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://lerum.se/kommun-och-politik/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://lerum.se/kommun-och-politik/om-webbplatsen/webbkarta | Webbplatskarta
+  https://lerum.se/rss | RSS-FLÖDE RSS
+  https://lerum.se/kommun-och-politik/politik-och-demokrati/protokoll-och-kallelser#top | Till toppen av sidan
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=work | (8) Pågående arbeten
+  https://lerum.se/driftstorningar-och-pagaende-arbeten.html?path=disturbance | (1) Driftstörning
 
 KF: 2026-08-27, 2026-10-27
 KS: 2026-10-27, 2026-11-04, 2026-11-05, 2026-11-26

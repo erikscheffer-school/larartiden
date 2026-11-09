@@ -2,38 +2,271 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  25  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html  Sammanträdestider - Åstorp
- 17  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html  Anslagstavla - Åstorp
+ 18  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html  Anslagstavla - Åstorp
  17  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html  Möten, handlingar och protokoll - Åstorp
  16  https://astorp.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.html  Kommunfullmäktige - Åstorp
- 15  https://astorp.se/  Åstorp - Åstorp
- 15  https://astorp.se/?s=kallelse+kommunfullm%C3%A4ktige  Åstorp - Åstorp
- 15  https://astorp.se/?s=kallelse+kommunfullm%C3%A4ktige  Åstorp - Åstorp
+ 15  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/bildningsnamnden.html  Bildningsnämnden - Åstorp
  14  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html  Webbsändningar från kommunfullmäktige - Åstorp
  14  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/gemensam-raddningsnamnd-for-astorp-och-klippans-kommuner.html  Gemensam räddningsnämnd för Åstorp och Klippans kommuner - Åstorp
  14  https://astorp.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen.html  Kommunstyrelsen - Åstorp
  14  https://astorp.se/kommun-och-politik/kommunens-organisation/utskott-under-kommunstyrelsen.html  Utskott under kommunstyrelsen - Åstorp
+ 14  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/bygg--och-miljonamnden.html  Bygg- och miljönämnden - Åstorp
+ 14  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/kultur--och-fritidsnamnden.html  Kultur- och fritidsnämnden - Åstorp
+ 14  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/socialnamnden.html  Socialnämnden - Åstorp
  13  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html  Ta del av allmänna handlingar - Åstorp
  13  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html  Överklaga beslut - Åstorp
  13  https://astorp.se/kommun-och-politik.html  Kommun och politik - Åstorp
+ 13  https://astorp.se/kommun-och-politik/kommunens-organisation/sok-fortroendevald-politiker-efter-namn-eller-politiskt-parti.html  Sök förtroendevald politiker efter namn eller politiskt parti - Åstorp
+ 13  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/valnamnden.html  Valnämnden - Åstorp
+ 13  https://astorp.se/kommun-och-politik/kommunens-organisation.html  Kommunens organisation - Åstorp
  12  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder.html  Nämnder - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-11-02-nya-hastighetsgranser-i-kvidinge-maglaby-och-karreberga.html  Nya hastighetsgränser i Kvidinge, Maglaby och Kärreberga - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-10-26-nya-larmiljoer-skapar-mojligheter-pa-nyvangs-skola.html  Nya lärmiljöer skapar möjligheter på Nyvångs skola - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-11-darfor-andras-hastighetsgranserna-inom-tattbebyggt-omrade.html  Därför ändras hastighetsgränserna inom tättbebyggt område - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-21-nya-hastighetsgranser-i-hyllinge.html  Nya hastighetsgränser i Hyllinge - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-10-15-hostrusk-2026-ar-har---tva-veckor-fyllda-med-upplevelser-for-hela-familjen.html  Höstrusk 2026 är här – två veckor fyllda med upplevelser för hela familjen - Åstorp
-  2  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-18-valkommen-till-aktiv-seniordag---en-dag-for-rorelse-och-gemenskap.html  Välkommen till Aktiv Seniordag – en dag för rörelse och gemenskap - Åstorp
+ 12  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/krisledningsnamnden.html  Krisledningsnämnden - Åstorp
+ 12  https://astorp.se/kommun-och-politik/kommunens-organisation/namnder/overformyndarnamnden-4k.html  Överförmyndarnämnden 4K - Åstorp
+  3  https://astorp.se/kommun-och-politik/kontakta-kommunen.html  Kontakta kommunen - Åstorp
+  3  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html  Kommunal författningssamling - Åstorp
+  2  https://astorp.se/kommun-och-politik/kommunfakta.html  Kommunfakta - Åstorp
   1  https://astorp.se/arkiv/storningar/2026-09-04-belysningen-i-hyllingeskogen.html  Belysningen i Hyllingeskogen - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-11-05-med-bocker-och-lek-vacker-susanne-barnens-laslust.html  Med böcker och lek väcker Susanne barnens läslust - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-11-03-ekens-forskola-far-utmarkelse-for-sitt-hallbarhetsarbete.html  Ekens förskola får utmärkelse för sitt hållbarhetsarbete - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-10-23-lasdagarna-i-astorp---en-vecka-som-vacker-laslust.html  Läsdagarna i Åstorp – en vecka som väcker läslust - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-23-lekboden-invigd-pa-ragenskolan---astorps-forsta-mini-fritidsbank.html  Lekboden invigd på Rågenskolan - Åstorps första Mini Fritidsbank - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-28-astorp-deltar-i-skaneveckan-for-psykisk-halsa.html  Åstorp deltar i Skåneveckan för psykisk hälsa - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-09-04-sa-vaxer-den-nya-tingdalsskolan-fram.html  Så växer den nya Tingdalsskolan fram - Åstorp
-  1  https://astorp.se/arkiv/nyhetsarkiv/nyheter/2026-10-19-gratis-halkskydd-till-dig-over-65-ar-i-astorps-kommun.html  Gratis halkskydd till dig över 65 år i Åstorps kommun - Åstorp
-  0  https://astorp.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök - Åstorp
-  0  https://astorp.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök - Åstorp
+
+Länkar på https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html:
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html#page_content | Till innehållet
+  https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Google Translate
+  https://astorp.se/arkiv/storningar/2026-09-04-belysningen-i-hyllingeskogen.html | Belysningen i Hyllingeskogen
+  https://astorp.se/barn-och-utbildning.html | Barn och utbildning
+  https://astorp.se/bygga-bo-miljo-och-trafik.html | Bygga, bo, miljö och trafik
+  https://astorp.se/uppleva-och-gora.html | Uppleva och göra
+  https://astorp.se/naringsliv-och-arbete.html | Näringsliv och arbete
+  https://astorp.se/omsorg-och-stod.html | Omsorg och stöd
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | här Öppnas i nytt fönster.
+  https://www.perstorp.se/omsorgochstod/overformyndarverksamhet.4.bbcdfa172274bb5b4c03.html | Överförmyndarverksamhet - Perstorp.se Länk till annan webbplats, öppnas i nytt fönster.
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#Moteshandlingarochprotokoll | AB Kvidingebyggen protokoll
+  http://www.kvidingebyggen.se/ | Kvidingebyggen.se Länk till annan webbplats, öppnas i nytt fönster.
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#Moteshandlingarochprotokoll | Björnekulla fastighets AB protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#Moteshandlingarochprotokoll | Björnekulla IT AB protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#Moteshandlingarochprotokoll | Björnekulla utvecklings AB protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Revisonens protokoll och granskningsrapporter Öppnas i nytt fönster.
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#Moteshandlingarochprotokoll | Söderåsens samordningsförbunds protokoll
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Mer kontaktinformation
+  https://astorp.se/ovrigt/information-om-webbplatsen.html | Information om webbplatsen
+  https://astorp.se/ovrigt/information-om-webbplatsen/a-o.html | A till Ö
+  https://astorp.se/ovrigt/webbkarta.html | Webbkarta
+  https://astorp.se/arkiv/nyhetsarkiv.html | Nyheter
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10855&lang=sv_se&readid=svid94_9bb22c018564bd5452c5630&voice=Maja | Lyssna
+
+Länkar på https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html:
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html#page_content | Till innehållet
+  https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Google Translate
+  https://astorp.se/arkiv/storningar/2026-09-04-belysningen-i-hyllingeskogen.html | Belysningen i Hyllingeskogen
+  https://astorp.se/barn-och-utbildning.html | Barn och utbildning
+  https://astorp.se/bygga-bo-miljo-och-trafik.html | Bygga, bo, miljö och trafik
+  https://astorp.se/uppleva-och-gora.html | Uppleva och göra
+  https://astorp.se/naringsliv-och-arbete.html | Näringsliv och arbete
+  https://astorp.se/omsorg-och-stod.html | Omsorg och stöd
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut - astorp.se
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Mer kontaktinformation
+  https://astorp.se/ovrigt/information-om-webbplatsen.html | Information om webbplatsen
+  https://astorp.se/ovrigt/information-om-webbplatsen/a-o.html | A till Ö
+  https://astorp.se/ovrigt/webbkarta.html | Webbkarta
+  https://astorp.se/arkiv/nyhetsarkiv.html | Nyheter
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10855&lang=sv_se&readid=svid94_5b9522411887c8d873d2c012&voice=Maja | Lyssna
+  https://www.netpublicator.com/bulletinboard/public/9983eebc-13d4-4671-bed2-c08a2e722635 | inbäddad portal kallelser protokoll
+
+Länkar på https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html:
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#page_content | Till innehållet
+  https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Google Translate
+  https://astorp.se/arkiv/storningar/2026-09-04-belysningen-i-hyllingeskogen.html | Belysningen i Hyllingeskogen
+  https://astorp.se/barn-och-utbildning.html | Barn och utbildning
+  https://astorp.se/bygga-bo-miljo-och-trafik.html | Bygga, bo, miljö och trafik
+  https://astorp.se/uppleva-och-gora.html | Uppleva och göra
+  https://astorp.se/naringsliv-och-arbete.html | Näringsliv och arbete
+  https://astorp.se/omsorg-och-stod.html | Omsorg och stöd
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/ | Startsida
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#8ddae4f6f214368 | Klicka här
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-43bc26484b327250655 | AB Kvidingebyggen, KvB
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-77c0befdf5ed4443360 | Bildningsnämnden
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-65a70f5db73b4443354 | Bildningsnämndens arbetsutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-9787ea26f26f7250670 | Björnekulla Fastighets AB
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-ab6aa9a34df87250685 | Björnekulla IT AB
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-b666cca5ad9a7250688 | Björnekulla Utvecklings AB
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-4fafc240dfbc7960914 | Brottsförebyggande rådet
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-f9cb90d7289f4443378 | Bygg- och miljönämnden
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-e3e6cdb3617f4443381 | Bygg- och miljönämndens arbetsutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-a82de03f99ec5285099 | Gemensam räddningsnämnd för Åstorp och Klippan
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-6c53d9b3c9965803490 | Kommunala pensionärsrådet
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-b86e4164feb94443384 | Kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-b7074cb2603f4443336 | Kommunrevisionen
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-8221af03c3334443375 | Kommunstyrelsen
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-7a067ef337535528966 | Kommunstyrelsens arbetsmarknadsutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-752eabc7542d4443366 | Kommunstyrelsens arbetsutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-2537337839744922880 | Kommunstyrelsens teknik- och serviceutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-e0a250401a074443369 | Kultur- och fritidsnämnden
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-ac60ee4a7e8a4443387 | Socialnämnden
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-c28c0d253ee14443345 | Socialnämndens arbetsutskott
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-70b92aeddeeb7250691 | Söderåsens samordningsförbund (Finsam)
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-f02af2734fa47255362 | Ungdomsrådet
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html#--chn-8ddae4f6f214368-7953d3232c8f4443363 | Valnämnden
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen - astorp.se
+  https://astorp.se/kommun-och-politik.html | Kommun och politik
+  https://astorp.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://astorp.se/kommun-och-politik/kommunfakta.html | Kommunfakta
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Kontakta kommunen
+  https://astorp.se/kommun-och-politik/kommunal-forfattningssamling.html | Kommunal författningssamling
+  https://astorp.se/kommun-och-politik/projekt-och-samarbeten.html | Projekt och samarbeten
+  https://astorp.se/kommun-och-politik/sa-har-behandlar-astorps-kommun-dina-personuppgifter.html | Så här behandlar Åstorps kommun dina personuppgifter
+  https://astorp.se/kommun-och-politik/nationella-minoriteter.html | Nationella minoriteter
+  https://astorp.se/kommun-och-politik/krisberedskap-och-civilt-forsvar.html | Krisberedskap och civilt försvar
+  https://astorp.se/kommun-och-politik/gifta-sig-borgerligt.html | Gifta sig borgerligt
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/anslagstavla.html | Anslagstavla
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/sammantradestider.html | Sammanträdestider
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/ta-del-av-allmanna-handlingar.html | Ta del av allmänna handlingar
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/webbsandningar-fran-kommunfullmaktige.html | Webbsändningar från kommunfullmäktige
+  https://astorp.se/kommun-och-politik/moten-handlingar-och-protokoll/overklaga-beslut.html | Överklaga beslut
+  https://astorp.se/kommun-och-politik/medborgarforslag.html | Medborgarförslag
+  https://astorp.se/kommun-och-politik/raddningstjansten-soderasen.html | Räddningstjänsten Söderåsen
+  https://astorp.se/kommun-och-politik/for-dig-som-fortroendevald-i-astorps-kommun.html | För dig som förtroendevald i Åstorps kommun
+  https://astorp.se/kommun-och-politik/brottsforebyggande-och-trygghetsskapande-arbete.html | Brottsförebyggande och trygghetsskapande arbete
+  https://astorp.se/kommun-och-politik/konsumentvagledning.html | Konsumentvägledning
+  https://astorp.se/kommun-och-politik/val-2026.html | Val 2026
+  https://astorp.se/kommun-och-politik/medborgardialog.html | Medborgardialog
+  https://astorp.se/kommun-och-politik/kontakta-kommunen.html | Mer kontaktinformation
+  https://astorp.se/ovrigt/information-om-webbplatsen.html | Information om webbplatsen
+  https://astorp.se/ovrigt/information-om-webbplatsen/a-o.html | A till Ö
+  https://astorp.se/ovrigt/webbkarta.html | Webbkarta
+  https://astorp.se/arkiv/nyhetsarkiv.html | Nyheter
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=10855&lang=sv_se&readid=svid94_e3cd36f17d42d008b57bd16&voice=Maja | Lyssna
 
 KF: 2026-10-15, 2026-10-20, 2026-10-29, 2026-11-23
 KS: 
 
 Aktuella handlingar:
+- Arbetsordning för Kommunfullmäktige.pdf Pdf, 341 kB, öppnas i nytt fönster. | https://astorp.se/download/18.5da7fab21a12f4524d8e2331/1792483525687/Arbetsordning%20f%C3%B6r%20Kommunfullm%C3%A4ktige.pdf
+- Delegationsordning för kommunstyrelsen.pdf Pdf, 371.4 kB, öppnas i nytt fönster. | https://astorp.se/download/18.6e689e641a0f0cac5171d966/1790839277631/Delegationsordning%20f%C3%B6r%20kommunstyrelsen.pdf
+- Reglemente för Kommunstyrelsen.pdf Pdf, 364.4 kB, öppnas i nytt fönster. | https://astorp.se/download/18.5da7fab21a12f4524d8e232c/1792483460373/Reglemente%20f%C3%B6r%20Kommunstyrelsen.pdf

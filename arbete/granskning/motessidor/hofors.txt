@@ -2,20 +2,18 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  75  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html  Kommunstyrelsen - Hofors kommun
+ 75  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunfullmaktige.html  Kommunfullmäktige - Hofors kommun
  75  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunfullmaktige.html  Kommunfullmäktige - Hofors kommun
  75  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunstyrelsen.html  Kommunstyrelsen - Hofors kommun
  70  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html.printable  Kommunstyrelsen - Hofors kommun
+ 65  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunfullmaktige.html.printable  Kommunfullmäktige - Hofors kommun
  65  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunfullmaktige.html.printable  Kommunfullmäktige - Hofors kommun
  65  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunstyrelsen.html.printable  Kommunstyrelsen - Hofors kommun
  26  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser.html  Äldre kallelser - Hofors kommun
- 26  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll.html  Äldre protokoll - Hofors kommun
  24  https://www.hofors.se/kommun--politik/politik/fortroendevalda/kommunfullmaktige.html  Kommunfullmäktige - Hofors kommun
  23  https://www.hofors.se/kommun--politik/politik/namnder--styrelse/kommunfullmaktige.html  Kommunfullmäktige - Hofors kommun
  23  https://www.hofors.se/kommun--politik/politik/namnder--styrelse/kommunstyrelse.html  Kommunstyrelse - Hofors kommun
  23  https://www.hofors.se/kommun--politik/politik/fortroendevalda/kommunstyrelsen.html  Kommunstyrelsen - Hofors kommun
- 19  https://www.hofors.se/nyheter/2026-11-02-mote-med-kommunfullmaktige.html  Möte med kommunfullmäktige - Hofors kommun
- 16  https://www.hofors.se/  Hofors kommun
- 16  https://www.hofors.se/?s=kallelse+kommunfullm%C3%A4ktige  Hofors kommun
  15  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen.html  Behandling av personuppgifter (GDPR) inom kommunstyrelsen - Hofors kommun
  15  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen/medborgarforslag.html  Medborgarförslag - Hofors kommun
  14  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen/biblioteket-lantagarinformation.html  Biblioteket, låntagarinformation - Hofors kommun
@@ -24,14 +22,918 @@ Sidor (poäng):
  14  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen/foreningsbidrag.html  Föreningsbidrag - Hofors kommun
  14  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen/gymkontrakt-hoforshallen.html  Gymkontrakt Hoforshallen - Hofors kommun
  14  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen/lokalbokning.html  Lokalbokning - Hofors kommun
- 10  https://www.hofors.se/nyheter/2026-11-02-mote-med-kommunfullmaktige.html.printable  Möte med kommunfullmäktige - Hofors kommun
  10  https://www.hofors.se/kommun--politik/politik/namnder--styrelse/kommunfullmaktige.html.printable  Kommunfullmäktige - Hofors kommun
  10  https://www.hofors.se/kommun--politik/politik/namnder--styrelse/kommunstyrelse.html.printable  Kommunstyrelse - Hofors kommun
   6  https://www.hofors.se/kommun--politik/politik/fortroendevalda/kommunfullmaktige.html.printable  Kommunfullmäktige - Hofors kommun
   5  https://www.hofors.se/kommun--politik/politik/fortroendevalda/kommunstyrelsen.html.printable  Kommunstyrelsen - Hofors kommun
-  5  https://www.hofors.se/kommun--politik/behandling-av-personuppgifter---gdpr/behandling-av-personuppgifter-gdpr-inom-kommunstyrelsen.html.printable  Behandling av personuppgifter (GDPR) inom kommunstyrelsen - Hofors kommun
 
-KF: 2026-01-20, 2026-09-13, 2026-10-19, 2026-10-22, 2026-10-23, 2026-11-01, 2026-11-02
+Länkar på https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html:
+  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Main | TILL SIDANS INNEHÅLL
+  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunstyrelsen.html#Footer | TILL SIDFOTEN
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/ | 
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva
+  https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur
+  https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning
+  https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet
+  https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd
+  https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering
+  https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information
+  https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering
+  https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/barn--utbildning/forskola.html | Förskola
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda
+  https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska
+  https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet
+  https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola
+  https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan
+  https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan
+  https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval)
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare
+  https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna
+  https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum
+  https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal
+  https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum
+  https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan
+  https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning
+  https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden
+  https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag
+  https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning
+  https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider
+  https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende
+  https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola
+  https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall
+  https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort
+  https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen
+  https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider
+  https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider
+  https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring
+  https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål
+  https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA)
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp
+  https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser
+  https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt
+  https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor
+  https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift
+  https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken
+  https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal
+  https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola
+  https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård
+  https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter
+  https://www.hofors.se/kultur--fritid/entre-ungdom/samhalle.html | Samhälle
+  https://www.hofors.se/kultur--fritid/entre-ungdom/eu-kort.html | ÉU-kort
+  https://www.hofors.se/kultur--fritid/entre-ungdom/om-entre-ungdom.html | Om Entré Ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kontakt.html | Kontakt
+  https://www.hofors.se/kultur--fritid/minoritetsveckan-2026.html | Minoritetsveckan 2026
+  https://www.hofors.se/kultur--fritid/kommunens-foreningar.html | Kommunens föreningar
+  https://www.hofors.se/kultur--fritid/samlingslokaler.html | Samlingslokaler
+  https://www.hofors.se/kultur--fritid/skidspar-och-elljusspar.html | Skidspår och elljusspår
+  https://www.hofors.se/kultur--fritid/skridskoisar.html | Skridskoisar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar.html | Idrottsanläggningar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bmx-skatehall.html | BMX/skatehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bowlinghall.html | Bowlinghall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/fotbollsplaner.html | Fotbollsplaner
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/friidrottsarena.html | Friidrottsarena
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym.html | Gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/avanti-sportsclub.html | Avanti Sportsclub
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/hofors-gym.html | Hofors gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/utegym.html | Utegym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall.html | Hoforshallen Simhall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/reception-cafe.html | Reception/Café
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/rehabbassang.html | Rehabbassäng
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar.html | Idrottshallar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/hoforshallen.html | Hoforshallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/lillan.html | Lillån
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/solberga.html | Solberga
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/varnahallen.html | Värnahallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ishall-.html | Ishall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/motionsspar.html | Motionsspår
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ridanlaggning.html | Ridanläggning
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/skyttehall.html | Skyttehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/traningslager.html | Träningsläger
+  https://www.hofors.se/kultur--fritid/lokalbokning.html | Lokalbokning
+  https://www.hofors.se/kultur--fritid/vandringsleder.html | Vandringsleder
+  https://www.hofors.se/kultur--fritid/lotteritillstand-.html | Lotteritillstånd
+  https://www.hofors.se/kultur--fritid/foreningsbidrag.html | Föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/aktivitetsbidrag.html | Aktivitetsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/allmanna-villkor-for-foreningsbidrag.html | Allmänna villkor för föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansvar-och-beslut.html | Ansvar och beslut
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansokan-och-kontaktpersoner.html | Ansökan och kontaktpersoner
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-integrationsinsatser.html | Bidrag till integrationsinsatser
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-samlingslokaler.html | Bidrag till samlingslokaler
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-studieforbund.html | Bidrag till studieförbund
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bilda-en-forening.html | Bilda en förening
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/drift--och-hyresbidrag.html | Drift- och hyresbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/grundbidrag.html | Grundbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/investeringsbidrag.html | Investeringsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/mal-syften-och-prioriteringar.html | Mål, syften och prioriteringar
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ovrigt-bidrag.html | Övrigt bidrag
+  https://www.hofors.se/kultur--fritid/badplatser.html | Badplatser
+  https://www.hofors.se/kultur--fritid/blanketter-for-foreningar.html | Blanketter för föreningar
+  https://www.hofors.se/kultur--fritid/stallplatser-i-hagaparken.html | Ställplatser i Hagaparken
+  https://www.hofors.se/kultur--fritid/kultursatsning-2025.html | Kultursatsning 2025
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning.html | Ekonomiskt stöd och rådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/dodsboanmalan-och-ekonomiskt-stod-vid-begravning.html | Dödsboanmälan och ekonomiskt stöd vid begravning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/ekonomiskt-hjalp---forsorjningsstod.html | Ekonomiskt hjälp - försörjningsstöd
+  http://www.konsumentgastrikland.se/ | Konsumentvägledning Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjebehandling.html | Familjebehandling
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjehem-kontaktfamilj-kontaktperson.html | Familjehem, kontaktfamilj, kontaktperson
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt.html | Familjerätt
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt/familjeradgivning.html | Familjerådgivning
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/misstanke-om-att-ett-barn-far-illa.html | Misstanke om att ett barn far illa
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/mini-maria-for-unga.html | Mini-Maria-för unga
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard.html | Kommunal hälso- & sjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/ansvarsfordelning-kommun-och-region.html | Ansvarsfördelning Kommun och Region
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-sjukskoterska-mas.html | Medicinsk ansvarig sjuksköterska, MAS
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-for-rehabilitering-mar.html | Medicinsk ansvarig för rehabilitering, MAR
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/rehabteam.html | Rehabteam
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/sjukskoterska.html | Sjuksköterska
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/arbetsterapeut---sjukgymnast---fysioterapeut.html | Arbetsterapeut / Sjukgymnast / Fysioterapeut
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard.html | Hemsjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard/hur-far-jag-hemsjukvard.html | Hur får jag hemsjukvård?
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning.html | Omsorg för personer med funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-enligt-lss-eller-sol.html | Bostad med särskild service enligt LSS eller SoL
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/daglig-verksamhetlss-och-daglig-sysselsattningsol.html | Daglig verksamhet(LSS) och daglig sysselsättning(SoL)
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/kontaktperson.html | Kontaktperson
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/korttidsvistelse-och-korttidstillsyn.html | Korttidsvistelse och korttidstillsyn
+  https://www.hofors.se/stod--omsorg/stod/personligt-ombud---stod-for-dig-som-har-psykisk-funktionsnedsattning.html | Personligt ombud - stöd för dig som har psykisk funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer.html | Våld i nära relationer
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer/avhopparverksamhet.html | Avhopparverksamhet
+  https://www.hofors.se/stod--omsorg/aldreomsorg.html | Äldreomsorg
+  https://www.hofors.se/stod--omsorg/aldreomsorg/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/aldreomsorg/demensvard.html | Demensvård
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst.html | Hemtjänst
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst/hemtjanst-tillfallig-vistelse.html | Hemtjänst tillfällig vistelse
+  https://www.hofors.se/stod--omsorg/aldreomsorg/matsedel.html | Matsedel
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende.html | Särskilt boende/korttidsboende
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/brukshojden.html | Brukshöjden
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/persgarden.html | Persgården
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/spelmannen.html | Spelmannen
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang.html | Trygg Hemgång
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/hur-gar-det-till.html | Hur går det till?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/vilka-kommer-jag-att-traffa.html | Vilka kommer jag att träffa?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/ett-samarbete-tillsammans-med-dig.html | Ett samarbete tillsammans med dig
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/uppfoljning.html | Uppföljning
+  https://www.hofors.se/stod--omsorg/stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.hofors.se/stod--omsorg/integration-och-flyktingmottagning.html | Integration och flyktingmottagning
+  https://www.hofors.se/stod--omsorg/avgifter-inom-vard-omsorg-och-hemsjukvard.html | Avgifter inom vård, omsorg och hemsjukvård
+  https://www.hofors.se/stod--omsorg/bostadstillagg-btp.html | Bostadstillägg (BTP)
+  https://www.hofors.se/stod--omsorg/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://www.hofors.se/stod--omsorg/stod/parkeringstillstand-for-rorelsehindrade.html | Parkeringstillstånd för rörelsehindrade
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar.html | Projekt som pågår
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/idis---inkludering-och-delaktighet-i-samverkan.html | IDIS – Inkludering och delaktighet i samverkan
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors.html | Trygg ung Hofors
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors/trygga-gruppen.html | Trygga gruppen
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet.html | Stöd tillbaka till arbetslivet
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/arbetsmarknadsenheten-ame.html | Arbetsmarknadsenheten AME
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/hur-blir-man-en-av-deltagarna-i-vaxthuset.html | Hur blir man en av deltagarna i växthuset?
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/vad-arbetar-deltagarna-med-i-vaxthuset.html | Vad arbetar deltagarna med i växthuset?
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende.html | Skadligt bruk och beroende
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/anhorigstod.html | Anhörigstöd
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/beroendemottagning-gavle.html | Beroendemottagning Gävle
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/stod-och-behandling.html | Stöd och behandling
+  https://www.hofors.se/stod--omsorg/synpunkter-och-klagomal.html | Synpunkter och klagomål
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/naringsliv/entre-hofors.html | Entré Hofors
+  https://www.hofors.se/naringsliv/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-for-gardsforsaljning.html | Tillstånd för gårdsförsäljning
+  https://www.hofors.se/naringsliv/serveringstillstand/aktuellt-om-serveringstillstand.html | Aktuellt om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand.html | Att söka serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/alkohollagen.html | Alkohollagen
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/definition-av-alkoholdrycker.html | Definition av alkoholdrycker
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/ansok-om-serveringstillstand.html | Ansök om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/anmalan.html | Anmälan
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/kunskapsprov.html | Kunskapsprov
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/riktlinjer.html | Riktlinjer
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/avgifter.html | Avgifter
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/tillsyn.html | Tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/restaurangrapport.html | Restaurangrapport
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/lanksamling.html | Länksamling
+  https://www.hofors.se/naringsliv/serveringstillstand/kunskapsprov-om-alkhohollagstiftningen.html | Kunskapsprov om alkhohollagstiftningen
+  https://www.hofors.se/naringsliv/serveringstillstand/avgifter-for-ansokan-och-tillsyn.html | Avgifter för ansökan och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/riktlinjer-for-serveringstillstand.html | Riktlinjer för serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/folkol-forsaljning-och-servering.html | Folköl, försäljning och servering
+  https://www.hofors.se/naringsliv/serveringstillstand/ansvarsfull-alkoholservering.html | Ansvarsfull alkoholservering
+  https://www.hofors.se/naringsliv/serveringstillstand/vad-ar-krogar-mot-knark.html | Vad är Krogar mot Knark?
+  https://www.hofors.se/naringsliv/serveringstillstand/drick-varannan-vatten.html | Drick varannan vatten
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+
+Länkar på https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunfullmaktige.html:
+  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunfullmaktige.html#Main | TILL SIDANS INNEHÅLL
+  https://www.hofors.se/kommun--politik/politik/kallelser/aldre-kallelser/kommunfullmaktige.html#Footer | TILL SIDFOTEN
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/ | 
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva
+  https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur
+  https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning
+  https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet
+  https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd
+  https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering
+  https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information
+  https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering
+  https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/barn--utbildning/forskola.html | Förskola
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda
+  https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska
+  https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet
+  https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola
+  https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan
+  https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan
+  https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval)
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare
+  https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna
+  https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum
+  https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal
+  https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum
+  https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan
+  https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning
+  https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden
+  https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag
+  https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning
+  https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider
+  https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende
+  https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola
+  https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall
+  https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort
+  https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen
+  https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider
+  https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider
+  https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring
+  https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål
+  https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA)
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp
+  https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser
+  https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt
+  https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor
+  https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift
+  https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken
+  https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal
+  https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola
+  https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård
+  https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter
+  https://www.hofors.se/kultur--fritid/entre-ungdom/samhalle.html | Samhälle
+  https://www.hofors.se/kultur--fritid/entre-ungdom/eu-kort.html | ÉU-kort
+  https://www.hofors.se/kultur--fritid/entre-ungdom/om-entre-ungdom.html | Om Entré Ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kontakt.html | Kontakt
+  https://www.hofors.se/kultur--fritid/minoritetsveckan-2026.html | Minoritetsveckan 2026
+  https://www.hofors.se/kultur--fritid/kommunens-foreningar.html | Kommunens föreningar
+  https://www.hofors.se/kultur--fritid/samlingslokaler.html | Samlingslokaler
+  https://www.hofors.se/kultur--fritid/skidspar-och-elljusspar.html | Skidspår och elljusspår
+  https://www.hofors.se/kultur--fritid/skridskoisar.html | Skridskoisar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar.html | Idrottsanläggningar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bmx-skatehall.html | BMX/skatehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bowlinghall.html | Bowlinghall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/fotbollsplaner.html | Fotbollsplaner
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/friidrottsarena.html | Friidrottsarena
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym.html | Gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/avanti-sportsclub.html | Avanti Sportsclub
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/hofors-gym.html | Hofors gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/utegym.html | Utegym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall.html | Hoforshallen Simhall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/reception-cafe.html | Reception/Café
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/rehabbassang.html | Rehabbassäng
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar.html | Idrottshallar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/hoforshallen.html | Hoforshallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/lillan.html | Lillån
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/solberga.html | Solberga
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/varnahallen.html | Värnahallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ishall-.html | Ishall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/motionsspar.html | Motionsspår
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ridanlaggning.html | Ridanläggning
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/skyttehall.html | Skyttehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/traningslager.html | Träningsläger
+  https://www.hofors.se/kultur--fritid/lokalbokning.html | Lokalbokning
+  https://www.hofors.se/kultur--fritid/vandringsleder.html | Vandringsleder
+  https://www.hofors.se/kultur--fritid/lotteritillstand-.html | Lotteritillstånd
+  https://www.hofors.se/kultur--fritid/foreningsbidrag.html | Föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/aktivitetsbidrag.html | Aktivitetsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/allmanna-villkor-for-foreningsbidrag.html | Allmänna villkor för föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansvar-och-beslut.html | Ansvar och beslut
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansokan-och-kontaktpersoner.html | Ansökan och kontaktpersoner
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-integrationsinsatser.html | Bidrag till integrationsinsatser
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-samlingslokaler.html | Bidrag till samlingslokaler
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-studieforbund.html | Bidrag till studieförbund
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bilda-en-forening.html | Bilda en förening
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/drift--och-hyresbidrag.html | Drift- och hyresbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/grundbidrag.html | Grundbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/investeringsbidrag.html | Investeringsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/mal-syften-och-prioriteringar.html | Mål, syften och prioriteringar
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ovrigt-bidrag.html | Övrigt bidrag
+  https://www.hofors.se/kultur--fritid/badplatser.html | Badplatser
+  https://www.hofors.se/kultur--fritid/blanketter-for-foreningar.html | Blanketter för föreningar
+  https://www.hofors.se/kultur--fritid/stallplatser-i-hagaparken.html | Ställplatser i Hagaparken
+  https://www.hofors.se/kultur--fritid/kultursatsning-2025.html | Kultursatsning 2025
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning.html | Ekonomiskt stöd och rådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/dodsboanmalan-och-ekonomiskt-stod-vid-begravning.html | Dödsboanmälan och ekonomiskt stöd vid begravning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/ekonomiskt-hjalp---forsorjningsstod.html | Ekonomiskt hjälp - försörjningsstöd
+  http://www.konsumentgastrikland.se/ | Konsumentvägledning Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjebehandling.html | Familjebehandling
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjehem-kontaktfamilj-kontaktperson.html | Familjehem, kontaktfamilj, kontaktperson
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt.html | Familjerätt
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt/familjeradgivning.html | Familjerådgivning
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/misstanke-om-att-ett-barn-far-illa.html | Misstanke om att ett barn far illa
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/mini-maria-for-unga.html | Mini-Maria-för unga
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard.html | Kommunal hälso- & sjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/ansvarsfordelning-kommun-och-region.html | Ansvarsfördelning Kommun och Region
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-sjukskoterska-mas.html | Medicinsk ansvarig sjuksköterska, MAS
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-for-rehabilitering-mar.html | Medicinsk ansvarig för rehabilitering, MAR
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/rehabteam.html | Rehabteam
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/sjukskoterska.html | Sjuksköterska
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/arbetsterapeut---sjukgymnast---fysioterapeut.html | Arbetsterapeut / Sjukgymnast / Fysioterapeut
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard.html | Hemsjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard/hur-far-jag-hemsjukvard.html | Hur får jag hemsjukvård?
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning.html | Omsorg för personer med funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-enligt-lss-eller-sol.html | Bostad med särskild service enligt LSS eller SoL
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/daglig-verksamhetlss-och-daglig-sysselsattningsol.html | Daglig verksamhet(LSS) och daglig sysselsättning(SoL)
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/kontaktperson.html | Kontaktperson
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/korttidsvistelse-och-korttidstillsyn.html | Korttidsvistelse och korttidstillsyn
+  https://www.hofors.se/stod--omsorg/stod/personligt-ombud---stod-for-dig-som-har-psykisk-funktionsnedsattning.html | Personligt ombud - stöd för dig som har psykisk funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer.html | Våld i nära relationer
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer/avhopparverksamhet.html | Avhopparverksamhet
+  https://www.hofors.se/stod--omsorg/aldreomsorg.html | Äldreomsorg
+  https://www.hofors.se/stod--omsorg/aldreomsorg/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/aldreomsorg/demensvard.html | Demensvård
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst.html | Hemtjänst
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst/hemtjanst-tillfallig-vistelse.html | Hemtjänst tillfällig vistelse
+  https://www.hofors.se/stod--omsorg/aldreomsorg/matsedel.html | Matsedel
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende.html | Särskilt boende/korttidsboende
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/brukshojden.html | Brukshöjden
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/persgarden.html | Persgården
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/spelmannen.html | Spelmannen
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang.html | Trygg Hemgång
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/hur-gar-det-till.html | Hur går det till?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/vilka-kommer-jag-att-traffa.html | Vilka kommer jag att träffa?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/ett-samarbete-tillsammans-med-dig.html | Ett samarbete tillsammans med dig
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/uppfoljning.html | Uppföljning
+  https://www.hofors.se/stod--omsorg/stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.hofors.se/stod--omsorg/integration-och-flyktingmottagning.html | Integration och flyktingmottagning
+  https://www.hofors.se/stod--omsorg/avgifter-inom-vard-omsorg-och-hemsjukvard.html | Avgifter inom vård, omsorg och hemsjukvård
+  https://www.hofors.se/stod--omsorg/bostadstillagg-btp.html | Bostadstillägg (BTP)
+  https://www.hofors.se/stod--omsorg/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://www.hofors.se/stod--omsorg/stod/parkeringstillstand-for-rorelsehindrade.html | Parkeringstillstånd för rörelsehindrade
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar.html | Projekt som pågår
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/idis---inkludering-och-delaktighet-i-samverkan.html | IDIS – Inkludering och delaktighet i samverkan
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors.html | Trygg ung Hofors
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors/trygga-gruppen.html | Trygga gruppen
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet.html | Stöd tillbaka till arbetslivet
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/arbetsmarknadsenheten-ame.html | Arbetsmarknadsenheten AME
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/hur-blir-man-en-av-deltagarna-i-vaxthuset.html | Hur blir man en av deltagarna i växthuset?
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/vad-arbetar-deltagarna-med-i-vaxthuset.html | Vad arbetar deltagarna med i växthuset?
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende.html | Skadligt bruk och beroende
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/anhorigstod.html | Anhörigstöd
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/beroendemottagning-gavle.html | Beroendemottagning Gävle
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/stod-och-behandling.html | Stöd och behandling
+  https://www.hofors.se/stod--omsorg/synpunkter-och-klagomal.html | Synpunkter och klagomål
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/naringsliv/entre-hofors.html | Entré Hofors
+  https://www.hofors.se/naringsliv/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-for-gardsforsaljning.html | Tillstånd för gårdsförsäljning
+  https://www.hofors.se/naringsliv/serveringstillstand/aktuellt-om-serveringstillstand.html | Aktuellt om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand.html | Att söka serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/alkohollagen.html | Alkohollagen
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/definition-av-alkoholdrycker.html | Definition av alkoholdrycker
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/ansok-om-serveringstillstand.html | Ansök om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/anmalan.html | Anmälan
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/kunskapsprov.html | Kunskapsprov
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/riktlinjer.html | Riktlinjer
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/avgifter.html | Avgifter
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/tillsyn.html | Tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/restaurangrapport.html | Restaurangrapport
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/lanksamling.html | Länksamling
+  https://www.hofors.se/naringsliv/serveringstillstand/kunskapsprov-om-alkhohollagstiftningen.html | Kunskapsprov om alkhohollagstiftningen
+  https://www.hofors.se/naringsliv/serveringstillstand/avgifter-for-ansokan-och-tillsyn.html | Avgifter för ansökan och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/riktlinjer-for-serveringstillstand.html | Riktlinjer för serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/folkol-forsaljning-och-servering.html | Folköl, försäljning och servering
+  https://www.hofors.se/naringsliv/serveringstillstand/ansvarsfull-alkoholservering.html | Ansvarsfull alkoholservering
+  https://www.hofors.se/naringsliv/serveringstillstand/vad-ar-krogar-mot-knark.html | Vad är Krogar mot Knark?
+  https://www.hofors.se/naringsliv/serveringstillstand/drick-varannan-vatten.html | Drick varannan vatten
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+
+Länkar på https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunfullmaktige.html:
+  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunfullmaktige.html#Main | TILL SIDANS INNEHÅLL
+  https://www.hofors.se/kommun--politik/politik/protokoll/aldre-protokoll/kommunfullmaktige.html#Footer | TILL SIDFOTEN
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/ | 
+  https://www.hofors.se/hofors-kommuns-finsksprakiga-webbplats/suomeksi.html | Suomeksi
+  https://minasidor.hofors.se/oversikt/overview/10 | Tyck till Länk till annan webbplats, öppnas i nytt fönster.
+  https://minasidor.hofors.se/ | Mina sidor Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/kontaktinformation/kontakt.html | Kontakt
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+  https://www.hofors.se/boende--miljo.html | Boende & miljö
+  https://www.hofors.se/boende--miljo/att-bo-i-hofors-kommun.html | Att bo i Hofors kommun
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur.html | Trafik, vägar och infrastruktur
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/farthinder-pa-gator-och-vagar.html | Farthinder på gator och vägar
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hastigheter-och-trafikforeskrifter.html | Hastigheter och trafikföreskrifter
+  https://www.hofors.se/boende--miljo/trafik-vagar-och-infrastruktur/hackar-och-trad-vid-gator.html | Häckar och träd vid gator
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/boende--miljo/vgs/bygga-nytt-andra-eller-riva.html | Bygga nytt ändra eller riva
+  https://www.hofors.se/boende--miljo/vgs/djur-och-natur.html | Djur och natur
+  https://www.hofors.se/boende--miljo/vgs/energi--och-klimatradgivning.html | Energi- och klimatrådgivning
+  https://www.hofors.se/boende--miljo/vgs/klimat-miljo-och-hallbarhet.html | Klimat, miljö och hållbarhet
+  https://www.hofors.se/boende--miljo/vgs/miljo--och-halsoskydd.html | Miljö- och hälsoskydd
+  https://www.hofors.se/boende--miljo/vgs/samhallsplanering.html | Samhällsplanering
+  https://www.hofors.se/boende--miljo/vgs/kartor-matning-och-geografisk-information.html | Kartor, mätning och geografisk information
+  https://www.hofors.se/boende--miljo/vgs/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.hofors.se/boende--miljo/avfall-och-atervinning/lokala-foreskrifter-om-avfallshantering.html | Lokala föreskrifter om avfallshantering
+  https://www.hofors.se/boende--miljo/vgs/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.hofors.se/boende--miljo/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/boende--miljo/haga-tradgardar/frobibliotek.html | Fröbibliotek
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark.html | Haga fjärilspark
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2023.html | Hänt under 2023
+  https://www.hofors.se/boende--miljo/haga-tradgardar/haga-fjarilspark/hant-under-2024.html | Hänt under 2024
+  https://www.hofors.se/barn--utbildning.html | Barn & utbildning
+  https://www.hofors.se/barn--utbildning/forskola.html | Förskola
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet.html | Norra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/kanaljen.html | Kanaljen
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/persfallet.html | Persfallet
+  https://www.hofors.se/barn--utbildning/forskola/norra-forskoleomradet/robertsholm.html | Robertsholm
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet.html | Södra förskoleområdet
+  https://www.hofors.se/barn--utbildning/forskola/sodra-forskoleomradet/regnbagen.html | Regnbågen
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade.html | Torsåkers förskoleområde
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/tallbacken.html | Tallbacken
+  https://www.hofors.se/barn--utbildning/forskola/torsakers-forskoleomrade/vinkelboda.html | Vinkelboda
+  https://www.hofors.se/barn--utbildning/forskola/forskola-pa-finska.html | Förskola på finska
+  https://www.hofors.se/barn--utbildning/forskola/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/forskola/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/forskola/starta-fristaende-verksamhet.html | Starta fristående verksamhet
+  https://www.hofors.se/barn--utbildning/grundskola.html | Grundskola
+  https://www.hofors.se/barn--utbildning/grundskola/lillaskolan.html | Lillåskolan
+  https://www.hofors.se/barn--utbildning/grundskola/varnaskolan.html | Värnaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/petreskolan.html | Petreskolan
+  https://www.hofors.se/barn--utbildning/grundskola/solbergaskolan.html | Solbergaskolan
+  https://www.hofors.se/barn--utbildning/grundskola/regler-for-skolplacering-skolval.html | Regler för skolplacering (skolval)
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem.html | Fritidshem
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/regler--avgifter.html | Regler & avgifter
+  https://www.hofors.se/barn--utbildning/grundskola/fritidshem/blanketter.html | Blanketter
+  https://www.hofors.se/barn--utbildning/forskola/retroaktiv-inkomstjamforelse.html | Retroaktiv inkomstjämförelse
+  https://www.hofors.se/barn--utbildning/grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola.html | Anpassad grundskola
+  https://www.hofors.se/barn--utbildning/anpassad-grundskola/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/antagning-gymnasieskolan.html | Antagning gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/blanketter-och-dokument.html | Blanketter och dokument
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan.html | Gymnasieskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/gymnasieskolan/individuellt-alternativ.html | Individuellt alternativ
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/betyg.html | Betyg
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/grundlaggande-vuxenutbildning.html | Grundläggande vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/gymnasial-vuxenutbildning.html | Gymnasial vuxenutbildning
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | Svenska för invandrare - SFI
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi/samhallsorientering.html | Samhällsorientering
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/yrkesvux.html | Yrkesvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://www.hofors.se/barn--utbildning/vuxenutbildning/antagningsregler-komvux.html | Antagningsregler komvux
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan.html | Björkhagsskolan
+  https://www.hofors.se/barn--utbildning/gymnasieutbildning/bjorkhagsskolan/vuxenutbildning/svenska-for-invandrare---sfi.html | SFI- Svenska för invandrare
+  https://www.hofors.se/barn--utbildning/anpassad-utbildning-for-vuxna.html | Anpassad utbildning för vuxna
+  https://www.hofors.se/barn--utbildning/information-om-unikum.html | Information om Unikum
+  https://www.hofors.se/barn--utbildning/sommaroppen-forskola-och-fritidshem.html | Sommaröppen förskola och fritidshem
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa.html | Central barn- och elevhälsa
+  https://www.hofors.se/barn--utbildning/central-barn--och-elevhalsa/personal.html | Personal
+  https://www.hofors.se/barn--utbildning/larcentrum.html | Lärcentrum
+  https://www.hofors.se/barn--utbildning/specialskolan.html | Specialskolan
+  https://www.hofors.se/barn--utbildning/modersmalsundervisning.html | Modersmålsundervisning
+  https://www.hofors.se/barn--utbildning/skolskjuts.html | Skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fragor--svar-om-skolskjuts.html | Frågor & svar om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/ansoka-om-skolskjuts.html | Ansöka om skolskjuts
+  https://www.hofors.se/barn--utbildning/skolskjuts/fardvagens-langd-och-trafikforhallanden.html | Färdvägens längd och trafikförhållanden
+  https://www.hofors.se/barn--utbildning/skolskjuts/beslutade-undantag.html | Beslutade undantag
+  https://www.hofors.se/barn--utbildning/skolskjuts/funktionsnedsattning.html | Funktionsnedsättning
+  https://www.hofors.se/barn--utbildning/skolskjuts/hallplatser-vantetider-och-fardtider.html | Hållplatser, väntetider och färdtider
+  https://www.hofors.se/barn--utbildning/skolskjuts/vaxelvis-boende.html | Växelvis boende
+  https://www.hofors.se/barn--utbildning/skolskjuts/val-av-annan-skola.html | Val av annan skola
+  https://www.hofors.se/barn--utbildning/skolskjuts/tillfallig-funktionsnedsattning-olycksfall.html | Tillfällig funktionsnedsättning, olycksfall
+  https://www.hofors.se/barn--utbildning/skolskjuts/trasigt-eller-borttappat-busskort.html | Trasigt eller borttappat busskort
+  https://www.hofors.se/barn--utbildning/skolskjuts/oppen-skolskjuts-dalgransbussen.html | Öppen skolskjuts, Dalgränsbussen
+  https://www.hofors.se/barn--utbildning/forskole--och-skolmaltider.html | Förskole- och skolmåltider
+  https://www.hofors.se/barn--utbildning/lasarstider.html | Läsårstider
+  https://www.hofors.se/barn--utbildning/olycksfallsforsakring.html | Olycksfallsförsäkring
+  https://www.hofors.se/barn--utbildning/synpunkter--klagomal.html | Synpunkter & klagomål
+  https://www.hofors.se/barn--utbildning/kommunalt-aktivitetsansvar-kaa.html | Kommunalt aktivitetsansvar (KAA)
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman.html | Information till andra huvudmän
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-ersattning-for-forlangda-studier-i-gymnasieskolan.html | Ansökan om ersättning för förlängda studier i gymnasieskolan
+  https://www.hofors.se/barn--utbildning/information-till-andra-huvudman/ansokan-om-tillaggsbelopp.html | Ansökan om tilläggsbelopp
+  https://www.hofors.se/barn--utbildning/samverkan-med-hogskolan.html | Samverkan med högskolan
+  https://www.hofors.se/uppleva--gora.html | Uppleva & göra
+  https://www.hofors.se/kultur--fritid.html | Kultur & fritid
+  https://www.hofors.se/kultur--fritid/bibliotek.html | Bibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana.html | Att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/lanekonto-till-barn-och-unga.html | Lånekonto till barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/hur-gor-man-for-att-lana.html | Hur gör man för att låna
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/nationella-minoritetssprak.html | Nationella minoritetsspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/mangsprak.html | Mångspråk
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/fjarrlan.html | Fjärrlån
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/inkopsforslag.html | Inköpsförslag
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/avgifter-och-laneregler.html | Avgifter och låneregler
+  https://www.hofors.se/kultur--fritid/bibliotek/att-lana/gdpr---behandling-av-personuppgifter.html | GDPR - Behandling av personuppgifter
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga.html | Barn och unga
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/sagostunder.html | Sagostunder
+  https://www.hofors.se/kultur--fritid/bibliotek/barn-och-unga/skaparverkstad.html | Skaparverkstad
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster.html | Digitala tjänster
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/digitala-bocker-och-ljudbocker.html | Digitala böcker och ljudböcker
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/cineasterna---streama-film.html | Cineasterna - streama film
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/naxos---streama-musik.html | Naxos - streama musik
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/trafiko.html | Trafiko
+  https://www.hofors.se/kultur--fritid/bibliotek/digitala-tjanster/databaser.html | Databaser
+  https://www.hofors.se/kultur--fritid/bibliotek/lasa-pa-olika-satt.html | Läsa på olika sätt
+  https://www.hofors.se/kultur--fritid/bibliotek/det-hander-pa-biblioteket.html | Det händer på biblioteket
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande.html | Studerande
+  https://www.hofors.se/kultur--fritid/bibliotek/studerande/gymnasiebibliotek.html | Gymnasiebibliotek
+  https://www.hofors.se/kultur--fritid/bibliotek/skolbesok-och-boklador.html | Skolbesök och boklådor
+  https://www.hofors.se/kultur--fritid/bibliotek/datorer-natverk-och-utskrift.html | Datorer, nätverk och utskrift
+  https://www.hofors.se/kultur--fritid/bibliotek/galleri-boken.html | Galleri Boken
+  https://www.hofors.se/kultur--fritid/bibliotek/personal.html | Personal
+  https://www.hofors.se/kultur--fritid/entre-ungdom.html | Entré ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kulturskola.html | Kulturskola
+  https://www.hofors.se/kultur--fritid/entre-ungdom/fritidsgard.html | Fritidsgård
+  https://www.hofors.se/kultur--fritid/entre-ungdom/lovaktiviteter.html | Lovaktiviteter
+  https://www.hofors.se/kultur--fritid/entre-ungdom/samhalle.html | Samhälle
+  https://www.hofors.se/kultur--fritid/entre-ungdom/eu-kort.html | ÉU-kort
+  https://www.hofors.se/kultur--fritid/entre-ungdom/om-entre-ungdom.html | Om Entré Ungdom
+  https://www.hofors.se/kultur--fritid/entre-ungdom/kontakt.html | Kontakt
+  https://www.hofors.se/kultur--fritid/minoritetsveckan-2026.html | Minoritetsveckan 2026
+  https://www.hofors.se/kultur--fritid/kommunens-foreningar.html | Kommunens föreningar
+  https://www.hofors.se/kultur--fritid/samlingslokaler.html | Samlingslokaler
+  https://www.hofors.se/kultur--fritid/skidspar-och-elljusspar.html | Skidspår och elljusspår
+  https://www.hofors.se/kultur--fritid/skridskoisar.html | Skridskoisar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar.html | Idrottsanläggningar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bmx-skatehall.html | BMX/skatehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/bowlinghall.html | Bowlinghall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/fotbollsplaner.html | Fotbollsplaner
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/friidrottsarena.html | Friidrottsarena
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym.html | Gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/avanti-sportsclub.html | Avanti Sportsclub
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/hofors-gym.html | Hofors gym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/gym/utegym.html | Utegym
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall.html | Hoforshallen Simhall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/reception-cafe.html | Reception/Café
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/hoforshallen-simhall/rehabbassang.html | Rehabbassäng
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar.html | Idrottshallar
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/hoforshallen.html | Hoforshallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/lillan.html | Lillån
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/solberga.html | Solberga
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/idrottshallar/varnahallen.html | Värnahallen
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ishall-.html | Ishall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/motionsspar.html | Motionsspår
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/ridanlaggning.html | Ridanläggning
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/skyttehall.html | Skyttehall
+  https://www.hofors.se/kultur--fritid/idrottsanlaggningar/traningslager.html | Träningsläger
+  https://www.hofors.se/kultur--fritid/lokalbokning.html | Lokalbokning
+  https://www.hofors.se/kultur--fritid/vandringsleder.html | Vandringsleder
+  https://www.hofors.se/kultur--fritid/lotteritillstand-.html | Lotteritillstånd
+  https://www.hofors.se/kultur--fritid/foreningsbidrag.html | Föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/aktivitetsbidrag.html | Aktivitetsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/allmanna-villkor-for-foreningsbidrag.html | Allmänna villkor för föreningsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansvar-och-beslut.html | Ansvar och beslut
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ansokan-och-kontaktpersoner.html | Ansökan och kontaktpersoner
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-integrationsinsatser.html | Bidrag till integrationsinsatser
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-samlingslokaler.html | Bidrag till samlingslokaler
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bidrag-till-studieforbund.html | Bidrag till studieförbund
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/bilda-en-forening.html | Bilda en förening
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/drift--och-hyresbidrag.html | Drift- och hyresbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/grundbidrag.html | Grundbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/investeringsbidrag.html | Investeringsbidrag
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/mal-syften-och-prioriteringar.html | Mål, syften och prioriteringar
+  https://www.hofors.se/kultur--fritid/foreningsbidrag/ovrigt-bidrag.html | Övrigt bidrag
+  https://www.hofors.se/kultur--fritid/badplatser.html | Badplatser
+  https://www.hofors.se/kultur--fritid/blanketter-for-foreningar.html | Blanketter för föreningar
+  https://www.hofors.se/kultur--fritid/stallplatser-i-hagaparken.html | Ställplatser i Hagaparken
+  https://www.hofors.se/kultur--fritid/kultursatsning-2025.html | Kultursatsning 2025
+  https://www.hofors.se/stod--omsorg.html | Stöd & omsorg
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning.html | Ekonomiskt stöd och rådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/dodsboanmalan-och-ekonomiskt-stod-vid-begravning.html | Dödsboanmälan och ekonomiskt stöd vid begravning
+  https://www.hofors.se/stod--omsorg/ekonomiskt-stod-och-radgivning/ekonomiskt-hjalp---forsorjningsstod.html | Ekonomiskt hjälp - försörjningsstöd
+  http://www.konsumentgastrikland.se/ | Konsumentvägledning Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjebehandling.html | Familjebehandling
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjehem-kontaktfamilj-kontaktperson.html | Familjehem, kontaktfamilj, kontaktperson
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt.html | Familjerätt
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/familjeratt/familjeradgivning.html | Familjerådgivning
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/misstanke-om-att-ett-barn-far-illa.html | Misstanke om att ett barn far illa
+  https://www.hofors.se/stod--omsorg/familj-barn-och-ungdom/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/mini-maria-for-unga.html | Mini-Maria-för unga
+  https://www.hofors.se/stod--omsorg/stod/bostadsanpassning.html | Bostadsanpassning
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard.html | Kommunal hälso- & sjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/ansvarsfordelning-kommun-och-region.html | Ansvarsfördelning Kommun och Region
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-sjukskoterska-mas.html | Medicinsk ansvarig sjuksköterska, MAS
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/medicinsk-ansvarig-for-rehabilitering-mar.html | Medicinsk ansvarig för rehabilitering, MAR
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/rehabteam.html | Rehabteam
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/sjukskoterska.html | Sjuksköterska
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/arbetsterapeut---sjukgymnast---fysioterapeut.html | Arbetsterapeut / Sjukgymnast / Fysioterapeut
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard.html | Hemsjukvård
+  https://www.hofors.se/stod--omsorg/kommunal-halso---sjukvard/hemsjukvard/hur-far-jag-hemsjukvard.html | Hur får jag hemsjukvård?
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning.html | Omsorg för personer med funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-enligt-lss-eller-sol.html | Bostad med särskild service enligt LSS eller SoL
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/daglig-verksamhetlss-och-daglig-sysselsattningsol.html | Daglig verksamhet(LSS) och daglig sysselsättning(SoL)
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/kontaktperson.html | Kontaktperson
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/korttidsvistelse-och-korttidstillsyn.html | Korttidsvistelse och korttidstillsyn
+  https://www.hofors.se/stod--omsorg/stod/personligt-ombud---stod-for-dig-som-har-psykisk-funktionsnedsattning.html | Personligt ombud - stöd för dig som har psykisk funktionsnedsättning
+  https://www.hofors.se/stod--omsorg/omsorg-for-personer-med-funktionsnedsattning/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer.html | Våld i nära relationer
+  https://www.hofors.se/stod--omsorg/vald-i-nara-relationer/avhopparverksamhet.html | Avhopparverksamhet
+  https://www.hofors.se/stod--omsorg/aldreomsorg.html | Äldreomsorg
+  https://www.hofors.se/stod--omsorg/aldreomsorg/bistandsenheten.html | Biståndsenheten
+  https://www.hofors.se/stod--omsorg/aldreomsorg/demensvard.html | Demensvård
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst.html | Hemtjänst
+  https://www.hofors.se/stod--omsorg/aldreomsorg/hemtjanst/hemtjanst-tillfallig-vistelse.html | Hemtjänst tillfällig vistelse
+  https://www.hofors.se/stod--omsorg/aldreomsorg/matsedel.html | Matsedel
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende.html | Särskilt boende/korttidsboende
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/brukshojden.html | Brukshöjden
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/persgarden.html | Persgården
+  https://www.hofors.se/stod--omsorg/aldreomsorg/sarskilt-boende-korttidsboende/spelmannen.html | Spelmannen
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang.html | Trygg Hemgång
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/hur-gar-det-till.html | Hur går det till?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/vilka-kommer-jag-att-traffa.html | Vilka kommer jag att träffa?
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/ett-samarbete-tillsammans-med-dig.html | Ett samarbete tillsammans med dig
+  https://www.hofors.se/stod--omsorg/aldreomsorg/trygg-hemgang/uppfoljning.html | Uppföljning
+  https://www.hofors.se/stod--omsorg/stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.hofors.se/stod--omsorg/integration-och-flyktingmottagning.html | Integration och flyktingmottagning
+  https://www.hofors.se/stod--omsorg/avgifter-inom-vard-omsorg-och-hemsjukvard.html | Avgifter inom vård, omsorg och hemsjukvård
+  https://www.hofors.se/stod--omsorg/bostadstillagg-btp.html | Bostadstillägg (BTP)
+  https://www.hofors.se/stod--omsorg/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://www.hofors.se/stod--omsorg/stod/parkeringstillstand-for-rorelsehindrade.html | Parkeringstillstånd för rörelsehindrade
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar.html | Projekt som pågår
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/idis---inkludering-och-delaktighet-i-samverkan.html | IDIS – Inkludering och delaktighet i samverkan
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors.html | Trygg ung Hofors
+  https://www.hofors.se/stod--omsorg/projekt-som-pagar/trygg-ung-hofors/trygga-gruppen.html | Trygga gruppen
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet.html | Stöd tillbaka till arbetslivet
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/arbetsmarknadsenheten-ame.html | Arbetsmarknadsenheten AME
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar.html | Haga trädgårdar
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/hur-blir-man-en-av-deltagarna-i-vaxthuset.html | Hur blir man en av deltagarna i växthuset?
+  https://www.hofors.se/stod--omsorg/stod-tillbaka-till-arbetslivet/haga-tradgardar/vad-arbetar-deltagarna-med-i-vaxthuset.html | Vad arbetar deltagarna med i växthuset?
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende.html | Skadligt bruk och beroende
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/anhorigstod.html | Anhörigstöd
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/beroendemottagning-gavle.html | Beroendemottagning Gävle
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/socialjour.html | Socialjour
+  https://www.hofors.se/stod--omsorg/skadligt-bruk-och-beroende/stod-och-behandling.html | Stöd och behandling
+  https://www.hofors.se/stod--omsorg/synpunkter-och-klagomal.html | Synpunkter och klagomål
+  https://www.hofors.se/naringsliv.html | Näringsliv
+  https://www.hofors.se/naringsliv/entre-hofors.html | Entré Hofors
+  https://www.hofors.se/naringsliv/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-for-gardsforsaljning.html | Tillstånd för gårdsförsäljning
+  https://www.hofors.se/naringsliv/serveringstillstand/aktuellt-om-serveringstillstand.html | Aktuellt om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand.html | Att söka serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/alkohollagen.html | Alkohollagen
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/serveringstillstand.html | Serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/definition-av-alkoholdrycker.html | Definition av alkoholdrycker
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/ansok-om-serveringstillstand.html | Ansök om serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/anmalan.html | Anmälan
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/kunskapsprov.html | Kunskapsprov
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/riktlinjer.html | Riktlinjer
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/avgifter.html | Avgifter
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/tillsyn.html | Tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/restaurangrapport.html | Restaurangrapport
+  https://www.hofors.se/naringsliv/serveringstillstand/att-soka-serveringstillstand/lanksamling.html | Länksamling
+  https://www.hofors.se/naringsliv/serveringstillstand/kunskapsprov-om-alkhohollagstiftningen.html | Kunskapsprov om alkhohollagstiftningen
+  https://www.hofors.se/naringsliv/serveringstillstand/avgifter-for-ansokan-och-tillsyn.html | Avgifter för ansökan och tillsyn
+  https://www.hofors.se/naringsliv/serveringstillstand/riktlinjer-for-serveringstillstand.html | Riktlinjer för serveringstillstånd
+  https://www.hofors.se/naringsliv/serveringstillstand/folkol-forsaljning-och-servering.html | Folköl, försäljning och servering
+  https://www.hofors.se/naringsliv/serveringstillstand/ansvarsfull-alkoholservering.html | Ansvarsfull alkoholservering
+  https://www.hofors.se/naringsliv/serveringstillstand/vad-ar-krogar-mot-knark.html | Vad är Krogar mot Knark?
+  https://www.hofors.se/naringsliv/serveringstillstand/drick-varannan-vatten.html | Drick varannan vatten
+  https://www.hofors.se/naringsliv/serveringstillstand/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.hofors.se/naringsliv/livsmedelskontroll.html | Livsmedelskontroll
+  https://www.hofors.se/kommun--politik.html | Kommun & politik
+
+KF: 2026-01-15, 2026-01-20, 2026-09-13, 2026-10-19, 2026-10-22, 2026-10-23, 2026-11-01, 2026-11-02
 KS: 2026-01-15, 2026-01-20, 2026-06-08, 2026-06-23, 2026-10-22, 2026-10-23, 2026-11-01, 2026-11-02
 
 Aktuella handlingar:

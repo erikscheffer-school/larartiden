@@ -5,31 +5,317 @@ Sidor (poäng):
  21  https://www.sigtuna.se/kommun-och-politik.html  Kommun och politik - Sigtuna kommun
  20  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html  Tidigare sändningar från kommunfullmäktige - Sigtuna kommun
  17  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/offentlig-handling/begar-ut-handlingar-fran-samhallsbyggnadskontoret.html  Begär ut handlingar från samhällsbyggnadskontoret - Sigtuna kommun
- 16  https://www.sigtuna.se/kommun-och-politik/var-organisation/kommunstyrelsen.html  Kommunstyrelsen - Sigtuna kommun
  16  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/kommunstyrelse.html  Kommunstyrelse - Sigtuna kommun
+ 16  https://www.sigtuna.se/kommun-och-politik/var-organisation/kommunstyrelsen.html  Kommunstyrelsen - Sigtuna kommun
+ 14  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html  Handlingar och protokoll - Sigtuna kommun
  14  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige.html  Kommunfullmäktige - Sigtuna kommun
- 14  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv.html  Arkiv - Sigtuna kommun
- 14  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder.html  Nämnder - Sigtuna kommun
  14  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/sa-gar-det-till-att-fatta-beslut.html  Så går det till att fatta beslut - Sigtuna kommun
+ 14  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder.html  Nämnder - Sigtuna kommun
+ 14  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv.html  Arkiv - Sigtuna kommun
+ 14  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv/arkiv.html  Arkiv - Sigtuna kommun
  13  https://www.sigtuna.se/nyheter/nyheter/2026-10-23-kommunfullmaktiges-forsta-sammantrade-for-mandatperioden-holls-den-22-oktober.html  Kommunfullmäktiges första sammanträde för mandatperioden hölls den 22 oktober - Sigtuna kommun
  13  https://www.sigtuna.se/nyheter/nyheter/2026-10-13-kommunstyrelsens-ordforande-informerar.html  Kommunstyrelsens ordförande informerar - Sigtuna kommun
  12  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html  Anslagstavla - Sigtuna kommun
  12  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/offentlig-handling.html  Offentlig handling - Sigtuna kommun
-  8  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html  Så styrs vi - Sigtuna kommun
-  7  https://www.sigtuna.se/  Sigtuna kommun - Sigtuna kommun
-  7  https://www.sigtuna.se/?s=kallelse+kommunfullm%C3%A4ktige  Sigtuna kommun - Sigtuna kommun
-  7  https://www.sigtuna.se/kommun-och-politik/var-organisation.html  Vår organisation - Sigtuna kommun
+  9  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv/lokalhistoria.html  Lokalhistoria - Sigtuna kommun
   7  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/offentlig-handling/begar-ut-handlingar-fran-samhallsbyggnadskontoret/digitalt-bygglovsarkiv.html  Digitalt bygglovsarkiv - Sigtuna kommun
-  6  https://www.sigtuna.se/nyheter/nyheter/2026-10-01-forhandlingar-klara-mellan-partierna-i-sigtuna-kommun.html  Förhandlingar klara mellan partierna i Sigtuna kommun - Sigtuna kommun
-  6  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/offentlig-handling/begar-ut-handlingar-fran-samhallsbyggnadskontoret/digitalt-bygglovsarkiv/instruktioner-till-digitalt-bygglovsarkiv.html  Instruktioner till digitalt bygglovsarkiv - Sigtuna kommun
-  6  https://www.sigtuna.se/nyheter/nyheter/2026-11-05-finalister-i-tavlingen-om-arets-arkitekturpris.html  Finalister i tävlingen om årets Arkitekturpris - Sigtuna kommun
+  7  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/offentlig-handling/begar-ut-handlingar-fran-samhallsbyggnadskontoret/digitalt-bygglovsarkiv/instruktioner-till-digitalt-bygglovsarkiv.html  Instruktioner till digitalt bygglovsarkiv - Sigtuna kommun
+  7  https://www.sigtuna.se/kommun-och-politik/var-organisation.html  Vår organisation - Sigtuna kommun
   5  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet.html  Handlingar, beslut och rättssäkerhet - Sigtuna kommun
   4  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/overklaga-beslut.html  Överklaga beslut - Sigtuna kommun
   4  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/visselblasartjanst.html  Visselblåsartjänst - Sigtuna kommun
-  2  https://www.sigtuna.se/nyheter/nyheter/2026-10-26-installation-av-eldstad-inomhus.html  Installation av eldstad inomhus - Sigtuna kommun
-  2  https://www.sigtuna.se/nyheter/nyheter/2026-10-21-sa-skyddar-du-dig-mot-bedragare-som-vill-hamta-dina-vardesaker.html  Så skyddar du dig mot bedragare som vill hämta dina värdesaker - Sigtuna kommun
-  1  https://www.sigtuna.se/nyheter/nyheter/2026-11-06-ge-en-julklapp-som-gor-skillnad.html  Ge en julklapp som gör skillnad - Sigtuna kommun
-  1  https://www.sigtuna.se/nyheter/nyheter/2026-11-04-fler-arenden-digitala-inom-bygglov-miljotillsyn-och-livsmedelskontroll.html  Fler ärenden digitala inom bygglov, miljötillsyn och livsmedelskontroll - Sigtuna kommun
+  4  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv/foreningsarkiv.html  Föreningsarkiv - Sigtuna kommun
+  4  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/arkiv/bildarkiv.html  Bildarkiv - Sigtuna kommun
+
+Länkar på https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html:
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#jump-to-content | Gå till innehåll
+  https://www.sigtuna.se/suomeksi.html | Suomeksi
+  https://www.sigtuna.se/other-languages.html | Other languages
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html# | Lyssna
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/e-tjanster/mina-sidor.html | Mina sidor
+  https://www.sigtuna.se/ | Gå till startsidan
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet.html | Handlingar, beslut och rättssäkerhet
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/val-2026.html | Val 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/sa-gar-det-till-att-fatta-beslut.html | Så går det till att fatta beslut
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunalrad-och-oppositionsrad.html | Kommunalråd och oppositionsråd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/styrande-dokument.html | Styrande dokument
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige.html | Kommunfullmäktige
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder.html | Nämnder
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/kommunstyrelse.html | Kommunstyrelse
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/bygg--och-miljonamnd.html | Bygg- och miljönämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/utbildningsnamnd.html | Utbildningsnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/kultur--och-fritidsnamnd.html | Kultur- och fritidsnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/socialnamnd.html | Socialnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/vard--och-omsorgsnamnd.html | Vård- och omsorgsnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/krisledningsnamnd.html | Krisledningsnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/valnamnd.html | Valnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/overformyndarnamnd.html | Överförmyndarnämnd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/fortroendemannaportal.html | Förtroendemannaportal
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/politisk-plattform.html | Politisk plattform
+  https://www.sigtuna.se/kommun-och-politik/var-organisation.html | Vår organisation
+  https://www.sigtuna.se/kommun-och-politik/fakta-om-oss.html | Fakta om oss
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med.html | Så arbetar vi med
+  https://www.sigtuna.se/kommun-och-politik/projekt-och-satsningar.html | Projekt och satsningar
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial.html | Press- och informationsmaterial
+  https://www.sigtuna.se/kommun-och-politik/dataskyddsforordningen-gdpr.html | Dataskyddsförordningen (GDPR)
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/nyheter.html | Nyheter
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/ | Start
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder.html | Nämnder
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunfullmaktigessammantradesdagar2026 | Kommun­­fullmäktiges sammanträdes­dagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsenssammantradesdagar2026 | Kommunstyrelsens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsensarbetsutskottssammantradesdagar2026 | Kommunstyrelsens arbetsutskotts sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsenssamhallsbyggnadsutskottssammantradesdagar2026 | Kommunstyrelsens samhällsbyggnadsutskotts sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Utbildningsnamndenssammantradesdagar2026 | Utbildningsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Byggochmiljonamndenssammantradesdagar2026 | Bygg- och miljö­nämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Socialnamndenssammantradesdagar2026 | Socialnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kulturochfritidsnamndenssammantradesdagar2026 | Kultur- och fritidsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Vardochomsorgsnamndenssammantradesdagar2026 | Vård- och omsorgsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Handlingarochprotokoll | Handlingar och protokoll
+  https://qcnl.tv/p/TPtEsmovGiqU6mHhB0OPYw | 29 januari Länk till annan webbplats.
+  https://qcnl.tv/p/ljBAv23A_nIShnwMMBVstA | 26 mars Länk till annan webbplats.
+  https://qcnl.tv/p/uuInGBSpIwgJMfxgrmL91A | 23 april Länk till annan webbplats.
+  https://qcnl.tv/p/ALmfuf903OugpsYEfst6Dw | 21 maj Länk till annan webbplats.
+  https://qcnl.tv/p/KSad2eF-jB-SxPhPxyyxgw | 16 juni (tisdag) Länk till annan webbplats.
+  https://qcnl.tv/p/a5bCkjIlk9Cv8pD8D4_W6w | 24 september (inställt) Länk till annan webbplats, öppnas i nytt fönster.
+  https://qcnl.tv/p/pof7dTQw1FJzp2dPvbRdAg | 22 oktober Länk till annan webbplats.
+  https://qcnl.tv/p/arTFGA68UbrcuuJ43koaCA | 26 november (budget) Länk till annan webbplats.
+  https://qcnl.tv/p/3HXDqSWDyrjMSoeQUdjuFg | 15 december (tisdag) Länk till annan webbplats.
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html | Ta del av handlingar och protokoll
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunfullmaktigessammantradesdagar2026 | Kommun­­fullmäktiges sammanträdes­dagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsenssammantradesdagar2026 | Kommunstyrelsens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsensarbetsutskottssammantradesdagar2026 | Kommunstyrelsens arbetsutskotts sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kommunstyrelsenssamhallsbyggnadsutskottssammantradesdagar2026 | Kommunstyrelsens samhällsbyggnadsutskotts sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Utbildningsnamndenssammantradesdagar2026 | Utbildningsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Byggochmiljonamndenssammantradesdagar2026 | Bygg- och miljö­nämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Socialnamndenssammantradesdagar2026 | Socialnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Kulturochfritidsnamndenssammantradesdagar2026 | Kultur- och fritidsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Vardochomsorgsnamndenssammantradesdagar2026 | Vård- och omsorgsnämndens sammanträdesdagar 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html#h-Handlingarochprotokoll | Handlingar och protokoll
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder/sammantradesdagar.html# | Upp till toppen
+  https://www.sigtuna.se/kontakta-oss/om-kontaktcenter.html | Gå vidare till kontaktcenter
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med/sigtuna-kommuns-app.html | Sigtuna kommuns app
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html | Handlingar och protokoll
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial/pressmeddelanden.html | Pressmeddelanden
+  https://karta.sigtuna.se/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://bibliotek.sigtuna.se/ | Bibliotek Länk till annan webbplats.
+  https://www.sigtuna.se/kontakta-oss/felanmalan.html | Felanmälan
+  https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/skolportalen.html | Skolportal grundskola
+  https://www.sigtuna.se/utbildning-och-barnomsorg/forskola/skolportalen---forskola.html | Skolportal förskola
+  https://www.sigtuna.se/e-tjanster.html | Alla e-tjänster
+  https://www.sigtuna.se/om-webbplatsen/tillganglighetsutlatande.html | Tillgänglighetsutlåtande
+  https://www.sigtuna.se/om-webbplatsen/behandlingar-av-personuppgifter-och-dataskydd-gdpr.html | Behandling av personuppgifter
+  https://www.sigtuna.se/om-webbplatsen/webbkarta.html | Webbplatskarta
+  https://www.sigtuna.se/om-webbplatsen/talande-webb.html | Lyssna på webben
+
+Länkar på https://www.sigtuna.se/kommun-och-politik.html:
+  https://www.sigtuna.se/kommun-och-politik.html#jump-to-content | Gå till innehåll
+  https://www.sigtuna.se/suomeksi.html | Suomeksi
+  https://www.sigtuna.se/other-languages.html | Other languages
+  https://www.sigtuna.se/kommun-och-politik.html# | Lyssna
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/e-tjanster/mina-sidor.html | Mina sidor
+  https://www.sigtuna.se/ | Gå till startsidan
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet.html | Handlingar, beslut och rättssäkerhet
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi
+  https://www.sigtuna.se/kommun-och-politik/var-organisation.html | Vår organisation
+  https://www.sigtuna.se/kommun-och-politik/fakta-om-oss.html | Fakta om oss
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med.html | Så arbetar vi med
+  https://www.sigtuna.se/kommun-och-politik/projekt-och-satsningar.html | Projekt och satsningar
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial.html | Press- och informationsmaterial
+  https://www.sigtuna.se/kommun-och-politik/dataskyddsforordningen-gdpr.html | Dataskyddsförordningen (GDPR)
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/nyheter.html | Nyheter
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/kommun-och-politik/var-organisation/forvaltningar-och-kontor/kommunledningskontoret.html | Kommunledningskontoret
+  https://www.sigtuna.se/kommun-och-politik/projekt-och-satsningar/arlandakommunen/arlandaregionen.html | Arlandaregionen
+  https://www.sigtuna.se/kommun-och-politik/var-organisation.html | Vår organisation
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med/vanorter.html | Vänorter
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial.html | Press- och informationsmaterial
+  https://www.sigtuna.se/ | Start
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet.html | Handlingar, beslut och rättssäkerhet De flesta handlingar som kommunen tar emot eller upprättar är o
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi Hur fattas beslut om skolor, bostäder och parker? Här kan du läsa om politiken, valen oc
+  https://www.sigtuna.se/kommun-och-politik/var-organisation.html | Vår organisation Så fungerar kommunen, förvaltningar och kontor, bolag och stiftelser, kommunstyrels
+  https://www.sigtuna.se/kommun-och-politik/fakta-om-oss.html | Fakta om oss Här hittar du skattesatser, kartor, vår historia, framtidsplaner, mål och budget.
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med.html | Så arbetar vi med Hållbarhet, mänskliga rättigheter, priser och utmärkelser, trygghet, vänorter, vär
+  https://www.sigtuna.se/kommun-och-politik/projekt-och-satsningar.html | Projekt och satsningar Samhällsbyggnadslyftet, Arlandakommunen, tiopunktsprogram för skolan och arbe
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial.html | Press- och informationsmaterial Här finns våra pressmeddelanden, bilder, kontaktuppgifter och grafis
+  https://www.sigtuna.se/kommun-och-politik/dataskyddsforordningen-gdpr.html | Dataskyddsförordningen (GDPR) Vi hanterar personuppgifter i vår verksamhet. Här kan du läsa vad det 
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html#2a0ff1fb64f2217-9a76378b0fe91034829 | Kommunstyrelsens senaste beslut Här hittar du protokoll från kommunstyrelsens sammanträden.
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige.html | Kommunfullmäktiges sammanträden Kommunfullmäktiges sammanträden är öppna för alla och går även att t
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med/sigtuna-kommuns-app.html | Nära och aktuellt med Sigtuna kommuns invånarapp Få information som berör dig och ditt närområde i v
+  https://www.sigtuna.se/kommun-och-politik.html# | Upp till toppen
+  https://www.sigtuna.se/nyheter/nyheter---kommun-och-politik.html | Visa alla nyheter
+  https://www.sigtuna.se/nyheter/nyheter/2026-10-23-kommunfullmaktiges-forsta-sammantrade-for-mandatperioden-holls-den-22-oktober.html | Kommunfullmäktiges första sammanträde för mandatperioden hölls den 22 oktober
+  https://www.sigtuna.se/nyheter/nyheter/2026-10-13-kommunstyrelsens-ordforande-informerar.html | Kommunstyrelsens ordförande informerar
+  https://www.sigtuna.se/nyheter/nyheter/2026-10-01-forhandlingar-klara-mellan-partierna-i-sigtuna-kommun.html | Förhandlingar klara mellan partierna i Sigtuna kommun
+  https://www.sigtuna.se/kontakta-oss/om-kontaktcenter.html | Gå vidare till kontaktcenter
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med/sigtuna-kommuns-app.html | Sigtuna kommuns app
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html | Handlingar och protokoll
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial/pressmeddelanden.html | Pressmeddelanden
+  https://karta.sigtuna.se/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://bibliotek.sigtuna.se/ | Bibliotek Länk till annan webbplats.
+  https://www.sigtuna.se/kontakta-oss/felanmalan.html | Felanmälan
+  https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/skolportalen.html | Skolportal grundskola
+  https://www.sigtuna.se/utbildning-och-barnomsorg/forskola/skolportalen---forskola.html | Skolportal förskola
+  https://www.sigtuna.se/e-tjanster.html | Alla e-tjänster
+  https://www.sigtuna.se/om-webbplatsen/tillganglighetsutlatande.html | Tillgänglighetsutlåtande
+  https://www.sigtuna.se/om-webbplatsen/behandlingar-av-personuppgifter-och-dataskydd-gdpr.html | Behandling av personuppgifter
+  https://www.sigtuna.se/om-webbplatsen/webbkarta.html | Webbplatskarta
+  https://www.sigtuna.se/om-webbplatsen/talande-webb.html | Lyssna på webben
+
+Länkar på https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html:
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#jump-to-content | Gå till innehåll
+  https://www.sigtuna.se/suomeksi.html | Suomeksi
+  https://www.sigtuna.se/other-languages.html | Other languages
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html# | Lyssna
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/e-tjanster/mina-sidor.html | Mina sidor
+  https://www.sigtuna.se/ | Gå till startsidan
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet.html | Handlingar, beslut och rättssäkerhet
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/val-2026.html | Val 2026
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/sa-gar-det-till-att-fatta-beslut.html | Så går det till att fatta beslut
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/valresultat-och-mandatfordelning.html | Valresultat och mandatfördelning
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunalrad-och-oppositionsrad.html | Kommunalråd och oppositionsråd
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/styrande-dokument.html | Styrande dokument
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige.html | Kommunfullmäktige
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/namnder.html | Nämnder
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/fortroendemannaportal.html | Förtroendemannaportal
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/politisk-plattform.html | Politisk plattform
+  https://www.sigtuna.se/kommun-och-politik/var-organisation.html | Vår organisation
+  https://www.sigtuna.se/kommun-och-politik/fakta-om-oss.html | Fakta om oss
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med.html | Så arbetar vi med
+  https://www.sigtuna.se/kommun-och-politik/projekt-och-satsningar.html | Projekt och satsningar
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial.html | Press- och informationsmaterial
+  https://www.sigtuna.se/kommun-och-politik/dataskyddsforordningen-gdpr.html | Dataskyddsförordningen (GDPR)
+  https://www.sigtuna.se/e-tjanster.html | E-tjänster
+  https://www.sigtuna.se/nyheter.html | Nyheter
+  https://www.sigtuna.se/kontakta-oss.html | Kontakta oss
+  https://www.sigtuna.se/ | Start
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi.html | Så styrs vi
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige.html | Kommunfullmäktige
+  https://qcnl.tv/p/aWn-4CqFI74-p9nS4JjKTg | 30 januari Länk till annan webbplats.
+  https://qcnl.tv/p/5LWRmjBcj9SoOwhPUyJcpg | 27 mars Länk till annan webbplats.
+  https://qcnl.tv/p/Gi7m7S0C40AOrS1OGRQIrg | 24 april Länk till annan webbplats.
+  https://qcnl.tv/p/KLGBN7JuNx4KUDx5ROkOcQ | 17 juni (tisdag) Länk till annan webbplats.
+  https://qcnl.tv/p/B7kgeaRaNGrXVeyTzQOAPg | 25 september Länk till annan webbplats.
+  https://qcnl.tv/p/F-XnXLtJfsPwd6J2wHYHKg | 23 oktober Länk till annan webbplats.
+  https://qcnl.tv/p/GOYa9DTEuwSSONQNnJ2EFw | 27 november (budget) Länk till annan webbplats.
+  https://qcnl.tv/p/A5xsOMxvvt3BU7xC9KZICg | 16 december (tisdag) Länk till annan webbplats.
+  https://play.quickchannel.com/play/s8710z8 | 1 februari Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/kjj6u6j | 21 mars Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/r3397hx | 25 april (årsredovisning) Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/4uyjzcj | 23 maj Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/6ppeteu | 18 juni (tisdag) Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/d703w31 | 26 september Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/cvxpgse | 24 oktober Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/eww0802 | 28 november (budget) Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/3ruzczy | 17 december (tisdag) Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/t2jh8xv | 2 februari Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/7daeyei | 30 mars Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/f0y31aw | 27 april (årsredovisning) Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/bxvsjfr | 15 juni Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/q119k3z | 24 augusti - extrainsatt Länk till annan webbplats.
+  https://play.quickchannel.com/play/r3z0xv5 | 21 september Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/6psqusf | 26 oktober Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/d7u2p95 | 30 november (budgetsammanträde, börjar klockan 9.00) Länk till annan webbplats, öppnas i nytt fönste
+  https://play.quickchannel.com/play/hz3uqby | 14 december Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/s821p80 | 31 mars Länk till annan webbplats.
+  https://play.quickchannel.com/play/zh5p3hr | 28 april Länk till annan webbplats.
+  https://play.quickchannel.com/play/bxjrfyb | 19 maj Länk till annan webbplats.
+  https://play.quickchannel.com/play/ai3w5k1 | 16 juni Länk till annan webbplats.
+  https://play.quickchannel.com/play/6p9euss | 20 oktober* Länk till annan webbplats.
+  https://play.quickchannel.com/play/g9a417a | 30 november (onsdag, budgetsammanträde) Länk till annan webbplats.
+  https://play.quickchannel.com/play/4u92uu6 | 15 december Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/b5eyqr | 25 mars Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/xbzjw63 | 29 april Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/5yu16w7 | 27 maj Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/7dgxdkg | 17 juni Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/f07jhgv | 23 september Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/kjc8c6j | 28 oktober Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/r31y3hx | 2 december Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/4ui2icj | 16 december Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=dha277 | 3 februari Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=62ptgx | 27 april Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=hdzic6 | 17 juni Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=c0x4tf | 21 september Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=e4w807 | 22 oktober Länk till annan webbplats, öppnas i nytt fönster.
+  https://secure.quickchannel.com/Qc/create/mainshow.asp?id=3iubjy | 30 november Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.quickchannel.com/play/i3ahxf | 16 december Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2025 | Sammanträden 2025
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2024 | Sammanträden 2024
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2023 | Sammanträden 2023
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2022 | Sammanträden 2022
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2021 | Sammanträden 2021
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html#h-Sammantraden2020 | Sammanträden 2020
+  https://www.sigtuna.se/kommun-och-politik/sa-styrs-vi/kommunfullmaktige/tidigare-sandningar-fran-kommunfullmaktige.html# | Upp till toppen
+  https://www.sigtuna.se/kontakta-oss/om-kontaktcenter.html | Gå vidare till kontaktcenter
+  https://www.sigtuna.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.sigtuna.se/foretag-och-foreningar.html | Företag och föreningar
+  https://www.sigtuna.se/kommun-och-politik.html | Kommun och politik
+  https://www.sigtuna.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.sigtuna.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.sigtuna.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/anslagstavla.html | Anslagstavla
+  https://www.sigtuna.se/kommun-och-politik/sa-arbetar-vi-med/sigtuna-kommuns-app.html | Sigtuna kommuns app
+  https://www.sigtuna.se/kommun-och-politik/handlingar-beslut-och-rattssakerhet/handlingar-och-protokoll.html | Handlingar och protokoll
+  https://www.sigtuna.se/kommun-och-politik/press--och-informationsmaterial/pressmeddelanden.html | Pressmeddelanden
+  https://karta.sigtuna.se/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://bibliotek.sigtuna.se/ | Bibliotek Länk till annan webbplats.
+  https://www.sigtuna.se/kontakta-oss/felanmalan.html | Felanmälan
+  https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/skolportalen.html | Skolportal grundskola
+  https://www.sigtuna.se/utbildning-och-barnomsorg/forskola/skolportalen---forskola.html | Skolportal förskola
+  https://www.sigtuna.se/e-tjanster.html | Alla e-tjänster
+  https://www.sigtuna.se/om-webbplatsen/tillganglighetsutlatande.html | Tillgänglighetsutlåtande
+  https://www.sigtuna.se/om-webbplatsen/behandlingar-av-personuppgifter-och-dataskydd-gdpr.html | Behandling av personuppgifter
+  https://www.sigtuna.se/om-webbplatsen/webbkarta.html | Webbplatskarta
+  https://www.sigtuna.se/om-webbplatsen/talande-webb.html | Lyssna på webben
 
 KF: 2026-10-23
 KS: 2026-10-13

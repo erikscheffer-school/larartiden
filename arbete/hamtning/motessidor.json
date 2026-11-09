@@ -86,7 +86,7 @@
   "nasta_kf": "2026-11-23",
   "senaste_kf": "2026-10-29",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 3
  },
  "atvidaberg": {
   "kommun": "Åtvidaberg",
@@ -124,7 +124,7 @@
   "kommun": "Bräcke",
   "url": "https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige",
   "titel": "Webbsändning av kommunfullmäktige - Bräcke kommun",
-  "poang": 25,
+  "poang": 26,
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
@@ -133,12 +133,16 @@
    "2026-06-10",
    "2026-10-15",
    "2026-10-21",
-   "2026-11-02"
+   "2026-10-23",
+   "2026-10-30",
+   "2026-11-02",
+   "2026-11-11",
+   "2026-11-16"
   ],
   "ks": [
    "2026-04-23"
   ],
-  "nasta_kf": null,
+  "nasta_kf": "2026-11-11",
   "senaste_kf": "2026-11-02",
   "nasta_ks": null,
   "aktuella_handlingar": 0
@@ -314,12 +318,15 @@
    "2026-10-20"
   ],
   "ks": [
-   "2026-06-22"
+   "2026-01-30",
+   "2026-06-22",
+   "2026-06-23",
+   "2026-09-11"
   ],
   "nasta_kf": null,
   "senaste_kf": "2026-10-20",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 2
  },
  "hofors": {
   "kommun": "Hofors",
@@ -329,6 +336,7 @@
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
+   "2026-01-15",
    "2026-01-20",
    "2026-09-13",
    "2026-10-19",
@@ -595,7 +603,7 @@
   "kommun": "Ljungby",
   "url": "https://www.ljungby.se/kommun-och-politik/politik-och-demokrati/kommunfullmaktige/dagordningar-och-protokoll",
   "titel": "Dagordningar och protokoll | Ljungby kommun",
-  "poang": 13,
+  "poang": 14,
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
@@ -668,7 +676,7 @@
   "nasta_kf": "2027-01-01",
   "senaste_kf": "2026-11-03",
   "nasta_ks": null,
-  "aktuella_handlingar": 0
+  "aktuella_handlingar": 123
  },
  "mullsjo": {
   "kommun": "Mullsjö",
@@ -699,7 +707,7 @@
   "kommun": "Norberg",
   "url": "https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html",
   "titel": "Protokoll och handlingar - Norbergs kommun",
-  "poang": 65,
+  "poang": 66,
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [
@@ -886,7 +894,7 @@
   "kommun": "Sollentuna",
   "url": "https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/",
   "titel": "Sammanträden i Sollentuna kommun",
-  "poang": 32,
+  "poang": 34,
   "upptackt": "2026-11-09",
   "senast": "2026-11-09",
   "kf": [

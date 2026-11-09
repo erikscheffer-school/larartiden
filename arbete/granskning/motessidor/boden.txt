@@ -4,33 +4,569 @@ Sidor (poäng):
  19  https://boden.se/kommun-och-politik/politik/politikerportal  Politikerportal - boden.se
  18  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-02-10-ny-e-tjanst-for-ersattning-av-forlorad-arbetsinkomst  Ny e-tjänst för ersättning av förlorad arbetsinkomst - boden.se
  17  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad  Problem med inloggning och e-post i iPhone och iPad - boden.se
- 16  https://boden.se/kommun-och-politik/inkop-och-avtal/aktuella-upphandlingar  Aktuella upphandlingar - boden.se
  15  https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron  Arbeta i Ciceron - boden.se
  14  https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank/arenden-och-sammantraden  Ärenden och sammanträden - boden.se
  14  https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank/styrande-dokument-och-lagar  Styrande dokument och lagar - boden.se
  13  https://boden.se/kommun-och-politik/politik/kommunfullmaktige  Kommunfullmäktige - boden.se
  13  https://boden.se/kommun-och-politik/politik/politiska-namnder  Politiska nämnder - boden.se
- 13  https://boden.se/kommun-och-politik/politik/sa-fungerar-de-allmanna-valen  Så fungerar de allmänna valen - boden.se
- 12  https://boden.se/  boden.se - boden.se
- 12  https://boden.se/?s=kallelse+kommunfullm%C3%A4ktige  boden.se - boden.se
  12  https://boden.se/kommun-och-politik/politik/sa-kan-du-paverka-och-gora-din-rost-hord  Så kan du påverka och göra din röst hörd - boden.se
  11  https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank  Kunskapsbank - boden.se
  10  https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar  Arvode och ersättningar - boden.se
+  9  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026  Rösta i valet 2026 - boden.se
   9  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter  Nyheter - boden.se
   8  https://boden.se/kommun-och-politik/politik  Politik - boden.se
-  8  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026  Rösta i valet 2026 - boden.se
-  8  https://boden.se/kommun-och-politik/politik/sa-fungerar-de-allmanna-valen/rosta-pa-valdagen  Rösta på valdagen - boden.se
-  7  https://boden.se/nyheter/nyhet/2026-10-29-eyvind-johnsonpriset-2026-tilldelas-sara-stridsberg  Eyvind Johnsonpriset 2026 tilldelas Sara Stridsberg - boden.se
+  8  https://boden.se/kommun-och-politik/politik/politikerportal/utbildningar/offentlighetsprincipen  Offentlighetsprincipen - boden.se
   7  https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar/riktlinjer-for-arvode-och-ersattningar  Riktlinjer för arvode och ersättningar - boden.se
   6  https://boden.se/kommun-och-politik/politik/ungdomsinflytande  Ungdomsinflytande - boden.se
   6  https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank/sekretess  Sekretess - boden.se
-  6  https://boden.se/kommun-och-politik/politik/sa-fungerar-de-allmanna-valen/kallkritik  Källkritik - boden.se
-  5  https://boden.se/kommun-och-politik/inkop-och-avtal/planerade-upphandlingar  Planerade upphandlingar - boden.se
+  5  https://boden.se/kommun-och-politik/politik/politikerportal/utbildningar  Utbildningar - boden.se
   4  https://boden.se/kommun-och-politik/politik/politikerportal/bestall-it-utrustning  Beställ IT-utrustning - boden.se
-  3  https://boden.se/nyheter/nyhet/2026-11-03-nu-kan-du-losa-sparavgiften-for-langdskidakning  Nu kan du lösa spåravgiften för längdskidåkning - boden.se
   3  https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar/rapportera-arvode  Rapportera arvode - boden.se
-  2  https://boden.se/nyheter/nyhet/2026-11-02-nya-gang--och-cykelvagar-invigdes-i-svartbyn  Nya gång- och cykelvägar invigdes i Svartbyn - boden.se
-  2  https://boden.se/nyheter/nyhet/2026-10-27-hostlovet-ar-igang  Höstlovet är igång! - boden.se
+  2  https://boden.se/nyheter/nyhet/2026-10-07-mitt-boden-har-fatt-ny-design-och-battre-prestanda  Mitt Boden har fått ny design och bättre prestanda - boden.se
+  2  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran  Hjälp oss hitta årets Boden-gran - boden.se
+  2  https://boden.se/kommun-och-politik/politik/politikerportal/utbildningar/handbok-for-politikerplattor  Handbok för politikerplattor - boden.se
+  1  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna  Tack till alla som höll Boden flytande under krisveckorna - boden.se
+
+Länkar på https://boden.se/kommun-och-politik/politik/politikerportal:
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/politik/politikerportal | 
+  https://boden.enamnd.se/ | 
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedlar >
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedel >
+  https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats.
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://anslagstavla.boden.se/#!/billboard/ | GÅ TILL ANSLAGSTAVLAN >> LÄNK TILL ANNAN WEBBPLATS.
+  https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid1Hittaocharbetamedsammantraden | 1. Välj möte via den blå rutan, se uppdateringar och öppna kallelser eller protokoll >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid3Sokaarendenellerhandlingar | 3. Använd förstoringsglaset för att hitta tidigare ärenden och handlingar >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/arbeta-i-ciceron#svid4Justeraprotokolldigitalt | 4. Justera protokoll i Ciceron Assistent med BankID. En grön bock visar att signeringen är klar >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar | ARVODE OCH ERSÄTTNINGAR >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/kunskapsbank | KUNSKAPSBANK >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/bestall-it-utrustning | BESTÄLL IT-UTRUSTNING >>
+  https://boden.se/kommun-och-politik/politik/politikerportal#Rubrikankare | SE FLER KATEGORIER
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-02-10-ny-e-tjanst-for-ersattning-av-forlorad-arbetsinkomst | Läs…
+  https://boden.se/driftinfo | DRIFTINFO
+  https://boden.se/driftinfo | 
+  https://boden.se/nyheter/nyhet/2026-10-07-mitt-boden-har-fatt-ny-design-och-battre-prestanda | Mitt Boden har fått ny design och bättre prestanda
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | LÄS ALLT AKTUELLT INOM POLITIKEN
+  https://boden.se/kommun-och-politik/politik/politikerportal/utbildningar | UTBILDNINGAR >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/passerkort | PASSERKORT >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/nomineringar-och-avsagelser | NOMINERINGAR OCH AVSÄGELSER >>
+  https://boden.se/kommun-och-politik/politik/politikerportal/fortroendevalda-i-kommunala-bolag | FÖRTROENDEVALDA I KOMMUNALA BOLAG >>
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://flyttatillboden.se/ | Länk till annan webbplats.
+
+Länkar på https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-02-10-ny-e-tjanst-for-ersattning-av-forlorad-arbetsinkomst:
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-02-10-ny-e-tjanst-for-ersattning-av-forlorad-arbetsinkomst | 
+  https://boden.enamnd.se/ | 
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedlar >
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedel >
+  https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats.
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://boden.enamnd.se/oversikt/overview/3781 | Förlorad arbetsinkomst för förtroendevald i Bodens kommun Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/politik/politikerportal/arvode-och-ersattningar/forlorad-arbetsinkomst | Förlorad arbetsinkomst
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | SE ALLA NYHETER
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | 
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Har du en stor, tät och fin gran som du vill bli av med? Då kanske den kan få nytt liv som årets jul
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Magnus Åkerlund, kommunchef i Boden, sammanfattar augusti månads väder- och vattenflödeskris och tac
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Den 13 september 2026 är det val till riksdag, region- och kommunfullmäktige. När du röstar i valet 
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Medborgarservice svarar: 5 vanliga frågor inför sommaren
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Medborgarservice svarar: 5 vanliga frågor inför sommaren
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Undrar du när slambrunnen töms, var du kan bada eller hur du anmäler invasiva växter? Här svarar Med
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=bodenbild | Boden Bild , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Från ord till handling i Sveriges bästa ungdomsforum
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Från ord till handling i Sveriges bästa ungdomsforum
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Hur kan Boden bli en bättre plats för unga? Och hur kan Norrbotten bli mer innovativt och konkurrens
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=bodenbild | Boden Bild , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden bildar lokalt beredskapsråd för livsmedel
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden bildar lokalt beredskapsråd för livsmedel
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden har som första kommun i Norrbotten undertecknat en överenskommelse med lokala handlare och bil
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=samh%C3%A4lle | Samhälle och utveckling , visa artiklar med samma etikett
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Problem med inloggning och e-post i iPhone och iPad
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Problem med inloggning och e-post i iPhone och iPad
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Här får du hjälp med inloggning på iPad, och information om hur du använder e-post på iPhone och iPa
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | Boden fortsätter att leverera myndighetsutövning i toppklass
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | Boden fortsätter att leverera myndighetsutövning i toppklass
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | I årets nationella företagsklimatundersökning Insikt 2025 placerar sig kommunen på fjärde plats i Sv
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=boende | Bygga och boende , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=samh%C3%A4lle | Samhälle och utveckling , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | “Nu kör vi!“
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | “Nu kör vi!“
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | Tydlighet, transparens, öppenhet och välkomnande glädje. Så beskrivs andan på Bodens ridanläggning a
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=fritid | Uppleva och göra , visa artiklar med samma etikett
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://flyttatillboden.se/ | Länk till annan webbplats.
+
+Länkar på https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad:
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | 
+  https://boden.enamnd.se/ | 
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedlar >
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://boden.se/bygga-och-boende/avfall-och-aterbruk | Avfall och återbruk
+  https://boden.se/bygga-och-boende/vatten-och-avlopp | Vatten och avlopp
+  https://boden.se/bygga-och-boende/bygga-och-riva | Bygga och riva
+  https://boden.se/bygga-och-boende/bostader-och-mark | Bostäder och mark
+  https://boden.se/bygga-och-boende/miljo-och-halsoskydd | Miljö och hälsoskydd
+  https://boden.se/bygga-och-boende/energi-och-uppvarmning | Energi och uppvärmning
+  https://boden.se/forskola-och-utbildning/forskola | Förskola
+  https://boden.se/forskola-och-utbildning/grundskola | Grundskola
+  https://boden.se/forskola-och-utbildning/gymnasium | Gymnasium
+  https://boden.se/forskola-och-utbildning/vuxenutbildning | Vuxenutbildning
+  https://boden.se/forskola-och-utbildning/elevhalsa | Elevhälsa
+  https://boden.se/stod-och-omsorg/seniorer-och-aldre | Seniorer och äldre
+  https://boden.se/stod-och-omsorg/stod-vid-ohalsa | Stöd vid ohälsa
+  https://boden.se/stod-och-omsorg/familj-barn-och-ungdom | Familj, barn och ungdom
+  https://boden.se/stod-och-omsorg/funktionsnedsattning | Funktionsnedsättning
+  https://boden.se/stod-och-omsorg/god-man-och-forvaltare | God man och förvaltare
+  https://boden.se/stod-och-omsorg/invandring-och-integration | Invandring och integration
+  https://boden.se/uppleva-och-gora/fritid-och-idrott | Fritid och idrott
+  https://boden.se/uppleva-och-gora/foreningsliv-och-bidrag | Föreningsliv och bidrag
+  https://boden.se/uppleva-och-gora/kultur-och-besoksmal | Kultur och besöksmål
+  https://boden.se/uppleva-och-gora/kulturskolan | Kulturskolan
+  https://boden.se/uppleva-och-gora/restaurang-viljan | Restaurang Viljan
+  https://boden.se/tillstand-och-avgifter/tillsyn-och-kontroller | Tillsyn och kontroller
+  https://boden.se/tillstand-och-avgifter/synpunkter-och-overklagan | Synpunkter och överklagan
+  https://boden.se/tillstand-och-avgifter/forsakring-och-ersattning | Försäkring och ersättning
+  https://boden.se/tillstand-och-avgifter/tillstandsansokan | Tillståndsansökan
+  https://boden.se/tillstand-och-avgifter/avgifter | Avgifter
+  https://boden.se/tillstand-och-avgifter/lokala-foreskrifter | Lokala föreskrifter
+  https://boden.se/gator-och-trafik/cykel--och-gangvagar | Cykel- och gångvägar
+  https://boden.se/gator-och-trafik/sopning-och-snorojning | Sopning och snöröjning
+  https://boden.se/gator-och-trafik/torg-och-allmanna-platser | Torg och allmänna platser
+  https://boden.se/gator-och-trafik/fardtjanst | Färdtjänst
+  https://boden.se/gator-och-trafik/kollektivtrafik | Kollektivtrafik
+  https://boden.se/gator-och-trafik/gator-och-parkering | Gator och parkering
+  https://boden.se/samhalle-och-utveckling/samhallsutveckling | Samhällsutveckling
+  https://boden.se/samhalle-och-utveckling/kris-och-sakerhet | Kris och säkerhet
+  https://boden.se/samhalle-och-utveckling/raddningstjansten | Räddningstjänsten
+  https://boden.se/samhalle-och-utveckling/kartor-och-statistik | Kartor och statistik
+  https://boden.se/samhalle-och-utveckling/hallbar-utveckling | Hållbar utveckling
+  https://boden.se/samhalle-och-utveckling/projektkarta | Projektkarta
+  https://bodenbusinesspark.com/ | Näringsliv Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://boden.se/kommun-och-politik/bodens-kommun | Bodens kommun
+  https://boden.se/kommun-och-politik/politik | Politik
+  https://boden.se/kommun-och-politik/ekonomi | Ekonomi
+  https://boden.se/kommun-och-politik/inkop-och-avtal | Inköp och avtal
+  https://boden.se/kommun-och-politik/brollop-och-begravning | Bröllop och begravning
+  https://boden.se/akut-hjalp | Akut hjälp >
+  https://anslagstavla.boden.se/ | Anslagstavlan > Länk till annan webbplats.
+  https://boden.se/matsedel | Matsedel >
+  https://boden.enamnd.se/ | E-tjänster > Länk till annan webbplats.
+  https://boden.se/driftinfo | Driftinformation >
+  https://boden.se/nyheter | Se alla nyheter
+  https://boden.se/nyheter | 
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | SE ALLA NYHETER
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter | 
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Hjälp oss hitta årets Boden-gran
+  https://boden.se/nyheter/nyhet/2026-10-07-hjalp-oss-hitta-arets-boden-gran | Har du en stor, tät och fin gran som du vill bli av med? Då kanske den kan få nytt liv som årets jul
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Tack till alla som höll Boden flytande under krisveckorna
+  https://boden.se/nyheter/nyhet/2026-09-04-tack-till-alla-som-holl-boden-flytande-under-krisveckorna | Magnus Åkerlund, kommunchef i Boden, sammanfattar augusti månads väder- och vattenflödeskris och tac
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Rösta i valet 2026
+  https://boden.se/nyheter/nyhet/2026-08-26-rosta-i-valet-2026 | Den 13 september 2026 är det val till riksdag, region- och kommunfullmäktige. När du röstar i valet 
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Medborgarservice svarar: 5 vanliga frågor inför sommaren
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Medborgarservice svarar: 5 vanliga frågor inför sommaren
+  https://boden.se/nyheter/nyhet/2026-06-18-medborgarservice-svarar-5-vanliga-fragor-infor-sommaren | Undrar du när slambrunnen töms, var du kan bada eller hur du anmäler invasiva växter? Här svarar Med
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=bodenbild | Boden Bild , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Från ord till handling i Sveriges bästa ungdomsforum
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Från ord till handling i Sveriges bästa ungdomsforum
+  https://boden.se/nyheter/nyhet/2026-06-17-fran-ord-till-handling-i-sveriges-basta-ungdomsforum | Hur kan Boden bli en bättre plats för unga? Och hur kan Norrbotten bli mer innovativt och konkurrens
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=bodenbild | Boden Bild , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden bildar lokalt beredskapsråd för livsmedel
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden bildar lokalt beredskapsråd för livsmedel
+  https://boden.se/nyheter/nyhet/2026-05-19-boden-bildar-lokalt-beredskapsrad-for-livsmedel | Boden har som första kommun i Norrbotten undertecknat en överenskommelse med lokala handlare och bil
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=samh%C3%A4lle | Samhälle och utveckling , visa artiklar med samma etikett
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Problem med inloggning och e-post i iPhone och iPad
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Problem med inloggning och e-post i iPhone och iPad
+  https://boden.se/kommun-och-politik/politik/politikerportal/nyheter/politiker-nyheter/2026-05-07-problem-med-inloggning-och-e-post-i-iphone-och-ipad | Här får du hjälp med inloggning på iPad, och information om hur du använder e-post på iPhone och iPa
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | Boden fortsätter att leverera myndighetsutövning i toppklass
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | Boden fortsätter att leverera myndighetsutövning i toppklass
+  https://boden.se/nyheter/nyhet/2026-05-07-boden-fortsatter-att-leverera-myndighetsutovning-i-toppklass | I årets nationella företagsklimatundersökning Insikt 2025 placerar sig kommunen på fjärde plats i Sv
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=boende | Bygga och boende , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=samh%C3%A4lle | Samhälle och utveckling , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | “Nu kör vi!“
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | “Nu kör vi!“
+  https://boden.se/nyheter/nyhet/2026-03-26-nu-kor-vi | Tydlighet, transparens, öppenhet och välkomnande glädje. Så beskrivs andan på Bodens ridanläggning a
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=kommun | Kommun och politik , visa artiklar med samma etikett
+  https://boden.se/nyheter/sorterade-nyheter?newslisttag=fritid | Uppleva och göra , visa artiklar med samma etikett
+  https://boden.se/ | 
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://boden.se/kommun-och-politik/medborgarservice | Medborgarservice
+  https://anslagstavla.boden.se/#!/billboard/ | Anslagstavla Länk till annan webbplats.
+  https://online.infracontrol.com/Public/Issue/Create?system=Bodens+kommun | Felanmälan Länk till annan webbplats.
+  https://www.dedu.se/deduwebextern/boden/ | Felanmälan fastigheter Länk till annan webbplats.
+  https://boden.se/steg-for-steg-guider/lamna-en-synpunkt | Synpunkter
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/tillganglighetsrapport | Tillgänglighetsrapport
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/integritetspolicy-for-boden.se | Integritetspolicy
+  https://boden.se/kommun-och-politik/bodens-kommun/informationshantering/behandling-av-personuppgifter | Personuppgifter
+  https://boden.enamnd.se/ | E-tjänster Länk till annan webbplats.
+  https://flyttatillboden.se/ | flyttatillboden.se Länk till annan webbplats.
+  https://bodenbusinesspark.com/ | bodenbusinesspark.com Länk till annan webbplats.
+  https://forsvarsmuseumboden.se/ | forsvarsmuseumboden.se Länk till annan webbplats.
+  https://bodenevent.se/ | bodenevent.se Länk till annan webbplats.
+  http://www.nordpoolen.com/ | nordpoolen.com Länk till annan webbplats.
+  https://flyttatillboden.se/ | Länk till annan webbplats.
 
 KF: 2026-09-13
 KS: 

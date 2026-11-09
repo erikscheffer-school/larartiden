@@ -2,35 +2,936 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  25  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/valnamnden/kallelserochprotokollforvalnamnden.4.50fe9fad160bede79e08b1f1.html  Kallelser och protokoll för valnämnden - Järfälla kommun
- 22  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/kallelserochprotokollforkommunfullmaktige.4.50d4092415a02a2706dd937.html  Kallelser och protokoll för kommunfullmäktige - Järfälla kommun
  22  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kallelserochprotokollforkommunstyrelsen.4.536cd07159b4ba121915d56.html  Kallelser och protokoll för kommunstyrelsen - Järfälla kommun
+ 22  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/kallelserochprotokollforkommunfullmaktige.4.50d4092415a02a2706dd937.html  Kallelser och protokoll för kommunfullmäktige - Järfälla kommun
  22  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kommunstyrelsensarbetsutskott.4.640dac6b1300db73e7c800021373.html  Kommunstyrelsens arbetsutskott - Järfälla kommun
  20  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/socialnamnden/kallelserochprotokollforsocialnamnden.4.257c272916ca001eea3a7b01.html  Kallelser och protokoll för socialnämnden - Järfälla kommun
  20  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/kulturdemokratiochfritidsnamnden/kallelserochprotokollforkulturdemokratiochfritidsnamnden.4.257c272916ca001eea3a311d.html  Kallelser och protokoll för kultur-, demokrati- och fritidsnämnden - Järfälla kommun
  17  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige.4.640dac6b1300db73e7c800010215.html  Kommunfullmäktige - Järfälla kommun
  17  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/utbildningsnamnden/kallelserochprotokollforbarnochungdomsnamnden.4.3c2c1ee319246a6f0322ea7f.html  Kallelser och protokoll för barn- och ungdomsnämnden - Järfälla kommun
  17  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/kompetensnamnden/kallelserochprotokollforkompetensnamnden.4.694184216aa22ad7ad647b9.html  Kallelser och protokoll för kompetensnämnden - Järfälla kommun
- 17  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/sammantradesdatum.4.1505b1ce1588d9e6cf52ba13.html  Sammanträdesdatum - Järfälla kommun
  16  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/forskolenamnden/kallelserochprotokollforbarnochungdomsnamnden.4.3c2c1ee319246a6f0322e897.html  Kallelser och protokoll för barn- och ungdomsnämnden - Järfälla kommun
+ 15  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen.4.3913bc1813296639adf80001459.html  Kommunstyrelsen - Järfälla kommun
  14  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/funktionsrattsrad.4.1b07075618b37df3623c947.html  Funktionsrättsråd - Järfälla kommun
  14  https://www.jarfalla.se/kommunochpolitik/politikochnamnder.4.738ee43d15b30e6ada7c25d3.html  Politik och nämnder - Järfälla kommun
- 13  https://www.jarfalla.se/nyheter/nyheter/artiklar/kommunfullmaktigeharbeslutatomnyttpolitisktstyre.5.5672f6361a18c7d8c2c37306.html  Kommunfullmäktige har beslutat om nytt politiskt styre - Järfälla kommun
- 13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kommunstyrelsensplanutskott.4.640dac6b1300db73e7c800021383.html  Kommunstyrelsens planutskott - Järfälla kommun
  13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kommunstyrelsensinnovationsutskott.4.4f2bbeed16970adb943168bf.html  Kommunstyrelsens innovationsutskott - Järfälla kommun
+ 13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kommunstyrelsensutskottformiljoochsocialhallbarhet.4.257c272916ca001eea3a478f.html  Kommunstyrelsens utskott för miljö och social hållbarhet - Järfälla kommun
+ 13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kommunstyrelsensplanutskott.4.640dac6b1300db73e7c800021383.html  Kommunstyrelsens planutskott - Järfälla kommun
  13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder.4.2442578917336bcb79031ada.html  Nämnder - Järfälla kommun
  13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/kulturdemokratiochfritidsnamnden.4.3913bc1813296639adf80001564.html  Kultur-, demokrati- och fritidsnämnden - Järfälla kommun
- 13  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/anslagstavla.4.3cbad1981604650ddf392cc7.html  Anslagstavla - Järfälla kommun
  11  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/valresultatochmandatfordelning.4.640dac6b1300db73e7c800010696.html  Valresultat och mandatfördelning - Järfälla kommun
  10  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/aldreochomsorgsnamnden/kallelserochprotokollforaldreochomsorgsnamndennamnden.4.197c2480185656c3996dc221.html  Kallelser och protokoll för äldre- och omsorgsnämndennämnden - Järfälla kommun
  10  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/aldrenamnden/kallelserochprotokollforaldrenamnden.4.76d67c0e16d3f80b25822622.html  Kallelser och protokoll för äldrenämnden - Järfälla kommun
  10  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/barnochungdomsnamnden/kallelserochprotokollforbarnochungdomsnamnden.4.4cf21b9f1684acf6afeed18.html  Kallelser och protokoll för barn- och ungdomsnämnden - Järfälla kommun
-  8  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/webbtvfrankommunfullmaktige/tidigarekommunfullmaktige.4.7516553017ff877fc9a2de1.html  Tidigare kommunfullmäktige - Järfälla kommun
-  7  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/webbtvfrankommunfullmaktige.4.5f709670131f722161c80004009.html  Webb-TV från kommunfullmäktige - Järfälla kommun
+  9  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/webbtvfrankommunfullmaktige/tidigarekommunfullmaktige.4.7516553017ff877fc9a2de1.html  Tidigare kommunfullmäktige - Järfälla kommun
+  8  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/webbtvfrankommunfullmaktige.4.5f709670131f722161c80004009.html  Webb-TV från kommunfullmäktige - Järfälla kommun
   7  https://www.jarfalla.se/kommunochpolitik/valet2026/valettillriksdagregionochkommunfullmaktige.4.44550b7519d9a56148d55bb6.html  Valet till riksdag, region- och kommunfullmäktige - Järfälla kommun
-  6  https://www.jarfalla.se/  Järfälla - Järfälla kommun
-  6  https://www.jarfalla.se/?s=kallelse+kommunfullm%C3%A4ktige  Järfälla - Järfälla kommun
-  1  https://www.jarfalla.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök - Järfälla kommun
-  1  https://www.jarfalla.se/kommunochpolitik/demokratiarbetetijarfalla/ungdemokrati.4.7636fb4b16f80b46a25ef297.html  Ung demokrati - Järfälla kommun
+
+Länkar på https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/valnamnden/kallelserochprotokollforvalnamnden.4.50fe9fad160bede79e08b1f1.html:
+  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/namnder/valnamnden/kallelserochprotokollforvalnamnden.4.50fe9fad160bede79e08b1f1.html#content | Gå direkt till sidans innehåll
+  https://www.jarfalla.se/sok | Sök
+  https://e-tjanster.jarfalla.se/ | E-tjänster
+  https://www.jarfalla.se/kontakt | Kontakt
+  https://www.jarfalla.se/forskolaskolaochutbildning.4.21ecf32412f3454ebeb80003.html | Förskola, skola och utbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html | Förskola och pedagogisk omsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/oppenforskola.4.640dac6b1300db73e7c80005126.html | Öppen förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/barnomsorgpaobekvamarbetstid.4.24397e2215f03c9322e31c2a.html | Barnomsorg på obekväm arbetstid
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/kvalitetochutveckling.4.6547062113a642feafa80009897.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Mat i förskolan
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/hittaochjamforforskola.4.792994e6191da7e1ba831514.html | Hitta och jämför förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/forskoleklass.4.640dac6b1300db73e7c800013310.html | Förskoleklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola.4.640dac6b1300db73e7c800013300.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/anpassadgrundskola.4.5f709670131f722161c80001879.html | Anpassad grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidshem.4.640dac6b1300db73e7c800013320.html | Fritidshem
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidsklubb.4.1c65bdc714a2a9685b1a61.html | Fritidsklubb
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/betyg.4.640dac6b1300db73e7c800013340.html | Betyg
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/modersmalochnyanlandaelever.4.640dac6b1300db73e7c800013610.html | Modersmål och nyanlända elever
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/kvalitetochutveckling.4.6547062113a642feafa80009558.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/skolskjuts.4.640dac6b1300db73e7c800013330.html | Skolskjuts
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Skolmat
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/hittaochjamforgrundskola.4.792994e6191da7e1ba831faa.html | Hitta och jämför grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/gymnasieskola.4.640dac6b1300db73e7c800013440.html | Gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/anpassadgymnasieskola.4.240e596615b50ff8ca1bf18b.html | Anpassad gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/restaurangjakobshorna.4.41fca120182e9335d1f21515.html | Restaurang Jakobs hörna
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning.4.7a4adec718a88341c787b9b6.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning/ansoktillvuxenutbildning/komvuxsomanpassadutbildning.4.5c8f27d0185dab449b3bda85.html | Anpassad vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/elevhalsanijarfalla.4.1291451a15df9d4f522a6321.html | Elevhälsan i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/sarskiltstodiforskolaochskola.4.640dac6b1300db73e7c800013570.html | Särskilt stöd i förskola och skola
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/atgardermotkrankandebehandling.4.2b3d141a15dfa163859aeef0.html | Åtgärder mot kränkande behandling
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/laxhjalp.4.5e2d810118697502d115aa9d.html | Läxhjälp
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/skolansokanochskolbyte/skolval.4.17d07d8416e3aaa8cbbcffe.html | Skolval
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/lokaleranpassadeefterbehov.4.4bd0a201194307b9754c6a21.html | Lokaler anpassade efter behov
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/systematisktkvalitetsarbete.4.4bd0a201194307b9754c6a15.html | Systematiskt kvalitetsarbete
+  https://www.jarfalla.se/forskolaskolaochutbildning/digitalaverktygiundervisningen.4.10f0753719add88fa4afc5.html | Digitala verktyg i undervisningen
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningforjarfallaelevsomgarlovskolaiannankommun.4.13098e32172be0901ea1f86.html | Ersättning för Järfällaelev som går lovskola i annan kommun
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningtillexternautforaremedbarnocheleverfolkbokfordaijarfallakommun.4.64a26ba316ed5b45aba764d2.html | Ersättning till externa utförare med barn och elever folkbokförda i Järfälla kommun
+  https://www.jarfalla.se/omsorgochstod.4.21ecf32412f3454ebeb800021.html | Omsorg och stöd
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillfamiljen.4.3cd60ca1179eb2d380f61841.html | Stöd till familjen
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillforaldrar.4.4ee4b3f9177db4ffcd843ce7.html | Stöd till föräldrar
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillbarnochunga.4.49119c4d165f693070e33bb7.html | Stöd till barn och unga
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/socialtjansten.4.3bfae18d1750260040a46cf0.html | Socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/senior65.4.5f065f091784aca4dd73bb31.html | Senior 65+
+  https://www.jarfalla.se/omsorgochstod/aldre/aldreomsorg.4.10e5fbf199c8d6e65b516d8.html | Äldreomsorg
+  https://www.jarfalla.se/omsorgochstod/aldre/demensstodvidkognitivsjukdom.4.10e5fbf199c8d6e65b517ab.html | Demens - stöd vid kognitiv sjukdom
+  https://www.jarfalla.se/omsorgochstod/aldre/anhorigstodaldre.4.80257281817fcde7076797a.html | Anhörigstöd - äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/stodochhjalpmedel.4.10e5fbf199c8d6e65b517c9.html | Stöd och hjälpmedel
+  https://www.jarfalla.se/omsorgochstod/aldre/kvalitetochsynpunkter.4.10e5fbf199c8d6e65b51b1a.html | Kvalitet och synpunkter
+  https://www.jarfalla.se/omsorgochstod/aldre/minlevnadsberattelse.4.2fcdfe0619a71550f021ebe1.html | Min levnadsberättelse
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/boendefordigmedfunktionsnedsattning.4.3cd60ca1179eb2d380f4cd82.html | Boende för dig med funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/omsorgochstodvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4cdc1.html | Omsorg och stöd vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/avgifterfunktionsnedsattning.4.6547062113a642feafa80009484.html | Avgifter funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/vardagochfritidvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4d192.html | Vardag och fritid vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/anhorigstodfunktionsnedsattning.4.80257281817fcde70767a34.html | Anhörigstöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/saansokerduomstodfunktionsnedsattning.4.2fcdfe0619a71550f025a33c.html | Så ansöker du om stöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/ekonomisktbistand.4.640dac6b1300db73e7c800012572.html | Ekonomiskt bistånd
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/godmanforvaltareochformyndare.4.5e62016e179eb27954e8f9fc.html | God man, förvaltare och förmyndare
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/budgetochskuldradgivning.4.640dac6b1300db73e7c800012582.html | Budget- och skuldrådgivning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foreningsstodforsocialtarbete.4.7a0ff1cc1326d53eaee8000532.html | Förenings­stöd för socialt arbete
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foraldraavgift.4.5cb141e71707b6f8fba76041.html | Föräldraavgift
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/besokasocialtjansten.106.3cd60ca1179eb2d380f61bf3.html | Besöka socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/kommunalhyresgaranti.4.94a2f3c1a042220b359db51.html | Kommunal hyresgaranti
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/gvigruppvaldsintervention.4.5296c0a81884796cfeaee90.html | GVI - gruppvåldsintervention
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/pratamedbarnochungaomgangkriminalitet.4.6c6bd12c194cdfd6c3e340.html | Prata med barn och unga om gängkriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodattlamnakriminalitet.4.998eee9187eae6aa036cd54.html | Stöd att lämna kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodmotvaldsbejakandeextremism.4.969fad41553c0afde0c06f8.html | Stöd mot våldsbejakande extremism
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/akuthjalpochjourer.4.640dac6b1300db73e7c800012382.html | Akut hjälp och jourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omduutsatternarstaendeforvald.4.1b293a015c5bef528f462ea.html | Om du utsätter närstående för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/fordigsomarutsattforvald.4.2bcf41dd144728ec59a4c82.html | För dig som är utsatt för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/hedersrelateratvaldochfortryck.4.2bcf41dd144728ec59a4eac.html | Hedersrelaterat våld och förtryck
+  https://www.jarfalla.se/omsorgochstod/hotochvald/kvinnojourer.4.640dac6b1300db73e7c800012402.html | Kvinnojourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/barnochungasomupplevervald.4.799f3cbd1754f3d02ff4e074.html | Barn och unga som upplever våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/relationsvaldsmottagningen.4.2bcf41dd144728ec59a15758.html | Relationsvåldsmottagningen
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omvaldkontrollochutnyttjande.4.36d7afb61a162f0267147751.html | Om våld, kontroll och utnyttjande
+  https://www.jarfalla.se/omsorgochstod/hotochvald/enmanadfrifranvaldinordvast.4.7e59150f192b27aca029969b.html | En månad fri från våld i Nordväst
+  https://www.jarfalla.se/omsorgochstod/hotochvald/valdsforebyggandearbete.4.461dca991a0adb403889f549.html | Våldsförebyggande arbete
+  https://www.jarfalla.se/omsorgochstod/skadligtbrukochberoende.4.6e23e38917bcf0f308728e8d.html | Skadligt bruk och beroende
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/synpunkterochklagomalpasocialtjansten.4.62960adb15f33a66cf35459f.html | Synpunkter och klagomål på socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/overklagabeslut.106.3cd60ca1179eb2d380f61c45.html | Överklaga beslut
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/begravning.4.640dac6b1300db73e7c800010025.html | Begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/borgerligvigsel.4.640dac6b1300db73e7c800010065.html | Borgerlig vigsel
+  https://www.jarfalla.se/omsorgochstod/halsoochsjukvard.4.28080af919e2aac004729914.html | Hälso- och sjukvård
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/underwebbar/utforarwebben/utforarwebben.4.40fc2c9e18847b4d1eb88bf8.html | Utförarwebben
+  https://www.jarfalla.se/foretagochnaringsliv/startaochdrivaforetag/blileverantortilljarfallakommun/lagenomvalfrihetssystemlov.4.503309051349ea619898000670.html | Bli utförare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/nyanlandijarfalla.4.72f99b9c1577a67ebfdf3f6c.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/aktiviteterfornyanlandaochasylsokande.4.cb10da41578a80a227f79.html | Aktiviteter för nyanlända och asylsökande
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/sfisvenskaforinvandrare.106.7825ded713248c8af998000286.html | SFI- Svenska för invandrare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/etableringstodfornyanlanda.4.7422009a1a1a189d53a1b57c.html | Etablering - stöd för nyanlända
+  https://www.jarfalla.se/fritidochkultur.4.21ecf32412f3454ebeb800068.html | Fritid och kultur
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bibliotek.4.640dac6b1300db73e7c80004912.html | Bibliotek
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/kulturmiljoer.4.640dac6b1300db73e7c800010486.html | Kulturmiljöer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/museum.4.640dac6b1300db73e7c800018240.html | Museum
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/biograf.4.640dac6b1300db73e7c800010055.html | Biograf
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/konst.4.640dac6b1300db73e7c800010105.html | Konst
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bildarkiv.4.4a68d5111549f3ad493d78d0.html | Bildarkiv
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/sevardheterochturism.4.640dac6b1300db73e7c800015637.html | Sevärdheter och turism
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/husetpahojden.4.4b149fc016400a9f7871223b.html | Huset på höjden
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/digitalkulturochfritid.4.27f60f99170f3bb6ab783e2.html | Digital kultur och fritid
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/presentartiklarochsouvenirer.4.640dac6b1300db73e7c80009954.html | Presentartiklar och souvenirer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/basbarkarby.4.6ef1593017cdf8d194b3dcd9.html | Bas Barkarby
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/jarfallafestivalen2026.4.3f3e90c8188b3c4768836ca.html | Järfällafestivalen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/upplevjarfalla.4.792994e6191da7e1ba84d0be.html | Upplev Järfälla
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/nationaldagen2026.4.17a13dc2195f171a828e8dd.html | Nationaldagen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/valborg.4.bf1ca5919d7222a7c6366dd.html | Valborg
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/badplatser.4.640dac6b1300db73e7c800015282.html | Badplatser
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/bruketsfriluftsomrade.4.fdd954816658ac181082803.html | Brukets friluftsområde
+  https://www.jarfalla.se/gatorochtrafik/resaijarfalla/cykla.4.640dac6b1300db73e7c800011706.html | Cykling
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/fritidsbanken.4.68d543851684dc2563223f62.html | Fritidsbanken
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/idrottsanlaggningarochhallar.4.640dac6b1300db73e7c800013878.html | Idrottsanläggningar och hallar
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/langdskidor.4.640dac6b1300db73e7c800015476.html | Längdskidor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/motionsspar.4.640dac6b1300db73e7c800015354.html | Motionsspår
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/padelbana.4.7ade51b179eb3335d07eef.html | Padelbana
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/simhall.4.640dac6b1300db73e7c800013908.html | Simhall
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/skidakning.4.640dac6b1300db73e7c800015486.html | Skidåkning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utegym.4.7f4e632514d7659827a2562.html | Utegym
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utomhustraning.4.47f4b9311791266dadb7c803.html | Utomhusträning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/viksjominibikepark.4.76ea7f4117c858fbf45315e4.html | Viksjö mini bike park
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/akaskridskor.4.640dac6b1300db73e7c800015107.html | Åka skridskor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/angsjofriluftsomrade.4.7649a918158917b879e26b0.html | Ängsjö friluftsområde
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/vandringslederochstrovomraden.4.640dac6b1300db73e7c800015528.html | Vandringsleder och strövområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fagelskadning.4.7649a918158917b879e2631.html | Fågelskådning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/parker.4.7649a918158917b879e26f6.html | Parker
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/ridning.4.7649a918158917b879e2738.html | Ridning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/kolonilotter.4.7649a918158917b879e2641.html | Kolonilotter
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fiske.4.7649a918158917b879e25f9.html | Fiske
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturreservat.4.64b618e17e39f55b78a35df.html | Naturreservat
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html | Hundrastgårdar
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturparlor.4.64a26ba316ed5b45abaa88d.html | Naturpärlor
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/grillplatser.4.4c08769e176f02f825ac7b11.html | Grillplatser
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturguidningar.4.5f065f091784aca4dd77c4de.html | Naturguidningar
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga/laslov.4.2295e6d915ee5a5496dc03e2.html | Läslov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/kulturskolan.4.640dac6b1300db73e7c80004945.html | Kulturskolan
+  https://www.jarfalla.se/fritidochkultur/barnochunga/komtek.4.3d2db0a615cf3aa5f655cd4c.html | KomTek
+  https://www.jarfalla.se/fritidochkultur/barnochunga/lekplatser.4.7649a918158917b879e24dc.html | Lekplatser
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidsgardarnaijarfallaungfritid.4.3c91703313281f4d701800018.html | Fritidsgårdarna i Järfälla - Ung fritid
+  https://www.jarfalla.se/fritidochkultur/barnochunga/driveinidrott.4.3d99d69b1328bd61286800052.html | Drive in-idrott
+  https://www.jarfalla.se/fritidochkultur/barnochunga/barnochungdomskultur.4.640dac6b1300db73e7c80009854.html | Barn- och ungdomskultur
+  https://www.jarfalla.se/fritidochkultur/barnochunga/jullov.4.3562f86d152d080429d6422f.html | Jullov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/sommarijarfalla.4.4a3aa69717229d52a7fb825f.html | Sommar i Järfälla
+  https://upplevjarfalla.se/lovaktiviteter | Lovaktiviteter
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidskortet.4.3cf5e2a219873672f093cf22.html | Fritidskortet
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsstod.4.640dac6b1300db73e7c800010756.html | Föreningsstöd
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/startaforening.4.640dac6b1300db73e7c800015575.html | Starta förening
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsregister.4.640dac6b1300db73e7c800015549.html | Föreningsregister
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/lokalbokning.4.640dac6b1300db73e7c800015155.html | Lokalbokning
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/aktivitetskortpanatetapn.4.161702b0147af39338c643.html | Aktivitetskort på Nätet (ApN)
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/civilsamhalletijarfalla.4.5cc4291019c8e1f43a4827d2.html | Civilsamhället i Järfälla
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningslivsomforebyggandekraftmotkriminalitet.4.5ffb91951a01493f71cd38.html | Föreningsliv som förebyggande kraft mot kriminalitet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/funkisfestivalen.4.3db2b2201573c98a44bf1ed4.html | Funkisfestivalen
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/oppensporthall.4.3fe197601574ca4b58b89d.html | Öppen sporthall
+  http://www.fritidsnatet.se/index.php?lang=sv | Fritidsnätet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/fritidsaktiviteterfordigsombehoverextrastod.4.be3bd0f15b9a0902964f019.html | Fritidsaktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/byggaboochmiljo.4.21ecf32412f3454ebeb800043.html | Bygga, bo och miljö
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning.4.1f95a67a15ee31ea1c4985de.html | Hantera avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forpackningarochtidningar.4.dcc12c315f6c519c7cc0573.html | Förpackningar och tidningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/atervinningscentraler.4.4b1bf1cd15f898488ed7d05d.html | Återvinningscentraler
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forandradittabonnemang.4.3cfb73f317c070c96e0932bf.html | Avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/avfallstaxaochreglerforavfallochatervinning.4.dcc12c315f6c519c7cc288b.html | Avfallstaxa och regler för avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/narsortering2027.4.229c08c319c8e3cc48e63b1f.html | Närsortering 2027
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/naturstadning.4.640dac6b1300db73e7c800016329.html | Naturstädning
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov.4.41865a7314fc7719216d7cd8.html | Bygglov
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bergvarme.4.76c002dd195a83abe8b31db.html | Bergvärme
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/kartorochmattjanster.4.7a0ff1cc1326d53eaee8000622.html | Kartor och mättjänster
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/ansokomennyadress.4.7c5a246d13b99708ae3800015158.html | Ansök om en ny adress
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/hittabostad.4.640dac6b1300db73e7c80007063.html | Hitta bostad
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bredbandsnat.4.40b7e74714b9b24883d32280.html | Bredbandsnät
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/buller.4.736b15d11323acb9bdc8000252.html | Buller
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/inomhusmiljo.4.7a9f8bcb17990a367e35e7a5.html | Inomhusmiljö
+  https://e-tjanster.jarfalla.se/ritningsarkiv | Ritningsarkivet
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/biologiskmangfald.4.3bfae18d1750260040ac428.html | Biologisk mångfald
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/djur.4.640dac6b1300db73e7c800017195.html | Djur
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/eldning.4.640dac6b1300db73e7c80007255.html | Eldning
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/klimatneutralkommun/hallbartforetag.4.640dac6b1300db73e7c80007495.html | Hållbart företag
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling.4.6b5cabc61577a634304f04d2.html | Hållbar utveckling
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/invasivavaxter.4.4a3aa69717229d52a7f7e0c1.html | Invasiva växter
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/agenda2030.4.30fd335715c09c806abdabf6.html | Järfälla och Agenda 2030
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/skotselavskog.4.3bc1f90e177af62825316d3.html | Skötsel av skog
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/svikt.4.ce5915b1818004dd2330f2.html | SVIKT
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/tradochtradfallning.4.640dac6b1300db73e7c800016873.html | Träd och trädfällning
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla.4.26c1f11e14c4cc09b4f16a23.html | Vattnet i Järfälla
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/felanmalanvattenochavlopp.4.640dac6b1300db73e7c80007355.html | Felanmälan vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/vattenavlasningochforbrukning.4.640dac6b1300db73e7c800020307.html | Vattenavläsning och förbrukning
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/digitalvattenmatare.4.46c0d2b7166f95fbfe4ece2d.html | Digital vattenmätare
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/fakturaforvattenochavlopp.4.5f709670131f722161c80001682.html | Faktura för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ventilbyte.4.651c61df1486673cb2773a9.html | Ventilbyte
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/avgifterochbestammelserforvattenochavlopp.4.640dac6b1300db73e7c80007325.html | Avgifter och bestämmelser för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ansvarsgransermellanledningar.4.503309051349ea61989800014995.html | Ansvarsgränser mellan ledningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för VA-abonnemang
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen/begarplanbesked.4.2bcf41dd144728ec59a13aa4.html | Begär planbesked
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Pågående detaljplaner och projekt
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/markanvisningar.4.662eeb5615280ca971f27a9d.html | Markanvisningar
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/oversiktsplanerochstrategiskadokument.4.640dac6b1300db73e7c80007103.html | Översiktsplaner och strategiska dokument
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planarkiv.4.1859292814dfc1e88882a1b.html | Planarkiv
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen.4.640dac6b1300db73e7c80007113.html | Planprocessen
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/tunnelbanatillbarkarby.4.77e36094162b5c8fdfa413d3.html | Tunnelbana till Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/veddestabron.4.3f5de2c4166df53119a2de34.html | Veddestabron
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/stadsutvecklingbarkarby.4.4fc0afa717cb7c9c76a10b87.html | Stadsutveckling Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/logistiklosningbarkarby.4.7ba328421764bf2637f55d4f.html | Logistiklösning Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/framtidensjakobsberg.4.48507834187db5dabba2d4bf.html | Framtidens Jakobsberg
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/kommunenbygger.4.3ac040a6195a848a40d827d5.html | Kommunen bygger
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anslagstavlor.4.640dac6b1300db73e7c800016342.html | Anslagstavlor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/klottersanering.4.640dac6b1300db73e7c800011336.html | Klottersanering
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anvandningavoffentligmark.4.640dac6b1300db73e7c800011756.html | Användning av offentlig mark
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/valborgsmassofirande.4.503309051349ea6198980009010.html | Valborgsmässofirande
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/fyrverkerier.4.7aa5be02167aa4c9161d37e6.html | Fyrverkerier
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadningavallmannaytor.4.20cda671167c5d04a681e6ff.html | Städning av allmänna ytor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/rokfriamiljoerutomhus.4.4f239fa218e55e7545a1e104.html | Rökfria miljöer utomhus
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadsodling.4.3afa469018ec1644b4b8c3f2.html | Stadsodling
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/tekniskhandbok.4.7559e61b1588d875bf738ab1.html | Teknisk handbok
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/vattenkiosker.4.1f2196e21554c65026616823.html | Vattenkiosker
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/parkeringsnorm.4.3331e80715c04818c58e4afb.html | Parkeringsnorm
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla/dagvatten.4.6f02e66014c5bd408d55babe.html | Dagvatten och länshållningsvatten
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/riktlinjerforbyggprojekt.4.2e0d7a25169452ac5e822843.html | Riktlinjer för byggprojekt
+  https://www.jarfalla.se/gatorochtrafik.4.640dac6b1300db73e7c800011386.html | Gator och trafik
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/vagarbetenochtrafikstorningar.4.73238b4f1411365a53280009601.html | Vägarbeten och trafikstörningar
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/malarbanan.4.6547062113a642feafa80004010.html | Mälarbanan
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Detaljplaner
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/gorvalnverket.4.47f0061f1948a03105491c49.html | Görvälnverket
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/schakttillstand.4.2bcf41dd144728ec59a1e435.html | Schakttillstånd
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/skyddsklassadevagar.4.96533f219a71633fca90da3.html | Skyddsklassade vägar
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/trafikanordningsplan.4.2bcf41dd144728ec59a1e3f3.html | Trafikanordningsplan
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/datumparkering.4.640dac6b1300db73e7c800011436.html | Datumparkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/infartsparkering.4.640dac6b1300db73e7c800011536.html | Infartsparkering
+
+Länkar på https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kallelserochprotokollforkommunstyrelsen.4.536cd07159b4ba121915d56.html:
+  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunstyrelsen/kallelserochprotokollforkommunstyrelsen.4.536cd07159b4ba121915d56.html#content | Gå direkt till sidans innehåll
+  https://www.jarfalla.se/sok | Sök
+  https://e-tjanster.jarfalla.se/ | E-tjänster
+  https://www.jarfalla.se/kontakt | Kontakt
+  https://www.jarfalla.se/forskolaskolaochutbildning.4.21ecf32412f3454ebeb80003.html | Förskola, skola och utbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html | Förskola och pedagogisk omsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/oppenforskola.4.640dac6b1300db73e7c80005126.html | Öppen förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/barnomsorgpaobekvamarbetstid.4.24397e2215f03c9322e31c2a.html | Barnomsorg på obekväm arbetstid
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/kvalitetochutveckling.4.6547062113a642feafa80009897.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Mat i förskolan
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/hittaochjamforforskola.4.792994e6191da7e1ba831514.html | Hitta och jämför förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/forskoleklass.4.640dac6b1300db73e7c800013310.html | Förskoleklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola.4.640dac6b1300db73e7c800013300.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/anpassadgrundskola.4.5f709670131f722161c80001879.html | Anpassad grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidshem.4.640dac6b1300db73e7c800013320.html | Fritidshem
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidsklubb.4.1c65bdc714a2a9685b1a61.html | Fritidsklubb
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/betyg.4.640dac6b1300db73e7c800013340.html | Betyg
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/modersmalochnyanlandaelever.4.640dac6b1300db73e7c800013610.html | Modersmål och nyanlända elever
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/kvalitetochutveckling.4.6547062113a642feafa80009558.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/skolskjuts.4.640dac6b1300db73e7c800013330.html | Skolskjuts
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Skolmat
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/hittaochjamforgrundskola.4.792994e6191da7e1ba831faa.html | Hitta och jämför grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/gymnasieskola.4.640dac6b1300db73e7c800013440.html | Gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/anpassadgymnasieskola.4.240e596615b50ff8ca1bf18b.html | Anpassad gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/restaurangjakobshorna.4.41fca120182e9335d1f21515.html | Restaurang Jakobs hörna
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning.4.7a4adec718a88341c787b9b6.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning/ansoktillvuxenutbildning/komvuxsomanpassadutbildning.4.5c8f27d0185dab449b3bda85.html | Anpassad vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/elevhalsanijarfalla.4.1291451a15df9d4f522a6321.html | Elevhälsan i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/sarskiltstodiforskolaochskola.4.640dac6b1300db73e7c800013570.html | Särskilt stöd i förskola och skola
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/atgardermotkrankandebehandling.4.2b3d141a15dfa163859aeef0.html | Åtgärder mot kränkande behandling
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/laxhjalp.4.5e2d810118697502d115aa9d.html | Läxhjälp
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/skolansokanochskolbyte/skolval.4.17d07d8416e3aaa8cbbcffe.html | Skolval
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/lokaleranpassadeefterbehov.4.4bd0a201194307b9754c6a21.html | Lokaler anpassade efter behov
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/systematisktkvalitetsarbete.4.4bd0a201194307b9754c6a15.html | Systematiskt kvalitetsarbete
+  https://www.jarfalla.se/forskolaskolaochutbildning/digitalaverktygiundervisningen.4.10f0753719add88fa4afc5.html | Digitala verktyg i undervisningen
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningforjarfallaelevsomgarlovskolaiannankommun.4.13098e32172be0901ea1f86.html | Ersättning för Järfällaelev som går lovskola i annan kommun
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningtillexternautforaremedbarnocheleverfolkbokfordaijarfallakommun.4.64a26ba316ed5b45aba764d2.html | Ersättning till externa utförare med barn och elever folkbokförda i Järfälla kommun
+  https://www.jarfalla.se/omsorgochstod.4.21ecf32412f3454ebeb800021.html | Omsorg och stöd
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillfamiljen.4.3cd60ca1179eb2d380f61841.html | Stöd till familjen
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillforaldrar.4.4ee4b3f9177db4ffcd843ce7.html | Stöd till föräldrar
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillbarnochunga.4.49119c4d165f693070e33bb7.html | Stöd till barn och unga
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/socialtjansten.4.3bfae18d1750260040a46cf0.html | Socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/senior65.4.5f065f091784aca4dd73bb31.html | Senior 65+
+  https://www.jarfalla.se/omsorgochstod/aldre/aldreomsorg.4.10e5fbf199c8d6e65b516d8.html | Äldreomsorg
+  https://www.jarfalla.se/omsorgochstod/aldre/demensstodvidkognitivsjukdom.4.10e5fbf199c8d6e65b517ab.html | Demens - stöd vid kognitiv sjukdom
+  https://www.jarfalla.se/omsorgochstod/aldre/anhorigstodaldre.4.80257281817fcde7076797a.html | Anhörigstöd - äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/stodochhjalpmedel.4.10e5fbf199c8d6e65b517c9.html | Stöd och hjälpmedel
+  https://www.jarfalla.se/omsorgochstod/aldre/kvalitetochsynpunkter.4.10e5fbf199c8d6e65b51b1a.html | Kvalitet och synpunkter
+  https://www.jarfalla.se/omsorgochstod/aldre/minlevnadsberattelse.4.2fcdfe0619a71550f021ebe1.html | Min levnadsberättelse
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/boendefordigmedfunktionsnedsattning.4.3cd60ca1179eb2d380f4cd82.html | Boende för dig med funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/omsorgochstodvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4cdc1.html | Omsorg och stöd vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/avgifterfunktionsnedsattning.4.6547062113a642feafa80009484.html | Avgifter funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/vardagochfritidvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4d192.html | Vardag och fritid vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/anhorigstodfunktionsnedsattning.4.80257281817fcde70767a34.html | Anhörigstöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/saansokerduomstodfunktionsnedsattning.4.2fcdfe0619a71550f025a33c.html | Så ansöker du om stöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/ekonomisktbistand.4.640dac6b1300db73e7c800012572.html | Ekonomiskt bistånd
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/godmanforvaltareochformyndare.4.5e62016e179eb27954e8f9fc.html | God man, förvaltare och förmyndare
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/budgetochskuldradgivning.4.640dac6b1300db73e7c800012582.html | Budget- och skuldrådgivning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foreningsstodforsocialtarbete.4.7a0ff1cc1326d53eaee8000532.html | Förenings­stöd för socialt arbete
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foraldraavgift.4.5cb141e71707b6f8fba76041.html | Föräldraavgift
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/besokasocialtjansten.106.3cd60ca1179eb2d380f61bf3.html | Besöka socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/kommunalhyresgaranti.4.94a2f3c1a042220b359db51.html | Kommunal hyresgaranti
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/gvigruppvaldsintervention.4.5296c0a81884796cfeaee90.html | GVI - gruppvåldsintervention
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/pratamedbarnochungaomgangkriminalitet.4.6c6bd12c194cdfd6c3e340.html | Prata med barn och unga om gängkriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodattlamnakriminalitet.4.998eee9187eae6aa036cd54.html | Stöd att lämna kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodmotvaldsbejakandeextremism.4.969fad41553c0afde0c06f8.html | Stöd mot våldsbejakande extremism
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/akuthjalpochjourer.4.640dac6b1300db73e7c800012382.html | Akut hjälp och jourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omduutsatternarstaendeforvald.4.1b293a015c5bef528f462ea.html | Om du utsätter närstående för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/fordigsomarutsattforvald.4.2bcf41dd144728ec59a4c82.html | För dig som är utsatt för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/hedersrelateratvaldochfortryck.4.2bcf41dd144728ec59a4eac.html | Hedersrelaterat våld och förtryck
+  https://www.jarfalla.se/omsorgochstod/hotochvald/kvinnojourer.4.640dac6b1300db73e7c800012402.html | Kvinnojourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/barnochungasomupplevervald.4.799f3cbd1754f3d02ff4e074.html | Barn och unga som upplever våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/relationsvaldsmottagningen.4.2bcf41dd144728ec59a15758.html | Relationsvåldsmottagningen
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omvaldkontrollochutnyttjande.4.36d7afb61a162f0267147751.html | Om våld, kontroll och utnyttjande
+  https://www.jarfalla.se/omsorgochstod/hotochvald/enmanadfrifranvaldinordvast.4.7e59150f192b27aca029969b.html | En månad fri från våld i Nordväst
+  https://www.jarfalla.se/omsorgochstod/hotochvald/valdsforebyggandearbete.4.461dca991a0adb403889f549.html | Våldsförebyggande arbete
+  https://www.jarfalla.se/omsorgochstod/skadligtbrukochberoende.4.6e23e38917bcf0f308728e8d.html | Skadligt bruk och beroende
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/synpunkterochklagomalpasocialtjansten.4.62960adb15f33a66cf35459f.html | Synpunkter och klagomål på socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/overklagabeslut.106.3cd60ca1179eb2d380f61c45.html | Överklaga beslut
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/begravning.4.640dac6b1300db73e7c800010025.html | Begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/borgerligvigsel.4.640dac6b1300db73e7c800010065.html | Borgerlig vigsel
+  https://www.jarfalla.se/omsorgochstod/halsoochsjukvard.4.28080af919e2aac004729914.html | Hälso- och sjukvård
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/underwebbar/utforarwebben/utforarwebben.4.40fc2c9e18847b4d1eb88bf8.html | Utförarwebben
+  https://www.jarfalla.se/foretagochnaringsliv/startaochdrivaforetag/blileverantortilljarfallakommun/lagenomvalfrihetssystemlov.4.503309051349ea619898000670.html | Bli utförare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/nyanlandijarfalla.4.72f99b9c1577a67ebfdf3f6c.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/aktiviteterfornyanlandaochasylsokande.4.cb10da41578a80a227f79.html | Aktiviteter för nyanlända och asylsökande
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/sfisvenskaforinvandrare.106.7825ded713248c8af998000286.html | SFI- Svenska för invandrare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/etableringstodfornyanlanda.4.7422009a1a1a189d53a1b57c.html | Etablering - stöd för nyanlända
+  https://www.jarfalla.se/fritidochkultur.4.21ecf32412f3454ebeb800068.html | Fritid och kultur
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bibliotek.4.640dac6b1300db73e7c80004912.html | Bibliotek
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/kulturmiljoer.4.640dac6b1300db73e7c800010486.html | Kulturmiljöer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/museum.4.640dac6b1300db73e7c800018240.html | Museum
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/biograf.4.640dac6b1300db73e7c800010055.html | Biograf
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/konst.4.640dac6b1300db73e7c800010105.html | Konst
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bildarkiv.4.4a68d5111549f3ad493d78d0.html | Bildarkiv
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/sevardheterochturism.4.640dac6b1300db73e7c800015637.html | Sevärdheter och turism
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/husetpahojden.4.4b149fc016400a9f7871223b.html | Huset på höjden
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/digitalkulturochfritid.4.27f60f99170f3bb6ab783e2.html | Digital kultur och fritid
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/presentartiklarochsouvenirer.4.640dac6b1300db73e7c80009954.html | Presentartiklar och souvenirer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/basbarkarby.4.6ef1593017cdf8d194b3dcd9.html | Bas Barkarby
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/jarfallafestivalen2026.4.3f3e90c8188b3c4768836ca.html | Järfällafestivalen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/upplevjarfalla.4.792994e6191da7e1ba84d0be.html | Upplev Järfälla
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/nationaldagen2026.4.17a13dc2195f171a828e8dd.html | Nationaldagen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/valborg.4.bf1ca5919d7222a7c6366dd.html | Valborg
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/badplatser.4.640dac6b1300db73e7c800015282.html | Badplatser
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/bruketsfriluftsomrade.4.fdd954816658ac181082803.html | Brukets friluftsområde
+  https://www.jarfalla.se/gatorochtrafik/resaijarfalla/cykla.4.640dac6b1300db73e7c800011706.html | Cykling
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/fritidsbanken.4.68d543851684dc2563223f62.html | Fritidsbanken
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/idrottsanlaggningarochhallar.4.640dac6b1300db73e7c800013878.html | Idrottsanläggningar och hallar
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/langdskidor.4.640dac6b1300db73e7c800015476.html | Längdskidor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/motionsspar.4.640dac6b1300db73e7c800015354.html | Motionsspår
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/padelbana.4.7ade51b179eb3335d07eef.html | Padelbana
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/simhall.4.640dac6b1300db73e7c800013908.html | Simhall
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/skidakning.4.640dac6b1300db73e7c800015486.html | Skidåkning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utegym.4.7f4e632514d7659827a2562.html | Utegym
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utomhustraning.4.47f4b9311791266dadb7c803.html | Utomhusträning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/viksjominibikepark.4.76ea7f4117c858fbf45315e4.html | Viksjö mini bike park
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/akaskridskor.4.640dac6b1300db73e7c800015107.html | Åka skridskor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/angsjofriluftsomrade.4.7649a918158917b879e26b0.html | Ängsjö friluftsområde
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/vandringslederochstrovomraden.4.640dac6b1300db73e7c800015528.html | Vandringsleder och strövområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fagelskadning.4.7649a918158917b879e2631.html | Fågelskådning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/parker.4.7649a918158917b879e26f6.html | Parker
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/ridning.4.7649a918158917b879e2738.html | Ridning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/kolonilotter.4.7649a918158917b879e2641.html | Kolonilotter
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fiske.4.7649a918158917b879e25f9.html | Fiske
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturreservat.4.64b618e17e39f55b78a35df.html | Naturreservat
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html | Hundrastgårdar
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturparlor.4.64a26ba316ed5b45abaa88d.html | Naturpärlor
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/grillplatser.4.4c08769e176f02f825ac7b11.html | Grillplatser
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturguidningar.4.5f065f091784aca4dd77c4de.html | Naturguidningar
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga/laslov.4.2295e6d915ee5a5496dc03e2.html | Läslov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/kulturskolan.4.640dac6b1300db73e7c80004945.html | Kulturskolan
+  https://www.jarfalla.se/fritidochkultur/barnochunga/komtek.4.3d2db0a615cf3aa5f655cd4c.html | KomTek
+  https://www.jarfalla.se/fritidochkultur/barnochunga/lekplatser.4.7649a918158917b879e24dc.html | Lekplatser
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidsgardarnaijarfallaungfritid.4.3c91703313281f4d701800018.html | Fritidsgårdarna i Järfälla - Ung fritid
+  https://www.jarfalla.se/fritidochkultur/barnochunga/driveinidrott.4.3d99d69b1328bd61286800052.html | Drive in-idrott
+  https://www.jarfalla.se/fritidochkultur/barnochunga/barnochungdomskultur.4.640dac6b1300db73e7c80009854.html | Barn- och ungdomskultur
+  https://www.jarfalla.se/fritidochkultur/barnochunga/jullov.4.3562f86d152d080429d6422f.html | Jullov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/sommarijarfalla.4.4a3aa69717229d52a7fb825f.html | Sommar i Järfälla
+  https://upplevjarfalla.se/lovaktiviteter | Lovaktiviteter
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidskortet.4.3cf5e2a219873672f093cf22.html | Fritidskortet
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsstod.4.640dac6b1300db73e7c800010756.html | Föreningsstöd
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/startaforening.4.640dac6b1300db73e7c800015575.html | Starta förening
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsregister.4.640dac6b1300db73e7c800015549.html | Föreningsregister
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/lokalbokning.4.640dac6b1300db73e7c800015155.html | Lokalbokning
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/aktivitetskortpanatetapn.4.161702b0147af39338c643.html | Aktivitetskort på Nätet (ApN)
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/civilsamhalletijarfalla.4.5cc4291019c8e1f43a4827d2.html | Civilsamhället i Järfälla
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningslivsomforebyggandekraftmotkriminalitet.4.5ffb91951a01493f71cd38.html | Föreningsliv som förebyggande kraft mot kriminalitet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/funkisfestivalen.4.3db2b2201573c98a44bf1ed4.html | Funkisfestivalen
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/oppensporthall.4.3fe197601574ca4b58b89d.html | Öppen sporthall
+  http://www.fritidsnatet.se/index.php?lang=sv | Fritidsnätet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/fritidsaktiviteterfordigsombehoverextrastod.4.be3bd0f15b9a0902964f019.html | Fritidsaktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/byggaboochmiljo.4.21ecf32412f3454ebeb800043.html | Bygga, bo och miljö
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning.4.1f95a67a15ee31ea1c4985de.html | Hantera avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forpackningarochtidningar.4.dcc12c315f6c519c7cc0573.html | Förpackningar och tidningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/atervinningscentraler.4.4b1bf1cd15f898488ed7d05d.html | Återvinningscentraler
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forandradittabonnemang.4.3cfb73f317c070c96e0932bf.html | Avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/avfallstaxaochreglerforavfallochatervinning.4.dcc12c315f6c519c7cc288b.html | Avfallstaxa och regler för avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/narsortering2027.4.229c08c319c8e3cc48e63b1f.html | Närsortering 2027
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/naturstadning.4.640dac6b1300db73e7c800016329.html | Naturstädning
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov.4.41865a7314fc7719216d7cd8.html | Bygglov
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bergvarme.4.76c002dd195a83abe8b31db.html | Bergvärme
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/kartorochmattjanster.4.7a0ff1cc1326d53eaee8000622.html | Kartor och mättjänster
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/ansokomennyadress.4.7c5a246d13b99708ae3800015158.html | Ansök om en ny adress
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/hittabostad.4.640dac6b1300db73e7c80007063.html | Hitta bostad
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bredbandsnat.4.40b7e74714b9b24883d32280.html | Bredbandsnät
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/buller.4.736b15d11323acb9bdc8000252.html | Buller
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/inomhusmiljo.4.7a9f8bcb17990a367e35e7a5.html | Inomhusmiljö
+  https://e-tjanster.jarfalla.se/ritningsarkiv | Ritningsarkivet
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/biologiskmangfald.4.3bfae18d1750260040ac428.html | Biologisk mångfald
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/djur.4.640dac6b1300db73e7c800017195.html | Djur
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/eldning.4.640dac6b1300db73e7c80007255.html | Eldning
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/klimatneutralkommun/hallbartforetag.4.640dac6b1300db73e7c80007495.html | Hållbart företag
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling.4.6b5cabc61577a634304f04d2.html | Hållbar utveckling
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/invasivavaxter.4.4a3aa69717229d52a7f7e0c1.html | Invasiva växter
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/agenda2030.4.30fd335715c09c806abdabf6.html | Järfälla och Agenda 2030
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/skotselavskog.4.3bc1f90e177af62825316d3.html | Skötsel av skog
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/svikt.4.ce5915b1818004dd2330f2.html | SVIKT
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/tradochtradfallning.4.640dac6b1300db73e7c800016873.html | Träd och trädfällning
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla.4.26c1f11e14c4cc09b4f16a23.html | Vattnet i Järfälla
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/felanmalanvattenochavlopp.4.640dac6b1300db73e7c80007355.html | Felanmälan vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/vattenavlasningochforbrukning.4.640dac6b1300db73e7c800020307.html | Vattenavläsning och förbrukning
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/digitalvattenmatare.4.46c0d2b7166f95fbfe4ece2d.html | Digital vattenmätare
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/fakturaforvattenochavlopp.4.5f709670131f722161c80001682.html | Faktura för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ventilbyte.4.651c61df1486673cb2773a9.html | Ventilbyte
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/avgifterochbestammelserforvattenochavlopp.4.640dac6b1300db73e7c80007325.html | Avgifter och bestämmelser för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ansvarsgransermellanledningar.4.503309051349ea61989800014995.html | Ansvarsgränser mellan ledningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för VA-abonnemang
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen/begarplanbesked.4.2bcf41dd144728ec59a13aa4.html | Begär planbesked
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Pågående detaljplaner och projekt
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/markanvisningar.4.662eeb5615280ca971f27a9d.html | Markanvisningar
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/oversiktsplanerochstrategiskadokument.4.640dac6b1300db73e7c80007103.html | Översiktsplaner och strategiska dokument
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planarkiv.4.1859292814dfc1e88882a1b.html | Planarkiv
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen.4.640dac6b1300db73e7c80007113.html | Planprocessen
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/tunnelbanatillbarkarby.4.77e36094162b5c8fdfa413d3.html | Tunnelbana till Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/veddestabron.4.3f5de2c4166df53119a2de34.html | Veddestabron
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/stadsutvecklingbarkarby.4.4fc0afa717cb7c9c76a10b87.html | Stadsutveckling Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/logistiklosningbarkarby.4.7ba328421764bf2637f55d4f.html | Logistiklösning Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/framtidensjakobsberg.4.48507834187db5dabba2d4bf.html | Framtidens Jakobsberg
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/kommunenbygger.4.3ac040a6195a848a40d827d5.html | Kommunen bygger
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anslagstavlor.4.640dac6b1300db73e7c800016342.html | Anslagstavlor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/klottersanering.4.640dac6b1300db73e7c800011336.html | Klottersanering
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anvandningavoffentligmark.4.640dac6b1300db73e7c800011756.html | Användning av offentlig mark
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/valborgsmassofirande.4.503309051349ea6198980009010.html | Valborgsmässofirande
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/fyrverkerier.4.7aa5be02167aa4c9161d37e6.html | Fyrverkerier
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadningavallmannaytor.4.20cda671167c5d04a681e6ff.html | Städning av allmänna ytor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/rokfriamiljoerutomhus.4.4f239fa218e55e7545a1e104.html | Rökfria miljöer utomhus
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadsodling.4.3afa469018ec1644b4b8c3f2.html | Stadsodling
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/tekniskhandbok.4.7559e61b1588d875bf738ab1.html | Teknisk handbok
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/vattenkiosker.4.1f2196e21554c65026616823.html | Vattenkiosker
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/parkeringsnorm.4.3331e80715c04818c58e4afb.html | Parkeringsnorm
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla/dagvatten.4.6f02e66014c5bd408d55babe.html | Dagvatten och länshållningsvatten
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/riktlinjerforbyggprojekt.4.2e0d7a25169452ac5e822843.html | Riktlinjer för byggprojekt
+  https://www.jarfalla.se/gatorochtrafik.4.640dac6b1300db73e7c800011386.html | Gator och trafik
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/vagarbetenochtrafikstorningar.4.73238b4f1411365a53280009601.html | Vägarbeten och trafikstörningar
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/malarbanan.4.6547062113a642feafa80004010.html | Mälarbanan
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Detaljplaner
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/gorvalnverket.4.47f0061f1948a03105491c49.html | Görvälnverket
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/schakttillstand.4.2bcf41dd144728ec59a1e435.html | Schakttillstånd
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/skyddsklassadevagar.4.96533f219a71633fca90da3.html | Skyddsklassade vägar
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/trafikanordningsplan.4.2bcf41dd144728ec59a1e3f3.html | Trafikanordningsplan
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/datumparkering.4.640dac6b1300db73e7c800011436.html | Datumparkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/infartsparkering.4.640dac6b1300db73e7c800011536.html | Infartsparkering
+
+Länkar på https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/kallelserochprotokollforkommunfullmaktige.4.50d4092415a02a2706dd937.html:
+  https://www.jarfalla.se/kommunochpolitik/politikochnamnder/kommunfullmaktige/kallelserochprotokollforkommunfullmaktige.4.50d4092415a02a2706dd937.html#content | Gå direkt till sidans innehåll
+  https://www.jarfalla.se/sok | Sök
+  https://e-tjanster.jarfalla.se/ | E-tjänster
+  https://www.jarfalla.se/kontakt | Kontakt
+  https://www.jarfalla.se/forskolaskolaochutbildning.4.21ecf32412f3454ebeb80003.html | Förskola, skola och utbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola.4.738ee43d15b30e6ada7c63a8.html | Förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html | Förskola och pedagogisk omsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/oppenforskola.4.640dac6b1300db73e7c80005126.html | Öppen förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/barnomsorgpaobekvamarbetstid.4.24397e2215f03c9322e31c2a.html | Barnomsorg på obekväm arbetstid
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/kvalitetochutveckling.4.6547062113a642feafa80009897.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Mat i förskolan
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/hittaochjamforforskola.4.792994e6191da7e1ba831514.html | Hitta och jämför förskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola.4.738ee43d15b30e6ada7c64ec.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html | Edlevo - ansökan om barnomsorg
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/forskoleklass.4.640dac6b1300db73e7c800013310.html | Förskoleklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola.4.640dac6b1300db73e7c800013300.html | Grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/anpassadgrundskola.4.5f709670131f722161c80001879.html | Anpassad grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidshem.4.640dac6b1300db73e7c800013320.html | Fritidshem
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/fritidsklubb.4.1c65bdc714a2a9685b1a61.html | Fritidsklubb
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/betyg.4.640dac6b1300db73e7c800013340.html | Betyg
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/modersmalochnyanlandaelever.4.640dac6b1300db73e7c800013610.html | Modersmål och nyanlända elever
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/kvalitetochutveckling.4.6547062113a642feafa80009558.html | Kvalitet och utveckling
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/skolskjuts.4.640dac6b1300db73e7c800013330.html | Skolskjuts
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/skolmat.4.640dac6b1300db73e7c80005136.html | Skolmat
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/forsakringar.4.640dac6b1300db73e7c800013630.html | Försäkringar
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/hittaochjamforgrundskola.4.792994e6191da7e1ba831faa.html | Hitta och jämför grundskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium.4.7d073cb31613da7237cb4bac.html | Gymnasium
+  https://www.jarfalla.se/forskolaskolaochutbildning/gemensamt/vklass.4.1e61f155155953c1a73d8556.html | Vklass
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/gymnasieskola.4.640dac6b1300db73e7c800013440.html | Gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/gymnasium/anpassadgymnasieskola.4.240e596615b50ff8ca1bf18b.html | Anpassad gymnasieskola
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning.4.738ee43d15b30e6ada7c749a.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/restaurangjakobshorna.4.41fca120182e9335d1f21515.html | Restaurang Jakobs hörna
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning.4.7a4adec718a88341c787b9b6.html | Vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/vuxenutbildning/vuxenutbildning/ansoktillvuxenutbildning/komvuxsomanpassadutbildning.4.5c8f27d0185dab449b3bda85.html | Anpassad vuxenutbildning
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod.4.640dac6b1300db73e7c800013620.html | Elevhälsa och stöd
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/elevhalsanijarfalla.4.1291451a15df9d4f522a6321.html | Elevhälsan i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/sarskiltstodiforskolaochskola.4.640dac6b1300db73e7c800013570.html | Särskilt stöd i förskola och skola
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/atgardermotkrankandebehandling.4.2b3d141a15dfa163859aeef0.html | Åtgärder mot kränkande behandling
+  https://www.jarfalla.se/forskolaskolaochutbildning/elevhalsaochstod/laxhjalp.4.5e2d810118697502d115aa9d.html | Läxhjälp
+  https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/skolansokanochskolbyte/skolval.4.17d07d8416e3aaa8cbbcffe.html | Skolval
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla.4.4bd0a201194307b9754c6866.html | Så utvecklar vi förskola och skola i Järfälla
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/lokaleranpassadeefterbehov.4.4bd0a201194307b9754c6a21.html | Lokaler anpassade efter behov
+  https://www.jarfalla.se/forskolaskolaochutbildning/sautvecklarviforskolaochskolaijarfalla/systematisktkvalitetsarbete.4.4bd0a201194307b9754c6a15.html | Systematiskt kvalitetsarbete
+  https://www.jarfalla.se/forskolaskolaochutbildning/digitalaverktygiundervisningen.4.10f0753719add88fa4afc5.html | Digitala verktyg i undervisningen
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner.4.64a26ba316ed5b45aba764bc.html | Information till andra kommuner
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningforjarfallaelevsomgarlovskolaiannankommun.4.13098e32172be0901ea1f86.html | Ersättning för Järfällaelev som går lovskola i annan kommun
+  https://www.jarfalla.se/forskolaskolaochutbildning/informationtillandrakommuner/ersattningtillexternautforaremedbarnocheleverfolkbokfordaijarfallakommun.4.64a26ba316ed5b45aba764d2.html | Ersättning till externa utförare med barn och elever folkbokförda i Järfälla kommun
+  https://www.jarfalla.se/omsorgochstod.4.21ecf32412f3454ebeb800021.html | Omsorg och stöd
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj.4.738ee43d15b30e6ada76f5f2.html | Barn, unga och familj
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillfamiljen.4.3cd60ca1179eb2d380f61841.html | Stöd till familjen
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillforaldrar.4.4ee4b3f9177db4ffcd843ce7.html | Stöd till föräldrar
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/stodtillbarnochunga.4.49119c4d165f693070e33bb7.html | Stöd till barn och unga
+  https://www.jarfalla.se/omsorgochstod/barnungaochfamilj/socialtjansten.4.3bfae18d1750260040a46cf0.html | Socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre.4.5e62016e179eb27954e13beb.html | Äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/senior65.4.5f065f091784aca4dd73bb31.html | Senior 65+
+  https://www.jarfalla.se/omsorgochstod/aldre/aldreomsorg.4.10e5fbf199c8d6e65b516d8.html | Äldreomsorg
+  https://www.jarfalla.se/omsorgochstod/aldre/demensstodvidkognitivsjukdom.4.10e5fbf199c8d6e65b517ab.html | Demens - stöd vid kognitiv sjukdom
+  https://www.jarfalla.se/omsorgochstod/aldre/anhorigstodaldre.4.80257281817fcde7076797a.html | Anhörigstöd - äldre
+  https://www.jarfalla.se/omsorgochstod/aldre/stodochhjalpmedel.4.10e5fbf199c8d6e65b517c9.html | Stöd och hjälpmedel
+  https://www.jarfalla.se/omsorgochstod/aldre/kvalitetochsynpunkter.4.10e5fbf199c8d6e65b51b1a.html | Kvalitet och synpunkter
+  https://www.jarfalla.se/omsorgochstod/aldre/minlevnadsberattelse.4.2fcdfe0619a71550f021ebe1.html | Min levnadsberättelse
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning.4.5e62016e179eb27954e13bfa.html | Funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/boendefordigmedfunktionsnedsattning.4.3cd60ca1179eb2d380f4cd82.html | Boende för dig med funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/omsorgochstodvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4cdc1.html | Omsorg och stöd vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/avgifterfunktionsnedsattning.4.6547062113a642feafa80009484.html | Avgifter funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/vardagochfritidvidfunktionsnedsattning.4.3cd60ca1179eb2d380f4d192.html | Vardag och fritid vid funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/anhorigstodfunktionsnedsattning.4.80257281817fcde70767a34.html | Anhörigstöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/funktionsnedsattning/saansokerduomstodfunktionsnedsattning.4.2fcdfe0619a71550f025a33c.html | Så ansöker du om stöd funktionsnedsättning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar.4.3cd60ca1179eb2d380f61bc1.html | Ekonomi och pengar
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/ekonomisktbistand.4.640dac6b1300db73e7c800012572.html | Ekonomiskt bistånd
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/godmanforvaltareochformyndare.4.5e62016e179eb27954e8f9fc.html | God man, förvaltare och förmyndare
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/budgetochskuldradgivning.4.640dac6b1300db73e7c800012582.html | Budget- och skuldrådgivning
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foreningsstodforsocialtarbete.4.7a0ff1cc1326d53eaee8000532.html | Förenings­stöd för socialt arbete
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/foraldraavgift.4.5cb141e71707b6f8fba76041.html | Föräldraavgift
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/besokasocialtjansten.106.3cd60ca1179eb2d380f61bf3.html | Besöka socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/ekonomiochpengar/kommunalhyresgaranti.4.94a2f3c1a042220b359db51.html | Kommunal hyresgaranti
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet.4.601b5c7519981c127ca3884a.html | Kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/gvigruppvaldsintervention.4.5296c0a81884796cfeaee90.html | GVI - gruppvåldsintervention
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/pratamedbarnochungaomgangkriminalitet.4.6c6bd12c194cdfd6c3e340.html | Prata med barn och unga om gängkriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodattlamnakriminalitet.4.998eee9187eae6aa036cd54.html | Stöd att lämna kriminalitet
+  https://www.jarfalla.se/omsorgochstod/kriminalitet/stodmotvaldsbejakandeextremism.4.969fad41553c0afde0c06f8.html | Stöd mot våldsbejakande extremism
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald.4.3cd60ca1179eb2d380f93f50.html | Hot och våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/akuthjalpochjourer.4.640dac6b1300db73e7c800012382.html | Akut hjälp och jourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omduutsatternarstaendeforvald.4.1b293a015c5bef528f462ea.html | Om du utsätter närstående för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/fordigsomarutsattforvald.4.2bcf41dd144728ec59a4c82.html | För dig som är utsatt för våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/hedersrelateratvaldochfortryck.4.2bcf41dd144728ec59a4eac.html | Hedersrelaterat våld och förtryck
+  https://www.jarfalla.se/omsorgochstod/hotochvald/kvinnojourer.4.640dac6b1300db73e7c800012402.html | Kvinnojourer
+  https://www.jarfalla.se/omsorgochstod/hotochvald/barnochungasomupplevervald.4.799f3cbd1754f3d02ff4e074.html | Barn och unga som upplever våld
+  https://www.jarfalla.se/omsorgochstod/hotochvald/relationsvaldsmottagningen.4.2bcf41dd144728ec59a15758.html | Relationsvåldsmottagningen
+  https://www.jarfalla.se/omsorgochstod/hotochvald/omvaldkontrollochutnyttjande.4.36d7afb61a162f0267147751.html | Om våld, kontroll och utnyttjande
+  https://www.jarfalla.se/omsorgochstod/hotochvald/enmanadfrifranvaldinordvast.4.7e59150f192b27aca029969b.html | En månad fri från våld i Nordväst
+  https://www.jarfalla.se/omsorgochstod/hotochvald/valdsforebyggandearbete.4.461dca991a0adb403889f549.html | Våldsförebyggande arbete
+  https://www.jarfalla.se/omsorgochstod/skadligtbrukochberoende.4.6e23e38917bcf0f308728e8d.html | Skadligt bruk och beroende
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande.4.738ee43d15b30e6ada76f43b.html | Synpunkter och överklagande
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/synpunkterochklagomalpasocialtjansten.4.62960adb15f33a66cf35459f.html | Synpunkter och klagomål på socialtjänsten
+  https://www.jarfalla.se/omsorgochstod/synpunkterochoverklagande/overklagabeslut.106.3cd60ca1179eb2d380f61c45.html | Överklaga beslut
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning.4.3cd60ca1179eb2d380f61b36.html | Vigsel och begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/begravning.4.640dac6b1300db73e7c800010025.html | Begravning
+  https://www.jarfalla.se/omsorgochstod/vigselochbegravning/borgerligvigsel.4.640dac6b1300db73e7c800010065.html | Borgerlig vigsel
+  https://www.jarfalla.se/omsorgochstod/halsoochsjukvard.4.28080af919e2aac004729914.html | Hälso- och sjukvård
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/omsorgochstod/forutforare.4.640dac6b1300db73e7c800013153.html | För utförare
+  https://www.jarfalla.se/underwebbar/utforarwebben/utforarwebben.4.40fc2c9e18847b4d1eb88bf8.html | Utförarwebben
+  https://www.jarfalla.se/foretagochnaringsliv/startaochdrivaforetag/blileverantortilljarfallakommun/lagenomvalfrihetssystemlov.4.503309051349ea619898000670.html | Bli utförare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla.4.7301e8021927092ddb18b237.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/nyanlandijarfalla.4.72f99b9c1577a67ebfdf3f6c.html | Nyanländ i Järfälla
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/aktiviteterfornyanlandaochasylsokande.4.cb10da41578a80a227f79.html | Aktiviteter för nyanlända och asylsökande
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/sfisvenskaforinvandrare.106.7825ded713248c8af998000286.html | SFI- Svenska för invandrare
+  https://www.jarfalla.se/omsorgochstod/nyanlandijarfalla/etableringstodfornyanlanda.4.7422009a1a1a189d53a1b57c.html | Etablering - stöd för nyanlända
+  https://www.jarfalla.se/fritidochkultur.4.21ecf32412f3454ebeb800068.html | Fritid och kultur
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen.4.640dac6b1300db73e7c80004935.html | Kultur och nöjen
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bibliotek.4.640dac6b1300db73e7c80004912.html | Bibliotek
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/kulturmiljoer.4.640dac6b1300db73e7c800010486.html | Kulturmiljöer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/museum.4.640dac6b1300db73e7c800018240.html | Museum
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/biograf.4.640dac6b1300db73e7c800010055.html | Biograf
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/konst.4.640dac6b1300db73e7c800010105.html | Konst
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/bildarkiv.4.4a68d5111549f3ad493d78d0.html | Bildarkiv
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/sevardheterochturism.4.640dac6b1300db73e7c800015637.html | Sevärdheter och turism
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/husetpahojden.4.4b149fc016400a9f7871223b.html | Huset på höjden
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/digitalkulturochfritid.4.27f60f99170f3bb6ab783e2.html | Digital kultur och fritid
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/presentartiklarochsouvenirer.4.640dac6b1300db73e7c80009954.html | Presentartiklar och souvenirer
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/basbarkarby.4.6ef1593017cdf8d194b3dcd9.html | Bas Barkarby
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/jarfallafestivalen2026.4.3f3e90c8188b3c4768836ca.html | Järfällafestivalen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/upplevjarfalla.4.792994e6191da7e1ba84d0be.html | Upplev Järfälla
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/nationaldagen2026.4.17a13dc2195f171a828e8dd.html | Nationaldagen 2026
+  https://www.jarfalla.se/fritidochkultur/kulturochnojen/valborg.4.bf1ca5919d7222a7c6366dd.html | Valborg
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion.4.640dac6b1300db73e7c800013858.html | Idrott och motion
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/badplatser.4.640dac6b1300db73e7c800015282.html | Badplatser
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/bruketsfriluftsomrade.4.fdd954816658ac181082803.html | Brukets friluftsområde
+  https://www.jarfalla.se/gatorochtrafik/resaijarfalla/cykla.4.640dac6b1300db73e7c800011706.html | Cykling
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/fritidsbanken.4.68d543851684dc2563223f62.html | Fritidsbanken
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/idrottsanlaggningarochhallar.4.640dac6b1300db73e7c800013878.html | Idrottsanläggningar och hallar
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/langdskidor.4.640dac6b1300db73e7c800015476.html | Längdskidor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/motionsspar.4.640dac6b1300db73e7c800015354.html | Motionsspår
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/padelbana.4.7ade51b179eb3335d07eef.html | Padelbana
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/simhall.4.640dac6b1300db73e7c800013908.html | Simhall
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/skidakning.4.640dac6b1300db73e7c800015486.html | Skidåkning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utegym.4.7f4e632514d7659827a2562.html | Utegym
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/utomhustraning.4.47f4b9311791266dadb7c803.html | Utomhusträning
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/viksjominibikepark.4.76ea7f4117c858fbf45315e4.html | Viksjö mini bike park
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/akaskridskor.4.640dac6b1300db73e7c800015107.html | Åka skridskor
+  https://www.jarfalla.se/fritidochkultur/idrottochmotion/angsjofriluftsomrade.4.7649a918158917b879e26b0.html | Ängsjö friluftsområde
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv.4.7649a918158917b879e24d0.html | Natur och friluftsliv
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/vandringslederochstrovomraden.4.640dac6b1300db73e7c800015528.html | Vandringsleder och strövområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fagelskadning.4.7649a918158917b879e2631.html | Fågelskådning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/parker.4.7649a918158917b879e26f6.html | Parker
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/ridning.4.7649a918158917b879e2738.html | Ridning
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/kolonilotter.4.7649a918158917b879e2641.html | Kolonilotter
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/fiske.4.7649a918158917b879e25f9.html | Fiske
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturreservat.4.64b618e17e39f55b78a35df.html | Naturreservat
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/hundrastgardar.4.640dac6b1300db73e7c800017237.html | Hundrastgårdar
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturparlor.4.64a26ba316ed5b45abaa88d.html | Naturpärlor
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/grillplatser.4.4c08769e176f02f825ac7b11.html | Grillplatser
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturguidningar.4.5f065f091784aca4dd77c4de.html | Naturguidningar
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga.4.7649a918158917b879e50857.html | Barn och unga
+  https://www.jarfalla.se/fritidochkultur/barnochunga/laslov.4.2295e6d915ee5a5496dc03e2.html | Läslov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/kulturskolan.4.640dac6b1300db73e7c80004945.html | Kulturskolan
+  https://www.jarfalla.se/fritidochkultur/barnochunga/komtek.4.3d2db0a615cf3aa5f655cd4c.html | KomTek
+  https://www.jarfalla.se/fritidochkultur/barnochunga/lekplatser.4.7649a918158917b879e24dc.html | Lekplatser
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidsgardarnaijarfallaungfritid.4.3c91703313281f4d701800018.html | Fritidsgårdarna i Järfälla - Ung fritid
+  https://www.jarfalla.se/fritidochkultur/barnochunga/driveinidrott.4.3d99d69b1328bd61286800052.html | Drive in-idrott
+  https://www.jarfalla.se/fritidochkultur/barnochunga/barnochungdomskultur.4.640dac6b1300db73e7c80009854.html | Barn- och ungdomskultur
+  https://www.jarfalla.se/fritidochkultur/barnochunga/jullov.4.3562f86d152d080429d6422f.html | Jullov
+  https://www.jarfalla.se/fritidochkultur/barnochunga/sommarijarfalla.4.4a3aa69717229d52a7fb825f.html | Sommar i Järfälla
+  https://upplevjarfalla.se/lovaktiviteter | Lovaktiviteter
+  https://www.jarfalla.se/fritidochkultur/barnochunga/fritidskortet.4.3cf5e2a219873672f093cf22.html | Fritidskortet
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler.4.640dac6b1300db73e7c800015538.html | Förening och lokaler
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsstod.4.640dac6b1300db73e7c800010756.html | Föreningsstöd
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/startaforening.4.640dac6b1300db73e7c800015575.html | Starta förening
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningsregister.4.640dac6b1300db73e7c800015549.html | Föreningsregister
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/lokalbokning.4.640dac6b1300db73e7c800015155.html | Lokalbokning
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/aktivitetskortpanatetapn.4.161702b0147af39338c643.html | Aktivitetskort på Nätet (ApN)
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/civilsamhalletijarfalla.4.5cc4291019c8e1f43a4827d2.html | Civilsamhället i Järfälla
+  https://www.jarfalla.se/fritidochkultur/foreningochlokaler/foreningslivsomforebyggandekraftmotkriminalitet.4.5ffb91951a01493f71cd38.html | Föreningsliv som förebyggande kraft mot kriminalitet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod.4.39e837fe1367245d98e800061763.html | Aktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/funkisfestivalen.4.3db2b2201573c98a44bf1ed4.html | Funkisfestivalen
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/oppensporthall.4.3fe197601574ca4b58b89d.html | Öppen sporthall
+  http://www.fritidsnatet.se/index.php?lang=sv | Fritidsnätet
+  https://www.jarfalla.se/fritidochkultur/aktiviteterfordigsombehoverextrastod/fritidsaktiviteterfordigsombehoverextrastod.4.be3bd0f15b9a0902964f019.html | Fritidsaktiviteter för dig som behöver extra stöd
+  https://www.jarfalla.se/byggaboochmiljo.4.21ecf32412f3454ebeb800043.html | Bygga, bo och miljö
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning.4.640dac6b1300db73e7c80007395.html | Avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning.4.1f95a67a15ee31ea1c4985de.html | Hantera avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forpackningarochtidningar.4.dcc12c315f6c519c7cc0573.html | Förpackningar och tidningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/atervinningscentraler.4.4b1bf1cd15f898488ed7d05d.html | Återvinningscentraler
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/hanteraavfallochatervinning/forandradittabonnemang.4.3cfb73f317c070c96e0932bf.html | Avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för avfallsabonnemang
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/avfallstaxaochreglerforavfallochatervinning.4.dcc12c315f6c519c7cc288b.html | Avfallstaxa och regler för avfall och återvinning
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/narsortering2027.4.229c08c319c8e3cc48e63b1f.html | Närsortering 2027
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/naturstadning.4.640dac6b1300db73e7c800016329.html | Naturstädning
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo.4.738ee43d15b30e6ada7b3284.html | Bygga och bo
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov.4.41865a7314fc7719216d7cd8.html | Bygglov
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bergvarme.4.76c002dd195a83abe8b31db.html | Bergvärme
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/kartorochmattjanster.4.7a0ff1cc1326d53eaee8000622.html | Kartor och mättjänster
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/ansokomennyadress.4.7c5a246d13b99708ae3800015158.html | Ansök om en ny adress
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/hittabostad.4.640dac6b1300db73e7c80007063.html | Hitta bostad
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bredbandsnat.4.40b7e74714b9b24883d32280.html | Bredbandsnät
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/buller.4.736b15d11323acb9bdc8000252.html | Buller
+  https://www.jarfalla.se/byggaboochmiljo/byggaochbo/inomhusmiljo.4.7a9f8bcb17990a367e35e7a5.html | Inomhusmiljö
+  https://e-tjanster.jarfalla.se/ritningsarkiv | Ritningsarkivet
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo.4.363f0e5e1689bed3786191ea.html | Natur och miljö
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/biologiskmangfald.4.3bfae18d1750260040ac428.html | Biologisk mångfald
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/djur.4.640dac6b1300db73e7c800017195.html | Djur
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/eldning.4.640dac6b1300db73e7c80007255.html | Eldning
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/klimatneutralkommun/hallbartforetag.4.640dac6b1300db73e7c80007495.html | Hållbart företag
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling.4.6b5cabc61577a634304f04d2.html | Hållbar utveckling
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/invasivavaxter.4.4a3aa69717229d52a7f7e0c1.html | Invasiva växter
+  https://www.jarfalla.se/kommunochpolitik/hallbarutveckling/agenda2030.4.30fd335715c09c806abdabf6.html | Järfälla och Agenda 2030
+  https://www.jarfalla.se/fritidochkultur/naturochfriluftsliv/naturomraden.4.7649a918158917b879e2651.html | Naturområden
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/skotselavskog.4.3bc1f90e177af62825316d3.html | Skötsel av skog
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/svikt.4.ce5915b1818004dd2330f2.html | SVIKT
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/tradochtradfallning.4.640dac6b1300db73e7c800016873.html | Träd och trädfällning
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla.4.26c1f11e14c4cc09b4f16a23.html | Vattnet i Järfälla
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp.4.640dac6b1300db73e7c80007275.html | VA - Vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/felanmalanvattenochavlopp.4.640dac6b1300db73e7c80007355.html | Felanmälan vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/vattenavlasningochforbrukning.4.640dac6b1300db73e7c800020307.html | Vattenavläsning och förbrukning
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/digitalvattenmatare.4.46c0d2b7166f95fbfe4ece2d.html | Digital vattenmätare
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/fakturaforvattenochavlopp.4.5f709670131f722161c80001682.html | Faktura för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ventilbyte.4.651c61df1486673cb2773a9.html | Ventilbyte
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/avgifterochbestammelserforvattenochavlopp.4.640dac6b1300db73e7c80007325.html | Avgifter och bestämmelser för vatten och avlopp
+  https://www.jarfalla.se/byggaboochmiljo/vavattenochavlopp/ansvarsgransermellanledningar.4.503309051349ea61989800014995.html | Ansvarsgränser mellan ledningar
+  https://www.jarfalla.se/byggaboochmiljo/avfallochatervinning/agarbyteforavfallsabonnemang.4.626bac4d14e3bbaa53d46505.html | Ägarbyte för VA-abonnemang
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner.4.640dac6b1300db73e7c80007093.html | Stadsutveckling och detaljplaner
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen/begarplanbesked.4.2bcf41dd144728ec59a13aa4.html | Begär planbesked
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Pågående detaljplaner och projekt
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/markanvisningar.4.662eeb5615280ca971f27a9d.html | Markanvisningar
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/oversiktsplanerochstrategiskadokument.4.640dac6b1300db73e7c80007103.html | Översiktsplaner och strategiska dokument
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planarkiv.4.1859292814dfc1e88882a1b.html | Planarkiv
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/planprocessen.4.640dac6b1300db73e7c80007113.html | Planprocessen
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/tunnelbanatillbarkarby.4.77e36094162b5c8fdfa413d3.html | Tunnelbana till Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/veddestabron.4.3f5de2c4166df53119a2de34.html | Veddestabron
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/stadsutvecklingbarkarby.4.4fc0afa717cb7c9c76a10b87.html | Stadsutveckling Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/logistiklosningbarkarby.4.7ba328421764bf2637f55d4f.html | Logistiklösning Barkarby
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/framtidensjakobsberg.4.48507834187db5dabba2d4bf.html | Framtidens Jakobsberg
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/kommunenbygger.4.3ac040a6195a848a40d827d5.html | Kommunen bygger
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser.4.640dac6b1300db73e7c800011736.html | Torg och allmänna platser
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anslagstavlor.4.640dac6b1300db73e7c800016342.html | Anslagstavlor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/klottersanering.4.640dac6b1300db73e7c800011336.html | Klottersanering
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/anvandningavoffentligmark.4.640dac6b1300db73e7c800011756.html | Användning av offentlig mark
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/valborgsmassofirande.4.503309051349ea6198980009010.html | Valborgsmässofirande
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/fyrverkerier.4.7aa5be02167aa4c9161d37e6.html | Fyrverkerier
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadningavallmannaytor.4.20cda671167c5d04a681e6ff.html | Städning av allmänna ytor
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/rokfriamiljoerutomhus.4.4f239fa218e55e7545a1e104.html | Rökfria miljöer utomhus
+  https://www.jarfalla.se/byggaboochmiljo/torgochallmannaplatser/stadsodling.4.3afa469018ec1644b4b8c3f2.html | Stadsodling
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga.4.738ee43d15b30e6ada7b36d8.html | Bygga och anlägga
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/tekniskhandbok.4.7559e61b1588d875bf738ab1.html | Teknisk handbok
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/vattenkiosker.4.1f2196e21554c65026616823.html | Vattenkiosker
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/parkeringsnorm.4.3331e80715c04818c58e4afb.html | Parkeringsnorm
+  https://www.jarfalla.se/byggaboochmiljo/naturochmiljo/vattnetijarfalla/dagvatten.4.6f02e66014c5bd408d55babe.html | Dagvatten och länshållningsvatten
+  https://www.jarfalla.se/byggaboochmiljo/byggaochanlagga/riktlinjerforbyggprojekt.4.2e0d7a25169452ac5e822843.html | Riktlinjer för byggprojekt
+  https://www.jarfalla.se/gatorochtrafik.4.640dac6b1300db73e7c800011386.html | Gator och trafik
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen.4.20cda671167c5d04a6812d73.html | Pågående arbeten i kommunen
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/vagarbetenochtrafikstorningar.4.73238b4f1411365a53280009601.html | Vägarbeten och trafikstörningar
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/malarbanan.4.6547062113a642feafa80004010.html | Mälarbanan
+  https://www.jarfalla.se/byggaboochmiljo/stadsutvecklingochdetaljplaner/pagaendedetaljplanerochprojekt.4.1859292814dfc1e888816f5.html | Detaljplaner
+  https://www.jarfalla.se/gatorochtrafik/pagaendearbetenikommunen/gorvalnverket.4.47f0061f1948a03105491c49.html | Görvälnverket
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark.4.96533f219a71633fca91049.html | Arbeten på allmän mark
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/schakttillstand.4.2bcf41dd144728ec59a1e435.html | Schakttillstånd
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/skyddsklassadevagar.4.96533f219a71633fca90da3.html | Skyddsklassade vägar
+  https://www.jarfalla.se/gatorochtrafik/arbetenpaallmanmark/trafikanordningsplan.4.2bcf41dd144728ec59a1e3f3.html | Trafikanordningsplan
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering.4.20cda671167c5d04a6812d7b.html | Parkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/datumparkering.4.640dac6b1300db73e7c800011436.html | Datumparkering
+  https://www.jarfalla.se/gatorochtrafik/parkering/infartsparkering.4.640dac6b1300db73e7c800011536.html | Infartsparkering
 
 KF: 2026-01-12, 2026-02-16, 2026-04-13, 2026-05-11, 2026-06-15, 2026-09-13, 2026-09-21, 2026-11-02, 2026-11-03, 2027-01-01
 KS: 2026-01-28, 2026-02-02, 2026-03-25, 2026-03-30, 2026-04-22, 2026-04-27, 2026-05-27, 2026-06-01, 2026-09-02, 2026-09-07, 2026-10-14, 2026-10-19, 2026-11-02

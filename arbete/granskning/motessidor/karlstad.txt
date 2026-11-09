@@ -2,37 +2,383 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  41  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige  Kommunfullmäktige | Karlstads kommun
- 34  https://karlstad.se/kommun-och-politik/delta-och-paverka/moten-kallelser-och-protokoll  Möten, kallelser och protokoll | Karlstads kommun
  34  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen  Kommunstyrelsen | Karlstads kommun
  32  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll  Möten, kallelser och protokoll | Karlstads kommun
  22  https://karlstad.se/nyheter/kommun-och-politik?filter=Kommun+och+politik+-+Kommunstyrelsen  Kommun och politik | Karlstads kommun
  17  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kommunstyrelsens-beslut-i-korthet  Kommunstyrelsens beslut i korthet | Karlstads kommun
- 16  https://karlstad.se/?s=kallelse+kommunfullm%C3%A4ktige  Karlstad.se | Karlstads kommun
- 16  https://karlstad.se/kommun-och-politik/delta-och-paverka/demokrati-och-samtalsklimat/se-kommunfullmaktiges-moten  Se kommunfullmäktiges möten | Karlstads kommun
  16  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kommunstyrelsens-beslut-i-korthet.printable  Kommunstyrelsens beslut i korthet | Karlstads kommun
- 15  https://karlstad.se/  Karlstad.se | Karlstads kommun
  14  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar  Webbsändningar | Karlstads kommun
  14  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till  Så går ett möte till | Karlstads kommun
- 11  https://karlstad.se/kommun-och-politik/delta-och-paverka/demokrati-och-samtalsklimat/se-kommunfullmaktiges-moten.printable  Se kommunfullmäktiges möten | Karlstads kommun
- 10  https://karlstad.se/sok.html?query=kallelse+kommunfullm%C3%A4ktige  Sök | Karlstads kommun
-  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-08-25-kommunstyrelsens-beslut-i-korthet-25-augusti  Kommunstyrelsens beslut i korthet 25 augusti | Karlstads kommun
-  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-05-19-kommunstyrelsen-i-korthet-19-maj  Kommunstyrelsen i korthet 19 maj | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-20-kommunstyrelsen-i-korthet-20-oktober  Kommunstyrelsen i korthet 20 oktober | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-20-kommunstyrelsen-i-korthet-20-oktober.printable  Kommunstyrelsen i korthet 20 oktober | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-01-27-kommunstyrelsen-i-korthet-27-januari  Kommunstyrelsen i korthet 27 januari | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-22-kommunstyrelsen-i-korthet-22-september  Kommunstyrelsen i korthet 22 september | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-22-kommunstyrelsen-i-korthet-22-september.printable  Kommunstyrelsen i korthet 22 september | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-06-15-kommunstyrelsen-i-korthet-15-juni  Kommunstyrelsen i korthet 15 juni | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-04-14-kommunstyrelsen-i-korthet-14-april  Kommunstyrelsen i korthet 14 april | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-03-17-kommunstyrelsen-i-korthet-17-mars  Kommunstyrelsen i korthet 17 mars | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-02-17-kommunstyrelsen-i-korthet-17-februari  Kommunstyrelsen i korthet 17 februari | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-08-25-kommunstyrelsens-beslut-i-korthet-25-augusti.printable  Kommunstyrelsens beslut i korthet 25 augusti | Karlstads kommun
-  8  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-01-27-kommunstyrelsen-i-korthet-27-januari.printable  Kommunstyrelsen i korthet 27 januari | Karlstads kommun
-  4  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-22-film-beslut-fran-stadsbyggnadsnamnden-i-oktober  Film: Beslut från stadsbyggnadsnämnden i oktober | Karlstads kommun
-  4  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-22-film-beslut-fran-stadsbyggnadsnamnden-i-oktober.printable  Film: Beslut från stadsbyggnadsnämnden i oktober | Karlstads kommun
-  3  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-24-film-beslut-i-stadsbyggnadsnamnden-i-september  Film: Beslut i stadsbyggnadsnämnden i september | Karlstads kommun
-  3  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-24-film-beslut-i-stadsbyggnadsnamnden-i-september.printable  Film: Beslut i stadsbyggnadsnämnden i september | Karlstads kommun
-  2  https://karlstad.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök | Karlstads kommun
+ 10  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-08-25-kommunstyrelsens-beslut-i-korthet-25-augusti  Kommunstyrelsens beslut i korthet 25 augusti | Karlstads kommun
+ 10  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-05-19-kommunstyrelsen-i-korthet-19-maj  Kommunstyrelsen i korthet 19 maj | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-20-kommunstyrelsen-i-korthet-20-oktober  Kommunstyrelsen i korthet 20 oktober | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-20-kommunstyrelsen-i-korthet-20-oktober.printable  Kommunstyrelsen i korthet 20 oktober | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-01-27-kommunstyrelsen-i-korthet-27-januari  Kommunstyrelsen i korthet 27 januari | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-22-kommunstyrelsen-i-korthet-22-september  Kommunstyrelsen i korthet 22 september | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-22-kommunstyrelsen-i-korthet-22-september.printable  Kommunstyrelsen i korthet 22 september | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-06-15-kommunstyrelsen-i-korthet-15-juni  Kommunstyrelsen i korthet 15 juni | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-04-14-kommunstyrelsen-i-korthet-14-april  Kommunstyrelsen i korthet 14 april | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-03-17-kommunstyrelsen-i-korthet-17-mars  Kommunstyrelsen i korthet 17 mars | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-02-17-kommunstyrelsen-i-korthet-17-februari  Kommunstyrelsen i korthet 17 februari | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-08-25-kommunstyrelsens-beslut-i-korthet-25-augusti.printable  Kommunstyrelsens beslut i korthet 25 augusti | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-06-15-kommunstyrelsen-i-korthet-15-juni.printable  Kommunstyrelsen i korthet 15 juni | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-05-19-kommunstyrelsen-i-korthet-19-maj.printable  Kommunstyrelsen i korthet 19 maj | Karlstads kommun
+  9  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-04-14-kommunstyrelsen-i-korthet-14-april.printable  Kommunstyrelsen i korthet 14 april | Karlstads kommun
+  5  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-22-film-beslut-fran-stadsbyggnadsnamnden-i-oktober  Film: Beslut från stadsbyggnadsnämnden i oktober | Karlstads kommun
+  4  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-24-film-beslut-i-stadsbyggnadsnamnden-i-september  Film: Beslut i stadsbyggnadsnämnden i september | Karlstads kommun
+
+Länkar på https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige:
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#main-content | Hoppa till innehåll
+  https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd
+  https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster.
+  https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+  https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+  https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster.
+  https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande Öppnas i nytt fönster.
+  https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/smarta-karlstad | Smarta Karlstad
+  https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster.
+  https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate
+  https://karlstad.se/ | Länk till startsidan för Karlstad.se
+  https://e-tjanster.karlstad.se/ | E-tjänster Länk till annan webbplats.
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning
+  https://karlstad.se/uppleva-och-gora | Uppleva och göra
+  https://karlstad.se/omsorg-och-stod | Omsorg och stöd
+  https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart
+  https://karlstad.se/trafik-och-gator | Trafik och gator
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta Karlstads kommun
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll | Möten, kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Webbsändningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Så går ett möte till
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum
+  https://karlstad.se/kommun-och-politik/delta-och-paverka | Delta och påverka
+  https://karlstad.se/kommun-och-politik/val-och-folkomrostningar | Val och folkomröstningar
+  https://karlstad.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://karlstad.se/kommun-och-politik/lagar-och-regler | Lagar och regler
+  https://karlstad.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://karlstad.se/kommun-och-politik/karlstads-kommuns-kanaler | Karlstads kommuns kanaler
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press och kommunikationsmaterial
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://karlstad.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel
+  https://karlstad.se/kommun-och-politik/kartor-och-geografisk-information-gis | Kartor och geografisk information GIS
+  https://karlstad.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap
+  https://karlstad.se/ | Karlstad.se
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#ksMobileTocContent | Innehåll på sida
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kontaktakommunfullmaktige | Kontakta kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Omkommunfullmaktige | Om kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Direktsandafullmaktigemoten | Direktsända fullmäktigemöten
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sagarettmotetill | Så går ett möte till
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Mandatfordelning | Mandatfördelning
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Valberedning | Valberedning
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kontaktakommunfullmaktige | Kontakta kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Omkommunfullmaktige | Om kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Direktsandafullmaktigemoten | Direktsända fullmäktigemöten
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Sagarettmotetill | Så går ett möte till
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Mandatfordelning | Mandatfördelning
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#h-Valberedning | Valberedning
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Se kommunfullmäktiges möten
+  https://karlstad.tromanpublik.se/viewOrganization.jsf?id=fd2ccc4c-120c-4baa-9f63-e13c4d9c7947 | Ledamöter i kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#8f0270cf637a11600 | Klicka här
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-0d0814496de710107236 | 2026-10-22
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-dd2ae44cd9bf9974960 | 2026-09-24
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-65111acf49cb9846290 | 2026-08-20
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-b150589409339762536 | 2026-06-16
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-954ffa60fdf19653609 | 2026-05-21
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-743aeb4ca0399526118 | 2026-04-23
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-dd2ca12b0ce99409223 | 2026-03-26
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-f4349fd0756f9234083 | 2026-02-19
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-aed680c1e5a59096167 | 2026-01-22
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-94bc763e5cc79094850 | 2025
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-7499d42a7af27732737 | 2024
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-d386f20d81eb6420221 | 2023
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-9c3e2b8b59565495975 | 2022
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-17a2d36c381b3894861 | 2021
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-190c82bba1f23030471 | 2020
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige#--chn-8f0270cf637a11600-87d345ed43882297544 | 2019
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Mötet steg för steg
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige.printable | Skriv ut
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Webbsändningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/sa-gar-ett-mote-till | Så går ett möte till
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press
+  https://karlstad.se/om-webbplatsen#Funktioner | Funktioner
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning
+  https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies
+  https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://karlstad.se/storningar | 15 Störningar
+
+Länkar på https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen:
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#main-content | Hoppa till innehåll
+  https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd
+  https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster.
+  https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+  https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+  https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster.
+  https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande Öppnas i nytt fönster.
+  https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/smarta-karlstad | Smarta Karlstad
+  https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster.
+  https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate
+  https://karlstad.se/ | Länk till startsidan för Karlstad.se
+  https://e-tjanster.karlstad.se/ | E-tjänster Länk till annan webbplats.
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning
+  https://karlstad.se/uppleva-och-gora | Uppleva och göra
+  https://karlstad.se/omsorg-och-stod | Omsorg och stöd
+  https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart
+  https://karlstad.se/trafik-och-gator | Trafik och gator
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta Karlstads kommun
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll | Möten, kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kommunstyrelsens-beslut-i-korthet | Kommunstyrelsens beslut i korthet
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum
+  https://karlstad.se/kommun-och-politik/delta-och-paverka | Delta och påverka
+  https://karlstad.se/kommun-och-politik/val-och-folkomrostningar | Val och folkomröstningar
+  https://karlstad.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://karlstad.se/kommun-och-politik/lagar-och-regler | Lagar och regler
+  https://karlstad.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://karlstad.se/kommun-och-politik/karlstads-kommuns-kanaler | Karlstads kommuns kanaler
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press och kommunikationsmaterial
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://karlstad.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel
+  https://karlstad.se/kommun-och-politik/kartor-och-geografisk-information-gis | Kartor och geografisk information GIS
+  https://karlstad.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap
+  https://karlstad.se/ | Karlstad.se
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#ksMobileTocContent | Innehåll på sida
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kontaktakommunstyrelsen | Kontakta kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Omkommunstyrelsen | Om kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kommunenskommunalrad | Kommunens kommunalråd
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Komochlyssnapakommunstyrelsen | Kom och lyssna på kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Beslutikorthet | Beslut i korthet
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Beredandeutskott | Beredande utskott
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kontaktakommunstyrelsen | Kontakta kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Omkommunstyrelsen | Om kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kommunenskommunalrad | Kommunens kommunalråd
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Komochlyssnapakommunstyrelsen | Kom och lyssna på kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Beslutikorthet | Beslut i korthet
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#h-Beredandeutskott | Beredande utskott
+  https://karlstad.tromanpublik.se/viewOrganization.jsf?id=1939501b-5922-44aa-a965-81f36c87e503 | Ledamöterna i kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#99a587db35678872 | Klicka här
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-d0bfccd22d3110168769 | 2026-11-03
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-850577398be710069131 | 2026-10-20
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-68dd3c311c449945021 | 2026-09-22
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-69f738a23a599852237 | 2026-08-25
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-10729bd352fa9752681 | 2026-06-15
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-74f380d6c7cb9688151 | 2026-06-02
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-bbafd2539db59623387 | 2026-05-19
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-73953e64db7b9446078 | 2026-04-14
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-25f72d0fedf49346901 | 2026-03-17
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-29349348642c9213836 | 2026-02-17
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-9cc67de67b649095678 | 2025
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-226868d64f0d7673007 | 2024
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-0379a5337a6a6420329 | 2023
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-f5683ad2abc65496245 | 2022
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-418c01ea72cc3894876 | 2021
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-5157e812c3813894875 | 2020
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen#--chn-99a587db35678872-bc2c95d4b4942297301 | 2019
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kommunstyrelsens-beslut-i-korthet | Kommunstyrelsens beslut i korthet
+  https://karlstad.tromanpublik.se/viewOrganization.jsf?id=f2a5d3c2-f4d7-4324-aa54-ce0218526db0 | Ledamöterna i kommunledningsutskottet
+  https://karlstad.tromanpublik.se/viewOrganization.jsf?id=889a671b-0579-4f5e-9ed0-9cfd0ac5352a | Ledamöterna i tillväxtutskottet
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen.printable | Skriv ut
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/politiker-och-politiska-sekreterare | Politiker och politiska sekreterare
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kommunstyrelsens-beslut-i-korthet | Kommunstyrelsens beslut i korthet
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder | Nämnder
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/forvaltningar | Förvaltningar
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/bolag | Bolag
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/revisorer | Revisorer
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/radgivande-organ | Rådgivande organ
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/stiftelser-och-fonder | Stiftelser och fonder
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med/samverkansforum | Samverkansforum
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press
+  https://karlstad.se/om-webbplatsen#Funktioner | Funktioner
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning
+  https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies
+  https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://karlstad.se/storningar | 15 Störningar
+
+Länkar på https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll:
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Lär mer om kakor
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#main-content | Hoppa till innehåll
+  https://karlstad.se/storningar/storningar/2026-11-04-kokningsrekommendationen-for-vattnet-i-valberg-ar-havd | Kokningsrekommendation i Vålberg hävd
+  https://karlstad.se/alsters-herrgard | Alsters herrgård Öppnas i nytt fönster.
+  https://karlstad.se/flytta-till-karlstadsregionen | Flytta till Karlstadsregionen Öppnas i nytt fönster.
+  https://www.ksdarprt.se/ | Karlstad airport Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.karlstadsenergi.se/ | Karlstads energi Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/ | Karlstads kommun Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-kommunala-gymnasieskolor | Karlstads kommunala gymnasieskolor Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-parkerings-ab | Karlstads parkering Öppnas i nytt fönster.
+  https://karlstad.se/karlstads-teknikcenter | Karlstads teknikcenter, KTC Öppnas i nytt fönster.
+  https://karlstad.se/karlstad-vaxer | Karlstad växer Öppnas i nytt fönster.
+  https://kbab.se/ | KBAB - Karlstads bostads AB Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.mariebergsskogen.se/ | Mariebergsskogen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/naringsliv-och-foretagande | Näringsliv och företagande Öppnas i nytt fönster.
+  https://raddningkarlstad.se/ | Räddningstjänsten Karlstadsregionen Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/smarta-karlstad | Smarta Karlstad
+  https://karlstad.se/sundstabadet | Sundstabadet Öppnas i nytt fönster.
+  https://karlstad.se/visit-karlstad | Visit Karlstad Länk till annan webbplats, öppnas i nytt fönster.
+  https://karlstad.se/vuxenutbildning-i-varmland | Vuxenutbildning i Värmland Öppnas i nytt fönster.
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning/language-and-translation | Translate
+  https://karlstad.se/ | Länk till startsidan för Karlstad.se
+  https://e-tjanster.karlstad.se/ | E-tjänster Länk till annan webbplats.
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakt
+  https://karlstad.se/forskola-skola-och-utbildning | Förskola, skola och utbildning
+  https://karlstad.se/uppleva-och-gora | Uppleva och göra
+  https://karlstad.se/omsorg-och-stod | Omsorg och stöd
+  https://karlstad.se/bygga-bo-och-leva-hallbart | Bygga, bo och leva hållbart
+  https://karlstad.se/trafik-och-gator | Trafik och gator
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta Karlstads kommun
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll | Möten, kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/kommunens-organisation | Kommunens organisation
+  https://karlstad.se/kommun-och-politik/delta-och-paverka | Delta och påverka
+  https://karlstad.se/kommun-och-politik/val-och-folkomrostningar | Val och folkomröstningar
+  https://karlstad.se/kommun-och-politik/diarium-arkiv-och-sekretess | Diarium, arkiv och sekretess
+  https://karlstad.se/kommun-och-politik/lagar-och-regler | Lagar och regler
+  https://karlstad.se/kommun-och-politik/kommunfakta | Kommunfakta
+  https://karlstad.se/kommun-och-politik/karlstads-kommuns-kanaler | Karlstads kommuns kanaler
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press och kommunikationsmaterial
+  https://karlstad.se/kommun-och-politik/sa-arbetar-vi-med | Så arbetar vi med
+  https://karlstad.se/kommun-och-politik/borgerlig-vigsel | Borgerlig vigsel
+  https://karlstad.se/kommun-och-politik/kartor-och-geografisk-information-gis | Kartor och geografisk information GIS
+  https://karlstad.se/kommun-och-politik/kris-och-beredskap | Kris och beredskap
+  https://karlstad.se/ | Karlstad.se
+  https://karlstad.se/kommun-och-politik | Kommun och politik
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#ksMobileTocContent | Innehåll på sida
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Webbsandafullmaktigemoten | Webbsända fullmäktigemöten
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Kommunalabeslutikorthet | Kommunala beslut i korthet
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Relateradesidor | Relaterade sidor
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/webbsandningar | Kommunfullmäktiges webbsändningar
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#f8dd7bc30e0b31 | Klicka här
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-f1d8a7979c0019282 | Arbetsmarknads- och socialnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-c3552ab2d60913835 | Barn- och ungdomsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-446e7b1a768475497 | Drifts- och servicenämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-0e4d444d77e2193091 | Funktionsrättsrådet
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-e47d82dbb89623306 | Gymnasie- och vuxenutbildningsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-483309be05e161779 | Karlstads Stadshus Styrelse
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-c27ab7e6579d24487 | Karlstads-Hammarö överförmyndarnämnd
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-8f0270cf637a11600 | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-99a587db35678872 | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-4dfd4fa2b4f81680530 | Krisledningsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-8ae55f93d9fe16837 | Kultur- och fritidsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-bc831bbe8b8f23308 | Miljönämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-bb48a9cc55d96882135 | Mångfaldsforum
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-b8a779a84c5d5688569 | Revisionsrapporter
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-645a5553f9e72010879 | Räddningstjänsten Karlstadsregionen
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-ddfbebadf49716834 | Stadsbyggnadsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-2b93a7cb920316831 | Teknik- och fastighetsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-35421a0a44795922143 | Ungdomsfullmäktige
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-9297acbdd69445548 | Valnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-10eabe083e7216840 | Vård- och omsorgsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#--chn-f8dd7bc30e0b31-8acfd61f7ef0193088 | Äldrerådet
+  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-22-film-beslut-fran-stadsbyggnadsnamnden-i-oktober | Film: Beslut från stadsbyggnadsnämnden i oktober
+  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-10-20-kommunstyrelsen-i-korthet-20-oktober | Kommunstyrelsen i korthet 20 oktober
+  https://karlstad.se/nyheter/kommun-och-politik/beslut-i-korthet/2026-09-24-film-beslut-i-stadsbyggnadsnamnden-i-september | Film: Beslut i stadsbyggnadsnämnden i september
+  https://karlstad.se/nyheter/kommun-och-politik?filter=Kommun+och+politik+-+M%C3%B6ten+och+protokoll | Visa fler
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige | Kommunfullmäktige
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen | Kommunstyrelsen
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/arbetsmarknads--och-socialnamnden | Arbetsmarknads- och socialnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/barn--och-ungdomsnamnden | Barn- och ungdomsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/drifts--och-servicenamnden | Drifts- och servicenämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/gymnasie--och-vuxenutbildningsnamnden | Gymnasie- och vuxenutbildningsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/karlstads-hammaro-overformyndarnamnd | Karlstads-Hammarö överförmyndarnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/krisledningsnamnden | Krisledningsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/kultur--och-fritidsnamnden | Kultur- och fritidsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/miljonamnden | Miljönämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/omvarldsnamnden | Omvärldsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/stadsbyggnadsnamnden | Stadsbyggnadsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/teknik--och-fastighetsnamnden | Teknik- och fastighetsnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/valnamnden | Valnämnden
+  https://karlstad.se/kommun-och-politik/kommunens-organisation/namnder/vard--och-omsorgsnamnden | Vård- och omsorgsnämnden
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll.printable | Skriv ut
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Webbsandafullmaktigemoten | Webbsända fullmäktigemöten
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Kallelserochprotokoll | Kallelser och protokoll
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Kommunalabeslutikorthet | Kommunala beslut i korthet
+  https://karlstad.se/kommun-och-politik/moten-kallelser-och-protokoll#h-Relateradesidor | Relaterade sidor
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Lämna synpunkter
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun/felanmalan-fraga-eller-synpunkt | Gör en felanmälan
+  https://karlstad.se/kommun-och-politik/kontakta-karlstads-kommun | Kontakta oss och öppettider
+  https://karlstad.se/kommun-och-politik/press-och-kommunikationsmaterial | Press
+  https://karlstad.se/om-webbplatsen#Funktioner | Funktioner
+  https://karlstad.se/om-webbplatsen/sprak-och-oversattning | Språk och översättning
+  https://karlstad.se/om-webbplatsen/personuppgifter-och-dataskydd-gdpr | Personuppgifter och dataskydd
+  https://karlstad.se/om-webbplatsen/om-kakor-pa-karlstad.se | Hur vi använder cookies
+  https://karlstad.se/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://karlstad.se/storningar | 15 Störningar
 
 KF: 2026-01-22, 2026-02-19, 2026-03-26, 2026-04-23, 2026-05-21, 2026-06-16, 2026-08-17, 2026-08-20, 2026-09-24, 2026-10-22, 2026-11-09
 KS: 2026-01-27, 2026-02-17, 2026-03-17, 2026-04-14, 2026-05-19, 2026-06-02, 2026-06-15, 2026-08-19, 2026-08-25, 2026-08-26, 2026-09-22, 2026-10-05, 2026-10-20, 2026-11-03, 2026-11-09

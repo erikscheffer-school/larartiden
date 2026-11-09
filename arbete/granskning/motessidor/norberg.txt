@@ -1,36 +1,937 @@
 Startadresser från Brave: inga
 
 Sidor (poäng):
- 65  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html  Protokoll och handlingar - Norbergs kommun
+ 66  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html  Protokoll och handlingar - Norbergs kommun
  32  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html  Sammanträden - Norbergs kommun
- 25  https://norberg.se/  Norbergs kommun - Norbergs kommun
- 25  https://norberg.se/?s=kallelse+kommunfullm%C3%A4ktige  Norbergs kommun - Norbergs kommun
- 25  https://norberg.se/?s=kallelse+kommunfullm%C3%A4ktige  Norbergs kommun - Norbergs kommun
- 16  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html  Motioner och medborgarförslag - Norbergs kommun
- 15  https://norberg.se/kommun--politik/insyn-och-paverkan/hur-gar-det-till-att-fatta-beslut.html  Hur går det till att fatta beslut? - Norbergs kommun
- 15  https://norberg.se/kommun--politik/insyn-och-paverkan.html  Insyn och påverkan - Norbergs kommun
- 14  https://norberg.se/kommun--politik/politik-och-fortroendevalda.html  Politik och förtroendevalda - Norbergs kommun
- 13  https://norberg.se/kommun--politik/politik-och-fortroendevalda/kommunfullmaktige.html  Kommunfullmäktige - Norbergs kommun
- 13  https://norberg.se/kommun--politik/insyn-och-paverkan/overklaga-beslut.html  Överklaga beslut - Norbergs kommun
- 13  https://norberg.se/kommun--politik/politik-och-fortroendevalda/namnder-och-utskott.html  Nämnder och utskott - Norbergs kommun
- 13  https://norberg.se/kommun--politik/insyn-och-paverkan/lamna-in-medborgarforslag.html  Lämna in medborgarförslag - Norbergs kommun
- 11  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-11-02-kungorelse---kommunfullmaktiges-sammantrade.html  Kungörelse – kommunfullmäktiges sammanträde - Norbergs kommun
- 10  https://norberg.se/kommun--politik.html  Kommun & politik - Norbergs kommun
- 10  https://norberg.se/kommun--politik/insyn-och-paverkan/webbtv.html  Webbtv - Norbergs kommun
-  9  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunal-anslagstavla.html  Kommunal anslagstavla - Norbergs kommun
-  9  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-11-02-vem-blir-arets-norbergare-2026.html  Vem blir Årets Norbergare 2026? - Norbergs kommun
-  5  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-11-04-davidsbovagen-stangs-av-for-fordonstrafik-till-och-med-31-december-2026.html  Davidsbovägen stängs av för fordonstrafik till och med 31 december 2026 - Norbergs kommun
-  4  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-11-03-dags-att-tanda-brasan-sa-eldar-du-smartare-i-vinter.html  Dags att tända brasan? Så eldar du smartare i vinter - Norbergs kommun
-  4  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-10-29-betala-kulturskolans-avgifter-med-fritidskortet.html  Betala Kulturskolans avgifter med Fritidskortet - Norbergs kommun
-  4  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-10-26-fler-kanner-sig-trygga-i-norbergs-lss-boenden.html  Fler känner sig trygga i Norbergs LSS-boenden - Norbergs kommun
-  4  https://norberg.se/nyhetsarkiv/nyhetsarkiv/2026-10-19-80-ar-med-svenska-skolmaltider---det-firar-vi-i-norberg.html  80 år med svenska skolmåltider – det firar vi i Norberg! - Norbergs kommun
-  4  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunarkiv.html  Kommunarkiv - Norbergs kommun
-  4  https://norberg.se/kommun--politik/insyn-och-paverkan/sa-hanterar-vi-dina-personuppgifter.html  Så hanterar vi dina personuppgifter - Norbergs kommun
-  3  https://norberg.se/naringsliv--arbete/foretagande/frukostmoten.html  Frukostmöten - Norbergs kommun
-  3  https://norberg.se/kommun--politik/insyn-och-paverkan/offentlighetsprincipen.html  Offentlighetsprincipen - Norbergs kommun
+ 17  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html  Motioner och medborgarförslag - Norbergs kommun
+ 16  https://norberg.se/kommun--politik/insyn-och-paverkan/hur-gar-det-till-att-fatta-beslut.html  Hur går det till att fatta beslut? - Norbergs kommun
+ 16  https://norberg.se/kommun--politik/insyn-och-paverkan.html  Insyn och påverkan - Norbergs kommun
+ 15  https://norberg.se/kommun--politik/politik-och-fortroendevalda.html  Politik och förtroendevalda - Norbergs kommun
+ 14  https://norberg.se/kommun--politik/politik-och-fortroendevalda/kommunfullmaktige.html  Kommunfullmäktige - Norbergs kommun
+ 14  https://norberg.se/kommun--politik/insyn-och-paverkan/overklaga-beslut.html  Överklaga beslut - Norbergs kommun
+ 14  https://norberg.se/kommun--politik/politik-och-fortroendevalda/namnder-och-utskott.html  Nämnder och utskott - Norbergs kommun
+ 14  https://norberg.se/kommun--politik/insyn-och-paverkan/lamna-in-medborgarforslag.html  Lämna in medborgarförslag - Norbergs kommun
+ 12  https://norberg.se/kommun--politik/insyn-och-paverkan/webbtv.html  Webbtv - Norbergs kommun
+ 11  https://norberg.se/kommun--politik.html  Kommun & politik - Norbergs kommun
+ 10  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunal-anslagstavla.html  Kommunal anslagstavla - Norbergs kommun
+  8  https://norberg.se/kommun--politik/insyn-och-paverkan/visselblasning.html  Visselblåsning - Norbergs kommun
+  8  https://norberg.se/kommun--politik/politik-och-fortroendevalda/forbund.html  Förbund - Norbergs kommun
+  8  https://norberg.se/kommun--politik/politik-och-fortroendevalda/politiska-partier.html  Politiska partier - Norbergs kommun
+  8  https://norberg.se/kommun--politik/politik-och-fortroendevalda/radet-for-aldre-och-funktionsnedsatta.html  Rådet för äldre och funktionsnedsatta - Norbergs kommun
+  5  https://norberg.se/kommun--politik/insyn-och-paverkan/kommunarkiv.html  Kommunarkiv - Norbergs kommun
+  5  https://norberg.se/kommun--politik/insyn-och-paverkan/sa-hanterar-vi-dina-personuppgifter.html  Så hanterar vi dina personuppgifter - Norbergs kommun
+  4  https://norberg.se/naringsliv--arbete/foretagande/frukostmoten.html  Frukostmöten - Norbergs kommun
+  4  https://norberg.se/kommun--politik/insyn-och-paverkan/offentlighetsprincipen.html  Offentlighetsprincipen - Norbergs kommun
+  4  https://norberg.se/kommun--politik/insyn-och-paverkan/utveckling-av-kommunhuset.html  Utveckling av kommunhuset - Norbergs kommun
+  4  https://norberg.se/kommun--politik/politik-och-fortroendevalda/fortroendevalda-i-kommunen.html  Förtroendevalda i kommunen - Norbergs kommun
   3  https://norberg.se/kommun--politik/insyn-och-paverkan/press-media-och-information.html  Press, media och information - Norbergs kommun
   3  https://norberg.se/kommun--politik/insyn-och-paverkan/synpunkter-klagomal-och-felanmalan.html  Synpunkter, klagomål och felanmälan - Norbergs kommun
-  3  https://norberg.se/kommun--politik/insyn-och-paverkan/utveckling-av-kommunhuset.html  Utveckling av kommunhuset - Norbergs kommun
+
+Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html:
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-35 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-35 | Insyn och påverkan
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#svid10_6460a04e16e59225b3d494c | Close menu
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Öppna undermeny (Barn & utbildning)
+  https://norberg.se/barn--utbildning.html | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Öppna undermeny (Boende & miljö)
+  https://norberg.se/boende--miljo.html | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Öppna undermeny (Stöd & omsorg)
+  https://norberg.se/stod--omsorg.html | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-29 | Öppna undermeny (Näringsliv & arbete)
+  https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-35 | Öppna undermeny (Kommun & politik)
+  https://norberg.se/kommun--politik.html | Kommun & politik
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-44 | Öppna undermeny (Kultur & fritid)
+  https://norberg.se/kultur--fritid.html | Kultur & fritid
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close submenu (Barn & utbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Öppna undermeny (Allmän information)
+  https://norberg.se/barn--utbildning/allman-information.html | Allmän information
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 | Öppna undermeny (E-tjänster och blanketter)
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 | Öppna undermeny (Förskola)
+  https://norberg.se/barn--utbildning/forskola.html | Förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 | Öppna undermeny (Grundskola och fritidshem)
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 | Öppna undermeny (Gymnasieutbildning)
+  https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 | Öppna undermeny (Vuxenutbildning)
+  https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 | Öppna undermeny (Övriga fristående verksamheter)
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Allmän information)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Allmän information
+  https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll
+  https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar
+  https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering
+  https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA
+  https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan
+  https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete
+  https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet
+  https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | Öppna undermeny (Skolskjuts)
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-3 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Close submenu (Skolskjuts)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-2 | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-4 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (E-tjänster och blanketter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | E-tjänster och blanketter
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter
+  https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-5 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Förskola)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Förskola
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola
+  https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor
+  https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan
+  https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan
+  https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen
+  https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet
+  https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-6 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Grundskola och fritidshem)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Grundskola och fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet
+  http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-7 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Gymnasieutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Gymnasieutbildning
+  https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd
+  https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-8 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Vuxenutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren
+  https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-9 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Close submenu (Övriga fristående verksamheter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-1 | Övriga fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close submenu (Boende & miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | Öppna undermeny (Avfall och återvinning)
+  https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 | Öppna undermeny (Bostäder)
+  https://norberg.se/boende--miljo/bostader.html | Bostäder
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 | Öppna undermeny (Bygga)
+  https://norberg.se/boende--miljo/bygga.html | Bygga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 | Öppna undermeny (Naturvård och miljö)
+  https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 | Öppna undermeny (Stadsutveckling)
+  https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-16 | Öppna undermeny (Vatten och avlopp)
+  https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-11 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Avfall och återvinning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Avfall och återvinning
+  https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-12 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Bostäder)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Bostäder
+  https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte
+  https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter
+  https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-13 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Bygga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Bygga
+  https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-14 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Naturvård och miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Naturvård och miljö
+  https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor
+  https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten
+  https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/djur-natur-lantbruk/naturvard/ | Naturvård Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/bygga-bo--miljo/naturvard-och-skogsforvaltning/skogsforvaltning.html | Skogsförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/vindkraft/ | Vindkraft Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-15 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Stadsutveckling)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Stadsutveckling
+  https://norberg.se/boende--miljo/stadsutveckling/bredband-och-it.html | Bredband och IT
+  https://nvk.se/gator--trafik.html | Gator och trafik Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/gruvutredningar-i-norberg/ | Gruvutredningar Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/ideprogram-for-centrala-norberg.html | Idéprogram för centrala Norberg
+  https://norberg.se/boende--miljo/stadsutveckling/intresseanmalan-vastra-centrum.html | Intresseanmälan Västra Centrum
+  https://norberg.se/boende--miljo/stadsutveckling/kommunikationer-och-lokaltrafik.html | Kommunikationer och lokaltrafik
+  https://karta-norberg.vdmb.se/ | Norbergskartan Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/gator--trafik/parkeringstillstand.html | Parkeringstillstånd Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/ | Samhällsbyggnad och planering Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/webbkamera.html | Webbkamera
+  https://norberg.se/boende--miljo/stadsutveckling/oversiktplanering.html | Översiktplanering
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-16 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Close submenu (Vatten och avlopp)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-10 | Vatten och avlopp
+  https://norberg.se/boende--miljo/vatten-och-avlopp/teknisk-forvaltning.html | Teknisk förvaltning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Close submenu (Stöd & omsorg)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-0 | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | Öppna undermeny (Ekonomi, bistånd och avgifter)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter.html | Ekonomi, bistånd och avgifter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-20 | Öppna undermeny (För dig som vill hjälpa andra)
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra.html | För dig som vill hjälpa andra
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-21 | Öppna undermeny (Ny socialtjänstlag 2025)
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-22 | Öppna undermeny (Stöd för anhöriga)
+  https://norberg.se/stod--omsorg/stod-for-anhoriga.html | Stöd för anhöriga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-23 | Öppna undermeny (Stöd för barn och unga)
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga.html | Stöd för barn och unga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-24 | Öppna undermeny (Stöd för nyanlända)
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda.html | Stöd för nyanlända
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-25 | Öppna undermeny (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning.html | Stöd för personer med funktionsnedsättning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-26 | Öppna undermeny (Stöd för vuxna och familjer)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer.html | Stöd för vuxna och familjer
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-27 | Öppna undermeny (Stöd för äldre)
+  https://norberg.se/stod--omsorg/stod-for-aldre.html | Stöd för äldre
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Ekonomi, bistånd och avgifter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Ekonomi, bistånd och avgifter
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/avgifter-for-vard-och-omsorg.html | Avgifter för vård och omsorg
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/ekonomiskt-bistand.html | Ekonomiskt bistånd
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-19 | Öppna undermeny (God man, förvaltare och förmyndare)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare.html | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/konsumentradgivning.html | Konsumentrådgivning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-19 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | Close submenu (God man, förvaltare och förmyndare)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-18 | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare/till-dig-som-behover-hjalp.html | Till dig som behöver hjälp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-20 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (För dig som vill hjälpa andra)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | För dig som vill hjälpa andra
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-familjehem.html | Bli familjehem
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktfamilj.html | Bli kontaktfamilj
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktperson.html | Bli kontaktperson
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-21 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Ny socialtjänstlag 2025)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Ny socialtjänstlag 2025
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-22 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för anhöriga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för anhöriga
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/anhorigstod.html | Anhörigstöd
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/avlosarservice.html | Avlösarservice
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/korttidsplats-for-aldre.html | Korttidsplats för äldre
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-23 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för barn och unga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för barn och unga
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/alkohol-och-droger.html | Alkohol och droger
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/anmalan-om-barn-som-far-illa.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/barnahus-.html | Barnahus
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/livslinjen.html | Livslinjen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/medling-vid-brott.html | Medling vid brott
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/stod-till-barn-unga-och-familjer.html | Stöd till barn, unga och familjer
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ungdomsmottagningen.html | Ungdomsmottagningen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ung-och-mar-daligt.html | Ung och mår dåligt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-24 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för nyanlända)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/information-om-integration-och-flyktingmottagning.html | Information om integration och flyktingmottagning
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/stod-och-information-for-nyanlanda.html | Stöd och information för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/vill-du-hjalpa-andra-i-norberg.html | Vill du hjälpa andra i Norberg?
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-25 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för personer med funktionsnedsättning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/avlosarservice-i-hemmet.html | Avlösarservice i hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/boendestod.html | Boendestöd
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-barn-och-ungdom.html | Bostad med särskild service för barn och ungdom
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-vuxna-eller-annan-sarskild-anpassad-bostad.html | Bostad med särskild service för vuxna eller annan särskild anpassad bostad
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/daglig-verksamhet.html | Daglig verksamhet
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/funktionsnedsattning-lss.html | Funktionsnedsättning LSS
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/korttidstillsyn-och-korttidsvistelse-utanfor-det-egna-hemmet.html | Korttidstillsyn och korttidsvistelse utanför det egna hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/ledsagarservice.html | Ledsagarservice
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personligt-ombud.html | Personligt ombud
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/radgivning-och-personligt-stod.html | Rådgivning och personligt stöd
+  https://norberg.se/stod--omsorg/stod-for-aldre/rad-vid-varmebolja.html | Råd vid värmebölja
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-aldre/syn-och-horsel.html | Syn och hörsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-26 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för vuxna och familjer)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för vuxna och familjer
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/adoption.html | Adoption
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/anmalan-om-vuxen-som-far-illa.html | Anmälan om vuxen som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/begravning-och-dodsfall.html | Begravning och dödsfall
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/beroende.html | Beroende
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/borgerlig-vigsel.html | Borgerlig vigsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/bouppteckning-och-dodsboanmalan.html | Bouppteckning och dödsboanmälan
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/digitalt-relations--och-familjestod-birds.html | Digitalt relations- och familjestöd (Birds)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeradgivning.html | Familjerådgivning
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeratt.html | Familjerätt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foralder-och-behover-nagon-att-prata-med.html | Förälder och behöver någon att prata med?
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foraldralinjen.html | Föräldralinjen
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-27 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Close submenu (Stöd för äldre)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-17 | Stöd för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadstillagg.html | Bostadstillägg
+  https://norberg.se/stod--omsorg/stod-for-aldre/dagverksamhet-for-aldre.html | Dagverksamhet för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-aldre/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://norberg.se/stod--omsorg/stod-for-aldre/forebyggande-hembesok.html | Förebyggande hembesök
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html#mm-28 | Öppna undermeny (Hemtjänst - stöd i vardagen)
+  https://norberg.se/stod--omsorg/stod-for-aldre/hemtjanst---stod-i-vardagen.html | Hemtjänst - stöd i vardagen
+  https://norberg.se/stod--omsorg/stod-for-aldre/matlada.html | Matlåda
+
+Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html:
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-35 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-35 | Insyn och påverkan
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#svid10_6460a04e16e59225b3d494c | Close menu
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Öppna undermeny (Barn & utbildning)
+  https://norberg.se/barn--utbildning.html | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Öppna undermeny (Boende & miljö)
+  https://norberg.se/boende--miljo.html | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Öppna undermeny (Stöd & omsorg)
+  https://norberg.se/stod--omsorg.html | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-29 | Öppna undermeny (Näringsliv & arbete)
+  https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-35 | Öppna undermeny (Kommun & politik)
+  https://norberg.se/kommun--politik.html | Kommun & politik
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-44 | Öppna undermeny (Kultur & fritid)
+  https://norberg.se/kultur--fritid.html | Kultur & fritid
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Close submenu (Barn & utbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-2 | Öppna undermeny (Allmän information)
+  https://norberg.se/barn--utbildning/allman-information.html | Allmän information
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-4 | Öppna undermeny (E-tjänster och blanketter)
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-5 | Öppna undermeny (Förskola)
+  https://norberg.se/barn--utbildning/forskola.html | Förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-6 | Öppna undermeny (Grundskola och fritidshem)
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-7 | Öppna undermeny (Gymnasieutbildning)
+  https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-8 | Öppna undermeny (Vuxenutbildning)
+  https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-9 | Öppna undermeny (Övriga fristående verksamheter)
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-2 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Allmän information)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Allmän information
+  https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll
+  https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar
+  https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering
+  https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA
+  https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan
+  https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete
+  https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet
+  https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-3 | Öppna undermeny (Skolskjuts)
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-3 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-2 | Close submenu (Skolskjuts)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-2 | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-4 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (E-tjänster och blanketter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | E-tjänster och blanketter
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter
+  https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-5 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Förskola)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Förskola
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola
+  https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor
+  https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan
+  https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan
+  https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen
+  https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet
+  https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-6 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Grundskola och fritidshem)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Grundskola och fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet
+  http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-7 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Gymnasieutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Gymnasieutbildning
+  https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd
+  https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-8 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Vuxenutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren
+  https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-9 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Close submenu (Övriga fristående verksamheter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-1 | Övriga fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Close submenu (Boende & miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-11 | Öppna undermeny (Avfall och återvinning)
+  https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-12 | Öppna undermeny (Bostäder)
+  https://norberg.se/boende--miljo/bostader.html | Bostäder
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-13 | Öppna undermeny (Bygga)
+  https://norberg.se/boende--miljo/bygga.html | Bygga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-14 | Öppna undermeny (Naturvård och miljö)
+  https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-15 | Öppna undermeny (Stadsutveckling)
+  https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-16 | Öppna undermeny (Vatten och avlopp)
+  https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-11 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Avfall och återvinning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Avfall och återvinning
+  https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-12 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Bostäder)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Bostäder
+  https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte
+  https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter
+  https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-13 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Bygga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Bygga
+  https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-14 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Naturvård och miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Naturvård och miljö
+  https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor
+  https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten
+  https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/djur-natur-lantbruk/naturvard/ | Naturvård Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/bygga-bo--miljo/naturvard-och-skogsforvaltning/skogsforvaltning.html | Skogsförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/vindkraft/ | Vindkraft Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-15 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Stadsutveckling)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Stadsutveckling
+  https://norberg.se/boende--miljo/stadsutveckling/bredband-och-it.html | Bredband och IT
+  https://nvk.se/gator--trafik.html | Gator och trafik Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/gruvutredningar-i-norberg/ | Gruvutredningar Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/ideprogram-for-centrala-norberg.html | Idéprogram för centrala Norberg
+  https://norberg.se/boende--miljo/stadsutveckling/intresseanmalan-vastra-centrum.html | Intresseanmälan Västra Centrum
+  https://norberg.se/boende--miljo/stadsutveckling/kommunikationer-och-lokaltrafik.html | Kommunikationer och lokaltrafik
+  https://karta-norberg.vdmb.se/ | Norbergskartan Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/gator--trafik/parkeringstillstand.html | Parkeringstillstånd Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/ | Samhällsbyggnad och planering Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/webbkamera.html | Webbkamera
+  https://norberg.se/boende--miljo/stadsutveckling/oversiktplanering.html | Översiktplanering
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-16 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Close submenu (Vatten och avlopp)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-10 | Vatten och avlopp
+  https://norberg.se/boende--miljo/vatten-och-avlopp/teknisk-forvaltning.html | Teknisk förvaltning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Close submenu (Stöd & omsorg)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-0 | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-18 | Öppna undermeny (Ekonomi, bistånd och avgifter)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter.html | Ekonomi, bistånd och avgifter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-20 | Öppna undermeny (För dig som vill hjälpa andra)
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra.html | För dig som vill hjälpa andra
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-21 | Öppna undermeny (Ny socialtjänstlag 2025)
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-22 | Öppna undermeny (Stöd för anhöriga)
+  https://norberg.se/stod--omsorg/stod-for-anhoriga.html | Stöd för anhöriga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-23 | Öppna undermeny (Stöd för barn och unga)
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga.html | Stöd för barn och unga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-24 | Öppna undermeny (Stöd för nyanlända)
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda.html | Stöd för nyanlända
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-25 | Öppna undermeny (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning.html | Stöd för personer med funktionsnedsättning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-26 | Öppna undermeny (Stöd för vuxna och familjer)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer.html | Stöd för vuxna och familjer
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-27 | Öppna undermeny (Stöd för äldre)
+  https://norberg.se/stod--omsorg/stod-for-aldre.html | Stöd för äldre
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-18 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Ekonomi, bistånd och avgifter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Ekonomi, bistånd och avgifter
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/avgifter-for-vard-och-omsorg.html | Avgifter för vård och omsorg
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/ekonomiskt-bistand.html | Ekonomiskt bistånd
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-19 | Öppna undermeny (God man, förvaltare och förmyndare)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare.html | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/konsumentradgivning.html | Konsumentrådgivning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-19 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-18 | Close submenu (God man, förvaltare och förmyndare)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-18 | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare/till-dig-som-behover-hjalp.html | Till dig som behöver hjälp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-20 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (För dig som vill hjälpa andra)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | För dig som vill hjälpa andra
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-familjehem.html | Bli familjehem
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktfamilj.html | Bli kontaktfamilj
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktperson.html | Bli kontaktperson
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-21 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Ny socialtjänstlag 2025)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Ny socialtjänstlag 2025
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-22 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för anhöriga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för anhöriga
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/anhorigstod.html | Anhörigstöd
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/avlosarservice.html | Avlösarservice
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/korttidsplats-for-aldre.html | Korttidsplats för äldre
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-23 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för barn och unga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för barn och unga
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/alkohol-och-droger.html | Alkohol och droger
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/anmalan-om-barn-som-far-illa.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/barnahus-.html | Barnahus
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/livslinjen.html | Livslinjen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/medling-vid-brott.html | Medling vid brott
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/stod-till-barn-unga-och-familjer.html | Stöd till barn, unga och familjer
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ungdomsmottagningen.html | Ungdomsmottagningen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ung-och-mar-daligt.html | Ung och mår dåligt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-24 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för nyanlända)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/information-om-integration-och-flyktingmottagning.html | Information om integration och flyktingmottagning
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/stod-och-information-for-nyanlanda.html | Stöd och information för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/vill-du-hjalpa-andra-i-norberg.html | Vill du hjälpa andra i Norberg?
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-25 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för personer med funktionsnedsättning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/avlosarservice-i-hemmet.html | Avlösarservice i hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/boendestod.html | Boendestöd
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-barn-och-ungdom.html | Bostad med särskild service för barn och ungdom
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-vuxna-eller-annan-sarskild-anpassad-bostad.html | Bostad med särskild service för vuxna eller annan särskild anpassad bostad
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/daglig-verksamhet.html | Daglig verksamhet
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/funktionsnedsattning-lss.html | Funktionsnedsättning LSS
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/korttidstillsyn-och-korttidsvistelse-utanfor-det-egna-hemmet.html | Korttidstillsyn och korttidsvistelse utanför det egna hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/ledsagarservice.html | Ledsagarservice
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personligt-ombud.html | Personligt ombud
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/radgivning-och-personligt-stod.html | Rådgivning och personligt stöd
+  https://norberg.se/stod--omsorg/stod-for-aldre/rad-vid-varmebolja.html | Råd vid värmebölja
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-aldre/syn-och-horsel.html | Syn och hörsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-26 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för vuxna och familjer)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för vuxna och familjer
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/adoption.html | Adoption
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/anmalan-om-vuxen-som-far-illa.html | Anmälan om vuxen som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/begravning-och-dodsfall.html | Begravning och dödsfall
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/beroende.html | Beroende
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/borgerlig-vigsel.html | Borgerlig vigsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/bouppteckning-och-dodsboanmalan.html | Bouppteckning och dödsboanmälan
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/digitalt-relations--och-familjestod-birds.html | Digitalt relations- och familjestöd (Birds)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeradgivning.html | Familjerådgivning
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeratt.html | Familjerätt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foralder-och-behover-nagon-att-prata-med.html | Förälder och behöver någon att prata med?
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foraldralinjen.html | Föräldralinjen
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-27 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Close submenu (Stöd för äldre)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-17 | Stöd för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadstillagg.html | Bostadstillägg
+  https://norberg.se/stod--omsorg/stod-for-aldre/dagverksamhet-for-aldre.html | Dagverksamhet för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-aldre/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://norberg.se/stod--omsorg/stod-for-aldre/forebyggande-hembesok.html | Förebyggande hembesök
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/kommun--politik/insyn-och-paverkan/sammantraden.html#mm-28 | Öppna undermeny (Hemtjänst - stöd i vardagen)
+  https://norberg.se/stod--omsorg/stod-for-aldre/hemtjanst---stod-i-vardagen.html | Hemtjänst - stöd i vardagen
+  https://norberg.se/stod--omsorg/stod-for-aldre/matlada.html | Matlåda
+
+Länkar på https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html:
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-36 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-36 | Insyn och påverkan
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-0 | Close menu
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Öppna undermeny (Barn & utbildning)
+  https://norberg.se/barn--utbildning.html | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Öppna undermeny (Boende & miljö)
+  https://norberg.se/boende--miljo.html | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Öppna undermeny (Stöd & omsorg)
+  https://norberg.se/stod--omsorg.html | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-30 | Öppna undermeny (Näringsliv & arbete)
+  https://norberg.se/naringsliv--arbete.html | Näringsliv & arbete
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-36 | Öppna undermeny (Kommun & politik)
+  https://norberg.se/kommun--politik.html | Kommun & politik
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-45 | Öppna undermeny (Kultur & fritid)
+  https://norberg.se/kultur--fritid.html | Kultur & fritid
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Barn & utbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Barn & utbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | Öppna undermeny (Allmän information)
+  https://norberg.se/barn--utbildning/allman-information.html | Allmän information
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-5 | Öppna undermeny (E-tjänster och blanketter)
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter.html | E-tjänster och blanketter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-6 | Öppna undermeny (Förskola)
+  https://norberg.se/barn--utbildning/forskola.html | Förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-7 | Öppna undermeny (Grundskola och fritidshem)
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem.html | Grundskola och fritidshem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-8 | Öppna undermeny (Gymnasieutbildning)
+  https://norberg.se/barn--utbildning/gymnasieutbildning.html | Gymnasieutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-9 | Öppna undermeny (Vuxenutbildning)
+  https://norberg.se/barn--utbildning/vuxenutbildning.html | Vuxenutbildning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | Öppna undermeny (Övriga fristående verksamheter)
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter.html | Övriga fristående verksamheter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Allmän information)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Allmän information
+  https://norberg.se/barn--utbildning/allman-information/avgiftskontroll.html | Avgiftskontroll
+  https://norberg.se/kommun--politik/sakerhet-och-trygghet/forsakringar.html | Försäkringar
+  https://norberg.se/barn--utbildning/allman-information/klagomalshantering.html | Klagomålshantering
+  https://norberg.se/barn--utbildning/allman-information/kommunala-aktivitetsansvaret-kaa.html | Kommunala aktivitetsansvaret KAA
+  https://norberg.se/kultur--fritid/kultur-och-noje/kulturskolan.html | Kulturskolan
+  https://norberg.se/barn--utbildning/allman-information/kvalitetsarbete.html | Kvalitetsarbete
+  https://norberg.se/barn--utbildning/allman-information/lasarstider-och-datum-for-jouroppen-verksamhet.html | Läsårstider och datum för jouröppen verksamhet
+  https://norberg.se/barn--utbildning/allman-information/mat-och-maltider-i-forskola-och-skola.html | Mat och måltider i förskola och skola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-4 | Öppna undermeny (Skolskjuts)
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts.html | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/timvikarie.html | Timvikarie
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-4 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | Close submenu (Skolskjuts)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-3 | Skolskjuts
+  https://norberg.se/barn--utbildning/allman-information/skolskjuts/riktlinjer-for-skolskjuts.html | Riktlinjer för skolskjuts
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-5 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (E-tjänster och blanketter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | E-tjänster och blanketter
+  https://norberg.se/barn--utbildning/e-tjanster-och-blanketter/blanketter.html | Blanketter
+  https://norberg.se/kommun--politik/kommunfakta/vara-tjanster.html | E-tjänster Länk till annan webbplats.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-6 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Förskola)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Förskola
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i förskola
+  https://norberg.se/barn--utbildning/forskola/om-vara-forskolor.html | Om våra förskolor
+  https://norberg.se/barn--utbildning/forskola/forskolan-blasippan.html | Förskolan Blåsippan
+  https://norberg.se/barn--utbildning/forskola/forskolan-skogsglantan.html | Förskolan Skogsgläntan
+  https://norberg.se/barn--utbildning/forskola/forskolan-tallen.html | Förskolan Tallen
+  https://norberg.se/barn--utbildning/forskola/forskolan-treklovern.html | Förskolan Treklövern
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för förskola
+  https://norberg.se/barn--utbildning/allman-information/quiculum-larplattform.html | Quiculum lärplattform
+  https://norberg.se/barn--utbildning/forskola/utokad-och-jouroppen-verksamhet.html | Utökad och jouröppen verksamhet
+  https://norberg.se/barn--utbildning/forskola/allman-forskola.html | Allmän förskola
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-7 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Grundskola och fritidshem)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Grundskola och fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/om-vara-grundskolor.html | Om våra grundskolor
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-f-3.html | Engelbrektsskolan F-3
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/engelbrektsskolan-4-9.html | Engelbrektsskolan 4-9
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassad-grundskola.html | Anpassad grundskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/fritidshem.html | Fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/elevhalsa.html | Elevhälsa
+  https://norberg.se/barn--utbildning/forskola/ansok-om-plats-i-forskola.html | Ansök om plats i fritidshem
+  https://norberg.se/barn--utbildning/forskola/avgifter-for-forskola.html | Avgifter för fritidshem
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/franvaro-och-ledighet.html | Frånvaro och ledighet
+  http://schema.skola24.se/norberg | Schema Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/modersmalsundervisning.html | Modersmålsundervisning
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/specialskola.html | Specialskola
+  https://norberg.se/barn--utbildning/grundskola-och-fritidshem/anpassade-maltider-och-specialkost.html | Anpassade måltider och specialkost
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-8 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Gymnasieutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Gymnasieutbildning
+  https://norberg.se/barn--utbildning/gymnasieutbildning/ansokan-till-gymnasium.html | Ansökan till gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/gymnasium.html | Gymnasium
+  https://norberg.se/barn--utbildning/gymnasieutbildning/inackorderingstillagg-och-resestod.html | Inackorderingstillägg och resestöd
+  https://norberg.se/barn--utbildning/gymnasieutbildning/skolresor-skolkort-och-vl.html | Skolresor, skolkort och VL
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-9 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Vuxenutbildning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/boka-tid-hos-studievagledaren.html | Boka tid hos studievägledaren
+  https://norberg.se/barn--utbildning/vuxenutbildning/kommunal-vuxenutbildning.html | Kommunal vuxenutbildning
+  https://norberg.se/barn--utbildning/vuxenutbildning/studiestartsstod-och-hemutrustningslan.html | Studiestartsstöd och hemutrustningslån
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-10 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Close submenu (Övriga fristående verksamheter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-2 | Övriga fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/bidrag-till-fristaende-verksamheter.html | Bidrag till fristående verksamheter
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/familjecentralen-larkan.html | Familjecentralen LärKan
+  https://norberg.se/barn--utbildning/ovriga-fristaende-verksamheter/karbennings-daghem.html | Karbennings daghem
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Boende & miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Boende & miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-12 | Öppna undermeny (Avfall och återvinning)
+  https://norberg.se/boende--miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-13 | Öppna undermeny (Bostäder)
+  https://norberg.se/boende--miljo/bostader.html | Bostäder
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-14 | Öppna undermeny (Bygga)
+  https://norberg.se/boende--miljo/bygga.html | Bygga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-15 | Öppna undermeny (Naturvård och miljö)
+  https://norberg.se/boende--miljo/naturvard-och-miljo.html | Naturvård och miljö
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-16 | Öppna undermeny (Stadsutveckling)
+  https://norberg.se/boende--miljo/stadsutveckling.html | Stadsutveckling
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | Öppna undermeny (Vatten och avlopp)
+  https://norberg.se/boende--miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-12 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Avfall och återvinning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Avfall och återvinning
+  https://vafabmiljo.se/hushall/ | Avfall och återvinning Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-13 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Bostäder)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Bostäder
+  https://norberg.se/boende--miljo/bostader/fixar-malte.html | Fixar-Malte
+  https://norberg.se/boende--miljo/bostader/hyresratter.html | Hyresrätter
+  https://norberg.se/boende--miljo/bostader/till-dig-som-ar-nyinflyttad.html | Till dig som är nyinflyttad
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-14 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Bygga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Bygga
+  https://vdmb.se/bygga-andra-riva/bygglov/ | Bygglov och rådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/ | Fastigheter, bostäder och adresser Öppnas i nytt fönster.
+  https://vdmb.se/fastigheter-bostader-adresser/kartor/ | Kartor Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/bygga-andra-riva/a-till-o/ | Rådgivning av byggnadsåtgärder Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/taxor-foreskrifter-avgifter/taxor-och-avgifter/ | Taxor och avgifter Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/ | Västmanland-Dalarna miljö- och byggförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/om-forvaltningen/vastmanland-dalarna-miljo-och-byggnadsnamnd/ | Västmanland-Dalarna miljö- och byggnadsnämnd Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-15 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Naturvård och miljö)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Naturvård och miljö
+  https://www.lansstyrelsen.se/vastmanland/djur.html | Djur Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/eldning-av-tradgardsavfall-och-majbrasor.html | Eldning av trädgårdsavfall och majbrasor
+  https://vdmb.se/energi-uppvarmning/energi-och-klimatradgivning/ | Energi och klimatrådgivning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/restaurang-livsmedel/ | Livsmedel och restaurang Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/naturvard-och-miljo/metaller-i-mark-och-vatten.html | Metaller i mark och vatten
+  https://vdmb.se/miljo-halsa/ | Miljö och hälsa Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/djur-natur-lantbruk/naturvard/ | Naturvård Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/bygga-bo--miljo/naturvard-och-skogsforvaltning/skogsforvaltning.html | Skogsförvaltning Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/vindkraft/ | Vindkraft Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-16 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Stadsutveckling)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Stadsutveckling
+  https://norberg.se/boende--miljo/stadsutveckling/bredband-och-it.html | Bredband och IT
+  https://nvk.se/gator--trafik.html | Gator och trafik Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/gruvutredningar-i-norberg/ | Gruvutredningar Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/ideprogram-for-centrala-norberg.html | Idéprogram för centrala Norberg
+  https://norberg.se/boende--miljo/stadsutveckling/intresseanmalan-vastra-centrum.html | Intresseanmälan Västra Centrum
+  https://norberg.se/boende--miljo/stadsutveckling/kommunikationer-och-lokaltrafik.html | Kommunikationer och lokaltrafik
+  https://karta-norberg.vdmb.se/ | Norbergskartan Länk till annan webbplats, öppnas i nytt fönster.
+  https://nvk.se/gator--trafik/parkeringstillstand.html | Parkeringstillstånd Länk till annan webbplats, öppnas i nytt fönster.
+  https://vdmb.se/samhallsbyggnad-planering/ | Samhällsbyggnad och planering Länk till annan webbplats, öppnas i nytt fönster.
+  https://norberg.se/boende--miljo/stadsutveckling/webbkamera.html | Webbkamera
+  https://norberg.se/boende--miljo/stadsutveckling/oversiktplanering.html | Översiktplanering
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-17 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Close submenu (Vatten och avlopp)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-11 | Vatten och avlopp
+  https://norberg.se/boende--miljo/vatten-och-avlopp/teknisk-forvaltning.html | Teknisk förvaltning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Close submenu (Stöd & omsorg)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-1 | Stöd & omsorg
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | Öppna undermeny (Ekonomi, bistånd och avgifter)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter.html | Ekonomi, bistånd och avgifter
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-21 | Öppna undermeny (För dig som vill hjälpa andra)
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra.html | För dig som vill hjälpa andra
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-22 | Öppna undermeny (Ny socialtjänstlag 2025)
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-23 | Öppna undermeny (Stöd för anhöriga)
+  https://norberg.se/stod--omsorg/stod-for-anhoriga.html | Stöd för anhöriga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-24 | Öppna undermeny (Stöd för barn och unga)
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga.html | Stöd för barn och unga
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-25 | Öppna undermeny (Stöd för nyanlända)
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda.html | Stöd för nyanlända
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-26 | Öppna undermeny (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning.html | Stöd för personer med funktionsnedsättning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-27 | Öppna undermeny (Stöd för vuxna och familjer)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer.html | Stöd för vuxna och familjer
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-28 | Öppna undermeny (Stöd för äldre)
+  https://norberg.se/stod--omsorg/stod-for-aldre.html | Stöd för äldre
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Ekonomi, bistånd och avgifter)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Ekonomi, bistånd och avgifter
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/avgifter-for-vard-och-omsorg.html | Avgifter för vård och omsorg
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/budget--och-skuldradgivning.html | Budget- och skuldrådgivning
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/ekonomiskt-bistand.html | Ekonomiskt bistånd
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-20 | Öppna undermeny (God man, förvaltare och förmyndare)
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare.html | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/konsumentradgivning.html | Konsumentrådgivning
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-20 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | Close submenu (God man, förvaltare och förmyndare)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-19 | God man, förvaltare och förmyndare
+  https://norberg.se/stod--omsorg/ekonomi-bistand-och-avgifter/god-man-forvaltare-och-formyndare/till-dig-som-behover-hjalp.html | Till dig som behöver hjälp
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-21 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (För dig som vill hjälpa andra)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | För dig som vill hjälpa andra
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-familjehem.html | Bli familjehem
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktfamilj.html | Bli kontaktfamilj
+  https://norberg.se/stod--omsorg/for-dig-som-vill-hjalpa-andra/bli-kontaktperson.html | Bli kontaktperson
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-22 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Ny socialtjänstlag 2025)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Ny socialtjänstlag 2025
+  https://norberg.se/stod--omsorg/ny-socialtjanstlag-2025/ny-socialtjanstlag-2025.html | Ny socialtjänstlag 2025
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-23 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för anhöriga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för anhöriga
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/anhorigstod.html | Anhörigstöd
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/avlosarservice.html | Avlösarservice
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-anhoriga/korttidsplats-for-aldre.html | Korttidsplats för äldre
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-24 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för barn och unga)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för barn och unga
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/alkohol-och-droger.html | Alkohol och droger
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/anmalan-om-barn-som-far-illa.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/barnahus-.html | Barnahus
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/livslinjen.html | Livslinjen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/medling-vid-brott.html | Medling vid brott
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/stod-till-barn-unga-och-familjer.html | Stöd till barn, unga och familjer
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ungdomsmottagningen.html | Ungdomsmottagningen
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/ung-och-mar-daligt.html | Ung och mår dåligt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-25 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för nyanlända)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/information-om-integration-och-flyktingmottagning.html | Information om integration och flyktingmottagning
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/stod-och-information-for-nyanlanda.html | Stöd och information för nyanlända
+  https://norberg.se/stod--omsorg/stod-for-nyanlanda/vill-du-hjalpa-andra-i-norberg.html | Vill du hjälpa andra i Norberg?
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-26 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för personer med funktionsnedsättning)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för personer med funktionsnedsättning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/avlosarservice-i-hemmet.html | Avlösarservice i hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/boendestod.html | Boendestöd
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-barn-och-ungdom.html | Bostad med särskild service för barn och ungdom
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/bostad-med-sarskild-service-for-vuxna-eller-annan-sarskild-anpassad-bostad.html | Bostad med särskild service för vuxna eller annan särskild anpassad bostad
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/daglig-verksamhet.html | Daglig verksamhet
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/funktionsnedsattning-lss.html | Funktionsnedsättning LSS
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/korttidstillsyn-och-korttidsvistelse-utanfor-det-egna-hemmet.html | Korttidstillsyn och korttidsvistelse utanför det egna hemmet
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/ledsagarservice.html | Ledsagarservice
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personlig-assistans.html | Personlig assistans
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/personligt-ombud.html | Personligt ombud
+  https://norberg.se/stod--omsorg/stod-for-personer-med-funktionsnedsattning/radgivning-och-personligt-stod.html | Rådgivning och personligt stöd
+  https://norberg.se/stod--omsorg/stod-for-aldre/rad-vid-varmebolja.html | Råd vid värmebölja
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-aldre/syn-och-horsel.html | Syn och hörsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-27 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för vuxna och familjer)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för vuxna och familjer
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/adoption.html | Adoption
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Akut hjälp och socialjour
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/akut-hjalp-och-socialjour.html | Anmälan om barn som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/anmalan-om-vuxen-som-far-illa.html | Anmälan om vuxen som far illa
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/begravning-och-dodsfall.html | Begravning och dödsfall
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/beroende.html | Beroende
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/borgerlig-vigsel.html | Borgerlig vigsel
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/bouppteckning-och-dodsboanmalan.html | Bouppteckning och dödsboanmälan
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/digitalt-relations--och-familjestod-birds.html | Digitalt relations- och familjestöd (Birds)
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeradgivning.html | Familjerådgivning
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/familjeratt.html | Familjerätt
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foralder-och-behover-nagon-att-prata-med.html | Förälder och behöver någon att prata med?
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/foraldralinjen.html | Föräldralinjen
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/stod--omsorg/stod-for-aldre/om-du-inte-ar-nojd-med-varden.html | Om du inte är nöjd med vården
+  https://norberg.se/stod--omsorg/stod-for-barn-och-unga/samordnad-individuell-plan---sip.html | Samordnad individuell plan - SIP
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/vald-i-nara-relation.html | Våld i nära relation
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-28 | 
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Close submenu (Stöd för äldre)
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-18 | Stöd för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadsanpassning.html | Bostadsanpassning
+  https://norberg.se/stod--omsorg/stod-for-aldre/bostadstillagg.html | Bostadstillägg
+  https://norberg.se/stod--omsorg/stod-for-aldre/dagverksamhet-for-aldre.html | Dagverksamhet för äldre
+  https://norberg.se/stod--omsorg/stod-for-aldre/fixar-malte.html | Fixar-Malte
+  https://norberg.se/stod--omsorg/stod-for-aldre/fardtjanst-och-riksfardtjanst.html | Färdtjänst och riksfärdtjänst
+  https://norberg.se/stod--omsorg/stod-for-aldre/forebyggande-hembesok.html | Förebyggande hembesök
+  https://norberg.se/stod--omsorg/stod-for-vuxna-och-familjer/hedersrelaterat-vald-och-fortryck.html | Hedersrelaterat våld och förtryck
+  https://norberg.se/kommun--politik/insyn-och-paverkan/motioner-och-medborgarforslag.html#mm-29 | Öppna undermeny (Hemtjänst - stöd i vardagen)
+  https://norberg.se/stod--omsorg/stod-for-aldre/hemtjanst---stod-i-vardagen.html | Hemtjänst - stöd i vardagen
+  https://norberg.se/stod--omsorg/stod-for-aldre/matlada.html | Matlåda
 
 KF: 2026-02-23, 2026-05-11, 2026-06-15, 2026-09-13, 2026-11-02, 2026-11-09
 KS: 

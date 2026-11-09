@@ -2,30 +2,930 @@ Startadresser från Brave: inga
 
 Sidor (poäng):
  32  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/  Kommunfullmäktiges webbsändning - Kommun & politik | Norrtälje kommun
+ 31  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/  Politiska sammanträden | Norrtälje kommun
  31  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/  Dagordning inför kommunfullmäktige | Norrtälje kommun
+ 30  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/  Kommunfullmäktige - Kommun & politik | Norrtälje kommun
  30  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/  Handlingar, kallelser och protokoll | Norrtälje kommun
- 29  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/  Kommunfullmäktige - Kommun & politik | Norrtälje kommun
- 27  https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/  Kommunfullmäktige i korthet 19 oktober
- 27  https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/  Kommunfullmäktige i korthet 21 september
- 26  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunstyrelsen/  Kommunstyrelsen - Kommun & politik | Norrtälje kommun
- 25  https://www.norrtalje.se/nyheterna/2026-10/kommunstyrelsen-i-korthet-12-oktober/  Kommunstyrelsen i korthet 12 oktober
- 24  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/mandatfordelning-kommunfullmaktige/  Så fördelades mandaten i fullmäktige efter valet | Norrtälje kommun
- 24  https://www.norrtalje.se/nyheterna/2026-09/kommunstyrelsen-i-korthet-7-september/  Kommunstyrelsen i korthet 7 september
- 23  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kontaktuppgifter-till-politiska-partier/  Politiska partier i kommunfullmäktige | Norrtälje kommun
- 23  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/  Anslagstavla - Kommun & politik | Norrtälje kommun
- 23  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/  Kommunens nämnder - Kommun & politik | Norrtälje kommun
- 22  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/  Nyhetsarkiv kommunfullmäktige
- 21  https://www.norrtalje.se/info/kommun-och-politik/referat-kommunstyrelsen/  Nyhetsarkiv kommunstyrelsen
- 20  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/val--och-demokratinamnden/  Val- och demokratinämnden - Kommun & politik | Norrtälje kommun
- 20  https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/  Kommunfullmäktige i korthet 10 juni
- 20  https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/  Kommunfullmäktige i korthet 25 maj
- 20  https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/  Idag är det Kommunfullmäktige
- 20  https://www.norrtalje.se/nyheterna/2026-06/kommunstyrelsen-i-korthet-1-juni-2026/  Kommunstyrelsen i korthet 1 juni 2026
- 20  https://www.norrtalje.se/nyheterna/2026-05/kommunstyrelsen-i-korthet-11-maj/  Kommunstyrelsen i korthet 11 maj
- 18  https://www.norrtalje.se/  Norrtälje kommuns officiella webbplats
- 18  https://www.norrtalje.se/?s=kallelse+kommunfullm%C3%A4ktige  Norrtälje kommuns officiella webbplats
- 13  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/hur-du-overklagar-ett-kommunaltbeslut/hur-du-overklagar-ett-kommunalt-beslut-fattat-enligt-kommunallagen/  Överklaga beslut fattat enligt kommunallagen | Norrtälje kommun
- 13  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/hur-du-overklagar-ett-kommunaltbeslut/hur-du-overklagar-ett-kommunalt-beslut-fattat-enligt-forvaltningslagen/  Överklaga beslut med stöd av förvaltningslagen | Norrtälje kommun
+ 28  https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/  Kommunfullmäktige i korthet 19 oktober
+ 28  https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/  Kommunfullmäktige i korthet 21 september
+ 27  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunstyrelsen/  Kommunstyrelsen - Kommun & politik | Norrtälje kommun
+ 26  https://www.norrtalje.se/nyheterna/2026-10/kommunstyrelsen-i-korthet-12-oktober/  Kommunstyrelsen i korthet 12 oktober
+ 25  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/mandatfordelning-kommunfullmaktige/  Så fördelades mandaten i fullmäktige efter valet | Norrtälje kommun
+ 25  https://www.norrtalje.se/nyheterna/2026-09/kommunstyrelsen-i-korthet-7-september/  Kommunstyrelsen i korthet 7 september
+ 24  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kontaktuppgifter-till-politiska-partier/  Politiska partier i kommunfullmäktige | Norrtälje kommun
+ 24  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/  Anslagstavla - Kommun & politik | Norrtälje kommun
+ 23  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/  Nyhetsarkiv kommunfullmäktige
+ 22  https://www.norrtalje.se/info/kommun-och-politik/referat-kommunstyrelsen/  Nyhetsarkiv kommunstyrelsen
+ 21  https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/  Kommunfullmäktige i korthet 10 juni
+ 21  https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/  Kommunfullmäktige i korthet 25 maj
+ 21  https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/  Idag är det Kommunfullmäktige
+ 21  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/val--och-demokratinamnden/  Val- och demokratinämnden - Kommun & politik | Norrtälje kommun
+
+Länkar på https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/:
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy
+  https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här
+  https://support.google.com/chrome/answer/95647?hl=en | Google Chrome
+  https://support.apple.com/en-us/HT201265 | Safari
+  https://support.apple.com/en-us/HT1677 | Apple
+  https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Gå till innehåll
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#Navigation | Hoppa till snabblänkar
+  https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv
+  https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen
+  https://www.norrtalje.se/installningar/sok/ | Gå till söksida
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt
+  https://www.norrtalje.se/ | 
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu | Meny
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu | 
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige
+  https://qcnl.tv/p/gn4z__yLC3XHHhGuvaiHaw | 19 oktober 2026 kommunfullmäktige webb-tv (gcnl.tv)
+  https://qcnl.tv/p/cF5nyFvENGe8jrZfsHdr0w | 21 september 2026 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/eceEo-3hEryX6_HiKH9c9g | 10 juni 2026 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/-q85wIeN1GYZALapt1Xw-A | 25 maj 2026 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/6WPABqAiMo_PbVadCV_SSQ | 27 april 2026 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/wjErf5ieHaFlkQkBSNxCwg | 16 februari 2026 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/AtygD8aMmNbSB-CW7_OTQw | 15 december 2025 kommunfullmäktige webb-tv (qcnl.tv)
+  https://qcnl.tv/p/rTg-OcTO1r2iN9xvvvqc0w | 24 november 2025 kommunfullmäktige webb-tv (gcnl.tv)
+  https://qcnl.tv/p/5DTw8YL3tF9NxVB-Cr3GfQ | 20 oktober 2025 kommunfullmäktige webb-tv (gcnl.tv)
+  https://qcnl.tv/p/siwtgTg8SD0W4BcDZObIYA | 22 september 2025 kommunfullmäktige webb-tv (qcnl.tv)
+  https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll
+  https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober
+  https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre
+  https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september
+  https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/ | Kommunfullmäktige i korthet 10 juni
+  https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/ | Kommunfullmäktige i korthet 25 maj
+  https://www.norrtalje.se/nyheterna/2025-06/har-ar-budgeten-omrade-for-omrade/ | Styrets budget 2026–2028, område för område
+  https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/ | Idag är det Kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige
+  https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website
+  https://campusroslagen.se/ | Campus Roslagen
+  https://www.norrtaljeenergi.se/ | Norrtälje Energi
+  https://www.nvaa.se/ | Norrtälje Vatten och Avfall
+  https://www.roslagsbostader.se/ | Roslagsbostäder
+  https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON)
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi
+  https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#BodyContent | Close menu
+  https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter
+  https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter
+  https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Open submenu
+  https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-194 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-470 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-488 | Open submenu
+  https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-534 | Open submenu
+  https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-670 | Open submenu
+  https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-728 | Open submenu
+  https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-754 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Visit Norrtälje
+  https://roslagen.se/mellersta-roslagen/ | Destination roslagen
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-4 | Open submenu
+  https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur
+  https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur
+  https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser
+  https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors
+  https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-2 | Skärgård
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#ffmenu-ul | Barn & skola
+  https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-82 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa
+  https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-148 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-178 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-188 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända
+  https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser
+  https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen
+  https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-190 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-192 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-6 | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/ | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-10 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ | Hitta förskolor
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/esikoulu-forskola/ | Hitta finskspråkig förskola • Suomenkielinen esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/om-forskolan/ | Fakta om förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-66 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/natt-helgomsorg/ | Natt- och helgomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolan-i-fokus/ | Förskolan i fokus
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-74 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/pedagogisk-omsorg/ | Pedagogisk omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-78 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/oppna-forskolor/ | Hitta öppna förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/soka-plats-i-forskola-och-familjedaghem/ | Söka och säga upp plats i förskola och omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-80 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/timvikarie-forskolan/ | Timvikarie i förskolan – intresseanmälan
+  https://www.norrtalje.se/info/barn-och-skola/forskola/vardegrund-arbetssatt-och-styrdokument-for-kommunala-forskolor/ | Arbetssätt och styrdokument för kommunala förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/hunden-ake-skapar-lugn-och-trygghet-pa-forskolan/ | Hunden Åke skapar lugn och trygghet på förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/avgiftskontroll-av-barnomsorgsavgift/ | Avgiftskontroll av barnomsorgsavgift
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-8 | Hitta förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/almerska-forskolan-fristaende/ | Almerska förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balder-forskola/ | Balder förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/ | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-14 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/borrhagens-forskola/ | Borrhagens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/ | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-16 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/ | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-18 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ekens-forskola/ | Ekens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/ | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-20 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-hugin/ | Freinetförskolan Hugin (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-mimer/ | Freinetförskolan Mimer (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frostugan-forskola/ | Fröstugan förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/ | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-22 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-fifilur/ | Förskolan Fifilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-hoppitoss/ | Förskolan Hoppitoss (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-killevipp/ | Förskolan Killevipp (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-krumilur/ | Förskolan Krumilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-Lotsen/ | Förskolan Lotsen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-offenciven/ | Förskolan Offenciven (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-smafolket/ | Förskolan Småfolket (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gnistan/ | Gnistan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/ | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-24 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/ | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-26 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/ | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-28 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hojdhoppet/ | Höjdhoppet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/i-ur-och-skur-nartuna-fristaende/ | I Ur och Skur Närtuna (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/innovitaskolan-norrtalje-forskola/ | Innovitaskolan Norrtälje förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/jensen-forskola-vigelsjo/ | Jensen förskola Vigelsjö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/krakbrinken-forskola/ | Kråkbrinken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/ | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-30 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/ | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-32 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/ | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-34 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/ | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-36 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/ | Länna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-38 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-amorinen/ | Montessoriförskolan Amorinen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-bambino/ | Montessoriförskolan Bambino (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grind/ | Montessoriförskolan Grind (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grossgardet/ | Montessoriförskolan Grossgärdet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/naturbarnstugan-i-ur-och-skur/ | Naturbarnstugan I Ur och Skur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-bjorno/ | Norlandia förskolor Björnö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-lilla-rospiggen/ | Norlandia förskolor Lilla Rospiggen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-rimbo/ | Norlandia förskolor Rimbo (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/nygatans-forskola/ | Nygatans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/palettens-forskola/ | Palettens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-40 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/parkens-forskola/ | Parkens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-42 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/riala-waldorfforskola/ | Riala Waldorfförskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/radmanso-forskola/ | Rådmansö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-44 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ranas-forskola/ | Rånäs förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-46 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/rovarborgens-forskola/ | Rövarborgens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/sjohagens-forskola/ | Sjöhagens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-48 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skarsjo-forskola/ | Skarsjö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-50 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skebo-forskola/ | Skebo förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-52 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skederids-forskola/ | Skederids förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-54 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/slattergubbens-forskola/ | Slåttergubbens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-56 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/smorblommans-forskola/ | Smörblommans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/solbacka-forskola/ | Solbacka förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-58 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/svanberga-forskola/ | Svanberga förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-60 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/trollebo-forskola/ | Trollebo förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/uteleken-forskola/ | Uteleken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vallby-hage-forskola/ | Vallby Hage förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/viktoriagarden-forskolan/ | Viktoriagården förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-i-roslagsbro/ | Vildnissarna i Roslagsbro (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-solbacka/ | Vildnissarna i Solbacka (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vastertorp-forskola/ | Västertorps förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-62 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vato-forskola/ | Vätö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-64 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vaxtriket/ | Växtriket (fristående)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/folj-balbro-forskola-pa-sociala-medier/ | Följ Bålbro förskola på sociala medier
+  https://skolmaten.se/balbro-forskola/ | Skolmatsedel Bålbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/kontakt-och-opettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/folj-edsbro-forskola-pa-sociala-medier/ | Följ Edsbro förskola på sociala medier
+  https://skolmaten.se/edsbro-forskola/ | Matsedel Edsbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/folj-elmsta-forskola-pa-sociala-medier/ | Följ Elmsta förskola på sociala medier
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/elmsta-forskola/ | Matsedel Elmsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/folj-frotuna-forskola-pa-sociala-medier/ | Följ Frötuna förskola på sociala medier
+  https://skolmaten.se/frotuna-forskola/ | Matsedel Frötuna förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/folj-gottsta-forskola-pa-sociala-medier/ | Följ Gottsta förskola på sociala medier
+  https://skolmaten.se/gottsta-forskola/ | Matsedel Gottsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/grisslehamns-forskola/ | Matsedel Grisslehamns förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/hasta-forskola-pa-sociala-medier/ | Följ Håsta förskola på sociala medier
+  https://skolmaten.se/hasta-forskola/ | Matsedel Håsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/folj-kopmanholms-forskola-pa-sociala-medier/ | Följ Köpmanholms förskola på sociala medier
+  https://skolmaten.se/kopmanholm-forskola/ | Matsedel Köpmanholms förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/kontakt-och-oppettider/ | Yhteystiedot ja aukioloajat
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/seuraa-korsbaretin-esikoulun-toimintaa-sosiaalisissa-medioissa/ | Seuraa Körsbäretin esikoulun toimintaa sosiaalisissa medioissa
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/folj-korsbaret-forskola-pa-sociala-medier/ | Följ Körsbäret förskola på sociala medier
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/#mm-12 | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+
+Länkar på https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/:
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy
+  https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här
+  https://support.google.com/chrome/answer/95647?hl=en | Google Chrome
+  https://support.apple.com/en-us/HT201265 | Safari
+  https://support.apple.com/en-us/HT1677 | Apple
+  https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#BodyContent | Gå till innehåll
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#Navigation | Hoppa till snabblänkar
+  https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv
+  https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen
+  https://www.norrtalje.se/installningar/sok/ | Gå till söksida
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt
+  https://www.norrtalje.se/ | 
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu | Meny
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu | 
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://forum.norrtalje.se/committees/kommunfullmaktige | Kommunfullmäktiges kallelser, handlingar och protokoll (forum.norrtalje.se)
+  https://forum.norrtalje.se/committees/kommunstyrelsen#committeesUpcomingContent | Kommunstyrelsens kallelser, handlingar och protokoll (forum.norrtalje.se)
+  https://forum.norrtalje.se/committees/kommunstyrelsens-arbetsutskott | Kommunstyrelsens arbetsutskotts kallelser, handlingar och protokoll (forum.norrtalje.se)
+  https://forum.norrtalje.se/committees/kommunstyrelsens-samhallsbyggnadsutskott | Kommunstyrelsens samhällsbyggnadsutskotts kallelser, handlingar och protokoll (forum.norrtalje.se)
+  https://forum.norrtalje.se/committees/kommunstyrelsens-hallbarhetsutskott | Kommunstyrelsens hållbarhetsutskotts kallelser, handlingar och protokoll (forum.norrtalje.se)
+  https://forum.norrtalje.se/committees/kommunala-pensionarsradet-samt-radet-for-funktionshinder | Kommunala pensionärsrådet och rådet för funktionshindrades kallelser, handlingar och protokoll (foru
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/barn--och-skolnamnden/ | Barn- och skolnämnden
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/bygg--och-miljonamnden/ | Bygg- och miljönämnden
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunstyrelsen/ | Kommunstyrelsen
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/kultur--och-fritidsnamnden/ | Kultur- och fritidsnämnden
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/socialnamnden/ | Socialnämnden
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/utbildningsnamnden/ | Utbildningsnämnden
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunens-namnder/val--och-demokratinamnden/ | Val- och demokratinämnden
+  https://www.norrtalje.se/nyheterna/2026-10/kommunstyrelsen-i-korthet-12-oktober/ | Kommunstyrelsen i korthet 12 oktober
+  https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre
+  https://www.norrtalje.se/nyheterna/2026-09/kommunstyrelsen-i-korthet-7-september/ | Kommunstyrelsen i korthet 7 september
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kommunstyrelsen/ | Fler referat från kommunstyrelsen
+  https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober
+  https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre
+  https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website
+  https://campusroslagen.se/ | Campus Roslagen
+  https://www.norrtaljeenergi.se/ | Norrtälje Energi
+  https://www.nvaa.se/ | Norrtälje Vatten och Avfall
+  https://www.roslagsbostader.se/ | Roslagsbostäder
+  https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON)
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi
+  https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#BodyContent | Close menu
+  https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter
+  https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter
+  https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-2 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-6 | Open submenu
+  https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-194 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-470 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-488 | Open submenu
+  https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-534 | Open submenu
+  https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-670 | Open submenu
+  https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-728 | Open submenu
+  https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-754 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu-ul | Visit Norrtälje
+  https://roslagen.se/mellersta-roslagen/ | Destination roslagen
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-4 | Open submenu
+  https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur
+  https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur
+  https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser
+  https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors
+  https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-2 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-2 | Skärgård
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#ffmenu-ul | Barn & skola
+  https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-8 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-82 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa
+  https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-148 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-178 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-188 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända
+  https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser
+  https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen
+  https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-190 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-192 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-6 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-6 | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/ | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-10 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ | Hitta förskolor
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/esikoulu-forskola/ | Hitta finskspråkig förskola • Suomenkielinen esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/om-forskolan/ | Fakta om förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-66 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/natt-helgomsorg/ | Natt- och helgomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolan-i-fokus/ | Förskolan i fokus
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-74 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/pedagogisk-omsorg/ | Pedagogisk omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-78 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/oppna-forskolor/ | Hitta öppna förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/soka-plats-i-forskola-och-familjedaghem/ | Söka och säga upp plats i förskola och omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-80 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/timvikarie-forskolan/ | Timvikarie i förskolan – intresseanmälan
+  https://www.norrtalje.se/info/barn-och-skola/forskola/vardegrund-arbetssatt-och-styrdokument-for-kommunala-forskolor/ | Arbetssätt och styrdokument för kommunala förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/hunden-ake-skapar-lugn-och-trygghet-pa-forskolan/ | Hunden Åke skapar lugn och trygghet på förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-8 | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/avgiftskontroll-av-barnomsorgsavgift/ | Avgiftskontroll av barnomsorgsavgift
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-8 | Hitta förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/almerska-forskolan-fristaende/ | Almerska förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balder-forskola/ | Balder förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/ | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-14 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/borrhagens-forskola/ | Borrhagens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/ | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-16 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/ | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-18 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ekens-forskola/ | Ekens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/ | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-20 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-hugin/ | Freinetförskolan Hugin (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-mimer/ | Freinetförskolan Mimer (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frostugan-forskola/ | Fröstugan förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/ | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-22 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-fifilur/ | Förskolan Fifilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-hoppitoss/ | Förskolan Hoppitoss (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-killevipp/ | Förskolan Killevipp (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-krumilur/ | Förskolan Krumilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-Lotsen/ | Förskolan Lotsen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-offenciven/ | Förskolan Offenciven (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-smafolket/ | Förskolan Småfolket (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gnistan/ | Gnistan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/ | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-24 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/ | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-26 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/ | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-28 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hojdhoppet/ | Höjdhoppet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/i-ur-och-skur-nartuna-fristaende/ | I Ur och Skur Närtuna (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/innovitaskolan-norrtalje-forskola/ | Innovitaskolan Norrtälje förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/jensen-forskola-vigelsjo/ | Jensen förskola Vigelsjö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/krakbrinken-forskola/ | Kråkbrinken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/ | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-30 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/ | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-32 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/ | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-34 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/ | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-36 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/ | Länna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-38 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-amorinen/ | Montessoriförskolan Amorinen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-bambino/ | Montessoriförskolan Bambino (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grind/ | Montessoriförskolan Grind (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grossgardet/ | Montessoriförskolan Grossgärdet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/naturbarnstugan-i-ur-och-skur/ | Naturbarnstugan I Ur och Skur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-bjorno/ | Norlandia förskolor Björnö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-lilla-rospiggen/ | Norlandia förskolor Lilla Rospiggen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-rimbo/ | Norlandia förskolor Rimbo (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/nygatans-forskola/ | Nygatans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/palettens-forskola/ | Palettens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-40 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/parkens-forskola/ | Parkens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-42 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/riala-waldorfforskola/ | Riala Waldorfförskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/radmanso-forskola/ | Rådmansö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-44 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ranas-forskola/ | Rånäs förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-46 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/rovarborgens-forskola/ | Rövarborgens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/sjohagens-forskola/ | Sjöhagens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-48 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skarsjo-forskola/ | Skarsjö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-50 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skebo-forskola/ | Skebo förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-52 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skederids-forskola/ | Skederids förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-54 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/slattergubbens-forskola/ | Slåttergubbens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-56 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/smorblommans-forskola/ | Smörblommans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/solbacka-forskola/ | Solbacka förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-58 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/svanberga-forskola/ | Svanberga förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-60 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/trollebo-forskola/ | Trollebo förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/uteleken-forskola/ | Uteleken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vallby-hage-forskola/ | Vallby Hage förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/viktoriagarden-forskolan/ | Viktoriagården förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-i-roslagsbro/ | Vildnissarna i Roslagsbro (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-solbacka/ | Vildnissarna i Solbacka (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vastertorp-forskola/ | Västertorps förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-62 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vato-forskola/ | Vätö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-64 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vaxtriket/ | Växtriket (fristående)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/folj-balbro-forskola-pa-sociala-medier/ | Följ Bålbro förskola på sociala medier
+  https://skolmaten.se/balbro-forskola/ | Skolmatsedel Bålbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/kontakt-och-opettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/folj-edsbro-forskola-pa-sociala-medier/ | Följ Edsbro förskola på sociala medier
+  https://skolmaten.se/edsbro-forskola/ | Matsedel Edsbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/folj-elmsta-forskola-pa-sociala-medier/ | Följ Elmsta förskola på sociala medier
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/elmsta-forskola/ | Matsedel Elmsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/folj-frotuna-forskola-pa-sociala-medier/ | Följ Frötuna förskola på sociala medier
+  https://skolmaten.se/frotuna-forskola/ | Matsedel Frötuna förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/folj-gottsta-forskola-pa-sociala-medier/ | Följ Gottsta förskola på sociala medier
+  https://skolmaten.se/gottsta-forskola/ | Matsedel Gottsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/grisslehamns-forskola/ | Matsedel Grisslehamns förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/hasta-forskola-pa-sociala-medier/ | Följ Håsta förskola på sociala medier
+  https://skolmaten.se/hasta-forskola/ | Matsedel Håsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/folj-kopmanholms-forskola-pa-sociala-medier/ | Följ Köpmanholms förskola på sociala medier
+  https://skolmaten.se/kopmanholm-forskola/ | Matsedel Köpmanholms förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/kontakt-och-oppettider/ | Yhteystiedot ja aukioloajat
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/seuraa-korsbaretin-esikoulun-toimintaa-sosiaalisissa-medioissa/ | Seuraa Körsbäretin esikoulun toimintaa sosiaalisissa medioissa
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/folj-korsbaret-forskola-pa-sociala-medier/ | Följ Körsbäret förskola på sociala medier
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/folj-lindens-forskola-pa-sociala-medier/ | Följ Lindens förskola på sociala medier
+  https://skolmaten.se/hallsta-forskola2/ | Matsedel Lindens förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Länna förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/folj-lanna-forskola-pa-sociala-medier/ | Följ Länna förskola på sociala medier
+  https://skolmaten.se/lanna-forskola2/ | Matsedel Länna förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/#mm-12 | Palettens förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/palettens-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+
+Länkar på https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/:
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.microsoft.com/en-us/privacy/privacystatement | Microsoft, ASP.NET - Integritetspolicy
+  https://www.cloudflare.com/privacypolicy/ | Cloudflare - Integritetspolicy
+  https://monsido.com/data-protection-and-privacy-policy-statement | Monsido - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://www.optimizely.com/legal/privacy-notice/ | Episerver - Integritetspolicy
+  https://tools.google.com/dlpage/gaoptout | Du kan välja bort kakor från Google Analytics här
+  https://support.google.com/chrome/answer/95647?hl=en | Google Chrome
+  https://support.apple.com/en-us/HT201265 | Safari
+  https://support.apple.com/en-us/HT1677 | Apple
+  https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en | Chrome, Android
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#BodyContent | Gå till innehåll
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#Navigation | Hoppa till snabblänkar
+  https://www.norrtalje.se/nyheterna/nyheter/ | Gå till nyhetsarkiv
+  https://www.norrtalje.se/info/kommun-och-politik/om-webbplatsen/ | Gå till Om webbplatsen
+  https://www.norrtalje.se/installningar/sok/ | Gå till söksida
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Gå till kontaktsida
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/ | Kontakt
+  https://www.norrtalje.se/ | 
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu | Meny
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu | 
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige
+  https://forum.norrtalje.se/committees/kommunfullmaktige | Dagordning (forum.norrtalje.se)
+  https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll
+  https://www.norrtalje.se/nyheterna/2026-10/ny-mandatperiod-borjar-for-kommunfullmaktige/ | Kommunfullmäktige i korthet 19 oktober
+  https://www.norrtalje.se/nyheterna/2026-10/fyra-partier-presenterar-forslag-till-fortsatt-politiskt-styre/ | Fyra partier presenterar förslag till fortsatt politiskt styre
+  https://www.norrtalje.se/nyheterna/2026-09/kommunfullmaktige-i-korthet/ | Kommunfullmäktige i korthet 21 september
+  https://www.norrtalje.se/nyheterna/2026-06/infor-kommunfullmaktige-10-juni/ | Kommunfullmäktige i korthet 10 juni
+  https://www.norrtalje.se/nyheterna/2026-05/infor-kommunfullmaktige-25-maj/ | Kommunfullmäktige i korthet 25 maj
+  https://www.norrtalje.se/nyheterna/2025-06/har-ar-budgeten-omrade-for-omrade/ | Styrets budget 2026–2028, område för område
+  https://www.norrtalje.se/nyheterna/2025-06/infor-kommunfullmaktige-16-juni/ | Idag är det Kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Fler nyheter om kommunfullmäktige
+  https://norrtalje.tromanpublik.se/organisation/fe14d0dc-9f8d-46ef-a997-570f8c97a93d | Ledamöter i kommunfullmäktige (tromanpublik.se)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/ | Dagordning inför kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktiges-webbsandning/ | Webb-tv från kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/referat-kf/ | Nyhetsarkiv kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/politikens-sammantradestider/ | Sammanträdelsetider
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/ | Handlingar och protokoll
+  https://www.norrtalje.se/ | Start
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/ | Politik och förtroendevalda
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/ | Kommunfullmäktige
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/ | Fler kontaktvägar
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/kontaktcenter/journummer/ | Journummer utanför kontorstid
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/sociala-medier/ | Norrtälje kommun i sociala medier
+  https://www.norrtalje.se/info/kommun-och-politik/kontakt/translate/ | Translate Norrtälje kommun's website
+  https://campusroslagen.se/ | Campus Roslagen
+  https://www.norrtaljeenergi.se/ | Norrtälje Energi
+  https://www.nvaa.se/ | Norrtälje Vatten och Avfall
+  https://www.roslagsbostader.se/ | Roslagsbostäder
+  https://www.sjukvardomsorg.se/ | Sjukvård och omsorg i Norrtälje (KSON)
+  https://www.norrtalje.se/info/kommun-och-politik/handlingar-och-protokoll/anslagstavla/ | Anslagstavla
+  https://www.norrtalje.se/sjalvservice/ | Självservice
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/ | Suomeksi
+  https://www.norrtalje.se/info/bygga-bo-miljo/kartor/var-karta/ | Karta
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#BodyContent | Close menu
+  https://www.norrtalje.se/sjalvservice/ | Självservice – e-tjänster och blanketter
+  https://www.norrtalje.se/link/775e8a1603684310849033f28f68828e.aspx?view_more=5 | Nyheter
+  https://www.norrtalje.se/info/visit-norrtalje/ | Visit Norrtälje
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-2 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/ | Barn & skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-6 | Open submenu
+  https://www.norrtalje.se/info/bygga-bo-miljo/ | Bygga, bo & miljö
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-194 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-470 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/ | Kommun & politik
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-488 | Open submenu
+  https://www.norrtalje.se/info/kultur-och-fritid/ | Kultur & fritid
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-534 | Open submenu
+  https://www.norrtalje.se/info/stod-vard-omsorg/ | Stöd, vård & omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-670 | Open submenu
+  https://www.norrtalje.se/info/trafik-gator-parker/ | Trafik, gator & parker
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-728 | Open submenu
+  https://www.norrtalje.se/info/trygghet-sakerhet/ | Trygghet & säkerhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-754 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu-ul | Visit Norrtälje
+  https://roslagen.se/mellersta-roslagen/ | Destination roslagen
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/ | Skärgård
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-4 | Open submenu
+  https://www.norrtalje.se/info/visit-norrtalje/natur/ | Natur
+  https://www.norrtalje.se/info/visit-norrtalje/kultur/ | Kultur
+  https://www.norrtalje.se/info/visit-norrtalje/aventyr-och-upplevelser/ | Äventyr och upplevelser
+  https://www.norrtalje.se/info/visit-norrtalje/for-visitors/ | For visitors
+  https://www.norrtalje.se/link/f5bada1348144c9aa231a17bd9c79081.aspx | Turistinformation
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-2 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-2 | Skärgård
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/gasthamnar/ | Gästhamnar
+  https://www.norrtalje.se/info/visit-norrtalje/skargard/platser-norrtalje-kommun/ | Platser Norrtälje kommun
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu-ul | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#ffmenu-ul | Barn & skola
+  https://www.norrtalje.se/info/barn-och-skola/forskola/ | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-8 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/grundskola/ | Grundskola och fritidshem
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-82 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/elevhalsa/ | Elevhälsa
+  https://www.norrtalje.se/info/barn-och-skola/gymnasium/ | Gymnasieskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-148 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/kompetenscentrum/ | Norrtälje Kompetenscentrum
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-178 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/anpassadskola/ | Anpassad skola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-188 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/plats-pa-skola-och-forskola-for-nyanlanda/ | Plats på skola och förskola för nyanlända
+  https://www.norrtalje.se/info/barn-och-skola/olyckor-och-kriser/ | Olyckor och kriser
+  https://www.norrtalje.se/info/barn-och-skola/lamna-ditt-klagomal-till-barn--och-utbildningsforvaltningen/ | Lämna klagomål till barn- och utbildningsförvaltningen
+  https://www.norrtalje.se/info/barn-och-skola/skolmat/ | Måltider i förskolan och grundskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-190 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/larplattform-och-digitala-verktyg/ | Norrtälje kommuns lärplattform
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-192 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/skolgalan/ | Skolgalan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-6 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-6 | Förskola och annan pedagogisk verksamhet
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/ | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-10 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ | Hitta förskolor
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Open submenu
+  https://www.norrtalje.se/info/kommun-och-politik/fakta-om-norrtalje-kommun/nationella-minoriteter/esikoulu-forskola/ | Hitta finskspråkig förskola • Suomenkielinen esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/om-forskolan/ | Fakta om förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-66 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/natt-helgomsorg/ | Natt- och helgomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolan-i-fokus/ | Förskolan i fokus
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-74 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/pedagogisk-omsorg/ | Pedagogisk omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-78 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/oppna-forskolor/ | Hitta öppna förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/soka-plats-i-forskola-och-familjedaghem/ | Söka och säga upp plats i förskola och omsorg
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-80 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/timvikarie-forskolan/ | Timvikarie i förskolan – intresseanmälan
+  https://www.norrtalje.se/info/barn-och-skola/forskola/vardegrund-arbetssatt-och-styrdokument-for-kommunala-forskolor/ | Arbetssätt och styrdokument för kommunala förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/hunden-ake-skapar-lugn-och-trygghet-pa-forskolan/ | Hunden Åke skapar lugn och trygghet på förskolan
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-8 | Avgifter och taxor för barnomsorg
+  https://www.norrtalje.se/info/barn-och-skola/forskola/avgifter-och-taxor-for-barnomsorg/avgiftskontroll-av-barnomsorgsavgift/ | Avgiftskontroll av barnomsorgsavgift
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-8 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-8 | Hitta förskolor
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/almerska-forskolan-fristaende/ | Almerska förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balder-forskola/ | Balder förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/ | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-14 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/borrhagens-forskola/ | Borrhagens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/ | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-16 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/ | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-18 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ekens-forskola/ | Ekens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/ | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-20 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-hugin/ | Freinetförskolan Hugin (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/freinetforskolan-mimer/ | Freinetförskolan Mimer (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frostugan-forskola/ | Fröstugan förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/ | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-22 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-fifilur/ | Förskolan Fifilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-hoppitoss/ | Förskolan Hoppitoss (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-killevipp/ | Förskolan Killevipp (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-krumilur/ | Förskolan Krumilur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-Lotsen/ | Förskolan Lotsen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-offenciven/ | Förskolan Offenciven (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/forskolan-smafolket/ | Förskolan Småfolket (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gnistan/ | Gnistan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/ | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-24 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/ | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-26 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/ | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-28 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hojdhoppet/ | Höjdhoppet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/i-ur-och-skur-nartuna-fristaende/ | I Ur och Skur Närtuna (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/innovitaskolan-norrtalje-forskola/ | Innovitaskolan Norrtälje förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/jensen-forskola-vigelsjo/ | Jensen förskola Vigelsjö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/krakbrinken-forskola/ | Kråkbrinken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/ | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-30 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/ | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-32 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/ | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-34 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/ | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-36 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/ | Länna förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-38 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-amorinen/ | Montessoriförskolan Amorinen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-bambino/ | Montessoriförskolan Bambino (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grind/ | Montessoriförskolan Grind (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/montessoriforskolan-grossgardet/ | Montessoriförskolan Grossgärdet (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/naturbarnstugan-i-ur-och-skur/ | Naturbarnstugan I Ur och Skur (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-bjorno/ | Norlandia förskolor Björnö (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-lilla-rospiggen/ | Norlandia förskolor Lilla Rospiggen (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/norlandia-forskolor-rimbo/ | Norlandia förskolor Rimbo (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/nygatans-forskola/ | Nygatans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/palettens-forskola/ | Palettens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-40 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/parkens-forskola/ | Parkens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-42 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/riala-waldorfforskola/ | Riala Waldorfförskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/radmanso-forskola/ | Rådmansö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-44 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/ranas-forskola/ | Rånäs förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-46 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/rovarborgens-forskola/ | Rövarborgens förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/sjohagens-forskola/ | Sjöhagens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-48 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skarsjo-forskola/ | Skarsjö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-50 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skebo-forskola/ | Skebo förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-52 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/skederids-forskola/ | Skederids förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-54 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/slattergubbens-forskola/ | Slåttergubbens förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-56 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/smorblommans-forskola/ | Smörblommans förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/solbacka-forskola/ | Solbacka förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-58 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/svanberga-forskola/ | Svanberga förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-60 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/trollebo-forskola/ | Trollebo förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/uteleken-forskola/ | Uteleken förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vallby-hage-forskola/ | Vallby Hage förskola (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/viktoriagarden-forskolan/ | Viktoriagården förskolan (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-i-roslagsbro/ | Vildnissarna i Roslagsbro (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vildnissarna-solbacka/ | Vildnissarna i Solbacka (fristående)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vastertorp-forskola/ | Västertorps förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-62 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vato-forskola/ | Vätö förskola (kommunal)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-64 | Open submenu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/vaxtriket/ | Växtriket (fristående)
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Björkö-Arholma förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/bjorko-arholma-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Bålbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/balbro-forskola/folj-balbro-forskola-pa-sociala-medier/ | Följ Bålbro förskola på sociala medier
+  https://skolmaten.se/balbro-forskola/ | Skolmatsedel Bålbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Edsbro förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/kontakt-och-opettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/edsbro-forskola/folj-edsbro-forskola-pa-sociala-medier/ | Följ Edsbro förskola på sociala medier
+  https://skolmaten.se/edsbro-forskola/ | Matsedel Edsbro förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Elmsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/folj-elmsta-forskola-pa-sociala-medier/ | Följ Elmsta förskola på sociala medier
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/elmsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/elmsta-forskola/ | Matsedel Elmsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Frötuna förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/frotuna-forskola/folj-frotuna-forskola-pa-sociala-medier/ | Följ Frötuna förskola på sociala medier
+  https://skolmaten.se/frotuna-forskola/ | Matsedel Frötuna förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Gottsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/gottsta-forskola/folj-gottsta-forskola-pa-sociala-medier/ | Följ Gottsta förskola på sociala medier
+  https://skolmaten.se/gottsta-forskola/ | Matsedel Gottsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Grisslehamns förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/grisslehamns-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://skolmaten.se/grisslehamns-forskola/ | Matsedel Grisslehamns förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Håsta förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/hasta-forskola/hasta-forskola-pa-sociala-medier/ | Följ Håsta förskola på sociala medier
+  https://skolmaten.se/hasta-forskola/ | Matsedel Håsta förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Köpmanholms förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/kopmanholms-forskola/folj-kopmanholms-forskola-pa-sociala-medier/ | Följ Köpmanholms förskola på sociala medier
+  https://skolmaten.se/kopmanholm-forskola/ | Matsedel Köpmanholms förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Körsbäretin esikoulu
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/kontakt-och-oppettider/ | Yhteystiedot ja aukioloajat
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbaretin-esikoulu-kunnan/seuraa-korsbaretin-esikoulun-toimintaa-sosiaalisissa-medioissa/ | Seuraa Körsbäretin esikoulun toimintaa sosiaalisissa medioissa
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Körsbärets förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/korsbarets-forskola/folj-korsbaret-forskola-pa-sociala-medier/ | Följ Körsbäret förskola på sociala medier
+  https://skolmaten.se/korsbarets-forskola/ | Matsedel Körsbäret förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Lindens förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lindens-forskola/folj-lindens-forskola-pa-sociala-medier/ | Följ Lindens förskola på sociala medier
+  https://skolmaten.se/hallsta-forskola2/ | Matsedel Lindens förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Länna förskola (kommunal)
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/kontakt-och-oppettider/ | Kontakt och öppettider
+  https://www.norrtalje.se/info/barn-och-skola/forskola/forskolor/lanna-forskola/folj-lanna-forskola-pa-sociala-medier/ | Följ Länna förskola på sociala medier
+  https://skolmaten.se/lanna-forskola2/ | Matsedel Länna förskola
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Close submenu
+  https://www.norrtalje.se/info/kommun-och-politik/politik-och-fortroendevalda/kommunfullmaktige/kommunfullmaktige-sammantrader/#mm-12 | Palettens förskola (kommunal)
 
 KF: 2026-02-16, 2026-04-27, 2026-05-25, 2026-05-27, 2026-06-10, 2026-09-21, 2026-09-22, 2026-10-09, 2026-10-14, 2026-10-15, 2026-10-19, 2026-10-20, 2026-12-01, 2027-01-01
 KS: 2026-05-12, 2026-06-01, 2026-06-04, 2026-09-08, 2026-10-13, 2026-12-01

@@ -1,38 +1,206 @@
 Startadresser från Brave: inga
 
 Sidor (poäng):
- 25  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige  Webbsändning av kommunfullmäktige - Bräcke kommun
+ 26  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige  Webbsändning av kommunfullmäktige - Bräcke kommun
+ 17  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla  Anslagstavla - Bräcke kommun
  15  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige  Kommunfullmäktige - Bräcke kommun
  14  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunstyrelsen  Kommunstyrelsen - Bräcke kommun
- 13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda  Politik och förtroendevalda - Bräcke kommun
  13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/sammantradesdagar-kallelser-och-protokoll  Sammanträdesdagar, kallelser och protokoll - Bräcke kommun
- 13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/revisionen  Revisionen - Bräcke kommun
+ 13  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda  Politik och förtroendevalda - Bräcke kommun
+ 11  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-kommunfullmaktige  Justerat protokoll från kommunfullmäktige - Bräcke kommun
+ 10  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-30-tillkannagivande-kommunfullmaktige-sammantrader-den-11-november-2026  Tillkännagivande: Kommunfullmäktige sammanträder den 11 november 2026 - Bräcke kommun
   9  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/bygg--och-miljonamnden  Bygg- och miljönämnden - Bräcke kommun
   9  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/valnamnden  Valnämnden - Bräcke kommun
   8  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/allmanna-handlingar-och-arkiv  Allmänna handlingar och arkiv - Bräcke kommun
   8  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/demokratiberedningen  Demokratiberedningen - Bräcke kommun
-  8  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/partistod  Partistöd - Bräcke kommun
-  7  https://www.bracke.se/nyheter/nyhetsarkiv/2026-10-28-arets-guldstjarnor-ar-utsedda  Årets guldstjärnor är utsedda - Bräcke kommun
-  7  https://www.bracke.se/nyheter/nyhetsarkiv/2026-10-12-arets-foretagare-och-unga-entreprenor-prisades  Årets företagare och unga entreprenör prisades - Bräcke kommun
-  7  https://www.bracke.se/kommun--och-demokrati  Kommun och demokrati - Bräcke kommun
-  6  https://www.bracke.se/  Bräcke kommun
-  6  https://www.bracke.se/?s=kallelse+kommunfullm%C3%A4ktige  Bräcke kommun
+  5  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-revisorerna  Justerat protokoll från revisorerna - Bräcke kommun
+  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-29-justerat-protokoll-fran-bygg--och-miljonamnden  Justerat protokoll från bygg- och miljönämnden - Bräcke kommun
+  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-30-beslut-om-bygglov  Beslut om bygglov - Bräcke kommun
+  4  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-29-ansokan-om-bygglov  Ansökan om bygglov - Bräcke kommun
+  4  https://www.bracke.se/kommunochdemokrati/beslutinsynochrattssakerhet/anslagstavla/nyhetsarkivspeciallagstiftning/beslutombygglov.5.5bf52f9d1a157840cc035a.html  Beslut om bygglov - Bräcke kommun
   4  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder/overformyndarnamnden  Överförmyndarnämnden - Bräcke kommun
-  4  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/brottsforebyggande--och-folkhalsoradet  Brottsförebyggande- och folkhälsorådet - Bräcke kommun
+  3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-20-beslut-om-bygglov  Beslut om bygglov - Bräcke kommun
   3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet  Beslut, insyn och rättssäkerhet - Bräcke kommun
-  3  https://www.bracke.se/nyheter/nyhetsarkiv/2026-11-04-okad-lokal-narvaro-for-polisen  Ökad lokal närvaro för Polisen - Bräcke kommun
+  3  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/kommunalforbund-och-gemensamma-namnder  Kommunalförbund och gemensamma nämnder - Bräcke kommun
   3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion  Visselblåsarfunktion - Bräcke kommun
   3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter  Hantering av personuppgifter - Bräcke kommun
-  3  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/kommunalforbund-och-gemensamma-namnder  Kommunalförbund och gemensamma nämnder - Bräcke kommun
   3  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/overklaga  Överklaga - Bräcke kommun
-  2  https://www.bracke.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök - Bräcke kommun
-  2  https://www.bracke.se/nyheter/nyhetsarkiv/2026-11-03-budget--och-skuldradgivningen-informerar  Budget- och skuldrådgivningen informerar - Bräcke kommun
-  2  https://www.bracke.se/nyheter/nyhetsarkiv/2026-11-03-tank-pa-det-har-nar-det-snoar  Tänk på det här när det snöar - Bräcke kommun
   2  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder  Nämnder - Bräcke kommun
-  2  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/utskott  Utskott - Bräcke kommun
-  2  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund  Råd, beredningar och kommunalförbund - Bräcke kommun
 
-KF: 2026-03-10, 2026-04-15, 2026-06-10, 2026-10-15, 2026-10-21, 2026-11-02
+Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige:
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige#Rubrik | Hoppa till sidans innehåll
+  https://www.bracke.se/ | 
+  https://e-tjanster.bracke.se/ | E-tjänster , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/language | Language
+  https://www.bracke.se/ | Startsida
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
+  https://live.mediaflow.com/36NBH61VP6 | Kommunfullmäktiges sammanträde 10 juni 2026 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/12NBPM2BT2 | Kommunfullmäktiges sammanträde 15 april 2026 Länk till annan webbplats.
+  https://play.mediaflow.com/ovp/11/82KB93VG3P | Kommunfullmäktiges sammanträde 10 mars 2026 Länk till annan webbplats.
+  https://play.mediaflow.com/ovp/11/99KB3OUJZN | Kommunfullmäktiges sammanträde 10 december 2025 Länk till annan webbplats.
+  https://play.mediaflow.com/ovp/11/53IB17SMIJ | Kommunfullmäktige sammanträde 12 november 2025 Länk till annan webbplats.
+  https://play.mediaflow.com/ovp/11/81HBXZXG4E | Kommunfullmäktiges sammanträde 1 oktober 2025 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/28GBBC9E0B | Kommunfullmäktiges sammanträde 11 juni 2025 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/07FBVVHSVA | Kommunfullmäktiges sammanträde 16 april 2025 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/68FBIV583Y | Kommunfullmäktiges sammanträde 15 april 2025 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/13EB8MX9I3 | Kommunfullmäktiges sammanträde 11 december 2024 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/29EBBCAVMB | Kommunfullmäktiges sammanträde 13 november 2024 Länk till annan webbplats, öppnas i nytt fönster.
+  https://live.mediaflow.com/33EBKT3UP3 | Kommunfullmäktiges sammanträde 2 oktober 2024 Länk till annan webbplats, öppnas i nytt fönster.
+  https://live.mediaflow.com/15CBP9BSGY | Kommunfullmäktiges sammanträde den 12 juni 2024 Länk till annan webbplats, öppnas i nytt fönster.
+  https://play.mediaflow.com/ovp/11/42CB9QFD0S | Kommunfullmäktiges sammanträde 17 april 2024 Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt?nodeid=4.2bed32d019a7ba0d704d1aa | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/rapportera-fel-pa-sidan?nodeid=4.2bed32d019a7ba0d704d1aa | Rapportera fel på sidan
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Fler kontaktuppgifter
+  https://www.bracke.se/bygga-bo--och-miljo/kontakt-och-felanmalan-bygga-bo-och-miljo | Felanmälan
+  https://brackekommun.ondemand.formpipe.com/ | Möten, handlingar och protokoll , länk till annan webbplats.
+  https://e-tjanster.bracke.se/ | E-tjänster och blanketter , länk till annan webbplats.
+  http://www.brackenasta.se/ | bräckenästa.se , länk till annan webbplats.
+  https://www.vattenmiljoresurs.se/bracke | vattenmiljoresurs.se , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://maps.app.goo.gl/QGBXtw9Pj5bWe1M26 | Kommunen på kartan , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen | Om webbplatsen
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://zporten.sharepoint.com/sites/Communis | Intranät Communis
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige#page-top | Till toppen av sidan
+  https://www.bracke.se/bygga-bo--och-miljo | Bygga, bo och miljö
+  https://www.bracke.se/barn-och-utbildning | Barn och utbildning
+  https://www.bracke.se/stod-och--omsorg | Stöd och omsorg
+  https://www.bracke.se/kultur-fritid-och-turism | Kultur, fritid och turism
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
+  https://www.bracke.se/kommun--och-demokrati/ekonomi-mal-och-styrdokument | Ekonomi, mål och styrdokument
+  https://www.bracke.se/kommun--och-demokrati/e-tjanster-och-blanketter | E-tjänster och blanketter
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Kontakta oss
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt | Organisation och projekt
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige | Webbsändning av kommunfullmäktige
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige | Kommunfullmäktige
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunstyrelsen | Kommunstyrelsen
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/sammantradesdagar-kallelser-och-protokoll | Sammanträdesdagar, kallelser och protokoll
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder | Nämnder
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/utskott | Utskott
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/revisionen | Revisionen
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund | Råd, beredningar och kommunalförbund
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/partistod | Partistöd
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/val-2026 | Val 2026
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/paverka-politiskt | Påverka politiskt
+  https://www.bracke.se/kommun--och-demokrati/press-media-och-information | Press, media och information
+  https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
+  https://play.mediaflow.com/ovp/11/58PBV8N5IM | inbäddad portal kallelser protokoll
+
+Länkar på https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla:
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla#Rubrik | Hoppa till sidans innehåll
+  https://www.bracke.se/ | 
+  https://e-tjanster.bracke.se/ | E-tjänster , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/language | Language
+  https://www.bracke.se/ | Startsida
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-30-tillkannagivande-kommunfullmaktige-sammantrader-den-11-november-2026 | Tillkännagivande: Kommunfullmäktige sammanträder den 11 november 2026
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-29-justerat-protokoll-fran-bygg--och-miljonamnden | Justerat protokoll från bygg- och miljönämnden
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-revisorerna | Justerat protokoll från revisorerna
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-justerade-protokoll/2026-10-23-justerat-protokoll-fran-kommunfullmaktige | Justerat protokoll från kommunfullmäktige
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-30-beslut-om-bygglov | Beslut om bygglov
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-29-ansokan-om-bygglov | Ansökan om bygglov
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla/nyhetsarkiv-speciallagstiftning/2026-10-20-beslut-om-bygglov | Beslut om bygglov
+  https://www.bracke.se/kommunochdemokrati/beslutinsynochrattssakerhet/anslagstavla/nyhetsarkivspeciallagstiftning/beslutombygglov.5.5bf52f9d1a157840cc035a.html | Beslut om bygglov
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt?nodeid=4.2bed32d019a7ba0d704d2d7 | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/rapportera-fel-pa-sidan?nodeid=4.2bed32d019a7ba0d704d2d7 | Rapportera fel på sidan
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Fler kontaktuppgifter
+  https://www.bracke.se/bygga-bo--och-miljo/kontakt-och-felanmalan-bygga-bo-och-miljo | Felanmälan
+  https://brackekommun.ondemand.formpipe.com/ | Möten, handlingar och protokoll , länk till annan webbplats.
+  https://e-tjanster.bracke.se/ | E-tjänster och blanketter , länk till annan webbplats.
+  http://www.brackenasta.se/ | bräckenästa.se , länk till annan webbplats.
+  https://www.vattenmiljoresurs.se/bracke | vattenmiljoresurs.se , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://maps.app.goo.gl/QGBXtw9Pj5bWe1M26 | Kommunen på kartan , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen | Om webbplatsen
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://zporten.sharepoint.com/sites/Communis | Intranät Communis
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla#page-top | Till toppen av sidan
+  https://www.bracke.se/bygga-bo--och-miljo | Bygga, bo och miljö
+  https://www.bracke.se/barn-och-utbildning | Barn och utbildning
+  https://www.bracke.se/stod-och--omsorg | Stöd och omsorg
+  https://www.bracke.se/kultur-fritid-och-turism | Kultur, fritid och turism
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/allmanna-handlingar-och-arkiv | Allmänna handlingar och arkiv
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/overklaga | Överklaga
+  https://www.bracke.se/kommun--och-demokrati/ekonomi-mal-och-styrdokument | Ekonomi, mål och styrdokument
+  https://www.bracke.se/kommun--och-demokrati/e-tjanster-och-blanketter | E-tjänster och blanketter
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Kontakta oss
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt | Organisation och projekt
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
+  https://www.bracke.se/kommun--och-demokrati/press-media-och-information | Press, media och information
+  https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
+
+Länkar på https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige:
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige#Rubrik | Hoppa till sidans innehåll
+  https://www.bracke.se/ | 
+  https://e-tjanster.bracke.se/ | E-tjänster , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/anslagstavla | Anslagstavla
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/language | Language
+  https://www.bracke.se/ | Startsida
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
+  https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige | Sammanträdestider, kallelser och protokoll för kommunfullmäktige Länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund/demokratiberedningen | Demokratiberedningen
+  https://www.bracke.se/download/18.2bed32d019a7ba0d70439ed6/1764680377428/Arbetsordning%20f%C3%B6r%20kommunfullm%C3%A4ktige.pdf | Arbetsordning för kommunfullmäktige pdf, 841.8 kB.
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt?nodeid=4.2bed32d019a7ba0d704cfa2 | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/rapportera-fel-pa-sidan?nodeid=4.2bed32d019a7ba0d704cfa2 | Rapportera fel på sidan
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Fler kontaktuppgifter
+  https://www.bracke.se/bygga-bo--och-miljo/kontakt-och-felanmalan-bygga-bo-och-miljo | Felanmälan
+  https://brackekommun.ondemand.formpipe.com/ | Möten, handlingar och protokoll , länk till annan webbplats.
+  https://e-tjanster.bracke.se/ | E-tjänster och blanketter , länk till annan webbplats.
+  http://www.brackenasta.se/ | bräckenästa.se , länk till annan webbplats.
+  https://www.vattenmiljoresurs.se/bracke | vattenmiljoresurs.se , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://maps.app.goo.gl/QGBXtw9Pj5bWe1M26 | Kommunen på kartan , länk till annan webbplats.
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen | Om webbplatsen
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt/om-webbplatsen/tillganglighetsredogorelse | Tillgänglighetsredogörelse
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/visselblasarfunktion | Visselblåsarfunktion
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet/hantering-av-personuppgifter | Hantering av personuppgifter
+  https://zporten.sharepoint.com/sites/Communis | Intranät Communis
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige#page-top | Till toppen av sidan
+  https://www.bracke.se/bygga-bo--och-miljo | Bygga, bo och miljö
+  https://www.bracke.se/barn-och-utbildning | Barn och utbildning
+  https://www.bracke.se/stod-och--omsorg | Stöd och omsorg
+  https://www.bracke.se/kultur-fritid-och-turism | Kultur, fritid och turism
+  https://www.bracke.se/kommun--och-demokrati | Kommun och demokrati
+  https://www.bracke.se/kommun--och-demokrati/beslut-insyn-och-rattssakerhet | Beslut, insyn och rättssäkerhet
+  https://www.bracke.se/kommun--och-demokrati/ekonomi-mal-och-styrdokument | Ekonomi, mål och styrdokument
+  https://www.bracke.se/kommun--och-demokrati/e-tjanster-och-blanketter | E-tjänster och blanketter
+  https://www.bracke.se/kommun--och-demokrati/kontakta-oss | Kontakta oss
+  https://www.bracke.se/kommun--och-demokrati/lamna-synpunkt | Lämna synpunkt
+  https://www.bracke.se/kommun--och-demokrati/organisation-och-projekt | Organisation och projekt
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda | Politik och förtroendevalda
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/webbsandning-av-kommunfullmaktige | Webbsändning av kommunfullmäktige
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunfullmaktige | Kommunfullmäktige
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/kommunstyrelsen | Kommunstyrelsen
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/sammantradesdagar-kallelser-och-protokoll | Sammanträdesdagar, kallelser och protokoll
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/namnder | Nämnder
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/utskott | Utskott
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/revisionen | Revisionen
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/rad-beredningar-och-kommunalforbund | Råd, beredningar och kommunalförbund
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/partistod | Partistöd
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/val-2026 | Val 2026
+  https://www.bracke.se/kommun--och-demokrati/politik-och-fortroendevalda/paverka-politiskt | Påverka politiskt
+  https://www.bracke.se/kommun--och-demokrati/press-media-och-information | Press, media och information
+  https://www.bracke.se/kommun--och-demokrati/trygghet-sakerhet-och-civilt-forsvar | Trygghet, säkerhet och civilt försvar
+
+KF: 2026-03-10, 2026-04-15, 2026-06-10, 2026-10-15, 2026-10-21, 2026-10-23, 2026-10-30, 2026-11-02, 2026-11-11, 2026-11-16
 KS: 2026-04-23
 
 Aktuella handlingar:

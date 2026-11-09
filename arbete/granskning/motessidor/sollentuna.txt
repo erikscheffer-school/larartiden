@@ -1,38 +1,938 @@
 Startadresser från Brave: inga
 
 Sidor (poäng):
- 32  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/  Sammanträden i Sollentuna kommun
- 32  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun  Sammanträden i Sollentuna kommun
- 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunstyrelsen/  Kommunstyrelsen och kommunstyrelsens utskott
+ 34  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/  Sammanträden i Sollentuna kommun
+ 34  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun  Sammanträden i Sollentuna kommun
+ 32  https://www.sollentuna.se/kf_18-22  Ledamöter och ersättare i kommunstyrelsen
  31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/  Dagordningar och handlingar
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige/  Sändning från kommunfullmäktige 2020
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunstyrelsen/  Kommunstyrelsen och kommunstyrelsens utskott
+ 31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige  Sändning från kommunfullmäktige 2020
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/  Politik och demokrati
  31  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/kommunstyrelsen  Kommunstyrelsen och kommunstyrelsens utskott
+ 31  https://www.sollentuna.se/kommun--politik/offentlighet-och-sekretess/anslagstavla-officiell/  Officiell anslagstavla för Sollentuna kommun
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/  Allmänna val 2026
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/  Partier och mandatfördelning i kommunfullmäktige
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati  Politik och demokrati
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/paverkasollentunasutveckling/  Påverka Sollentunas utveckling
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/partier-och-mandatfordelning  Partier och mandatfördelning i kommunfullmäktige
+ 31  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026  Allmänna val 2026
  30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/  Kommunfullmäktige i Sollentuna kommun
  30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/kommunfullmaktige  Kommunfullmäktige i Sollentuna kommun
- 30  https://www.sollentuna.se/kf_18-22  Ledamöter och ersättare i kommunstyrelsen
- 29  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/  Partier och mandatfördelning i kommunfullmäktige
- 28  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige/  Sändning från kommunfullmäktige 2020
- 28  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Kommunfullmaktige/sandning-fran-kommunfullmaktige  Sändning från kommunfullmäktige 2020
- 27  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/  Politik och demokrati
- 27  https://www.sollentuna.se/kf  Sändning från kommunfullmäktige 2020
- 27  https://www.sollentuna.se/kommun--politik/offentlighet-och-sekretess/anslagstavla-officiell/  Officiell anslagstavla för Sollentuna kommun
- 27  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/  Allmänna val 2026
- 26  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/  Sollentuna kommuns nämnder
- 23  https://www.sollentuna.se/kommun--politik/kommunfakta/forfattningssamling/sfsf1/  Kommunfullmäktige i Sollentuna kommun
- 23  https://www.sollentuna.se/arbetsordningkf  Kommunfullmäktige i Sollentuna kommun
- 22  https://www.sollentuna.se/nyheter--press/nyhet-kommun--politik/ordforandeposter-i-kommunfullmaktige-och-kommunstyrelsen-beslutade/  Ordförande i kommunfullmäktige och kommunstyrelsen beslutade
- 22  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/politisk-inriktning/  Politisk inriktning
- 20  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=Alla  Sök
- 19  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=Documents  Sök
- 18  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/information-till-partier/  Information till partier
- 16  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/politiska-sekreterare/  Politiska sekreterare
- 15  https://www.sollentuna.se/sok?q=kallelse+kommunfullm%C3%A4ktige  Sök
- 15  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=Pages  Sök
- 11  https://www.sollentuna.se/  Sollentuna kommun
- 11  https://www.sollentuna.se/?s=kallelse+kommunfullm%C3%A4ktige  Sollentuna kommun
-  9  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=News  Sök
-  9  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=Events  Sök
-  9  https://www.sollentuna.se/sok/?q=kallelse%20kommunfullm%C3%A4ktige&filter=eservices  Sök
-  0  https://www.sollentuna.se/sok.html?query=kallelse+kommunfullm%C3%A4ktige  404
+ 30  https://www.sollentuna.se/kf  Sändning från kommunfullmäktige 2020
+ 30  https://www.sollentuna.se/kommun--politik/sa-styrs-sollentuna/kommunens-organisation/Namnder/  Sollentuna kommuns nämnder
+ 26  https://www.sollentuna.se/kommun--politik/kommunfakta/forfattningssamling/sfsf1/  Kommunfullmäktige i Sollentuna kommun
+ 26  https://www.sollentuna.se/arbetsordningkf  Kommunfullmäktige i Sollentuna kommun
+ 26  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/politisk-inriktning/  Politisk inriktning
+ 24  https://www.sollentuna.se/nyheter--press/nyhet-kommun--politik/ordforandeposter-i-kommunfullmaktige-och-kommunstyrelsen-beslutade/  Ordförande i kommunfullmäktige och kommunstyrelsen beslutade
+ 22  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/allmanna-val-2026/information-till-partier/  Information till partier
+ 20  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/Partier-och-mandatfordelning/politiska-sekreterare/  Politiska sekreterare
+
+Länkar på https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/:
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#navigation | Till navigation
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/#content | Till innehåll (s)
+  https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar
+  https://www.sollentuna.se/portal/foretag/ | Företagsportalen
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun/# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra
+  https://www.sollentuna.se/kommun--politik/ | Kommun & politik
+  https://www.sollentuna.se/trafik--gator/ | Trafik & gator
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal
+  https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem
+  https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet
+  https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk
+  https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på gymnasiet
+  https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar
+  https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande
+  https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV)
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselforrattare/ | Vigselförrättare
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/Borgerlig-begravning/ | Borgerlig begravning
+  https://www.sollentuna.se/omsorg--stod/aldre/ | Äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/ansok-om-aldreomsorg/ | Ansök om äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/ | Hemtjänst för dig som är äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/trygghetslarm-och-digitala-las/ | Trygghetslarm och digitala lås
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/ | Hjälp i hemmet
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassningsbidrag
+  https://www.sollentuna.se/omsorg--stod/aldre/dagverksamhet/ | Dagverksamhet
+  https://www.sollentuna.se/omsorg--stod/aldre/boende-for-dig-som-ar-aldre/ | Omvårdnadsboende för äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/ | Avgifter inom äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/sa-har-beraknar-vi-din-avgift/ | Så här beräknar vi din avgift
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/autogiro-och-e-faktura-for-aldreomsorg/ | Autogiro och e-faktura för äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/ | Anhörigstöd
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/ | Aktiviteter
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/anhoriggrupp/ | Anhöriggrupper
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/ | Demens
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/hjarnhoppet-livsstilsprogram/ | Hjärnhoppet livsstilsprogram
+  https://www.sollentuna.se/omsorg--stod/aldre/synpunkter-och-klagomal/ | Synpunkter och klagomål inom vård och omsorg
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ | Familj, barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ | Stöd till barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/laxhjalp-pa-biblioteken/ | Läxhjälp på biblioteken
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/brottsutsatta-ungdomar/ | Brottsutsatta ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Faltteamet/ | Fältteamet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/insatser-for-unga-16-29-ar/ | Insatser för unga 16-29 år
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/samverkan-mellan-skola-socialtjanst-polis-och-fritid/ | Samverkan mellan skola, socialtjänst, polis och fritid
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Ungdomsmottagning/ | Ungdomsmottagning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ung-och-utsatt/ | Utsatt för våld
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeradgivning/ | Familjerådgivning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/ | Föräldrastöd
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/foraldragrupper/ | Föräldragrupper
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/enskilt-stod-till-foraldrar/ | Enskilt stöd till föräldrar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/familjerummet/ | Familjerummet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/ | Barn som far illa
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/Hur-gar-en-utredning-till/ | Hur går en utredning om oro för barn till?
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/ | Drogförebyggande arbete
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/till-foraldrar-om-alkohol-droger-tobak-och-spel/ | Till föräldrar om alkohol, droger, tobak och spel
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeratt/ | Familjerätt
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/ | Familjecentraler
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Turebergs-familjecentral/ | Turebergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Rotebros-familjecentral/ | Rotebros familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/edsbergs-familjecentral/ | Edsbergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/ | Familjehem, kontaktfamilj och kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/bli-familjehem-kontaktperson/ | Bli familjehem, kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Familjehem/ | Familjehem för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/kontaktperson/ | Kontaktperson för barn, ungdomar och vuxna
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Kontaktfamilj/ | Kontaktfamilj för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ | Ung och Placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ditt-boende-nar-du-ar-placerad/ | Ditt boende när du är placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/tips-fran-placerade-ungdomar/ | Tips från placerade ungdomar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ | Funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/ | Ansök om stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/ | Tips inför vuxenlivet
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/vad-kan-jag-gora-nar-skolan-slutar/ | Vad kan jag göra när skolan slutar?
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/flytta-hemifran/ | Flytta hemifrån
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/lite-andra-saker-som-kan-vara-bra-att-veta/ | Ersättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ | Stöd i vardagen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/avlosarservice/ | Avlösarservice funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/boendestod/ | Boendestöd funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassning för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/hemtjanst/ | Hemtjänst för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/kontaktperson/ | Kontaktperson
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ledsagarservice/ | Ledsagarservice
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/ | Personlig assistans
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/assistansanordnare/ | Assistansanordnare
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/korttidstillsyn/ | Korttidstillsyn för ungdom
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/ | Boende och korttidsstöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/ | Bostad med särskild service
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/kommunalt-bostadsbidrag/ | Kommunalt bostadsbidrag, grupp- och servicebostad
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/korttidsvistelse/ | Korttidsvistelse
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/arbete-och-daglig-sysselsattning/ | Arbete och daglig sysselsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/ | Fritid och aktiviteter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/traffpunkt-solstralen/ | Träffpunkt Solstrålen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/musikcafe-eldqvarn/ | Musikcafé Eldqvarn
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/trana-och-ma-bra/ | Träna och må bra
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/danskvallar/ | Danskvällar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/funkisfestivalen/ | Funkisfestivalen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/foreningar-for-dig-med-funktionsnedsattning/ | Föreningar för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/ | Avgifter och rättigheter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/radgivning-och-personligt-stod/ | Rådgivning och personligt stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/tandvard/ | Tandvård för dig med beviljad insats
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/ | Ekonomiskt stöd och rådgivning
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/ | Ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/etjanst-ekonomiskt-bistand/ | e-tjänst för ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/Vad-ingar-i-forsorjningsstodet/ | Vad ingår i försörjningsstödet?
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Budget--och-skuldradgivning/ | Budget- och skuldrådgivning
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/ | Soc för barn och unga
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ | När kan socialtjänsten hjälpa till?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/socialtjansten-kan-hjalpa-dig-pa-olika-satt/ | Socialtjänsten kan hjälpa dig på olika sätt
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ovriga-verksamheter-som-kan-hjalpa-dig/ | Övriga verksamheter som kan hjälpa dig
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/fragor-och-svar-om-soc/ | Frågor och svar om soc
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/om-du-inte-kan-bo-kvar-hemma/ | Om du inte kan bo kvar hemma
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/ | Så här får du kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/vad-hander-nar-du-tar-kontakt/ | Vad händer när du kontaktar oss?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/ | Du som redan har kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/fragor-och-svar-for-dig-som-redan-har-kontakt-med-soc/ | Frågor och svar för dig som redan har kontakt med SOC
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/lararhandledning/ | Lärarhandledning, Soc för unga
+  https://www.sollentuna.se/omsorg--stod/Dodsfall/ | Dödsfall och dödsboanmälan
+  https://www.sollentuna.se/omsorg--stod/hemloshet/ | Hemlöshet
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/ | Integration och mottagande
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/ | För dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/motesplats-pa-sollentuna-bibliotek/ | Mötesplats på Sollentuna bibliotek
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/kultur-och-fritid-for-dig-som-ar-ny-i-sverige/ | Kultur och fritid för dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/safungerarflyktingmottagandet/ | Så här fungerar flyktingmottagandet
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/ | Missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/hjalp-vid-missbruk-och-beroende/ | Hjälp vid missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Anmala-att-nagon-far-illa/ | Anmäla att någon far illa
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/MiniMaria---for-dig-som-ar-ung/ | Mini-Maria - för dig som är ung
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Hur-gar-en-utredning-till/ | Hur går en utredning om missbruk till?
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/spelberoende/ | Spelberoende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ | Psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/akut-psykiatriskt-stod/ | Akut psykiatriskt stöd
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/ | Aktiviteter för dig med psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/friskvard/ | Friskvård
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Boendestod/ | Boendestöd psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Intresse--och-brukarforeningar/ | Föreningar psykisk funktionsnedstättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/kontaktperson-vuxen/ | Kontaktperson vuxen
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Personligt-ombud/ | Personligt ombud
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Stodboendesarskilt-boende/ | Stödboende/särskilt boende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Sysselsattning/ | Sysselsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Akerbo-korttidsboende/ | Tillfälligt stödboende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ture-trafflokal/ | Ture Träfflokal
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Uppsokande-verksamhet/ | Socialtjänstens uppsökande verksamhet
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/ | Resor och parkeringstillstånd
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/fardtjanst/ | Färdtjänst
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-vuxna/ | Turbundna resor för vuxna
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-barn-och-unga/ | Turbundna resor för barn och unga
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/ | Stöd vid hot, våld och extremism
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/bryta-kriminell-livsstil/ | Bryta kriminell livsstil
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/manniskohandel-och-sex-mot-ersattning/ | Människohandel och sex mot ersättning
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/ | Våld i nära relation
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/en-manad-fri-fran-vald-i-nordvast/ | En månad fri från våld i nordväst
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/du-som-utovar-hot-ocheller-vald/ | Hjälp och stöd till förändring av våldsbeteende
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/valdsbejakande-extremism/ | Våldsbejakande extremism
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/ | Stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ | Detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-i-sollentuna/ | Pågående detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-samrad-granskning/ | Detaljplaner på samråd och granskning
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ansokan-planbesked/ | Ansökan planbesked
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/ | Områden för stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/edsberg-vaxer/ | Edsberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/ | Helenelund
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/Centrala-Helenelund/ | Tvärbanan och kvarteret Hoppet
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/stadsutveckling-rotebro/ | Rotebro
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/sodra-haggvik/ | Södra Häggvik
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/ | Tureberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/malmplan/ | Malmplan
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/Vasjon/ | Väsjön
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/ | Byggprojekt
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/marksanering/ | Sanering av mark
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/oversiktsplan/ | Översiktsplan
+
+Länkar på https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun:
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun#navigation | Till navigation
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun#content | Till innehåll (s)
+  https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar
+  https://www.sollentuna.se/portal/foretag/ | Företagsportalen
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kommun--politik/politik-och-demokrati/dagordningar-och-handlingar/sammantraden-i-sollentuna-kommun# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra
+  https://www.sollentuna.se/kommun--politik/ | Kommun & politik
+  https://www.sollentuna.se/trafik--gator/ | Trafik & gator
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal
+  https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem
+  https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet
+  https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk
+  https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på gymnasiet
+  https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar
+  https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande
+  https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV)
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselforrattare/ | Vigselförrättare
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/Borgerlig-begravning/ | Borgerlig begravning
+  https://www.sollentuna.se/omsorg--stod/aldre/ | Äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/ansok-om-aldreomsorg/ | Ansök om äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/ | Hemtjänst för dig som är äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/trygghetslarm-och-digitala-las/ | Trygghetslarm och digitala lås
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/ | Hjälp i hemmet
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassningsbidrag
+  https://www.sollentuna.se/omsorg--stod/aldre/dagverksamhet/ | Dagverksamhet
+  https://www.sollentuna.se/omsorg--stod/aldre/boende-for-dig-som-ar-aldre/ | Omvårdnadsboende för äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/ | Avgifter inom äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/sa-har-beraknar-vi-din-avgift/ | Så här beräknar vi din avgift
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/autogiro-och-e-faktura-for-aldreomsorg/ | Autogiro och e-faktura för äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/ | Anhörigstöd
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/ | Aktiviteter
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/anhoriggrupp/ | Anhöriggrupper
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/ | Demens
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/hjarnhoppet-livsstilsprogram/ | Hjärnhoppet livsstilsprogram
+  https://www.sollentuna.se/omsorg--stod/aldre/synpunkter-och-klagomal/ | Synpunkter och klagomål inom vård och omsorg
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ | Familj, barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ | Stöd till barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/laxhjalp-pa-biblioteken/ | Läxhjälp på biblioteken
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/brottsutsatta-ungdomar/ | Brottsutsatta ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Faltteamet/ | Fältteamet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/insatser-for-unga-16-29-ar/ | Insatser för unga 16-29 år
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/samverkan-mellan-skola-socialtjanst-polis-och-fritid/ | Samverkan mellan skola, socialtjänst, polis och fritid
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Ungdomsmottagning/ | Ungdomsmottagning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ung-och-utsatt/ | Utsatt för våld
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeradgivning/ | Familjerådgivning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/ | Föräldrastöd
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/foraldragrupper/ | Föräldragrupper
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/enskilt-stod-till-foraldrar/ | Enskilt stöd till föräldrar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/familjerummet/ | Familjerummet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/ | Barn som far illa
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/Hur-gar-en-utredning-till/ | Hur går en utredning om oro för barn till?
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/ | Drogförebyggande arbete
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/till-foraldrar-om-alkohol-droger-tobak-och-spel/ | Till föräldrar om alkohol, droger, tobak och spel
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeratt/ | Familjerätt
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/ | Familjecentraler
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Turebergs-familjecentral/ | Turebergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Rotebros-familjecentral/ | Rotebros familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/edsbergs-familjecentral/ | Edsbergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/ | Familjehem, kontaktfamilj och kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/bli-familjehem-kontaktperson/ | Bli familjehem, kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Familjehem/ | Familjehem för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/kontaktperson/ | Kontaktperson för barn, ungdomar och vuxna
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Kontaktfamilj/ | Kontaktfamilj för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ | Ung och Placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ditt-boende-nar-du-ar-placerad/ | Ditt boende när du är placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/tips-fran-placerade-ungdomar/ | Tips från placerade ungdomar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ | Funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/ | Ansök om stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/ | Tips inför vuxenlivet
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/vad-kan-jag-gora-nar-skolan-slutar/ | Vad kan jag göra när skolan slutar?
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/flytta-hemifran/ | Flytta hemifrån
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/lite-andra-saker-som-kan-vara-bra-att-veta/ | Ersättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ | Stöd i vardagen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/avlosarservice/ | Avlösarservice funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/boendestod/ | Boendestöd funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassning för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/hemtjanst/ | Hemtjänst för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/kontaktperson/ | Kontaktperson
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ledsagarservice/ | Ledsagarservice
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/ | Personlig assistans
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/assistansanordnare/ | Assistansanordnare
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/korttidstillsyn/ | Korttidstillsyn för ungdom
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/ | Boende och korttidsstöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/ | Bostad med särskild service
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/kommunalt-bostadsbidrag/ | Kommunalt bostadsbidrag, grupp- och servicebostad
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/korttidsvistelse/ | Korttidsvistelse
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/arbete-och-daglig-sysselsattning/ | Arbete och daglig sysselsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/ | Fritid och aktiviteter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/traffpunkt-solstralen/ | Träffpunkt Solstrålen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/musikcafe-eldqvarn/ | Musikcafé Eldqvarn
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/trana-och-ma-bra/ | Träna och må bra
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/danskvallar/ | Danskvällar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/funkisfestivalen/ | Funkisfestivalen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/foreningar-for-dig-med-funktionsnedsattning/ | Föreningar för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/ | Avgifter och rättigheter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/radgivning-och-personligt-stod/ | Rådgivning och personligt stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/tandvard/ | Tandvård för dig med beviljad insats
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/ | Ekonomiskt stöd och rådgivning
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/ | Ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/etjanst-ekonomiskt-bistand/ | e-tjänst för ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/Vad-ingar-i-forsorjningsstodet/ | Vad ingår i försörjningsstödet?
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Budget--och-skuldradgivning/ | Budget- och skuldrådgivning
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/ | Soc för barn och unga
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ | När kan socialtjänsten hjälpa till?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/socialtjansten-kan-hjalpa-dig-pa-olika-satt/ | Socialtjänsten kan hjälpa dig på olika sätt
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ovriga-verksamheter-som-kan-hjalpa-dig/ | Övriga verksamheter som kan hjälpa dig
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/fragor-och-svar-om-soc/ | Frågor och svar om soc
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/om-du-inte-kan-bo-kvar-hemma/ | Om du inte kan bo kvar hemma
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/ | Så här får du kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/vad-hander-nar-du-tar-kontakt/ | Vad händer när du kontaktar oss?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/ | Du som redan har kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/fragor-och-svar-for-dig-som-redan-har-kontakt-med-soc/ | Frågor och svar för dig som redan har kontakt med SOC
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/lararhandledning/ | Lärarhandledning, Soc för unga
+  https://www.sollentuna.se/omsorg--stod/Dodsfall/ | Dödsfall och dödsboanmälan
+  https://www.sollentuna.se/omsorg--stod/hemloshet/ | Hemlöshet
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/ | Integration och mottagande
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/ | För dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/motesplats-pa-sollentuna-bibliotek/ | Mötesplats på Sollentuna bibliotek
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/kultur-och-fritid-for-dig-som-ar-ny-i-sverige/ | Kultur och fritid för dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/safungerarflyktingmottagandet/ | Så här fungerar flyktingmottagandet
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/ | Missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/hjalp-vid-missbruk-och-beroende/ | Hjälp vid missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Anmala-att-nagon-far-illa/ | Anmäla att någon far illa
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/MiniMaria---for-dig-som-ar-ung/ | Mini-Maria - för dig som är ung
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Hur-gar-en-utredning-till/ | Hur går en utredning om missbruk till?
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/spelberoende/ | Spelberoende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ | Psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/akut-psykiatriskt-stod/ | Akut psykiatriskt stöd
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/ | Aktiviteter för dig med psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/friskvard/ | Friskvård
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Boendestod/ | Boendestöd psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Intresse--och-brukarforeningar/ | Föreningar psykisk funktionsnedstättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/kontaktperson-vuxen/ | Kontaktperson vuxen
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Personligt-ombud/ | Personligt ombud
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Stodboendesarskilt-boende/ | Stödboende/särskilt boende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Sysselsattning/ | Sysselsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Akerbo-korttidsboende/ | Tillfälligt stödboende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ture-trafflokal/ | Ture Träfflokal
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Uppsokande-verksamhet/ | Socialtjänstens uppsökande verksamhet
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/ | Resor och parkeringstillstånd
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/fardtjanst/ | Färdtjänst
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-vuxna/ | Turbundna resor för vuxna
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-barn-och-unga/ | Turbundna resor för barn och unga
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/ | Stöd vid hot, våld och extremism
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/bryta-kriminell-livsstil/ | Bryta kriminell livsstil
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/manniskohandel-och-sex-mot-ersattning/ | Människohandel och sex mot ersättning
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/ | Våld i nära relation
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/en-manad-fri-fran-vald-i-nordvast/ | En månad fri från våld i nordväst
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/du-som-utovar-hot-ocheller-vald/ | Hjälp och stöd till förändring av våldsbeteende
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/valdsbejakande-extremism/ | Våldsbejakande extremism
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/ | Stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ | Detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-i-sollentuna/ | Pågående detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-samrad-granskning/ | Detaljplaner på samråd och granskning
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ansokan-planbesked/ | Ansökan planbesked
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/ | Områden för stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/edsberg-vaxer/ | Edsberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/ | Helenelund
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/Centrala-Helenelund/ | Tvärbanan och kvarteret Hoppet
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/stadsutveckling-rotebro/ | Rotebro
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/sodra-haggvik/ | Södra Häggvik
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/ | Tureberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/malmplan/ | Malmplan
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/Vasjon/ | Väsjön
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/ | Byggprojekt
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/marksanering/ | Sanering av mark
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/oversiktsplan/ | Översiktsplan
+
+Länkar på https://www.sollentuna.se/kf_18-22:
+  https://www.sollentuna.se/kf_18-22#navigation | Till navigation
+  https://www.sollentuna.se/kf_18-22#content | Till innehåll (s)
+  https://www.sollentuna.se/portal/for-foraldrar/ | För föräldrar
+  https://www.sollentuna.se/portal/foretag/ | Företagsportalen
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kf_18-22# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/ | Sollentuna kommuns logotyp, länk till startsidan
+  https://www.sollentuna.se/valkommen-till-sollentuna-kommun/ | Kontakt
+  https://sjalvservice.sollentuna.se/ | Självservice Öppnas i nytt fönster
+  https://www.sollentuna.se/kf_18-22# | Lyssna
+  https://www.sollentuna.se/om-webbplatsen/translate-och-oversattning-av-sprak/ | Translate
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/uppleva--gora/ | Uppleva & göra
+  https://www.sollentuna.se/kommun--politik/ | Kommun & politik
+  https://www.sollentuna.se/trafik--gator/ | Trafik & gator
+  https://www.sollentuna.se/forskola--skola/ | Förskola & skola
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/ | Anpassade skolformer
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-grundskolan/ | Anpassade grundskolan
+  https://www.sollentuna.se/forskola--skola/anpassade-skolformer/anpassade-gymnasieskolan/ | Anpassade gymnasieskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ | Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/ | Ansök, ändra eller säg upp plats
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/ | Avgifter för barnomsorg
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/avgifter3/kontroll-av-barnomsorgsavgift/ | Kontroll av barnomsorgsavgiften
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/regler-for-plats-i-forskolan/ | Regler för plats i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/barnomsorg-pa-kvallar-och-natter/ | Barnomsorg på kvällar och nätter
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/specialforskolor/ | Specialförskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/Familjedaghem/ | Familjedaghem
+  https://www.sollentuna.se/forskola--skola/Forskola/ansok-andra-eller-sag-upp-plats/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/ | Förskolor
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bagarbyvagens-forskola/ | Bagarbyvägens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Bikupan/ | Bikupans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/brage-sprakforskola/ | Brage språkförskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/bygatans-forskola/ | Bygatans förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Ebbas-Forskola/ | Ebbas Förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/fagelsangens-forskola/ | Fågelsångens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Igelkotten/ | Igelkotten
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Linnes-forskola/ | Linnés förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/mallas-forskola/ | Mallas förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/regnbagens-forskola/ | Regnbågens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/rosjo-forskola/ | Rösjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Sjorovaren/ | Sjörövarens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/skalby-forskola/ | Skälby förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Smultronstallet/ | Smultronställets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/sofielunds-forskola/ | Sofielunds förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/tegelhagens-forskola/ | Tegelhagens förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/Vaxmora-forskola/ | Vaxmora förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/vasjo-forskola/ | Väsjö förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/forskolor/forskolan-applet/ | Äpplets förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/krankande-behandling-i-forskolan/ | Kränkande behandling i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/mat-i-forskolan/ | Mat i förskolan
+  https://www.sollentuna.se/forskola--skola/Forskola/skolskjuts-i-forskol/ | Skolskjuts i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/forskola--skola/Forskola/sarskilt-stod-i-forskola/ | Särskilt stöd i förskola
+  https://www.sollentuna.se/forskola--skola/Forskola/Oppna-forskolor/ | Öppna förskolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ | Grundskola
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/ | Ansök, hitta och ändra plats
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/ | Hitta och jämför skolor
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/profilklasser/ | Profilklasser
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-edsberg-vaxmora-och-sjoberg/ | Skolor i Edsberg, Vaxmora och Sjöberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-helenelund/ | Skolor i Helenelund
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-haggvik-norrviken-och-viby/ | Skolor i Häggvik, Norrviken och Viby
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-rotebro/ | Skolor i Rotebro
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/hitta-och-jamfor-skolor/skolor-i-tureberg/ | Skolor i Tureberg
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/skolansokan/ | Skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/ | Information på flera språk om skolansökan
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/engelska/ | Engelska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/dari/ | Dari
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/somaliska/ | Somaliska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/persiska/ | Persiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/information-pa-flera-sprak-om-skolansokan/arabiska/ | Arabiska
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/sa-har-fordelas-platserna/ | Så här fördelas platserna
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/soka-skola-i-en-annan-kommun/ | Söka skola i en annan kommun
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/elever-fran-andra-kommuner/ | Elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/grundskola/ansok-hitta-och-andra-plats-i-grundskola/blanketter-och-e-tjanster/ | Blanketter och e-tjänster
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/ | Du är viktig
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/---------/ | با درو د سرپرست گرامی ، نکاتی درباره اهمیت شما
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/hello-custodial-parent---you-are-important/ | Hello custodial parent - you are important
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/------/ | سلام سرپرستان - شما مهم هستید
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/-----------/ | مرحبا بولي الأمر وأسعد الله أوقتك – أنت شخص ذو أهمي ة
+  https://www.sollentuna.se/forskola--skola/grundskola/du-ar-viktig/waa-salaaman-tahay-waalid---qof-muhiim-ah-ayaa-tahay/ | Waa salaaman tahay waalid - qof muhiim ah ayaa tahay
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/ | Elevhälsan i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/medicinsk-elevhalsa/ | Medicinsk elevhälsa
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/egenvard-i-skolan/ | Egenvård i skolan
+  https://www.sollentuna.se/forskola--skola/grundskola/elevhalsan-i-skolan/elevhalsans-webbportal/ | Elevhälsans webbportal
+  https://www.sollentuna.se/forskola--skola/grundskola/extra-anpassning-sarskilt-stod/ | Extra anpassning, särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/fritidshem/ | Fritidshem
+  https://www.sollentuna.se/forskola--skola/grundskola/krankande-behandling/ | Kränkande behandling
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/ | Läsårstider
+  https://www.sollentuna.se/forskola--skola/grundskola/lasarstider/lovskolan/ | Lovskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/grundskola/modersmal/ | Modersmål
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/ | Skolan och omvärlden
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/internationella-utbyten/ | Internationella utbyten
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/erasmus/ | Erasmus+
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/modern-arbetslivsorientering-moa/ | Arbetslivsorientering
+  https://www.sollentuna.se/forskola--skola/grundskola/skolan-och-omvarlden/prao-i-hostadiet/ | PRAO i högstadiet
+  https://www.sollentuna.se/forskola--skola/grundskola/skolplikt-och-franvaro/ | Skolplikt och frånvaro
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/ | Skolskjuts, skolresor
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/for-dig-som-har-beviljats-skolskjuts/ | För dig som har beviljats skolskjuts
+  https://www.sollentuna.se/forskola--skola/grundskola/skolskjuts-skolresor/Skolskjuts-for-elever-med-behov-av-sarskilt-stod/ | Skolskjuts för elever i behov av särskilt stöd
+  https://www.sollentuna.se/forskola--skola/grundskola/specialskolan/ | Specialskolan
+  https://www.sollentuna.se/forskola--skola/grundskola/svenska-som-andrasprak/ | Svenska som andraspråk
+  https://www.sollentuna.se/forskola--skola/grundskola/synpunkter-och-klagomal-skolan/ | Synpunkter och klagomål på skola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/ | Gymnasieskola
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/fri-kvot/ | Fri kvot
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/gymnasieskolor/ | Gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/idrottsutbildningar/ | Idrottsutbildningar
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/mat-lunch/ | Mat, lunch
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/Resor/ | Skolresor
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/studera-pa-annan-ort-eller-pa-distans/ | Studera på annan ort eller på distans
+  https://www.sollentuna.se/forskola--skola/gymnasieskola/utan-plats-pa--gymnasiet/ | Utan plats på gymnasiet
+  https://www.sollentuna.se/forskola--skola/forsakringar/ | Försäkringar
+  https://www.sollentuna.se/forskola--skola/nyanlanda-och-asylsokande/ | Nyanlända och asylsökande
+  https://www.sollentuna.se/forskola--skola/skolplattformen-infomentor/ | Skolplattformen Infomentor
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/ | Sollentuna lärarpris
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/pristagare-2025/ | Pristagare 2025
+  https://www.sollentuna.se/forskola--skola/sollentuna-lararpris/tidigare-stipendiater/ | Tidigare stipendiater
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/ | Utförare skola – verktyg och stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/barn-och-elever-fran-andra-kommuner/ | Barn och elever från andra kommuner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/blanketter-for-utforare/ | Blanketter för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/ | För gymnasieskolor
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/programinriktat-val-imv/ | Programinriktat val (IMV)
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/for-gymnasieskolor/forlangd-undervisning/ | Förlängd undervisning
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/lamna-in-slutbetyg/ | Lämna in slutbetyg
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/ | Pedagogiskt stöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/Lokala-utvecklingscentra/ | Lokala utvecklingscentra
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/lararcoacher/ | Lärarcoacher
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/pedagogiskt-stod/svenska/ | STL - Skriva sig till lärande
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/skolfranvaro-for-utforare/ | Skolfrånvaro för utförare
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ | Stödfunktioner
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/anpassningar-stod-och-atgardsprogram/ | Anpassningar, stöd och åtgärdsprogram
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/forskolestod/ | Förskolestöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/skolstod/ | Skolstöd
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/sarskilt-stod-i-forskolan/ | Särskilt stöd i förskolan
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/stodfunktioner/ytterligare-ar-i-skola/ | Ytterligare år i skola
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/ | Tilläggsbelopp
+  https://www.sollentuna.se/forskola--skola/utforare-skola--verktyg-och-stod/tillaggsbelopp/tillaggsbelopp-for-modersmal/ | Tilläggsbelopp för modersmål
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/ | Vuxenutbildning och VFU
+  https://www.sollentuna.se/forskola--skola/vuxenutbildning/vfu/ | VFU - Praktik för lärarstudenter
+  https://www.sollentuna.se/omsorg--stod/ | Omsorg & stöd
+  https://www.sollentuna.se/omsorg--stod/Akut-socialt-stod/ | Akut social hjälp och jourer
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/ | Borgerlig vigsel
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselalternativ/ | Vigselalternativ
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/vigselforrattare/ | Vigselförrättare
+  https://www.sollentuna.se/omsorg--stod/Borgerlig-vigsel/Borgerlig-begravning/ | Borgerlig begravning
+  https://www.sollentuna.se/omsorg--stod/aldre/ | Äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/ansok-om-aldreomsorg/ | Ansök om äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/ | Hemtjänst för dig som är äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/trygghetslarm-och-digitala-las/ | Trygghetslarm och digitala lås
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/ | Hjälp i hemmet
+  https://www.sollentuna.se/omsorg--stod/aldre/hemtjanst/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassningsbidrag
+  https://www.sollentuna.se/omsorg--stod/aldre/dagverksamhet/ | Dagverksamhet
+  https://www.sollentuna.se/omsorg--stod/aldre/boende-for-dig-som-ar-aldre/ | Omvårdnadsboende för äldre
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/ | Avgifter inom äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/sa-har-beraknar-vi-din-avgift/ | Så här beräknar vi din avgift
+  https://www.sollentuna.se/omsorg--stod/aldre/avgifter-inom-aldreomsorg/autogiro-och-e-faktura-for-aldreomsorg/ | Autogiro och e-faktura för äldreomsorg
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/ | Anhörigstöd
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/ | Aktiviteter
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/aktiviteter/anhoriggrupp/ | Anhöriggrupper
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/ | Demens
+  https://www.sollentuna.se/omsorg--stod/aldre/anhorigstod/demens/hjarnhoppet-livsstilsprogram/ | Hjärnhoppet livsstilsprogram
+  https://www.sollentuna.se/omsorg--stod/aldre/synpunkter-och-klagomal/ | Synpunkter och klagomål inom vård och omsorg
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ | Familj, barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ | Stöd till barn och ungdom
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/laxhjalp-pa-biblioteken/ | Läxhjälp på biblioteken
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/brottsutsatta-ungdomar/ | Brottsutsatta ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Faltteamet/ | Fältteamet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/insatser-for-unga-16-29-ar/ | Insatser för unga 16-29 år
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/samverkan-mellan-skola-socialtjanst-polis-och-fritid/ | Samverkan mellan skola, socialtjänst, polis och fritid
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/Ungdomsmottagning/ | Ungdomsmottagning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/stod-till-barn-och-unga/ung-och-utsatt/ | Utsatt för våld
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeradgivning/ | Familjerådgivning
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/ | Föräldrastöd
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/foraldragrupper/ | Föräldragrupper
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/enskilt-stod-till-foraldrar/ | Enskilt stöd till föräldrar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/foraldrastod/familjerummet/ | Familjerummet
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/ | Barn som far illa
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/barn-som-far-illa/Hur-gar-en-utredning-till/ | Hur går en utredning om oro för barn till?
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/ | Drogförebyggande arbete
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/kommunens-forebyggande-arbete/till-foraldrar-om-alkohol-droger-tobak-och-spel/ | Till föräldrar om alkohol, droger, tobak och spel
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjeratt/ | Familjerätt
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/ | Familjecentraler
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Turebergs-familjecentral/ | Turebergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/Rotebros-familjecentral/ | Rotebros familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/Familjecentraler/edsbergs-familjecentral/ | Edsbergs familjecentral
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/ | Familjehem, kontaktfamilj och kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/bli-familjehem-kontaktperson/ | Bli familjehem, kontaktperson
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Familjehem/ | Familjehem för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/kontaktperson/ | Kontaktperson för barn, ungdomar och vuxna
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/familjehem-och-kontaktfamilj/Kontaktfamilj/ | Kontaktfamilj för barn och ungdomar
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ | Ung och Placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/ditt-boende-nar-du-ar-placerad/ | Ditt boende när du är placerad
+  https://www.sollentuna.se/omsorg--stod/familj-barn-och-ungdom/ung-och-placerad/tips-fran-placerade-ungdomar/ | Tips från placerade ungdomar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ | Funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/ | Ansök om stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/ | Tips inför vuxenlivet
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/vad-kan-jag-gora-nar-skolan-slutar/ | Vad kan jag göra när skolan slutar?
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/flytta-hemifran/ | Flytta hemifrån
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/ansok-om-stod-och-service/tips-for-dig-som-ska-sluta-skolan/lite-andra-saker-som-kan-vara-bra-att-veta/ | Ersättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ | Stöd i vardagen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/avlosarservice/ | Avlösarservice funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/boendestod/ | Boendestöd funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/bostadsanpassning/ | Bostadsanpassning för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/hemtjanst/ | Hemtjänst för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/kontaktperson/ | Kontaktperson
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/ledsagarservice/ | Ledsagarservice
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/ | Personlig assistans
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/hjalp-i-hemmet/personlig-assistans/assistansanordnare/ | Assistansanordnare
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/korttidstillsyn/ | Korttidstillsyn för ungdom
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/ | Boende och korttidsstöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/ | Bostad med särskild service
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/bostad-med-sarskild-service/kommunalt-bostadsbidrag/ | Kommunalt bostadsbidrag, grupp- och servicebostad
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/boende/korttidsvistelse/ | Korttidsvistelse
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/arbete-och-daglig-sysselsattning/ | Arbete och daglig sysselsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/ | Fritid och aktiviteter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/traffpunkt-solstralen/ | Träffpunkt Solstrålen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/musikcafe-eldqvarn/ | Musikcafé Eldqvarn
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/trana-och-ma-bra/ | Träna och må bra
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/danskvallar/ | Danskvällar
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/funkisfestivalen/ | Funkisfestivalen
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/fritidsaktiviteter/foreningar-for-dig-med-funktionsnedsattning/ | Föreningar för dig med funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/ | Avgifter och rättigheter
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/synpunkter-och-klagomal/ | Synpunkter och klagomål
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/radgivning-och-personligt-stod/ | Rådgivning och personligt stöd
+  https://www.sollentuna.se/omsorg--stod/funktionsnedsattning/avgifter-for-service-inom-omsorg/tandvard/ | Tandvård för dig med beviljad insats
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/ | Ekonomiskt stöd och rådgivning
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/ | Ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/etjanst-ekonomiskt-bistand/ | e-tjänst för ekonomiskt bistånd
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Ekonomiskt-bistand/Vad-ingar-i-forsorjningsstodet/ | Vad ingår i försörjningsstödet?
+  https://www.sollentuna.se/omsorg--stod/ekonomiskt-stod-och-radgivning/Budget--och-skuldradgivning/ | Budget- och skuldrådgivning
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/ | Soc för barn och unga
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ | När kan socialtjänsten hjälpa till?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/socialtjansten-kan-hjalpa-dig-pa-olika-satt/ | Socialtjänsten kan hjälpa dig på olika sätt
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/ovriga-verksamheter-som-kan-hjalpa-dig/ | Övriga verksamheter som kan hjälpa dig
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/fragor-och-svar-om-soc/ | Frågor och svar om soc
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/det-har-ar-socialtjansten/om-du-inte-kan-bo-kvar-hemma/ | Om du inte kan bo kvar hemma
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/ | Så här får du kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/sa-har-far-du-kontakt-med-oss/vad-hander-nar-du-tar-kontakt/ | Vad händer när du kontaktar oss?
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/ | Du som redan har kontakt med socialtjänsten
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/du-som-redan-har-kontakt-med-socialtjansten/fragor-och-svar-for-dig-som-redan-har-kontakt-med-soc/ | Frågor och svar för dig som redan har kontakt med SOC
+  https://www.sollentuna.se/omsorg--stod/soc_for_unga/lararhandledning/ | Lärarhandledning, Soc för unga
+  https://www.sollentuna.se/omsorg--stod/Dodsfall/ | Dödsfall och dödsboanmälan
+  https://www.sollentuna.se/omsorg--stod/hemloshet/ | Hemlöshet
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/ | Integration och mottagande
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/ | För dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/motesplats-pa-sollentuna-bibliotek/ | Mötesplats på Sollentuna bibliotek
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/for-dig-som-ar-ny-i-sverige/kultur-och-fritid-for-dig-som-ar-ny-i-sverige/ | Kultur och fritid för dig som är ny i Sverige
+  https://www.sollentuna.se/omsorg--stod/integration-och-mottagande-i-sollentuna/safungerarflyktingmottagandet/ | Så här fungerar flyktingmottagandet
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/ | Missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/hjalp-vid-missbruk-och-beroende/ | Hjälp vid missbruk och beroende
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Anmala-att-nagon-far-illa/ | Anmäla att någon far illa
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/MiniMaria---for-dig-som-ar-ung/ | Mini-Maria - för dig som är ung
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/Hur-gar-en-utredning-till/ | Hur går en utredning om missbruk till?
+  https://www.sollentuna.se/omsorg--stod/Missbruk-och-beroende/spelberoende/ | Spelberoende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ | Psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/akut-psykiatriskt-stod/ | Akut psykiatriskt stöd
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/ | Aktiviteter för dig med psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/gemenskap/friskvard/ | Friskvård
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Boendestod/ | Boendestöd psykisk funktionsnedsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Intresse--och-brukarforeningar/ | Föreningar psykisk funktionsnedstättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/kontaktperson-vuxen/ | Kontaktperson vuxen
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Personligt-ombud/ | Personligt ombud
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Stodboendesarskilt-boende/ | Stödboende/särskilt boende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Sysselsattning/ | Sysselsättning
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Akerbo-korttidsboende/ | Tillfälligt stödboende
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/ture-trafflokal/ | Ture Träfflokal
+  https://www.sollentuna.se/omsorg--stod/Psykisk-ohalsa/Uppsokande-verksamhet/ | Socialtjänstens uppsökande verksamhet
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/ | Resor och parkeringstillstånd
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/fardtjanst/ | Färdtjänst
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-vuxna/ | Turbundna resor för vuxna
+  https://www.sollentuna.se/omsorg--stod/resor-och-parkeringstillstand/turbundna-resor-for-barn-och-unga/ | Turbundna resor för barn och unga
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/ | Stöd vid hot, våld och extremism
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/bryta-kriminell-livsstil/ | Bryta kriminell livsstil
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/manniskohandel-och-sex-mot-ersattning/ | Människohandel och sex mot ersättning
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/ | Våld i nära relation
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/en-manad-fri-fran-vald-i-nordvast/ | En månad fri från våld i nordväst
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/vald-i-nara-relation/du-som-utovar-hot-ocheller-vald/ | Hjälp och stöd till förändring av våldsbeteende
+  https://www.sollentuna.se/omsorg--stod/stod-vid-hot-vald-och-extremism/valdsbejakande-extremism/ | Våldsbejakande extremism
+  https://www.sollentuna.se/bygga-bo--miljo/ | Bygga, bo & miljö
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/ | Stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ | Detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-i-sollentuna/ | Pågående detaljplaner
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/detaljplaner-samrad-granskning/ | Detaljplaner på samråd och granskning
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/Om-detaljplaner/ansokan-planbesked/ | Ansökan planbesked
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/ | Områden för stadsutveckling
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/edsberg-vaxer/ | Edsberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/ | Helenelund
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/helenelund/Centrala-Helenelund/ | Tvärbanan och kvarteret Hoppet
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/stadsutveckling-rotebro/ | Rotebro
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/sodra-haggvik/ | Södra Häggvik
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/ | Tureberg
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/centrala-tureberg/malmplan/ | Malmplan
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/stadsutvecklingsomraden/Vasjon/ | Väsjön
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/ | Byggprojekt
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/byggprojekt/marksanering/ | Sanering av mark
+  https://www.sollentuna.se/bygga-bo--miljo/stadsutveckling/oversiktsplan/ | Översiktsplan
 
 KF: 2026-01-13, 2026-03-26, 2026-10-15, 2026-10-23, 2026-12-10
 KS: 2026-03-26, 2026-10-15, 2026-10-16

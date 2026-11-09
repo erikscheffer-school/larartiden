@@ -12,26 +12,598 @@ Sidor (poäng):
  16  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html  Socialnämnden - Kumla kommun
  16  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html  Valnämnden - Kumla kommun
  14  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html  Sammanträdestider - Kumla kommun
+ 10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html  Diarium - Kumla kommun
+ 10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html  Politiker, sök - Kumla kommun
  10  https://etjanst.kumla.se/oversikt/overview/452  Titta på kommunfullmäktiges möten - Kumla kommun
  10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html  Aktförvaring - Kumla kommun
  10  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html  Annonsredovisning - Kumla kommun
-  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html  Demokrati och insyn - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html  Beslut, insyn och rättssäkerhet - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/overklaga-beslut.html  Överklaga beslut - Kumla kommun
-  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html  Diarium - Kumla kommun
-  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html  Politiker, sök - Kumla kommun
+  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html  Demokrati och insyn - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium/regler-for-sekretess.html  Regler för sekretess - Kumla kommun
   9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html  Synpunkter, medborgarinitiativ och klagomål - Kumla kommun
-  7  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-05-vi-sager-grattis-till-arets-ungdomsledarstipendiater.html  Vi säger grattis till årets ungdomsledar­stipendiater! - Kumla kommun
-  4  https://www.kumla.se/  Kumla kommun - Startsida
-  4  https://www.kumla.se/?s=kallelse+kommunfullm%C3%A4ktige  Kumla kommun - Startsida
+  9  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal/synpunkter.html  Synpunkter - Kumla kommun
   3  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/visselblasarfunktion.html  Visselblåsarfunktion - Kumla kommun
-  2  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-04-bluffsamtal-om-avloppsspolning.html  Bluffsamtal om avloppsspolning - Kumla kommun
-  2  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-04-badhusgatan-fortsatt-avstangd.html  Badhusgatan fortsatt avstängd - Kumla kommun
-  2  https://www.kumla.se/kommun-och-politik/nyheter/nyheter/2026-11-02-pagaende-ventilationsarbete-pa-kumla-bibliotek.html  Pågående ventilationsarbete på Kumla bibliotek - Kumla kommun
   1  https://www.kumla.se/kommun-och-politik/politikerportal.html  Politikerportal - Kumla kommun
   1  https://www.kumla.se/kommun-och-politik/agenda-2030.html  Agenda 2030 - Kumla kommun
-  0  https://meetings.kumla.se/AuthorizationServer/Account/login?client_id=IWP123&client_secret=IWP123&redirect_uri=https%3a%2f%2fmeetings.kumla.se%2f&language=sv  Logga in
+
+Länkar på https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html:
+  https://kumla.humany.net/kumlachatt | 
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#sidans-innehall | Hoppa till innehåll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Hoppa till undermeny
+  https://www.kumla.se/ | 
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html#menu | Meny
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/ | Startsida
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fmoten-handlingar-och-protokoll.html | Google +
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_f36d14315437bafd792509&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html&voice=Maja | Lyssna
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa
+  https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar
+  https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan
+  https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla
+  https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering
+  https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål
+  https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar
+  https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk
+  https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan
+  https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor
+  https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset
+  https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet
+  https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd
+  https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp
+  https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd
+  https://www.kumla.se/omsorg-och-stod/demens.html | Demens
+  https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare
+  https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd
+  https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa
+  https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst
+  https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning
+  https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete
+  https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration
+  https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning
+  https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk
+  https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa
+  https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering
+  https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots
+  https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård
+  https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning
+  https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg
+  https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer
+  https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation
+  https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek
+  https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt
+  https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken
+  https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar
+  https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler
+  https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser
+  https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv
+  https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden
+  https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla
+  https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter
+  https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler
+  https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning
+  https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov
+  https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur
+  https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning
+  https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag
+  https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier
+  https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter
+  https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö
+  https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer
+  https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel
+  https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård
+  https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete
+  https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg
+  https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT
+  https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg
+  https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator
+  https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser
+  https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning
+  https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering
+  https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling
+  https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss
+  https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter
+  https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat
+  https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | Kommunfullmäktige och kommunstyrelsen
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kultur--och-fritidsnamnden.html | Kultur- och fritidsnämnden
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/myndighetsnamnden.html | Myndighetsnämnden
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/namnd-for-livslangt-larande.html | Nämnd för livslångt lärande
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html | Samhällsbyggnadsnämnden
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html | Socialnämnden
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html | Valnämnden
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/visselblasarfunktion.html | Visselblåsarfunktion
+  https://www.kumla.se/kommun-och-politik/politikerportal.html | Politikerportal
+  https://www.kumla.se/kommun-och-politik/styrande-dokument.html | Styrande dokument
+  https://www.kumla.se/kommun-och-politik/digitalisering.html | Digitalisering
+  https://www.kumla.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://www.kumla.se/kommun-och-politik/fakta-om-kommunen.html | Fakta om kommunen
+  https://www.kumla.se/kommun-och-politik/press.html | Press
+  https://www.kumla.se/kommun-och-politik/kumlas-platsvarumarke.html | Kumlas platsvarumärke
+  https://www.kumla.se/kommun-och-politik/vision-2040.html | Vision 2040
+  https://www.kumla.se/kommun-och-politik/agenda-2030.html | Agenda 2030
+  https://www.kumla.se/kommun-och-politik/medborgarskapsceremoni.html | Medborgarskapsceremoni
+  https://www.kumla.se/kommun-och-politik/samarbeten.html | Samarbeten
+  https://www.kumla.se/kommun-och-politik/sakerhet-och-beredskap.html | Säkerhet och beredskap
+  https://www.kumla.se/kommun-och-politik/information-med-anledning-av-kriget-i-ukraina.html | Information med anledning av kriget i Ukraina
+  https://www.kumla.se/kommun-och-politik/brottsforebyggande-arbete.html | Brottsförebyggande arbete
+  https://www.kumla.se/kommun-och-politik/arkiv-och-slaktforskning.html | Arkiv och släktforskning
+  https://www.kumla.se/kommun-och-politik/nyheter.html | Nyheter
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | Ta del av kallelser och protokoll tillhörande kommunfullmäktige och kommunstyrelsen, samt protokoll 
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kommunfullmaktige-och-kommunstyrelsen.html | ommunstyrelsens arbetsutskott.
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/kultur--och-fritidsnamnden.html | Ta del av kallelser och protokoll tillhörande kultur- och fritidsnämnden.
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/myndighetsnamnden.html | Ta del av kallelser och protokoll tillhörande myndighetsnämnden.
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/namnd-for-livslangt-larande.html | Ta del av kallelser och protokoll tillhörande nämnd för livslångt lärande, samt protokoll från nämnd
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html | Ta del av kallelser och protokoll tillhörande samhällsbyggnadsnämnden, samt protokoll från samhällby
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/socialnamnden.html | Ta del av kallelser och protokoll tillhörande socialnämnden.
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll/valnamnden.html | Ta del av kallelser och protokoll tillhörande valnämnden.
+  https://etjanst.kumla.se/oversikt/overview/278 | Lämna medborgarinitiativ Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/745 | Anmäla fel och lämna synpunkt på gator och parkmiljöer Länk till annan webbplats, öppnas i nytt föns
+  https://etjanst.kumla.se/oversikt/overview/914 | Lämna synpunkter och klagomål på socialförvaltningens verksamheter Länk till annan webbplats, öppnas
+  https://etjanst.kumla.se/oversikt/overview/444 | Lämna klagomål på barnomsorg, skola och fritidshem Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/452 | Titta på kommunfullmäktiges möten Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Klicka här för aktuella dagar.
+  https://www.kumla.se/om-webbplatsen.html | Om webbplatsen
+  http://outlook.office.com/ | Kommunanställdas webbmail Länk till annan webbplats, öppnas i nytt fönster.
+
+Länkar på https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html:
+  https://kumla.humany.net/kumlachatt | Öppna
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html#sidans-innehall | Hoppa till innehåll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html#menu | Hoppa till undermeny
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html#menu | Hoppa till undermeny
+  https://www.kumla.se/ | 
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html#menu | Meny
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/ | Startsida
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet
+  https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Fbeslut-insyn-och-rattssakerhet%2Foffentlig-handling.html | Google +
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_f36d14315437bafd793815&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html&voice=Maja | Lyssna
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa
+  https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar
+  https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan
+  https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla
+  https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering
+  https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål
+  https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar
+  https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk
+  https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan
+  https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor
+  https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset
+  https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet
+  https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd
+  https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp
+  https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd
+  https://www.kumla.se/omsorg-och-stod/demens.html | Demens
+  https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare
+  https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd
+  https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa
+  https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst
+  https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning
+  https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete
+  https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration
+  https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning
+  https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk
+  https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa
+  https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering
+  https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots
+  https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård
+  https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning
+  https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg
+  https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer
+  https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation
+  https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek
+  https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt
+  https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken
+  https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar
+  https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler
+  https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser
+  https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv
+  https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden
+  https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla
+  https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter
+  https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler
+  https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning
+  https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov
+  https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur
+  https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning
+  https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag
+  https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier
+  https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter
+  https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö
+  https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer
+  https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel
+  https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård
+  https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete
+  https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg
+  https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT
+  https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg
+  https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator
+  https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser
+  https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning
+  https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering
+  https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling
+  https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss
+  https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter
+  https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat
+  https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/offentlig-handling.html | Offentlig handling
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet/overklaga-beslut.html | Överklaga beslut
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/visselblasarfunktion.html | Visselblåsarfunktion
+  https://www.kumla.se/kommun-och-politik/politikerportal.html | Politikerportal
+  https://www.kumla.se/kommun-och-politik/styrande-dokument.html | Styrande dokument
+  https://www.kumla.se/kommun-och-politik/digitalisering.html | Digitalisering
+  https://www.kumla.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://www.kumla.se/kommun-och-politik/fakta-om-kommunen.html | Fakta om kommunen
+  https://www.kumla.se/kommun-och-politik/press.html | Press
+  https://www.kumla.se/kommun-och-politik/kumlas-platsvarumarke.html | Kumlas platsvarumärke
+  https://www.kumla.se/kommun-och-politik/vision-2040.html | Vision 2040
+  https://www.kumla.se/kommun-och-politik/agenda-2030.html | Agenda 2030
+  https://www.kumla.se/kommun-och-politik/medborgarskapsceremoni.html | Medborgarskapsceremoni
+  https://www.kumla.se/kommun-och-politik/samarbeten.html | Samarbeten
+  https://www.kumla.se/kommun-och-politik/sakerhet-och-beredskap.html | Säkerhet och beredskap
+  https://www.kumla.se/kommun-och-politik/information-med-anledning-av-kriget-i-ukraina.html | Information med anledning av kriget i Ukraina
+  https://www.kumla.se/kommun-och-politik/brottsforebyggande-arbete.html | Brottsförebyggande arbete
+  https://www.kumla.se/kommun-och-politik/arkiv-och-slaktforskning.html | Arkiv och släktforskning
+  https://www.kumla.se/kommun-och-politik/nyheter.html | Nyheter
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Klicka här för att komma till vårt diarium på webben.
+  https://www.kumla.se/download/18.79db846e194d84e2c1cf117/1740388612029/Utl%C3%A4mnande%20av%20allm%C3%A4nna%20handlingar.pdf | Klicka här för att läsa mer om taxa för kopior av allmänna handlingar. pdf, 174.1 kB.
+  https://etjanst.kumla.se/oversikt/overview/278 | Lämna medborgarinitiativ Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/745 | Anmäla fel och lämna synpunkt på gator och parkmiljöer Länk till annan webbplats, öppnas i nytt föns
+  https://etjanst.kumla.se/oversikt/overview/914 | Lämna synpunkter och klagomål på socialförvaltningens verksamheter Länk till annan webbplats, öppnas
+  https://etjanst.kumla.se/oversikt/overview/444 | Lämna klagomål på barnomsorg, skola och fritidshem Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/452 | Titta på kommunfullmäktiges möten Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/styrande-dokument/kommunal-forfattningssamling.html | Utskriftstaxa för allmänna handlingar Öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Klicka här för aktuella dagar.
+  https://www.kumla.se/om-webbplatsen.html | Om webbplatsen
+  http://outlook.office.com/ | Kommunanställdas webbmail Länk till annan webbplats, öppnas i nytt fönster.
+
+Länkar på https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html:
+  https://kumla.humany.net/kumlachatt | Öppna
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html#sidans-innehall | Hoppa till innehåll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html#menu | Hoppa till undermeny
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html#menu | Hoppa till undermeny
+  https://www.kumla.se/ | 
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakt
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html#menu | Meny
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/ | Startsida
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://plus.google.com/share?url=https%3A%2F%2Fwww.kumla.se%2Fkommun-och-politik%2Fdemokrati-och-insyn%2Frevisionens-granskningar.html | Google +
+  https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=5928&lang=sv_se&readid=svid94_4bfb9f56163915715096f5&url=https%3A//www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html&voice=Maja | Lyssna
+  https://www.kumla.se/utbildning-och-barnomsorg.html | Utbildning och barnomsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/anpassad-grundskola.html | Anpassad grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/elevhalsa.html | Elevhälsa
+  https://www.kumla.se/utbildning-och-barnomsorg/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/utbildning-och-barnomsorg/forskola-och-pedagogisk-omsorg.html | Förskola och Pedagogisk omsorg
+  https://www.kumla.se/utbildning-och-barnomsorg/forsakringar.html | Försäkringar
+  https://www.kumla.se/utbildning-och-barnomsorg/foraldrasamverkan.html | Föräldrasamverkan
+  https://www.kumla.se/utbildning-och-barnomsorg/grundskola.html | Grundskola
+  https://www.kumla.se/utbildning-och-barnomsorg/gymnasieskola-for-ungdomar-bosatta-i-kumla.html | Gymnasieskola för ungdomar bosatta i Kumla
+  https://www.kumla.se/utbildning-och-barnomsorg/inneboende-inackordering.html | Inneboende, inackordering
+  https://www.kumla.se/utbildning-och-barnomsorg/klagomal.html | Klagomål
+  https://www.kumla.se/utbildning-och-barnomsorg/kommunens-aktivitetsansvar.html | Kommunens aktivitetsansvar
+  https://www.kumla.se/utbildning-och-barnomsorg/kunskap-i-fokus.html | Kunskap i fokus
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/utbildning-och-barnomsorg/miljon-i-skolan.html | Miljön i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/modersmal-minoritetssprak.html | Modersmål, minoritetsspråk
+  https://www.kumla.se/utbildning-och-barnomsorg/naturskolan.html | Naturskolan
+  https://www.kumla.se/utbildning-och-barnomsorg/om-infomentor.html | Om InfoMentor
+  https://www.kumla.se/utbildning-och-barnomsorg/pedagogiska-priset.html | Pedagogiska priset
+  https://www.kumla.se/utbildning-och-barnomsorg/praktik-i-skolan.html | Praktik i skolan
+  https://www.kumla.se/utbildning-och-barnomsorg/starta-enskild-verksamhet.html | Starta enskild verksamhet
+  https://www.kumla.se/utbildning-och-barnomsorg/studie--och-yrkesvagledning.html | Studie- och yrkesvägledning
+  https://www.kumla.se/utbildning-och-barnomsorg/sarskilda-behov-extra-stod.html | Särskilda behov, extra stöd
+  https://www.kumla.se/utbildning-och-barnomsorg/vuxenutbildning.html | Vuxenutbildning
+  https://www.kumla.se/omsorg-och-stod.html | Omsorg och stöd
+  https://www.kumla.se/omsorg-och-stod/akut-hjalp.html | Akut hjälp
+  https://www.kumla.se/omsorg-och-stod/anhorigstod.html | Anhörigstöd
+  https://www.kumla.se/omsorg-och-stod/demens.html | Demens
+  https://www.kumla.se/omsorg-och-stod/digital-fixare.html | Digital fixare
+  https://www.kumla.se/omsorg-och-stod/ekonomiskt-stod.html | Ekonomiskt stöd
+  https://www.kumla.se/omsorg-och-stod/familj-barn-och-ungdom.html | Familj, barn och ungdom
+  https://www.kumla.se/omsorg-och-stod/familjens-hus.html | Familjens Hus
+  https://www.kumla.se/omsorg-och-stod/folkhalsa.html | Folkhälsa
+  https://www.kumla.se/omsorg-och-stod/god-man-forvaltare-formyndare.html | God man, förvaltare, förmyndare
+  https://www.kumla.se/omsorg-och-stod/hemtjanst.html | Hemtjänst
+  https://www.kumla.se/omsorg-och-stod/hjalpmedel-och-bostadsanpassning.html | Hjälpmedel och bostadsanpassning
+  https://www.kumla.se/omsorg-och-stod/halsoframjande-arbete.html | Hälsofrämjande arbete
+  https://www.kumla.se/omsorg-och-stod/invandring-och-integration.html | Invandring och integration
+  https://www.kumla.se/omsorg-och-stod/konsumentvagledning.html | Konsumentvägledning
+  https://www.kumla.se/omsorg-och-stod/missbruk.html | Missbruk
+  https://www.kumla.se/omsorg-och-stod/psykisk-ohalsa.html | Psykisk ohälsa
+  https://www.kumla.se/omsorg-och-stod/rehabilitering.html | Rehabilitering
+  https://www.kumla.se/omsorg-och-stod/seniorlots.html | Seniorlots
+  https://www.kumla.se/omsorg-och-stod/sjukvard-och-tandvard.html | Sjukvård och tandvård
+  https://www.kumla.se/omsorg-och-stod/stod-vid-funktionsnedsattning.html | Stöd vid funktionsnedsättning
+  https://www.kumla.se/omsorg-och-stod/taxor-och-avgifter-for-vard-och-omsorg.html | Taxor och avgifter för vård och omsorg
+  https://www.kumla.se/omsorg-och-stod/tillvaron-for-seniorer.html | Tillvaron för seniorer
+  https://www.kumla.se/omsorg-och-stod/vald-och-hot-i-nara-relation.html | Våld och hot i nära relation
+  https://www.kumla.se/omsorg-och-stod/vard--och-omsorgsboende.html | Vård- och omsorgsboende
+  https://www.kumla.se/uppleva-och-gora.html | Uppleva och göra
+  https://www.kumla.se/uppleva-och-gora/bibliotek.html | Bibliotek
+  https://www.kumla.se/uppleva-och-gora/digital-infartsskylt.html | Digital infartsskylt
+  https://www.djupadalsbadet.se/ | Djupadalsbadet Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/fritidsbanken.html | Fritidsbanken
+  https://www.kumla.se/uppleva-och-gora/foreningar.html | Föreningar
+  https://www.kumla.se/uppleva-och-gora/idrottsanlaggningar-och-lokaler.html | Idrottsanläggningar och lokaler
+  https://www.kumla.se/uppleva-och-gora/kulturskolan.html | Kulturskolan
+  https://www.kumla.se/uppleva-och-gora/bibliotek/barn-och-unga/lasresan.html | Läsresan
+  https://www.kumla.se/uppleva-och-gora/motesplatser.html | Mötesplatser
+  https://www.kumla.se/uppleva-och-gora/natur-och-friluftsliv.html | Natur och friluftsliv
+  https://www.kumla.se/uppleva-och-gora/parker-och-gronomraden.html | Parker och grönområden
+  https://www.kumla.se/uppleva-och-gora/senior-i-kumla.html | Senior i Kumla
+  https://www.kumla.se/uppleva-och-gora/sevardheter.html | Sevärdheter
+  https://www.visitkumla.se/ | Turistinformation Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/uppleva-och-gora/ung-i-kumla.html | Ung i Kumla
+  https://www.kumla.se/bygga-bo-och-miljo.html | Bygga, bo och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/avfall-och-atervinning.html | Avfall och återvinning
+  https://www.kumla.se/bygga-bo-och-miljo/bostader-och-offentliga-lokaler.html | Bostäder och offentliga lokaler
+  https://www.kumla.se/bygga-bo-och-miljo/brandskydd-och-sotning.html | Brandskydd och sotning
+  https://www.kumla.se/bygga-bo-och-miljo/bygglov.html | Bygglov
+  https://www.kumla.se/bygga-bo-och-miljo/djur.html | Djur
+  https://www.kumla.se/bygga-bo-och-miljo/energi-och-uppvarmning.html | Energi och uppvärmning
+  https://www.kumla.se/bygga-bo-och-miljo/kartor-och-matuppdrag.html | Kartor och mätuppdrag
+  https://www.kumla.se/bygga-bo-och-miljo/kemikalier.html | Kemikalier
+  https://www.kumla.se/bygga-bo-och-miljo/klimatforandringar-och-miljo.html | Klimatförändringar och miljö
+  https://www.kumla.se/bygga-bo-och-miljo/kommunala-tomter.html | Kommunala tomter
+  https://www.kumla.se/bygga-bo-och-miljo/kulturmiljo.html | Kulturmiljö
+  https://www.kumla.se/bygga-bo-och-miljo/kumla-vaxer.html | Kumla växer
+  https://www.kumla.se/bygga-bo-och-miljo/livsmedel.html | Livsmedel
+  https://www.kumla.se/bygga-bo-och-miljo/naturvard.html | Naturvård
+  https://www.kumla.se/bygga-bo-och-miljo/planarbete.html | Planarbete
+  https://www.kumla.se/bygga-bo-och-miljo/samarbete-kumla---hallsberg.html | Samarbete Kumla - Hallsberg
+  https://www.kumla.se/bygga-bo-och-miljo/vatten-och-avlopp.html | Vatten och avlopp
+  https://www.kumla.se/trafik-och-infrastruktur.html | Trafik och infrastruktur
+  https://www.kumla.se/trafik-och-infrastruktur/bredband-och-it.html | Bredband och IT
+  https://www.kumla.se/trafik-och-infrastruktur/buss-och-tag.html | Buss och tåg
+  https://www.kumla.se/trafik-och-infrastruktur/trafik-och-gator.html | Trafik och gator
+  https://www.kumla.se/trafik-och-infrastruktur/torg-och-allmanna-platser.html | Torg och allmänna platser
+  https://www.kumla.se/trafik-och-infrastruktur/renhallning-och-snorojning.html | Renhållning och snöröjning
+  https://www.kumla.se/trafik-och-infrastruktur/samhallsutveckling-och-planering.html | Samhällsutveckling och planering
+  https://www.kumla.se/trafik-och-infrastruktur/cykling.html | Cykling
+  https://www.kumla.se/trafik-och-infrastruktur/parkering.html | Parkering
+  https://www.kumla.se/naringsliv-och-arbetsmarknad.html | Näringsliv och arbetsmarknad
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arbetsmarknadsenheten.html | Arbetsmarknadsenheten
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/ett-blomstrande-naringsliv.html | Ett blomstrande näringsliv
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/foretagsmaraton.html | Företagsmaraton
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/nyhetsbrev.html | Nyhetsbrev
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/naringslivsservice.html | Näringslivsservice
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/tillstand-regler-och-tillsyn.html | Tillstånd, regler och tillsyn
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/upphandling-e-handel-och-inkop.html | Upphandling, e-handel och inköp
+  https://www.kumla.se/naringsliv-och-arbetsmarknad/arets-foretagare.html | Årets företagare
+  https://www.kumla.se/kommun-och-politik.html | Kommun och politik
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Kontakta oss
+  https://www.kumla.se/kommun-och-politik/behandling-av-personuppgifter.html | Behandling av personuppgifter
+  https://www.kumla.se/kommun-och-politik/ekonomi-mal-och-resultat.html | Ekonomi, Mål och resultat
+  https://www.kumla.se/kommun-och-politik/allmanna-val.html | Allmänna val
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn.html | Demokrati och insyn
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/aktforvaring.html | Aktförvaring
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/annonsredovisning.html | Annonsredovisning
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/beslut-insyn-och-rattssakerhet.html | Beslut, insyn och rättssäkerhet
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/diarium.html | Diarium
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/moten-handlingar-och-protokoll.html | Möten, handlingar och protokoll
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/politiker-sok.html | Politiker, sök
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/revisionens-granskningar.html | Revisionens granskningar
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/sammantradestider.html | Sammanträdestider
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/synpunkter-medborgarinitiativ-och-klagomal.html | Synpunkter, medborgarinitiativ och klagomål
+  https://www.kumla.se/kommun-och-politik/demokrati-och-insyn/visselblasarfunktion.html | Visselblåsarfunktion
+  https://www.kumla.se/kommun-och-politik/politikerportal.html | Politikerportal
+  https://www.kumla.se/kommun-och-politik/styrande-dokument.html | Styrande dokument
+  https://www.kumla.se/kommun-och-politik/digitalisering.html | Digitalisering
+  https://www.kumla.se/kommun-och-politik/kommunens-organisation.html | Kommunens organisation
+  https://www.kumla.se/kommun-och-politik/fakta-om-kommunen.html | Fakta om kommunen
+  https://www.kumla.se/kommun-och-politik/press.html | Press
+  https://www.kumla.se/kommun-och-politik/kumlas-platsvarumarke.html | Kumlas platsvarumärke
+  https://www.kumla.se/kommun-och-politik/vision-2040.html | Vision 2040
+  https://www.kumla.se/kommun-och-politik/agenda-2030.html | Agenda 2030
+  https://www.kumla.se/kommun-och-politik/medborgarskapsceremoni.html | Medborgarskapsceremoni
+  https://www.kumla.se/kommun-och-politik/samarbeten.html | Samarbeten
+  https://www.kumla.se/kommun-och-politik/sakerhet-och-beredskap.html | Säkerhet och beredskap
+  https://www.kumla.se/kommun-och-politik/information-med-anledning-av-kriget-i-ukraina.html | Information med anledning av kriget i Ukraina
+  https://www.kumla.se/kommun-och-politik/brottsforebyggande-arbete.html | Brottsförebyggande arbete
+  https://www.kumla.se/kommun-och-politik/arkiv-och-slaktforskning.html | Arkiv och släktforskning
+  https://www.kumla.se/kommun-och-politik/nyheter.html | Nyheter
+  https://www.kumla.se/kommunalanslagstavla | Kommunal anslagstavla
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e8b/1649426980269/Rapport%20Myndighetsn%C3%A4mnd.pdf | Rapport Myndighetsnämnd.pdf Pdf, 489.5 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e8c/1649427083861/Missiv%20granskning%20myndighetsn%C3%A4mnden.pdf | Missiv granskning myndighetsnämnden.pdf Pdf, 133.3 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e8d/1649427196716/Kumla%20Revisorernas%20bed%C3%B6mning%20del%C3%A5r%202021.pdf | Kumla Revisorernas bedömning delår 2021.pdf Pdf, 100 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e8e/1649427257541/Granskningsrapport%20del%C3%A5r%20Kumla%202021.pdf | Granskningsrapport delår Kumla 2021.pdf Pdf, 1.3 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e8f/1649427321647/Rapport%20kvalitetss%C3%A4kring%20av%20HVB-hem%20och%20familjehem.pdf | Rapport kvalitetssäkring av HVB-hem och familjehem.pdf Pdf, 213.6 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176e90/1649427339965/Missiv%20granskning%20HVB.pdf | Missiv granskning HVB.pdf Pdf, 113.4 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176ebd/1649427365544/Rappport%20%C3%96verf%C3%B6rmyndarn%C3%A4mnden%20Kumla.pdf | Rappport Överförmyndarnämnden Kumla.pdf Pdf, 196.4 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176ebe/1649427378882/Missiv%20granskning%20%C3%B6verf%C3%B6rmyndare.pdf | Missiv granskning överförmyndare.pdf Pdf, 130.1 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176ebf/1649427402935/Rapport%20grundskolans%20m%C3%A5luppfyllelse%20slutlig.pdf | Rapport grundskolans måluppfyllelse slutlig.pdf Pdf, 376 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4364832717b9e93a4b176ec0/1649427414420/Missiv%20granskning%20grundskolans%20m%C3%A5luppfyllelse.pdf | Missiv granskning grundskolans måluppfyllelse.pdf Pdf, 134.9 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd62b83e/1560328580139/Revisionsplan%202019%20Kumla%20kommun.pdf | Planering av revisionsinsatser 2019 pdf, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf66497d/1615962244195/Bokslut%20och%20%C3%A5rsredovisning%202019.pdf | Bokslut och årsredovisning 2019.pdf Pdf, 723.2 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf664980/1615962244659/Missiv,%20bokslut%20och%20%C3%A5rsredovisning%202019.pdf | Missiv, bokslut och årsredovisning 2019.pdf Pdf, 18 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf664983/1615962244862/Revisionsber%C3%A4ttelse%202019,%20inkl.%20bilagor.pdf | Revisionsberättelse 2019, inkl. bilagor.pdf Pdf, 4.4 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf66497f/1615962244544/Grundl%C3%A4ggande%20granskning%202019.pdf | Grundläggande granskning 2019.pdf Pdf, 1.9 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf664982/1615962244788/Missiv,%20grundl%C3%A4ggande%20granskning%202019.pdf | Missiv, grundläggande granskning 2019.pdf Pdf, 15.8 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.63f887481746db1fdf66497e/1615962244403/Effektivitet%20och%20kvalitet%20inom%20%C3%A4ldreomsorgen%20och%20LSS-verksamheten.pdf | Effektivitet och kvalitet inom äldreomsorgen och LSS-verksamheten.pdf Pdf, 247.2 kB, öppnas i nytt f
+  https://www.kumla.se/download/18.63f887481746db1fdf664981/1615962244720/Missiv,%20effektivitet%20och%20kvalitet%20inom%20%C3%A4ldreomsorgen%20och%20LSS-verksamheten.pdf | Missiv, effektivitet och kvalitet inom äldreomsorgen och LSS-verksamheten.pdf Pdf, 19.6 kB, öppnas i
+  https://www.kumla.se/download/18.39f2d2ee16f8ec5fcc3157a7/1583399463340/N%C3%A4mndledam%C3%B6ters%20n%C3%A4rvaro.pdf | Nämndledamöters närvaro.pdf Pdf, 4.2 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.39f2d2ee16f8ec5fcc3157a6/1583399391276/Kommunens%20arbete%20f%C3%B6r%20att%20s%C3%A4kerst%C3%A4lla%20kompetensf%C3%B6rs%C3%B6rjningen.pdf | Kommunens arbete för att säkerställa kompetensförsörjningen.pdf Pdf, 5.6 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd62b840/1560328612330/Samverkan%20kring%20barn%20som%20far%20illa%20eller%20%C3%A4r%20i%20riskzonen.pdf | Samverkan kring barn som far illa eller är i riskzonen.pdf Pdf, 4.3 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd65fa8b/1571896198877/Efterlevnad%20av%20hur%20FNs%20konvention%20om%20barns%20r%C3%A4ttigheter%20efterlevs%20i%20Kumla%20kommun.pdf | Efterlevnad av hur FNs konvention om barns rättigheter efterlevs i Kumla kommun.pdf Pdf, 5.4 MB, öpp
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd65fa8c/1571896206149/Bed%C3%B6mning%20av%20del%C3%A5rsrapport%20per%202019-08-31.pdf | Bedömning av delårsrapport per 2019-08-31.pdf Pdf, 4.8 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61bdf9/1556269156046/Planering%20av%20revisionsinsatser%202018.pdf | Planering av revisionsinsatser 2018 pdf, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61bdeb/1556267837756/Bed%C3%B6mning%20av%20kommunens%20%C3%A5rsredovisning%202018.pdf | Bedömning av kommunens årsredovisning 2018.pdf Pdf, 3.4 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61110c/1551681849566/Del%C3%A5rsrapport%202018-06-30.pdf | Delårsrapport 2018-06-30.pdf Pdf, 987.9 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61bdec/1556267837965/Ekonomistyrning%20och%20prognosarbete.pdf | Ekonomistyrning och prognosarbete.pdf Pdf, 1.5 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61110d/1551681849649/Grundl%C3%A4ggande%20granskning%202018.pdf | Grundläggande granskning 2018.pdf Pdf, 1.4 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61bded/1556267838069/L%C3%B6nen%C3%A4mndens%20interna%20kontroll.pdf | Lönenämndens interna kontroll.pdf Pdf, 6.3 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61110e/1551681849751/Uppf%C3%B6ljning%20av%20revisionsprojekt.pdf | Uppföljning av revisionsprojekt.pdf Pdf, 881.2 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.5ab4cfec167b3781bd61110f/1551681849828/Upphandling%20och%20ink%C3%B6p.pdf | Upphandling och inköp.pdf Pdf, 2.4 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d96/1513235073604/Arbetsgivarfr%C3%A5gor.pdf | Arbetsgivarfrågor.pdf Pdf, 342.6 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.4bfb9f56163915715098f9/1530175014551/Bokslut%20och%20%C3%A5rsredovisning%202017.pdf | Bokslut och årsredovisning 2017.pdf Pdf, 5 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d97/1513235073616/Dataskyddsf%C3%B6rordningen.pdf | Dataskyddsförordningen.pdf Pdf, 8.8 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d99/1513235112710/Del%C3%A5rsrapport%20per%202017-06-30.pdf | Delårsrapport per 2017-06-30.pdf Pdf, 7.1 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d9a/1513235112886/Grundl%C3%A4ggande%20granskning,%20enk%C3%A4tunders%C3%B6kning.pdf | Grundläggande granskning, enkätundersökning.pdf Pdf, 2.2 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b867d11/1521733455705/Gymnasieskolan.pdf | Gymnasieskolan.pdf Pdf, 6.7 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d98/1513235073836/Koncernsamordning%20inkl.%20kommunstyrelsens%20uppsikt%20%C3%B6ver%20de%20kommunala%20bolagen.pdf | Koncernsamordning inkl. kommunstyrelsens uppsikt över de kommunala bolagen.pdf Pdf, 257.6 kB, öppnas
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d79/1513233803141/Bist%C3%A5ndshandl%C3%A4ggning%20och%20verkst%C3%A4llighet%20inom%20hemtj%C3%A4nsten.pdf | Biståndshandläggning och verkställighet inom hemtjänsten.pdf Pdf, 1.8 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.3296e61515e5d2e32ec8fb8/1505112014214/Bokslut%20och%20%C3%A5rsredovisning%20f%C3%B6r%202016.pdf | Bokslut och årsredovisning för 2016.pdf Pdf, 1.3 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.3296e61515e5d2e32ec8fba/1505112014332/Del%C3%A5rsrapport%20per%202016-06-30.pdf | Delårsrapport per 2016-06-30.pdf Pdf, 303 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d7c/1513233803320/Skolornas%20f%C3%B6ruts%C3%A4ttningar%20att%20erbjuda%20likv%C3%A4rdig%20utbildning.pdf | Skolornas förutsättningar att erbjuda likvärdig utbildning.pdf Pdf, 4.5 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.3296e61515e5d2e32ec8fb7/1505112014160/Styrande%20dokument.pdf | Styrande dokument.pdf Pdf, 896.3 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.77efad8515ea685e3b858d7b/1513233803276/%C3%96verf%C3%B6rmyndarverksamheten.pdf | Överförmyndarverksamheten.pdf Pdf, 2 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948f3/1462881800417/Servicecenters%20uppdrag%20och%20funktion.pdf | Servicecenters uppdrag och funktion.pdf Pdf, 70 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.3296e61515e5d2e32ec8fb9/1505112014275/Del%C3%A5rsrapport%20per%202015-07-31.pdf | Delårsrapport per 2015-07-31.pdf Pdf, 1.3 MB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd797ce1/1464328879178/%C3%96vergripande%20granskning,%20sammansta%CC%88llning.pdf | Övergripande granskning, sammanställning.pdf Pdf, 187.4 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd797ce2/1464328879218/%C3%96vergripande%20granskning,%20sammansta%CC%88llning%20bilaga.pdf | Övergripande granskning, sammanställning bilaga.pdf Pdf, 328.7 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948fc/1462881895145/Fordon.pdf | Fordon.pdf Pdf, 170.2 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd794900/1462881895289/Ma%CC%8Altidsverksamheten.pdf | Måltidsverksamheten.pdf Pdf, 194.4 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd794902/1462881895494/A%CC%8Atkomstbeho%CC%88righet%20ro%CC%88rande%20IT-funktionen.pdf | Åtkomstbehörighet rörande IT-funktionen.pdf Pdf, 133.2 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd794903/1462881895536/A%CC%88rendehantering.pdf | Ärendehantering.pdf Pdf, 122.6 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948fe/1462881895216/Uppf%C3%B6ljning,%20Kommunfastigheter.pdf | Uppföljning, Kommunfastigheter.pdf Pdf, 85.7 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948fb/1462881895109/Beredskap%20vid%20extraordina%CC%88ra%20ha%CC%88ndelser.pdf | Beredskap vid extraordinära händelser.pdf Pdf, 137.2 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948ff/1462881895253/Kommunstyrelsens%20uppsiktsplikt.pdf | Kommunstyrelsens uppsiktsplikt.pdf Pdf, 91.9 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948fa/1462881895067/Arbetsgivarfra%CC%8Agor.pdf | Arbetsgivarfrågor.pdf Pdf, 201.4 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd7948fd/1462881895182/IT-funktionens%20uppdrag.pdf | IT-funktionens uppdrag.pdf Pdf, 99 kB, öppnas i nytt fönster.
+  https://www.kumla.se/download/18.f36d14315437bafd794901/1462881895328/Process%20f%C3%B6r%20att%20n%C3%A5%20Vision%202025.pdf | Process för att nå Vision 2025.pdf Pdf, 3.7 MB, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/278 | Lämna medborgarinitiativ Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/745 | Anmäla fel och lämna synpunkt på gator och parkmiljöer Länk till annan webbplats, öppnas i nytt föns
+  https://etjanst.kumla.se/oversikt/overview/914 | Lämna synpunkter och klagomål på socialförvaltningens verksamheter Länk till annan webbplats, öppnas
+  https://etjanst.kumla.se/oversikt/overview/444 | Lämna klagomål på barnomsorg, skola och fritidshem Länk till annan webbplats, öppnas i nytt fönster.
+  https://etjanst.kumla.se/oversikt/overview/452 | Titta på kommunfullmäktiges möten Länk till annan webbplats, öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/kommunens-organisation/kumla-kommuns-revision.html | Kumla kommuns revision
+  https://www.kumla.se/kommun-och-politik/driftstorningar.html | Driftstörningar Öppnas i nytt fönster.
+  https://www.kumla.se/kommun-och-politik/kontakta-oss.html | Klicka här för aktuella dagar.
+  https://www.kumla.se/om-webbplatsen.html | Om webbplatsen
+  http://outlook.office.com/ | Kommunanställdas webbmail Länk till annan webbplats, öppnas i nytt fönster.
 
 KF: 
 KS: 
