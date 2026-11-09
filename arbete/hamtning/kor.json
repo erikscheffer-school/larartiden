@@ -1,10 +1,11 @@
 {
  "antal": null,
  "max_sok": 0,
- "kommentar": "2026-11-09: mötessidor för alla kommuner med status 5 (steg 1d) och hämtning. Brave-kvoten är slut (402), så inga Brave-sökningar.",
+ "kommentar": "Ändra och committa den här filen för att starta en hämtning direkt. antal tomt = 3–10 efter poäng. max_sok 0 = ingen allmän Brave-sökning. portaler: true = sök i mötesportalerna och mötessidorna (steg 1b och 1d). budgetsok: true = riktad sökning efter budget 2027 för kommuner med status 5 (budget_max_sok = högsta antal Brave-sökningar). omanalysera: true = hämta inget nytt, analysera om redan hämtade PDF:er.",
  "omanalysera": false,
  "portaler": true,
  "budgetsok": false,
  "budget_max_sok": 0,
- "startad": "2026-11-08 10:30"
+ "startad": "2026-11-09 11.30",
+ "anteckning": "2026-11-09: körs om efter krock med veckokörningen. Brave-kvoten är slut (402), så inga Brave-sökningar."
 }

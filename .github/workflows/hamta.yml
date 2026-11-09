@@ -55,7 +55,7 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils ocrmypdf tesseract-ocr-swe
 
       - name: Återställ hämtade PDF:er
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: |
             .cache/pdf
@@ -145,9 +145,28 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add arbete/hamtning arbete/veckolista arbete/granskning/kort
           git commit -q -m "Veckohämtning $(date +%F): lista att granska" || true
-          git pull -q --rebase origin main
-          git push -q origin HEAD:main || exit 1
-          exit 0
+          # En annan körning kan ha committat under tiden: slå ihop i stället för att tappa resultatet.
+          for forsok in 1 2 3; do
+            if git pull -q --rebase origin main; then
+              git push -q origin HEAD:main && exit 0
+            else
+              while python3 verktyg/hamta/sammanfoga.py; do
+                GIT_EDITOR=true git rebase --continue && break
+              done
+              git push -q origin HEAD:main && exit 0
+            fi
+            sleep 5
+          done
+          exit 1
+
+      - name: Spara hämtade PDF:er i cachen
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            .cache/pdf
+            .cache/sokresultat.json
+          key: pdf-${{ github.run_id }}
 
       - name: Skapa ärende med veckans lista
         if: github.event_name == 'schedule'
