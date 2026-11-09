@@ -114,6 +114,13 @@ jobs:
           BUDGET_MAX_SOK: ${{ steps.inst.outputs.budget_max_sok }}
         run: python3 verktyg/hamta/budgetsok.py
 
+      - name: 1d. Mötessidor, KF/KS-datum och aktuella kallelser
+        if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.portaler == 'true' && steps.inst.outputs.omanalysera != 'true')
+        continue-on-error: true
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python3 verktyg/hamta/motessidor.py --max-sok 120
+
       - name: 2. Hämta dokument
         if: steps.inst.outputs.bara_kort != 'true' && (steps.inst.outputs.omanalysera != 'true')
         run: python3 verktyg/hamta/hamta_dokument.py --max-dokument 900 --max-minuter 130
