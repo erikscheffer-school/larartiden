@@ -85,8 +85,9 @@ class Netpublicator:
         return {"url": f"{self.API}/{rid}/document/{item['id']}?hash={sokvag}",
                 "titel": titel, "beskrivning": titel}
 
-    async def genomsok(self, context, rid):
-        rot = await self.rot_hash(context, rid)
+    async def genomsok(self, context, rid, rot=None):
+        # Rot-hashen kan vara känd från en inbäddad läsare på kommunens webbplats (Sitevision-modul).
+        rot = rot or await self.rot_hash(context, rid)
         if not rot:
             self.logg(f"    Netpublicator {rid}: rot-hashen hittades inte")
             return []
@@ -173,3 +174,110 @@ async def meetingsplus(context, bas, logg=print, max_sidor=40):
         await page.close()
     logg(f"    MeetingsPlus {bas}: {besokta} sidor, {len(ut)} dokument")
     return list(ut.values())
+
+
+async def opengov(context, bas, logg=print, fran="2026-08-15", max_moten=14):
+    """Public 360 OpenGov (opengov.360online.com/Meetings/<KOD>): nämnder -> möten -> filer.
+
+    Mötessidan visar kallelsen som fil. Ärenden på dagordningen som gäller budget eller 2027
+    fälls ut med ett klick, och deras bilagor samlas också."""
+    page = await context.new_page()
+    ut, besokta = {}, 0
+
+    async def ga(url):
+        nonlocal besokta
+        besokta += 1
+        await asyncio.sleep(1.0)
+        await page.goto(url, wait_until="domcontentloaded", timeout=40_000)
+        await page.wait_for_timeout(800)
+        return await page.eval_on_selector_all(
+            "a[href]", "els => els.map(e => [e.href, (e.innerText || '').trim().replace(/\\s+/g, ' ').slice(0, 200)])")
+
+    def filer(lankar, rubrik):
+        for h, t in lankar:
+            if "/File/Details/" in h:
+                titel = f"{rubrik} – {t or h.rsplit('fileName=', 1)[-1]}"
+                ut.setdefault(h, {"url": h, "titel": titel, "beskrivning": titel})
+
+    try:
+        namnder = [(h, t) for h, t in await ga(bas) if "/Boards/Details/" in h and ORGAN.search(t)]
+        moten = []
+        for nurl, namn in namnder[:6]:
+            for h, t in await ga(nurl):
+                d = DATUM.search(t)
+                if "/Meetings/Details/" in h and d and d.group(0) >= fran:
+                    moten.append((d.group(0), h, t))
+        for datum, murl, namn in sorted(set(moten), reverse=True)[:max_moten]:
+            lankar = await ga(murl)
+            filer(lankar, namn)
+            # Fäll ut ärenden om budget och 2027 och samla deras bilagor.
+            n = await page.evaluate("""(re) => { const r = new RegExp(re, 'i'); let n = 0;
+                for (const e of document.querySelectorAll('a, button, [role=button], li, .agenda-item, h3, h4')) {
+                  if (n < 6 && r.test(e.innerText || '') && (e.innerText || '').length < 220) { e.click(); n++; } }
+                return n; }""", ARENDE.pattern)
+            if n:
+                await page.wait_for_timeout(2500)
+                filer(await page.eval_on_selector_all(
+                    "a[href]", "els => els.map(e => [e.href, (e.innerText || '').trim().replace(/\\s+/g, ' ').slice(0, 200)])"),
+                    namn)
+    except Exception as e:
+        logg(f"    OpenGov {bas}: {type(e).__name__}")
+    finally:
+        await page.close()
+    logg(f"    OpenGov {bas}: {besokta} sidor, {len(ut)} filer")
+    return list(ut.values())
+
+
+async def documentweb(context, start, logg=print, fran="2026-08-15", max_dok=12):
+    """DocumentWeb (documentweb.<kommun>.se/?folderId=...): mappar och dokument via /api/folders/<id>.
+
+    Nedladdningsadressen (/api/download/<id>/<fil-id>) står inte i mappens JSON, så dokumentet
+    klickas fram i gränssnittet och adressen läses av från anropet."""
+    import urllib.parse
+    p = urllib.parse.urlparse(start)
+    bas = f"{p.scheme}://{p.netloc}"
+    fid = urllib.parse.parse_qs(p.query).get("folderId", [""])[0]
+    ut = []
+    try:
+        r = await context.request.get(f"{bas}/api/folders/{fid}", timeout=30_000)
+        if not r.ok:
+            logg(f"    DocumentWeb {start}: {r.status}")
+            return []
+        rot = await r.json()
+    except Exception as e:
+        logg(f"    DocumentWeb {start}: {type(e).__name__}")
+        return []
+    kandidater = []
+
+    def ga(mapp, namn):
+        for d in mapp.get("documents") or []:
+            t = d.get("name") or ""
+            ds = DATUM.findall(t)
+            if (ds and max(ds) >= fran) or (ARENDE.search(t) and "2027" in t):
+                kandidater.append((max(ds) if ds else "", mapp.get("id"), t, f"{namn} – {t}"))
+        for m in mapp.get("folders") or []:
+            if not GAMMAL.search(m.get("name") or "") and not re.search(r"20(1\d|2[0-5])\b", m.get("name") or ""):
+                ga(m, m.get("name") or namn)
+
+    ga(rot, rot.get("name") or "")
+    kandidater = sorted(kandidater, reverse=True)[:max_dok]
+    if not kandidater:
+        return []
+    page = await context.new_page()
+    adresser = []
+    page.on("request", lambda req: adresser.append(req.url) if "/api/download/" in req.url else None)
+    try:
+        for _, mapp, namn, titel in kandidater:
+            await page.goto(f"{bas}/?folderId={mapp}", wait_until="networkidle", timeout=40_000)
+            n0 = len(adresser)
+            try:
+                await page.get_by_text(namn, exact=False).first.click(timeout=8000)
+                await page.wait_for_timeout(2500)
+            except Exception:
+                continue
+            if len(adresser) > n0:
+                ut.append({"url": adresser[n0], "titel": titel, "beskrivning": titel})
+    finally:
+        await page.close()
+    logg(f"    DocumentWeb {start}: {len(kandidater)} aktuella dokument, {len(ut)} adresser")
+    return ut

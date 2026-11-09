@@ -97,9 +97,18 @@ def organdatum(text, titel):
     return ut
 
 
+ALDRE = re.compile(r"[äa]ldre|arkiv|tidigare-?[åa]r|historik", re.I)
+NAV = re.compile(r"^\s*(kallelser|protokoll|handlingar|kallelser och protokoll|protokoll och kallelser|möten, handlingar och protokoll|"
+                 r"handlingar och protokoll|sammanträden|möteshandlingar|politiska möten)\s*$", re.I)
+
+
 def lankpoang(href, text):
     t = f"{urllib.parse.unquote(href)} {text}"
     p = len(NAVIGERA.findall(t)) + 3 * bool(KF.search(t) or KS.search(t))
+    if NAV.search(text):
+        p += 4  # navsidan för kallelser och protokoll
+    if ALDRE.search(t):
+        p -= 5
     ds = datum_i(t)
     if any(d >= FRAN for d in ds):
         p += 3
@@ -178,6 +187,9 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
                 await page.wait_for_timeout(1500)
                 titel = await page.title()
                 text = (await page.inner_text("body"))[:150_000]
+                if await page.evaluate("() => !!document.querySelector(\"a[href*='--chn-']\")"):
+                    await page.evaluate("() => document.querySelector(\"a[href*='--chn-']\").click()")
+                    await page.wait_for_timeout(2500)
                 lankar = await page.eval_on_selector_all("a[href]", LANKAR_JS)
                 # Inbäddade portaler (iframe) följs som länkar.
                 lankar += [[s, "inbäddad portal kallelser protokoll", ""] for s in await page.eval_on_selector_all(
@@ -191,6 +203,8 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
             if re.search(r"webbs[äa]nd|webbradio|webb-tv|valresultat|mandatf|motioner|/nyheter|/nyheterna/|ledamöter",
                          f"{urllib.parse.unquote(slut)} {titel}", re.I):
                 p -= 20  # sidor om möten men utan handlingar
+            if ALDRE.search(urllib.parse.unquote(slut)):
+                p -= 15  # arkivsidor med äldre handlingar
             sidor.append({"url": slut, "titel": " ".join(titel.split())[:150], "poang": p,
                           "lankar": [(h, " ".join(t.split())[:100]) for h, t, _ in lankar
                                      if h.startswith("http") and not UNDVIK.search(h)][:300]})
@@ -202,6 +216,11 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
                     continue
                 h = doman(href)
                 if NP_LASARE.search(href) or "meetingsplus" in h:
+                    adresser.add(href)
+                m = re.match(r"https?://opengov\.360online\.com/Meetings/([A-Za-z0-9_-]+)", href)
+                if m:
+                    adresser.add(f"https://opengov.360online.com/Meetings/{m.group(1)}")
+                if "documentweb." in h and "folderId=" in href and (KF.search(ltext) or KS.search(ltext)):
                     adresser.add(href)
                 egen = samma_doman(href, dom) or h in tillatna or (portaltyp(href) and (
                     namn_finns(k["k"], f"{href} {ltext}") or dom.split(".")[0] in h))
@@ -231,6 +250,10 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
     finally:
         await page.close()
     for a in anrop:
+        m = re.search(r"netpublicator\.com/api/public/([\w-]+)/read\?(?:[^#]*&)?hash=([0-9a-f]+)", a)
+        if m:  # läsar-id (r12345678 eller ett namn) och rot-hashen
+            adresser.add(f"https://www.netpublicator.com/reader/{m.group(1)}#rot={m.group(2)}")
+            continue
         m = re.search(r"netpublicator\.com/(?:api/public|reader)/(r\d+)", a)
         if m:
             adresser.add(f"https://www.netpublicator.com/reader/{m.group(1)}")
@@ -259,7 +282,7 @@ def brave_urler(k, b):
 
 async def kor(valda, sparat, max_sok, parallellt, max_sidor_upptack, max_sidor_kand):
     from playwright.async_api import async_playwright
-    from portalskript import Netpublicator, meetingsplus
+    from portalskript import Netpublicator, documentweb, meetingsplus, opengov
     b = None
     nyckel = os.environ.get("BRAVE_API_KEY", "").strip()
     if nyckel and max_sok:
@@ -303,9 +326,25 @@ async def kor(valda, sparat, max_sok, parallellt, max_sidor_upptack, max_sidor_k
                         pass
                 dok = sorted(dok.values(), key=dokrang)
                 adr |= set(gammal.get("portaladresser") or [])
-                for rid in sorted({m.group(1) for a in adr for m in [NP_LASARE.search(a)] if m})[:2]:
+                lasare = {}
+                for a in sorted(adr):
+                    m = re.search(r"netpublicator\.com/reader/([\w-]+)(?:#rot=([0-9a-f]+))?", a)
+                    if m and (m.group(2) or m.group(1) not in lasare):
+                        lasare[m.group(1)] = m.group(2)
+                for rid, rot in list(lasare.items())[:2]:
                     try:
-                        dok += sorted(await asyncio.wait_for(Netpublicator(context.request).genomsok(context, rid), 600), key=dokrang)
+                        dok += sorted(await asyncio.wait_for(
+                            Netpublicator(context.request).genomsok(context, rid, rot), 600), key=dokrang)
+                    except Exception:
+                        pass
+                for bas in sorted(a for a in adr if "opengov.360online.com" in a)[:1]:
+                    try:
+                        dok += await asyncio.wait_for(opengov(context, bas), 600)
+                    except Exception:
+                        pass
+                for start_dw in sorted(a for a in adr if "documentweb." in a)[:2]:
+                    try:
+                        dok += await asyncio.wait_for(documentweb(context, start_dw), 400)
                     except Exception:
                         pass
                 for bas in sorted({re.match(r"https?://[^/]+", a).group(0) for a in adr if "meetingsplus" in a.lower()})[:1]:
