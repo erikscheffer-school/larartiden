@@ -33,8 +33,11 @@ class Brave:
         self.nyckel = nyckel
         self.land = True
         self.antal = 0
+        self.slut = False  # kvoten är slut (402): inga fler anrop i den här körningen
 
     def sok(self, q, freshness):
+        if self.slut:
+            return None
         params = {"q": q, "count": 20, "freshness": freshness, "safesearch": "off"}
         if self.land:
             params.update(country="SE", search_lang="sv")
@@ -53,6 +56,10 @@ class Brave:
                 if e.code == 422 and self.land:
                     self.land = False  # parametrarna för land/språk godtogs inte, försök utan
                     return self.sok(q, freshness)
+                if e.code == 402:
+                    self.slut = True
+                    print("  Brave svarade 402: sökkvoten är slut. Inga fler sökningar i den här körningen.", flush=True)
+                    return None
                 if e.code == 429:
                     time.sleep(5 * (forsok + 1))
                     continue

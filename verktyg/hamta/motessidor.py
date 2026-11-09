@@ -120,6 +120,13 @@ def ar_aktuell(href, text):
                            or bool(budget and re.search(r"2027", t)))
 
 
+def dokrang(d):
+    """KF och KS först, sedan budget, sedan nyast."""
+    t = f"{d.get('titel') or ''} {d['url']}"
+    return (not (KF.search(t) or KS.search(t)), not re.search(r"budget|2027|ramar", t, re.I),
+            "".join(chr(255 - ord(c)) for c in max(datum_i(t) | {"0000"})))
+
+
 def startadresser(k, sparad, brave_urler):
     dom = doman(k["w"])
     rot = k["w"].rstrip("/")
@@ -170,13 +177,18 @@ async def genomsok(context, k, robots, senast, start, max_sidor):
                 titel = await page.title()
                 text = (await page.inner_text("body"))[:150_000]
                 lankar = await page.eval_on_selector_all("a[href]", LANKAR_JS)
+                # Inbäddade portaler (iframe) följs som länkar.
+                lankar += [[s, "inbäddad portal kallelser protokoll", ""] for s in await page.eval_on_selector_all(
+                    "iframe[src]", "els => els.map(e => e.src)") if s.startswith("http")]
             except Exception:
                 continue
             slut = page.url.split("#")[0]
             if slut != url and portaltyp(slut):
                 tillatna.add(doman(slut))
             p = sidpoang(text, lankar)
-            sidor.append({"url": slut, "titel": " ".join(titel.split())[:150], "poang": p})
+            sidor.append({"url": slut, "titel": " ".join(titel.split())[:150], "poang": p,
+                          "lankar": [(h, " ".join(t.split())[:100]) for h, t, _ in lankar
+                                     if h.startswith("http") and not UNDVIK.search(h)][:300]})
             od = organdatum(text, titel)
             ky["kf"] |= od["kf"]
             ky["ks"] |= od["ks"]
@@ -263,10 +275,24 @@ async def kor(valda, sparat, max_sok, parallellt, max_sidor_upptack, max_sidor_k
                         genomsok(context, k, robots, senast, start, ms), 420)
                 except asyncio.TimeoutError:
                     sidor, dok, ky, adr, n = [], {}, {"kf": set(), "ks": set()}, set(), ms
-                dok = list(dok.values())
+                # Fas 2: gå djupare från de två bästa sidorna (möten, nämnder, år 2026).
+                basta = [s["url"] for s in sorted(sidor, key=lambda s: -s["poang"])[:2] if s["poang"] >= 15]
+                if basta:
+                    try:
+                        s2, d2, k2, a2, n2 = await asyncio.wait_for(
+                            genomsok(context, k, robots, senast, basta, max_sidor_kand + 10), 300)
+                        sidor += [s for s in s2 if s["url"] not in {x["url"] for x in sidor}]
+                        dok.update(d2)
+                        ky["kf"] |= k2["kf"]
+                        ky["ks"] |= k2["ks"]
+                        adr |= a2
+                        n += n2
+                    except asyncio.TimeoutError:
+                        pass
+                dok = sorted(dok.values(), key=dokrang)
                 for rid in sorted({m.group(1) for a in adr for m in [NP_LASARE.search(a)] if m})[:2]:
                     try:
-                        dok += await asyncio.wait_for(Netpublicator(context.request).genomsok(context, rid), 600)
+                        dok += sorted(await asyncio.wait_for(Netpublicator(context.request).genomsok(context, rid), 600), key=dokrang)
                     except Exception:
                         pass
                 for bas in sorted({re.match(r"https?://[^/]+", a).group(0) for a in adr if "meetingsplus" in a.lower()})[:1]:
@@ -346,6 +372,8 @@ def main():
         if DEBUG:
             rader = [f"Startadresser från Brave: {', '.join(r['brave']) or 'inga'}", "", "Sidor (poäng):"]
             rader += [f"{s['poang']:3d}  {s['url']}  {s['titel']}" for s in sorted(r["sidor"], key=lambda s: -s["poang"])]
+            for s in sorted(r["sidor"], key=lambda s: -s["poang"])[:3]:
+                rader += ["", f"Länkar på {s['url']}:"] + [f"  {h} | {t}" for h, t in s["lankar"]]
             rader += ["", f"KF: {', '.join(kf)}", f"KS: {', '.join(ks)}", "", "Aktuella handlingar:"]
             rader += [f"- {d.get('titel')} | {d['url']}" for d in r["dok"]]
             (DEBUGDIR / f"{k['id']}.txt").write_text("\n".join(rader) + "\n", encoding="utf-8")
