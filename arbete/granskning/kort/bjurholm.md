@@ -2,11 +2,69 @@
 
 Webbplats: https://www.bjurholm.se/
 Portal: Politikerportal
-Hämtade dokument: 30, hämtfel: 1
+Hämtade dokument: 45, hämtfel: 1
 Mötessida: https://www.bjurholm.se/kommun-och-politik/politik/protokoll
-KF-möten: 2026-04-20, 2026-06-08, 2026-10-14, 2026-10-15, 2026-10-26, 2026-11-05, 2026-11-09; KS-möten: 2026-01-05, 2026-12-31
+KF-möten: 2026-04-20, 2026-06-08, 2026-10-14, 2026-10-15, 2026-10-26, 2026-11-05, 2026-11-09, 2026-11-11; KS-möten: 2026-01-05
 Nuvarande sammanfattning: Kommunstyrelsen beslutade 2026-02-03 om utgångspunkter för budget 2027 (invånarantal, skattesats, PO, internränta, PKV och resultatmål), utan ramar eller belopp per nämnd. Budget 2026 (KF 2025-06-09) har plansiffror för 2027 och nämner inte reformen.
 Luckor: Budget 2027 (förslag och KF-beslut) och utbildningsnämndens underlag har inte hittats. KF-protokollet 2026-04-20 innehåller inget budgetärende för 2027. Beslutsdatum för budget 2027 är okänt; budget 2026 beslutades i juni 2025.
+
+### Sammanträdestider 2026 | Bjurholm kommun – KUN 16/2 pdf, 225.5 kB. 4/5 pdf, 297.1 kB. 14/9 pdf, 98.9 kB. 2/11 pdf, 98.5 kB.
+
+https://www.bjurholm.se/download/18.54f5ca0e1a16333a360c733/1793189680733/Kallelse%20och%20f%C3%B6redragningslista%20KUN%20261102.pdf
+
+Sidor: 3. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+BJURHOLMS KOMMUN KALLELSE/UNDERÄTTELSE
+Kultur- och utbildningsnämnden
+Plats och tid för sammanträdet Plats: Sessionssalen
+Mån. 2 november 2026 kl. 13.00
+Ärenden Se föredragningslista
+Ordinarie ledamot som är för- Ordinarie ledamöter
+hindrad att närvara, ska Markus Jonsson, ordf. M
+underrätta ersättare Monica Sandelin, 1:e vice ordf. SD
+Linda Berglund, 2:e vice ordf. S
+Örjan Svensson KD
+Barbro Classon S
+Renée Olofsson C
+Bengt Sundling M
+Ersättare
+Lotta Vestman S
+Marcus Ljadas M
+Henry Karlsson KD
+Myrtel Emilsson S
+Ann-Christin Backlund M
+Ann-Marie Långström C
+Isac Sandelin M
+Utses att justera
+(även ersättare utses)
+Plats och tid för justering Förslag – 4 november kl 13.00
+Plats; digitalt
+Sammanträdet slutar
+Övriga deltagare
+Utdragsbestyrkande
+BJURHOLMS KOMMUN KALLELSE
+Sammanträdesdatum
+```
+
+**Rader om budget och 2027**
+
+- s. 2: 5. Kultur- och utbildningsnämndens verksamhetsplan 2027
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: Kultur- och utbildningsnämnden 2026-11-02
+- s. 2: Kultur- och utbildningsnämndens sammanträde, 2026 -11-02
+- s. 2: 5. Kultur- och utbildningsnämndens verksamhetsplan 2027
+
+**Reformorden**
+
+- Inga reformord i hela texten (3 sidor).
 
 ### Sammanträdestider 2026 | Bjurholm kommun – KF 20/4 pdf, 139.6 kB. 8/6 pdf, 137.6 kB. 26/10 pdf, 120.2 kB. 9/11 pdf, 120.7 kB. 14/12
 
@@ -116,61 +174,6 @@ justering
 
 - s. 2: 14. Arbetsformer för kommunstyrelse och nämnder mandatperioden 2027-01-01 –
 - s. 2: 18. Sammanträdesdagar för kommunstyrelsen 2027
-
-**Skola och utbildning (rader med belopp)**
-
-
-**Reformorden**
-
-- Inga reformord i hela texten (3 sidor).
-
-### 5/11 pdf, 65.3 kB, öppnas i nytt fönster.
-
-https://www.bjurholm.se/download/18.1ae26d1d1a162f28978ddf7/1793258759761/Kallelse%20och%20f%C3%B6redragningslista%20261105.pdf
-
-Sidor: 3. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-BJURHOLMS KOMMUN KALLELSE/UNDERRÄTTELSE
-Miljö- och byggnämnden
-Plats och tid för sammanträdet Kommunkontoret, Sessionssalen
-Torsdag 5 november 2026 kl 13.00
-Ärenden Se föredragningslista
-Ordinarie ledamot som är för- Ordinarie ledamöter
-hindrad att närvara, ska Ronny Jonsson, ordf. M
-underrätta ersättare Håkan Holgersson, vice ordf. S
-Roger Edlund KD
-Benny Nilsson SD
-Margreth Thudin S
-Ersättare
-Bengt-Olof Johansson C
-Bengt-Ove Lindgren M
-Maria Björklund S
-Erik Nygren M
-Mikael Frithiof KD
-Utses att justera
-(även ersättare utses)
-Plats och tid för justering Förslag – Måndag 9 november 2026 kl 15.00
-Kommunkontoret, sammanträdesrummet Ogen
-Sammanträdet slutar
-Övriga deltagare
-BJURHOLMS KOMMUN KALLELSE/UNDERRÄTTELSE
-FÖREDRAGNINGSLISTA
-Miljö- och byggnämndens sammanträde, 2026-11-05
-1. Upprop samt fråga om någon anser sig jävig i något av sammanträdets ärenden
-2. Justering (justerare och tidpunkt) förslag måndag 9 november, kl 15.00,
-kommunkontoret, Ogen
-3. Fastställande av dagordning
-```
-
-**Rader om budget och 2027**
-
-- s. 2: 5. Miljö och byggnämndens verksamhetsplan 2027
-
-**Beslut och förslag**
-
 
 **Skola och utbildning (rader med belopp)**
 

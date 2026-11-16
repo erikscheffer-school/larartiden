@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ostragoinge.se/
 Portal: ingen känd
-Hämtade dokument: 39, hämtfel: 0
+Hämtade dokument: 54, hämtfel: 0
 Mötessida: https://www.ostragoinge.se/kommun-och-politik/politik-och-demokrati/protokoll
 KF-möten: 2026-09-13; KS-möten: okända
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Kommunen styrs av en fyraårig mål- och resultatplan (2024–2027) som revideras och antas av KF i juni (reviderad juni 2025). Förvaltningens årsplan 2026 nämner inte reformen.

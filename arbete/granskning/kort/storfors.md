@@ -2,11 +2,77 @@
 
 Webbplats: https://www.storfors.se/
 Portal: ingen känd
-Hämtade dokument: 19, hämtfel: 6
+Hämtade dokument: 27, hämtfel: 7
 Mötessida: https://www.storfors.se/kommunochpolitik/motenkallelserochprotokoll/kallelserochprotokoll.4.e4d2db016037ff584e1032.html
-KF-möten: 2026-02-10, 2026-03-19, 2026-04-09, 2026-06-09, 2026-09-17, 2026-10-28; KS-möten: 2026-03-30, 2026-04-21, 2026-05-04, 2026-05-25, 2026-06-02, 2026-06-15, 2026-07-03, 2026-08-17, 2026-08-28, 2026-09-17, 2026-09-28, 2026-10-19
+KF-möten: 2026-02-10, 2026-03-19, 2026-04-09, 2026-06-09, 2026-09-17, 2026-10-28, 2026-11-12; KS-möten: 2026-05-25, 2026-06-02, 2026-06-15, 2026-07-03, 2026-08-17, 2026-08-28, 2026-09-17, 2026-09-28, 2026-10-19, 2026-10-26, 2026-11-16, 2026-11-19
 Nuvarande sammanfattning: Budget 2027 hittades varken i KF 2026-06-09, KS 2026-10-19 eller kallelsen till KF 2026-10-28. Skolan arbetar med 'effektiviseringar och neddragningar', och i februari 2026 hölls ett extra KS om 'Budget i balans skola och förskola 2026'. Reformen nämns inte.
 Luckor: Datum för KF-beslutet om budget 2027 har inte hittats och beslutet tas troligen nov–dec 2026. Kallelsen till KF 2026-09-17 gick inte att öppna (tidigare körning). Inga budgetförslag eller förvaltningsunderlag 2027 har hittats. Sökkvoten (3) är förbrukad. Den automatiska hämtningen 2026-11-07 hittade reformorden i fullmäktiges kallelse 2026-04-09 (årsredovisning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
+
+### Kallelse KS 2026-11-19 del 1.pdf Pdf, 10.2 MB, öppnas i nytt fönster.
+
+https://www.storfors.se/download/18.3f92ebaf1a1a1981faa568fb/1794234316173/Kallelse%20KS%202026-11-19%20del%201.pdf
+
+Sidor: 322. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+STORFORS KALLELSE Sida 1 (3)
+KOMMUN Datum
+2026-11-09
+Kallelse
+Ledamöterna i Kommunstyrelsen kallas till sammanträde.
+Ersättarna underrättas om sammanträdet.
+Tid: 2026-11-16, kl. 08:15
+Plats: Kerimäki, Kommunhuset Storfors
+Föredragningsdel
+Sammanträdet öppnar kl. 08.15 och föredragning av ärendelistan fram till punkt 22 är öppen
+för allmänheten.
+Efter föredragningarna kommer mötet att ajourneras.
+Beslutsdel
+Efter ajourneringen återupptas sammanträdet och ärendelistan punkt 3 till 23 går upp för
+beslut.
+Under denna del är sammanträdet slutet och inte öppet för allmänheten.
+Ärenden Dnr Paragra Tjänsteperson
+f
+1 Val av protokollsjusterare
+samt bestämmande av
+justeringens tid och plats
+2 Fastställelse av
+föredragningslistan
+3 Aktuell statistik KS/2026:18
+4 Anmälan av KS/2026:54
+delegationsbeslut
+5 Ekonomisk uppföljning KS/2026:21
+6 Revidering av taxa för KS/2026:508 T.f. enhetschef miljö
+prövning och tillsyn inom Helena Norell Israelsson
+miljöbalkens deltar genom Teams
+```
+
+**Rader om budget och 2027**
+
+- s. 4: År 2023 År 2024 År 2025 År 2026 Budget 2026 "BB", Budget 2027
+
+**Beslut och förslag**
+
+- s. 21: Storfors att besluta att taxan skall gälla från och med 1 januari 2027.
+
+**Skola och utbildning (rader med belopp)**
+
+- s. 2: 10 Demokratiresa åk 9 2026 KS/2026:513 Rektor Vargbroskolan
+- s. 10: 7500 Personalkostnad Skola & Förskola, månadsvis
+- s. 14: Skola 8 700 9 855 8 558 8 624 9 368 7 399 3 414 8 991 9 351 9 435 - - 83 695
+- s. 14: Skola 99 682 83,96% 83,33%
+- s. 15: SoL Avsluta utredning enligt 14 kap 2 § med insats - Tillsvidare 2026-09-24 Jenny Fridén (Socialsekreterare Barn och unga)
+- s. 15: SoL Avsluta utredning enligt 14 kap 2 § med insats - Tillsvidare 2026-09-24 Jenny Fridén (Socialsekreterare Barn och unga)
+- s. 15: SoL Avsluta utredning enligt 14 kap 2 § med insats - Tillsvidare 2026-09-24 Jenny Fridén (Socialsekreterare Barn och unga)
+- s. 15: SoL Bistånd enligt 11 kap 1 § (fortsatt bistånd) 2026-09-26 - 2026-11-20 2026-09-26 Jenny Fridén (Socialsekreterare Barn och unga)
+- s. 15: SoL Bistånd enligt 11 kap 1 § (fortsatt bistånd) 2026-09-26 - 2026-11-20 2026-09-26 Jenny Fridén (Socialsekreterare Barn och unga)
+- s. 15: SoL Bistånd enligt 11 kap 1 § (fortsatt bistånd) 2026-09-26 - 2026-11-20 2026-09-26 Jenny Fridén (Socialsekreterare Barn och unga)
+
+**Reformorden**
+
+- Inga reformord i hela texten (322 sidor).
 
 ### Protokoll KS 2026-05-25.pdf Pdf, 454.3 kB.
 
@@ -153,71 +219,3 @@ Eva-Lotta Härdig Eriksson, justerare
 **Reformorden**
 
 - Inga reformord i hela texten (22 sidor).
-
-### Protokoll KSAU 2026-09-28.pdf Pdf, 4.8 MB, öppnas i nytt fönster.
-
-https://www.storfors.se/download/18.31dc8ef61a0fc326bee4d7de/1791374638977/Protokoll%20KSAU%202026-09-28.pdf
-
-Sidor: 44. Budget 2027 enligt titeln: oklart.
-
-**Förstasidorna**
-
-```
-STORFORS KOMMUN PROTOKOLL Sida 1 (42)
-Datum Organ
-2026-09-28 Kommunstyrelsens
-arbetsutskott
-Protokoll Kommunstyrelsens arbetsutskott
-Plats och tid: Kerimäki, Kommunhuset Storfors, 2026-09-28, kl. 08:15-14:19
-Ajournering 09:45-09:59 samt 11:56-13:00
-Beslutande
-Ingmar Olsson (M), ordförande
-Janina Hjälm (S), tjänstgörande ersättare för Mikael Lind (C) §§ 88, 89, 91, 92, 100
-Martina Eriksson (M), tjänstgörande ersättare för Mikael Lind (C) §§ 90, 93-99, 101-116
-Juhani Verkkoperä (SD)
-Kristina Blomquist (S) (Jäv § 109)
-Eva-Lotta Härdig-Eriksson (S)
-Ej tjänstgörande ersättare
-Janina Hjälm §§ 3, 93-99, 101-116
-Martina Eriksson §§ 88, 89, 91, 92, 100
-Övriga deltagande
-Johan Rosqvist, kommunchef
-Hanna Andersson, Miljöstrateg
-Peter Jarl, KEMAB
-Annelie Izindre, skolchef
-Maria Smeds, rektor
-Jimmy Jansson, rektor
-Pernilla Pettersson, socialchef
-Linda Rehnberg, MAS
-Gunilla Pålsson, MAR
-Emma Arnfeldt, verksamhetsutvecklare
-Louise Fromholdt, ansvarig KAA
-Charlotte Nilsson, studie- och yrkesvägledare
-```
-
-**Rader om budget och 2027**
-
-- s. 3: § 101 Information om Verksamhetsplan 2027.............................................................................23
-- s. 23: § 101 Information om Verksamhetsplan 2027
-
-**Beslut och förslag**
-
-- s. 8: restavfall. Samma tjänst kommer enligt förslaget kosta 4 250 kr under 2027. Det innebär en
-- s. 37: Sammanträdestider för 2027 behöver fastställas. Enligt Kommunfullmäktiges arbetsordning ska
-
-**Skola och utbildning (rader med belopp)**
-
-- s. 3: skolan och förskolan 2026-2027............................................................................................18
-- s. 3: § 98 Revidering av skolskjutsreglemente.......................................................................................20
-- s. 3: § 100 Information från grundskolans verksamheter.....................................................................22
-- s. 15: Källor: 29 kapitlet 9 § skollagen och proposition 2013/14:191 Med fokus på unga - en politik för
-- s. 15: Källor: 29 kapitlet 9 § skollagen och Skolverkets allmänna råd (SKOLFS 2015:62) om
-- s. 18: behandling inom skolan och förskolan 2026-2027
-- s. 18: (2010:800, 6 kap 8§) lyfts kravet att varje skola årligen upprättar en plan. Skolan är skyldig att
-- s. 18: elever har lika rättigheter och möjligheter att lyckas i skolan enligt diskrimineringslagen 2016:828,
-- s. 19: och skola 2026-2027
-- s. 19: • Plan mot diskriminering, trakasserier och kränkande behandling läsåret 2026-2027, Förskolan
-
-**Reformorden**
-
-- Inga reformord i hela texten (44 sidor).

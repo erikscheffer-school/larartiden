@@ -1,5 +1,61 @@
 [
  {
+  "url": "https://www.filipstad.se/download/18.208610bb1a1ce418b7f16863/1794560885841/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsens%20teknikutskott%20den%202026-11-16%20(1).pdf",
+  "titel": "Handlingar för möte Kommunstyrelsens teknikutskott den 2026-11-16 (1).pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "12083f227c909aa23d50f8a737f013d9360cd78015248176196f1bf092293e9c",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 38,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.28e2b6431a1ce30d4787f49/1794494815912/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunfullm%C3%A4ktige%20den%202026-11-19.pdf",
+  "titel": "Handlingar 19 november\npdf, 20 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "e422e9c019a511114f4d10b298b0d15f56b2dc161d7d1e22c5e4dea590434740",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 270,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 131,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "erna ligger högre mot budget inom anpassad grundskola med - 202 tkr. Grundskolan prognosticerar sammantaget en budget i balans. Prognosen beräknas på att sökta statsbidrag beviljas. Grundskolan prognosticerar ett överskott med 500 tkr. Personalminskningar med 2.0 tjänst införs hösten 2026. Lägre elevantal har påverkat behovet av",
+    "belopp_nara": true
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
+  "url": "https://www.filipstad.se/download/18.6a14f8a51a1a1b2905ca638e/1794376441896/BUN%20Kallelse%202026-11-17.pdf",
+  "titel": "BUN Kallelse 2026-11-17.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "2679c0c601d8d31b495b01970948cbfdf7f0d86c960ba4973da5ed5eff03afe2",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.filipstad.se/download/18.76c40e5219c47a140539a5ac/1770911166476/Handlingar%20f%C3%B6r%20m%C3%B6te%20Kommunstyrelsens%20arbetsutskott%20den%202026-02-16.pdf",
   "titel": "Handlingar för möte Kommunstyrelsens arbetsutskott den 2026-02-16.pdf",
   "typ": "pdf",

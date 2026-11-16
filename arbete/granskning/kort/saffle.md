@@ -2,7 +2,7 @@
 
 Webbplats: https://www.saffle.se/
 Portal: ingen känd
-Hämtade dokument: 45, hämtfel: 0
+Hämtade dokument: 60, hämtfel: 0
 Mötessida: https://saffle.se/kommun-och-politik/moten-handlingar-protokoll/kallelser-handlingar-och-protokoll.html
 KF-möten: 2026-02-02, 2026-03-16, 2026-04-27, 2026-06-01, 2026-06-11, 2026-06-15, 2026-09-07, 2026-10-05, 2026-10-26, 2026-10-29, 2026-11-03, 2026-11-09; KS-möten: 2026-03-09, 2026-03-30, 2026-04-13, 2026-05-07, 2026-05-18, 2026-05-20, 2026-05-21, 2026-06-01, 2026-06-11, 2026-06-30, 2026-08-24, 2026-10-26
 Nuvarande sammanfattning: Tre nya sökningar gav inga budgethandlingar för 2027 eller 2026 från saffle.se. Säffle-Tidningen har skrivit om styrets prioriteringar i nya budgeten, men artikeln blockerades (robots).
@@ -129,71 +129,81 @@ Tobias Nyåker (enhetschef)
 
 - Inga reformord i hela texten (30 sidor).
 
-### Kommunstyrelsen protokoll 26 oktober 2026 pdf, 4.3 MB, öppnas i nytt fönster.
+### Kommunfullmäktige protokoll 15 juni 2026 pdf, 4.6 MB, öppnas i nytt fönster.
 
-https://saffle.se/download/18.269eb38f1a18c6e9e3d413a7/1793601545997/Kommunstyrelsen%20protokoll%2026%20oktober%202026.pdf
+https://saffle.se/download/18.47d5dc3419ed45e85d13999d/1782364434385/Kommunfullm%C3%A4ktige%20protokoll%2015%20juni%202026.pdf
 
-Sidor: 42. Budget 2027 enligt titeln: oklart.
+Sidor: 27. Budget 2027 enligt titeln: oklart.
 
 **Förstasidorna**
 
 ```
 Sida
-SAMMANTRÄDESPROTOKOLL 1(40)
+SAMMANTRÄDESPROTOKOLL 1(24)
 Sammanträdesdatum
-2026-10-26
-Kommunstyrelsen
-Plats och tid Trätälja, 2026-10-26 kl 13:00 – 16:16
-Ajourneringar -
+2026-06-15
+Kommunfullmäktige
+Plats och tid Säfflesalen, 2026-06-15 kl 15:00 – 18:08
+Ajourneringar Kl. 17:23 – 17:45.
 Beslutande Ledamöter
 Se närvarolista på sida 2
 Ersättare
 Se närvarolista på sida 2
-Övriga närvarande Ylva Winther, skolchef
-Marie Eriksson, biträdande skolchef
-Linda-Marie Sjögren, 1:a vice ordförande BUN
-Johan Olsson, 2:a vice ordförande BUN
-Sandra Malmkvist, ekonom
-Agneta Pettersson, förvaltninschef
-Anita Karlsson (C), ordförande socialnämnd
-Lillie Karlsson (S), 2:a vice ordförande
-Cathrine Jensen, avdelningschef
-Eva Halldan, avdelningschef
-Christian Rasmussen, avdelningschef
-Helene Andersson, ekonom
-Alexander Karlsson, ekonom
-Anna-Lena Andersson, tf. ekonomichef
-Therese Magnusson, koncerncontroller
-Mattias Anglemark, tf. kommundirektör
+Övriga närvarande Mattias Anglemark, t.f. kommundirektör
+Annica Jansson (M), ej tjänstgörande ersättare
+Michael Utterdahl (SiV), ej tjänstgörande ersättare
+Nikolai Konglevoll (-), ej tjänstgörande ersättare
 Gustav Weingartshofer, kommunsekreterare
-Justerare Stefan Ljung
+Justerare Thomas Jarlhamre och Thomas Augustsson
 Protokollet har justerats digitalt. De elektroniska
+underskrifterna redovisas på protokollets sista sida
+Justering samt noteras på respektive sida.
+Underskrifter
+Sekreterare Paragrafer §148-§159
+Gustav Weingartshofer
+Ordförande
+Jenny Evestam
+Justerare
+Thomas Jarlhamre och Thomas Augustsson
+ANSLAG/BEVIS
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag.
+Organ Kommunfullmäktige
 ```
 
 **Rader om budget och 2027**
 
-- s. 3: Budgetberedning för 2027 .................................................................11
-- s. 11: Budgetberedning för 2027
-- s. 11: koncerncontroller informerar om budgetprocessen inför 2027.
-- s. 11: Preliminära budgetramar 2027-2029 drift.
-- s. 11: Information om förändrade förutsättningar inför budget 2027-2029.
+- s. 3: Genomgång av förslag till budget 2027-2029......................................6
+- s. 3: Allmänpolitisk debatt med anledning av budget 2027-2029................7
+- s. 3: Budget 2027 samt plan 2028-2029 för Säffle kommun samt
+- s. 6: Genomgång av förslag till budget 2027-2029
+- s. 6: ekonomichef presenterar Styrets budgetförslag 2027-2029.
+- s. 7: Allmänpolitisk debatt med anledning av budget 2027-
+- s. 7: Allmänpolitisk debatt med anledning av budget 2027-2029.
+- s. 9: Budget 2027 samt plan 2028-2029 för Säffle kommun
+- s. 9: KS § 105 Budget 2027 samt plan 2028-2029 för Säffle kommun samt
+- s. 9: Ordförandens skrivelse om förslag till budgeterad ram 2027-2029 för
+- s. 9: Tjänsteyttrande budget 2027 och plan 2028-2029 för Säffle kommun samt
+- s. 10: Styrets förslag till budget 2027, tabellbilaga drift.
 
 **Beslut och förslag**
 
+- s. 3: Genomgång av förslag till budget 2027-2029......................................6
+- s. 6: Genomgång av förslag till budget 2027-2029
+- s. 6: ekonomichef presenterar Styrets budgetförslag 2027-2029.
+- s. 9: beredning och kommunstyrelsens arbetsutskott. För perioden 2027–2029
+- s. 9: Ordförandens skrivelse om förslag till budgeterad ram 2027-2029 för
+- s. 10: Styrets förslag till budget 2027, tabellbilaga drift.
 
 **Skola och utbildning (rader med belopp)**
 
-- s. 10: grunduppdrag helt under 2026 förutom Barn- och utbildningsnämnden,
-- s. 12: 2. att barn- och utbildningsnämndens budgetram för 2026 ökas med 601
-- s. 17: musikundervisning under skoltid, 2026-10-14.
-- s. 17: under skoltid, 2026-06-26.
-- s. 17: musikundervisning under skoltid, 2026-06-26.
-- s. 24: KSAU § 122 Svar på motion från Sjukvårdspartiet i Värmland om barn- och
-- s. 24: utbildningsförvaltningens organisation, 2026-10-14.
-- s. 24: BU § 140 Motion från Sjukvårdspartiet i Värmland om barn- och
-- s. 24: utbildningsförvaltningens organisation, 2026-10-05.
-- s. 24: utbildningsförvaltningens organisation, 2026-10-05.
+- s. 11: Förskola 0–5 år 113 010 kr 113 010 kr
+- s. 11: Grundskola 6–15 år 134 621 kr 134 621 kr
+- s. 12: Gymnasieskola 16–18 år 143 495 kr 143 495 kr
+- s. 12: 7. Budgetramen för barn- och utbildningsnämnden ökar med 3 236 tkr
+- s. 14: Barn- och utbildningsnämnden 5 100 0 5 100 0 5 100 0 5 100 0 5 100 0
+- s. 14: Avgiftskollektiv, va-verksamhet 54 300 0 56 300 3 000 56 300 0 46 300 0 46 300 0
+- s. 14: Avgiftskollektiv, renhållning 8 500 0 14 500 0 10 500 0 500 0 500 0
 
 **Reformorden**
 
-- Inga reformord i hela texten (42 sidor).
+- Inga reformord i hela texten (27 sidor).

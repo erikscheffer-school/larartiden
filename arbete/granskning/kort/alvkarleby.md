@@ -2,21 +2,71 @@
 
 Webbplats: https://www.alvkarleby.se/
 Portal: eNämnd
-Hämtade dokument: 39, hämtfel: 0
+Hämtade dokument: 54, hämtfel: 0
 Mötessida: https://www.alvkarleby.se/kommun-och-politik/moten-handlingar-och-protokoll/kommunstyrelsen.html
-KF-möten: 2026-10-22, 2026-10-29, 2026-11-06, 2027-01-01; KS-möten: 2026-10-21, 2026-10-22, 2026-10-30, 2026-11-03, 2027-01-01
+KF-möten: 2026-10-22, 2026-10-29, 2026-11-06, 2026-11-11; KS-möten: 2026-10-21, 2026-10-22, 2026-10-30, 2026-11-03, 2026-11-10, 2026-11-12
 Nuvarande sammanfattning: Tre sökningar, varav en utökad, gav inga handlingar för budget 2027 från Älvkarleby kommun och inget KF-datum.
 Luckor: Kommunens budgetsida och mötesportal syntes inte i sökresultaten. Inga budgetdokument, nämndunderlag eller KF-datum kunde granskas.
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### 22 maj pdf, 242.5 kB, öppnas i nytt fönster.
 
-Senast daterade hämtade dokument:
+https://www.alvkarleby.se/download/18.1f34ec7719e639278e118a4/1779886079708/Protokoll%20IT-n%C3%A4mnden%202026-05-22.pdf
 
-- Kallelse till kommunstyrelsens sammanträde den 11 november pdf, 165.5 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.290ea4ea1a1a18dfda215c/1793716099666/Dagordning%20KS%202026-11-11.pdf
-- Kallelse till Utbildningsnämndens sammanträde den 10 november pdf, 170.8 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.290ea4ea1a1a18dfda2159/1793716008418/2026-11-10-Dagordning%20UN.pdf
-- 30 oktober, extrainsatt sammanträde pdf, 2.1 MB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.4c6b35881a1631a913c162e2/1793354588779/Justerat%20protokoll%20KS%202026-10-30.pdf
-- 28 oktober, paragraf 92-95 (omedelbar justering) pdf, 9.5 MB. – https://www.alvkarleby.se/download/18.4c6b35881a1631a913c13a51/1793276829028/Direktjusterade%20punkter%20KF%202026-10-28%20(1).pdf
-- Kallelse till fullmäktiges möte den 28 oktober pdf, 168.9 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.4c6b35881a1631a913c3dc/1792680833451/Dagordning%20KF%202026-10-28.pdf
-- 15 oktober pdf, 204.6 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.4c6b35881a1631a913c3c4/1792680380617/Protokoll%20KS%202026-10-15.pdf
-- 14 oktober pdf, 905.2 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.7ecc6c21a12fa29ef310dbe/1792575185703/KS%20protokoll%202026-10-14.pdf
-- 13 oktober pdf, 296.3 kB, öppnas i nytt fönster. – https://www.alvkarleby.se/download/18.4c6b35881a1631a913c3c6/1792680564973/UN%20Protokoll%202026-10-13.pdf
+Sidor: 17. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+SAMMANTRÄDESPROTOKOLL
+IT-nämnden
+2026-05-22
+Tid och plats 22 maj 2026, kl. 15:00 - 16:26, digitalt sammanträde
+Paragrafer § 10 - § 17
+Justering Protokollet justeras digitalt av ordförande, Sara Sjödal, och justerare,
+Katrin Jakobsson. Se sista sidan för digitala underskrifter.
+Bevis om anslag Anslaget sätts upp: 20026-05-27 Anslaget tas ner: 2026-06-17
+Protokollets förvaringsplats Kommunhusets arkiv, Centralgatan 7, Tierp
+Beslutande Sara Sjödal (C), ordförande, Tierps kommun
+Katrin Jakobsson (S), vice ordförande, Älvkarleby kommun
+Pierre Janson (KNU), Knivsta kommun §§ 13 - 17
+Harriet Swanberg (S), Knivsta kommun §§ 10 - 12
+Henrik Willén Johansson (KD), Östhammars kommun
+Olof Nilsson (S), Heby kommun
+Ersättare Viktoria Söderling (S), Tierps kommun
+Harriet Swanberg (S), Knivsta kommun §§ 13 - 17
+Rickert Olzon (M), Heby kommun
+Mötessekreterare Evelina Håkansson, nämndsamordnare
+Övriga närvarande Andreas Synning, förvaltningschef IT
+Eric Carlsson, ekonomichef §§ 10 - 14
+Anne Eriksson, verksamhetschef Gemensam Service §§ 10 - 15
+1
+SAMMANTRÄDESPROTOKOLL
+IT-nämnden
+2026-05-22
+Innehållsförteckning
+Paragraf Rubrik Diarienummer
+Upprop
+§ 10 Justering
+```
+
+**Rader om budget och 2027**
+
+- s. 2: § 13 Budget 2027 med plan 2028-2030 IT- ITN/2026:7
+- s. 7: Budget 2027 med plan 2028-2030 IT-nämnden
+- s. 7: att anta Budget 2027 med plan 2028–2030 för IT-nämnden.
+- s. 7: Budgeten för 2027–2030 syftar till att:
+- s. 8: Budgetjusteringen för 2027 beaktar:
+- s. 8: Budgetnivån för 2027 har samtidigt anpassats till medlemskommunernas
+- s. 9: • Budget 2027 med plan 2028–2030 IT-nämnden v2
+- s. 10: verksamhetsår 2027 och avser då i huvudsak årsbokslut 2026, budget 2028
+
+**Beslut och förslag**
+
+- s. 7: att fastställa fördelningsnyckeln för år 2027 i enlighet med
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (17 sidor).

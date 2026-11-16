@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.hylte.se/download/18.4b14e5111a1c475119d53f8/1794553032707/Protokoll%20KS%202026-11-10.pdf",
+  "titel": "Protokoll KS 2026-11-10.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "47b5b13ce46e6a773276e04fad8190985b48c758cef9c868a10a6a34090cf7a4",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 31,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.hylte.se/download/18.556c0cb41a1c4a942736fb9/1794571956541/Protokoll%20GNHH%202026-11-11.pdf",
+  "titel": "Protokoll GNHH 2026-11-11.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "c883d388ffcdec202ccba624d9044686f1b71dffacf6fa82c10f0815297a8ecb",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 20,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.hylte.se/download/18.54fc94e91a1a1b299e9147/1793718140907/Protokoll%20Patientn%C3%A4mnden%202026-10-28.pdf",
   "titel": "Protokoll Patientnämnden 2026-10-28.pdf",
   "typ": "pdf",

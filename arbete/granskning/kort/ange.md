@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ange.se/
 Portal: Mötesportal
-Hämtade dokument: 2, hämtfel: 9
+Hämtade dokument: 2, hämtfel: 18
 Mötessida: https://moten.ange.se/committees/kommunfullmaktige/mote-2026-10-26
 KF-möten: 2026-10-26, 2026-11-30; KS-möten: 2026-12-15
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. Budget 2026 med plan 2027–2029 (KF 2025-06-16 och 2025-11-24) nämner inte reformen specifikt, men konstaterar att flera nya skolreformer har oklar finansiering. Planram 2027 för Barn och unga är 338,0 mnkr.

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.gavle.se/
 Portal: MeetingsPlus
-Hämtade dokument: 37, hämtfel: 8
+Hämtade dokument: 47, hämtfel: 8
 Mötessida: https://meetingsplus.gavle.se/committees/kommunstyrelsen/mote-2026-10-27
 KF-möten: 2026-09-13, 2026-09-25, 2026-10-23; KS-möten: 2026-10-27, 2026-12-01
 Nuvarande sammanfattning: Ingen kommunplan eller budget för 2027 kunde läsas. Länkar i Gävles mötesportal (meetingsplus) blockerades. Utbildningsnämndens remissvar 2025-04-23 på SOU 2024:94 tar kort upp SOU 2025:26 som en risk för lärares tid, men säger inget om kostnader eller statsbidrag. Under hösten sammanträder KF 2026-11-23 och 2026-12-14, men vad som står på dagordningen är inte verifierat.

@@ -1,5 +1,45 @@
 [
  {
+  "url": "https://www.laxa.se/download/18.4898eade1a1a18a1e193987a/1794329021609/Kallelse%20kommunfullm%C3%A4ktige%202026-11-18.pdf",
+  "titel": "Kallelse kommunfullmäktige 2026-11-18.pdf Pdf, 236.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "6c06676d82007977dc97652fc53ea914401f56fbb62ca728e55e3288e3ed989b",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 13,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.laxa.se/download/18.4b04814f1a1c915a4feaef5/1794494213355/Protokoll%20KF%202026-10-21.pdf",
+  "titel": "Protokoll KF 2026-10-21.pdf\nPdf, 1.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "fa04eca69173c5117a85e17a649e46529a9c3fa027a8d4df4cc054f6ef13a92f",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 40,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 27,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "läskris i Sverige. Uppdraget finansieras via finansieringsprincipen och läggs in i det generella bidraget. Allt som läggs in i det generella statsbidraget används för att finansiera inkomstutjämning och regleringspost. Det är fullmäktiges medel att fördela på det sätt som beslutas. Beslutsund",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 1
+ },
+ {
   "url": "https://www.laxa.se/download/18.1ccccf451a16318572a267c0/1793120937184/Protokoll%20KS%202026-10-27.pdf",
   "titel": "Protokoll KS 2026-10-27.pdf\nPdf, 1.2 MB, öppnas i nytt fönster.",
   "typ": "pdf",

@@ -2,9 +2,9 @@
 
 Webbplats: https://www.karlsborg.se/
 Portal: eNämnd
-Hämtade dokument: 48, hämtfel: 0
+Hämtade dokument: 63, hämtfel: 0
 Mötessida: https://www.karlsborg.se/kommun--politik/sa-styrs-karlsborgs-kommun/politik/sammantraden-arenden-handlingar-och-protokoll/sammantradesdagar/
-KF-möten: 2026-01-01, 2026-05-06, 2026-05-25, 2026-05-29, 2026-06-22, 2026-06-23, 2026-09-21, 2026-10-27, 2027-01-01; KS-möten: 2026-03-11, 2026-03-26, 2026-04-08, 2026-05-13, 2026-05-25, 2026-07-21, 2026-10-27
+KF-möten: 2026-05-06, 2026-05-25, 2026-05-29, 2026-06-22, 2026-06-23, 2026-09-21, 2026-10-27; KS-möten: 2026-03-11, 2026-03-26, 2026-04-08, 2026-05-13, 2026-05-25, 2026-07-21, 2026-10-27
 Nuvarande sammanfattning: Inga handlingar för budget och verksamhetsplan 2027–2029 hittades vid omkörningen heller. Sökträffarna gällde äldre budgetar, bland annat 2025–2027, en folkhälsoplan 2026–2028 och en biblioteksplan 2024–2027.
 Luckor: Inget budgetdokument för 2027, inga nämndunderlag och inget KF-datum hittades. Enligt förra körningen visar karlsborg.se:s sidor för protokoll och ekonomi bara menyer, eftersom innehållet laddas med JavaScript. Budget och verksamhetsplan 2025–2027 granskades inte. Tre sökningar är gjorda.
 

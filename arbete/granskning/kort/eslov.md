@@ -2,9 +2,9 @@
 
 Webbplats: https://www.eslov.se/
 Portal: ingen känd
-Hämtade dokument: 14, hämtfel: 1
+Hämtade dokument: 16, hämtfel: 1
 Mötessida: https://eslov.se/kommun-politik/kommunens-organisation/kommunfullmaktige/fullmaktiges-sammantraden-och-protokoll/
-KF-möten: 2026-02-23, 2026-04-27, 2026-06-15, 2026-09-28, 2026-10-26; KS-möten: 2026-10-06, 2026-10-20
+KF-möten: 2026-02-23, 2026-04-27, 2026-06-15, 2026-09-28, 2026-10-26, 2026-11-23; KS-möten: 2026-10-06, 2026-10-20, 2026-11-03, 2026-11-10
 Nuvarande sammanfattning: Handlingarna till KS 2026-05-26 innehåller vårprognosen 2026. Där tas regleringen av lärares undervisningstid (SOU 2025:26) upp under rubriken betydande avtal och regelförändringar, men utan belopp. Barn- och familjenämnden behandlade "Budget 2027 och planperiod 2028-2030" den 16 september 2026, men handlingarna gick inte att öppna.
 Luckor: Kallelsen och protokollet från BoF 2026-09-16 (ärendet om budget 2027) gick inte att hämta, eftersom URL:erna inte var tillåtna. Därför vet vi inte om nämndens underlag innehåller merkostnad eller äskande för undervisningstiden. KS:s och majoritetens förslag till budget 2027 och datum för KF:s beslut har inte hittats. Gymnasie- och vuxenutbildningsnämndens underlag har inte granskats. Statusen ändrades 2026-11-07 från Nämnt utan belopp till Ej bedömbart än. Reformen nämns bara i dokument som inte är budgethandlingar för 2027 (till exempel remissvar, årsredovisning eller planer för 2026), och ingen budgethandling för 2027 med innehåll har granskats. Den automatiska hämtningen 2026-11-07 hittade reformorden i kommunstyrelsens handlingar 2026-05-26 (budgetuppföljning och omvärldsbeskrivning), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

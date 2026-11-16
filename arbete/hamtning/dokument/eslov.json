@@ -1,5 +1,52 @@
 [
  {
+  "url": "http://eslov.se/wp-content/uploads/protokoll-protokoll-utan-sekretess-och-pu-for-anslag.pdf",
+  "titel": "Kommunstyrelsens arbetsutskotts protokoll 2026-11-10 — Eslövs kommun – Kommunstyrelsens arbetsutskotts protokoll 2026-11-10 Protokoll Protokoll",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "fb678c171829ea264839599a2849ee89de18c5465b67d9b492a5e5cc19b1bf81",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 12,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://eslov.se/wp-content/uploads/kallelse-med-handlingar-ks-2026-09-01.pdf",
+  "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "7d5e4db91a281482b5036b3ccf46f99085e8670913da05a2678943c89023ac82",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 72,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "ldningsrådets avvikelsehantering. Avvikelser är det begrepp som Folkbildningsrådet använder för att benämna misstänkt eller konstaterad felaktig användning av statsbidrag för folkbildning. Folkbildningsrådets handläggning av sådana ärenden benämns avvikelsehantering. Anmälningar från enskilda deltagare på folkhögskola benämns st",
+    "belopp_nara": false
+   },
+   {
+    "sida": 73,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "Utöver det rättsliga stödet för avvikelsehantering har Folkbildningsrådet ett uppdrag från medlemmarna att fullgöra det som regering och riksdag kräver för att statsbidrag ska utgå till den verksamhet som bedrivs av studieförbund och folkhögskolor. Handläggningen ska vara rättssäker och sakligt grundad. I arbetet tillämpas offen",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
   "url": "http://eslov.se/wp-content/uploads/kallelse-och-handlingar-till-kommunstyrelsens-sammantrade-2026-11-03.pdf",
   "titel": "Kommunstyrelsens kallelser och protokoll — Eslövs kommun –",
   "typ": "pdf",

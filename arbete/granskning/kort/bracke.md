@@ -2,7 +2,7 @@
 
 Webbplats: https://www.bracke.se/
 Portal: Formpipe Platina
-Hämtade dokument: 3, hämtfel: 6
+Hämtade dokument: 3, hämtfel: 20
 Mötessida: https://brackekommun.ondemand.formpipe.com/committees/kommunfullmaktige/kommunfullmaktige-88892
 KF-möten: 2026-04-15, 2026-05-11, 2026-06-10, 2026-08-31, 2026-10-15, 2026-10-21, 2026-10-23, 2026-10-30, 2026-11-02, 2026-11-11, 2026-11-16, 2026-12-09; KS-möten: 2026-04-23
 Nuvarande sammanfattning: Kommunplan 2026–2028 är beslutad av KF (§ 229/2025) och nämner inte reformen. Den anger att KF beslutar kommunplanen i december. Inga budgethandlingar för 2027 hittades.

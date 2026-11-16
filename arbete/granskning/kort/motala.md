@@ -1,7 +1,7 @@
 # Motala (Östergötlands län)
 
 Webbplats: https://www.motala.se/
-Portal: Ciceron, eNämnd
+Portal: ingen känd
 Hämtade dokument: 12, hämtfel: 10
 Mötessida: https://www.motala.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige/
 KF-möten: okända; KS-möten: okända

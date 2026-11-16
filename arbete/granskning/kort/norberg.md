@@ -2,7 +2,7 @@
 
 Webbplats: https://www.norberg.se/
 Portal: Public 360 OpenGov, eNämnd
-Hämtade dokument: 24, hämtfel: 6
+Hämtade dokument: 25, hämtfel: 20
 Mötessida: https://norberg.se/kommun--politik/insyn-och-paverkan/protokoll-och-handlingar.html
 KF-möten: 2026-02-23, 2026-05-11, 2026-06-15, 2026-09-13, 2026-11-02, 2026-11-09; KS-möten: okända
 Nuvarande sammanfattning: Kommunens sida 'Budget och redovisning' har som senaste fil 'Budget 2026 med plan 2027-2028' och inget eget budgetdokument för 2027. KF beslutade budget 2026 i november 2025, så budget 2027 beslutas sannolikt i KF hösten 2026. KF:s återstående möten är 9 november och 14 december 2026.

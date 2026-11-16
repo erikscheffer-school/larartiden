@@ -2,9 +2,9 @@
 
 Webbplats: https://www.varmdo.se/
 Portal: ingen känd
-Hämtade dokument: 11, hämtfel: 8
+Hämtade dokument: 11, hämtfel: 23
 Mötessida: https://www.varmdo.se/
-KF-möten: okända; KS-möten: 2026-10-21
+KF-möten: okända; KS-möten: 2026-10-21, 2026-11-11, 2026-11-13
 Nuvarande sammanfattning: Budgetdokument 2026 med ramar 2027–2029 gick inte att öppna.
 Luckor: Budgetdokument gav serverfel; opengov ej åtkomligt.
 

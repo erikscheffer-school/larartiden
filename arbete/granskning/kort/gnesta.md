@@ -2,9 +2,9 @@
 
 Webbplats: https://www.gnesta.se/
 Portal: ingen känd
-Hämtade dokument: 45, hämtfel: 0
+Hämtade dokument: 60, hämtfel: 0
 Mötessida: https://www.gnesta.se/politikdemokrati/moteshandlingarochprotokoll/protokollfrankommunstyrelsen.4.1f5a486516617a6d21f28183.html
-KF-möten: 2026-06-09, 2026-06-16, 2026-09-28, 2026-10-02, 2026-10-06, 2026-10-12, 2026-10-19, 2026-10-20, 2026-10-21, 2026-11-01, 2026-11-09, 2027-01-01; KS-möten: 2026-01-23, 2026-01-28, 2026-02-03, 2026-02-23, 2026-03-25, 2026-04-13, 2026-05-12, 2026-06-09, 2026-06-16, 2026-09-01, 2026-10-02, 2026-10-20
+KF-möten: 2026-06-09, 2026-06-16, 2026-09-28, 2026-10-02, 2026-10-06, 2026-10-12, 2026-10-19, 2026-10-20, 2026-10-21, 2026-11-01, 2026-11-09, 2026-11-13; KS-möten: 2026-01-28, 2026-02-03, 2026-02-23, 2026-03-25, 2026-04-13, 2026-05-12, 2026-06-09, 2026-06-16, 2026-09-01, 2026-10-02, 2026-10-20, 2026-11-13
 Nuvarande sammanfattning: Ingen Framtidsplan 2027–2029 hittades. Kallelsen till KS 2026-06-09 innehöll bara ett näringslivsprogram och hänvisade till Framtidsplan 2026–2028.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Framtidsplan 2027–2029, BUN-underlag och KF-datum hittades inte. Tidigare framtidsplaner (2022–2024, 2023–2025) publicerades i december, vilket tyder på KF-beslut i nov–dec. Det är inte verifierat för 2026. Den automatiska hämtningen 2026-11-07 hittade reformorden i barn- och utbildningsnämndens kallelser 2026-02-13 och 2026-09-03 (information om reformen och resursfördelningsmodellen), men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

@@ -2,7 +2,7 @@
 
 Webbplats: https://www.lidkoping.se/
 Portal: eNämnd
-Hämtade dokument: 21, hämtfel: 0
+Hämtade dokument: 22, hämtfel: 0
 Mötessida: https://lidkoping.se/kommun-och-politik/politik-och-demokrati/anslagstavla
 KF-möten: 2026-04-27, 2026-10-15, 2026-10-26; KS-möten: 2026-10-28, 2026-11-04
 Nuvarande sammanfattning: Strategisk plan och budget 2026–2028, där 2027 är planår, nämner inte reglerad undervisningstid. Den enda träffen gäller den tidigare reformen om utökad undervisningstid i lågstadiet. Strategisk plan och budget 2027–2029 hittades inte. Regeringens remissvar från Lidköping gäller SOU 2024:94 (förstärkningsundervisning), inte SOU 2025:26.

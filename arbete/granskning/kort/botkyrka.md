@@ -2,9 +2,9 @@
 
 Webbplats: https://www.botkyrka.se/
 Portal: ingen känd
-Hämtade dokument: 42, hämtfel: 5
+Hämtade dokument: 43, hämtfel: 19
 Mötessida: https://www.botkyrka.se/kommun-och-politik/politik-och-organisation/moten-handlingar-och-protokoll
-KF-möten: 2026-10-16; KS-möten: 2027-01-01
+KF-möten: 2026-10-16; KS-möten: okända
 Nuvarande sammanfattning: Nämndernas yttranden över Mål och budget 2027–2030 gick inte att öppna. Budget 2026 nämner inte reformen.
 Luckor: Utbildningsnämndens protokoll 2026-08-25 ej åtkomligt. Den automatiska hämtningen 2026-11-07 hittade reformorden i Mål och budget 2024 med flerårsplan 2025–2027, men det är ingen budgethandling för 2027 med ramar, belopp eller förslag.
 

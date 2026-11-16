@@ -2,9 +2,9 @@
 
 Webbplats: https://www.karlstad.se/
 Portal: eNämnd
-Hämtade dokument: 15, hämtfel: 0
+Hämtade dokument: 30, hämtfel: 0
 Mötessida: https://karlstad.se/kommun-och-politik/kommunens-organisation/kommunfullmaktige
-KF-möten: 2026-01-22, 2026-02-19, 2026-03-26, 2026-04-23, 2026-05-21, 2026-06-16, 2026-08-17, 2026-08-20, 2026-09-24, 2026-10-22, 2026-11-09; KS-möten: 2026-04-14, 2026-05-19, 2026-06-02, 2026-06-15, 2026-08-19, 2026-08-25, 2026-08-26, 2026-09-22, 2026-10-05, 2026-10-20, 2026-11-03, 2026-11-09
+KF-möten: 2026-03-26, 2026-04-23, 2026-05-21, 2026-06-16, 2026-08-17, 2026-08-20, 2026-09-24, 2026-10-22, 2026-11-09, 2026-11-13, 2026-11-16, 2026-11-19; KS-möten: 2026-06-02, 2026-06-15, 2026-08-19, 2026-08-25, 2026-08-26, 2026-09-22, 2026-10-05, 2026-10-20, 2026-11-03, 2026-11-09, 2026-11-11, 2026-11-16
 Nuvarande sammanfattning: Ingen strategisk plan eller budget 2027 hittades; träffarna gällde äldre år. Karlstads remissvar på regeringen.se gäller SOU 2025:44 (Förbättrat stöd i skolan), inte SOU 2025:26.
 Luckor: Hittade varken strategisk plan 2027–2029, KF-datum, underlag från BUN/gymnasienämnden eller remissvar på SOU 2025:26 (3 sökningar gjorda). Pressmeddelandena i kommunens nyhetsrum ("Kommunstyrelsen i korthet") som kom upp i sökningen gällde äldre år.
 

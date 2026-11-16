@@ -2,9 +2,9 @@
 
 Webbplats: https://www.nykoping.se/
 Portal: eNämnd
-Hämtade dokument: 19, hämtfel: 0
+Hämtade dokument: 34, hämtfel: 0
 Mötessida: https://www.nykoping.se/kommun--politik/politik-och-demokrati/kommunstyrelsen/kommunstyrelsen---tidigare-protokoll-och-kallelser/
-KF-möten: 2026-06-09, 2026-09-08, 2026-09-25, 2026-10-01, 2026-10-05, 2026-10-06, 2026-10-13, 2026-10-15, 2026-10-20, 2026-10-21, 2026-11-04, 2026-11-10; KS-möten: 2026-08-24, 2026-09-07, 2026-09-28, 2026-10-01, 2026-10-05, 2026-10-06, 2026-10-13, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-23, 2026-11-02
+KF-möten: 2026-09-25, 2026-10-01, 2026-10-05, 2026-10-06, 2026-10-13, 2026-10-15, 2026-10-20, 2026-10-21, 2026-11-04, 2026-11-10, 2026-11-12, 2026-11-13; KS-möten: 2026-09-28, 2026-10-01, 2026-10-05, 2026-10-06, 2026-10-13, 2026-10-19, 2026-10-20, 2026-10-21, 2026-10-23, 2026-11-02, 2026-11-12, 2026-11-13
 Nuvarande sammanfattning: Budget 2027 hittades inte. Varken Budget 2026 med flerårsplan 2027–2028 (KF 2025-10-14) eller BUN:s mål och budget 2026 (BUN 2026-06-03) nämner reglerad undervisningstid.
 Luckor: OMKÖRNING R02: 3 webbsökningar gjordes. Budget 2027 hittades inte. Nyköping beslutar normalt i oktober (2025-10-14, 2024-10-08), men datumet 2026 är inte verifierat. BUN:s underlag för 2027 hittades inte.
 

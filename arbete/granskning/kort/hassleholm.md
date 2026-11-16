@@ -2,21 +2,63 @@
 
 Webbplats: https://www.hassleholm.se/
 Portal: ingen känd
-Hämtade dokument: 46, hämtfel: 0
+Hämtade dokument: 61, hämtfel: 0
 Mötessida: https://www.hassleholm.se/kommun-och-politik/kommunens-organisation/kommunstyrelsen/kallelser-protokoll-och-motestider-for-kommunstyrelsens-arbetsutskott
 KF-möten: 2026-08-24, 2026-10-20; KS-möten: 2026-01-30, 2026-06-22, 2026-06-23, 2026-09-11
 Nuvarande sammanfattning: Enligt lokalmedia (Frilagt, 2026-10-26) innehåller S-M-L-styrets förslag till budget 2027 ett sparkrav på barn- och utbildningsnämnden: 50 mnkr på fyra år, varav 12 mnkr 2027. Skolorganisationen ska ses över. Reformen om undervisningstid nämns inte i artikeln. Själva budgetdokumentet för 2027 hittades inte.
 Luckor: Styrets budgetdokument (Strategisk plan 2027–2029) och oppositionens förslag hittades inte via sök. NSK:s artikel 'Budget: Skolor ska ses över' blockerades (robots). KF-datum för budget 2027 är okänt; tidigare år har budgeten beslutats i juni (2024-06-11) eller i november. BUN:s budgetunderlag är ogranskat. Hässleholms remissvar på regeringen.se gällde transportinfrastruktur, inte SOU 2025:26. Statusen ändrades 2026-11-07 till Ej bedömbart än, eftersom ingen budgethandling för 2027 med ramar, belopp eller förslag har granskats. Uppgifterna om styrets budgetförslag kommer från en nyhetsartikel, inte från kommunens handlingar.
 
-Inga kandidater till budgethandling för 2027 bland de hämtade dokumenten.
+### Miljö- och stadsbyggnadsnämndens kallelse och ärendelista 2026-09-22.pdf Pdf, 143 kB.
 
-Senast daterade hämtade dokument:
+https://www.hassleholm.se/download/18.503ea3ec1a0a37ab0d53085/1789545062002/Milj%C3%B6-%20och%20stadsbyggnadsn%C3%A4mndens%20kallelse%20och%20%C3%A4rendelista%202026-09-22.pdf
 
-- Upprättad: 2026-05-18 Bilaga till fördjupad översiktsplan för Hässleholms stad – https://www.hassleholm.se/download/18.601bc54919e62f433c99ef1/1779864452181/Bilaga%203%20Lokaliseringsutredning%20verksamheter.pdf
-- Kommunstyrelsens arbetsutskotts kallelse 2025-10-22.pdf Pdf, 189.6 kB. – https://www.hassleholm.se/download/18.6af9918199c8c6a9813ccd8/1761054544313/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-10-22.pdf
-- Kommunfullmäktiges kallelse 2025-10-20.pdf Pdf, 23.4 MB. – https://www.hassleholm.se/download/18.241d76a2199c8f39a23b888/1760971379473/Kommunfullm%C3%A4ktiges%20kallelse%202025-10-20.pdf
-- Kallelse kultur- och fritidsnämnden 2025-10-09.pdf Pdf, 19.1 MB. – https://www.hassleholm.se/download/18.2f1f8b5819998d2b408156bd/1759405451263/Kallelse%20kultur-%20och%20fritidsn%C3%A4mnden%202025-10-09.pdf
-- Kommunfullmäktiges kallelse 2025-09-29.pdf Pdf, 18.1 MB. – https://www.hassleholm.se/download/18.153e1a141992cc7b75f57018/1759146634686/Kommunfullm%C3%A4ktiges%20kallelse%202025-09-29.pdf
-- Kommunstyrelsens arbetsutskotts kallelse 2025-09-10.pdf Pdf, 14.9 MB. – https://www.hassleholm.se/download/18.4a503f71199138e52e51d80/1757495251567/Kommunstyrelsens%20arbetsutskotts%20kallelse%202025-09-10.pdf
-- Kallelse kultur- och fritidsnämnden 2025-09-04.pdf Pdf, 13.6 MB. – https://www.hassleholm.se/download/18.dc6aed9198e5a5e62814f1f/1756393194446/Kallelse%20kultur-%20och%20fritidsn%C3%A4mnden%202025-09-04.pdf
-- Kommunfullmäktiges kallelse 2025-08-25.pdf Pdf, 19.1 MB. – https://www.hassleholm.se/download/18.3dc1335c198977b06c924fb2/1756123205807/Kommunfullm%C3%A4ktiges%20kallelse%202025-08-25.pdf
+Sidor: 4. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+KALLELSE/UNDERRÄTTELSE
+Datum
+2026-09-15
+Miljö- och stadsbyggnadsnämnden
+Ledamöter Ersättare Tjänstepersoner
+Bo Persson (M), ordf Ingela Tillgren (SD) Förvaltningschef
+Ann Olausson (S), 1:e vice ordf Mikkel Jönsson Vaerge (SD) Sekreterare
+Paul Thurn (SD), 2:e vice ordf Bengt Troedsson (M) Övriga berörda handläggare
+Anita Nilsson (SD) Mikael Andersson (KD) Avdelningschefer
+Nils Lundström (SD) Greger Johnsson (S)
+Andreas Novotny (M) Alfred Johansson (V)
+Roland Blomqvist (KD)
+Jonas Klein (FV)
+Jonas Andersson (S)
+Sofia Knutsson (S)
+Håkan Björk (MP)
+Nämnd/styrelse: Miljö- och stadsbyggnadsnämnden
+Tid: Tisdagen den 22 september kl. 13.00
+Sammanträdeslokal: Kronhjorten (tidigare Sammanträdesrum 1), Stadshuset, Hässleholm
+I tur att justera: Paul Thurn (ersättare Ann Olausson)
+Tid och plats för justering: Digital justering
+2 (3)
+Nr Ärende
+1. B 2026-000017
+Information från förvaltningen 2026
+Sandra Gustafsson
+2. B 2025-001016
+TORMESTORP 5:16
+Detaljplan för del av Tormestorp 5:16 m.fl.
+(Västra Finjasjö park)
+```
+
+**Rader om budget och 2027**
+
+- s. 2: Driftsbudget och investeringsbudget 2027- 2030
+
+**Beslut och förslag**
+
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (4 sidor).

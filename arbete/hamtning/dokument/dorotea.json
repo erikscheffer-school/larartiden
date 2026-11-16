@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://www.dorotea.se/media/qipbejqc/kallelse-ks-20261116.pdf",
+  "titel": "Anslagstavla | Dorotea Kommun – Dokument",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "f15efe687bbd93253f5a1481c3a6c8225aa516bf7830c994ec215335493f916d",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": true,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/sd-har-flest-tomma-stolar-i-vasterbotten-jobbar-for-att-locka-nya-politiker?inlagg=e4080589a7e5c2ac5cd16a6e795dafdd",
   "titel": "Dorotea kommunlista är tillbaka – utmanar makten – SD har flest tomma stolar i Västerbotten – jobbar för att locka nya politiker | SVT Nyheter",
   "typ": "html",

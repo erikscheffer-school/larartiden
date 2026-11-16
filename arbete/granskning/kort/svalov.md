@@ -2,148 +2,194 @@
 
 Webbplats: https://www.svalov.se/
 Portal: ingen känd
-Hämtade dokument: 43, hämtfel: 1
+Hämtade dokument: 58, hämtfel: 1
 Mötessida: https://www.svalov.se/kommun--politik/politik/arenden-handlingar--protokoll
 KF-möten: 2026-03-13, 2026-10-20; KS-möten: okända
 Nuvarande sammanfattning: Tre sökningar gav inga handlingar för budget 2027. Det enda granskade dokumentet var KS-protokollet 2026-02-09. Det gäller nämndplaner 2026 och nämner varken budget 2027 eller reformen.
 Luckor: Budgetförslaget och budgetbeslutet för 2027, KF-datum och nämndernas underlag hittades inte, varken i sökresultaten eller via sökmotorn. Svalövs mötesportal kunde inte nås, eftersom bara URL:er som syns i sökresultaten får hämtas.
 
-### KS 261012.signerad.pub.pdf
+### Ärenden, handlingar & protokoll | Svalövs kommun – SBN 260923 - pdf.pdfÖppnas i en ny flik
 
-https://www.svalov.se/download/18.3fd2f821a12f82b12fa26a7/1791963695676/KS%20261012.signerad.pub.pdf
+https://www.svalov.se/download/18.125e5ee01a10a4ecea6233c0/1791209752874/SBN%20260923%20-%20pdf.pdf
 
-Sidor: 30. Budget 2027 enligt titeln: oklart.
+Sidor: 15. Budget 2027 enligt titeln: oklart.
 
 **Förstasidorna**
 
 ```
 Sida
-Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 1(27)
+Samhällsbyggnadsnämnden SAMMANTRÄDESPROTOKOLL 1(14)
 Sammanträdesdatum
-2026-10-12
-Plats och tid Kommunhuset, Svalöv, kl 13.30 – 15.05
-Beslutande Teddy Nilsson (SD), ordf.
-Èmilie Lundgren (S)
-Anna Berg von Linde (M), förste vice ordf.
-Jan Zielinski (S), andre vice ordf.
-Aase Jönsson (KD)
-Anneli Persson (S)
-Ingrid Ekström (SD)
-Marie Irbladh (C)
-Sten Wendel (M)
-Anders Malmros (V)
-Kim Hellström (SD)
-Hans Lindström (SD), tjg ers för Wioletta Kopanska (SD)
-Torbjörn Ekelund (L)
-Ej tjänstgörande Paulina Sinisalo (S)
-ersättare Marie Dahlström (KD)
-Niklas Bohn (S)
-Annelie Johnsson (C)
+2026-09-23
+Plats och tid Kommunhuset, Svalöv, kl. 13.00-15.40
+Mötet ajournerades kl. 14.33-14.58
+Beslutande Mats Hannander (SD), 1:e vice ordf
+Niklas Bohn (S), 2:e vice ordf
+A Jörgen Persson (SD)
+Johan Wigrup tjg ersättare för Marie Irbladh (C)
+Stefan Pettersson (M), ordförande
+Lars Kristensson (KD)
+Mikael Persson (S)
+Ej tjänstgörande Sten Schmidt (SD)
+ersättare Conny Rundqvist (SD)
 Agneta Sörensson (M)
-Mats Hannander (SD)
-Annelie Frykholm (L)
-Övriga deltagare Åsa Simonsson, kommundirektör
-Michael Andersson, administrativ chef/tf kanslichef
-Patrik Löfstrand, ekonomichef, §§ 209 - 219
-Marlene Andersson, socialchef, §§ 209 - 219
-Nina Pringle, utbildningschef, §§ 209 - 219
+Olof Lindgren (M)
+Katja Wennerlund (C)
+Insynsplatser,
+ersättare Torbjörn Ekelund (L)
+Övriga deltagare Carina Tenngart, samhällsbyggnadschef
+Sofia Tjernström, plan- och exploateringschef
+Ulrika Lassing, stabschef
+Matilda Mosvold, nämndsekreterare
+Mohamed Abo-Sharkh, teknisk projektledare §§ 110–112
+Linn Renström, miljöstrateg §§ 110–112
+Johanna Nordlund, NSVA §§ 110–111
+Åsa Prytz, NSVA §§ 110–111
+Eva Ogard, verksamhetskoordinator §§ 110–112
+Maria Stjerndahl, miljöstrateg §§ 110–112
 ```
 
 **Rader om budget och 2027**
 
-- s. 3: § 215 Kommunal skattesats 2027 ..................................................................... 10
-- s. 10: § 215 Kommunal skattesats 2027
-- s. 10: Förslag till beslut kring Mål och Budget 2027 samt plan 2028 - 2029 kommer att
-- s. 10: Senast i oktober skall dock kommunstyrelsen föreslå skattesats för år 2027.
-- s. 21: 1. Verksamhetsplan 2027–2029 för VA-verksamheten i Svalövs kommun,
-- s. 21: 2. Budget 2027 samt plan 2028–2029 för VA-verksamheten i Svalövs
-- s. 21: Verksamhetsplan 2027–2029 för VA-verksamheten i Svalövs kommun samt
-- s. 21: Budget 2027–2029 och förslag till va-taxa 2027, som presenterat på
-- s. 21: föreslp kommunfullmäktige fatta följande beslut: 1) Verksamhetsplan 2027–
-- s. 21: 2) Budget 2027 samt plan 2028–2029 för VA-verksamheten i Svalövs kommun,
-- s. 21: Verksamhetsplan 2027–2029
-- s. 21: Bilaga 1; Budget 2027–2029
+- s. 7: 1. Verksamhetsplan 2027–2029 för VA-verksamheten i Svalövs
+- s. 7: 2. Budget 2027 samt plan 2028–2029 för VA-verksamheten i Svalövs
+- s. 7: Verksamhetsplan 2027–2029 för VA-verksamheten i Svalövs kommun samt
+- s. 7: Budget 2027–2029 och förslag till va-taxa 2027, som presenterat på
+- s. 7: Verksamhetsplan 2027–2029
+- s. 7: Bilaga 1; Budget 2027–2029
+- s. 7: Stefan Pettersson (M): 1) Verksamhetsplan 2027–2029 för VA-verksamheten i
+- s. 8: 2) Budget 2027 samt plan 2028–2029 för VA-verksamheten i Svalövs kommun,
 
 **Beslut och förslag**
 
-- s. 10: Förslag till beslut kring Mål och Budget 2027 samt plan 2028 - 2029 kommer att
-- s. 10: Senast i oktober skall dock kommunstyrelsen föreslå skattesats för år 2027.
-- s. 14: 1. Kommunstyrelsen sammanträder år 2027 vid kl. 13.30 under följande
-- s. 14: 1. Kommunfullmäktige sammanträder år 2027 vid kl. 18.30 under följande
-- s. 14: ska fatta beslut om sina sammanträdestider för 2027.
-- s. 14: 1) Kommunstyrelsen sammanträder år 2027 vid kl. 13.30 under följande dagar:
+- s. 7: Budget 2027–2029 och förslag till va-taxa 2027, som presenterat på
 
 **Skola och utbildning (rader med belopp)**
 
-- s. 1: Nina Pringle, utbildningschef, §§ 209 - 219
-- s. 4: e) SKR Cirkulär 2026:29 Utökade registerkontroller i skolan (KS 28-2026)
-- s. 4: bildningsnämndens delårsbokslut per 2026-08-31 och prognostiserat
-- s. 12: Bildningsnämndens protokoll 2026-09-29, § 109
 
 **Reformorden**
 
-- Inga reformord i hela texten (30 sidor).
+- Inga reformord i hela texten (15 sidor).
 
-### KS 260914.signerad.pub.pdf
+### Ärenden, handlingar & protokoll | Svalövs kommun – SN 260827 -.pdfÖppnas i en ny flik
 
-https://www.svalov.se/download/18.4c1daa2d1a0bcb14f2bd1774/1790086331666/KS%20260914.signerad.pub.pdf
+https://www.svalov.se/download/18.3b9d50541a07ed627cb69b7e/1788943835680/SN%20260827%20-.pdf
 
-Sidor: 39. Budget 2027 enligt titeln: oklart.
+Sidor: 19. Budget 2027 enligt titeln: oklart.
 
 **Förstasidorna**
 
 ```
 Sida
-Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 1(36)
+Socialnämnden SAMMANTRÄDESPROTOKOLL 1(18)
 Sammanträdesdatum
-2026-09-14
-Plats och tid Kommunhuset, Svalöv, kl 13.30 – 14.05
-Beslutande Teddy Nilsson (SD), ordf.
-Émilie Lundgren (S)
-Anna Berg von Linde (M), förste vice ordf.
-Jan Zielinski (S), andre vice ordf.
-Aase Jönsson (KD)
-Anneli Persson (S)
-Ingrid Ekström (SD)
-Marie Irbladh (C)
-Sten Wendel (M)
-Anders Malmros (V)
-Kim Hellström (SD)
+2026-08-27
+Plats och tid Kommunhuset, Svalöv, kl. 13:00-16:03
+Mötet ajournerades kl. 13.01-13.02
+Mötet ajournerades kl. 15.25-15.40
+Mötet ajournerades kl. 15.42-15.45
+Mötet ajournerades kl. 15:52-16:01
+Beslutande Hans Lindström (SD)
+Anneli Persson (S), 2:e vice ordf.
 Wioletta Kopanska (SD)
-Torbjörn Ekelund (L)
-Ej tjänstgörande Paulina Sinisalo (S)
-ersättare Stefan Pettersson (M)
-Katarina Hollosy Boo (S)
-Marie Dahlström (KD)
-Niklas Bohn (S)
+Sonja Zielinski (S)
+Anna Berg von Linde (M), 1:e vice ordf.
+Aase Jönsson (KD), ordf.
 Annelie Johnsson (C)
-Agneta Sörensson (M)
-Britta Abotsi (V)
-Mats Hannander (SD)
-Övriga deltagare Åsa Simonsson, kommundirektör
-Michael Andersson, administrativ chef/tf kanslichef
-Patrik Löfstrand, ekonomichef
+Ej tjänstgörande Stefan Persson (SD)
+ersättare Evie Soli (V)
+Micke Petersson (M)
+Marie Dahlström (KD)
+Insynsplatser Annelie Frykholm (L)
+Övriga deltagare Marléne Andersson, socialchef vård och omsorg, LSS samt IFO
+Matilda Mosvold, nämndsekreterare
+Stefan Segerman, MAS §§ 94 och 96
+Janny Bildtgård, verksamhetskoordinator §§ 94 och 96
+Dragana Pribak, enhetschef öppenvård IFO §§ 94–96
+Carin Larsson, ekonom § 96
+Eva Marie Tancred, stabschef, §§ 94 och 96
+Justerare Utdragsbestyrkande
+Protokollet är justerat med digital signering
 ```
 
 **Rader om budget och 2027**
 
-- s. 3: § 195 Mål och budget 2027, plan 2028 - 2029 ................................................... 7
-- s. 7: § 195 Mål och budget 2027, plan 2028 - 2029
-- s. 7: och Budget 2027 med plan 2028 - 2029 remitteras till socialnämnden,
+- s. 3: § 100 Socialnämndens remissvar – Ramar Budget 2027 med plan 2028–2029
+- s. 5: g) Socialnämndens remissvar – Ramar Budget 2027 med plan 2028–2029
+- s. 11: § 100 Socialnämndens remissvar – Ramar Budget 2027
+- s. 11: Budget 2027 med plan 2028 - 2029 remitteras till socialnämnden,
+- s. 11: Ramar Budget 2027 med plan 2028–2029, daterad 2026-05-24
 
 **Beslut och förslag**
 
-- s. 4: a) Medlemsavgift för år 2027 Skånes Kommuner, enligt beslut i Styrelsen
 
 **Skola och utbildning (rader med belopp)**
 
-- s. 7: Bildningsnämndens protokoll 2026-08-25, § 90
-- s. 28: Bildningsnämnden fattade 2026-08-25, § 93, följande beslut: 1) Yttrandet,
-- s. 28: daterat 2026-08-14, antas som bildningsnämndens eget och överlämnas till
-- s. 28: Bildningsnämndens protokoll 2026-08-25, § 93
-- s. 32: Bildningsnämnden fattade 2026-08-25, § 92, följande beslut: 1) Yttrandet,
-- s. 32: daterat 2026-07-06, antas som bildningsnämndens eget och överlämnas till
 
 **Reformorden**
 
-- Inga reformord i hela texten (39 sidor).
+- Inga reformord i hela texten (19 sidor).
+
+### Ärenden, handlingar & protokoll | Svalövs kommun – SBN 260819 pdf..pdfÖppnas i en ny flik
+
+https://www.svalov.se/download/18.3b9d50541a07ed627cb69788/1788943727410/SBN%20260819%20pdf..pdf
+
+Sidor: 27. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+Samhällsbyggnadsnämnden SAMMANTRÄDESPROTOKOLL 1(26)
+Sammanträdesdatum
+2026-08-19
+Plats och tid Kommunhuset, Svalöv, kl. 09.00-11.54
+Mötet ajournerades kl. 10.06-10.20
+Mötet ajournerades kl. 11.21-11.24
+Beslutande Sten Schmidt (SD) tjg ersättare för Mats Hannander (SD)
+Lorena Persson (S) tjg ersättare för Niklas Bohn (S)
+A Jörgen Persson (SD)
+Marie Irbladh (C)
+Stefan Pettersson (M), ordförande
+Lars Kristensson (KD)
+Mikael Persson (S)
+Ej tjänstgörande Conny Rundqvist (SD)
+ersättare Agneta Sörensson (M)
+Olof Lindgren (M)
+Katja Wennerlund (C)
+Insynsplatser
+Insynsplatser, Torbjörn Ekelund (L)
+ersättare
+Övriga deltagare Dennis Mårtensson, tf. samhällsbyggnadschef
+Sofia Tjernström, plan- och exploateringschef
+Ulrika Lassing, stabschef
+Matilda Mosvold, nämndsekreterare
+Joanna Ferenz, ekonom §§ 94–109
+Linda Bäcklin, trafikplanerare §§ 94–96
+Clara Ek, planarkitekt §§ 94–96
+Nellie Stenvall Stille, översiktsplanerare §§ 94–96
+Tobias Varga, planarkitekt §§ 94–96
+```
+
+**Rader om budget och 2027**
+
+- s. 3: § 109 Yttrande över remiss av Budget 2027 med plan 2028–2029 ................. 24
+- s. 3: § 109 Yttrande över remiss av Budget 2027 med plan 2028–2029
+- s. 24: § 109 Yttrande över remiss av Budget 2027 med plan
+- s. 24: 1. Yttrande över remiss av Budget 2027 med plan 2028–2029, daterat
+- s. 24: Kommunstyrelsen har skickat Budget 2027 med plan 2028–2029 på remiss till
+- s. 24: Yttrande över remiss av Budget 2027 med plan 2028–2029, daterat 2026-07-30
+- s. 24: Remissunderlag Budget 2027 med plan 2028–2029, daterat 2026-05-24
+- s. 24: KS 2026-06-01 § 139 Investeringsbudget 2027, med plan för 2028–2031
+- s. 24: Stefan Petterson (M): 1) Yttrande över remiss av Budget 2027 med plan 2028–
+
+**Beslut och förslag**
+
+- s. 24: Kommunstyrelsen har skickat Budget 2027 med plan 2028–2029 på remiss till
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (27 sidor).

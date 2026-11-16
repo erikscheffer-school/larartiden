@@ -2,9 +2,9 @@
 
 Webbplats: https://www.sjobo.se/
 Portal: eNämnd
-Hämtade dokument: 12, hämtfel: 0
+Hämtade dokument: 13, hämtfel: 0
 Mötessida: https://www.sjobo.se/kommun-och-politik/moten-handlingar-och-protokoll/samhallsbyggnadsnamnden.html?folder=19.377fdc5b19c47b07bf437e8&sv.url=12.54ed3751844c5615e41b812
-KF-möten: 2026-10-21, 2026-10-22, 2026-10-30, 2026-11-23; KS-möten: 2026-02-25
+KF-möten: 2026-10-21, 2026-10-22, 2026-10-30, 2026-11-23; KS-möten: 2026-02-25, 2026-11-04, 2026-11-11, 2026-12-03
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades i 3 sökningar (bara äldre rapporter och delårsrapporter).
 Luckor: Inga budget 2027-handlingar, KF-datum eller BUN-underlag hittades. Sjöbos mötesportal och budgetsida dök inte upp i sökträffarna. Behöver granskas på nytt via kommunens webbplats.
 

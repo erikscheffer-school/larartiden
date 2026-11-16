@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.ekero.se/download/18.643b07ac1a1c48676fee7f3/1794488972050/Anslag%20KFN%20261105.pdf",
+  "titel": "Sammanträdesdag: 2026-11-05 Protokollet omfattar: §§ 65-77 Datum för tillkännagivandet: 2026-11-12 Överklagas senast: 2026-12-05 Anslag pdf, 47.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "134fb6c6b6dd4fd93a769868ee82b067a103b81c3e51a175cb70b6435f610142",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 3,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.ekero.se/download/18.304d95f51a1cad3b06e407/1794406895144/Anslag%20KSAU%202026-11-09.pdf",
+  "titel": "Sammanträdesdag: 2026-11-09 Protokollet omfattar: §§ 143-152 Datum för tillkännagivandet: 2026-11-11 Överklagas senast: 2026-12-02 Anslag pdf, 39.8 kB",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "80c01c649cd555a709f01caf7237ded3a56987770d36b2cc8ec0559253437d59",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.ekero.se/download/18.455ec01b19f85d001ca8d176/1786354753180/Dagvattenutredning%20Stenhamra%20norra.pdf",
   "titel": "Rapport DAGVATTENUTREDNING FÖR STOCKBY 3:13 OCH 4:41 FÄRINGSÖ,",
   "typ": "pdf",

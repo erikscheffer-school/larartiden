@@ -2,7 +2,7 @@
 
 Webbplats: https://www.trollhattan.se/
 Portal: ingen känd
-Hämtade dokument: 1, hämtfel: 20
+Hämtade dokument: 1, hämtfel: 26
 Mötessida: https://www.trollhattan.se/startsida/kommun-och-politik/moten-handlingar-och-protokoll/
 KF-möten: 2026-09-13, 2026-10-05, 2026-11-06; KS-möten: 2026-02-25
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. MRP 2024–2027 med budget 2026 (KF 2025-11-05) nämner inte reformen, och inte heller utbildningsnämndens protokoll 2026-05-19.

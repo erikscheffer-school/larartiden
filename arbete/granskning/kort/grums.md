@@ -2,11 +2,68 @@
 
 Webbplats: https://www.grums.se/
 Portal: eNämnd
-Hämtade dokument: 47, hämtfel: 0
+Hämtade dokument: 62, hämtfel: 0
 Mötessida: https://www.grums.se/kommunpolitik/demokratiochpolitik/beslutochprotokoll/kommunfullmaktigesprotokoll.4675.html
 KF-möten: 2026-10-15, 2026-10-22, 2026-10-29, 2026-10-30, 2026-11-20; KS-möten: 2026-02-27, 2026-10-21, 2026-10-28, 2026-10-29, 2026-11-21
 Nuvarande sammanfattning: Sökningarna gav inga relevanta handlingar från Grums kommun.
 Luckor: Hittade varken budget 2027, KF-datum eller underlag från BUN (3 sökningar gjorda). grums.se:s dokument indexerades inte i sökresultaten. Revidering av driftbudget för 2027 stod på dagordningarna i oktober och november 2026; bara dagordningarna har hittats.
+
+### 12 november pdf, 175 kB, öppnas i nytt fönster.
+
+https://www.grums.se/download/18.17f2ae711a1a19c73c31d937/1794304334516/Kallelse%20KF%202026-11-12.pdf
+
+Sidor: 5. Budget 2027 enligt titeln: oklart.
+
+**Förstasidorna**
+
+```
+Sida
+KALLELSE 1(4)
+Datum
+2026-11-12
+Kommunfullmäktiges ledamöter
+Ersättare för kännedom
+Kommunfullmäktige kallas till sammanträde
+Plats: A-salen Gruvan
+Datum: 2026-11-12
+Tid: 09:00
+Förhinder anmäls till kommunstyrelse@grums.se
+Lokaler för gruppmöten bokas via kontaktcenter.
+Grums kommuns medverkan i val av ombud till Sveriges Kommuner
+och Regioners kongress 2027
+Föredragning & information
+09:00-09:15 Information angående fastställa driftbudget för verksamhetsår
+2027, Anna Bratt/Erica Andrén
+Ärende
+1. Val av justerare
+2. Avsägelse av uppdrag som ersättare i kommunfullmäktige, Peter
+Öhman (SD)
+Dnr GKS/2026:844
+3. Avsägelse av politiskt uppdrag som nämndeman i Värmlands
+Tingsrätt, Ulrika Jacobs (M)
+Dnr GKS/2026:880
+4. Avsägelse av uppdrag som ersättare i beredningsgruppen för
+Grumsinitiativ, Matti Nordenström (MP)
+Dnr GKS/2026:799
+5. Valteknisk samverkan 2027-2030
+Dnr GKS/2026:753
+```
+
+**Rader om budget och 2027**
+
+- s. 1: 6. Revidering investeringsbudget 2027, plan 2028-2030
+- s. 2: 9. Fastställa driftbudget för verksamhetsåret 2027
+
+**Beslut och förslag**
+
+- s. 2: 9. Fastställa driftbudget för verksamhetsåret 2027
+
+**Skola och utbildning (rader med belopp)**
+
+
+**Reformorden**
+
+- Inga reformord i hela texten (5 sidor).
 
 ### 3 juni pdf, 175.5 kB, öppnas i nytt fönster.
 

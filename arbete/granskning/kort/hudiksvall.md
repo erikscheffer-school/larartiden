@@ -2,7 +2,7 @@
 
 Webbplats: https://www.hudiksvall.se/
 Portal: eNämnd
-Hämtade dokument: 23, hämtfel: 0
+Hämtade dokument: 27, hämtfel: 0
 Mötessida: https://hudiksvall.se/Sidor/Kommun-och-politik/Moten-handlingar-och-protokoll/Kallelser/Kallelse-till-kommunfullmaktige.html
 KF-möten: 2026-02-23, 2026-03-30, 2026-04-27, 2026-05-25, 2026-06-15, 2026-09-28, 2026-10-19; KS-möten: 2026-02-10, 2026-03-10, 2026-04-14, 2026-05-12, 2026-06-02, 2026-09-08, 2026-10-06, 2026-11-10
 Nuvarande sammanfattning: Kommunens budgetsida visar bara 'Budget 2026 plan 2027-2029', som inte nämner reformen. Där har Lärandenämnden en planerad nettoram 2027 på -1 112,9 mnkr. Enligt kommunens processbeskrivning beslutar KF budgeten i juni, så budget 2027 beslutades sannolikt i juni 2026, men det är inte verifierat.

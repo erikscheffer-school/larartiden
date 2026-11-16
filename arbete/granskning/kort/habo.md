@@ -2,7 +2,7 @@
 
 Webbplats: https://www.habo.se/
 Portal: Politikerportal, eNämnd
-Hämtade dokument: 29, hämtfel: 0
+Hämtade dokument: 38, hämtfel: 1
 Mötessida: https://www.habo.se/kommun-och-politik/moten-kallelser-och-protokoll/kommunfullmaktige.html
 KF-möten: 2026-04-06, 2026-04-13, 2026-05-04, 2026-05-11, 2026-06-08, 2026-08-31, 2026-09-07, 2026-10-08, 2026-10-12, 2026-10-15, 2026-11-23, 2026-12-14; KS-möten: okända
 Nuvarande sammanfattning: I BUN:s kallelse 2026-04-21 finns punkten 'Diskussion om budget 2027 och ram 2028 - 2029', men inget underlag bifogas och reformen nämns inte. Inget KS/KF-förslag eller beslut för budget 2027 hittades.
@@ -19,4 +19,4 @@ Senast daterade hämtade dokument:
 - Protokoll KF 2026-09-07, huvudprotokoll, justerat.pdf Pdf, 21.1 MB. – https://www.habo.se/download/18.2b0494b01a0a355bf7c61d3/1789480393391/Protokoll%20KF%202026-09-07,%20huvudprotokoll,%20justerat.pdf
 - Protokoll KF 2026-06-15 §§ 69 - 72, samtliga justerare.pdf Pdf, 3.3 MB. – https://www.habo.se/download/18.31c4036519ed462297c71f/1782234497745/Protokoll%20KF%202026-06-15%20%C2%A7%C2%A7%2069%20-%2072,%20samtliga%20justerare.pdf
 - Kallelse för kommunfullmäktige den 2026-05-11.pdf Pdf, 342 kB, öppnas i nytt fönster. – https://www.habo.se/download/18.37014ff19dd248e44a5bc20/1777906715388/Kallelse%20f%C3%B6r%20kommunfullm%C3%A4ktige%20den%202026-05-11.pdf
-- Protokolll LN 15 oktober 2026 pdf, 891.2 kB. – https://www.habo.se/download/18.1d1d586d1a157ba1ad011122/1792587278611/Protokoll%20LN%2015%20oktober%202026.pades.pdf
+- Protokoll LN 2026-04-23 §§ 6 - 15, justerat pdf, 1.6 MB. – https://www.habo.se/download/18.7c63381c19dd26d10f574ad3/1778063450225/Protokoll%20LN%2023%20april%202026%20%C2%A7%C2%A7%206-15,%20digitalt%20signerat.pdf

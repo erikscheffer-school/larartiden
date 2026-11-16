@@ -1,8 +1,8 @@
 # Nybro (Kalmar län)
 
 Webbplats: https://www.nybro.se/
-Portal: Public 360 OpenGov
-Hämtade dokument: 23, hämtfel: 8
+Portal: ingen känd
+Hämtade dokument: 23, hämtfel: 23
 Mötessida: https://nybro.se/kommun-politik/politik/anslagstavlan/
 KF-möten: 2026-10-19; KS-möten: okända
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Ett remissvar på regeringen.se gällde energiplanering och inte SOU 2025:26, och Nybro var inte remissinstans för SOU 2025:26.

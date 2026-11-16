@@ -1,5 +1,149 @@
 [
  {
+  "url": "https://www.upplands-bro.se/download/18.65fe4a2e1a1a1954c0d5302/1794227491614/Kallelse%20KPR%202026-11-16.pdf",
+  "titel": "Dagordning\npdf, 133.9 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "00504fc55dd0dd8f84393566a0afd04f498e5551ba84cf178814fcd7e4eec099",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.65fe4a2e1a1a1954c0d52fd/1794227404384/Kallelse%20KAFR%202026-11-12.pdf",
+  "titel": "Dagordning\npdf, 133.6 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "dec4a11b19df663b508b7f7531d9ba0e9539575a8be9aab1bd5c316674ac1635",
+  "sökning": 7,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 2,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.3909a8561821a025e873f0/1658320352956/Budgetf%C3%B6rslag,%203%20st%20i%20samma%20fil.pdf",
+  "titel": "Budgetförslag pdf, 2.8 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "7ad10a45b686068bc4129d199152643bc489e483cfafc70a9900f997c9981b68",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 138,
+  "nämner_reformen": true,
+  "ord": [
+   "lärartäthet"
+  ],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 129,
+    "ord": "lärartäthet",
+    "reform": true,
+    "utdrag": "Sverigedemokraterna vill satsa på kommunens gymnasieskola med fyra målsättningar: Skolan ska satsa på kunskap. Kunskapsskolan Singaporemodellen Målet är högre lärartäthet. Målet är friskare lärare som trivs och stannar på sina jobb. Målet är att stoppa lärarflykten som skapar otrygghet i skolan. Målet är en bättre skolmiljö. Med",
+    "belopp_nara": false
+   },
+   {
+    "sida": 134,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "ommunens grund- och förskolor. Skolorna i kommunen behöver ytterligare resurser för att bygga en skola med ännu högre kvalité och trygghet. Skolan behöver ökad lärartäthet, lägre lärarflykt och fler kvalificerade lärare. Vilket kräver ökade resurser. Sverigedemokraterna vill satsa på kommunens grundskolor med fyra målsättningar:",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 3
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.3909a8561821a025e873fe/1658320377380/Protokoll%20%20Kommunfullm%C3%A4ktige%202020-11-11%20utan%20signering.pdf",
+  "titel": "Protokoll pdf, 480.7 kB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "e49cca0a7189b0b8f499eb3f048dc2f82a735208a45a6a286c300773418856d1",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 47,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.3909a8561821a025e873f9/1658320377195/Budget%202021%20antagen%20av%20Kommunfullm%C3%A4ktige%202020-11-11%20-%20%C3%96vergripande%20m%C3%A5l%20och%20budget.pdf",
+  "titel": "Antagen budget för 2021 pdf, 2 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "9f191c6b0a3dc1747c0534e0cf8bff5af7c5eb323036df308270b84f2af9fe72",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 55,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.7d75d37818388c7e03c81c1/1665400804048/Kallelse%20Kommunfullma%CC%88ktige%202019-11-27.pdf",
+  "titel": "27 november 2019Beslut om budget 2020Kallelse pdf, 260 kB.Handlingar pdf, 21.7 MB, öppnas i nytt fönster.Budgetförslag pdf, 2.4 MB, öppnas i nytt föns",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "5c5e76a370337851adea3f523c430932d027fc23c50bc148fa85121da0746b4c",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 7,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.upplands-bro.se/download/18.3909a8561821a025e87411/1658321326386/Antagen%20budget%20och%20budgetf%C3%B6rslag%202020.pdf",
+  "titel": "Budgetförslag pdf, 2.4 MB, öppnas i nytt fönster.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "20ccfd92bfccf29a00d7261af75e36057df69879610421e9bad3d678256c71d8",
+  "sökning": 3,
+  "kommunnamn_i_text": true,
+  "budget2027": false,
+  "sidor": 83,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 77,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "la för kommunens barn och ungdomar. Skolorna i kommunen behöver ytterligare resurser för att bygga en skola med högre kvalité och trygghet. Skolan behöver ökat lärartäthet, lägre lärarflykt och fler kvalificerade lärare. Vilket kräver ökade resurser. Sverigedemokraterna vill satsa på kommunens grund- och gymnasieskolor med fyra",
+    "belopp_nara": false
+   },
+   {
+    "sida": 78,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "Målet är att vända den negativa utvecklingen i Lärarförbundets mätning ”Bästa skolkommun”. Målet är högre lärartäthet i grundskola och gymnasieskola. Målet är friskare lärare som trivs och stannar på sina jobb. Målet är att stoppa lärarflykten som skapar otrygghet i skolan. Ko",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 2
+ },
+ {
   "url": "https://www.upplands-bro.se/download/18.3eccaa1e184b9206ce76f22/1670843587573/Budgetf%C3%B6rslag%202023.pdf",
   "titel": "Budgetförslag pdf, 15 MB.",
   "typ": "pdf",

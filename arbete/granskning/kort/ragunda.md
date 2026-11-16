@@ -2,7 +2,7 @@
 
 Webbplats: https://www.ragunda.se/
 Portal: Formpipe Platina
-Hämtade dokument: 6, hämtfel: 9
+Hämtade dokument: 6, hämtfel: 13
 Mötessida: https://ragundakommun.ondemand.formpipe.com/committees/kommunstyrelsen/kommunstyrelsen-45883
 KF-möten: okända; KS-möten: 2026-11-10
 Nuvarande sammanfattning: Inga budgethandlingar för 2027 hittades. Sökningarna gav bara Budget 2025 och äldre årsredovisningar.

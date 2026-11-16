@@ -1,5 +1,43 @@
 [
  {
+  "url": "https://www.kristianstad.se/download/18.76fac6e918b8b198fe026e88/1794323899941/Dokumenthanteringsplan%20f%C3%B6r%20barn-%20och%20utbildningsn%C3%A4mnden.pdf",
+  "titel": "Dokumenthanteringsplan för barn- och utbildningsnämnden.pdf Pdf, 984.3 kB.",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "fd8b33a3d8194bdcb6d070281428da9a3d56e97cdb1c9696c4a8b16b6bd1ddc1",
+  "sökning": 3,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 120,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [
+   {
+    "sida": 45,
+    "ord": "statsbidrag",
+    "reform": false,
+    "utdrag": "g, specialpedagogiska skolmyndig- heten SPSM, statsbidrag från Skolver- ket. Innehåller information, an",
+    "belopp_nara": false
+   },
+   {
+    "sida": 78,
+    "ord": "lärartäthet",
+    "reform": false,
+    "utdrag": "Bevaras 3 3 3 Underlag och intyg 7.1.2 Planera utbildning Planera lokaler, kurser, schemaläggning av lärare, lärartäthet, läsårstider m.m. Läsårstider Evolution Bevaras 0 2 3 Gäller både l",
+    "belopp_nara": false
+   },
+   {
+    "sida": 91,
+    "ord": "undervisningstid",
+    "reform": false,
+    "utdrag": "att slutföra skolgången, fördelningsbar undervisningstid (Skol- förordningen 10 kap 10§)",
+    "belopp_nara": false
+   }
+  ],
+  "antal_träffar": 4
+ },
+ {
   "url": "https://www.kristianstad.se/download/18.4fe8405b1a13049caa6409a4/1792484318282/%C3%96stra%20Sk%C3%A5nes%20Hj%C3%A4lpmedelsn%C3%A4mnds%20protokoll%202026-10-07.pdf",
   "titel": "Östra Skånes Hjälpmedelsnämnds protokoll 2026-10-07.pdf\nPdf, 1 MB.",
   "typ": "pdf",

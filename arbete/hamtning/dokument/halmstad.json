@@ -1,5 +1,37 @@
 [
  {
+  "url": "https://www.halmstad.se/download/18.788b0f641a1c28c6c2717a4c/1794322482944/261110-ksu-protokoll-gdpr.pdf",
+  "titel": "261110-ksu-protokoll-gdpr.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "3f9f4083446b2e5ff85617cc0ca87ac29ec4678b4df74c00d20b5e6b0e1f2780",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 25,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
+  "url": "https://www.halmstad.se/download/18.1343fa131a1c3004d072c8ee/1794381123794/261110-kplu-protokoll-gdpr.pdf",
+  "titel": "261110-kplu-protokoll-gdpr.pdf",
+  "typ": "pdf",
+  "hämtad": "2026-11-16",
+  "sha256": "f28308826a755295ebee35148356b0902a6d7a4c5c05744ef21e1031f1472b6e",
+  "sökning": 7,
+  "kommunnamn_i_text": false,
+  "budget2027": false,
+  "sidor": 27,
+  "nämner_reformen": false,
+  "ord": [],
+  "belopp_nära_träff": false,
+  "träffar": [],
+  "antal_träffar": 0
+ },
+ {
   "url": "https://www.halmstad.se/download/18.1b3f5a361a17ea37bae4e7a3/1793278583473/261103-ks-handlingar-gdpr.pdf",
   "titel": "261103-ks-handlingar-gdpr.pdf",
   "typ": "pdf",

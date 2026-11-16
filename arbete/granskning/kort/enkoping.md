@@ -4,7 +4,7 @@ Webbplats: https://www.enkoping.se/
 Portal: ingen känd
 Hämtade dokument: 9, hämtfel: 2
 Mötessida: https://politik.enkoping.se/
-KF-möten: okända; KS-möten: 2026-11-10
+KF-möten: 2026-12-08, 2027-02-09, 2027-03-09, 2027-04-20, 2027-05-18, 2027-06-22; KS-möten: 2027-01-26, 2027-02-09, 2027-02-23, 2027-03-23, 2027-04-06, 2027-04-20, 2027-05-04, 2027-05-25, 2027-06-08, 2027-09-07, 2027-09-21, 2027-10-05
 Nuvarande sammanfattning: Tre nya sökningar hittade inga handlingar för budget 2027, bara äldre årsplaner. KF:s årsplan för budget 2026 med plan 2027–2028 nämner inte reformen. Enligt årsplanen fattar KF budgetbeslut i november, så beslutet bör komma i november 2026, men datumet är inte verifierat.
 Luckor: Sökningarna gav inga handlingar för budget 2027: varken KS-förslag, utbildningsnämndens underlag eller kallelse till KF i november 2026. Startsidan enkoping.se gick inte att hämta (inte på listan över tillåtna URL:er). Det exakta KF-datumet i november 2026 är okänt.
 

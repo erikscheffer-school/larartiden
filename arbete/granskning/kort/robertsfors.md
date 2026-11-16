@@ -2,9 +2,9 @@
 
 Webbplats: https://www.robertsfors.se/
 Portal: Ciceron
-Hämtade dokument: 41, hämtfel: 0
+Hämtade dokument: 56, hämtfel: 0
 Mötessida: https://www.robertsfors.se/kommunochpolitik/politikochsammantraden/centralasamverkansgruppen.1947.html
-KF-möten: 2026-11-05; KS-möten: 2026-11-06
+KF-möten: 2026-11-05, 2026-11-13; KS-möten: 2026-11-06
 Nuvarande sammanfattning: Inga handlingar för budget 2027 hittades. Träffarna gällde bara äldre dokument: Plan och budget 2023–2025 och verksamhetsplan 2024.
 Luckor: Tre sökningar gav inga KF-protokoll eller budgethandlingar för 2027. Inget relevant har granskats.
 
